@@ -1581,7 +1581,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
         <source>Abort</source>
-        <translation type="unfinished">Přerušit</translation>
+        <translation>Přerušit</translation>
     </message>
 </context>
 <context>
@@ -1704,95 +1704,95 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat balíček do souboru ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Prostý text</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished">Vlastní</translation>
+        <translation>Vlastní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Šablona</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Volitelné informace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished">Verze</translation>
+        <translation>Verze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoři</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formát</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Výsledek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toto závisí na metadatech modů. Chcete-li se ujistit, že je k dispozici, spusťte aktualizaci instance. Instalace aktualizací není nutná.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished">Kopírovat</translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">Exportovat %1</translation>
+        <translation>Exportovat %1</translation>
     </message>
 </context>
 <context>
@@ -2582,7 +2582,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="65"/>
         <source>Game Options</source>
-        <translation>Nastavení</translation>
+        <translation>Nastavení hry</translation>
     </message>
 </context>
 <context>
@@ -3234,17 +3234,17 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení mod loaderu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="559"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat maják Quilt Loaderu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakáže maják Quilt loaderu pro počítání měsíčních aktivních uživatelů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="639"/>
@@ -4697,27 +4697,27 @@ Důvod:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="437"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Složka neexistuje</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="440"/>
         <source>Could not create file</source>
-        <translation type="unfinished">Nepodařilo se vytvořit soubor</translation>
+        <translation>Nepodařilo se vytvořit soubor</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="448"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vytvořit:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="469"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished">Nepodařilo se přečíst a zkomprimovat %1</translation>
+        <translation>Nepodařilo se přečíst a zkomprimovat %1</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="475"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished">Vyskytla se chyba zipu</translation>
+        <translation>Vyskytla se chyba souboru zip</translation>
     </message>
 </context>
 <context>
@@ -5136,7 +5136,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Mod List</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam modů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
@@ -6028,17 +6028,17 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení mod loaderu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat maják Quilt Loaderu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="205"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakáže maják Quilt loaderu pro počítání měsíčních aktivních uživatelů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
@@ -8631,7 +8631,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Neseskupené</translation>
     </message>
 </context>
 <context>
