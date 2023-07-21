@@ -405,7 +405,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nežinoma</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
@@ -1303,7 +1303,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Komanda prieš paleidimą vykdoma prieš paleidžiant egzempliorių, o komanda po išėjimo vykdoma jam išėjus.&lt;/p&gt;&lt;p&gt;Abu bus vykdomi paleidimo priemonės darbiniame aplanke su papildomais aplinkos kintamaisiais:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME – egzemplioriaus pavadinimas&lt;/li&gt;&lt;li&gt;$INST_ID – egzemplioriaus kelias&lt;/li&gt;&gt; absoliutusis egzemplioriaus pavadinimas (jo aplankas)&lt;/li&gt;. INST_MC_DIR – absoliutus Minecraft kelias&lt;/li&gt;&lt;li&gt;$INST_JAVA – paleidimui naudojamas „Java“ dvejetainis failas&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS – paleidimui naudojami komandų eilutės parametrai (įspėjimas: neveiks tinkamai, jei argumentuose yra tarpų)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Komanda „Wrapper“ leidžia paleisti naudojant papildomą įpakavimo programą (pvz., „Linux“/opp&gt;)&lt;/html&gt;&lt;p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1339,12 +1339,12 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished">Beta</translation>
+        <translation>Betos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished">Alpha</translation>
+        <translation>Alfa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
@@ -1360,22 +1360,22 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifikacijos įkroviklis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nė vienas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalvė</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabrikas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
@@ -1390,22 +1390,22 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="60"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinktinis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft versija nepasirinkta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifikacijos kroviklis nepasirinktas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Šiuo metu nėra galimų versijų Minecraft%1</translation>
+        <translation>Šiuo metu nėra Minecraft %1 versijų</translation>
     </message>
 </context>
 <context>
@@ -1612,7 +1612,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="14"/>
         <source>Export Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksporto paketas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
@@ -1663,7 +1663,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Užduotis buvo nutraukta vartotojo.</translation>
+        <translation>Vartotojas nutraukė užduotį.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
@@ -1676,7 +1676,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuokite paketą į ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -1686,42 +1686,42 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Užsirašyk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Paprastas tekstas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinktinis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Šablonas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirenkama informacija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
@@ -1733,33 +1733,33 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultatas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tai priklauso nuo modifikacijų metaduomenų. Norėdami įsitikinti, kad jis pasiekiamas, paleiskite egzemplioriaus naujinimą. Atnaujinimų diegti nebūtina.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
@@ -1812,7 +1812,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished">Išjungti</translation>
+        <translation>&amp;Išjungti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -1847,7 +1847,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikrinti, ar yra atnaujinimų</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -1858,12 +1858,12 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="165"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation>Apsilankykite mod puslapyje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Eikite į pagrindinį modų puslapį</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -1906,12 +1906,12 @@ Ar tu tuo tikras?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (% 1 įdiegta, % 2 pasirinkta)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="324"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (% 1 įdiegta)</translation>
     </message>
 </context>
 <context>
@@ -1932,7 +1932,7 @@ Ar tu tuo tikras?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">Teksto redaktorius:</translation>
+        <translation>&amp;Teksto redaktorius:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -2146,80 +2146,82 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="117"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (versija % 1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="242"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nėra indekso failo.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="243"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko rasti tinkamo indekso failo senesnei versijai. Dėl to kai kurie failai gali būti dubliuoti. Ar norite tęsti?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="291"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko pervardyti nepaisymo aplanko:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation>Trūksta nurodyto nepaisymo aplanko (%1). Galbūt modpack jau buvo naudojamas anksčiau?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="315"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nežinoma modifikavimo programa apraše: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="326"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuojant paketą iš Minecraft versijos buvo pašalinti paslaptingi taškai.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko susieti rekomenduojamos Forge versijos Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="384"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko išspręsti mod ID:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="437"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasta užblokuotų modifikacijų</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="438"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod Parsisiųsti Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="506"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">Įdiegta %1 iš %2</translation>
+        <translation>%1 iš %2 baigtas</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuojamos užblokuotos modifikacijos...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="533"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuojamos užblokuotos modifikacijos (% 1 iš % 2 atlikta)</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -2228,22 +2230,22 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="472"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Šį &apos;aplanką&apos; gali reikėti išskleisti: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="486"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifikacijų paketų įdėjimas į modpacks neįdiegtas, nieko neatsisiųsta: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="491"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Neatpažintas / netvarkomas paketo tipas, skirtas: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="512"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modifikacijas atsisiuntimas...</translation>
+        <translation>Atsisiunčiamos modifikacijos...</translation>
     </message>
 </context>
 <context>
@@ -2256,7 +2258,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="415"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 (dabartinis)</translation>
     </message>
 </context>
 <context>
@@ -2284,12 +2286,12 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="60"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieškoma failų...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="91"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko ieškoti failų</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="108"/>
@@ -2580,7 +2582,7 @@ Bandykite dar kartą.</translation>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation>Pasirinkite piktogramą</translation>
+        <translation>Pasirinkite piktogramas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
@@ -2934,7 +2936,7 @@ Bandykite dar kartą.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Rodyti konsolę kol įjungtas žaidimas?</translation>
+        <translation>Rodyti konsolę žaidimui veikiant</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
@@ -2946,7 +2948,7 @@ Bandykite dar kartą.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Rodyti konsolę kai žaidimas užlūžta?</translation>
+        <translation>Rodyti konsolę, kai žaidimas užstringa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -3796,7 +3798,7 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Rodyti konsolę kol įjungtas žaidimas?</translation>
+        <translation>Rodyti konsolę, kol žaidimas veikia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
@@ -3808,7 +3810,7 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">Rodyti konsolę kai žaidimas užlūžta?</translation>
+        <translation>Rodyti konsolę, kai žaidimas užstringa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
