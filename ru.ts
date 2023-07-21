@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Сервис &amp;Pastebin</translation>
+        <translation>&amp;Сервис Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -39,23 +39,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Примечание: вероятно, вы захотите изменить или очистить URL после изменения сервиса вставки.</translation>
+        <translation>Примечание: вероятно, после изменения сервиса необходимо изменить или очистить базовый URL.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>Ключи API</translation>
+        <translation>API Ключи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>Аутентификация &amp;Microsoft</translation>
+        <translation>&amp;Microsoft Аутентификация</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Примечание: вам, скорее всего, не нужно изменять это, если вход в аккаунт Microsoft уже работает.</translation>
+        <translation>Примечание: скорее всего, вам не нужно устанавливать этот параметр, если вход в систему через Microsoft Authentication уже работает.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -67,22 +67,22 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Введите здесь свой client ID для аутентификации Microsoft.</translation>
+        <translation>Введите здесь Client ID для Microsoft Аутентификации.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;API Modrinth</translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: нужно это только для того, чтобы получить доступ к приватному контенту. Прочитайте &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;документацию&lt;/a&gt; для большей информации.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: этот параметр необходимо устанавливать только для доступа к приватным данным. Прочитайте &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;документацию&lt;/a&gt; для большей информации.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Вставьте сюда свой API токен для Modrinth.</translation>
+        <translation>Введите сюда свой API токен для Modrinth.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -107,33 +107,33 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Сер&amp;вер метаданных</translation>
+        <translation>Сервер мета&amp;данных</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Вы можете вписать сторонний сервер метаданных для использования пропатченных библиотек или других хаков.</translation>
+        <translation>Вы можете установить этот параметр для стороннего сервера метаданных, чтобы использовать исправленные библиотеки или другие хаки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Введите URL метаданных.</translation>
+        <translation>Введите здесь свой URL метаданных.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;API ядра CurseForge</translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Примечание: вам, скорее всего, не нужно изменять это, если CurseForge уже работает.</translation>
+        <translation>Примечание: если CurseForge уже работает, то задавать этот параметр, скорее всего, не нужно.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Введите Ваш API Ключ CurseForge здесь.</translation>
+        <translation>Введите ваш API ключ для CurseForge здесь.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -281,7 +281,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Неофициальный лаунчер, облегчающий управление Minecraft, позволяя иметь сразу несколько сборок игры одновременно.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Неофициальный лаунчер, облегчающий управление Minecraft, позволяя иметь сразу несколько экземпляров игры одновременно.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -1605,7 +1605,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -1728,95 +1728,95 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт модпака в ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Обычный текст</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательский</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Необязательная информация</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это зависит от метаданных мода. Чтобы убедиться в их наличии, запустите обновление на экземпляре. Установка обновлений не обязательна.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished">Копировать</translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">Экспорт %1</translation>
+        <translation>Экспорт %1</translation>
     </message>
 </context>
 <context>
@@ -3283,17 +3283,17 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки загрузчика</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="559"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить маячок загрузчика Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключение маячка загрузчика Quilt для подсчета ежемесячных активных пользователей</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="639"/>
@@ -4754,27 +4754,27 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="437"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка не существует</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="440"/>
         <source>Could not create file</source>
-        <translation type="unfinished">Не удалось создать файл</translation>
+        <translation>Не удалось создать файл</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="448"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось создать:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="469"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished">Не удалось прочитать и сжать %1</translation>
+        <translation>Не удалось прочитать и сжать %1</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="475"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished">Произошла ошибка zip</translation>
+        <translation>Произошла zip ошибка</translation>
     </message>
 </context>
 <context>
@@ -5198,7 +5198,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Mod List</source>
-        <translation type="unfinished"></translation>
+        <translation>Список модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
@@ -6102,17 +6102,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки загрузчика</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить маячок загрузчика Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="205"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключение маячка загрузчика Quilt для подсчета ежемесячных активных пользователей</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
@@ -8745,7 +8745,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Без группы</translation>
     </message>
 </context>
 <context>
