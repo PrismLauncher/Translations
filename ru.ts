@@ -2241,17 +2241,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Не удалось получить локальный индекс метаданных для %1</translation>
+        <translation>Не удалось получить локальный индекс метаданных для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Не удалось найти версию для загрузчика %1</translation>
+        <translation>Не удалось найти версию для %1 загрузчика</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="301"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Для сборки не выбрана версия загрузчика!</translation>
+        <translation>Для сборки не выбрана версия загрузчика!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="337"/>
