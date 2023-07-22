@@ -2217,17 +2217,17 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Nepodařilo se získat index lokálních metadat pro %1</translation>
+        <translation>Nepodařilo se získat index lokálních metadat pro %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Nepodařilo se najít verzi pro %1 loader</translation>
+        <translation>Nepodařilo se najít verzi pro loader %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="301"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Není nastavena žádná verze pro modpack!</translation>
+        <translation>Není nastavena žádná verze pro modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="337"/>
