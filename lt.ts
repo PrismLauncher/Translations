@@ -5681,7 +5681,7 @@ Ar jūs norite tęsti?</numerusform>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="98"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nežinoma</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="111"/>
@@ -5814,7 +5814,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Apsilankykite mod puslapyje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="108"/>
@@ -6149,23 +6149,24 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="57"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (versija % 1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nėra indekso failo.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="138"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepavyko rasti tinkamo indekso failo senesnei versijai. Dėl to kai kurie failai gali būti dubliuoti. Ar norite tęsti?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="182"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepavyko pervardyti nepaisymo aplanko:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="195"/>
@@ -6224,7 +6225,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="268"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">% 1 (dabartinis)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="280"/>
@@ -6237,12 +6238,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ieškoma failų...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="82"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepavyko ieškoti failų</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="98"/>
@@ -7481,7 +7482,7 @@ PASTABA: Prieš atnaujindami įsitikinkite, kad padarėte svarbių egzempliorių
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pasirinktinis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="183"/>
@@ -9626,7 +9627,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopijuoti</translation>
     </message>
     <message>
         <source>Remove</source>
