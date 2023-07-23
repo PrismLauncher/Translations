@@ -179,7 +179,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>No loader version set for modpack!</source>
-        <translation>整合包没有设置模组加载器版本！</translation>
+        <translation>没有设置整合包的模组加载器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="536"/>
@@ -1151,7 +1151,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>禁用此功能将仍然保留模组加载器（如 Fabric 、Quilt 等），但会删除模组文件夹及配置。</translation>
+        <translation>禁用此功能将仍然保留模组加载器（如 Fabric 、Quilt 等），但会删除模组文件夹及模组配置文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -2176,7 +2176,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未找到该模组的有效版本。可能在目前的游戏版本或模组加载器中还不可用。</translation>
+        <translation>未找到该模组的有效版本。可能在目前的游戏版本或模组加载器中还没有可用版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
@@ -2237,17 +2237,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">无法获取 %1 的本地元数据索引</translation>
+        <translation>无法获取 %1 的本地元数据索引</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">无法找到 %1 加载器的合适版本</translation>
+        <translation>无法找到 %1 加载器的合适版本</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="301"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">整合包没有设置模组加载器版本！</translation>
+        <translation>没有设置整合包的模组加载器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="337"/>
@@ -7011,7 +7011,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="105"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未获取到该模组的可用版本。可能在目前游戏版本/模组加载器中还不可用。</translation>
+        <translation>未获取到该模组的可用版本。可能还没有适用于目前游戏版本和模组加载器的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="135"/>
