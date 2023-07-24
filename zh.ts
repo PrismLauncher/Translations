@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Pastebin 服务（&amp;P）</translation>
+        <translation>Pastebin 服务(&amp;P)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,7 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Pastebin 服务类型（&amp;T）</translation>
+        <translation>Pastebin 服务类型(&amp;T)</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -30,7 +30,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>根网址（&amp;U）</translation>
+        <translation>根网址(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -46,7 +46,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>微软身份验证（&amp;M）</translation>
+        <translation>微软身份验证(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -68,7 +68,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>Modrinth API（&amp;M）</translation>
+        <translation>Modrinth API(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -103,7 +103,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>元数据服务器（&amp;D）</translation>
+        <translation>元数据服务器(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -118,7 +118,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>CurseForge 核心 API（&amp;C）</translation>
+        <translation>CurseForge 核心 API(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
@@ -514,37 +514,37 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation>添加 Mojang 账户（&amp;M）</translation>
+        <translation>添加 Mojang 账户(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>移除（&amp;V）</translation>
+        <translation>移除(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>设为默认账号（&amp;S）</translation>
+        <translation>设为默认账号(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>不设置默认账号（&amp;N）</translation>
+        <translation>不设置默认账号(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation>上传皮肤（&amp;U）</translation>
+        <translation>上传新皮肤(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation>删除皮肤（&amp;D）</translation>
+        <translation>删除原皮肤(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -555,19 +555,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>添加微软账户（&amp;A）</translation>
+        <translation>添加微软账户(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>添加离线账户（&amp;O）</translation>
+        <translation>添加离线账户(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>刷新（&amp;R）</translation>
+        <translation>刷新(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -1103,7 +1103,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="286"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>正在执行 %1 个任务（已完成 %3 个任务中的 %2 个）</translation>
+        <translation>正在执行 %1 个任务(已完成 %2/%3)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="290"/>
@@ -1141,7 +1141,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation>组（&amp;G）</translation>
+        <translation>分组(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
@@ -1242,7 +1242,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation>写时拷贝（Copy-on-Write）选项</translation>
+        <translation>写时复制（Copy-on-Write）选项</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
@@ -1327,25 +1327,25 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>自定义命令（&amp;C）</translation>
+        <translation>自定义命令(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>退出后命令（&amp;O）：</translation>
+        <translation>退出后命令(&amp;O)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>预启动命令（&amp;P）：</translation>
+        <translation>预启动命令(&amp;P)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>包装器命令（&amp;W）：</translation>
+        <translation>包装器命令(&amp;W)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -1830,7 +1830,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>&amp;Add</source>
-        <translation>添加（&amp;A）</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
@@ -1840,7 +1840,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation>删除（&amp;R）</translation>
+        <translation>删除(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
@@ -1850,7 +1850,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>&amp;Enable</source>
-        <translation>启用（&amp;E）</translation>
+        <translation>启用(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -1860,7 +1860,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>&amp;Disable</source>
-        <translation>禁用（&amp;D）</translation>
+        <translation>禁用(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -1870,7 +1870,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>View &amp;Configs</source>
-        <translation>查看配置（&amp;C）</translation>
+        <translation>查看配置文件夹(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
@@ -1880,12 +1880,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
         <source>View &amp;Folder</source>
-        <translation>查看文件夹（&amp;F）</translation>
+        <translation>查看文件夹(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>&amp;Download</source>
-        <translation>下载（&amp;D）</translation>
+        <translation>下载(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="146"/>
@@ -1895,13 +1895,13 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Check for &amp;Updates</source>
-        <translation>检查更新（&amp;U）</translation>
+        <translation>检查更新(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>尝试检查或更新所有选定的资源（未选择任何资源将检查全部资源）</translation>
+        <translation>尝试检查并更新所有选定的资源（默认检查所有）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="165"/>
@@ -1954,12 +1954,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> （已安装%1，共选中%2）</translation>
+        <translation> （%1/%2）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="324"/>
         <source> (%1 installed)</source>
-        <translation> （已安装%1）</translation>
+        <translation> （已安装 %1）</translation>
     </message>
 </context>
 <context>
@@ -1974,13 +1974,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation>外部编辑器（留空则使用系统默认编辑器）</translation>
+        <translation>外部编辑器（默认使用系统默认编辑器）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>文本编辑器（&amp;T）：</translation>
+        <translation>文本编辑器(&amp;T)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -2259,7 +2259,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="342"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>未找到指定的覆盖目录（%1）。或许这个整合包之前已经用过了？</translation>
+        <translation>未找到指定覆盖的目录（%1）。或许这个整合包之前已经用过了？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="365"/>
@@ -2311,7 +2311,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="579"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>正在复制被屏蔽的模组（已完成 %2 中的 %1 个任务）</translation>
+        <translation>正在复制被屏蔽的模组（%1/%2）</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -2753,29 +2753,29 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>被支持的文件类型如下（包括本地文件和远程 URL）：</translation>
+        <translation>支持的文件类型如下（包括本地文件和远程 URL）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation>- CurseForge 整合包（Zip）</translation>
+        <translation>- CurseForge 整合包（.zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth 整合包（Zip 及 Mrpack）</translation>
+        <translation>- Modrinth 整合包（.zip 及 .mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Launcher、PolyMC 或 MultiMC 导出的实例（Zip）</translation>
+        <translation>- Prism Launcher、PolyMC 或 MultiMC 导出的实例（.zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technic 整合包（Zip）</translation>
+        <translation>- Technic 整合包（.zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -2867,12 +2867,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
-        <translation>名称（&amp;N）：</translation>
+        <translation>名称(&amp;N)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation>组（&amp;G）：</translation>
+        <translation>分组(&amp;G)：</translation>
     </message>
 </context>
 <context>
@@ -3111,7 +3111,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
         <source>Java insta&amp;llation</source>
-        <translation>Java 路径（&amp;L）</translation>
+        <translation>Java 路径(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
@@ -3141,7 +3141,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
         <source>Memor&amp;y</source>
-        <translation>内存（&amp;Y）</translation>
+        <translation>内存(&amp;Y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
@@ -3176,7 +3176,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
         <source>Java argumen&amp;ts</source>
-        <translation>Java参数（&amp;T）</translation>
+        <translation>Java 参数(&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="251"/>
@@ -3207,7 +3207,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="332"/>
         <source>Conso&amp;le Settings</source>
-        <translation>控制台设置（&amp;L）</translation>
+        <translation>控制台设置(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
@@ -3322,7 +3322,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="514"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代主显卡（适用于双显卡用户）。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代核显（适用于双显卡用户）。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="517"/>
@@ -3502,13 +3502,13 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>最小内存分配（&amp;M）：</translation>
+        <translation>最小内存分配(&amp;M)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>最大内存分配（&amp;X）：</translation>
+        <translation>最大内存分配(&amp;X)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -3534,7 +3534,7 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="201"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Java 路径（&amp;J）：</translation>
+        <translation>Java 路径(&amp;J)：</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -3545,13 +3545,13 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>自动检测（&amp;A）……</translation>
+        <translation>自动查找(&amp;A)……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="217"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>测试（&amp;T）</translation>
+        <translation>测试 Java (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="266"/>
@@ -3561,7 +3561,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="269"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation>跳过 Java 向导（&amp;W）</translation>
+        <translation>跳过 Java 向导(&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
@@ -3572,7 +3572,7 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>跳过 Java 兼容性检查（&amp;S）</translation>
+        <translation>跳过 Java 兼容性检查(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -3998,17 +3998,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="83"/>
         <source>I&amp;nstances:</source>
-        <translation>实例（&amp;N）：</translation>
+        <translation>实例(&amp;N)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>&amp;Mods:</source>
-        <translation>模组（&amp;M）：</translation>
+        <translation>模组(&amp;M)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation>图标（&amp;I）：</translation>
+        <translation>图标(&amp;I)：</translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
@@ -4028,12 +4028,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>按最后启动时间（&amp;B）</translation>
+        <translation>按最后启动时间(&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
         <source>By &amp;name</source>
-        <translation>按名称（&amp;N）</translation>
+        <translation>按名称(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="247"/>
@@ -4069,7 +4069,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>停用由模组托管平台（如 Modrinth 或 Curseforge）为模组提供的元数据。</translation>
+        <translation>停用模组托管平台（如 Modrinth 或 Curseforge）提供的模组元数据。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
@@ -4135,7 +4135,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>&amp;Downloads:</source>
-        <translation>下载（&amp;D）：</translation>
+        <translation>下载(&amp;D)：</translation>
     </message>
     <message>
         <source>...</source>
@@ -4144,7 +4144,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>启用后，除了下载文件夹以外，其子文件夹也会在寻找资源时被搜索到（例如：在寻找 CurseForge 上被封锁的模组时）。</translation>
+        <translation>启用后，除了下载文件夹以外，其子文件夹也会在寻找资源时被搜索到（例如：在寻找 CurseForge 上被屏蔽的模组时）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -4165,7 +4165,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="274"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>用菜单栏替换工具栏（&amp;R）</translation>
+        <translation>用菜单栏替换工具栏(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="298"/>
@@ -4181,31 +4181,31 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>在游戏运行时显示控制台（&amp;R）</translation>
+        <translation>在游戏运行时显示控制台(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>在游戏退出后自动关闭控制台（&amp;A）</translation>
+        <translation>在游戏退出后自动关闭控制台(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>在游戏崩溃时显示控制台（&amp;C）</translation>
+        <translation>在游戏崩溃时显示控制台(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>日志行数限制（&amp;H）</translation>
+        <translation>日志行数限制(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>是否在日志溢出的时候停止记录（&amp;S）</translation>
+        <translation>在日志到达限制时停止记录(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
@@ -4216,7 +4216,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>控制台字体（&amp;F）</translation>
+        <translation>控制台字体(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
@@ -4226,7 +4226,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>您试图指定的实例文件夹路径包含至少一个“!”字符。Java 在这种情况下会出现问题，您的实例（可能）无法运行！</translation>
+        <translation>您试图指定的实例文件夹路径包含至少一个“!”字符。Java 在这种情况下会出现问题，您的实例（很可能）无法运行！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
@@ -4629,7 +4629,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation>复制（&amp;C）</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -4849,7 +4849,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="555"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation>查看实例文件夹（&amp;V）</translation>
+        <translation>查看实例文件夹(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="558"/>
@@ -4860,7 +4860,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="579"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>查看公共模组文件夹（&amp;C）</translation>
+        <translation>查看公共模组文件夹(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="582"/>
@@ -4987,27 +4987,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="387"/>
         <source>&amp;Edit...</source>
-        <translation>编辑（&amp;E）</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
         <source>&amp;Folder</source>
-        <translation>实例目录（&amp;F）</translation>
+        <translation>实例文件夹(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
         <source>E&amp;xport...</source>
-        <translation>导出（&amp;X）</translation>
+        <translation>导出(&amp;X)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="414"/>
         <source>Dele&amp;te</source>
-        <translation>删除（&amp;T）</translation>
+        <translation>删除(&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="429"/>
         <source>Cop&amp;y...</source>
-        <translation>复制（&amp;Y）</translation>
+        <translation>复制(&amp;Y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="504"/>
@@ -5033,28 +5033,28 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="337"/>
         <source>&amp;Kill</source>
-        <translation>结束进程（&amp;K）</translation>
+        <translation>结束进程(&amp;K)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="325"/>
         <source>&amp;Launch</source>
-        <translation>启动（&amp;L）</translation>
+        <translation>启动(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="274"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>添加实例（E）</translation>
+        <translation>添加实例(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="184"/>
         <source>F&amp;olders</source>
-        <translation>文件夹（&amp;O）</translation>
+        <translation>文件夹(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="301"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>设置（N）</translation>
+        <translation>设置(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="265"/>
@@ -5064,7 +5064,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="659"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation>清除元数据缓存（C）</translation>
+        <translation>清除元数据缓存(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="662"/>
@@ -5087,37 +5087,37 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="620"/>
         <source>&amp;Matrix Space</source>
-        <translation>Matrix 聊天室（&amp;M）</translation>
+        <translation>Matrix 聊天室(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>&amp;Discord Guild</source>
-        <translation>Discord 公会（&amp;D）</translation>
+        <translation>Discord 公会(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>Sub&amp;reddit</source>
-        <translation>Reddit 子论坛（&amp;R）</translation>
+        <translation>Reddit 子论坛(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="644"/>
         <source>&amp;About %1</source>
-        <translation>关于 %1 （&amp;A）</translation>
+        <translation>关于 %1 (&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="286"/>
         <source>&amp;Update...</source>
-        <translation>更新（&amp;U）……</translation>
+        <translation>更新(&amp;U)……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="246"/>
         <source>&amp;Meow</source>
-        <translation>猫（&amp;M）</translation>
+        <translation>喵(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>账号管理（&amp;M）……</translation>
+        <translation>账号管理(&amp;M)……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
@@ -5142,7 +5142,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation>查看（&amp;V）</translation>
+        <translation>查看(&amp;V)</translation>
     </message>
     <message>
         <source>&amp;Profiles</source>
@@ -5151,7 +5151,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="200"/>
         <source>&amp;Help</source>
-        <translation>帮助（&amp;H）</translation>
+        <translation>帮助(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="463"/>
@@ -5161,12 +5161,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="471"/>
         <source>Prism Launcher (zip)</source>
-        <translation>Prism Launcher（Zip）</translation>
+        <translation>Prism Launcher（.zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="479"/>
         <source>Modrinth (mrpack)</source>
-        <translation>Modrinth（Mrpack）</translation>
+        <translation>Modrinth（.mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
@@ -5181,7 +5181,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
         <source>Close &amp;Window</source>
-        <translation>关闭窗口（&amp;W）</translation>
+        <translation>关闭窗口(&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="543"/>
@@ -5191,7 +5191,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
         <source>&amp;View Launcher Root Folder</source>
-        <translation>查看启动器根文件夹（&amp;V）</translation>
+        <translation>查看启动器根文件夹(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="570"/>
@@ -5217,7 +5217,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 帮助（&amp;H）</translation>
+        <translation>%1 帮助(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="719"/>
@@ -5246,7 +5246,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="440"/>
         <source>Launch &amp;Offline</source>
-        <translation>离线启动（&amp;O）</translation>
+        <translation>离线启动(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
@@ -5291,7 +5291,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="364"/>
         <source>&amp;Change Group...</source>
-        <translation>更改组（&amp;C）</translation>
+        <translation>重新分组(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="370"/>
@@ -5723,7 +5723,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>启动器似乎正在以错误配置的 AppImage 的形式被运行。（未找到$APPIMAGE 环境变量）</translation>
+        <translation>启动器似乎正在以错误配置的 AppImage 的形式被运行。（未找到 $APPIMAGE 环境变量）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1347"/>
@@ -5758,7 +5758,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation>桌面快捷方式（*.desktop）</translation>
+        <translation>桌面快捷方式 (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1565"/>
@@ -5820,7 +5820,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="195"/>
         <source>&amp;Accounts</source>
-        <translation>账号（&amp;A）</translation>
+        <translation>账号(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="707"/>
@@ -6044,24 +6044,24 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation>启动时最大化 Minecraft 窗口（&amp;M）</translation>
+        <translation>启动时最大化 Minecraft 窗口(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>窗口高度（&amp;H）：</translation>
+        <translation>窗口高度(&amp;H)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>窗口宽度（&amp;W）：</translation>
+        <translation>窗口宽度(&amp;W)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="190"/>
         <source>Tweaks</source>
-        <translation>调整</translation>
+        <translation>微调</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
@@ -6087,13 +6087,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="221"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>使用系统中的 GLFW（&amp;G）</translation>
+        <translation>使用系统中的 GLFW(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>使用系统中的 OpenAL（&amp;O）</translation>
+        <translation>使用系统中的 OpenAL(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="238"/>
@@ -6123,7 +6123,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="264"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代主显卡（适用于双显卡用户）。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代核显（适用于双显卡用户）。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="267"/>
@@ -6139,19 +6139,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>显示单实例的游玩时间（&amp;P）</translation>
+        <translation>显示单实例的游玩时长(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>显示游玩所有实例的总时长（&amp;A）</translation>
+        <translation>显示游玩所有实例的总时长(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="137"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>记录单实例的游玩时长（&amp;R）</translation>
+        <translation>记录单实例的游玩时长(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="147"/>
@@ -6168,7 +6168,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="156"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>游戏启动后关闭启动器（&amp;C）</translation>
+        <translation>游戏启动后关闭启动器(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="163"/>
@@ -6180,7 +6180,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="166"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>游戏窗口关闭后退出启动器（&amp;Q）</translation>
+        <translation>游戏窗口关闭后退出启动器(&amp;Q)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -6432,7 +6432,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>该模组最后一次更改（或添加）的日期和时间。</translation>
+        <translation>该模组最后一次更改（或添加）的准确时间。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="172"/>
@@ -6535,7 +6535,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="87"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>尝试检查或更新所有选定的模组（未选取任何模组将检查所有模组）</translation>
+        <translation>尝试检查并更新所有选定的模组（默认检查所有模组）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
@@ -7387,7 +7387,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="127"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>正在执行 %1 个任务（已完成 %3 个任务中的 %2 个）</translation>
+        <translation>正在执行 %1 个任务（%2/%3）</translation>
     </message>
 </context>
 <context>
@@ -7419,12 +7419,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation>组（&amp;G）：</translation>
+        <translation>分组(&amp;G)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation>名称（&amp;N）：</translation>
+        <translation>名称(&amp;N)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
@@ -7571,7 +7571,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
         <source>&amp;Copy</source>
-        <translation>复制（&amp;C）</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
@@ -7987,19 +7987,19 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation>SOCKS5（&amp;S）</translation>
+        <translation>SOCKS5(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation>HTTP（&amp;H）</translation>
+        <translation>HTTP(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation>地址及端口（&amp;A）</translation>
+        <translation>地址及端口(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -8010,13 +8010,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation>用户名（&amp;U）：</translation>
+        <translation>用户名(&amp;U)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation>密码（&amp;P）：</translation>
+        <translation>密码(&amp;P)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
@@ -8182,7 +8182,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation>该版本（%1）的“最低启动器版本（minimumLauncherVersion）比 %3 支持的版本（%2）高。可能无法正常工作！</translation>
+        <translation>该版本（%1）的“minimumLauncherVersion”（最小启动器版本）比 %3 支持的版本（%2）高。可能无法正常工作！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
@@ -8475,7 +8475,7 @@ New name: %2</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>您拥有一个或更多来自此整合包（%1）的实例。您想创建一个独立的实例，还是更新现有的实例？
+        <translation>您拥有一个或多个来自此整合包（%1）的实例。您想创建一个独立的实例，还是更新现有的实例？
 
 注意：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会（由于整合包的覆盖）损坏或遗失。</translation>
     </message>
@@ -8497,32 +8497,32 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="57"/>
         <source>Simple (Colored Icons)</source>
-        <translation>简单（彩色图标）</translation>
+        <translation>简洁（彩色）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
         <source>Simple (Light Icons)</source>
-        <translation>简单（浅色图标）</translation>
+        <translation>简洁（浅色）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
         <source>Simple (Dark Icons)</source>
-        <translation>简单（深色图标）</translation>
+        <translation>简洁（深色）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
         <source>Simple (Blue Icons)</source>
-        <translation>简单（蓝色图标）</translation>
+        <translation>简洁（蓝色）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Breeze Light</source>
-        <translation>微风（浅色图标）</translation>
+        <translation>Breeze 微风浅色</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
         <source>Breeze Dark</source>
-        <translation>微风（深色图标）</translation>
+        <translation>Breeze 微风深色</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
@@ -8542,7 +8542,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat (White)</source>
-        <translation>扁平（浅色图标）</translation>
+        <translation>扁平（白色）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
@@ -8562,17 +8562,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="184"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation>Rory ID 11（由 Ashtaka 绘制）</translation>
+        <translation>Rory ID 11（Ashtaka 绘）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="185"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation>Rory ID 11（扁平化版本，由 Ashtaka 绘制）</translation>
+        <translation>Rory ID 11（扁平化版本，Ashtaka 绘）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="186"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation>Teawie（由 SympathyTea 绘制）</translation>
+        <translation>Teawie（SympathyTea 绘）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
@@ -9412,7 +9412,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
         <source>&amp;Name</source>
-        <translation>名称（&amp;N）</translation>
+        <translation>名称(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
@@ -9422,7 +9422,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation>资源（&amp;U）</translation>
+        <translation>资源包(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
@@ -9501,22 +9501,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation>下一个（&amp;N） &gt;</translation>
+        <translation>下一个(&amp;N) &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation>&lt; 上一个（&amp;B）</translation>
+        <translation>&lt; 上一个(&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation>完成（&amp;F）</translation>
+        <translation>完成(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation>刷新（&amp;R）</translation>
+        <translation>刷新(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -9984,12 +9984,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="35"/>
         <source>&amp;Icons</source>
-        <translation>图标（&amp;I）</translation>
+        <translation>图标(&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation>颜色（&amp;C）</translation>
+        <translation>颜色(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
@@ -10001,7 +10001,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation>猫（&amp;A）</translation>
+        <translation>猫(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -10791,7 +10791,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>&amp;Refresh</source>
-        <translation>刷新（&amp;R）</translation>
+        <translation>刷新(&amp;R)</translation>
     </message>
 </context>
 <context>
