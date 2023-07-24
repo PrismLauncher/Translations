@@ -1351,7 +1351,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;预启动命令会在实例启动之前运行，退出后命令会在实例退出之后运行。&lt;/p&gt;&lt;p&gt;它们均会在启动器的工作目录运行，并带有以下额外环境变量：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME——实例名&lt;/li&gt;&lt;li&gt;$INST_ID——实例 ID（其所在文件夹名）&lt;/li&gt;&lt;li&gt;$INST_DIR——实例文件夹的绝对路径&lt;/li&gt;&lt;li&gt;$INST_MC_DIR——Minecraft 的绝对路径&lt;/li&gt;&lt;li&gt;$INST_JAVA——运行所使用的 Java 可执行文件&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS——运行所使用的命令行参数&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包装命令允许使用一个额外的包装程序来运行游戏（例如 Linux 上的“optirun”）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;预启动命令会在实例启动之前运行，退出后命令会在实例退出之后运行。&lt;/p&gt;&lt;p&gt;它们均会在启动器的工作目录运行，并带有以下额外环境变量：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME——实例名&lt;/li&gt;&lt;li&gt;$INST_ID——实例 ID（其所在文件夹名）&lt;/li&gt;&lt;li&gt;$INST_DIR——实例文件夹的绝对路径&lt;/li&gt;&lt;li&gt;$INST_MC_DIR——Minecraft 的绝对路径&lt;/li&gt;&lt;li&gt;$INST_JAVA——运行所使用的 Java 可执行文件&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS——运行所使用的命令行参数&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包装器命令允许使用一个额外的包装程序来运行游戏（例如 Linux 上的“optirun”）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1490,7 +1490,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="76"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>找不到包装命令“%1”。</translation>
+        <translation>找不到包装器命令“%1”。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="109"/>
