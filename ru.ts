@@ -8344,12 +8344,12 @@ Are you sure?</source>
         <translation type="vanished">Не удалось обработать файл версии %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="468"/>
         <source>No profile (%1)</source>
         <translation>Нет профиля (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="481"/>
         <source>&lt;Offline&gt;</source>
         <translation>&lt;Не в сети&gt;</translation>
     </message>

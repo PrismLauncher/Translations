@@ -7768,12 +7768,12 @@ Are you sure?</source>
         <translation type="vanished">No pudo procesarse el archivo de versión %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="468"/>
         <source>No profile (%1)</source>
         <translation>Sin perfil (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="481"/>
         <source>&lt;Offline&gt;</source>
         <translation type="unfinished"></translation>
     </message>

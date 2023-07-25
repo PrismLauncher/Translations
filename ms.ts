@@ -6844,12 +6844,12 @@ Pilih nama anda dengan teliti:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="468"/>
         <source>No profile (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="481"/>
         <source>&lt;Offline&gt;</source>
         <translation>&lt;Luar Talian&gt;</translation>
     </message>

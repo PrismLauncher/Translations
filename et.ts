@@ -8002,12 +8002,12 @@ Kas oled kindel?</translation>
         <translation type="vanished">Versioonifaili %1 töötlemine ebaõnnestus.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="468"/>
         <source>No profile (%1)</source>
         <translation>Profiil puudub (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="481"/>
         <source>&lt;Offline&gt;</source>
         <translation>&lt;Võrguta&gt;</translation>
     </message>

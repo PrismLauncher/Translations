@@ -8265,12 +8265,12 @@ Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnell
         <translation type="vanished">Impossible de traiter le fichier de la version %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="468"/>
         <source>No profile (%1)</source>
         <translation>Aucun profil (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="481"/>
         <source>&lt;Offline&gt;</source>
         <translation>&lt;Hors ligne&gt;</translation>
     </message>
