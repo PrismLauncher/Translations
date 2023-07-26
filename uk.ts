@@ -94,6 +94,11 @@
         <translation>Сер&amp;вер метаданих</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
+        <source>Services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>Ви можете написати сторонній сервер метаданих для використання патченних бібліотек або інших хаків.</translation>
@@ -3101,6 +3106,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Максимальний об&apos;єм виділеної пам&apos;яті:</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
+        <source>PermGen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>Примітка: Permgen встановлюється автоматично для Java 8 і для більш пізніх версій</translation>
@@ -3441,6 +3451,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
         <translation>Ма&amp;ксимальний об&apos;єм виділеної пам&apos;яті:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
+        <source>&amp;PermGen:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -4188,6 +4203,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="326"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Що-небудь/WARN] Не таке вже й жахливе попередження.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
+        <source>Launcher</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6031,6 +6051,11 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
         <translation>Час гри</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>

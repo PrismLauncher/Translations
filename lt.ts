@@ -94,6 +94,11 @@
         <translation>Meta&amp;data Serveris</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
+        <source>Services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>Jūs tai galite nustatyti į pasirinktą metadata serverį, kad galėtumėte naudoti patch&apos;intas bibliotekas ar kitus hack&apos;us.</translation>
@@ -2906,6 +2911,11 @@ Bandykite dar kartą.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
+        <source>PermGen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation type="unfinished"></translation>
@@ -3241,6 +3251,11 @@ Bandykite dar kartą.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
+        <source>&amp;PermGen:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3912,6 +3927,11 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="326"/>
         <source>[Something/WARN] A not so spooky warning.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
+        <source>Launcher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5503,6 +5523,11 @@ Ar jūs norite tęsti?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
+        <source>General</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

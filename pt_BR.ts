@@ -106,6 +106,11 @@
         <translation>Servidor de Meta&amp;dados</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
+        <source>Services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>Você pode mudar isto para um servidor de metadados de terceiros para usar bibliotecas corrigidas ou reparadas.</translation>
@@ -3183,6 +3188,11 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <translation>Alocação máxima de memória:</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
+        <source>PermGen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>Aviso: a Permgen é configurada automaticamente pelo Java 8 e superiores</translation>
@@ -3523,6 +3533,11 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
         <translation>Alocação má&amp;xima de memória:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
+        <source>&amp;PermGen:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -4308,6 +4323,11 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     <message>
         <source>MultiMC</source>
         <translation type="vanished">MultiMC</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
+        <source>Launcher</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6159,6 +6179,11 @@ Você tem certeza?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
         <translation>Tempo de jogo</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>

@@ -102,6 +102,11 @@
         <translation>Üst&amp;veri Sunucusu</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
+        <source>Services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>Bunu, yamalanmış kitaplıkları veya diğer hackleri kullanmak için üçüncü parti üst veri sunucusuna ayarlayabilirsin.</translation>
@@ -3142,6 +3147,11 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>En yüksek hafıza paylaşımı:</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
+        <source>PermGen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>Not: Permgen, Java 8 ve üstü için otomatik olarak ayarlanır</translation>
@@ -3482,6 +3492,11 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
         <translation>&amp;En fazla hafıza paylaşımı:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
+        <source>&amp;PermGen:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -4263,6 +4278,11 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     <message>
         <source>MultiMC</source>
         <translation type="vanished">MultiMC</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
+        <source>Launcher</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6098,6 +6118,11 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
         <translation>Oyun Zamanı</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>

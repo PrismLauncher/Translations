@@ -94,6 +94,11 @@
         <translation>Meta&amp;dataserver</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
+        <source>Services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>Du kan ställa in detta till en tredjeparts-metadataserver för att använda patchade bibliotek eller andra hack.</translation>
@@ -3127,6 +3132,11 @@ Var försiktig!</translation>
         <translation>Maximala mängden allokerat minne:</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
+        <source>PermGen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>OBS! Permgen sätts automatiskt av Java 8 eller senare</translation>
@@ -3467,6 +3477,11 @@ Var försiktig!</translation>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
         <translation>Ma&amp;ximala mängden allokerat minne:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
+        <source>&amp;PermGen:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -4250,6 +4265,11 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="326"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Någon/VARN] En inte så kuslig varning.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
+        <source>Launcher</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6006,6 +6026,11 @@ Vill du fortsätta?</numerusform>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
         <translation>Speltid</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>

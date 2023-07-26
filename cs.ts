@@ -94,6 +94,11 @@
         <translation>Server meta&amp;dat</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
+        <source>Services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>Můžete nastavit na server metadat třetí strany, abyste mohli používat modifikované knihovny nebo jiné hacky.</translation>
@@ -3152,6 +3157,11 @@ Postupujte obezřetně!</translation>
         <translation>Maximální velikost přidělené paměti:</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
+        <source>PermGen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>Je-li nainstalovaná Java 8 a vyšší, je permgen nastavený automaticky</translation>
@@ -3492,6 +3502,11 @@ Postupujte obezřetně!</translation>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
         <translation>Ma&amp;ximální přidělení paměti:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
+        <source>&amp;PermGen:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -4273,6 +4288,11 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     <message>
         <source>Reset hidden notifications</source>
         <translation type="vanished">Obnovit skrytá upoznění</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
+        <source>Launcher</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6110,6 +6130,11 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
         <translation>Čas hry</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>

@@ -106,6 +106,11 @@
         <translation>메타데이터 서버 (&amp;D)</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
+        <source>Services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>수정된 라이브러리 또는 기타 변경 사항을 적용하기 위해 제3자 메타데이터 서버를 설정할 수 있습니다.</translation>
@@ -3132,6 +3137,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>메모리 최대 할당량:</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
+        <source>PermGen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>참고: 펌젠(Permgen) 은 자바 8 이상일 경우 자동설정됩니다</translation>
@@ -3472,6 +3482,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
         <translation>메모리 최대 할당량 (&amp;X):</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
+        <source>&amp;PermGen:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -4229,6 +4244,11 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <source>Reset hidden notifications</source>
         <translation type="vanished">숨겨진 알림 초기화</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
+        <source>Launcher</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6056,6 +6076,11 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
         <translation>게임 시간</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>

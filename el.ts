@@ -94,6 +94,11 @@
         <translation>meta και διακομιστής δεδομένων</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
+        <source>Services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>Μπορείτε να το ορίσετε σε διακομιστή μετα-δεδομένων τρίτου κατασκευαστή για να χρησιμοποιήσετε ενημερωμένες βιβλιοθήκες ή άλλες παραβιάσεις.</translation>
@@ -3005,6 +3010,11 @@ Please try again.</source>
         <translation>Μέγιστη κατανομή μνήμης:</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
+        <source>PermGen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>Σημείωση: Το Permgen ρυθμίζεται αυτόματα από την Java 8 και τις νεώτερες εκδόσεις</translation>
@@ -3341,6 +3351,11 @@ Please try again.</source>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
         <translation type="unfinished">Μέγιστη παραχώρηση μνήμης:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
+        <source>&amp;PermGen:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -4081,6 +4096,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="326"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Something/WARN] Μια όχι και τόσο τρομακτική προειδοποίηση.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
+        <source>Launcher</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5791,6 +5811,11 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
+        <source>General</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
