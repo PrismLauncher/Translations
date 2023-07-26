@@ -1397,7 +1397,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation>Mod Loader</translation>
+        <translation>Mod Betöltő</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
@@ -5000,7 +5000,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="184"/>
         <source>F&amp;olders</source>
-        <translation>Mappák</translation>
+        <translation>&amp;Mappák</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="301"/>
@@ -5039,7 +5039,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="620"/>
         <source>&amp;Matrix Space</source>
-        <translation>&amp;Matrix Space</translation>
+        <translation>&amp;Mátrix Hely</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
@@ -5591,6 +5591,13 @@ Do you wish to proceed?</source>
 %1
 
 A törlés tönkre teheti a másik példányt,
+
+Szeretné folytatni?</numerusform>
+            <numerusform>A következő példányok hivatkozhatnak fájlokra a jelenlegi példányban:
+
+%1
+
+A törlés tönkre teheti a másik példányokat,
 
 Szeretné folytatni?</numerusform>
         </translation>
@@ -6283,7 +6290,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="84"/>
         <source>Folder</source>
-        <translation>Mappák</translation>
+        <translation>Mappa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="86"/>
