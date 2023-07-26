@@ -10713,7 +10713,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="218"/>
         <source>Customize toolbar actions</source>
-        <translation>Eszköztár műveletei:</translation>
+        <translation>Eszköztár műveletek testreszabása</translation>
     </message>
 </context>
 <context>
