@@ -1564,7 +1564,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation>Példány exportálása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="130"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
         <source>Export %1</source>
         <translation>%1 exportálása</translation>
     </message>
@@ -1577,18 +1577,18 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation type="vanished">Ez a fájl már létezik. Szeretnéd felülírni?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <source>Unable to export instance</source>
         <translation>Nem lehet exportálni a példányt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
     </message>

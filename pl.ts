@@ -1580,7 +1580,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
         <translation>Eksportuj instancję</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="130"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
         <source>Export %1</source>
         <translation>Wyeksportuj %1</translation>
     </message>
@@ -1593,18 +1593,18 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
         <translation type="vanished">Ten plik już istnieje. Czy chcesz go nadpisać?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <source>Unable to export instance</source>
         <translation>Nie udało się wyeksportować instancji</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>

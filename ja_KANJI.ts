@@ -1547,7 +1547,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <translation>構成実例の配置情報を導出します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="130"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
         <source>Export %1</source>
         <translation>%1 を導出する</translation>
     </message>
@@ -1560,18 +1560,18 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <translation type="vanished">この文件は既に存在します，上書きしますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <source>Unable to export instance</source>
         <translation>構成実例を導出できません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
         <translation type="unfinished"></translation>
     </message>

@@ -1532,7 +1532,7 @@ Please update both your operating system and %1.</source>
         <translation>تصدير النموذج</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="130"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
         <source>Export %1</source>
         <translation>تصدير %1</translation>
     </message>
@@ -1545,18 +1545,18 @@ Please update both your operating system and %1.</source>
         <translation type="vanished">هذا الملف متواجد مسبقًا. هل ترغب باستبداله؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
         <source>Error</source>
         <translation>خطأ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <source>Unable to export instance</source>
         <translation>لا يمكن تصدير النموذج</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
         <translation type="unfinished">إنهاء</translation>
     </message>

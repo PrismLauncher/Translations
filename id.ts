@@ -1548,7 +1548,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
         <translation>Ekspor Instansi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="130"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
         <source>Export %1</source>
         <translation>Ekspor %1</translation>
     </message>
@@ -1561,18 +1561,18 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
         <translation type="vanished">File ini sudah ada. Apakah anda mau menimpa ulang file ini?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <source>Unable to export instance</source>
         <translation>Tidak dapat mengekspor instansi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
         <translation type="unfinished">Batalkan</translation>
     </message>
