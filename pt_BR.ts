@@ -108,7 +108,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Serviços</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -179,7 +179,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Erro ao achar a versão para o carregador %1</translation>
+        <translation>Falha ao encontrar a versão do carregador %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
@@ -2242,17 +2242,17 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Erro ao obter o índice local de metadados para %1</translation>
+        <translation>Falha ao obter o índice de metadados local para %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Erro ao achar a versão para o carregador %1</translation>
+        <translation>Falha ao encontrar a versão do carregador %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="301"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Sem versão do carregador definida para o modpack!</translation>
+        <translation>Nenhuma versão do carregador definida para o modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="337"/>
@@ -4327,7 +4327,7 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher</translation>
     </message>
 </context>
 <context>
@@ -6183,7 +6183,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
