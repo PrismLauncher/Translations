@@ -3723,7 +3723,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation>使用系统位置</translation>
+        <translation>使用系统语言</translation>
     </message>
 </context>
 <context>
