@@ -3176,12 +3176,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
         <source>PermGen:</source>
-        <translation>PermGen:</translation>
+        <translation>永久代大小：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>注意：Java 8 及以后的版本会自动设置 PermGen</translation>
+        <translation>注意：Java 8 及以后的版本会自动设置永久代大小</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
@@ -3523,7 +3523,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
-        <translation>PermGen(&amp;P):</translation>
+        <translation>永久代大小(&amp;P)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -8699,7 +8699,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
         <source>Ungrouped</source>
-        <translation>解组</translation>
+        <translation>未分组</translation>
     </message>
 </context>
 <context>
