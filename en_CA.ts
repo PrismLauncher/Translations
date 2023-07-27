@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Services</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -2141,17 +2141,17 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="263"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Failed to get local metadata index for %1</translation>
+        <translation>Failed to get local metadata index for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Failed to find version for %1 loader</translation>
+        <translation>Failed to find version for %1 loader</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="301"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">No loader version set for modpack!</translation>
+        <translation>No loader version set for modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="337"/>
@@ -2864,7 +2864,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
@@ -3211,7 +3211,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -3893,7 +3893,7 @@ Granting %1 access to it via Flatseal is recommended.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher</translation>
     </message>
 </context>
 <context>
@@ -5453,7 +5453,7 @@ Do you wish to proceed?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
