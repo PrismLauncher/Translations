@@ -235,7 +235,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="851"/>
         <source>%1 out of %2 complete</source>
-        <translation>已完成 %1 分之 %2</translation>
+        <translation>已完成 %2 分之 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="896"/>
