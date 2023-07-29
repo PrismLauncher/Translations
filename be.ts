@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Сэрвісы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="332"/>
         <source>Unknown mod type: %1</source>
-        <translation>Незразумелы тып мода: %1</translation>
+        <translation>Незразумелы тып мадыфікацыі: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
@@ -172,7 +172,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>No loader version set for modpack!</source>
-        <translation>Для модпака не ўстаноўлена версія загрузчыка!</translation>
+        <translation>Для модпака ня задана версія загрузчыка!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="536"/>
@@ -207,12 +207,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="750"/>
         <source>Downloading mods...</source>
-        <translation>Спампуюцца моды...</translation>
+        <translation>Спампуюцца мадыфікацыі...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="753"/>
         <source>Mod download</source>
-        <translation>Спампаваць мод</translation>
+        <translation>Спампаваць мадыфікацыю</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="767"/>
@@ -232,7 +232,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="896"/>
         <source>Failed to extract mods...</source>
-        <translation>Не атрымалася выняць моды...</translation>
+        <translation>Не атрымалася выняць мадыфікацыі...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="907"/>
@@ -791,7 +791,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Сапраўды ўключыць гэты мод?</translation>
+        <translation>Сапраўды ўключыць гэтую мадыфікацыю?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
@@ -872,12 +872,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="166"/>
         <source>All mods found</source>
-        <translation>Знойдзены ўсе моды</translation>
+        <translation>Знойдзены ўсе мадыфікацыі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="169"/>
         <source>Please download the missing mods.</source>
-        <translation>Калі ласка, спампуйце адсутныя моды.</translation>
+        <translation>Калі ласка, спампуйце адсутныя мадыфікацыі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
@@ -897,7 +897,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="131"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Выберыце каталог, у які вы спампавалі моды</translation>
+        <translation>Выберыце каталог, у які вы спампавалі мадыфікацыі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="151"/>
@@ -912,7 +912,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Наладжаная вамі папка глабальных модаў і папка спамповак па змаўчанні аўтаматычна правяраюцца на наяўнасць спампаваных модаў. Калі там будуць знойдзены моды, яны будуць скапіяваны ў версію.&lt;/p&gt;&lt;p&gt;Дадаткова вы можаце перацягнуць спампаваныя моды ў гэтае акно, або дадаць папку для прагляду, калі вы спампуеце моды ня ў месца па змаўчанні.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Наладжаная вамі папка глабальных мадыфікацый і папка спамповак па змаўчанні аўтаматычна правяраюцца на наяўнасць спампаваных мадыфікацый. Калі там будуць знойдзены мадыфікацыі, яны будуць скапіяваны ў версію.&lt;/p&gt;&lt;p&gt;Дадаткова вы можаце перацягнуць спампаваныя мадыфікацыі ў гэтае акно, або дадаць папку для прагляду, калі вы спампуеце мадыфікацыі ня ў месца па змаўчанні.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -946,12 +946,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Выберыце крыніцу модаў</translation>
+        <translation>Выберыце крыніцу мадыфікацый</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation>Прапусьціць гэты мод</translation>
+        <translation>Прапусьціць гэтую мадыфікацыю</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
@@ -1068,7 +1068,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Адключэньне захавае загрузчык модаў (напр: Fabric, Quilt і г.д.), але выдаліць папку модаў і іх налад.</translation>
+        <translation>Адключэньне захавае загрузчык модаў (напр: Fabric, Quilt і г.д.), але выдаліць папку мадыфікацый і іх налад.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1078,7 +1078,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation>Скапіяваць моды</translation>
+        <translation>Скапіяваць мадыфікацыі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
@@ -1227,7 +1227,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="78"/>
         <source>Core mods</source>
-        <translation>Асноўныя моды</translation>
+        <translation>Асноўныя мадыфікацыі</translation>
     </message>
 </context>
 <context>
@@ -1276,7 +1276,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Уласныя каманды</translation>
     </message>
 </context>
 <context>
@@ -1284,88 +1284,88 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="66"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Рэлізы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Хуткія здымкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Старыя Здымкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished"></translation>
+        <translation>Бэты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished"></translation>
+        <translation>Альфы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation type="unfinished"></translation>
+        <translation>Эксперыментальныя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="253"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Абнавіць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузчык мадыфікацый</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="60"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Уласный</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія MInecraft ня выбрана.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузчык модаў ня выбраны.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="172"/>
@@ -1378,12 +1378,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сканаваньне файлаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не атрымалася сканаваць шлях.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
@@ -2153,7 +2153,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="558"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Спампуюцца моды...</translation>
+        <translation>Спампуюцца мадыфікацыі...</translation>
     </message>
 </context>
 <context>
@@ -3824,7 +3824,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="131"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Інсталюецца модпак</translation>
+        <translation>Усталяваньне модпака</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="137"/>
@@ -5864,7 +5864,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Спампуюцца моды...</translation>
+        <translation>Спампуюцца мадыфікацыі...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="331"/>
