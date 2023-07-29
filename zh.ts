@@ -30,7 +30,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>根网址(&amp;U)</translation>
+        <translation>根网址（协议://主机名[:端口]）(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -4084,7 +4084,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>停用模组托管平台（如 Modrinth 或 Curseforge）提供的模组元数据。</translation>
+        <translation>停用模组托管平台（如 Modrinth 和 Curseforge）提供的模组元数据。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
@@ -4992,7 +4992,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="231"/>
         <source>More news...</source>
-        <translation>更多新闻……</translation>
+        <translation>更多新闻(&amp;N)……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="234"/>
@@ -5033,7 +5033,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="504"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Create Shortcut</source>
-        <translation>创建快捷方式</translation>
+        <translation>创建快捷方式(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="507"/>
@@ -5122,7 +5122,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="644"/>
         <source>&amp;About %1</source>
-        <translation>关于 %1 (&amp;A)</translation>
+        <translation>关于 %1(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="286"/>
@@ -5221,7 +5221,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation>报告程序漏洞或建议新功能</translation>
+        <translation>报告程序漏洞或建议新功能(&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="623"/>
@@ -5728,7 +5728,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1461"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>启动器位于其被提取出来的文件夹中，因此无法创建快捷方式。</translation>
+        <translation>启动器位于解压出来的文件夹中，无法创建快捷方式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
@@ -5773,7 +5773,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1560"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation>创建快捷方式的图标失败。</translation>
+        <translation>无法创建快捷方式的图标。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
