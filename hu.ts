@@ -3243,7 +3243,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation>A Quilt Loader beacon kikapcsolása a havi aktív felhasználók számolásához</translation>
+        <translation>A Quilt loader beacon kikapcsolása a havi aktív felhasználók számolásának leállításához</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="639"/>
@@ -6011,7 +6011,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="205"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation>A Quilt Loader beacon kikapcsolása a havi aktív felhasználók számolásához</translation>
+        <translation>A Quilt loader beacon kikapcsolása a havi aktív felhasználók számolásának leállításához</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
