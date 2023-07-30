@@ -30,7 +30,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>根网址（协议://主机名[:端口]）(&amp;U)</translation>
+        <translation>根网址(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注：如果微软身份验证成功，通常无需设置这一项。</translation>
+        <translation>注：如果微软身份验证已成功，通常无需设置这一项。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -73,7 +73,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时才必须设置此项。访问&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;官方文档&lt;/a&gt;以了解更多信息。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问您的私有数据时才必须设置此项。访问&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;官方文档&lt;/a&gt;以了解更多信息。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -282,7 +282,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是一个第三方 Minecraft 启动器，能够让您更便捷地在单个启动器中管理多个 Minecraft 实例。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;一个能够让您在单个启动器中轻松管理多个 Minecraft 实例的第三方启动器。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -369,7 +369,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>未检测</translation>
+        <translation>未检查</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
@@ -465,12 +465,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Account</source>
-        <translation>Xbox 账号</translation>
+        <translation>Xbox 用户名</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Type</source>
-        <translation>账号类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
@@ -499,7 +499,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>Mojang 或微软账户。</translation>
+        <translation>账号的类型——MSA（微软账户）或 Mojang 账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="403"/>
@@ -566,7 +566,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>添加离线账户(&amp;O)</translation>
+        <translation>添加离线账号(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -636,12 +636,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="182"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您必须在添加至少一个已购买 Minecraft 的微软或 Mojang 账户之后才能添加离线账户。&lt;br&gt;&lt;br&gt;如果您丢失了您的账号，请联系微软寻求支持。</translation>
+        <translation>您必须在添加至少一个已购买 Minecraft 的微软或 Mojang 账户之后才能添加离线账号。&lt;br&gt;&lt;br&gt;如果您丢失了您的账号，请联系微软寻求支持。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>请输入要添加的的离线账户名称。</translation>
+        <translation>请输入要添加的的离线账号名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="294"/>
@@ -712,7 +712,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1255"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1689"/>
@@ -751,7 +751,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="75"/>
@@ -829,7 +829,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation>选择一个分享码</translation>
+        <translation>选择分享码</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
@@ -1005,7 +1005,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation>监视文件夹：</translation>
+        <translation>检查过的文件夹：</translation>
     </message>
 </context>
 <context>
@@ -1026,7 +1026,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>未找到 Java checker 运行库，请检查 Java 是否正确安装。</translation>
+        <translation>未找到 Java 检查器库，请检查 Java 是否正确安装。</translation>
     </message>
 </context>
 <context>
@@ -1068,7 +1068,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1078,7 +1078,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>在依赖项检测过程中检测到了冲突的必需依赖项！</translation>
+        <translation>在检测依赖过程中检测到了冲突的依赖项！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
@@ -1088,7 +1088,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>实例在运行时执行的加载或检查中发现了未解析的依赖项。</translation>
+        <translation>实例在加载/检查启动时发现了未解析的依赖项。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
@@ -1151,7 +1151,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation>全部选中</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
@@ -1206,7 +1206,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation>单独链接每个资源，而不是一次链接整个文件夹</translation>
+        <translation>单独链接每个资源，而不是直接链接整个文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
@@ -1252,7 +1252,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>使用引用链接克隆的文件在修改前不占用额外空间。</translation>
+        <translation>使用引用链接克隆的文件在修改前不会占用额外空间。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1292,7 +1292,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
         <source>No group</source>
-        <translation>清除组</translation>
+        <translation>清除分组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
@@ -1387,7 +1387,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation>旧版快照</translation>
+        <translation>旧快照</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
@@ -1466,7 +1466,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation>扫描文件中……</translation>
+        <translation>正在扫描文件……</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
@@ -1476,13 +1476,13 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation>复制 %1 中……</translation>
+        <translation>正在复制 %1……</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1606,7 +1606,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>终止</translation>
     </message>
 </context>
 <context>
@@ -2107,7 +2107,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="93"/>
@@ -2895,7 +2895,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>复制实例文件夹操作已被中止。</translation>
+        <translation>已终止复制实例文件夹。</translation>
     </message>
 </context>
 <context>
@@ -3931,7 +3931,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="463"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>终止</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="479"/>
@@ -4584,7 +4584,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="34"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>元数据中指定了空 Jar 文件，操作中止。</translation>
+        <translation>元数据中指定了空 Jar 文件，操作终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="65"/>
@@ -4602,7 +4602,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="85"/>
@@ -5584,7 +5584,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="881"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="920"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="925"/>
@@ -5986,7 +5986,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="161"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="183"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
 </context>
 <context>
@@ -6050,7 +6050,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
 </context>
 <context>
@@ -6299,7 +6299,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="87"/>
         <source>Aborted by user.</source>
-        <translation>操作被用户中止。</translation>
+        <translation>操作被用户终止。</translation>
     </message>
 </context>
 <context>
@@ -6600,7 +6600,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="234"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
@@ -6618,7 +6618,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="250"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
@@ -6815,7 +6815,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="297"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="117"/>
@@ -7407,7 +7407,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="101"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation>未能中止 NetJob 中的所有任务！</translation>
+        <translation>未能终止 NetJob 的所有任务！</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="127"/>
@@ -7573,12 +7573,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="9"/>
         <source>Creating offline account.</source>
-        <translation>创建离线账户。</translation>
+        <translation>创建离线账号。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="17"/>
         <source>Created offline account.</source>
-        <translation>已创建离线账户。</translation>
+        <translation>离线账号已成功创建。</translation>
     </message>
 </context>
 <context>
@@ -7735,7 +7735,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="379"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="646"/>
@@ -8771,7 +8771,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="172"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="173"/>
@@ -9149,7 +9149,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="81"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="81"/>
@@ -9164,7 +9164,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="97"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>终止</translation>
     </message>
 </context>
 <context>
@@ -9574,7 +9574,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
@@ -9589,7 +9589,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="90"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>终止</translation>
     </message>
 </context>
 <context>
@@ -9741,7 +9741,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="142"/>
         <source>Instance import has been aborted.</source>
-        <translation>实例导入操作被中止。</translation>
+        <translation>实例导入操作被终止。</translation>
     </message>
 </context>
 <context>
@@ -9803,7 +9803,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="230"/>
         <source>Instance import has been aborted.</source>
-        <translation>实例导入操作被中止。</translation>
+        <translation>实例导入操作被终止。</translation>
     </message>
 </context>
 <context>
@@ -9986,7 +9986,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="83"/>
         <source>Aborted</source>
-        <translation>已中止</translation>
+        <translation>已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="83"/>
@@ -10001,7 +10001,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="99"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>终止</translation>
     </message>
 </context>
 <context>
@@ -10096,7 +10096,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="23"/>
         <source>Task aborted.</source>
-        <translation>任务已中止。</translation>
+        <translation>任务已终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="54"/>
