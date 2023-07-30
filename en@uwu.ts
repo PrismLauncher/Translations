@@ -6266,7 +6266,7 @@ Pwease wet us knyow why and how this happenyed.</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vewsion fiwe has both &apos;+wibwawies&apos; and &apos;wibwawies&apos;. This is no wongew suwppowted.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
@@ -6432,7 +6432,7 @@ Awe u sure??</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="101"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>The &lt;a href=&quot;%1&quot;&gt;wink to the uwpwoaded wog&lt;/a&gt; has been pwaced in uw cwipboawd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
@@ -7044,7 +7044,7 @@ P-Pweease updayte %1!!!</translation>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>The wesouwwce pack fowmat ID, as weww as the Minecwaft vewsions it was designed fow.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
@@ -7871,7 +7871,7 @@ inhewitsFwom is missing!</translation>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="496"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Compweteness is the pewcentage of fuwwwy twanswated stwings, not couwnting auwtomaticawwy guwessed ones.</translation>
     </message>
 </context>
 <context>
