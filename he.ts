@@ -5654,7 +5654,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="238"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">מהירות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="244"/>
@@ -6659,7 +6659,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="175"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">לא ידוע</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="178"/>
@@ -7931,7 +7931,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">אזהרות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="172"/>
