@@ -115,12 +115,12 @@
             "untranslated" : 1398
         },
         "en@uwu" : {
-            "file" : "89bf7a356e3ae9975ce679fcc486336eab07d7bc.class",
-            "sha1" : "89bf7a356e3ae9975ce679fcc486336eab07d7bc",
-            "size" : 216500,
-            "translated" : 1391,
-            "fuzzy" : 137,
-            "untranslated" : 10
+            "file" : "aac8d45755c40a811f63578273572504f4d7c8eb.class",
+            "sha1" : "aac8d45755c40a811f63578273572504f4d7c8eb",
+            "size" : 217161,
+            "translated" : 1538,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "en_AU" : {
             "file" : "78ac4e49e1a4cda733606ac2b052e1f7e8cce2a3.class",
