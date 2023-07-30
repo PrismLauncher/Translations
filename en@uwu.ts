@@ -8856,7 +8856,7 @@ Awe u sure??</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="100"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation>Sewver has changed %1 auwthowization usew hash in the wepwy. Something is wong!!</translation>
+        <translation>Sewvew has changed %1 auwthowization uwsew hash in the wepwy. Something is wwong.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="107"/>
