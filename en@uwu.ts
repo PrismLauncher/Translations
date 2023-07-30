@@ -6113,7 +6113,7 @@ Choose youw nyame cawefuwwy wawefuwwy:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>This onwy appwies to the wauwnchew. Minecwaft does not accept pwoxy settings.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
@@ -6495,7 +6495,7 @@ This message wiww be dispwayed untiw you wemove this f-fwom the JVM awguments.</
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Jawa test susseeded!&lt;br /&gt;Pwatform wepowted: %1&lt;br /&gt;Jawa vewsion repowted: %2&lt;br /&gt;Jawa vendow wepowted: %3&lt;br /&gt;</translation>
+        <translation>Java test suwcceeded!&lt;br /&gt;Pwatfowm wepowted: %1&lt;br /&gt;Java vewsion wepowted: %2&lt;br /&gt;Java vendow wepowted: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
