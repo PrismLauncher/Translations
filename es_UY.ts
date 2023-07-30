@@ -363,7 +363,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Offline</translation>
+        <translation>Desconectado</translation>
     </message>
     <message>
         <source>Online</source>
