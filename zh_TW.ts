@@ -1062,7 +1062,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>前置檢查時，發現衝突的需求！</translation>
+        <translation>前置項檢查時，發現衝突的需求！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
@@ -1072,7 +1072,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>在啟動載入或檢查時，發現實例有未解決的前置。</translation>
+        <translation>在啟動載入或檢查時，發現實例有未解決的前置項。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
@@ -1943,12 +1943,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> （%1 已安裝、%2 已選擇）</translation>
+        <translation> （已安裝 %1 個、已選擇 %2 個）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="324"/>
         <source> (%1 installed)</source>
-        <translation> （%1 已安裝）</translation>
+        <translation> （已安裝 %1 個）</translation>
     </message>
 </context>
 <context>
@@ -2651,7 +2651,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation>取得前置</translation>
+        <translation>取得前置項</translation>
     </message>
 </context>
 <context>
@@ -8759,7 +8759,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="173"/>
         <source>Checking for dependencies...</source>
-        <translation>正在檢查前置...</translation>
+        <translation>正在檢查前置項...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
