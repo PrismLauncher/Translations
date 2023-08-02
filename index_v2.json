@@ -419,11 +419,11 @@
             "untranslated" : 1018
         },
         "nl" : {
-            "file" : "b41836eacc5448ced00cafaebc1e1d50c95879a1.class",
-            "sha1" : "b41836eacc5448ced00cafaebc1e1d50c95879a1",
-            "size" : 239000,
-            "translated" : 1555,
-            "fuzzy" : 68,
+            "file" : "fe86f1c1d68ed0c459113b5cd5e1b47c239ebea0.class",
+            "sha1" : "fe86f1c1d68ed0c459113b5cd5e1b47c239ebea0",
+            "size" : 239008,
+            "translated" : 1556,
+            "fuzzy" : 67,
             "untranslated" : 81
         },
         "nn" : {
