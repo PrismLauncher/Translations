@@ -7,23 +7,23 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Υπηρεσία Παστέμπιν</translation>
+        <translation>&amp;Υπηρεσία Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Υπηρεσία επικόλλησης και τύπος</translation>
+        <translation>&amp;Είδος υπηρεσίας επικόλλησης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>Βάση και διεύθυνση URL</translation>
+        <translation>Βασική &amp;ιστοσελίδα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Σημείωση: πιθανότατα θέλετε να αλλάξετε ή να διαγράψετε τη διεύθυνση URL Βάση μετά την αλλαγή του τύπου υπηρεσίας επικόλλησης.</translation>
+        <translation>Σημείωση: Μπορεί να θέλετε να αλλάξετε ή να διαγράψετε τη βασική ιστοσελίδα εάν αλάξατε το είδος υπηρεσίας επικόλλησης.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -34,39 +34,39 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>Επαλήθευση της Microsoft</translation>
+        <translation>Πιστοποίηση Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Σημείωση: πιθανότατα δεν χρειάζεται να το ορίσετε, αν η σύνδεση μέσω της Επαλήθευσης της Microsoft λειτουργεί ήδη.</translation>
+        <translation>Σημείωση: Δεν χρειάζεται να οριστεί αν η σύνδεση μέσω της Πιστοποίησης Microsoft λειτουργεί ήδη.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>(Default)</source>
-        <translation>Προεπιλογή</translation>
+        <translation>(Προεπιλογή)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Καταχωρίστε ένα προσαρμοσμένο αναγνωριστικό πελάτη για την Πιστοποίηση της Microsoft εδώ.</translation>
+        <translation>Καταχωρίστε ένα δικό σας αναγνωριστικό για την Πιστοποίηση Microsoft εδώ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation>&amp;API του Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Σημείωση: Χρειάζεται να το ορίσετε μόνο για να αποκτήσετε πρόσβαση σε ιδιωτικά δεδομένα. Διαβάστε την &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;τεκμηρίωση&lt;/a&gt; για περισσότερες πληροφορίες.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Σημείωση: Η μόνη του χρήση είναι για προσβασή σε προσωπικά project. Διαβάστε το &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;wiki&lt;/a&gt; για περισσότερες πληροφορίες.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Εισαγάγετε ένα προσαρμοσμένο διακριτικό API για το Modrinth εδώ.</translation>
+        <translation>Καταχωρίστε ένα δικό σας API token για το Modrinth εδώ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>User Agent</source>
-        <translation>Πράκτορας χρήστη</translation>
+        <translation>Πράκτορας Χρήστη</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
