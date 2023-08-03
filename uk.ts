@@ -2127,12 +2127,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіюємо файли...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіюємо налаштування...</translation>
     </message>
 </context>
 <context>
@@ -2428,7 +2428,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="250"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Знаходимо інформацію про проєкт з CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="328"/>
@@ -3227,7 +3227,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування завантажувача модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="559"/>
@@ -3675,7 +3675,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати мову системи</translation>
     </message>
 </context>
 <context>
@@ -4227,7 +4227,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="65"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Лаунчер</translation>
     </message>
 </context>
 <context>
@@ -4672,7 +4672,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="437"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Теки не існує</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="440"/>
@@ -4682,7 +4682,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="448"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Невдалося створити:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="469"/>
@@ -5106,12 +5106,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Mod List</source>
-        <translation type="unfinished"></translation>
+        <translation>Список модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
