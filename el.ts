@@ -96,27 +96,27 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπηρεσίες</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Μπορείτε να το ορίσετε σε διακομιστή μετα-δεδομένων τρίτου κατασκευαστή για να χρησιμοποιήσετε ενημερωμένες βιβλιοθήκες ή άλλες παραβιάσεις.</translation>
+        <translation>Μπορείτε να το ορίσετε σ&apos; έναν διακομιστή metadata τρίτου για να χρησιμοποιήσετε πειραγμένες βιβλιοθήκες ή άλλα hacks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Εισαγάγετε εδώ μια διεύθυνση URL για τα Μεταδεδομένα.</translation>
+        <translation>Εισάγετε μια διεύθυνση URL για τα metadata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>ΚατάραForge Core API</translation>
+        <translation>Bασική API του CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Σημείωση: πιθανότατα δεν χρειάζεται να το ορίσετε εάν το ΚατάραForge λειτουργεί ήδη.</translation>
+        <translation>Σημείωση: δεν θα χρειάζεται να το πειράξετε εάν το CurseForge λειτουργεί ήδη.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
