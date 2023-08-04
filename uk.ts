@@ -3232,7 +3232,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="559"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation>Вимкнути маячок навантажувача Quilt</translation>
+        <translation>Вимкнути маячок завантажувача Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
