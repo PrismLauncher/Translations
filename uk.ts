@@ -1785,7 +1785,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Експорт %1</translation>
     </message>
 </context>
 <context>
