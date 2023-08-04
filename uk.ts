@@ -1775,12 +1775,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>Це залежить від метаданих mods&apos;. Щоб переконатися що він доступний, запустіть оновлення екземпляра. Встановлювати оновлення не обов&apos;язково.</translation>
+        <translation>Це залежить від метаданих модів. Щоб переконатися що він доступний, запустіть оновлення збірки. Встановлювати оновлення не обов&apos;язково.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished">Копіювати</translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
