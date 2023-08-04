@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервіси</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -1717,7 +1717,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Звичайний текст</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
@@ -1732,23 +1732,23 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Користувацький</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Додаткова інформація</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished">Версія</translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
@@ -1760,12 +1760,12 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Посилання</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
@@ -1775,7 +1775,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це залежить від метаданих mods&apos;. Щоб переконатися що він доступний, запустіть оновлення екземпляра. Встановлювати оновлення не обов&apos;язково.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
