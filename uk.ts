@@ -5527,7 +5527,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1197"/>
         <source>Instance not editable</source>
-        <translation>Екземпляр не підлягає редагуванню</translation>
+        <translation>Збірка не підлягає редагуванню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1198"/>
