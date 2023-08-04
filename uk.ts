@@ -2119,7 +2119,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="83"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3237,7 +3237,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнути маячок завантажувача Quilt для підрахунку активних користувачів щомісяця</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="639"/>
@@ -4677,7 +4677,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="440"/>
         <source>Could not create file</source>
-        <translation type="unfinished">Не вдалося створити файл</translation>
+        <translation>Не вдалося створити файл</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="448"/>
@@ -4687,12 +4687,12 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="469"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished">Не вдалося прочитати та стиснути %1</translation>
+        <translation>Не вдалося прочитати та стиснути %1</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="475"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished">Виникла помилка zip</translation>
+        <translation>Виникла помилка zip</translation>
     </message>
 </context>
 <context>
@@ -5106,7 +5106,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished">CurseForge (zip)</translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
@@ -5532,7 +5532,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1198"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation>Цей екземпляр не можна редагувати. Він може бути несправним, недійсним або занадто старим. Перевірте журнали для отримання детальної інформації.</translation>
+        <translation>Цю збірку не можна редагувати. Вонф може бути несправною, недійсною або занадто старою. Перевірте журнали для отримання детальної інформації.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1233"/>
@@ -5993,17 +5993,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished">Налаштування завантажувача модів</translation>
+        <translation>Налаштування завантажувача модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнути маячок завантажувача Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="205"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнути маячок завантажувача Quilt для підрахунку активних користувачів щомісяця</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
@@ -6065,7 +6065,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
@@ -6458,22 +6458,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на головну сторінку мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Відвідати сторінку мода</translation>
+        <translation>Відвідати сторінку мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="108"/>
         <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Відвідати сторінки модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на сторінки обраних модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
@@ -7046,12 +7046,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="89"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Пошук хешів файлів...</translation>
+        <translation>Пошук хешів файлів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="153"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Пошук версій для хешів...</translation>
+        <translation>Пошук версій для хешів...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="188"/>
@@ -8600,12 +8600,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="172"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Перервати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="173"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірка залежностей....</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -9056,12 +9056,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимагають: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимагають:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
