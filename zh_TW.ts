@@ -1271,7 +1271,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation>複製螢幕擷圖</translation>
+        <translation>複製螢幕擷取畫面</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
@@ -8148,7 +8148,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="92"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;記錄檔連結&lt;/a&gt; 已經在你的剪貼簿中。</translation>
+        <translation>已將 &lt;a href=&quot;%1&quot;&gt;記錄檔連結&lt;/a&gt; 複製到您的剪貼簿中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="276"/>
@@ -9289,7 +9289,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation>螢幕擷圖</translation>
+        <translation>螢幕擷取畫面</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
@@ -9338,7 +9338,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="427"/>
         <source>Failed to upload screenshots!</source>
-        <translation>螢幕擷圖上傳失敗！</translation>
+        <translation>螢幕擷取畫面上傳失敗！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
@@ -9355,12 +9355,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="403"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;上傳的螢幕擷圖連結&lt;/a&gt; 已經在你的剪貼簿中。</translation>
+        <translation>已將 &lt;a href=&quot;%1&quot;&gt;螢幕擷取畫面連結&lt;/a&gt; 複製到您的剪貼簿中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="433"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;上傳的相簿連結&lt;/a&gt; 已經在你的剪貼簿中。</translation>
+        <translation>已將 &lt;a href=&quot;%1&quot;&gt;相簿連結&lt;/a&gt; 複製到您的剪貼簿中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
@@ -9368,7 +9368,7 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>您將要刪除 %1 螢幕擷圖？
+        <translation>您將要刪除 %1 螢幕擷取畫面？
 這可能是永久性的，它們將從資料夾中消失。
 
 你確定嗎？</translation>
