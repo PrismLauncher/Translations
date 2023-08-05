@@ -1388,7 +1388,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Капіюецца %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
@@ -1399,7 +1399,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Некаторыя сьцежкі не могуць быць скапіяваны!</translation>
     </message>
 </context>
 <context>
@@ -1417,7 +1417,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="43"/>
         <source>Password</source>
-        <translation type="unfinished">Хасло</translation>
+        <translation>Гасла</translation>
     </message>
 </context>
 <context>
@@ -1425,29 +1425,29 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="87"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Бачым ці моды маюць метадату...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрашаем метадату інфармацыі з %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрашаем метадату інфармацыі з %1 для &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="333"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Аналізуем адказ API для Modrinth для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="400"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="467"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Аналізуем адзказ API ад CurseForge для &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1455,12 +1455,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="16"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>Рашаем уладанне гульні.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="50"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Атрымалі правы</translation>
     </message>
 </context>
 <context>
@@ -1468,12 +1468,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспартаваць Рахунак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспарт %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
@@ -1484,12 +1484,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <source>Unable to export instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Не атрымалася экспартаваць рахунак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Аборт</translation>
     </message>
 </context>
 <context>
@@ -1508,17 +1508,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="14"/>
         <source>Export Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспарт Пак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Інфармацыя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Падсумаваньне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
@@ -1528,23 +1528,23 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="67"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="111"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспарт %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="125"/>
@@ -1554,17 +1554,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Заданьне адхіліна</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заданьне было адхіліна карыстальнікам.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Адхіліць</translation>
     </message>
 </context>
 <context>
@@ -1572,7 +1572,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспарт Пак да МодЛіста</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -1582,85 +1582,85 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Зніжка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Роўнытэкст</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished">Уласный</translation>
+        <translation>Заказны</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблён</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Апцыянальная Інфа</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтары</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Фармат</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Рэзультат</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Гэта залежыць на метадату мадоў. Каб быць упэўнены, што гэта даступна, запусьціце абнову рахунка. Усталяванне абноў не абавязкова.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Капіяваць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспарт %1</translation>
     </message>
 </context>
 <context>
@@ -1668,98 +1668,98 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фільтар:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="74"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Учынкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Дадаць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадаць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выдаліць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдаліць абраны прадмет</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Уключыць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уключыць абраны прадмет</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Адключыць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Адключыць абраны прадмет</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>Выгляд &amp;Канфігі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адкрыйце &apos;config&apos; папку ў сістэме файл мэнаджара</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Выгляд &amp;Папка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Спампаваць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="146"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Спампаваць новы рэсурс</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Паглядзець для &amp;Абноў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Паспрабуйце забачыць ці абноўце ўсе абраныя рэсурсы (усе рэсурсы есьлі нічога не было выбрана)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="165"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation>Наведайце старонку мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Рухайцеся да хатняй старонкі мадоў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -1770,7 +1770,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="198"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выбярыце %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="228"/>
@@ -1778,7 +1778,10 @@ Please update both your operating system and %1.</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вы аб выдаленьні %1 прадметаў.
+Гэта можа быць назаўсёды і яны могуць страчаны з папцы.
+
+Вы ўпэйнены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="233"/>
@@ -1786,22 +1789,25 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вы аб выдаленьні папцы &quot;%1&quot;.
+Гэта можа быць назаўсёды і будзе страчаны з бацькоўскай папцы
+
+Вы ўпэўнены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="240"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Пацьвердзіць Выдаленьне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (%1 усталявана, %2 выбрана)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="324"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (%1 усталявана)</translation>
     </message>
 </context>
 <context>
@@ -1811,7 +1817,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Праверыць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
@@ -1822,7 +1828,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Рэдактар Тэксту:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
@@ -1832,7 +1838,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="102"/>
         <source>JProfiler Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler Папка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -1849,73 +1855,76 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="120"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Памылка пры правярэньні усталявання JProfiler
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="122"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="151"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="184"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="122"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler становішча здаваецца ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM Executable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="149"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Памылка пры поглядзе на ўсталяваньне JVisualVM
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="151"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM становішча здаецца ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="161"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit Праграма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="163"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit Папка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Памылка пры поглядзе ўсталяваньня MCEdit
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="184"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Сэтап MCEdit здаецца ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="190"/>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON Рэдактар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ня працуе</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбраны файл здаецца можа быць выкананы</translation>
     </message>
 </context>
 <context>
@@ -1923,7 +1932,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="94"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ня можа адкрыць ураджэнны jar &apos;%1&apos; да месца прызначэньня &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -1931,32 +1940,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="37"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Праверка для FML бібліятэк...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="58"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Спампуюцца FML бібліятэкі...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="70"/>
         <source>Aborted</source>
-        <translation type="unfinished">Спынено</translation>
+        <translation>Сарвана</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="86"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Капіюцца FML бібліятэкі ў рахунак...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="95"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ня атрымалася стварыць FML бібліятэку папка ўнутры рахунка.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="99"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ня атрымалася капіяваць Forge/FML library: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="112"/>
@@ -1965,7 +1974,11 @@ Are you sure?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ня атрымалася спампаваць наступныя файлы:
+%1
+
+Прычына:%2
+Калі ласка паспрабуйце зноў.</translation>
     </message>
 </context>
 <context>
@@ -1973,7 +1986,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>FTB Імпорт Праграмы</translation>
     </message>
 </context>
 <context>
@@ -1981,7 +1994,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="83"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Майнкрафт %1</translation>
     </message>
 </context>
 <context>
@@ -1989,12 +2002,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Капіюцца файлы...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Капіюцца налады...</translation>
     </message>
 </context>
 <context>
@@ -2002,12 +2015,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="28"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Вырашоўваецца IDs мода...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="86"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ня верная дата павярнулася з API.</translation>
     </message>
 </context>
 <context>
@@ -2015,23 +2028,23 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Рыхтуем мады для CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>Выключаны мады ня будуць абноўлены, каб прадухіліць падвойваньне мода праблемы!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="130"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Атрымліваем адказ API з CurseForge на &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="141"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Аналізуем адказ API з CurseForge бо &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
@@ -2121,7 +2134,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="484"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Наступныя файлы недасяжны для спампоўцы ў невядомых лаўнчарах.&lt;br/&gt;Вам патрэбна спампаваць іх уручную і дадаць іх да рахунка.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="506"/>
@@ -2891,7 +2904,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="624"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрас сэрвера:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="329"/>
@@ -3321,7 +3334,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Адхіліць</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="230"/>
@@ -3362,7 +3375,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <location filename="src/launcher/LaunchController.cpp" line="364"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Памылка!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="291"/>
@@ -3390,7 +3403,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="376"/>
         <source>Waiting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Чакаем.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="378"/>
@@ -4180,7 +4193,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="277"/>
         <source>Add a new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Стварыць новы рахунак.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="555"/>
@@ -4587,7 +4600,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="504"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1520"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Стварыць Ярлык</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="507"/>
@@ -4697,7 +4710,8 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="925"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лаўнчар ня можа спампаваць Майнкрафт або абнаўленьні пакуль вы маеце прынамсі адзін акаўнт даданы.
+Калі ласка дадайце Моянг або Майнкрафт акаўнт.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1103"/>
@@ -8865,7 +8879,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ня можу спампаваць Майнкрафт або абнаўленьні пакуль вы маеце прынамсі адзін акаўнт даданы
+Калі ласка дадайце Моянг або Майнкрафт акаўнт.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="452"/>
