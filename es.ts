@@ -1267,7 +1267,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>Copiar Shader Packs</translation>
+        <translation>Copiar shader packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
@@ -1277,7 +1277,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Copiar Resource Packs</translation>
+        <translation>Copiar resource packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -1287,7 +1287,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation>Copiar capturas de pantalla</translation>
+        <translation>Copiar imagenes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
@@ -2139,7 +2139,7 @@ Por favor, inténtelo de nuevo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar App de FTB</translation>
     </message>
 </context>
 <context>
@@ -2147,7 +2147,7 @@ Por favor, inténtelo de nuevo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="83"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2155,12 +2155,12 @@ Por favor, inténtelo de nuevo.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando archivos...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando ajustes...</translation>
     </message>
 </context>
 <context>
@@ -2978,7 +2978,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="243"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>El archivo no contiene un tipo de modpacks reconocido.</translation>
+        <translation>El archivo no contiene un tipo de modpack reconocido.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
@@ -4371,17 +4371,17 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="113"/>
         <source>Public Modpack</source>
-        <translation>Modpacks público</translation>
+        <translation>Modpack público</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="115"/>
         <source>Third Party Modpack</source>
-        <translation>Modpacks de terceros</translation>
+        <translation>Modpack de terceros</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="117"/>
         <source>Private Modpack</source>
-        <translation>Modpacks privado</translation>
+        <translation>Modpack privado</translation>
     </message>
 </context>
 <context>
@@ -5705,6 +5705,13 @@ Borrarla podría romper la otra instancia,
 Borrarlo podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
+
+%1
+
+Borrarlo podría romper las otras instancias, 
+
+¿Desea continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -6664,7 +6671,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="52"/>
         <source>Mods</source>
-        <translation>Pestaña de Mods</translation>
+        <translation>Mods</translation>
     </message>
 </context>
 <context>
@@ -7000,7 +7007,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="318"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>Ha ocurrido un error en la red. No se han podido cargar los modpacks.</translation>
+        <translation>Se ha producido un error de red. No se han podido cargar los modpacks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="325"/>
@@ -7240,7 +7247,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Nota: Los modpacks de Modrinth están en fase alfa. ¡Algunas cosas pueden dar problemas o no funcionar totalmente! Usar con cuidado.</translation>
+        <translation>Nota: Los modpacks de Modrinth aún están en fase alfa. Algunas cosas pueden ser toscas o no funcionar en absoluto. Utilízalo con precaución.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -8822,7 +8829,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="125"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>Resource Packs</translation>
+        <translation>resource packs</translation>
     </message>
 </context>
 <context>
@@ -8831,7 +8838,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="35"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation>Resource Packs</translation>
+        <translation>resource packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
@@ -8928,7 +8935,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="161"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>Shader Packs</translation>
+        <translation>shader packs</translation>
     </message>
 </context>
 <context>
@@ -8937,7 +8944,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="35"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>Shader Packs</translation>
+        <translation>shader packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
@@ -8952,7 +8959,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="144"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>Texture packs</translation>
+        <translation>texture packs</translation>
     </message>
 </context>
 <context>
@@ -8961,7 +8968,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="37"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation>Texture packs</translation>
+        <translation>texture packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
@@ -9134,7 +9141,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="50"/>
         <source>Resource packs</source>
-        <translation>Resource Packs</translation>
+        <translation>Resource packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -9297,7 +9304,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation>Capturas de pantalla</translation>
+        <translation>Imagenes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
@@ -9326,7 +9333,7 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Estás a punto de subir %1 capturas de pantalla a %2.
+        <translation>Estás a punto de subir %1 imagenes a %2.
 Deberías volver a comprobar la información personal.
 
 ¿Está seguro?</translation>
@@ -9376,7 +9383,7 @@ Deberías volver a comprobar la información personal.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Estas a punto de eliminar %1 capturas de pantalla.
+        <translation>Estas a punto de eliminar %1 imagenes.
 Esta acción es permanente y los elementos desaparecerán de la carpeta.
 
 ¿Estas seguro?</translation>
@@ -9559,7 +9566,7 @@ Esto es permanente y el servidor desaparecerá de su lista para siempre (POR MUC
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="48"/>
         <source>Shader packs</source>
-        <translation>Shader Packs</translation>
+        <translation>Shader packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="52"/>
@@ -9981,7 +9988,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download texture packs from online platforms</source>
-        <translation>Descargue resource packs de plataformas en línea</translation>
+        <translation>Descargue texture packs de plataformas en línea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="79"/>
@@ -10995,7 +11002,7 @@ Ruta canónica: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
         <source>Datapacks</source>
-        <translation>Packs de datos</translation>
+        <translation>Datapacks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
