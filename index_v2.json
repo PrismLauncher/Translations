@@ -378,6 +378,14 @@
             "fuzzy" : 174,
             "untranslated" : 898
         },
+        "lzh" : {
+            "file" : "1c8d88aae7bc1a0f1ceea0fea98fce495002cd6f.class",
+            "sha1" : "1c8d88aae7bc1a0f1ceea0fea98fce495002cd6f",
+            "size" : 24,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 1695
+        },
         "mk" : {
             "file" : "1b559413adee5d944eb0bc2e67cd98a382fa7e99.class",
             "sha1" : "1b559413adee5d944eb0bc2e67cd98a382fa7e99",
