@@ -6003,7 +6003,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="97"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نامعلوم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="110"/>

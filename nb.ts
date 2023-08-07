@@ -1007,7 +1007,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="172"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
@@ -1397,7 +1397,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="155"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingen versjon er tilgjengelig for Minecraft %1 på dette tidspunkt.</translation>
     </message>
 </context>
 <context>
@@ -1421,7 +1421,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -2004,7 +2004,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="70"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="86"/>
@@ -2330,7 +2330,7 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Søk og filtrer...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
@@ -2342,7 +2342,7 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sorter etter popularitet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
@@ -4225,7 +4225,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -5463,7 +5463,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="166"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="187"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
 </context>
 <context>
@@ -5523,7 +5523,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="20"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
 </context>
 <context>
@@ -5823,7 +5823,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="97"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukjent</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="110"/>
@@ -6025,7 +6025,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="234"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
@@ -6910,7 +6910,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="344"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="571"/>
@@ -7738,7 +7738,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="207"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sorter etter popularitet</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
@@ -8225,7 +8225,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="81"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="81"/>
@@ -8607,7 +8607,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
@@ -8882,7 +8882,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Søk og filtrer...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
@@ -8974,7 +8974,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="83"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="83"/>
