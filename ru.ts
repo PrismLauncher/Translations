@@ -2143,7 +2143,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Импорт из FTB</translation>
     </message>
 </context>
 <context>
