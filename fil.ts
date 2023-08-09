@@ -2227,7 +2227,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bersyong napili:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -2268,7 +2268,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="66"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I-sorte ayon sa Pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="67"/>
@@ -3007,7 +3007,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort ang Profiler</translation>
     </message>
 </context>
 <context>
@@ -3020,7 +3020,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort ang Profiler</translation>
     </message>
 </context>
 <context>
@@ -3756,13 +3756,13 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="56"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I-sorte ayon sa Pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="57"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I-sorte ayon sa Bersyon ng Laro</translation>
     </message>
 </context>
 <context>
@@ -3865,7 +3865,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="121"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bersyong napili:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="205"/>
@@ -5420,7 +5420,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="97"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hindi kilala</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="110"/>
@@ -6018,7 +6018,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bersyong napili:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
@@ -7186,7 +7186,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="209"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I-sorte ayon sa Pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="210"/>
@@ -7207,7 +7207,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="213"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I-sorte ayon sa Bersyon ng Laro</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="112"/>
@@ -7686,7 +7686,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bersyong napili:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
@@ -8300,7 +8300,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bersyong napili:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>

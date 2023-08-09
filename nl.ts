@@ -6512,7 +6512,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bezoek mod pagina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="108"/>
