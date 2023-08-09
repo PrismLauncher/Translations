@@ -410,7 +410,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nezināms</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="325"/>
@@ -1221,22 +1221,22 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicē nevis kopē</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tava failu sistēma vai operētājsistēma neatbalsta reflinkus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopē ēnu pakas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopē serverus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
@@ -1251,7 +1251,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopē ekrānuzņēmumus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
@@ -1336,12 +1336,12 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="66"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtri</translation>
+        <translation>Filtri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished">Relīzes</translation>
+        <translation>Izdevumi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
@@ -1366,13 +1366,13 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation type="unfinished">Eksperimentālās</translation>
+        <translation>Eksperimentālās</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="253"/>
         <source>Refresh</source>
-        <translation type="unfinished">Pārlādēt</translation>
+        <translation>Pārlādēt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
@@ -1382,37 +1382,37 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Neviena</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Savs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="121"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nav izvēlēta Minecraft versija.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="127"/>
@@ -1422,7 +1422,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="155"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nav pieejamu versiju priekš Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -1430,7 +1430,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skenē failus...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
@@ -1440,13 +1440,13 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopē %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">Pārtraukts</translation>
+        <translation>Pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1566,7 +1566,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation type="unfinished">Pārtraukt</translation>
+        <translation>Pārtraukt</translation>
     </message>
 </context>
 <context>
@@ -1602,58 +1602,58 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informācija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopsavilkums</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">Vārds</translation>
+        <translation>Vārds</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="67"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Faili</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="111"/>
         <source>Export %1</source>
-        <translation type="unfinished">Eksportēt %1</translation>
+        <translation>Eksportēt %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="125"/>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzdevums pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotājs pārtrauca uzdevumu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
         <source>Abort</source>
-        <translation type="unfinished">Pārtraukt</translation>
+        <translation>Pārtraukt</translation>
     </message>
 </context>
 <context>
@@ -1666,12 +1666,12 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Iestatījumi</translation>
+        <translation>Iestatījumi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
@@ -1686,7 +1686,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
@@ -1701,40 +1701,40 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Paraugs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nesvarīga informācija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formāts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rezultāts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
@@ -1744,12 +1744,12 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished">Kopēt</translation>
+        <translation>Kopēt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">Eksportēt %1</translation>
+        <translation>Eksportēt %1</translation>
     </message>
 </context>
 <context>
@@ -1757,27 +1757,27 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filtrs:</translation>
+        <translation>Filtrs:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="74"/>
         <source>Actions</source>
-        <translation type="unfinished">Darbības</translation>
+        <translation>Darbības</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">Pievienot</translation>
+        <translation type="unfinished">&amp;Pievienot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">Noņemt</translation>
+        <translation type="unfinished">&amp;Noņemt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
@@ -1787,7 +1787,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished">Iespējot</translation>
+        <translation type="unfinished">&amp;Iespējot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -1797,7 +1797,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished">Atspējot</translation>
+        <translation>&amp;Atspējot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -1807,22 +1807,22 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">&amp;Konfigurācija</translation>
+        <translation>Skatīt &amp;Konfigurācija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Atvērt &apos;config&apos; folderi sistēmas failu pārlūkā.</translation>
+        <translation>Atvērt &apos;config&apos; mapi sistēmas failu pārlūkā.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">Skatīt Mapi</translation>
+        <translation type="unfinished">Skatīt &amp;Mape</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lejupielādēt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="146"/>
@@ -1859,7 +1859,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="198"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">Izvēlēties %1</translation>
+        <translation>Izvēlēties %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="228"/>
@@ -1880,7 +1880,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="240"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Piekrist Noņemšanai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
@@ -1911,7 +1911,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">Teksta redaktors:</translation>
+        <translation>&amp;Teksta redaktors:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
@@ -2033,7 +2033,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="70"/>
         <source>Aborted</source>
-        <translation type="unfinished">Pārtraukts</translation>
+        <translation>Pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="86"/>
@@ -2077,7 +2077,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="83"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2085,12 +2085,12 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopē failus...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopē iestatījumus...</translation>
     </message>
 </context>
 <context>
@@ -2157,12 +2157,12 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="113"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (versija %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="238"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nav indeksa fails.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
