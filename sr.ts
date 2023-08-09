@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Напомена: Ти највероратније желиш да мењаш или да избришеш базну УРЛ после мењање од paste сервис типа.</translation>
+        <translation>Напомена: највероратније желиш да мењаш или да избришеш базни URL после мењања paste сервис типа.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -56,17 +56,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt;&lt;body&gt;&lt;p&gt;Напомена: за ово је потребно само да се постави на приступ заштићеним/приватним подацима. Прочитај &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;документацију&lt;/a&gt; за више информација.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Унеси прилагођени API токен за Modrinth овде.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -96,12 +96,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервиси</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ово можете подесити на сервер метаподатака треће стране да бисте користили &quot;поправљене&quot; датотеке (библиотеке) и друге хакове.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>Језгро &amp;CurseForge API-а</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
@@ -122,12 +122,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Овде унесите специјални АПИ кључ за ЦурсеФорге .</translation>
+        <translation>Овде унесите специјални API кључ за CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
@@ -136,18 +136,18 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="115"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Није могуће разумети манифест пакета
+        <translation>Није могуће разумети манифест пакета:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="337"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Добијање индекса локалних метаподатака није успело за 1%</translation>
+        <translation>Добијање индекса локалних метаподатака није успело за %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="147"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Није успело преузимање индекса локалних метаподатака за %1&apos; v%2</translation>
+        <translation>Није успело преузимање индекса локалних метаподатака за &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="137"/>
@@ -167,12 +167,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="370"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Проналажење верзије за %1 лодера није успело</translation>
+        <translation>Проналажење верзије модификатора за %1 није успело</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="383"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Није постављена верзија за учитавање модпацкa!</translation>
+        <translation>Није постављена верзија за учитавање паковања модификација!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="513"/>
@@ -187,7 +187,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="627"/>
         <source>Config download</source>
-        <translation>Преузимање конфигурације</translation>
+        <translation>Преузми конфигурацију</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="669"/>
@@ -227,7 +227,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="814"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 од укупно %2 завршено</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="857"/>
@@ -252,7 +252,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="971"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Непознат тип модификатора: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="985"/>
@@ -300,7 +300,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Похвале</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
@@ -310,17 +310,17 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>О QT-u</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation>Zatvori</translation>
+        <translation>Затвори</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="138"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>О %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="159"/>
