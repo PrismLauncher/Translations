@@ -1696,7 +1696,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Savs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
@@ -4228,12 +4228,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="210"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uzdevums pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="210"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lietotājs pārtrauca uzdevumu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="220"/>
@@ -5256,12 +5256,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="877"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uzdevums pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="877"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lietotājs pārtrauca uzdevumu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="881"/>
@@ -5539,12 +5539,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uzdevums pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lietotājs pārtrauca uzdevumu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="188"/>
@@ -5634,7 +5634,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="867"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="871"/>
@@ -5958,7 +5958,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="97"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nezināms</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="110"/>
@@ -6483,12 +6483,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="57"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (versija %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nav indeksa fails.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
@@ -7847,7 +7847,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Savs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="183"/>
@@ -8713,7 +8713,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="715"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Piekrist Noņemšanai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="716"/>
@@ -9643,7 +9643,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="286"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Piekrist Noņemšanai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="287"/>
