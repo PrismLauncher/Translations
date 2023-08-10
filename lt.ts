@@ -5391,7 +5391,7 @@ Ar jūs norite tęsti?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="867"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="871"/>
@@ -6281,12 +6281,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="89"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ieškoma failo maišos...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="153"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ieškoma maišos versija...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="188"/>
@@ -6296,7 +6296,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="197"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pridedami failai...</translation>
     </message>
 </context>
 <context>
@@ -6319,7 +6319,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paieška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
@@ -6335,7 +6335,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rūšiuoti pagal atsisiuntimų skaičių</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
@@ -6346,7 +6346,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rūšiuoti pagal naujausiai atnaujintus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="242"/>
@@ -6361,22 +6361,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="259"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Išorinės nuorodos:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="263"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klaida: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wikipedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagrindinis kodas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
@@ -7555,7 +7555,7 @@ PASTABA: Prieš atnaujindami įsitikinkite, kad padarėte svarbių egzempliorių
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="206"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">rūšiuoti pagal terminą</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="207"/>
@@ -7566,7 +7566,7 @@ PASTABA: Prieš atnaujindami įsitikinkite, kad padarėte svarbių egzempliorių
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rūšiuoti pagal naujausiai atnaujintus</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="209"/>
@@ -7576,7 +7576,7 @@ PASTABA: Prieš atnaujindami įsitikinkite, kad padarėte svarbių egzempliorių
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="210"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rūšiuoti pagal autorių</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="113"/>
@@ -7779,22 +7779,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="220"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Išorinės nuorodos:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="224"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klaida: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="226"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wikipedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagrindinis kodas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="230"/>
@@ -8070,7 +8070,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paieška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
@@ -8704,7 +8704,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paieška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="205"/>
@@ -9521,7 +9521,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="38"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paieška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="163"/>
