@@ -2244,7 +2244,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Не вдалося знайти версію для завантажувача %1.</translation>
+        <translation>Не вдалося знайти версію для завантажувача %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="301"/>
@@ -5699,7 +5699,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1567"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярлик збірки успішно створено!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1666"/>
@@ -9150,7 +9150,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви збираєтесь вивантажити %1 знімки(-ів) екрану до %2.
+Перепровірте їх на наявність персональної інформації.
+
+Ви впевнені?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"/>
@@ -9158,7 +9161,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви збираєтесь вивантажити обраний знімок екрану до %1.
+Перепровірте його на наявність персональної інформації.
+
+Ви впевнені?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
@@ -9754,7 +9760,9 @@ inheritsFrom відсутній</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Увага: Цей ресурс символічно пов&apos;язаний з іншим ресурсом. Його редагування також змінить оригінал.
+Канонічний шлях: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="93"/>
