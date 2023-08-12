@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>نوع و خدمة الطبع</translation>
+        <translation>نوع خدمة الطبع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>ملاحظة: ربما لا تحتاج إلى تعيين هذا إذا كان تسجيل الدخول عبر Microsoft Authentication يعمل بالفعل.</translation>
+        <translation>ملاحظة: على الأرجح لا تحتاج إلى تعيين هذا إذا كان تسجيل الدخول عبر Microsoft Authentication يعمل.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>ادخل عنوان ال&quot;API&quot; المميز الخاص ب&quot;مودرينث (modrinth)&quot;</translation>
+        <translation>ادخل عنوان ال&quot;API&quot; المميز الخاص ب ‬Modrinth.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
