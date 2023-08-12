@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>ملاحظة: ربما تريد تغيير الرابط الأساسي أو مسحه بعد تغيير نوع خدمة اللصق.</translation>
+        <translation>ملاحظة: ستريد على الارجح تغيير او ازالة الرابط الاساسي بعد تغيير نوع خدمة الطبع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
