@@ -64,7 +64,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>Modrinth API（&amp;M）</translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -1536,7 +1536,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="400"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="467"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在分析 &apos;%1&apos; 的 CurseForge API 回應…</translation>
+        <translation>正在分析「%1」的 CurseForge API 回應…</translation>
     </message>
 </context>
 <context>
@@ -2320,7 +2320,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="566"/>
         <source>Copying Blocked Mods...</source>
-        <translation>複製被封鎖的模組...</translation>
+        <translation>複製被封鎖的模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="579"/>
@@ -2349,7 +2349,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="558"/>
         <source>Downloading mods...</source>
-        <translation>正在下載模組...</translation>
+        <translation>正在下載模組…</translation>
     </message>
 </context>
 <context>
@@ -2423,7 +2423,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="61"/>
         <source>Searching for files...</source>
-        <translation>搜尋檔案...</translation>
+        <translation>搜尋檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="83"/>
@@ -2433,28 +2433,28 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="100"/>
         <source>Finding file hashes...</source>
-        <translation>正在尋找檔案雜湊值...</translation>
+        <translation>正在尋找檔案雜湊值…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="181"/>
         <source>Finding versions for hashes...</source>
-        <translation>正在尋找版本雜湊值...</translation>
+        <translation>正在尋找版本雜湊值…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="231"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="293"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在分析 &apos;%1&apos; 的 CurseForge API 回應…</translation>
+        <translation>正在分析「%1」的 CurseForge API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="250"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>正在從 CurseForge 尋找專案資訊...</translation>
+        <translation>正在從 CurseForge 尋找專案資訊…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="328"/>
         <source>Adding files...</source>
-        <translation>正在新增檔案...</translation>
+        <translation>正在新增檔案…</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -2931,7 +2931,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="43"/>
         <source>Removing old conflicting files...</source>
-        <translation>正在刪除舊的衝突檔案...</translation>
+        <translation>正在刪除舊的衝突檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="52"/>
@@ -4299,7 +4299,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="298"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[測試／資訊] 無害的訊息…</translation>
+        <translation>[測試/資訊] 無害的訊息…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="307"/>
@@ -5010,7 +5010,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="387"/>
         <source>&amp;Edit...</source>
-        <translation>編輯（&amp;E）...</translation>
+        <translation>編輯（&amp;E）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
@@ -5020,7 +5020,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
         <source>E&amp;xport...</source>
-        <translation>匯出（&amp;X）...</translation>
+        <translation>匯出（&amp;X）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="414"/>
@@ -5030,7 +5030,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="429"/>
         <source>Cop&amp;y...</source>
-        <translation>複製（&amp;Y）...</translation>
+        <translation>複製（&amp;Y）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="504"/>
@@ -5066,7 +5066,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="274"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>新增實例（&amp;E）...</translation>
+        <translation>新增實例（&amp;E）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="184"/>
@@ -5077,7 +5077,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="301"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>設定（&amp;N）...</translation>
+        <translation>設定（&amp;N）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="265"/>
@@ -5115,7 +5115,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>&amp;Discord Guild</source>
-        <translation>&amp;Discord 伺服器</translation>
+        <translation>Discord 伺服器（&amp;D）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
@@ -5130,7 +5130,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="286"/>
         <source>&amp;Update...</source>
-        <translation>更新（&amp;U）...</translation>
+        <translation>更新（&amp;U）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="246"/>
@@ -5194,7 +5194,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>CurseForge (zip)</source>
-        <translation>CurseForge（Zip）</translation>
+        <translation>CurseForge（zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
@@ -5314,7 +5314,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="364"/>
         <source>&amp;Change Group...</source>
-        <translation>變更群組（&amp;C）...</translation>
+        <translation>變更群組（&amp;C）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="370"/>
@@ -5886,7 +5886,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation>取得版本...</translation>
+        <translation>正在取得版本…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="167"/>
@@ -6817,7 +6817,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="119"/>
         <source>Checking for updates...</source>
-        <translation>檢查更新...</translation>
+        <translation>檢查更新…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
@@ -7123,7 +7123,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="273"/>
         <source>Downloading mods...</source>
-        <translation>正在下載模組...</translation>
+        <translation>正在下載模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="335"/>
@@ -7162,7 +7162,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="296"/>
         <source>Fetching changelogs...</source>
-        <translation>取得更新日誌...</translation>
+        <translation>正在取得更新日誌…</translation>
     </message>
 </context>
 <context>
@@ -7193,7 +7193,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation>搜尋檔案...</translation>
+        <translation>正在搜尋檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="73"/>
@@ -7962,7 +7962,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="56"/>
         <source>Global Status Details...</source>
-        <translation>全域狀態詳情...</translation>
+        <translation>全域狀態詳情…</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -8773,7 +8773,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="173"/>
         <source>Checking for dependencies...</source>
-        <translation>正在檢查前置項...</translation>
+        <translation>正在檢查前置項…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -8838,7 +8838,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="102"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>搜尋%1...</translation>
+        <translation>搜尋%1…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="103"/>
@@ -8899,7 +8899,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>Loading versions...</source>
-        <translation>正在載入版本...</translation>
+        <translation>正在載入版本…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
@@ -8993,7 +8993,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此資源在其他地方是硬鏈接的。編輯它也會改變原來的。</translation>
+警告：此資源在其他地方是硬連結的。編輯它也會改變原來的。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
@@ -9693,7 +9693,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation>子任務狀態...</translation>
+        <translation>子任務狀態…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
@@ -11280,7 +11280,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="259"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt;SSL 交握失敗。&lt;/b&gt;&lt;br/&gt;這可能有幾種原因：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;您使用 Windows 且需要更新您的根憑證，請安裝任何未完成的更新。&lt;/li&gt;&lt;li&gt;在您的網路中有一些裝置在干擾 SSL 流量。在此情況下，您有比無法啟動 Minecraft 還更大的擔憂。&lt;/li&gt;&lt;li&gt;可能是一些其他的原因。確認記錄檔以了解詳情&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>&lt;b&gt;SSL 握手失敗。&lt;/b&gt;&lt;br/&gt;這可能有幾種原因：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;您使用 Windows 且需要更新您的根憑證，請安裝任何未完成的更新。&lt;/li&gt;&lt;li&gt;在您的網路中有一些裝置在干擾 SSL 流量。在此情況下，您有比無法啟動 Minecraft 還更大的擔憂。&lt;/li&gt;&lt;li&gt;可能是一些其他的原因。確認記錄檔以了解詳情&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="273"/>
