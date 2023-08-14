@@ -8148,7 +8148,7 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>即将将“%1”上传到“%2”。
-您应该再次检查个人信息。
+请确认日志中没有包含个人信息。
 
 您确定吗？</translation>
     </message>
@@ -9336,7 +9336,7 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>您即将上传 %1 张截图到 %2 。
-请再次仔细检查个人信息。
+请确认截图中没有包含个人信息。
 
 您确定吗？</translation>
     </message>
@@ -9347,7 +9347,7 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>您即将上传选中的截图到 %1 。
-请仔细检查个人信息。
+请确认其中没有包含个人信息。
 
 您确定吗？</translation>
     </message>
