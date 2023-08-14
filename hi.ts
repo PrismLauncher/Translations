@@ -23,12 +23,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>नोट: आप शायद पेस्ट सेवा प्रकार बदलने के बाद बेस यूआरएल को बदलना या साफ़ करना चाहते हैं।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>एपीआई कीज़</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>नोट: यदि Microsoft प्रमाणीकरण के माध्यम से लॉग इन करना पहले से ही काम करता है, तो आपको संभवतः इसे सेट करने की आवश्यकता नहीं है।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>यहां Microsoft प्रमाणीकरण के लिए एक कस्टम क्लाइंट आईडी दर्ज करें।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>यहां मॉड्रिंथ के लिए एक कस्टम एपीआई टोकन दर्ज करें।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -76,17 +76,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>मिश्रित</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>उपयोगकर्ता एजेंट</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>यहां एक कस्टम उपयोगकर्ता एजेंट दर्ज करें। विशेष स्ट्रिंग $LAUNCHER_VER को लॉन्चर के संस्करण से बदल दिया जाएगा।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -96,17 +96,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>सेवाएं</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>आप पैच लाइब्रेरी या अन्य हैक का उपयोग करने के लिए इसे किसी तृतीय-पक्ष मेटाडेटा सर्वर पर सेट कर सकते हैं।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>यहां मेटा के लिए एक कस्टम यूआरएल दर्ज करें।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
@@ -116,18 +116,18 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>नोट: यदि कर्सफोर्ज पहले से ही काम करता है तो आपको संभवतः इसे सेट करने की आवश्यकता नहीं है।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>यहां कर्सफोर्ज के लिए एक कस्टम एपीआई कुंजी दर्ज करें।</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">एपीआईस</translation>
     </message>
 </context>
 <context>
@@ -136,12 +136,13 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="115"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>पैक मेनिफ़ेस्ट समझ में नहीं आया:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="337"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 के लिए स्थानीय मेटाडेटा सूचकांक प्राप्त करने में विफल</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="147"/>
