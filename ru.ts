@@ -2957,7 +2957,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="145"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить загрузчик</translation>
     </message>
 </context>
 <context>
@@ -5205,7 +5205,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>View &amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотреть &amp;Сборку Папку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="576"/>
