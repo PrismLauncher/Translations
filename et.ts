@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Teenused</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -410,25 +410,25 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Tundmatu</translation>
+        <translation>Tundmatu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="325"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Pole saadaval</translation>
+        <translation>Pole saadaval</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="328"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Jah</translation>
+        <translation>Jah</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="330"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Ei</translation>
+        <translation>Ei</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1312,7 +1312,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Enne-käivitust käsklus:</translation>
+        <translation>Käivituse-eelne käsklus:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
@@ -1324,7 +1324,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enne-käivitust käsklus käivitub enne eksemplari käivitumist ning väljumise-järgne käsklus käivitub pärast selle sulgemist.&lt;/p&gt;&lt;p&gt;Mõlemad käitatakse käivitaja töötamiskaustas koos täiendavate keskkonnamuutujatega:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - eksemplari nimi&lt;/li&gt;&lt;li&gt;$INST_ID - eksemplari ID (selle kausta nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - eksemplari täielik failitee&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - kausta &quot;minecraft&quot; täielik failitee&lt;/li&gt;&lt;li&gt;$INST_JAVA - käivituseks kasutatav Java täitmisfail&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - käivituseks kasutatavad käsurea parameetrid (hoiatus: ei tööta korralikult, kui argumendid sisaldavad tühikuid)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ümbriskäsklus võimaldab täiendava ümbrisprogrammi käivitamist (näiteks Linuxil &quot;optirun&quot;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käivituse-eelne käsklus käivitub enne eksemplari käivitumist ning väljumise-järgne käsklus käivitub pärast selle sulgemist.&lt;/p&gt;&lt;p&gt;Mõlemad käitatakse käivitaja töötamiskaustas koos täiendavate keskkonnamuutujatega:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - eksemplari nimi&lt;/li&gt;&lt;li&gt;$INST_ID - eksemplari ID (selle kausta nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - eksemplari täielik failitee&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - kausta &quot;minecraft&quot; täielik failitee&lt;/li&gt;&lt;li&gt;$INST_JAVA - käivituseks kasutatav Java täitmisfail&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - käivituseks kasutatavad käsurea parameetrid (hoiatus: ei tööta korralikult, kui argumendid sisaldavad tühikuid)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ümbriskäsklus võimaldab täiendava ümbrisprogrammi käivitamist (näiteks Linuxil &quot;optirun&quot;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1340,78 +1340,78 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="66"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtreeri</translation>
+        <translation>Filtreeri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished">Väljalasked</translation>
+        <translation>Väljalasked</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
         <source>Snapshots</source>
-        <translation type="unfinished">Katsetused</translation>
+        <translation>Katsetused</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished">Vanad katsetused</translation>
+        <translation>Vanad katsetused</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished">Beetad</translation>
+        <translation>Beetad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished">Alfad</translation>
+        <translation>Alfad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation type="unfinished">Eksperimendid</translation>
+        <translation>Eksperimendid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="253"/>
         <source>Refresh</source>
-        <translation type="unfinished">Värskenda</translation>
+        <translation>Värskenda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished">Modilaadur</translation>
+        <translation>Modilaadur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished">Puudub</translation>
+        <translation>Puudub</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished">Kohandatud</translation>
+        <translation>Kohandatud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="121"/>
@@ -1421,7 +1421,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="127"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished">Modilaadur pole valitud.</translation>
+        <translation>Modilaadur pole valitud.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="155"/>
@@ -1570,7 +1570,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation type="unfinished">Katkesta</translation>
+        <translation>Katkesta</translation>
     </message>
 </context>
 <context>
@@ -1629,63 +1629,63 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="14"/>
         <source>Export Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekspordi pakk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished">Informatsioon</translation>
+        <translation>Informatsioon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished">Kokkuvõte</translation>
+        <translation>Kokkuvõte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">Versioon</translation>
+        <translation>Versioon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished">1.0.0</translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="67"/>
         <source>Files</source>
-        <translation type="unfinished">Failid</translation>
+        <translation>Failid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="111"/>
         <source>Export %1</source>
-        <translation type="unfinished">Ekspordi %1</translation>
+        <translation>Ekspordi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="125"/>
         <source>Error</source>
-        <translation type="unfinished">Viga</translation>
+        <translation>Viga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tegevus tühistatud</translation>
+        <translation>Tegevus tühistatud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Tegevus on kasutaja poolt tühistatud.</translation>
+        <translation>Tegevus on kasutaja poolt tühistatud.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
         <source>Abort</source>
-        <translation type="unfinished">Katkesta</translation>
+        <translation>Katkesta</translation>
     </message>
 </context>
 <context>
@@ -1698,32 +1698,32 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Sätted</translation>
+        <translation>Sätted</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Lihttekst</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
@@ -1733,40 +1733,40 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Mall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Valikuline teave</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished">Versioon</translation>
+        <translation>Versioon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorming</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulemus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
@@ -1776,12 +1776,12 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished">Kopeeri</translation>
+        <translation>Kopeeri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">Ekspordi %1</translation>
+        <translation>Ekspordi %1</translation>
     </message>
 </context>
 <context>
@@ -1939,7 +1939,7 @@ Kas oled kindel?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">Sirvi</translation>
+        <translation>Sirvi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2115,7 +2115,7 @@ Palun proovi uuesti.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP App&apos;ist importimine</translation>
     </message>
 </context>
 <context>
@@ -2123,7 +2123,7 @@ Palun proovi uuesti.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="83"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2131,12 +2131,12 @@ Palun proovi uuesti.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Failide kopeerimine...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Seadete kopeerimine...</translation>
     </message>
 </context>
 <context>
@@ -2243,17 +2243,17 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Ei saanud kohalikkude andmete indeksit %1</translation>
+        <translation>Kohalike metaandmete indeksi hankimine %1 jaoks ebaõnnestus</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="297"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Ei leidnud %1 laadjale versiooni</translation>
+        <translation>Laaduri %1 versiooni leidmine ebaõnnestus</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="302"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Modipaki laaduri versioon pole määratud!</translation>
+        <translation>Modipakil pole laaduri versiooni sätestatud!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
@@ -2411,7 +2411,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="61"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Failide kopeerimine</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="83"/>
@@ -2771,7 +2771,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Impordi zip-ist</translation>
+        <translation>Impordi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="139"/>
@@ -2848,32 +2848,32 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Värskenda</translation>
+        <translation>&amp;Värskenda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="145"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Paigalda laadur</translation>
     </message>
 </context>
 <context>
@@ -3130,12 +3130,12 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="82"/>
         <source>Browse</source>
-        <translation type="unfinished">Sirvi</translation>
+        <translation>Sirvi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="127"/>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="148"/>
@@ -3234,17 +3234,17 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="561"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Modilaaduri sätted</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="567"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation type="unfinished"></translation>
+        <translation>Keela Quilt Loaderi andmekoguja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="570"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished"></translation>
+        <translation>Keela Quilt Loaderi andmekoguja, mis jälgib kuus aktiivsete kasutajate arvu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="647"/>
@@ -3482,7 +3482,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -3530,7 +3530,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
         <source>Browse</source>
-        <translation type="unfinished">Sirvi</translation>
+        <translation>Sirvi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
@@ -3984,7 +3984,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="136"/>
         <source>Browse</source>
-        <translation type="unfinished">Sirvi</translation>
+        <translation>Sirvi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
@@ -4063,13 +4063,13 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished">Keela modipakkujate (nagu Modrinth või CurseForge) metaandmete kasutamine modide jaoks.</translation>
+        <translation>Keela modipakkujate (nagu Modrinth või CurseForge) metaandmete kasutamine modide jaoks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished">Keela modide metaandmete kasutamine?</translation>
+        <translation>Keela modide jaoks metaandmete kasutamine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -4147,19 +4147,19 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Näita konsooli mängu &amp;töötamise ajal?</translation>
+        <translation>Näita konsooli mängu &amp;töötamise ajal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Sulge mängu sulgemisel &amp;automaatselt konsool?</translation>
+        <translation>Sulge mängu sulgemisel &amp;automaatselt konsool</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">Näita konsooli, kui mäng &amp;jookseb kokku?</translation>
+        <translation>Näita konsooli, kui mäng &amp;jookseb kokku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -4685,7 +4685,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="437"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Kausta ei eksisteeri</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="440"/>
@@ -5015,12 +5015,12 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>View &amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaata &amp;eksemplari kausta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="576"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaata käivitaja &amp;juurkausta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
@@ -5123,17 +5123,17 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="486"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="504"/>
         <source>Mod List</source>
-        <translation type="unfinished"></translation>
+        <translation>Modide loetelu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="549"/>
@@ -7690,14 +7690,14 @@ Error message: %3</source>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
         <source>Running Pre-Launch command: %1</source>
-        <translation>Enne-käivitust käskluse käivitamine: %1</translation>
+        <translation>Käivituse-eelse käskluse käivitamine: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="68"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation>Enne-käivitust käsklus ebaõnnestus koodiga %1.
+        <translation>Käivituse-eelne käsklus ebaõnnestus koodiga %1.
 
 </translation>
     </message>
@@ -7706,7 +7706,7 @@ Error message: %3</source>
         <source>Pre-Launch command ran successfully.
 
 </source>
-        <translation>Enne-käivitust käsklus käivitus edukalt.
+        <translation>Käivituse-eelne käsklus käivitus edukalt.
 
 </translation>
     </message>
