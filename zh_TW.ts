@@ -10046,7 +10046,7 @@ inheritsFrom 引數缺失</translation>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：此資源是從其他位置建立的符號連結，編輯將同步修改原始資源。
+警告：此資源已符號連結至其他位置，編輯將同步修改原始資源。
 已連結的路徑：%1</translation>
     </message>
     <message>
@@ -10054,7 +10054,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此資源在其他位置有硬連結，編輯將同步修改原始資源。</translation>
+警告：此資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="134"/>
