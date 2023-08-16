@@ -1971,7 +1971,7 @@ Esta acción es permanente y los elementos desaparecerán de la carpeta raíz.
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">Navegar</translation>
+        <translation>Explorar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2903,32 +2903,32 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Refrescar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="145"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar Loader</translation>
     </message>
 </context>
 <context>
@@ -2936,7 +2936,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="43"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay versiones disponibles para Minecraft %1 por el momento</translation>
     </message>
 </context>
 <context>
@@ -3233,7 +3233,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="82"/>
         <source>Browse</source>
-        <translation type="unfinished">Navegar</translation>
+        <translation>Explorar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="127"/>
@@ -3633,7 +3633,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
         <source>Browse</source>
-        <translation type="unfinished">Navegar</translation>
+        <translation>Explorar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
@@ -5162,12 +5162,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>View &amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver carpeta de la &amp;instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="576"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver carpeta &amp;raiz del lanzador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
@@ -5299,27 +5299,27 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="737"/>
         <source>View &amp;Widget Themes Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver carpetas de temas de %widgets</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="740"/>
         <source>View Widget Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver carpeta de tema del widget</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
         <source>View I&amp;con Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver carpeta del tema del i%cono</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="752"/>
         <source>View Icon Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver carpeta del tema del icono</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>View Cat Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver carpeta de packs de gatos</translation>
     </message>
     <message>
         <source>&amp;View Launcher Root Folder</source>
@@ -7477,18 +7477,18 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="66"/>
         <source>Requesting %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitando %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="139"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="143"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>desconocido</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="145"/>
@@ -9750,7 +9750,7 @@ Esto es permanente y el servidor desaparecerá de su lista para siempre (POR MUC
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="45"/>
         <source>Browse</source>
-        <translation type="unfinished">Navegar</translation>
+        <translation>Explorar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
@@ -10088,17 +10088,17 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="50"/>
         <source>Texture packs</source>
-        <translation>Texture packs</translation>
+        <translation>Paquetes de texturas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="51"/>
         <source>Download packs</source>
-        <translation>Descargar packs</translation>
+        <translation>Descargar paquetes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download texture packs from online platforms</source>
-        <translation>Descargue texture packs de plataformas en línea</translation>
+        <translation>Descargue paquetes de texturas desde plataformas en línea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="79"/>
@@ -10140,17 +10140,17 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="60"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver carpeta de temas de iconos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="79"/>
         <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Widgets</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="104"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver carpeta de temas de widgets.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
