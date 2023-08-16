@@ -10633,7 +10633,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">安装模组加载器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
