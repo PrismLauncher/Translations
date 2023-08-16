@@ -2882,27 +2882,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="145"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Install Loader</translation>
     </message>
 </context>
 <context>
@@ -5103,12 +5103,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>View &amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instance 폴더 보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="576"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>런처 &amp;Root 폴더 보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
