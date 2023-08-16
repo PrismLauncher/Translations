@@ -10086,7 +10086,7 @@ Por favor muda para uma das seguintes versões do Java para esta instância:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Instalar o Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
