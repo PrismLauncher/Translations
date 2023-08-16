@@ -3111,7 +3111,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="127"/>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="148"/>
@@ -8376,7 +8376,7 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="173"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>A verificar por dependências...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -8606,12 +8606,12 @@ Aviso: Este recurso tem um link forte com outro lugar. Editá-lo também irá al
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultimo Modificado</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -8638,7 +8638,7 @@ Aviso: Este recurso tem um link forte com outro lugar. Editá-lo também irá al
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="551"/>
         <source>Show / Hide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar / Esconder Colunas</translation>
     </message>
 </context>
 <context>
@@ -8650,17 +8650,17 @@ Aviso: Este recurso tem um link forte com outro lugar. Editá-lo também irá al
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultimo Modificado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="77"/>
@@ -8815,12 +8815,12 @@ Aviso: Este recurso tem um link forte em outro lado. Editá-lo também irá edit
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Exigido por: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Exigido por:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
@@ -8909,7 +8909,10 @@ Tens a certeza de que queres prosseguir?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás prestes a carregar %1 capturas de ecrã para %2.
+Deves verificar primeiro se existem informações pessoais contidas nelas.
+
+Tens a certeza?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"/>
@@ -8917,7 +8920,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás prestes a carregar as capturas de ecrã selecionadas para %1.
+Deves verificar primeiro se existem informações pessoais contidas nelas.
+
+Tens a certeza?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
@@ -9496,12 +9502,12 @@ inheritsFrom está a faltar</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
@@ -9511,20 +9517,23 @@ inheritsFrom está a faltar</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultimo Modificado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="87"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Aviso: Este recurso está ligado simbolicamente a partir de outro local. Editá-lo irá também alterar o original.
+Caminho Canónico: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="94"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Aviso: Este recurso está ligado por ligação rígida a partir de outro local. Editá-lo irá também alterar o original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="134"/>
@@ -9602,17 +9611,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="60"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir a pasta de temas de ícones.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="79"/>
         <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Componentes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="104"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir a pasta de temas dos componentes,</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
