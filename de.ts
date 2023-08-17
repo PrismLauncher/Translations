@@ -2501,7 +2501,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="250"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lade Projektinformationen von CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="328"/>
@@ -3859,7 +3859,7 @@ Wähle bitte eine der folgenden aus oder wähle eine ausführbare Java-Datei.</t
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemsprache verwenden</translation>
     </message>
 </context>
 <context>
