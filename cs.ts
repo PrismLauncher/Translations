@@ -2775,7 +2775,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- Modpacky CurseForge (ZIP)</translation>
+        <translation>- Modpacky CurseForge (ZIP / URL curseforge://)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -2813,22 +2813,22 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack %1 je blokován třetím stranám! Stáhněte si jej prosím ručně.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Na zadané adrese se nenachází platný modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>Abort</source>
-        <translation type="unfinished">Přerušit</translation>
+        <translation>Přerušit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="205"/>
@@ -2839,7 +2839,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="206"/>
         <source>Choose modpack</source>
-        <translation>Vyber modpack</translation>
+        <translation>Zvolte modpack</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -3343,7 +3343,7 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta knihovny &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="467"/>
@@ -3389,7 +3389,7 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta knihovny &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="515"/>
@@ -3461,7 +3461,7 @@ Postupujte obezřetně!</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="328"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="335"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta k souboru knihovny %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="350"/>
@@ -5725,12 +5725,12 @@ Prosít přidejte váš Mojang nebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack, mod nebo zdroj %1 je blokován třetím stranám! Stáhněte si jej prosím ručně.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1047"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Stáhnout Modpack</translation>
+        <translation>Stáhnutí modpacku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1190"/>
@@ -6258,7 +6258,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta knihovny &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="238"/>
@@ -6269,7 +6269,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta knihovny &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="272"/>
@@ -6372,13 +6372,13 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta k souboru knihovny %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="148"/>
         <source>Auto detected path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky detekovaná cesta: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
