@@ -1423,7 +1423,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
@@ -2838,22 +2838,22 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>El pack de mods %1 está bloqueado para terceros! Por favor, descargalo manualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta url no es un pack de mods válido!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="205"/>
@@ -2935,7 +2935,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
