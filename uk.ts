@@ -690,27 +690,27 @@ Please update both your operating system and %1.</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1140"/>
+        <location filename="src/launcher/Application.cpp" line="1139"/>
         <source>Aborted</source>
         <translation>Перервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1538"/>
+        <location filename="src/launcher/Application.cpp" line="1537"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Старі дані були знайдені у %1, проте у вас уже є дані у %2. На жаль, вам потрібно провести перенесення даних. Нагадати вам про перенесення коли ви запуститите %2 наступного разу?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1542"/>
+        <location filename="src/launcher/Application.cpp" line="1541"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Схоже, що ви використовували %1 раніше. Чи хочете ви перенести ваші дані до нового місця %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1548"/>
+        <location filename="src/launcher/Application.cpp" line="1547"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Схоже ви вже використовували %1 у %2. Чи хочете ви перенести дані до нового місця %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1591"/>
+        <location filename="src/launcher/Application.cpp" line="1590"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Не вдалося перенести! Причина: %1</translation>
     </message>
@@ -3468,49 +3468,58 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceWindow</name>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="60"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
         <translation>Вікно консолі для </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="84"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
         <source>Help</source>
         <translation>Допомога</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
+        <source>&amp;Launch</source>
+        <translation type="unfinished">За&amp;пустити</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
+        <source>&amp;Kill</source>
+        <translation type="unfinished">&amp;Завершити</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
+        <source>Ctrl+K</source>
+        <translation type="unfinished">Ctrl+K</translation>
+    </message>
+    <message>
         <source>Launch Offline</source>
-        <translation>Запустити в офлайн режимі</translation>
+        <translation type="vanished">Запустити в офлайн режимі</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation>Запустити демо</translation>
+        <translation type="vanished">Запустити демо</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <source>Close</source>
         <translation>Закрити</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="157"/>
         <source>Kill</source>
-        <translation>Зупинити</translation>
+        <translation type="vanished">Зупинити</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="159"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
         <translation>Зупинити дану збірку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="163"/>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="176"/>
         <source>Launch</source>
-        <translation>Запуск</translation>
+        <translation type="vanished">Запуск</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="165"/>
-        <location filename="src/launcher/ui/InstanceWindow.cpp" line="178"/>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
         <translation>Запустити вибрану збірку</translation>
     </message>
@@ -3800,33 +3809,33 @@ Please select one of the following or browse for a java executable.</oldsource>
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="67"/>
+        <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
         <translation>Немає вказаної збірки!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="72"/>
+        <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>Вказано недійсні аргументи Java. Будь ласка, спочатку виправте це.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="89"/>
+        <location filename="src/launcher/LaunchController.cpp" line="90"/>
         <source>No Accounts</source>
         <translation>Немає облікового запису</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="90"/>
+        <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
         <translation>Для того, щоб грати в Minecraft, ви повинні увійти, як мінімум, в один обліковий запис Mojang, або Minecraft. Відкрити керування обліковими записами для додавання облікового запису?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="116"/>
+        <location filename="src/launcher/LaunchController.cpp" line="117"/>
         <source>Which account would you like to use?</source>
         <translation>Який обліковий запис Ви хочете використовувати?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>No account selected for launch.</source>
         <translation>Не вибрано акаунту для запуску.</translation>
     </message>
@@ -3835,42 +3844,42 @@ Please select one of the following or browse for a java executable.</oldsource>
         <translation type="vanished">Ви не увійшли в свій акаунт. Будь ласка, введіть ваш пароль, щоб увійти знову. &lt;br /&gt; &lt;br /&gt; Це може бути викликано зміною паролю.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="148"/>
+        <location filename="src/launcher/LaunchController.cpp" line="149"/>
         <source>Continue launch?</source>
         <translation>Продовжити запуск?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="149"/>
+        <location filename="src/launcher/LaunchController.cpp" line="150"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Здається, ми не змогли запуститися після %1 спроб. Бажаєте продовжити?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="185"/>
+        <location filename="src/launcher/LaunchController.cpp" line="186"/>
         <source>Player name</source>
         <translation>Ім‘я гравця</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="178"/>
+        <location filename="src/launcher/LaunchController.cpp" line="179"/>
         <source>Choose your offline mode player name.</source>
         <translation>Виберіть ім‘я гравця для офлайн режиму.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="180"/>
+        <location filename="src/launcher/LaunchController.cpp" line="181"/>
         <source>Choose your demo mode player name.</source>
         <translation>Виберіть Ваше ім&apos;я гравця у демоверсії.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="205"/>
+        <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>Received undetermined session status during login.</source>
         <translation>Отримано невизначений статус сесії під час входу.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>Play demo?</source>
         <translation>Грати в демоверсію?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="217"/>
+        <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -3881,84 +3890,93 @@ Do you want to play the demo?</source>
 Ви хочете зіграти в демо?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="220"/>
+        <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Play Demo</source>
         <translation>Грати в демо</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="230"/>
+        <location filename="src/launcher/LaunchController.cpp" line="231"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Запуск скасовано - обліковий запис не володіє копією Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="245"/>
+        <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Play Offline</source>
         <translation>Грати офлайн</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="258"/>
+        <location filename="src/launcher/LaunchController.cpp" line="259"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>Термін дії облікового запису закінчився, і потрібно знову ввійти вручну.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="259"/>
+        <location filename="src/launcher/LaunchController.cpp" line="260"/>
         <source>Account refresh failed</source>
         <translation>Не вдалося оновити обліковий запис</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="265"/>
+        <location filename="src/launcher/LaunchController.cpp" line="266"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>Змінено ідентифікатор клієнта запускача. Будь ласка, видаліть цей обліковий запис і додайте його знову.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="266"/>
+        <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>Client identification changed</source>
         <translation>Ідентифікація клієнта змінена</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="273"/>
+        <location filename="src/launcher/LaunchController.cpp" line="274"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Обліковий запис більше не існує на серверах. Можливо, він був перенесений, у такому випадку додайте новий обліковий запис на який ви перенесли поточний.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="275"/>
+        <location filename="src/launcher/LaunchController.cpp" line="276"/>
         <source>Account gone</source>
         <translation>Обліковий запис зник</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="282"/>
+        <location filename="src/launcher/LaunchController.cpp" line="283"/>
         <source>Failed to launch.</source>
         <translation>Не вдалося запустити.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
-        <location filename="src/launcher/LaunchController.cpp" line="364"/>
+        <location filename="src/launcher/LaunchController.cpp" line="292"/>
+        <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Error!</source>
         <translation>Помилка!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <location filename="src/launcher/LaunchController.cpp" line="292"/>
+        <location filename="src/launcher/LaunchController.cpp" line="293"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Не вдалося завантажити профіль збірки.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="298"/>
+        <location filename="src/launcher/LaunchController.cpp" line="299"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Не вдалося запустити лаунчер.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="364"/>
-        <source>Couldn&apos;t start profiler: %1</source>
-        <translation>Не вдалося запустити профайлер: %1</translation>
+        <location filename="src/launcher/LaunchController.cpp" line="366"/>
+        <source>Profiler check for %1 failed: %2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="379"/>
+        <source>&amp;Launch</source>
+        <translation type="unfinished">За&amp;пустити</translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t start profiler: %1</source>
+        <translation type="vanished">Не вдалося запустити профайлер: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -3967,14 +3985,13 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="376"/>
+        <location filename="src/launcher/LaunchController.cpp" line="377"/>
         <source>Waiting.</source>
         <translation>Чекаємо.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Launch</source>
-        <translation>Запуск</translation>
+        <translation type="vanished">Запуск</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="385"/>
@@ -4876,9 +4893,8 @@ Reason:
         <translation type="vanished">Зупинити запущену збірку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
         <source>Launch</source>
-        <translation>Запуск</translation>
+        <translation type="vanished">Запуск</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="333"/>
@@ -4905,18 +4921,18 @@ Reason:
         <translation type="vanished">&amp;Відкрити теку збірки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>Open the instance folder in a file browser.</source>
         <translation>Відкрити теку збірки в файловому менеджері.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="588"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
         <translation>Відкрити &amp;загальну теку модів</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>Відкрити теку основних модів в файловому менеджері.</translation>
     </message>
@@ -4925,12 +4941,12 @@ Reason:
         <translation type="vanished">Видалити збірку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="692"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="676"/>
         <source>Folders</source>
         <translation>Теки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="695"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="679"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>Відкрийте одну із тек, спільно використовуваних збірками.</translation>
     </message>
@@ -4948,7 +4964,7 @@ Reason:
         <translation type="vanished">Повідомити про помилку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>Відкрити засіб відстеження помилок, щоб повідомити про помилку в %1.</translation>
     </message>
@@ -4971,7 +4987,7 @@ Reason:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="644"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="628"/>
         <source>Open %1 subreddit.</source>
         <translation>Відкрити %1 на Reddit.</translation>
     </message>
@@ -4980,17 +4996,17 @@ Reason:
         <translation type="vanished">Про %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="656"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="640"/>
         <source>View information about %1.</source>
         <translation>Переглянути інформацію про %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="704"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="688"/>
         <source>Help</source>
         <translation>Допомога</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="707"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Отримати допомогу з %1 або Minecraft.</translation>
     </message>
@@ -5047,7 +5063,7 @@ Reason:
         <translation>&amp;Тека</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="465"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>E&amp;xport...</source>
         <translation>Е&amp;кспорт...</translation>
     </message>
@@ -5062,13 +5078,13 @@ Reason:
         <translation>Копію&amp;вати...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="513"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1621"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1550"/>
         <source>Create Shortcut</source>
         <translation>Створити ярлик</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="516"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="500"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
         <translation>Створює ярлик на стільниці для запуску обраної збірки.</translation>
     </message>
@@ -5114,27 +5130,27 @@ Reason:
         <translation>Скасувати останнє видалення збірки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
         <source>View &amp;Instance Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="576"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>View Launcher &amp;Root Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation>&amp;Очистити кеш метаданих</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="671"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="655"/>
         <source>Clear cached metadata</source>
         <translation>Очистити кешировані метадані</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="664"/>
         <source>Install to &amp;PATH</source>
         <translation>Встановити в &amp;PATH</translation>
     </message>
@@ -5143,22 +5159,22 @@ Reason:
         <translation type="vanished">Повідомити про &amp;помилку...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="629"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>&amp;Matrix Space</source>
         <translation>Простір &amp;Matrix</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="617"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="601"/>
         <source>&amp;Discord Guild</source>
         <translation>&amp;Discord-сервер</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="641"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="625"/>
         <source>Sub&amp;reddit</source>
         <translation>Сабреддіт</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="653"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="637"/>
         <source>&amp;About %1</source>
         <translation>Пр&amp;о %1</translation>
     </message>
@@ -5183,7 +5199,7 @@ Reason:
         <translation>Закріпити панелі інструментів</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Themes</source>
         <translation>Теми</translation>
     </message>
@@ -5212,62 +5228,62 @@ Reason:
         <translation>&amp;Довідка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
         <source>Export the selected instance to supported formats.</source>
         <translation>Експортувати вибрану збірку до підтримуваних форматів.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="477"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="461"/>
         <source>Prism Launcher (zip)</source>
         <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="486"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="470"/>
         <source>Modrinth (mrpack)</source>
         <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="479"/>
         <source>CurseForge (zip)</source>
         <translation>CurseForge (zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="504"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="488"/>
         <source>Mod List</source>
         <translation>Список модів</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="549"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="533"/>
         <source>Close &amp;Window</source>
         <translation>Закрити &amp;вікно</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="552"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="536"/>
         <source>Close the current window</source>
         <translation>Закрити поточне вікно</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="737"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="721"/>
         <source>View &amp;Widget Themes Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="740"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>View Widget Theme Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="733"/>
         <source>View I&amp;con Theme Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="752"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
         <source>View Icon Theme Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="744"/>
         <source>View Cat Packs Folder</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5276,33 +5292,33 @@ Reason:
         <translation type="vanished">&amp;Переглянути кореневу теку лаунчера</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="579"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
         <translation>Відкрити кореневу теку лаунчера у провіднику.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
         <source>Report a Bug or Suggest a Feature</source>
         <translation>Повідомити про помилку або запропонувати функцію</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open %1 Matrix space.</source>
         <translation>Відкрити %1 простір Matrix.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="667"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
         <translation>Встановити символічне посилання %1 до /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="725"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="709"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 &amp;Довідка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="728"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="712"/>
         <source>Open the %1 wiki</source>
         <translation>Відкрийте вікі %1</translation>
     </message>
@@ -5326,19 +5342,16 @@ Reason:
         <translation>Перейменувати обрану збірку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="445"/>
         <source>Launch &amp;Offline</source>
-        <translation>Запустити &amp;офлайн</translation>
+        <translation type="vanished">Запустити &amp;офлайн</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="453"/>
         <source>Launch &amp;Demo</source>
-        <translation>Запустити &amp;демо</translation>
+        <translation type="vanished">Запустити &amp;демо</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="456"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation>Запустити вибрану збірку в деморежимі.</translation>
+        <translation type="vanished">Запустити вибрану збірку в деморежимі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="348"/>
@@ -5423,14 +5436,12 @@ Reason:
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>Launch Offline</source>
-        <translation>Запустити в офлайн режимі</translation>
+        <translation type="vanished">Запустити в офлайн режимі</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
         <source>Launch the selected instance in offline mode.</source>
-        <translation>Запустити вибрану збірку в офлайн режимі.</translation>
+        <translation type="vanished">Запустити вибрану збірку в офлайн режимі.</translation>
     </message>
     <message>
         <source>Edit Instance</source>
@@ -5564,167 +5575,161 @@ Reason:
         <translation>Видалити групу &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
         <source>Ctrl+Shift+O</source>
-        <translation>Ctrl+Shift+O</translation>
+        <translation type="vanished">Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="574"/>
         <source>Launch Demo</source>
-        <translation>Запустити демо</translation>
+        <translation type="vanished">Запустити демо</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
         <source>Ctrl+Alt+O</source>
-        <translation>Ctrl+Alt+O</translation>
+        <translation type="vanished">Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="596"/>
         <source>Profilers</source>
-        <translation>Профайлери</translation>
+        <translation type="vanished">Профайлери</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="600"/>
         <source>%1 Offline</source>
-        <translation>%1 не в мережі</translation>
+        <translation type="vanished">%1 не в мережі</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="605"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
-        <translation>Профайлер не налаштовано правильно. Перейдіть в налаштування, &quot;Зовнішні інструменти&quot;.</translation>
+        <translation type="vanished">Профайлер не налаштовано правильно. Перейдіть в налаштування, &quot;Зовнішні інструменти&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
         <source>No accounts added!</source>
         <translation>Облікових записів не додано!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="537"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="521"/>
         <source>No Default Account</source>
         <translation>Немає облікового запису за замовчуванням</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="524"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="819"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="762"/>
         <source>Loading news...</source>
         <translation>Завантаження новин...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="829"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>No news available.</source>
         <translation>Немає новин.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="877"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="820"/>
         <source>Warnings</source>
         <translation>Попередження</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="881"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="824"/>
         <source>Task aborted</source>
         <translation>Процес перервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="881"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="824"/>
         <source>The task has been aborted by the user.</source>
         <translation>Процес було перервано користувачем.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="885"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="924"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1032"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1058"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="828"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="867"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="975"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
         <source>Abort</source>
         <translation>Перервати</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="929"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>Програма запуску не може завантажити Minecraft або оновити екземпляри, якщо у вас не додано принаймні один обліковий запис.
 Будь ласка, додайте свій обліковий запис Mojang або Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1020"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="963"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1047"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="990"/>
         <source>Modpack download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1190"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1133"/>
         <source>Group name</source>
         <translation>Назва групи</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1190"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1133"/>
         <source>Enter a new group name.</source>
         <translation>Введіть нову назву групи.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1210"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1153"/>
         <source>Delete group</source>
         <translation>Видалити групу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1210"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1153"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>Ви впевнені, що бажаєте видалити групу %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
         <source>Instance not editable</source>
         <translation>Збірка не підлягає редагуванню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1299"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1242"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Цю збірку не можна редагувати. Вонф може бути несправною, недійсною або занадто старою. Перевірте журнали для отримання детальної інформації.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1334"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1277"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Успішно додано %1 до PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1335"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1278"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 було успішно додано до вашого PATH. Тепер ви можете запустити його, виконавши `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1338"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Не вдалося додати %1 до PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1339"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Виникла помилка при спробі додати %1 до PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1326"/>
         <source>Confirm Deletion</source>
         <translation>Підтвердити видалення</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1396"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1339"/>
         <source>There are linked instances</source>
         <translation>Є зв&apos;язані збірки</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1397"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1340"/>
         <source>The following instance(s) might reference files in this instance:
 
 %1
@@ -5761,7 +5766,7 @@ Do you wish to proceed?</source>
         <translation type="vanished">ОБЕРЕЖНО!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1327"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -5786,127 +5791,127 @@ Are you sure?</source>
 Ви впевнені?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1544"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1555"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1588"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1604"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1644"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1655"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1660"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1666"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1668"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1674"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1473"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1484"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1533"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1584"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1589"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1595"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1603"/>
         <source>Create instance shortcut</source>
         <translation>Створити ярлик збірки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1544"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1473"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Не можете знайти стільницю?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1556"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Запускач знаходиться в папці, з якої він був видобутий, тому він не може створювати ярлики.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1666"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1595"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Ярлик цієї збірки на стільниці створено!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1674"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1603"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Не вдалось створити ярлик збірки!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1589"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>Запускач запущений як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1569"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1580"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
         <source>Create instance Application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1569"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1580"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
         <source>Failed to create icon for Application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1604"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1644"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1655"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1533"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1584"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Не вдалося створити іконку для ярлика.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1621"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1550"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>Записи стільниці (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1660"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1589"/>
         <source>Not supported on your platform!</source>
         <translation>Не підтримується на вашій платформі!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1668"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
         <source>Created a shortcut to this instance!</source>
         <translation>Ярлик збірки успішно створено!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1767"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1688"/>
         <source>Rename Instance</source>
         <translation>Перейменувати збірку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1779"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1700"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Ваша тека збірки містить &quot;!&quot; і це, як відомо, викликає проблеми з Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1780"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1701"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>У вас є два варіанти: &lt;br/&gt; - змінити теку збірки в налаштуваннях &lt;br/&gt; - перемістити цю інсталяцію %1 до іншої теки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1788"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1709"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Це проблема: &lt;br/&gt; - запускач, ймовірно, буде видалено без попередження операційною системою &lt;br/&gt; - закрийте запускач зараз та розпакуйте її в справжнє розташування, а не в тимчасову теку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1794"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Тека вашої збірки містить «Rar$» — це означає, що ви не розпакували архів запускача!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1800"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1721"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Ваша тека збірки знаходиться у тимчасовій теці: &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1813"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1734"/>
         <source>Total playtime: %1</source>
         <translation>Загальний час гри: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="873"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="921"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="928"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1006"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1019"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1053"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="816"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="864"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="871"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="949"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="962"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="620"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
         <source>Open %1 Discord guild.</source>
         <translation>Відкрити %1 Discord-сервер.</translation>
     </message>
@@ -5916,8 +5921,8 @@ Are you sure?</source>
         <translation>&amp;Облікові записи</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="783"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
         <source>Accounts</source>
         <translation>Облікові записи</translation>
     </message>
@@ -6061,37 +6066,72 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="811"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="241"/>
+        <source>&amp;Launch</source>
+        <translation type="unfinished">За&amp;пустити</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="243"/>
+        <source>Launch &amp;Offline</source>
+        <translation type="unfinished">Запустити &amp;офлайн</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="244"/>
+        <source>Ctrl+Shift+O</source>
+        <translation type="unfinished">Ctrl+Shift+O</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="245"/>
+        <source>Launch &amp;Demo</source>
+        <translation type="unfinished">Запустити &amp;демо</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="246"/>
+        <source>Ctrl+Alt+O</source>
+        <translation type="unfinished">Ctrl+Alt+O</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
+        <source>Profilers</source>
+        <translation type="unfinished">Профайлери</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="264"/>
+        <source>&amp;No Profiler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="859"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID СЕСІЇ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="814"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="862"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ ДОСТУПУ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="817"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="865"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ КЛІЄНТА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="819"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="867"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID ПРОФІЛЮ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="885"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="933"/>
         <source>broken</source>
         <translation>пошкоджено</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="896"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="944"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="900"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="948"/>
         <source>, last played on %1 for %2</source>
         <translation>, востаннє зіграно %1 за %2</translation>
     </message>
@@ -6104,12 +6144,12 @@ Are you sure?</source>
         <translation type="vanished">, останній раз грав %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="906"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="954"/>
         <source>, total played for %1</source>
         <translation>, всього зіграно %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="910"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="958"/>
         <source>, has crashed.</source>
         <translation>, вилетів.</translation>
     </message>
@@ -7576,7 +7616,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>NullInstance</name>
     <message>
-        <location filename="src/launcher/NullInstance.h" line="51"/>
+        <location filename="src/launcher/NullInstance.h" line="52"/>
         <source>Unknown instance type</source>
         <translation>Невідомий тип збірки</translation>
     </message>
