@@ -709,32 +709,32 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="699"/>
+        <location filename="src/launcher/Application.cpp" line="695"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1139"/>
+        <location filename="src/launcher/Application.cpp" line="1135"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1537"/>
+        <location filename="src/launcher/Application.cpp" line="1533"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Были найдены старые данные от %1, но у вас уже есть существующие данные %2. К сожалению, вам придется мигрировать самостоятельно. Вы хотите, чтобы при следующем запуске %2 вы получали напоминание об ожидающем переносе данных?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1541"/>
+        <location filename="src/launcher/Application.cpp" line="1537"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Похоже, вы использовали %1 раньше. Вы хотите перенести свои данные в %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1547"/>
+        <location filename="src/launcher/Application.cpp" line="1543"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Похоже, вы использовали %1 на %2 раньше. Вы хотите перенести свои данные в %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1590"/>
+        <location filename="src/launcher/Application.cpp" line="1586"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Миграция не удалась! Причина: %1</translation>
     </message>
@@ -3415,27 +3415,24 @@ Proceed with caution!</source>
         <translation>Использовать установленную в системе OpenAL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="595"/>
         <source>Mod loader settings</source>
-        <translation>Настройки загрузчика</translation>
+        <translation type="vanished">Настройки загрузчика</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="601"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation>Отключить маячок загрузчика Quilt</translation>
+        <translation type="vanished">Отключить маячок загрузчика Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation>Отключение маячка загрузчика Quilt для подсчета ежемесячных активных пользователей</translation>
+        <translation type="vanished">Отключение маячка загрузчика Quilt для подсчета ежемесячных активных пользователей</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="681"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="656"/>
         <source>Override default account</source>
         <translation>Перезаписать основной аккаунт</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="701"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="676"/>
         <source>Account:</source>
         <translation>Аккаунт:</translation>
     </message>
@@ -3487,27 +3484,27 @@ Proceed with caution!</source>
         <translation>Использовать дискретную видеокарту</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="617"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="592"/>
         <source>Override global game time settings</source>
         <translation>Переопределить общие настройки времени в игре</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="629"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
         <source>Show time spent playing this instance</source>
         <translation>Показывать время, проведённое в этой сборке</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
         <source>Record time spent playing this instance</source>
         <translation>Записывать время, проведённое в этой сборке</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="621"/>
         <source>Set a server to join on launch</source>
         <translation>Подключаться к серверу после запуска</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="666"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="641"/>
         <source>Server address:</source>
         <translation>Адрес сервера:</translation>
     </message>
@@ -3517,28 +3514,28 @@ Proceed with caution!</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="328"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="326"/>
         <source>Path to %1 library file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactive&apos;s GameMode не найден в системе.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="346"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud не найден в системе.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="383"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
         <source>Select a Java version</source>
         <translation>Выберите версию Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="387"/>
         <source>Find Java executable</source>
         <translation>Поиск исполняемого файла Java</translation>
     </message>
@@ -3547,12 +3544,12 @@ Proceed with caution!</source>
         <translation type="vanished">Нет основного аккаунта</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="499"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="486"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Максимальное выделение памяти превышает объём системной памяти.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="502"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="489"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Максимальное выделение памяти приближается к объёму системной памяти.</translation>
     </message>
@@ -4879,8 +4876,8 @@ Reason:
         <translation>Вниз</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <source>Minecraft Log</source>
         <translation>Журнал Minecraft</translation>
     </message>
@@ -6227,72 +6224,72 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="241"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="236"/>
         <source>&amp;Launch</source>
         <translation type="unfinished">Запустить</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="243"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="238"/>
         <source>Launch &amp;Offline</source>
         <translation type="unfinished">Запустить автономно</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="239"/>
         <source>Ctrl+Shift+O</source>
         <translation type="unfinished">Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="245"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="240"/>
         <source>Launch &amp;Demo</source>
         <translation type="unfinished">Запустить демо-&amp;версию</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="246"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="241"/>
         <source>Ctrl+Alt+O</source>
         <translation type="unfinished">Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>Profilers</source>
         <translation type="unfinished">Профайлеры</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="264"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="259"/>
         <source>&amp;No Profiler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="859"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="848"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID СЕССИИ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="862"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="851"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ ДОСТУПА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="865"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="854"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ КЛИЕНТА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="867"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="856"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID ПРОФИЛЯ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="933"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="922"/>
         <source>broken</source>
         <translation>повреждённый</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="944"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="933"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="948"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
         <source>, last played on %1 for %2</source>
         <translation>, последний раз запущено %1 на %2</translation>
     </message>
@@ -6305,12 +6302,12 @@ Are you sure?</source>
         <translation type="vanished">, %1 за последнее время</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="954"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="943"/>
         <source>, total played for %1</source>
         <translation>, %1 за всё время</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="958"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="947"/>
         <source>, has crashed.</source>
         <translation>, вылетела.</translation>
     </message>
@@ -6354,79 +6351,76 @@ Are you sure?</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Mod loader settings</source>
-        <translation>Настройки загрузчика</translation>
+        <translation type="vanished">Настройки загрузчика</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation>Отключить маячок загрузчика Quilt</translation>
+        <translation type="vanished">Отключить маячок загрузчика Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="205"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation>Отключение маячка загрузчика Quilt для подсчета ежемесячных активных пользователей</translation>
+        <translation type="vanished">Отключение маячка загрузчика Quilt для подсчета ежемесячных активных пользователей</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Native library workarounds</source>
         <translation>Альтернативные нативные библиотеки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="221"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
         <translation>Использовать установленный в системе &amp;GLFW</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&amp;GLFW library path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="238"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="219"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
         <translation>Использовать установленный в системе &amp;OpenAL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="226"/>
         <source>&amp;OpenAL library path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="253"/>
         <source>Performance</source>
         <translation>Производительность</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="278"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="259"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Включить Feral Interactive&apos;s GameMode, чтобы потенциально улучшить производительность игры.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="281"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="262"/>
         <source>Enable Feral GameMode</source>
         <translation>Включить Feral GameMode</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="288"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="269"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Включить оверлей производительности MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="291"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="272"/>
         <source>Enable MangoHud</source>
         <translation>Включить MangoHud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="298"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Использовать дискретную видеокарту вместо основной.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="301"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="282"/>
         <source>Use discrete GPU</source>
         <translation>Использовать дискретную видеокарту</translation>
     </message>
@@ -6493,24 +6487,24 @@ Are you sure?</source>
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
         <source>Path to %1 library file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="144"/>
         <source>Auto detected path: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="157"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactive&apos;s GameMode не найден в системе.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="162"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud не найден в системе.</translation>
     </message>
@@ -8524,16 +8518,16 @@ Are you sure?</source>
         <translation>Проверка Java прошла успешно!&lt;br /&gt;Платформа: %1&lt;br /&gt;Версия Java: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test success</source>
         <translation>Проверка Java прошла успешно</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Проверка Java провалилась</translation>
     </message>
@@ -8786,8 +8780,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Неизвестная версия формата!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Пустой путь</translation>
     </message>
@@ -8797,8 +8791,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Неверный путь к JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <source>Path does not exist</source>
         <translation>Путь не существует</translation>
     </message>
@@ -8981,8 +8975,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Упорядочить по популярности</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Last Updated</source>
         <translation>Упорядочить по дате обновления</translation>
     </message>
@@ -8997,8 +8991,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Упорядочить по автору</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
         <source>Sort by Downloads</source>
         <translation>Упорядочить по скачиваниям</translation>
     </message>

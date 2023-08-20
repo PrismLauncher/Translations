@@ -693,32 +693,32 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="699"/>
+        <location filename="src/launcher/Application.cpp" line="695"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1139"/>
+        <location filename="src/launcher/Application.cpp" line="1135"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1537"/>
+        <location filename="src/launcher/Application.cpp" line="1533"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>已找到來自 %1 的舊資料，但你已有 %2 的現有資料。遺憾的是，您將需要自己遷移。下次啟動 %2 時是否要提醒資料遷移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1541"/>
+        <location filename="src/launcher/Application.cpp" line="1537"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>看起來您以前使用過 %1。是否要將資料遷移到 %2 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1547"/>
+        <location filename="src/launcher/Application.cpp" line="1543"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>看起來您以前在 %2 上使用過 %1。是否要將資料遷移到 %3 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1590"/>
+        <location filename="src/launcher/Application.cpp" line="1586"/>
         <source>Migration failed! Reason: %1</source>
         <translation>遷移失敗！原因：%1</translation>
     </message>
@@ -3375,27 +3375,24 @@ Proceed with caution!</source>
         <translation>使用系統安裝的 OpenAL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="595"/>
         <source>Mod loader settings</source>
-        <translation>模組載入器設定</translation>
+        <translation type="vanished">模組載入器設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="601"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation>停用 Quilt 載入器遙測計數器</translation>
+        <translation type="vanished">停用 Quilt 載入器遙測計數器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation>停用 Quilt 載入器為計算月活躍使用者發出的遙測資料</translation>
+        <translation type="vanished">停用 Quilt 載入器為計算月活躍使用者發出的遙測資料</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="681"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="656"/>
         <source>Override default account</source>
         <translation>覆蓋預設帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="701"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="676"/>
         <source>Account:</source>
         <translation>帳號：</translation>
     </message>
@@ -3447,27 +3444,27 @@ Proceed with caution!</source>
         <translation>使用獨立顯示卡</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="617"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="592"/>
         <source>Override global game time settings</source>
         <translation>遊戲時長</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="629"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
         <source>Show time spent playing this instance</source>
         <translation>顯示本實例遊玩時數</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
         <source>Record time spent playing this instance</source>
         <translation>紀錄本實例遊玩時數</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="621"/>
         <source>Set a server to join on launch</source>
         <translation>啟動遊戲後直接加入伺服器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="666"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="641"/>
         <source>Server address:</source>
         <translation>伺服器位址：</translation>
     </message>
@@ -3477,28 +3474,28 @@ Proceed with caution!</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="328"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="326"/>
         <source>Path to %1 library file</source>
         <translation>%1 函式庫檔案的路徑</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>在您的系統上找不到 Feral Interactive 的遊戲模式。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="346"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>無法在此裝置上找到 MangoHud。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="383"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
         <source>Select a Java version</source>
         <translation>選擇 Java 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="387"/>
         <source>Find Java executable</source>
         <translation>尋找 Java 可執行檔</translation>
     </message>
@@ -3507,12 +3504,12 @@ Proceed with caution!</source>
         <translation type="vanished">沒有預設帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="499"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="486"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>您分配的最大記憶體超過系統記憶體容量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="502"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="489"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>您分配的最大記憶體接近系統記憶體容量。</translation>
     </message>
@@ -4831,8 +4828,8 @@ Reason:
         <translation>底部</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <source>Minecraft Log</source>
         <translation>Minecraft 記錄</translation>
     </message>
@@ -6156,72 +6153,72 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="241"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="236"/>
         <source>&amp;Launch</source>
         <translation>啟動（&amp;L）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="243"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="238"/>
         <source>Launch &amp;Offline</source>
         <translation>離線啟動（&amp;O）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="239"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="245"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="240"/>
         <source>Launch &amp;Demo</source>
         <translation>體驗版啟動（&amp;D）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="246"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="241"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>Profilers</source>
         <translation>分析器</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="264"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="259"/>
         <source>&amp;No Profiler</source>
         <translation>無分析器（&amp;N）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="859"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="848"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="862"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="851"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;存取權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="865"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="854"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;用戶端權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="867"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="856"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;設定檔 ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="933"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="922"/>
         <source>broken</source>
         <translation>損壞</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="944"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="933"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="948"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
         <source>, last played on %1 for %2</source>
         <translation>，上次遊玩時間為 %1，持續了 %2</translation>
     </message>
@@ -6234,12 +6231,12 @@ Are you sure?</source>
         <translation type="vanished">，上次已遊玩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="954"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="943"/>
         <source>, total played for %1</source>
         <translation>，總共遊玩了 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="958"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="947"/>
         <source>, has crashed.</source>
         <translation>，程式已崩潰。</translation>
     </message>
@@ -6283,79 +6280,76 @@ Are you sure?</source>
         <translation>整理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Mod loader settings</source>
-        <translation>模組載入器設定</translation>
+        <translation type="vanished">模組載入器設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation>停用 Quilt 載入器遙測計數器</translation>
+        <translation type="vanished">停用 Quilt 載入器遙測計數器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="205"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation>停用 Quilt 載入器為計算月活躍使用者發出的遙測資料</translation>
+        <translation type="vanished">停用 Quilt 載入器為計算月活躍使用者發出的遙測資料</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Native library workarounds</source>
         <translation>原生函式庫因應措施</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="221"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
         <translation>使用系統安裝的 GLFW（&amp;G）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&amp;GLFW library path</source>
         <translation>GLFW 函式庫路徑（&amp;G）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="238"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="219"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
         <translation>使用系統安裝的 OpenAL（&amp;O）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="226"/>
         <source>&amp;OpenAL library path</source>
         <translation>OpenAL 函式庫路徑（&amp;O）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="253"/>
         <source>Performance</source>
         <translation>效能</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="278"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="259"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟用 Feral Interactive 的遊戲模式，可能會提高遊戲效能。‎&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="281"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="262"/>
         <source>Enable Feral GameMode</source>
         <translation>啟用 Freal 遊戲模式</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="288"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="269"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟用 MangoHud 的高階效能疊加&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="291"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="272"/>
         <source>Enable MangoHud</source>
         <translation>啟用 MangoHud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="298"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用獨立顯示卡而不是處理器顯示卡。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="301"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="282"/>
         <source>Use discrete GPU</source>
         <translation>使用獨立顯示卡</translation>
     </message>
@@ -6422,24 +6416,24 @@ Are you sure?</source>
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
         <source>Path to %1 library file</source>
         <translation type="unfinished">%1 函式庫檔案的路徑</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="144"/>
         <source>Auto detected path: %1</source>
         <translation>自動偵測路徑：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="157"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>在你的系統上找不到 Feral Interactive 的遊戲模式。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="162"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>無法於此裝置上找到 MangoHud。</translation>
     </message>
@@ -8422,16 +8416,16 @@ Are you sure?</source>
         <translation>Java 測試成功！&lt;br /&gt;回報的平台：%1&lt;br /&gt;回報的 Java 版本：%2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test success</source>
         <translation>Java 測試成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Java 測試失敗</translation>
     </message>
@@ -8684,8 +8678,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>未知格式的版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>空白路徑</translation>
     </message>
@@ -8695,8 +8689,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>未知的 JVisualVM 檔案路徑</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <source>Path does not exist</source>
         <translation>路徑不存在</translation>
     </message>
@@ -8879,8 +8873,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>按人氣程度排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Last Updated</source>
         <translation>按最近更新時間排序</translation>
     </message>
@@ -8895,8 +8889,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>按作者排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
         <source>Sort by Downloads</source>
         <translation>按下載數量排序</translation>
     </message>

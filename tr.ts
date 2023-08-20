@@ -701,32 +701,32 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="699"/>
+        <location filename="src/launcher/Application.cpp" line="695"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1139"/>
+        <location filename="src/launcher/Application.cpp" line="1135"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1537"/>
+        <location filename="src/launcher/Application.cpp" line="1533"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1&apos;deki eski veri bulundu, ama hâlihazırda %2 için veriye sahipsin. Kendi başına aktarma yapmak zorundasın. %2&apos;yi sıradaki başlatışında bekleyen veri hakkında hatırlatılmak istiyor musun ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1541"/>
+        <location filename="src/launcher/Application.cpp" line="1537"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Görünüşe bakılırsa %1&apos;i daha önce kullanmışsın. Verilerini %2&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1547"/>
+        <location filename="src/launcher/Application.cpp" line="1543"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Görünüşe bakılırsa daha önceden %1&apos;i %2 de kullanmışsın. Yeni verileri %3&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1590"/>
+        <location filename="src/launcher/Application.cpp" line="1586"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Aktarım başarısız! Hatanın sebebi: %1</translation>
     </message>
@@ -3356,27 +3356,24 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>OpenAL&apos;in sistem kurulumunu kullan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="595"/>
         <source>Mod loader settings</source>
-        <translation>Mod yükleyici ayarları</translation>
+        <translation type="vanished">Mod yükleyici ayarları</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="601"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation>Quilt Yükleyici İşaretini Devre Dışı Bırak</translation>
+        <translation type="vanished">Quilt Yükleyici İşaretini Devre Dışı Bırak</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation>Aylık aktif kullanıcıları saymak için Quilt yükleyicinin işaretini devre dışı bırakın</translation>
+        <translation type="vanished">Aylık aktif kullanıcıları saymak için Quilt yükleyicinin işaretini devre dışı bırakın</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="681"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="656"/>
         <source>Override default account</source>
         <translation>Varsayılan hesabı geçersiz kıl</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="701"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="676"/>
         <source>Account:</source>
         <translation>Hesap:</translation>
     </message>
@@ -3428,27 +3425,27 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>Ayrık GPU kullan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="617"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="592"/>
         <source>Override global game time settings</source>
         <translation>Oyun süresi ile ilgili toplu ayarların üzerine yaz</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="629"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
         <source>Show time spent playing this instance</source>
         <translation>Bu profilde oynanan süreyi göster</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
         <source>Record time spent playing this instance</source>
         <translation>Bu profilde oynanan süreyi kaydet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="621"/>
         <source>Set a server to join on launch</source>
         <translation>Giriş esnasında katılınacak sunucuyu ayarla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="666"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="641"/>
         <source>Server address:</source>
         <translation>Sunucu adresi:</translation>
     </message>
@@ -3458,28 +3455,28 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="328"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="326"/>
         <source>Path to %1 library file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactive&apos;in GameMode&apos;u sisteminizde bulunamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="346"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud sisteminizde bulunamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="383"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
         <source>Select a Java version</source>
         <translation>Bir Java sürümü seç</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="387"/>
         <source>Find Java executable</source>
         <translation>Çalıştırılabilir Java&apos;yı bul</translation>
     </message>
@@ -3488,12 +3485,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">Varsayılan hesap yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="499"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="486"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="502"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="489"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
     </message>
@@ -4816,8 +4813,8 @@ Sebep:
         <translation>En Alt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <source>Minecraft Log</source>
         <translation>Minecraft Sistem Kayıtları</translation>
     </message>
@@ -6141,72 +6138,72 @@ Emin misiniz?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="241"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="236"/>
         <source>&amp;Launch</source>
         <translation type="unfinished">&amp;Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="243"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="238"/>
         <source>Launch &amp;Offline</source>
         <translation type="unfinished">Çevrimdışı &amp;Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="239"/>
         <source>Ctrl+Shift+O</source>
         <translation type="unfinished">Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="245"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="240"/>
         <source>Launch &amp;Demo</source>
         <translation type="unfinished">&amp;Demoyu Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="246"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="241"/>
         <source>Ctrl+Alt+O</source>
         <translation type="unfinished">Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>Profilers</source>
         <translation type="unfinished">Profilleyiciler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="264"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="259"/>
         <source>&amp;No Profiler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="859"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="848"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="862"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="851"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="865"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="854"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="867"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="856"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="933"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="922"/>
         <source>broken</source>
         <translation>bozuk</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="944"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="933"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="948"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
         <source>, last played on %1 for %2</source>
         <translation>, en son %2 için %1 de oynandı</translation>
     </message>
@@ -6219,12 +6216,12 @@ Emin misiniz?</translation>
         <translation type="vanished">, en son %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="954"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="943"/>
         <source>, total played for %1</source>
         <translation>, %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="958"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="947"/>
         <source>, has crashed.</source>
         <translation>, çöktü.</translation>
     </message>
@@ -6268,79 +6265,76 @@ Emin misiniz?</translation>
         <translation>İnce Ayarlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Mod loader settings</source>
-        <translation>Mod yükleyici ayarları</translation>
+        <translation type="vanished">Mod yükleyici ayarları</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation>Quilt Yükleyici İşaretini Devre Dışı Bırak</translation>
+        <translation type="vanished">Quilt Yükleyici İşaretini Devre Dışı Bırak</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="205"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation>Aylık aktif kullanıcıları saymak için Quilt yükleyicinin işaretini devre dışı bırakın</translation>
+        <translation type="vanished">Aylık aktif kullanıcıları saymak için Quilt yükleyicinin işaretini devre dışı bırakın</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Native library workarounds</source>
         <translation>Yerel Kütüphane geçici çözümü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="221"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
         <translation>&amp;GLFW&apos;nin sistem kurulumunu kullan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&amp;GLFW library path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="238"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="219"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
         <translation>&amp;OpenAL&apos;in sistem kurulumunu kullan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="226"/>
         <source>&amp;OpenAL library path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="253"/>
         <source>Performance</source>
         <translation>Performans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="278"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="259"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Olası olarak oyun performansını arttırmak için Feral Interactive&apos;in Gamemode&apos;unu etkinleştir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="281"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="262"/>
         <source>Enable Feral GameMode</source>
         <translation>Feral GameMode&apos;u etkinleştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="288"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="269"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mangohud&apos;un gelişmiş performans arayüzünü etkinleştir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="291"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="272"/>
         <source>Enable MangoHud</source>
         <translation>MangoHud&apos;ı etkinleştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="298"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ana GPU yerine ayrık GPU&apos;yu kullan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="301"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="282"/>
         <source>Use discrete GPU</source>
         <translation>Ayrık GPU kullan</translation>
     </message>
@@ -6407,24 +6401,24 @@ Emin misiniz?</translation>
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
         <source>Path to %1 library file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="144"/>
         <source>Auto detected path: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="157"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactive&apos;in GameMode&apos;u sisteminizde bulunamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="162"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud sisteminizde bulunamadı.</translation>
     </message>
@@ -8366,16 +8360,16 @@ Emin misin?</translation>
         <translation>Java testi başarılı!&lt;br /&gt;Rapor edilen platform: %1&lt;br /&gt;Rapor edilen Java sürümü: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test success</source>
         <translation>Java testi başarılı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Java testi başarısız</translation>
     </message>
@@ -8628,8 +8622,8 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
         <translation>Bilinmeyen format sürümü!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Boş dizin yolu</translation>
     </message>
@@ -8639,8 +8633,8 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
         <translation>Geçersiz JVisualVM dizin yolu</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <source>Path does not exist</source>
         <translation>Böyle bir dizin yolu yok</translation>
     </message>
@@ -8823,8 +8817,8 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
         <translation>Popülerliğe göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Last Updated</source>
         <translation>Son güncellenene göre sırala</translation>
     </message>
@@ -8839,8 +8833,8 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
         <translation>Yapımcıya göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
         <source>Sort by Downloads</source>
         <translation>İndirilmeye Göre Sırala</translation>
     </message>
