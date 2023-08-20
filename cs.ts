@@ -3531,17 +3531,17 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">Spustit</translation>
+        <translation>&amp;Spustit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">U&amp;končit</translation>
+        <translation>&amp;Ukončit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -4015,12 +4015,12 @@ Chcete si zahrát demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola profileru u %1 selhala: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">Spustit</translation>
+        <translation>&amp;Spustit</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -6155,37 +6155,37 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="241"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">Spustit</translation>
+        <translation>&amp;Spustit</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="243"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished">Spustit &amp;offline</translation>
+        <translation>Spustit &amp;offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="244"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctrl+Shift+O</translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="245"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished">Spustit &amp;demo</translation>
+        <translation>Spustit &amp;demo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="246"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished">Ctrl+Alt+O</translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Profilers</source>
-        <translation type="unfinished">Profilery</translation>
+        <translation>Profilery</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="264"/>
         <source>&amp;No Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Žádný profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="859"/>
