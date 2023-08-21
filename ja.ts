@@ -575,23 +575,25 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
-If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
-        <translation>ようこそ！
+If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
+        <oldsource>Welcome!
+If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
+        <translation type="unfinished">ようこそ！
 初めて使う場合は、「追加」ボタンを押してあなたのMojangアカウントかMinecraftのアカウントを追加して下さい。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Microsoft認証のクライアントIDが設定されていません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
         <source>Context menu</source>
         <translation>コンテキストメニュー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Mojangのアカウントを使うにはメールアドレスとパスワードを入力してください.</translation>
     </message>
@@ -609,27 +611,27 @@ Please update both your operating system and %1.</source>
 OSと%1をアップデートしてください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>オフラインのアカウントを追加する前に、Minecraftを所有しているMicrosoftまたはMojangのアカウントを追加する必要があります。&lt;br&gt;&lt;br&gt;アカウントを紛失した場合は、Microsoftに連絡してサポートを受けることができます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>オフラインのアカウントを追加するには、ご希望のユーザー名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
         <source>Skin Delete</source>
         <translation>スキン削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
         <source>Failed to delete current skin!</source>
         <translation>現在のスキンの削除に失敗しました!</translation>
     </message>
@@ -4620,8 +4622,8 @@ Reason:
         <translation>一番下へ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Minecraftのログ</translation>
     </message>
@@ -5489,8 +5491,10 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</source>
-        <translation>アカウントを追加しない限り、ランチャーはMinecraftをダウンロードしたり更新したりできません。
+Please add your Microsoft or Mojang account.</source>
+        <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</oldsource>
+        <translation type="unfinished">アカウントを追加しない限り、ランチャーはMinecraftをダウンロードしたり更新したりできません。
 MojangかMicrosoftのアカウントを追加してください。</translation>
     </message>
     <message>
@@ -7869,16 +7873,16 @@ Are you sure?</source>
         <translation>Javaのテストに成功しました！&lt;br /&gt;プラットフォーム: %1&lt;br /&gt;Javaバージョン: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>Javaのテストに成功しました</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Javaのテストに失敗しました</translation>
     </message>
@@ -8111,8 +8115,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>不明なフォーマットバージョンです!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>空のパス</translation>
     </message>
@@ -8122,8 +8126,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>JVisualVMへのパスが無効です</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>パスは存在しません</translation>
     </message>
@@ -8306,8 +8310,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>人気順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Last Updated</source>
         <translation>更新順</translation>
     </message>
@@ -8322,8 +8326,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>作成者順</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
         <source>Sort by Downloads</source>
         <translation>総ダウンロード数順</translation>
     </message>
@@ -10332,8 +10336,10 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</source>
-        <translation>少なくとも 1 つのアカウントが追加されていないと、Minecraft をダウンロードしたり、インスタンスを更新したりできません。
+Please add your Microsoft or Mojang account.</source>
+        <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</oldsource>
+        <translation type="unfinished">少なくとも 1 つのアカウントが追加されていないと、Minecraft をダウンロードしたり、インスタンスを更新したりできません。
 Mojang または Minecraft のアカウントを追加してください。</translation>
     </message>
     <message>

@@ -591,23 +591,25 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
-If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
-        <translation>Witaj!
+If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
+        <oldsource>Welcome!
+If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
+        <translation type="unfinished">Witaj!
 Jeśli jesteś tu nowy, możesz kliknąć przycisk &quot;Dodaj&quot;, aby dodać swoje konto Mojang lub Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Nie ustawiono ID klienta uwierzytelnienia Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
         <source>Context menu</source>
         <translation>Menu kontekstowe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Proszę wprowadzić email i hasło swojego konta Mojang, aby dodać swoje konto.</translation>
     </message>
@@ -633,27 +635,27 @@ Please update both your operating system and PolyMC.</source>
 Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>Musisz dodać konto Microsoft lub Mojang, które jest w posiadaniu kopii Minecrafta, zanim będziesz mógł dodać konto offline.&lt;br&gt;&lt;br&gt;Jeśli straciłeś dostęp do swojego konta, możesz skontaktować się z Microsoft w celu uzyskania wsparcia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Proszę wprowadzić swoją pożądaną nazwę użytkownika, aby dodać konto offline.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
         <source>Skin Delete</source>
         <translation>Usuń skórkę</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
         <source>Failed to delete current skin!</source>
         <translation>Nie udało się usunąć bieżącej skórki!</translation>
     </message>
@@ -4872,8 +4874,8 @@ Powód:
         <translation>Na dół</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Log Minecraft</translation>
     </message>
@@ -5792,8 +5794,10 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</source>
-        <translation>Launcher nie może pobrać Minecraft, lub aktualizować instancji, póki nie dodasz przynajmniej jednego konta.
+Please add your Microsoft or Mojang account.</source>
+        <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</oldsource>
+        <translation type="unfinished">Launcher nie może pobrać Minecraft, lub aktualizować instancji, póki nie dodasz przynajmniej jednego konta.
 Proszę dodaj swoje konto Mojang lub Minecraft.</translation>
     </message>
     <message>
@@ -8502,16 +8506,16 @@ Jesteś tego pewien?</translation>
         <translation>Test Java&apos;y zakończony sukcesem!&lt;br /&gt;Zgłoszona platforma: %1&lt;br /&gt;Zgłoszona wersja Java: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>Test Java&apos;y zakończony sukcesem</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Test Java&apos;y zakończony porażką</translation>
     </message>
@@ -8764,8 +8768,8 @@ Ten komunikat będzie wyświetlany, dopóki nie usuniesz tego argumentu JVM.</tr
         <translation>Nieznany format wersji!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Pusta ścieżka</translation>
     </message>
@@ -8775,8 +8779,8 @@ Ten komunikat będzie wyświetlany, dopóki nie usuniesz tego argumentu JVM.</tr
         <translation>Nieprawidłowa ścieżka JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>Ścieżka nie istnieje</translation>
     </message>
@@ -8959,8 +8963,8 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <translation>Sortuj według popularności</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Last Updated</source>
         <translation>Sortuj według ostatniej aktualizacji</translation>
     </message>
@@ -8975,8 +8979,8 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <translation>Sortuj według autora</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
         <source>Sort by Downloads</source>
         <translation>Sortuj według ilości pobrań</translation>
     </message>
@@ -11003,8 +11007,10 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</source>
-        <translation>Nie można pobrać Minecraft ani zaktualizować instancji, chyba że masz dodane przynajmniej jedno konto.
+Please add your Microsoft or Mojang account.</source>
+        <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</oldsource>
+        <translation type="unfinished">Nie można pobrać Minecraft ani zaktualizować instancji, chyba że masz dodane przynajmniej jedno konto.
 Proszę dodać twoje konto Mojang lub Minecraft.</translation>
     </message>
     <message>

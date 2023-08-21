@@ -583,23 +583,25 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
-If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
-        <translation>歡迎！
+If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
+        <oldsource>Welcome!
+If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
+        <translation type="unfinished">歡迎！
 如果您是第一次來這裡，您可以按一下「新增」按鈕來新增您的 Mojang 或 Minecraft 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>尚未設定 Microsoft 驗證用戶端 ID。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
         <source>Context menu</source>
         <translation>功能表</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>請輸入您 Mojang 帳號的電子郵件與密碼以新增您的帳號。</translation>
     </message>
@@ -617,27 +619,27 @@ Please update both your operating system and %1.</source>
 請更新您的作業系統以及 %1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>在你新增離線帳號之前，您必須先新增一個擁有 Minecraft 的 Microsoft 或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果您遺失了您的帳號，您可以嘗試聯絡 Microsoft 尋求支援。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>請輸入您期望的使用者名稱以新增離線帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
         <source>Skin Delete</source>
         <translation>刪除外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
         <source>Failed to delete current skin!</source>
         <translation>刪除目前的外觀失敗！</translation>
     </message>
@@ -4828,8 +4830,8 @@ Reason:
         <translation>底部</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Minecraft 記錄</translation>
     </message>
@@ -5743,8 +5745,10 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</source>
-        <translation>除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
+Please add your Microsoft or Mojang account.</source>
+        <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</oldsource>
+        <translation type="unfinished">除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
 請新增你的 Mojang 或 Minecraft 帳號。</translation>
     </message>
     <message>
@@ -8416,16 +8420,16 @@ Are you sure?</source>
         <translation>Java 測試成功！&lt;br /&gt;回報的平台：%1&lt;br /&gt;回報的 Java 版本：%2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>Java 測試成功</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Java 測試失敗</translation>
     </message>
@@ -8678,8 +8682,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>未知格式的版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>空白路徑</translation>
     </message>
@@ -8689,8 +8693,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>未知的 JVisualVM 檔案路徑</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>路徑不存在</translation>
     </message>
@@ -8873,8 +8877,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>按人氣程度排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Last Updated</source>
         <translation>按最近更新時間排序</translation>
     </message>
@@ -8889,8 +8893,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>按作者排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
         <source>Sort by Downloads</source>
         <translation>按下載數量排序</translation>
     </message>
@@ -10921,8 +10925,10 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</source>
-        <translation>無法在尚未新增帳號的狀態中下載 Minecraft 或更新實例。
+Please add your Microsoft or Mojang account.</source>
+        <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</oldsource>
+        <translation type="unfinished">無法在尚未新增帳號的狀態中下載 Minecraft 或更新實例。
 請登入你的 Mojang 或 Microsoft 帳號。</translation>
     </message>
     <message>
