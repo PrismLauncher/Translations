@@ -598,8 +598,8 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">¡Bienvenido!
-Si eres nuevo, haz clic en el botón &quot;Añadir&quot; para añadir tu cuenta de Mojang o Minecraft.</translation>
+        <translation>¡Saludos!
+Si acabas de llegar, puedes seleccionar los botones &quot;Añadir Microsoft&quot; o &quot;Añadir Mojang&quot; para vincular tus cuentas de Microsoft y/o Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
