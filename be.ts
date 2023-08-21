@@ -1337,7 +1337,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
@@ -1730,7 +1730,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Адкрыйце &apos;config&apos; папку ў сістэме файл мэнаджара</translation>
+        <translation>Адкрыйце папку &apos;config&apos; ў сістэмнам менеджаре файлаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
@@ -1837,7 +1837,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Знешнія Рэдактары (пакіньце пустым, каб выкарыстоўваўся сістэмны рэдактар)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
@@ -1848,7 +1848,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Знешнія Інструменты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="102"/>
@@ -2064,13 +2064,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не знойдзена аніводнай дапушчальнай версіі для гэтага мода. Хутчэе за ўсё ён недаступен для бягучай версіі гульні / загрузчыка мадоў.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="154"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Даступна новая версія мода, але яе нельга спампаваць праз CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -2086,17 +2086,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="114"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (версія %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма індэкснага файла.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Мы не знайшлі індэксны файл які падыходзіць для старай версіі. Гэта можа выклікаць да дуплікацыі некаторых файлаў. Вы жадаеце працягнуць?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
@@ -2117,33 +2117,35 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не атрымалася пераіменаваць папку перавызначэнняў:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="343"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation>Адсутнічае папка перавызначэнняў (%1). Можа модпак выкарыстоўваўся дагэтуль?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="370"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Невядомы загрузчык мадоў у маніфэсце: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="384"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Таямнічы канчатковыя кропкі былі выдалены з версіі Майнкрафта падчас імпарта пакета.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="435"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўдалося вырашыць канфлікт ID мадоў: %1
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="488"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Знойдзены заблакаваныя мады</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="489"/>
@@ -2154,7 +2156,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="511"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Спампаваць мод Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="557"/>
@@ -2164,22 +2166,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="571"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Капіяванне заблакаваных мадоў...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Капіяванне заблакаваных мадоў (%1 з %2 выкананы)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Магчыма гэту &apos;Папку&apos; прыйдзецца распакаваць: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="537"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Змяшчэнне модпака ў модпаку не рэалізавана, нічога не было спампована: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="542"/>
@@ -9541,7 +9543,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="54"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтэнтэфікацыя карыстальніка Mojang скончалася памылкай сетцы.</translation>
     </message>
 </context>
 </TS>
