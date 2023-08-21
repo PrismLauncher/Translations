@@ -590,18 +590,18 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 如果您是第一次來這裡，您可以按一下「新增」按鈕來新增您的 Mojang 或 Minecraft 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>尚未設定 Microsoft 驗證用戶端 ID。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
         <translation>功能表</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>請輸入您 Mojang 帳號的電子郵件與密碼以新增您的帳號。</translation>
     </message>
@@ -619,27 +619,27 @@ Please update both your operating system and %1.</source>
 請更新您的作業系統以及 %1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="172"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>在你新增離線帳號之前，您必須先新增一個擁有 Minecraft 的 Microsoft 或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果您遺失了您的帳號，您可以嘗試聯絡 Microsoft 尋求支援。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="179"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>請輸入您期望的使用者名稱以新增離線帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
         <source>Skin Delete</source>
         <translation>刪除外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
         <source>Failed to delete current skin!</source>
         <translation>刪除目前的外觀失敗！</translation>
     </message>
@@ -1911,13 +1911,13 @@ Please update both your operating system and %1.</source>
         <translation>功能表</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="199"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>選擇 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="229"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -1928,7 +1928,7 @@ Are you sure?</source>
 你確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -1939,17 +1939,17 @@ Are you sure?</source>
 你確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="241"/>
         <source>Confirm Removal</source>
         <translation>確定刪除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="323"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> （已安裝 %1 個、已選擇 %2 個）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
         <source> (%1 installed)</source>
         <translation> （已安裝 %1 個）</translation>
     </message>
@@ -10797,52 +10797,52 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation>匯入現有元件 JSON 檔案。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
         <source>Context menu</source>
         <translation>功能表</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
         <source>%1 possibly has issues.</source>
         <translation>%1 可能發生問題。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="209"/>
         <source>%1 has issues!</source>
         <translation>%1 發生問題！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="221"/>
         <source>Error: </source>
         <translation>錯誤： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="223"/>
         <source>Warning: </source>
         <translation>警告： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="253"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="353"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="412"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>無法載入實例設定檔。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="278"/>
         <source>Confirm Removal</source>
         <translation>確認刪除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="279"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -10853,77 +10853,77 @@ Are you sure?</source>
 你確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <source>Couldn&apos;t remove file</source>
         <translation>無法移除檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Select jar mods</source>
         <translation>選擇 jar 模組</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>Minecraft.jar 模組（*.zip *.jar）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Select jar</source>
         <translation>選擇 jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>Minecraft.jar 取代檔（*.jar）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Select components</source>
         <translation>選擇元件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Components (*.json)</source>
         <translation>元件（*.json）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="332"/>
         <source>Failed to import components</source>
         <translation>元件匯入失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Some components could not be imported. Check logs for details</source>
         <translation>無法匯入部分元件。確認記錄檔以了解詳情</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Select agents</source>
         <translation>選擇代理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Java agents (*.jar)</source>
         <translation>Java 代理（*.jar）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
         <source>Change %1 version</source>
         <translation>變更 %1 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="387"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>目前沒有 intermediary mappings 版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="388"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>無法載入或下載 intermediary mappings 版本清單！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="413"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -10932,12 +10932,12 @@ Please add your Mojang or Minecraft account.</oldsource>
 請登入你的 Mojang 或 Microsoft 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
         <source>Confirm Reversion</source>
         <translation>確認復原</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="550"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -11002,7 +11002,7 @@ Please add your Mojang or Minecraft account.</source>
         <translation type="vanished">無法載入或下載 LiteLoader 版本清單！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="489"/>
         <source>Error updating instance</source>
         <translation>更新實例時發生錯誤</translation>
     </message>

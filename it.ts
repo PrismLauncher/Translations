@@ -590,18 +590,18 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 Se sei nuovo, puoi cliccare il pulsante &quot;Aggiungi&quot; per aggiungere il tuo account Mojang o Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Nessun client ID per l&apos;autenticazione Microsoft è stato impostato.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
         <translation>Menu contestuale</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Per favore inserisci email e password del tuo account Mojang per aggiungere il tuo account.</translation>
     </message>
@@ -627,27 +627,27 @@ Please update both your operating system and PolyMC.</source>
 Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="172"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>Devi aggiungere un account Microsoft o Mojang che possiede Minecraft prima di aggiungere un account offline.&lt;br&gt;&lt;br&gt;Se hai perso il tuo account contatta Microsoft per supporto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="179"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Per favore inserisci l&apos;username che vorresti per aggiungere il tuo account offline.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
         <source>Skin Delete</source>
         <translation>Elimina skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
         <source>Failed to delete current skin!</source>
         <translation>Impossibile eliminare la skin corrente!</translation>
     </message>
@@ -1915,13 +1915,13 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
         <translation>Menu contestuale</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="199"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Seleziona %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="229"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -1932,7 +1932,7 @@ Questo potrebbe essere permanente e saranno persi dalla cartella.
 Sei sicuro?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -1943,17 +1943,17 @@ Questo potrebbe essere permanente e sarà persa dalla cartella soprastante.
 Sei sicuro?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="241"/>
         <source>Confirm Removal</source>
         <translation>Conferma Rimozione</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="323"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 installato, %2 selezionato)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
         <source> (%1 installed)</source>
         <translation> (%1 installato)</translation>
     </message>
@@ -10716,52 +10716,52 @@ Si prega di selezionare per questa istanza una versione fra le seguenti:</transl
         <translation>Importa componenti file JSON esistenti.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
         <source>Context menu</source>
         <translation>Menu contestuale</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
         <source>%1 possibly has issues.</source>
         <translation>%1 ha possibili problemi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="209"/>
         <source>%1 has issues!</source>
         <translation>%1 ha problemi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="221"/>
         <source>Error: </source>
         <translation>Errore: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="223"/>
         <source>Warning: </source>
         <translation>Attenzione: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="253"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="353"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="412"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Impossibile caricare il profilo dell&apos;istanza.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="278"/>
         <source>Confirm Removal</source>
         <translation>Conferma Rimozione</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="279"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -10772,77 +10772,77 @@ Questo è permanente e rimuoverà completamente il componente personalizzato.
 Sei sicuro?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <source>Couldn&apos;t remove file</source>
         <translation>Impossibile eliminare il file</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Select jar mods</source>
         <translation>Seleziona le mod Jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>Mod per minecraft.jar (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Select jar</source>
         <translation>Seleziona il jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>Minecraft.jar sostitutivo (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Select components</source>
         <translation>Seleziona componenti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Components (*.json)</source>
         <translation>Componenti (*.json)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="332"/>
         <source>Failed to import components</source>
         <translation>Impossibile importare componenti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Some components could not be imported. Check logs for details</source>
         <translation>Alcuni componenti non possono essere importati. Controlla i log per i dettagli</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Select agents</source>
         <translation>Seleziona agenti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Java agents (*.jar)</source>
         <translation>Agenti Java (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
         <source>Change %1 version</source>
         <translation>Cambia la versione di %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="387"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>Al momento non sono disponibili versioni di mappature intermedie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="388"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Impossibile caricare o scaricare le liste di versioni di mappature intermediarie!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="413"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -10851,12 +10851,12 @@ Please add your Mojang or Minecraft account.</oldsource>
 Aggiungi il tuo account Mojang o Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
         <source>Confirm Reversion</source>
         <translation>Conferma Inversione</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="550"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -10921,7 +10921,7 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
         <translation type="vanished">Impossibile caricare o scaricare la lista delle versioni di LiteLoader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="489"/>
         <source>Error updating instance</source>
         <translation>Errore nell&apos;aggiornamento dell&apos;istanza</translation>
     </message>

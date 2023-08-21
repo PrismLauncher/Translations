@@ -590,18 +590,18 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 Burada yeniyseniz, &quot;Ekle&quot; düğmesine basarak Mojang veya Minecraft hesabınızı ekleyebilirsiniz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Hiç Microsoft Onaylama client ID&apos;si ayarlanmamış.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
         <translation>İçerik menüsü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Lütfen hesap eklemek için Mojang hesabınızın e-posta ve parolasını girin.</translation>
     </message>
@@ -627,27 +627,27 @@ Please update both your operating system and PolyMC.</source>
 Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="172"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>Çevrimdışı hesap eklemeden önce Minecraft&apos;a sahip Microsoft veya Mojang hesabı eklemelisin.&lt;br&gt;&lt;br&gt;Eğer hesabınızı kaybettiyseniz Microsoft&apos;a destek için iletişime geçebilirsiniz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="179"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Lütfen çevrimdışı hesabınız için istediğiniz ismi veriniz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
         <source>Skin Delete</source>
         <translation>Kaplama Silme</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
         <source>Failed to delete current skin!</source>
         <translation>Şu anki kaplamanın silme işlemi başarısız!</translation>
     </message>
@@ -1923,13 +1923,13 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <translation>İçerik menüsü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="199"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Seç %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="229"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -1940,7 +1940,7 @@ Bu kalıcı olabilir ve klasörden silineceklerdir.
 Emin misin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -1951,17 +1951,17 @@ Bu kalıcı olabilir ve klasörden silineceklerdir.
 Emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="241"/>
         <source>Confirm Removal</source>
         <translation>Kaldırma İşlemini Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="323"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 tane yüklenmiş, %2 tane seçilmiş)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
         <source> (%1 installed)</source>
         <translation> (%1 tane yüklenmiş)</translation>
     </message>
@@ -10741,52 +10741,52 @@ Lütfen bu profil için burdaki Java sürümlerinden birini seçin:</translation
         <translation>Var olan JSON bileşen dosyalarını içe aktarın.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
         <source>Context menu</source>
         <translation>İçerik menüsü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
         <source>%1 possibly has issues.</source>
         <translation>Muhtemelen %1 içinde hata var.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="209"/>
         <source>%1 has issues!</source>
         <translation>%1 bileşeninde sorun var!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="221"/>
         <source>Error: </source>
         <translation>Hata: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="223"/>
         <source>Warning: </source>
         <translation>Dikkat: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="253"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="353"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="412"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Profil menüsü yüklenemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="278"/>
         <source>Confirm Removal</source>
         <translation>Kaldırma İşlemini Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="279"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -10797,77 +10797,77 @@ Bu kalıcıdır ve özel bileşeni tamamen kaldıracaktır.
 Emin misin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <source>Couldn&apos;t remove file</source>
         <translation>Dosya silinemedi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Select jar mods</source>
         <translation>Jar modlarını seç</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>Minecraft.jar modları (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Select jar</source>
         <translation>Jar seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>Minecraft.jar&apos;ın yerine geçen dosya (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Select components</source>
         <translation>Bileşenleri seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Components (*.json)</source>
         <translation>Bileşenler (*.json)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="332"/>
         <source>Failed to import components</source>
         <translation>Bileşenler içeri aktarılamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Some components could not be imported. Check logs for details</source>
         <translation>Bazı bileşenler içe aktarılamadı. Ayrıntılar için günlüğü kontrol edin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Select agents</source>
         <translation>Araçları seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Java agents (*.jar)</source>
         <translation>Java aracıları (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
         <source>Change %1 version</source>
         <translation>%1 sürümünü değiştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="387"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>Hiçbir Intermediary Mappings sürümü mevcut değil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="388"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Intermediary Mappings sürüm listesi yüklenemedi veya indirilemedi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="413"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -10876,12 +10876,12 @@ Please add your Mojang or Minecraft account.</oldsource>
 Lütfen Mojang veya Minecraft hesabı ekleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
         <source>Confirm Reversion</source>
         <translation>Geri Dönüşümü Onaylayın</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="550"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -10946,7 +10946,7 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
         <translation type="vanished">LiteLoader sürüm listesi yüklenemedi veya indirilemedi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="489"/>
         <source>Error updating instance</source>
         <translation>Profil güncellemede hata</translation>
     </message>

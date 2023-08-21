@@ -594,18 +594,18 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 처음이시라면, &quot;추가&quot;버튼을 눌러 Mojang 혹은 마인크래프트 계정을 추가하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Microsoft 인증 클라이언트 ID가 설정되지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>계정을 추가하기 위해 Mojang 계정 이메일과 비밀번호를 입력하세요.</translation>
     </message>
@@ -623,27 +623,27 @@ Please update both your operating system and %1.</source>
 운영 체제와 %1을(를) 모두 업데이트하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="172"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>오프라인 계정을 추가하려면 마인크래프트를 구매한 Microsoft 또는 Mojang 계정을 추가해야 합니다.&lt;br&gt;&lt;br&gt;계정을 분실한 경우 Microsoft에 지원을 요청할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="179"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>오프라인 계정을 추가하려면 원하는 사용자명을 입력하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
         <source>Skin Delete</source>
         <translation>스킨 삭제</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
         <source>Failed to delete current skin!</source>
         <translation>현재 스킨 삭제에 실패했습니다!</translation>
     </message>
@@ -1915,13 +1915,13 @@ Please update both your operating system and %1.</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="199"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>%1 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="229"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -1932,7 +1932,7 @@ Are you sure?</source>
 확실합니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -1943,17 +1943,17 @@ Are you sure?</source>
 확실합니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="241"/>
         <source>Confirm Removal</source>
         <translation>제거 확인</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="323"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 설치됨, %2 선택됨)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
         <source> (%1 installed)</source>
         <translation> (%1 설치됨)</translation>
     </message>
@@ -10688,52 +10688,52 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation>기존의 컴포넌트 JSON 파일을 불러옵니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
         <source>%1 possibly has issues.</source>
         <translation>%1은(는) 아마도 문제가 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="209"/>
         <source>%1 has issues!</source>
         <translation>%1은(는) 문제가 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="221"/>
         <source>Error: </source>
         <translation>오류: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="223"/>
         <source>Warning: </source>
         <translation>경고: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="253"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="353"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="412"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>인스턴스 프로필을 불러올 수 없었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="278"/>
         <source>Confirm Removal</source>
         <translation>제거 확인</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="279"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -10744,77 +10744,77 @@ Are you sure?</source>
 확실합니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <source>Couldn&apos;t remove file</source>
         <translation>파일을 제거할 수 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Select jar mods</source>
         <translation>Jar 모드 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>마인크래프트 jar 모드들 (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Select jar</source>
         <translation>Jar 모드 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>마인크래프트 jar 대체하기 (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Select components</source>
         <translation>컴포넌트 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Components (*.json)</source>
         <translation>컴포넌트 (*.json)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="332"/>
         <source>Failed to import components</source>
         <translation>컴포넌트를 불러오지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Some components could not be imported. Check logs for details</source>
         <translation>일부 컴포넌트를 불러오지 못했습니다. 자세한 내용은 로그를 확인하십시오</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Select agents</source>
         <translation>에이전트 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Java agents (*.jar)</source>
         <translation>자바 에이전트 (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
         <source>Change %1 version</source>
         <translation>%1 버전 변경</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="387"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>현재 사용 가능한 intermediary mappings 버전이 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="388"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Intermediary mappings 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="413"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -10823,12 +10823,12 @@ Please add your Mojang or Minecraft account.</oldsource>
 Mojang 또는 마인크래프트 계정을 추가하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
         <source>Confirm Reversion</source>
         <translation>되돌리기 확인</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="550"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -10893,7 +10893,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
         <translation type="vanished">LiteLoader 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="489"/>
         <source>Error updating instance</source>
         <translation>인스턴스 업데이트 중 오류</translation>
     </message>

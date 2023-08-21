@@ -586,18 +586,18 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 Ha új vagy itt, kattints a &quot;Hozzáadás&quot; gombra, hogy hozzá add Mojang vagy Minecraft fiókodat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Nincs beállítva Microsoft Authentication ügyfélazonosító.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
         <translation>Menü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Írd be Mojang fiókod e-mail címét és jelszavát a fiókod hozzáadásához.</translation>
     </message>
@@ -615,27 +615,27 @@ Please update both your operating system and %1.</source>
 Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="172"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>Az offline fiók használatához hozzá kell adod egy Minecraft-ot birtokló Microsoft- vagy Mojang-fiókot.&lt;br&gt;&lt;br&gt;Ha elvesztette fiókját, segítségért forduljon a Microsofthoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="179"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Kérlek, add meg a kívánt felhasználóneved az offline fiókhoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
         <source>Skin Delete</source>
         <translation>Skin törlés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
         <source>Failed to delete current skin!</source>
         <translation>Nem sikerült a jelenlegi skint törölni!</translation>
     </message>
@@ -1911,13 +1911,13 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation>Menü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="199"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>%1 kiválasztása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="229"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -1928,7 +1928,7 @@ Ez végleges lehet, és az elemek el fognak tűnni a mappából.
 biztos vagy ebben?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -1939,17 +1939,17 @@ Ez végleges lehet, és a mappa el fog tűnni a szülőmappából.
 biztos vagy ebben?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="241"/>
         <source>Confirm Removal</source>
         <translation>Eltávolítás megerősítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="323"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 telepítve, %2 kiválasztva)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
         <source> (%1 installed)</source>
         <translation> (%1 telepítve)</translation>
     </message>
@@ -10674,52 +10674,52 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
         <translation>Importálja a meglévő JSON-összetevő-fájlokat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
         <source>Context menu</source>
         <translation>Menü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
         <source>%1 possibly has issues.</source>
         <translation>A(z) %1 esetleg problémákat okoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="209"/>
         <source>%1 has issues!</source>
         <translation>A(z) %1 problémákat okoz!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="221"/>
         <source>Error: </source>
         <translation>Hiba: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="223"/>
         <source>Warning: </source>
         <translation>Figyelmeztetés: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="253"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="353"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="412"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Nem sikerült betölteni a példány profilt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="278"/>
         <source>Confirm Removal</source>
         <translation>Eltávolítás megerősítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="279"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -10730,77 +10730,77 @@ Ez végleges, és teljesen eltávolítja az egyéni összetevőt.
 Biztos vagy ebben?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <source>Couldn&apos;t remove file</source>
         <translation>Nem sikerült eltávolítani a fájlt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Select jar mods</source>
         <translation>Jar modok kiválasztássa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>Minecraft.jar modok (* .zip * .jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Select jar</source>
         <translation>Válassza ki a jar-t</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>Minecraft.jar cseréje (* .jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Select components</source>
         <translation>Összetevők kiválasztása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Components (*.json)</source>
         <translation>Összetevők (*.json)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="332"/>
         <source>Failed to import components</source>
         <translation>Nem sikerült importálni az összetevőket</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Some components could not be imported. Check logs for details</source>
         <translation>Egyes összetevőket nem lehetett importálni. A részletekért ellenőrizze a naplókat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Select agents</source>
         <translation>Agentek kijelölése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Java agents (*.jar)</source>
         <translation>Java agentek (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
         <source>Change %1 version</source>
         <translation>%1 verzió megváltoztatása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="387"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>Jelenleg nem érhetők el köztes leképezési verziók.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="388"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Nem sikerült betölteni vagy letölteni a közvetítő leképezések verziólistáit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="413"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -10809,12 +10809,12 @@ Please add your Mojang or Minecraft account.</oldsource>
 Adja hozzá Mojang- vagy Minecraft-fiókját.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
         <source>Confirm Reversion</source>
         <translation>Visszaállítás megerősítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="550"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -10881,7 +10881,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
         <translation type="vanished">Nem lehet betölteni vagy letölteni a LiteLoader verziólistákat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="489"/>
         <source>Error updating instance</source>
         <translation>Hiba történt a példány frissítésekor</translation>
     </message>
