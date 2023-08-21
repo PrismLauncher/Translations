@@ -594,8 +594,8 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Witaj!
-Jeśli jesteś tu nowy, możesz kliknąć przycisk &quot;Dodaj&quot;, aby dodać swoje konto Mojang lub Minecraft.</translation>
+        <translation>Witaj!
+Jeśli jesteś tu nowy, możesz kliknąć przycisk &quot;Dodaj Microsoft&quot; lub &quot;Dodaj Mojang&quot;, aby dodać swoje konta Mojang i/lub Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
@@ -5797,7 +5797,7 @@ Powód:
 Please add your Microsoft or Mojang account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Launcher nie może pobrać Minecraft, lub aktualizować instancji, póki nie dodasz przynajmniej jednego konta.
+        <translation>Launcher nie może pobrać Minecraft, lub aktualizować instancji, póki nie dodasz przynajmniej jednego konta.
 Proszę dodaj swoje konto Mojang lub Minecraft.</translation>
     </message>
     <message>
@@ -11010,7 +11010,7 @@ Jesteś tego pewien?</translation>
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Nie można pobrać Minecraft ani zaktualizować instancji, chyba że masz dodane przynajmniej jedno konto.
+        <translation>Nie można pobrać Minecraft ani zaktualizować instancji, chyba że masz dodane przynajmniej jedno konto.
 Proszę dodać twoje konto Mojang lub Minecraft.</translation>
     </message>
     <message>
