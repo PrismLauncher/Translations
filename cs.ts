@@ -578,8 +578,8 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Vítejte!
-Pokud jste zde noví, svůj Mojang nebo Microsoft účet můžete přidat kliknutím na tlačítko „Přidat“ vpravo.</translation>
+        <translation>Vítejte!
+Kliknutím na tlačítko „Přidat Microsoft“ nebo „Přidat Mojang“ přidáte svůj účet Microsoft a/nebo Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -5735,8 +5735,8 @@ Důvod:
 Please add your Microsoft or Mojang account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Launcher nemůže stáhnout Minecraft nebo aktualizovat instance pokud nemáte přidán alespoň jeden účet.
-Prosít přidejte váš Mojang nebo Minecraft účet.</translation>
+        <translation>Launcher nemůže stáhnout Minecraft nebo aktualizovat instance, pokud nemáte přidaný alespoň jeden účet.
+Přidjete prosím svůj účet Microsoft nebo Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="968"/>
@@ -10912,8 +10912,8 @@ Jste si jisti?</translation>
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Nelze stahovat Minecraft ani aktualizovat instance, pokud nemáte přidaný alespoň jeden účet.
-Přidejte prosím svůj účet Mojang nebo Minecraft.</translation>
+        <translation>Nelze stáhnout Minecraft nebo aktualizovat instance, pokud nemáte přidaný alespoň jeden účet.
+Přidjete prosím svůj účet Microsoft nebo Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
