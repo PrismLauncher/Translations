@@ -422,7 +422,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="328"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Sí</translation>
+        <translation>Sí</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="330"/>
