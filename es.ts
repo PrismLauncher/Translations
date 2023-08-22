@@ -1767,7 +1767,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation>Personalizar</translation>
+        <translation>Modificar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
@@ -1828,7 +1828,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation>Filtrar:</translation>
+        <translation>Buscar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="74"/>
@@ -2791,7 +2791,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation>Navegar</translation>
+        <translation>Explorar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
@@ -2802,7 +2802,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- Modpacks de CurseForge (ZIP / URL curseforge://)</translation>
+        <translation>- CurseForge modpacks (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -2932,7 +2932,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Refrescar</translation>
+        <translation>&amp;Actualizar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
@@ -3536,12 +3536,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Lanzar</translation>
+        <translation>&amp;Lanzar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Forzar cierre</translation>
+        <translation>&amp;Terminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
@@ -3798,7 +3798,7 @@ Puedes cambiar la versión de Java en los ajustes más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="405"/>
         <source>Browse</source>
-        <translation>Navegar</translation>
+        <translation>Explorar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="414"/>
@@ -4025,7 +4025,7 @@ Necesitas comprar el juego primero para jugarlo.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Lanzar</translation>
+        <translation>&amp;Lanzar</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -4152,7 +4152,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="136"/>
         <source>Browse</source>
-        <translation type="unfinished">Navegar</translation>
+        <translation>Explorar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
@@ -5230,7 +5230,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation>Ver carpeta &amp;raiz del lanzador</translation>
+        <translation>Ver carpeta &amp;raíz del lanzador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5759,8 +5759,8 @@ Motivo:
 Please add your Microsoft or Mojang account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">El iniciador no puede descargar Minecraft ni actualizar instancias a menos que tenga al menos una cuenta agregada.
-Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
+        <translation>El lanzador no puede descargar Minecraft ni actualizar instancias a menos que tengas al menos una cuenta añadida.
+Añade tu cuenta de Microsoft o Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="969"/>
@@ -5770,7 +5770,7 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Descarga de pack de mods</translation>
+        <translation>Descarga de Modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
@@ -5862,6 +5862,13 @@ Do you wish to proceed?</source>
 %1
 
 Borrarla podría romper la otra instancia, 
+
+¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
+
+%1
+
+Borrarlo podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
             <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
@@ -6087,7 +6094,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="188"/>
         <source>Reload page</source>
-        <translation>Actualizar página</translation>
+        <translation>Recargar página</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="135"/>
@@ -6177,12 +6184,12 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="236"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Lanzar</translation>
+        <translation>&amp;Lanzar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="238"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished">Lanzar sin conexión</translation>
+        <translation>Lanzar &amp;sin conexión</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="239"/>
@@ -6192,22 +6199,22 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="240"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished">Lanzar &amp;Demo</translation>
+        <translation>Lanzar &amp;Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="241"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished">Ctrl+Alt+O</translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>Profilers</source>
-        <translation type="unfinished">Perfiladores</translation>
+        <translation>Perfil adores</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="259"/>
         <source>&amp;No Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;No Perfil adores</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="848"/>
@@ -7865,7 +7872,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>Reload</source>
-        <translation>Actualizar</translation>
+        <translation>Recargar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="123"/>
@@ -8873,7 +8880,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>unknown</source>
-        <translation>Desconocido</translation>
+        <translation>desconocido</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
@@ -9782,7 +9789,7 @@ Esto es permanente y el servidor desaparecerá de su lista para siempre (POR MUC
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Volver a cargar</translation>
+        <translation>&amp;Actualizar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -10541,7 +10548,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"/>
         <source>Filter:</source>
-        <translation>Filtrar:</translation>
+        <translation>Buscar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
@@ -10584,7 +10591,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
         <source>Customize</source>
-        <translation>Personalizar</translation>
+        <translation>Modificar</translation>
     </message>
     <message>
         <source>Customize selected package.</source>
@@ -10708,7 +10715,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Move Up</source>
-        <translation type="unfinished">Mover arriba</translation>
+        <translation>Ascender</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
@@ -10718,7 +10725,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Move Down</source>
-        <translation type="unfinished">Mover abajo</translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
@@ -10748,7 +10755,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation type="unfinished">Instalar Loader</translation>
+        <translation>Instalar Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
@@ -10937,8 +10944,8 @@ Esto es permanente y eliminará por completo el componente personalizado.
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">No se puede descargar Minecraft o actualizar las instancias hasta que tengas una cuenta añadida.
-Por favor añade una cuenta de Mojang o Minecraft.</translation>
+        <translation>No puedes descargar Minecraft o actualizar instancias a menos que tengas al menos una cuenta añadida.
+Añade tu cuenta de Microsoft o Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
@@ -11119,12 +11126,12 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="96"/>
         <source>Reloads the version list.</source>
-        <translation>Actualizar la lista de versiones.</translation>
+        <translation>Recargar la lista de versiones.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="97"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Volver a cargar</translation>
+        <translation>&amp;Actualizar</translation>
     </message>
 </context>
 <context>
