@@ -586,8 +586,8 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">歡迎！
-如果您是第一次來這裡，您可以按一下「新增」按鈕來新增您的 Mojang 或 Minecraft 帳號。</translation>
+        <translation>歡迎！
+如果您是第一次來這裡，您可以點選「新增 Microsoft」或「新增 Mojang」按鈕來新增您的 Microsoft 和（或）Mojang 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -2330,7 +2330,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="557"/>
         <source>%1 out of %2 complete</source>
-        <translation>已完成 %1 之 %2</translation>
+        <translation>已完成 %2 分之 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="571"/>
@@ -3925,7 +3925,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="181"/>
         <source>Choose your demo mode player name.</source>
-        <translation>選擇你的試玩版模式玩家名稱。</translation>
+        <translation>選擇你的體驗版模式玩家名稱。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -3935,7 +3935,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>Play demo?</source>
-        <translation>遊玩試玩版？</translation>
+        <translation>遊玩體驗版？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
@@ -3946,12 +3946,12 @@ Do you want to play the demo?</source>
         <translation>此帳號尚未擁有 Minecraft。
 你需要先購入遊戲才能繼續遊玩。
 
-你想要先遊玩試玩版嗎？</translation>
+你想要先遊玩體驗版嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Play Demo</source>
-        <translation>遊玩試玩版</translation>
+        <translation>遊玩體驗版</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
@@ -5748,8 +5748,8 @@ Reason:
 Please add your Microsoft or Mojang account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
-請新增你的 Mojang 或 Minecraft 帳號。</translation>
+        <translation>除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
+請新增你的 Microsoft 或 Mojang 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="968"/>
@@ -6174,7 +6174,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="240"/>
         <source>Launch &amp;Demo</source>
-        <translation>試玩版啟動（&amp;D）</translation>
+        <translation>體驗版啟動（&amp;D）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="241"/>
@@ -7340,7 +7340,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="271"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 在 %2 之外完成</translation>
+        <translation>已完成 %2 分之 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="276"/>
@@ -10928,8 +10928,8 @@ Are you sure?</source>
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">無法在尚未新增帳號的狀態中下載 Minecraft 或更新實例。
-請登入你的 Mojang 或 Microsoft 帳號。</translation>
+        <translation>除非你至少新增了一個帳號，否則將無法下載 Minecraft 或更新實例。
+請登入你的 Microsoft 或 Mojang 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
