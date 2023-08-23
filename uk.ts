@@ -3442,16 +3442,21 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Пошук виконуваного файлу Java</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No default account</source>
         <translation type="vanished">Немає типічного аккаунту</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="487"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Ваша кількість виділеної пам&apos;яті перевищує кількість пам&apos;яті, встановленої у вашу систему.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="489"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="490"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Максимальне виділення пам&apos;яті наближається до обсягу пам&apos;яті в системі.</translation>
     </message>
@@ -3671,14 +3676,19 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Пошук виконуваного файлу Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="194"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Ваша кількість виділеної пам&apos;яті перевищує кількість пам&apos;яті, встановленої у вашу систему.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="197"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Максимальне виділення пам&apos;яті наближається до обсягу пам&apos;яті в системі.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3752,6 +3762,11 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="417"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Максимальне виділення пам&apos;яті наближається до обсягу пам&apos;яті в системі.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

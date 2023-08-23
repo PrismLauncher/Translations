@@ -3472,16 +3472,21 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <translation>Trova l&apos;eseguibile di Java</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No default account</source>
         <translation type="vanished">Nessun account predefinito</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="487"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>La tua allocazione massima di memoria supera la capacità di memoria del tuo sistema.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="489"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="490"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>La tua massima allocazione è vicina alla capacità massima della memoria del tuo sistema.</translation>
     </message>
@@ -3701,14 +3706,19 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <translation>Trova l&apos;eseguibile di Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="194"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>La tua massima allocazione supera la capacità della memoria del tuo sistema.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="197"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>La tua massima allocazione di memoria si avvicina alla capacità di memoria del tuo sistema.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3782,6 +3792,11 @@ Puoi cambiare la versione di Java nelle impostazioni più avanti.
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="417"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>La tua massima allocazione è vicina alla massima capacità di memoria del tuo sistema.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
+        <source>Your maximum memory allocation is smaller than the minimum value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
