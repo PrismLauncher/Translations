@@ -590,8 +590,8 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Olá!
-Acabou de chegar? Clique em &quot;Adicionar&quot; e inicie a sessão com a sua conta Mojang ou Minecraft.</translation>
+        <translation>Bem-vindo!
+Se você é novo aqui, pode selecionar os botões “Adicionar Microsoft” ou “Adicionar Mojang” para vincular suas contas Microsoft e/ou Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -5784,7 +5784,7 @@ Razão:
 Please add your Microsoft or Mojang account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">O launcher não pode baixar o Minecraft ou atualizar as instâncias sem que você tenha ao menos uma conta adicionada.
+        <translation>O launcher não pode baixar o Minecraft ou atualizar as instâncias sem que você tenha ao menos uma conta adicionada.
 Por favor, adicione a sua conta Mojang ou Minecraft.</translation>
     </message>
     <message>
@@ -10985,7 +10985,7 @@ Tem certeza?</translation>
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Não se pode baixar o Minecraft ou atualizar instâncias a não ser que ao menos uma conta seja adicionada.
+        <translation>Não é possível baixar o Minecraft ou atualizar instâncias a não ser que ao menos uma conta seja adicionada.
 Por favor, adicione a sua conta Mojang ou Minecraft.</translation>
     </message>
     <message>
