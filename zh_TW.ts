@@ -3504,7 +3504,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>您分配的最大記憶體小於最小記憶體容量</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3748,7 +3748,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>您分配的最大記憶體小於最小記憶體容量</translation>
     </message>
 </context>
 <context>
@@ -3826,7 +3826,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>您分配的最大記憶體小於最小記憶體容量</translation>
     </message>
 </context>
 <context>
