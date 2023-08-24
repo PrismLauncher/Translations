@@ -3495,7 +3495,7 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše maximální přidělení paměti je menší než minimální hodnota</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3739,7 +3739,7 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše maximální přidělení paměti je menší než minimální hodnota</translation>
     </message>
 </context>
 <context>
@@ -3817,7 +3817,7 @@ Verzi Javy můžete později změnit v nastavení.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše maximální přidělení paměti je menší než minimální hodnota</translation>
     </message>
 </context>
 <context>
