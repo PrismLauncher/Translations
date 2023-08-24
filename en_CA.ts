@@ -546,8 +546,8 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Welcome!
-If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</translation>
+        <translation>Welcome!
+If you&apos;re new here, you can click the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -1352,7 +1352,7 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
@@ -1905,7 +1905,7 @@ Are you sure?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">Browse</translation>
+        <translation>Browse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2662,22 +2662,22 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>The modpack %1 is blocked for third-parties! Please download it manually.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>This url isn&apos;t a valid modpack !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>Abort</source>
-        <translation type="unfinished">Abort</translation>
+        <translation>Abort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="205"/>
@@ -2738,37 +2738,37 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Refresh</translation>
+        <translation>&amp;Refresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Install Loader</translation>
     </message>
 </context>
 <context>
@@ -2776,7 +2776,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="43"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">No versions are currently available for Minecraft %1</translation>
+        <translation>No versions are currently available for Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2966,7 +2966,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="82"/>
         <source>Browse</source>
-        <translation type="unfinished">Browse</translation>
+        <translation>Browse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="127"/>
@@ -3170,7 +3170,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="319"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="326"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation>Path to %1 library file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
@@ -3195,7 +3195,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Your maximum memory allocation is smaller than the minimum value</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3240,17 +3240,17 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Launch</translation>
+        <translation>&amp;Launch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Kill</translation>
+        <translation>&amp;Kill</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -3388,7 +3388,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
         <source>Browse</source>
-        <translation type="unfinished">Browse</translation>
+        <translation>Browse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
@@ -3434,7 +3434,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Your maximum memory allocation is smaller than the minimum value</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -3517,7 +3517,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Your maximum memory allocation is smaller than the minimum value</translation>
     </message>
 </context>
 <context>
@@ -3699,7 +3699,7 @@ Do you want to play the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler check for %1 failed: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
@@ -4604,12 +4604,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
         <source>View &amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>View &amp;Instance Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>View Launcher &amp;Root Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
