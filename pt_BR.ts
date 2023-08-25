@@ -3526,7 +3526,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua alocação máxima de memória é menor do que o valor mínimo</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3770,7 +3770,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua alocação máxima de memória é menor do que o valor mínimo</translation>
     </message>
 </context>
 <context>
@@ -3848,7 +3848,7 @@ Você pode mudar a versão do Java depois nos ajustes.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua alocação máxima de memória é menor do que o valor mínimo</translation>
     </message>
 </context>
 <context>
@@ -5902,6 +5902,13 @@ Do you wish to proceed?</source>
 %1
 
 A exclusão dessa instância pode quebrar a outra instância, 
+
+Você deseja continuar?</numerusform>
+            <numerusform>As instâncias a seguir podem fazer referência a arquivos nessa instância:
+
+%1
+
+A exclusão dessa instância pode quebrar as outras instâncias, 
 
 Você deseja continuar?</numerusform>
             <numerusform>As instâncias a seguir podem fazer referência a arquivos nessa instância:
