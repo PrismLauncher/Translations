@@ -2922,7 +2922,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
@@ -5850,7 +5850,6 @@ Vuoi procedere?</numerusform>
 L&apos;eliminazione potrebbe corrompere le altre istanze,
 
 Vuoi procedere?</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>
