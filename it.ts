@@ -4329,7 +4329,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>Chiudi automaticamente la console all&apos;uscita dal gioco</translation>
+        <translation>Chiudere automaticamente la console all&apos;uscita dal gioco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
