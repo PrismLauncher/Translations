@@ -598,8 +598,8 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Willkommen!
-Solltest du neu sein, kannst du die &quot;Hinzufügen&quot;-Schaltfläche drücken um dein Mojang- oder Minecraft-Konto hinzuzufügen.</translation>
+        <translation>Willkommen!
+Wenn du hier neu sein solltest, kannst du die &quot;Hinzufügen&quot;-Schaltfläche drücken um dein Mojang- oder Minecraft-Konto hinzuzufügen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -1387,7 +1387,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished">Release</translation>
+        <translation>Veröffentlichungen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
@@ -1402,12 +1402,12 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished">Betaversionen</translation>
+        <translation>Beta-Versionen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished">Alphaversionen</translation>
+        <translation>Alpha-versionen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
@@ -1423,7 +1423,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished">Mod Lader</translation>
+        <translation>Mod Lader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
@@ -1433,7 +1433,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>Neo-Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
@@ -1458,22 +1458,22 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished">Benutzerdefiniert</translation>
+        <translation>Individuell</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="121"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished">Es ist keine Minecraft-Version ausgewählt.</translation>
+        <translation>Es wurde keine Minecraft-Version ausgewählt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="127"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished">Es ist kein Mod Lader ausgewählt.</translation>
+        <translation>Es ist kein Mod Lader ausgewählt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Derzeit sind keine Versionen für Minecraft %1 verfügbar</translation>
+        <translation>Derzeit sind keine Versionen für Minecraft %1 verfügbar</translation>
     </message>
 </context>
 <context>
@@ -1617,7 +1617,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -1681,58 +1681,58 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>Informationen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished">Zusammenfassung</translation>
+        <translation>Zusammenfassung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished">1.0.0</translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="67"/>
         <source>Files</source>
-        <translation type="unfinished">Dateien</translation>
+        <translation>Dateien</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="111"/>
         <source>Export %1</source>
-        <translation type="unfinished">%1 exportieren</translation>
+        <translation>%1 exportieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="125"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Aufgabe abgebrochen</translation>
+        <translation>Aufgabe abgebrochen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Die Aufgabe wurde vom Benutzer abgebrochen.</translation>
+        <translation>Die Aufgabe wurde vom Benutzer abgebrochen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
         <source>Abort</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbruch</translation>
     </message>
 </context>
 <context>
@@ -1745,7 +1745,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -1775,7 +1775,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished">Benutzerdefiniert</translation>
+        <translation>Individuell</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
@@ -1791,7 +1791,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
@@ -1823,12 +1823,12 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished">Kopieren</translation>
+        <translation>Kopieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">%1 exportieren</translation>
+        <translation>%1 exportieren</translation>
     </message>
 </context>
 <context>
@@ -1922,7 +1922,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="165"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Schauen sie die Seite der Mod an</translation>
+        <translation>Schau dir die Seite der Mod an</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
@@ -1986,7 +1986,7 @@ Bist Du Dir sicher?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">Durchsuchen</translation>
+        <translation>Durchsuchen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2170,7 +2170,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="83"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2290,17 +2290,17 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Abrufen der lokalen Metadaten für %1 fehlgeschlagen</translation>
+        <translation>Abrufen der lokalen Metadaten für %1 fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="297"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Konnte Version für %1 Loader nicht finden</translation>
+        <translation>Konnte Version für %1 Loader nicht finden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="302"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Keine Loader-Version ist für dieses Modpack gesetzt!</translation>
+        <translation>Keine Loader-Version ist für dieses Modpack gesetzt!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
@@ -2482,12 +2482,12 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="61"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Suche nach Dateien...</translation>
+        <translation>Suche nach Dateien...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="83"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Dateien konnten nicht gefunden werden</translation>
+        <translation>Dateien konnten nicht gefunden werden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="100"/>
@@ -2503,7 +2503,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="231"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="293"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Verarbeite CurseForge API Antwort für &apos;%1&apos;...</translation>
+        <translation>Verarbeite CurseForge API Antwort für &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="250"/>
@@ -9014,7 +9014,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>ungruppiert</translation>
     </message>
 </context>
 <context>
@@ -9032,7 +9032,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation>Mods</translation>
+        <translation>Modifikationen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
@@ -10766,77 +10766,77 @@ Bitte wechsel zu einer der folgenden Java-Versionen für diese Instanz:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version ändern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
         <source>Change version of the selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Version der ausgewählten Komponente ändern.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Move Up</source>
-        <translation type="unfinished">Nach oben</translation>
+        <translation>Nach oben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
         <source>Make the selected component apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die ausgewählte Komponente wird früher angewendet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Move Down</source>
-        <translation type="unfinished">Nach unten</translation>
+        <translation>Nach unten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
         <source>Make the selected component apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lass die ausgewählte Komponente später anwenden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Remove selected component from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Komponente aus der Instanz entfernen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Customize selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassen der ausgewählten Komponente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
         <source>Edit selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Komponente bearbeiten.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
         <source>Revert the selected component to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Setzt die ausgewählte Komponente auf die Standardwerte zurück.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Lader installieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Install a mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installiere einen Mod-Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
         <source>Add an empty custom component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fügt eine leere benutzerdefinierte Komponente hinzu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Reload all components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lade alle Komponenten neu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Download all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle herunterladen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
@@ -11005,8 +11005,8 @@ Bist Du Dir sicher?</translation>
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Solange du kein Konto hinzugefügt hast, kann Minecraft nicht heruntergeladen und Instanzen nicht aktualisiert werden.
-Bitte füge dein Mojang- oder Minecraft-Konto hinzu.</translation>
+        <translation>Du kannst Minecraft nicht herunterladen oder Instanzen aktualisieren, wenn Sie nicht mindestens ein Konto hinzugefügt haben.
+Bitte fügen Sie Ihr Microsoft- oder Mojang-Konto hinzu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
