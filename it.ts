@@ -9401,12 +9401,12 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Richiesto da: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Richiesto da:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
@@ -9495,7 +9495,10 @@ Sei sicuro?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per caricare %1 screenshots su %2
+Dovresti ricontrollare che non ci siano informazioni personali
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"/>
@@ -9503,7 +9506,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Si sta per caricare lo screenshot selezionato su %1.
+Dovresti ricontrollare che non ci siano informazioni personali.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
@@ -10082,7 +10088,7 @@ inheritsFrom mancante</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Enable</source>
-        <translation type="unfinished">Attiva</translation>
+        <translation>Attiva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
@@ -10104,9 +10110,9 @@ inheritsFrom mancante</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Attenzione: Questa risorsa è simbolicamente collegata da altrove. Modificandola cambierà anche l&apos;originale.
-Percorso canonico: %1</translation>
+        <translation>
+Attenzione: Questa risorsa è collegata altrove. Modificandola cambierai anche l&apos;originale.
+Percorso originale: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="94"/>
@@ -11079,7 +11085,7 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation>Personalizzare azioni della barra degli strumenti</translation>
+        <translation>Personalizza le azioni della barra degli strumenti.</translation>
     </message>
 </context>
 <context>
