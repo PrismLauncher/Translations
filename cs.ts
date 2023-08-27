@@ -5168,7 +5168,7 @@ Důvod:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="497"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1558"/>
         <source>Create Shortcut</source>
         <translation>Vytvořit zástupce</translation>
     </message>
@@ -5515,7 +5515,7 @@ Důvod:
         <translation type="vanished">Smazat Instanci...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="253"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="255"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
@@ -5643,14 +5643,14 @@ Důvod:
         <translation type="vanished"> na %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="346"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="420"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1686"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="422"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1687"/>
         <source>No instance selected</source>
         <translation>Nebyla vybrána žádná instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
         <source>Total playtime: 0s</source>
         <translation>Celková doba hraní: 0s</translation>
     </message>
@@ -5659,12 +5659,12 @@ Důvod:
         <translation type="vanished">Profily</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="519"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="521"/>
         <source>Create instance</source>
         <translation>Vytvořit instanci</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="533"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="535"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>Odstranit skupinu &apos;%1&apos;</translation>
     </message>
@@ -5698,7 +5698,7 @@ Důvod:
         <translation>Nebyly přidány žádné účty!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="652"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -5713,40 +5713,40 @@ Důvod:
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="763"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="765"/>
         <source>Loading news...</source>
         <translation>Načítání novinek...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="775"/>
         <source>No news available.</source>
         <translation>Žádné novinky.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="821"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="823"/>
         <source>Warnings</source>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="825"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="827"/>
         <source>Task aborted</source>
         <translation>Úloha přerušena</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="825"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="827"/>
         <source>The task has been aborted by the user.</source>
         <translation>Úloha byla přerušena uživatelem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="829"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="831"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="870"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="982"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1008"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="873"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="875"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
@@ -5755,77 +5755,77 @@ Please add your Mojang or Minecraft account.</oldsource>
 Přidjete prosím svůj účet Microsoft nebo Mojang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="969"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modpack, mod nebo zdroj %1 je blokován třetím stranám! Stáhněte si jej prosím ručně.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
         <source>Modpack download</source>
         <translation>Stáhnutí modpacku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1140"/>
         <source>Group name</source>
         <translation>Název skupiny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1140"/>
         <source>Enter a new group name.</source>
         <translation>Zadejte nový název skupiny.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1160"/>
         <source>Delete group</source>
         <translation>Odstranit skupinu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1160"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>Opravdu chcete odstranit skupinu %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1247"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1248"/>
         <source>Instance not editable</source>
         <translation>Instanci nelze upravit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1248"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1249"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Tuto instanci nelze upravovat. Může být nefunkční, neplatná nebo příliš stará. Podrobnosti najdete v protokolech.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1283"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Successfully added %1 to PATH</source>
         <translation>%1 úspěšně přidán do PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 byl úspěšně přidán do vaší PATH. Nyní jej můžete spustit zadáním `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1287"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Nepodařilo se přidat %1 do PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Při přidávání %1 do PATH došlo k chybě</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1332"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
         <source>Confirm Deletion</source>
         <translation>Potvrdit odstranění</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1345"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
         <source>There are linked instances</source>
         <translation>Existují propojené instance</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1347"/>
         <source>The following instance(s) might reference files in this instance:
 
 %1
@@ -5862,7 +5862,7 @@ Chcete pokračovat?</numerusform>
         <translation type="vanished">POZOR!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1334"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -5887,42 +5887,42 @@ Tato akce je nevratná a kompletně odstraní instanci.
 Jste si jisti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1480"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1491"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1524"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1580"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1591"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1596"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1604"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1492"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1525"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1581"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1592"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1603"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1605"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1611"/>
         <source>Create instance shortcut</source>
         <translation>Vytvořit zástupce instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1480"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Nepodařilo se nalézt plochu?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1492"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Launcher je ve složce, ze které byl rozbalen, a proto nemůže vytvářet zástupce.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1603"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Na ploše byl vytvořen zástupce této instance!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1611"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Nepodařilo se vytvořit zástupce instance!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1525"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>Launcher je spuštěn jako špatně nakonfigurovaný AppImage? (chybí proměnná prostředí $APPIMAGE)</translation>
     </message>
@@ -5935,82 +5935,82 @@ Jste si jisti?</translation>
         <translation type="vanished">Modpacky z CurseForge momentálně nepodporují vývojové verze.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>Create instance Application</source>
         <translation>Vytvořit aplikaci z instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>Failed to create icon for Application.</source>
         <translation>Nepodařilo se vytvořit ikonu aplikace.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1580"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1591"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1581"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1592"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Nepodařilo se vytvořit ikonu zástupce.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1558"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>Záznamy na ploše (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1596"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
         <source>Not supported on your platform!</source>
         <translation>Není podporováno na vaší platformě!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1604"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1605"/>
         <source>Created a shortcut to this instance!</source>
         <translation>Zkratka na tuto instanci úspěšně vytvořena!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1692"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1693"/>
         <source>Rename Instance</source>
         <translation>Přejmenovat Instanci</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Složka vaší instance obsahuje znak &apos;!&apos;. Java s má s tímto často problém!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1706"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Nyní máte dvě možnosti: &lt;br/&gt; - změnit složku instance v nastavení &lt;br/&gt; - přesunout tuto instalaci %1 do jiné složky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Toto je problém: &lt;br/&gt; - Launcher bude pravděpodobně smazán operačním systémem bez varování &lt;br/&gt; - ihned zavřete launcher a extrahujte jej do reálné složky, ne do dočasné</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1720"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Složka vaší instance obsahuje &apos;Rar$&apos; - to znamená, že jste neextrahovali archiv launcheru!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1726"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Složka vaší instance je v dočasné složce: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1739"/>
         <source>Total playtime: %1</source>
         <translation>Celková doba hraní. %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="817"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="968"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="819"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="867"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="874"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1003"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -6026,7 +6026,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Accounts</source>
         <translation>Účty</translation>
     </message>
@@ -6606,23 +6606,23 @@ Jste si jisti?</translation>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="89"/>
         <source>Folder</source>
         <translation>Složka</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="91"/>
         <source>File</source>
         <translation>Soubor</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="98"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="103"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation>Neznámý</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="111"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="116"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -6631,19 +6631,19 @@ Varování: Tento zdroj je symbolicky propojen odjinud. Jeho úpravou se změní
 Opravdová cesta: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="117"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="122"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i originál.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Name</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Version</source>
         <translation>Verze</translation>
     </message>
@@ -6652,47 +6652,47 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <translation type="vanished">Naposledy změněno</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Provider</source>
         <translation>Poskytovatel</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Enable</source>
         <translation>Povolit</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Image</source>
         <translation>Obrázek</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Last Modified</source>
         <translation>Naposledy upraveno</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="165"/>
         <source>Is the mod enabled?</source>
         <translation>Je mod zapnut?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="167"/>
         <source>The name of the mod.</source>
         <translation>Název modu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="164"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="169"/>
         <source>The version of the mod.</source>
         <translation>Verze modu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="166"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="171"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Den nebo čas kdy tento mod byl naposledy změněn (nebo přidán).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="173"/>
         <source>Where the mod was downloaded from.</source>
         <translation>Odkud byl mod stažen.</translation>
     </message>
@@ -8366,7 +8366,7 @@ Vyber si dobře svoje jméno:</translation>
         <translation>S poděkováním</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="136"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="138"/>
         <source>%1 (in use)</source>
         <translation>%1 (používáno)</translation>
     </message>

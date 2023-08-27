@@ -4583,7 +4583,7 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="253"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="255"/>
         <source>Backspace</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4594,7 +4594,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Accounts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4656,7 +4656,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="497"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1558"/>
         <source>Create Shortcut</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4666,24 +4666,24 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="346"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="420"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1686"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="422"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1687"/>
         <source>No instance selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
         <source>Total playtime: 0s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="519"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="521"/>
         <source>Create instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="533"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="535"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4693,7 +4693,7 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="652"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
         <source>Ctrl+%1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4708,40 +4708,40 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="817"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="968"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="819"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="867"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="874"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1003"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="821"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="823"/>
         <source>Warnings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="825"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="827"/>
         <source>Task aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="825"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="827"/>
         <source>The task has been aborted by the user.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="829"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="868"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="981"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="831"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="870"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="982"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1008"/>
         <source>Abort</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="873"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="875"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
@@ -4749,72 +4749,72 @@ Please add your Mojang or Minecraft account.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="969"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
         <source>Modpack download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1140"/>
         <source>Group name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1140"/>
         <source>Enter a new group name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1160"/>
         <source>Delete group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1160"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1247"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1248"/>
         <source>Instance not editable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1248"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1249"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1283"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Successfully added %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1287"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
         <source>Failed to add %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1332"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
         <source>Confirm Deletion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1334"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -4826,12 +4826,12 @@ Are you sure?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1345"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
         <source>There are linked instances</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1347"/>
         <source>The following instance(s) might reference files in this instance:
 
 %1
@@ -4845,112 +4845,112 @@ Do you wish to proceed?</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1480"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1491"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1524"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1580"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1591"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1596"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1604"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1492"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1525"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1581"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1592"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1603"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1605"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1611"/>
         <source>Create instance shortcut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1480"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1492"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>Create instance Application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1517"/>
         <source>Failed to create icon for Application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1603"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1604"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1605"/>
         <source>Created a shortcut to this instance!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1611"/>
         <source>Failed to create instance shortcut!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1525"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1580"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1591"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1581"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1592"/>
         <source>Failed to create icon for shortcut.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1558"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1596"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
         <source>Not supported on your platform!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1692"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1693"/>
         <source>Rename Instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1706"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1720"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1726"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1738"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1739"/>
         <source>Total playtime: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4970,12 +4970,12 @@ Do you wish to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="763"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="765"/>
         <source>Loading news...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="775"/>
         <source>No news available.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5490,86 +5490,86 @@ Do you wish to proceed?</source>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="89"/>
         <source>Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="91"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="98"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="103"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="111"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="116"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="117"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="122"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Provider</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Enable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Last Modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="165"/>
         <source>Is the mod enabled?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="167"/>
         <source>The name of the mod.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="164"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="169"/>
         <source>The version of the mod.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="166"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="171"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="173"/>
         <source>Where the mod was downloaded from.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6935,7 +6935,7 @@ Choose your name carefully:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="136"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="138"/>
         <source>%1 (in use)</source>
         <translation type="unfinished"></translation>
     </message>
