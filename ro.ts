@@ -2894,7 +2894,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați Încărcător de Moduri</translation>
     </message>
 </context>
 <context>
