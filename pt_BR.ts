@@ -5897,20 +5897,21 @@ Deleting it could break the other instance(s),
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>A instância a seguir pode fazer referência a arquivos nessa instância:
+            <numerusform>A instância a seguir pode fazer referência a arquivos nesta instância:
 
 %1
 
-A exclusão dessa instância pode quebrar a outra instância, 
+Excluí-lo pode quebrar a outra instância,
 
 Você deseja continuar?</numerusform>
-            <numerusform>As instâncias a seguir podem fazer referência a arquivos nessa instância:
+            <numerusform>As seguintes instâncias podem fazer referência a arquivos nesta instância:
 
 %1
 
-A exclusão dessa instância pode quebrar as outras instâncias, 
+Excluí-lo pode quebrar as outras instâncias,
 
 Você deseja continuar?</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -6450,7 +6451,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar o tempo gasto jogando em horas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
