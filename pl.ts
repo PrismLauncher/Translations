@@ -2128,7 +2128,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Nie udało się utworzyć katalogu FML wewnątrz instancji.</translation>
+        <translation>Nie udało się utworzyć katalogu biblioteki FML wewnątrz instancji.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
@@ -3540,7 +3540,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalna alokacja pamięci jest mniejsza od wartości minimalnej</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3784,7 +3784,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalna alokacja pamięci jest mniejsza od wartości minimalnej</translation>
     </message>
 </context>
 <context>
@@ -3862,7 +3862,7 @@ Możesz później zmienić wersję Java&apos;y w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalna alokacja pamięci jest mniejsza od wartości minimalnej</translation>
     </message>
 </context>
 <context>
@@ -4451,10 +4451,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>Próbujesz określić folder instancji, który został tymczasowo przyznany za pośrednictwem Flatpak.
-To jest wiadome, że spowoduje to problemy. Po ponownym uruchomieniu launcher może się zepsuć, ponieważ nie będzie już miał dostępu do tego katalogu.
+        <translation>Próbujesz określić folder instancji, który został tymczasowo przyznany przez Flatpak.
+Jest to znanym powodem występowania błędów. Po ponownym uruchomieniu launcher może zostać uszkodzony, gdyż nie będzie miał dostępu do tego katalogu.
 
-Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
+Zalecane jest przyznanie %1 dostępu przez Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
@@ -6471,7 +6471,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl spędzony czas w grze w godzinach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
