@@ -1660,38 +1660,38 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Popis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Souhrn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="unfinished">Název</translation>
+        <translation>&amp;Název</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Možnosti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Soubory</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Označit zakázané soubory jako volitelné</translation>
     </message>
     <message>
         <source>Version</source>
@@ -1709,17 +1709,17 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished">Exportovat balíček Modrinth</translation>
+        <translation>Exportovat balíček Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat balíček CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
         <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
