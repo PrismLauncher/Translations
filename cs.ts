@@ -1722,8 +1722,8 @@ Prosím aktualizujte váš operační systém a %1.</translation>
         <translation>&amp;Autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="126"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Export %1</source>
         <translation>Exportovat %1</translation>
     </message>

@@ -1653,8 +1653,8 @@ Se es novo aquí, clic no botón &quot;Engadir&quot; para agregar a túa conta d
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="126"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Export %1</source>
         <translation type="unfinished">Exportar %1</translation>
     </message>

@@ -1738,8 +1738,8 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="126"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Export %1</source>
         <translation>%1&apos;i Dışa Aktar</translation>
     </message>

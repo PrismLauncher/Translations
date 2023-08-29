@@ -1742,8 +1742,8 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="121"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="126"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Export %1</source>
         <translation>Exporter %1</translation>
     </message>
