@@ -587,7 +587,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;A
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
         <translation>歡迎！
-如果您是第一次來這裡，您可以點選「新增 Microsoft」或「新增 Mojang」按鈕來新增您的 Microsoft 和（或）Mojang 帳號。</translation>
+如果您是第一次來這裡，您可以按一下「新增 Microsoft」或「新增 Mojang」按鈕來新增您的 Microsoft 和（或）Mojang 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -4966,7 +4966,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="475"/>
         <source>A zip error occurred</source>
-        <translation>Zip 壓縮檔發生了錯誤</translation>
+        <translation>Zip 壓縮檔發生錯誤</translation>
     </message>
 </context>
 <context>
