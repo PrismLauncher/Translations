@@ -1688,12 +1688,12 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beschreibung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zusammenfassung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
@@ -1704,22 +1704,22 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Optionen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dateien</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Markiere deaktivierte Dateien als optional</translation>
     </message>
     <message>
         <source>Version</source>
@@ -1737,17 +1737,17 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished">Exportiere das Modrinth-Paket</translation>
+        <translation>Exportiere Modrinth-Paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportiere CurseForge-Paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
         <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
@@ -2876,7 +2876,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- CurseForge Modpacks (ZIP)</translation>
+        <translation>- CurseForge Modpacks (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -3552,7 +3552,7 @@ Achtung beim Fortfahren!</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="319"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="326"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pfad zur %1 Bibliotheksdatei</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
@@ -3577,7 +3577,7 @@ Achtung beim Fortfahren!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deine maximale Arbeitsspeicher-Zuweisung ist kleiner als die minimale</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3627,7 +3627,7 @@ Achtung beim Fortfahren!</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Strg+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -3722,7 +3722,7 @@ Achtung beim Fortfahren!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -3821,7 +3821,7 @@ Achtung beim Fortfahren!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deine maximale Arbeitsspeicher-Zuweisung ist kleiner als die minimale</translation>
     </message>
 </context>
 <context>
@@ -3899,7 +3899,7 @@ Du kannst die Java-Version in den Einstellungen später ändern.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deine maximale Arbeitsspeicher-Zuweisung ist kleiner als die minimale</translation>
     </message>
 </context>
 <context>
@@ -4111,7 +4111,7 @@ Möchtest du die Demo starten?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Profiler-Prüfung für %1 fehlgeschlagen: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
@@ -5317,7 +5317,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Launcher-&amp;Wurzelverzeichnis öffnen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5429,7 +5429,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="479"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="488"/>
@@ -5846,8 +5846,8 @@ Grund:
 Please add your Microsoft or Mojang account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Minecraft kann nicht heruntergeladen oder upgedatet werden, solange kein Konto hinzugefügt wurde.
-Bitte füg ein Mojang- oder Minecraft-Konto hinzu.</translation>
+        <translation>Minecraft kann nicht heruntergeladen oder aktualisiert werden, solange kein Konto hinzugefügt wurde.
+Bitte füge ein Mojang- oder Minecraft-Konto hinzu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
@@ -5882,12 +5882,12 @@ Bitte füg ein Mojang- oder Minecraft-Konto hinzu.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1247"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanz ist nicht editierbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1248"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Instanz ist nicht editierbar. Sie könnte kaputt, ungültig oder zu alt sein. Prüfe die Logs für Details.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1283"/>
@@ -6028,7 +6028,7 @@ Bist du dir sicher?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das Erstellen vom Applikationssymbol ist fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
@@ -6051,7 +6051,7 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1604"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Verknüpfung zu dieser Instanz wurde erstellt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1692"/>
@@ -6382,7 +6382,7 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Spielzeit in Stunden anzeigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="197"/>
@@ -6459,7 +6459,7 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
@@ -6523,7 +6523,7 @@ Bist du dir sicher?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
         <source>Auto detected path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch erkannter Pfad: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="158"/>
@@ -6879,7 +6879,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Zur Mod-Webseite gehen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
@@ -9682,7 +9682,10 @@ Bist Du Dir sicher?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Du bist dabei %1 Screenshots zu %2 hochzuladen.
+Du solltest prüfen ob persönliche Informationen enthalten sind.
+
+Bist du dir sicher?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"/>
@@ -9690,7 +9693,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Du bist dabei den ausgewählten Screenshot zu %2 hochzuladen.
+Du solltest prüfen ob persönliche Informationen enthalten sind.
+
+Bist du dir sicher?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
