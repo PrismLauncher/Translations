@@ -7284,7 +7284,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="199"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Failide lisamine...</translation>
     </message>
 </context>
 <context>
