@@ -858,7 +858,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">Otsi</translation>
+        <translation>Otsi</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -1653,38 +1653,38 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kirjeldus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kokkuvõte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="unfinished">Nimi</translation>
+        <translation>&amp;Nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Versioon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Valikud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Failid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Märgista keelatud failid valikuliseks</translation>
     </message>
     <message>
         <source>Version</source>
@@ -1702,17 +1702,17 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished">Ekspordi Modrinth Pack</translation>
+        <translation>Ekspordi Modrinthi pakk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekspordi CurseForge apkk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
         <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
@@ -1746,7 +1746,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekspordi pakk modiloendiks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -2168,12 +2168,12 @@ Palun proovi uuesti.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sorteeri nime järgi</translation>
+        <translation>Sorteeri nime järgi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sorteeri mängu versiooni järgi</translation>
+        <translation>Sorteeri mängu versiooni järgi</translation>
     </message>
 </context>
 <context>
@@ -2186,12 +2186,12 @@ Palun proovi uuesti.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Otsi ja filtreeri...</translation>
+        <translation>Otsi ja filtreeri...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished">Otsi</translation>
+        <translation>Otsi</translation>
     </message>
 </context>
 <context>
@@ -2519,7 +2519,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="330"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Failide lisamine...</translation>
     </message>
 </context>
 <context>
@@ -9255,7 +9255,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="105"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainult märgistusega %1 laaditakse alla!</translation>
     </message>
 </context>
 <context>
