@@ -5476,7 +5476,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>Open the launcher&apos;s root folder in a file browser.</translation>
+        <translation>資料夾在檔案總管開啟啟動器的根資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
