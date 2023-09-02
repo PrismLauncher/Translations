@@ -858,7 +858,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">Hledat</translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -2180,12 +2180,12 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Seřadit podle názvu</translation>
+        <translation>Seřadit podle názvu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Seřadit podle verze hry</translation>
+        <translation>Seřadit podle verze hry</translation>
     </message>
 </context>
 <context>
@@ -2198,12 +2198,12 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Vyhledat a filtrovat...</translation>
+        <translation>Vyhledat a filtrovat...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished">Hledat</translation>
+        <translation>Hledat</translation>
     </message>
 </context>
 <context>
@@ -4650,12 +4650,12 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Vyhledat a filtrovat...</translation>
+        <translation>Vyhledat a filtrovat...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="29"/>
         <source>Search</source>
-        <translation type="unfinished">Hledat</translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="42"/>
@@ -9123,7 +9123,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="228"/>
         <source>A network error occurred. Could not load project info:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyskytla se chyba sítě. Nepodařilo se načíst informace o projektu:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="434"/>
