@@ -1913,7 +1913,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>在檔案總管中開啟「config」資料夾。</translation>
+        <translation>在檔案管理器中開啟「config」資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
@@ -5105,7 +5105,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>Open the instance folder in a file browser.</source>
-        <translation>在檔案總管裡開啟實例資料夾。</translation>
+        <translation>在檔案管理器裡開啟實例資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
@@ -5116,7 +5116,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>在檔案總管開啟共用模組資料夾。</translation>
+        <translation>在檔案管理器開啟共用模組資料夾。</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -5476,7 +5476,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>資料夾在檔案總管開啟啟動器的根資料夾。</translation>
+        <translation>資料夾在檔案管理器開啟啟動器的根資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
@@ -5701,7 +5701,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>在檔案總管開啟實例的根資料夾。</translation>
+        <translation>在檔案管理器開啟實例的根資料夾。</translation>
     </message>
     <message>
         <source>Export Instance</source>
