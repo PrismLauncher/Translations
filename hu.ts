@@ -564,7 +564,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Frissítés</translation>
+        <translation>F&amp;rissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -862,7 +862,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -2184,12 +2184,12 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Név szerinti rendezés</translation>
+        <translation>Név szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Játékverzió szerinti rendezés</translation>
     </message>
 </context>
 <context>
@@ -2202,12 +2202,12 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
 </context>
 <context>
@@ -4611,12 +4611,12 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="29"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="42"/>
@@ -5872,6 +5872,13 @@ Do you wish to proceed?</source>
 %1
 
 A törlés tönkre teheti a másik példányt,
+
+Szeretné folytatni?</numerusform>
+            <numerusform>A következő példányok hivatkozhatnak fájlokra ebben a példányban:
+
+%1
+
+A törlés tönkre teheti a többi példányt,
 
 Szeretné folytatni?</numerusform>
         </translation>
@@ -9032,7 +9039,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="228"/>
         <source>A network error occurred. Could not load project info:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hálózati hiba történt. Nem sikerült betölteni a projekt adatait: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="434"/>
