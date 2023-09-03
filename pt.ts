@@ -3589,7 +3589,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -4370,7 +4370,7 @@ Garantindo %1 acesso a essa pasta por via de Flatseal é recomendado.</translati
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="61"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher</translation>
     </message>
 </context>
 <context>
