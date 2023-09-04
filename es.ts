@@ -598,7 +598,7 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation>¡Saludos!
+        <translation>¡Te damos la bienvenida!
 Si acabas de llegar, puedes seleccionar los botones &quot;Añadir Microsoft&quot; o &quot;Añadir Mojang&quot; para vincular tus cuentas de Microsoft y/o Mojang.</translation>
     </message>
     <message>
