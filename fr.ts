@@ -1320,7 +1320,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
 <context>
     <name>CoreModFolderPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="79"/>
         <source>Core mods</source>
         <translation>Mods principaux</translation>
     </message>
@@ -1966,6 +1966,16 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Go to mods home page</source>
         <translation>Aller sur la page d&apos;accueil des mods</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="176"/>
+        <source>Remove metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
+        <source>Remove mod&apos;s metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -6915,84 +6925,106 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
         <source>Go to mod&apos;s home page</source>
         <translation>Aller sur la page d&apos;accueil du mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
+        <source>Remove mod&apos;s metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Visit mod&apos;s page</source>
         <translation>Visiter la page du mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="108"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="114"/>
         <source>Visit mods&apos; pages</source>
         <translation>Visiter les page des mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="115"/>
         <source>Go to the pages of the selected mods</source>
         <translation>Aller sur les pages des mods sélectionnés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="171"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
+        <source>Remove mods&apos; metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
         <source>Please install a mod loader first!</source>
         <translation>Veuillez d&apos;abord installer un chargeur de mods&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="234"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
         <source>Aborted</source>
         <translation>Annulé</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="234"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
         <source>Download stopped by user.</source>
         <translation>Téléchargement arrêté par l&apos;utilisateur.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="181"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="249"/>
         <source>Warnings</source>
         <translation>Avertissements</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="259"/>
         <source>Abort</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="220"/>
         <source>The mod updater was aborted!</source>
         <translation>La mise à jour des mods a été annulée&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>Tous les mods sélectionnés sont à jour&#xa0;! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
         <source>Update checker</source>
         <translation>Vérificateur de mise à jour</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="317"/>
+        <source>Confirm Removal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
+        <source>You are about to remove the metadata for %1 mods.
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>«&#xa0;%1&#xa0;» est à jour&#xa0;! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="227"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>Tous les mods sont à jour&#xa0;! :)</translation>
@@ -7865,7 +7897,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
 <context>
     <name>NilModFolderPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="91"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="92"/>
         <source>Nilmods</source>
         <translation>Nilmods</translation>
     </message>

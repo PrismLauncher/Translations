@@ -1304,7 +1304,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
 <context>
     <name>CoreModFolderPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="79"/>
         <source>Core mods</source>
         <translation>Alap (core) modok</translation>
     </message>
@@ -1950,6 +1950,16 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Go to mods home page</source>
         <translation>Ugrás a mod kezdőlapjára</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="176"/>
+        <source>Remove metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
+        <source>Remove mod&apos;s metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -6805,84 +6815,106 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
         <source>Go to mod&apos;s home page</source>
         <translation>Ugrás a mod kezdőlapjára</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
+        <source>Remove mod&apos;s metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Visit mod&apos;s page</source>
         <translation>Mod megnézése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="108"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="114"/>
         <source>Visit mods&apos; pages</source>
         <translation>Modok megnézése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="115"/>
         <source>Go to the pages of the selected mods</source>
         <translation>Ugrás a kiválasztott modok oldalaira</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="171"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
+        <source>Remove mods&apos; metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
         <source>Please install a mod loader first!</source>
         <translation>Kérjük, először telepítsen egy mod loader-t!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="234"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
         <source>Aborted</source>
         <translation>Megszakítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="234"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
         <source>Download stopped by user.</source>
         <translation>A letöltés a felhasználó által megszakítva.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="181"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="249"/>
         <source>Warnings</source>
         <translation>Figyelmeztetések</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="259"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="220"/>
         <source>The mod updater was aborted!</source>
         <translation>A mod frissítő megszakítva!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>Az összes kiválasztott mod naprakész! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
         <source>Update checker</source>
         <translation>Frissítés-ellenőrző</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="317"/>
+        <source>Confirm Removal</source>
+        <translation type="unfinished">Eltávolítás megerősítése</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
+        <source>You are about to remove the metadata for %1 mods.
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>A(z) &quot;%1&quot; naprakész! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="227"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>Minden mod naprakész! :)</translation>
@@ -7755,7 +7787,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>NilModFolderPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="91"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="92"/>
         <source>Nilmods</source>
         <translation>Nilmodok</translation>
     </message>
