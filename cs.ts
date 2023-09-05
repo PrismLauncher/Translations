@@ -1950,12 +1950,12 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="176"/>
         <source>Remove metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit metadata modu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -6899,7 +6899,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit metadata modu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -6919,7 +6919,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
         <source>Remove mods&apos; metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit metadata modů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
@@ -6976,13 +6976,14 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="317"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdit odstranění</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se odebrat metadata %1 modů.
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
