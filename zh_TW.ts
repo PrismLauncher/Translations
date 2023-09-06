@@ -155,7 +155,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="149"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>無法獲得本地化元素索引 &apos;%1&apos; v%2</translation>
+        <translation>無法獲得本地化元素索引「%1」v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
@@ -495,7 +495,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>帳號類型 - Mojang 或 MSA。</translation>
+        <translation>帳號類型──Mojang 或 MSA。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
@@ -664,7 +664,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>用戶端 ID 已變更。需要建立新的 session。</translation>
+        <translation>用戶端 ID 已變更。需要建立新的工作階段。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
@@ -674,7 +674,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>驗證失敗。session 已過期。</translation>
+        <translation>驗證失敗。工作階段已過期。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
@@ -1064,7 +1064,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>部分元件中介資料載入作業失敗。</translation>
+        <translation>部分元件後設資料載入作業失敗。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
@@ -1085,7 +1085,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>從遠端伺服器下載元件中介資料的更新作業失敗：
+        <translation>從遠端伺服器下載元件後設資料的更新作業失敗：
 %1</translation>
     </message>
 </context>
@@ -1347,7 +1347,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預啟動指令會在實例啟動前執行，而結束後指令則會在其結束後執行。&lt;/p&gt;&lt;p&gt;此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例的名稱&lt;/li&gt;&lt;li&gt;$INST_ID - 實例的 ID（其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR - 實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 啟動所用的 Java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 啟動所用的命令列引數&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝指令允許啟動時使用額外的包裝程式（如 Linux 中的「optirun」）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預啟動指令會在實例啟動前執行，而結束後指令則會在其結束後執行。&lt;/p&gt;&lt;p&gt;此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME──實例的名稱&lt;/li&gt;&lt;li&gt;$INST_ID──實例的 ID（其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR──實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR──Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA──啟動所用的 Java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS──啟動所用的命令列引數&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝指令允許啟動時使用額外的包裝程式（如 Linux 中的「optirun」）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2186,7 +2186,7 @@ Please try again.</source>
 %1
 
 原因：%2
-請重試。</translation>
+請稍後再試。</translation>
     </message>
 </context>
 <context>
@@ -4025,7 +4025,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>Received undetermined session status during login.</source>
-        <translation>在登入時接收到無法確定的 session 狀態。</translation>
+        <translation>在登入時接收到無法確定的工作階段狀態。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
@@ -4056,7 +4056,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="231"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>已取消啟動 - 此帳號尚未擁有 Minecraft。</translation>
+        <translation>已取消啟動──此帳號尚未擁有 Minecraft。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
@@ -4827,7 +4827,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>後設資料中指定了空白的 jar 檔，中斷執行。</translation>
+        <translation>後設資料中指定了空白的 Jar 檔，正在中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -5046,7 +5046,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="94"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>Microsoft 使用者驗證失敗 - 用戶端識別碼已變更。</translation>
+        <translation>Microsoft 使用者驗證失敗──用戶端識別碼已變更。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
@@ -5061,7 +5061,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="143"/>
         <source>Microsoft user authentication failed - user no longer exists.</source>
-        <translation>Microsoft 使用者身份驗證失敗－使用者不存在。</translation>
+        <translation>Microsoft 使用者身份驗證失敗──使用者不存在。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
@@ -6081,7 +6081,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>你的實例資料夾名稱中包含了「Rar」 - 這意味著你還尚未將啟動器檔案解壓縮！</translation>
+        <translation>你的實例資料夾名稱中包含了「Rar$」──這代表著你還尚未將啟動器檔案解壓縮！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
@@ -6300,7 +6300,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="854"/>
         <source>&lt;SESSION ID&gt;</source>
-        <translation>&lt;SESSION ID&gt;</translation>
+        <translation>&lt;工作階段 ID&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="857"/>
@@ -7142,12 +7142,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
         <source>Metadata generation failed</source>
-        <translation>產生後設資料失敗</translation>
+        <translation>生成後設資料失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>無法為以下模組產生後設資料：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
+        <translation>無法為以下模組生成後設資料：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
@@ -7231,7 +7231,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="298"/>
         <source>Generating metadata...</source>
-        <translation>正在產生後設資料…</translation>
+        <translation>正在生成後設資料…</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -8300,7 +8300,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="120"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation>名稱太短，長度必須在 3～16 個字元之間。</translation>
+        <translation>名稱太短─長度必須在 3 到 16 個字元之間。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="180"/>
@@ -8610,7 +8610,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="234"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>主要 Jar 的網址無法確定 - Mojang 刪除了我們作為備用的伺服器.</translation>
+        <translation>無法確定主要 Jar 的網址──Mojang 刪除了我們作為備用的伺服器。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
@@ -8620,17 +8620,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="263"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>版本檔案包含不支援的元素 &apos;-libraries&apos;</translation>
+        <translation>版本檔案包含不支援的元素「-libraries」</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="266"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>版本檔案包含不支援的元素 &apos;-tweakers&apos;</translation>
+        <translation>版本檔案包含不支援的元素「-tweakers&apos;」</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>版本檔案包含不支援的元素 &apos;-minecraftArguments&apos;</translation>
+        <translation>版本檔案包含不支援的元素「-minecraftArguments」</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
@@ -8759,7 +8759,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>您嘗試手動指定 JVM 的記憶體選項（使用「-XX:PermSize」、「-XX-MaxHeapSize」、「-XX:InitialHeapSize」、「-Xmx」或「-Xms」）。
-這些選項在設定中有專門的欄位（在 Java 頁中，上方的 Memory 群組）。
+這些選項在設定中有專門的欄位（在 Java 頁籤中，上方的 Memory 群組）。
 此訊息會持續顯示，直到您將它們從 JVM 引數中移除。</translation>
     </message>
     <message>
@@ -11424,7 +11424,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>刪除世界圖示，讓遊戲在下次載入世界時重新產生。</translation>
+        <translation>刪除世界圖示，讓遊戲在下次載入世界時重新生成。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
