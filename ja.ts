@@ -473,7 +473,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>アカウントに関連付けられたMinecraftのユーザー名が表示されます。</translation>
+        <translation>アカウントに関連付けられたMinecraftのユーザー名。</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -482,23 +482,23 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>User name of the account.</source>
-        <translation>アカウントのユーザー名が表示されます。</translation>
+        <translation>アカウントのユーザー名。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>アカウントの種類が表示されます。</translation>
+        <translation>アカウントの種類 (Mojang / MSA)。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Current status of the account.</source>
-        <translation>現在のアカウントの状態が表示されます。</translation>
+        <translation>現在のアカウントの状態。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation>このMojangアカウントをMicrosoftアカウントに移行できますか?</translation>
+        <translation>MojangアカウントをMicrosoftアカウントに移行できるかどうか。</translation>
     </message>
 </context>
 <context>
@@ -1920,17 +1920,17 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="165"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation>Modのページを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したModのWebページを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="176"/>
         <source>Remove metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>メタデータを削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
@@ -2170,12 +2170,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">名前順</translation>
+        <translation>名前順</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">ゲームバージョン順</translation>
+        <translation>ゲームバージョン順</translation>
     </message>
 </context>
 <context>
@@ -5093,12 +5093,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
         <source>View &amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成のフォルダを開く(&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ランチャーのフォルダを開く(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5207,12 +5207,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="479"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="488"/>
         <source>Mod List</source>
-        <translation type="unfinished"></translation>
+        <translation>Modリスト</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="533"/>
@@ -5227,27 +5227,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="721"/>
         <source>View &amp;Widget Themes Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィジェットテーマのフォルダを開く(&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>View Widget Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィジェットテーマのフォルダを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="733"/>
         <source>View I&amp;con Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>アイコンテーマのフォルダを開く(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
         <source>View Icon Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>アイコンテーマのフォルダを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="744"/>
         <source>View Cat Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ネコパックのフォルダを開く</translation>
     </message>
     <message>
         <source>&amp;View Launcher Root Folder</source>
@@ -5261,7 +5261,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>バグを報告 / 機能を提案</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
@@ -5596,18 +5596,18 @@ Are you sure?</oldsource>
 Please add your Microsoft or Mojang account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">アカウントを追加しない限り、ランチャーはMinecraftをダウンロードしたり更新したりできません。
-MojangかMicrosoftのアカウントを追加してください。</translation>
+        <translation>アカウントが１つも追加されていない場合、Minecraft をダウンロードしたり、起動構成を更新したりできません。
+Microsoft または Mojang のアカウントを追加してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」はサードパーティランチャーでのダウンロードを無効化しています。手動でダウンロードしてください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpackダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
@@ -5632,12 +5632,12 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1247"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成は編集できません</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1248"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成は編集できません。壊れているか、形式が違うか、古すぎます。詳細はログを確認してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1283"/>
@@ -5723,12 +5723,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>この起動構成へのショートカットをデスクトップに作成しました！</translation>
+        <translation>この起動構成のショートカットをデスクトップに作成しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1604"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成のショートカットを作成しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
@@ -6393,12 +6393,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>有効</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>画像</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -6408,17 +6408,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="165"/>
         <source>Is the mod enabled?</source>
-        <translation>Modの状態が表示されます</translation>
+        <translation>Modの有効 / 無効</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="167"/>
         <source>The name of the mod.</source>
-        <translation>Modの名称が表示されます。</translation>
+        <translation>Modの名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="169"/>
         <source>The version of the mod.</source>
-        <translation>Modのバージョンが表示されます。</translation>
+        <translation>Modのバージョン。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="171"/>
@@ -6428,7 +6428,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="173"/>
         <source>Where the mod was downloaded from.</source>
-        <translation>modがどこからダウンロードされたか。</translation>
+        <translation>Modがどこからダウンロードされたか。</translation>
     </message>
 </context>
 <context>
@@ -6489,7 +6489,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Download mods</source>
-        <translation>MODをダウンロード</translation>
+        <translation>Modをダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -6513,7 +6513,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="81"/>
         <source>Add a locally downloaded file</source>
-        <translation>手動ダウンロード済みのMODファイルを追加</translation>
+        <translation>手動でダウンロードしたModファイルを追加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="87"/>
@@ -6525,33 +6525,33 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>ModのWebページを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したModのメタデータを削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation>Modのページを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="114"/>
         <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Modのページを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="115"/>
         <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したModのWebページを開きます</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
         <source>Remove mods&apos; metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したModのメタデータを削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
@@ -6614,7 +6614,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod「%1」のメタデータを削除しようとしています。
+よろしいですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
@@ -7110,7 +7111,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>更新日順で並べ替え</translation>
+        <translation>更新日順</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
@@ -8833,7 +8834,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="496"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>このコンテンツが追加または変更された日時。</translation>
+        <translation>コンテンツが追加または変更された日時。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="551"/>
@@ -9035,7 +9036,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="105"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>チェックがされた%1だけがダウンロードされます！</translation>
+        <translation>チェックが付いた%1だけがダウンロードされます！</translation>
     </message>
 </context>
 <context>
@@ -9745,7 +9746,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished">このリソースが最後に変更 (または追加) された日時。</translation>
+        <translation>テクスチャパックが追加または変更された日時。</translation>
     </message>
 </context>
 <context>
