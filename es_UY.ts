@@ -3408,7 +3408,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="346"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo encontrar MangoHud en su sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
