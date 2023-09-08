@@ -3613,7 +3613,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Si está habilitado, el iniciador no le pedirá que elija una versión de Java si no encuentra una.</translation>
+        <translation>Si está habilitado, el lanzador no te pedirá que elijas una versión de Java si no encuentra una.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="286"/>
