@@ -2869,12 +2869,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige la instancia a la que te gustaría importar %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo: %1</translation>
     </message>
 </context>
 <context>
@@ -2984,7 +2984,8 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al crear nueva instancia:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="32"/>
@@ -2994,12 +2995,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="43"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Removiendo archivos antiguos en conflicto...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="52"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo al remover archivos antiguos en conflicto.</translation>
     </message>
 </context>
 <context>
