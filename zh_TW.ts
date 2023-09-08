@@ -4020,7 +4020,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="181"/>
         <source>Choose your demo mode player name.</source>
-        <translation>選擇你的體驗版模式玩家名稱。</translation>
+        <translation>選擇你的試玩版模式玩家名稱。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -4030,7 +4030,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>Play demo?</source>
-        <translation>遊玩體驗版？</translation>
+        <translation>遊玩試玩版？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
@@ -4041,12 +4041,12 @@ Do you want to play the demo?</source>
         <translation>此帳號尚未擁有 Minecraft。
 你需要先購入遊戲才能繼續遊玩。
 
-你想要先遊玩體驗版嗎？</translation>
+你想要先遊玩試玩版嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Play Demo</source>
-        <translation>遊玩體驗版</translation>
+        <translation>遊玩試玩版</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
@@ -6280,7 +6280,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="246"/>
         <source>Launch &amp;Demo</source>
-        <translation>體驗版啟動（&amp;D）</translation>
+        <translation>試玩版啟動（&amp;D）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="247"/>
