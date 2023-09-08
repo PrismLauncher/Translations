@@ -3403,7 +3403,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>El Modo de Juego Interactivo Feral no puede ser encontrado en tú sistema.</translation>
+        <translation>El Modo de Juego Interactivo Feral no pudo ser encontrado en tú sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="346"/>
