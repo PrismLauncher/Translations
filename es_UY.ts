@@ -1222,22 +1222,22 @@ Actualice su sistema operativo y %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de CeE (Copiado-en-Escritura)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los archivos clonados con vínculos de referencia no tomarán espacio extra a menos que sean modificados.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Clonar en lugar de copiar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tú sistema de archivos y/o SO no soporta vínculos de referencia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1272,17 +1272,17 @@ Actualice su sistema operativo y %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Los vínculos de referencia están soportados en %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Los vínculos de referencia no están soportados en %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>En Windows, los vínculos simbólicos podrían requerir permisos de admin para ser creados.</translation>
     </message>
 </context>
 <context>
