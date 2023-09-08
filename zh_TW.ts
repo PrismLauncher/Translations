@@ -8759,7 +8759,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>您嘗試手動指定 JVM 的記憶體選項（使用「-XX:PermSize」、「-XX-MaxHeapSize」、「-XX:InitialHeapSize」、「-Xmx」或「-Xms」）。
-這些選項在設定中有專門的欄位（在 Java 頁籤中，上方的 Memory 群組）。
+這些選項在設定中有專門的欄位（在 Java 頁面中，上方的 Memory 群組）。
 此訊息會持續顯示，直到您將它們從 JVM 引數中移除。</translation>
     </message>
     <message>
