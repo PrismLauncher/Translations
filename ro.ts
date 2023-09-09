@@ -5408,7 +5408,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1332"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmă Ștergerea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
@@ -7338,7 +7338,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmă Ștergerea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="197"/>
@@ -8852,7 +8852,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="491"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmă Ștergerea</translation>
     </message>
     <message>
         <source>Are you sure?</source>
