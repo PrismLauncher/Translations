@@ -578,7 +578,7 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Bine ați venit!
+        <translation>Bine ați venit!
 Dacă sunteți nou aici, puteți apăsa butonul &quot;Adăugați Microsoft&quot; sau &quot;Adăugați Mojang&quot; pentru a adăuga contul dvs. Microsoft și/sau Mojang.</translation>
     </message>
     <message>
@@ -1356,7 +1356,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Lansări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
@@ -1397,7 +1397,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished">Niciunul</translation>
+        <translation>Niciunul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
@@ -1437,7 +1437,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="127"/>
         <source>No mod loader is selected.</source>
-        <translation>Niciun încărcător de moduri selectat.</translation>
+        <translation>Niciun încărcător de moduri nu este selectat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
@@ -9977,7 +9977,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramură</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
@@ -9992,7 +9992,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Locație</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
@@ -10012,12 +10012,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The version&apos;s branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramura versiunii</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>The version&apos;s type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipul versiunii</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
@@ -10060,12 +10060,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="96"/>
         <source>Reloads the version list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reîncarcă lista de versiuni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="97"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Actualizare</translation>
+        <translation>&amp;Reîmprospătare</translation>
     </message>
 </context>
 <context>
@@ -10073,7 +10073,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished">Căutare</translation>
+        <translation>Caută</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
@@ -10084,7 +10084,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
         <source>List update failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea listei a eșuat:
+%1</translation>
     </message>
 </context>
 <context>
@@ -10092,7 +10093,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizați acțiunile din bara de instrumente</translation>
     </message>
 </context>
 <context>
@@ -10100,7 +10101,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="200"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această lume este legată simbolic de altundeva.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
@@ -10112,7 +10113,8 @@ This world is hard linked elsewhere.</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="222"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenție: această lume este legată simbolic de atundeva. Modificările vor avea efect și pe fișierul original.
+Locația canonică: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
@@ -10144,32 +10146,32 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="274"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Informații</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>The name of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele lumii.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
         <source>Game mode of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul de joc al lumii.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Timpul și data în care lumea a fost jucată ultima dată.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mărimea lumii pe disc.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informații și avertismente despre lume.</translation>
     </message>
 </context>
 <context>
@@ -10177,7 +10179,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="65"/>
         <source>Actions</source>
-        <translation type="unfinished">Actiuni</translation>
+        <translation>Acțiuni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="97"/>
@@ -10201,7 +10203,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Delete</source>
-        <translation type="unfinished">Șterge</translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
@@ -10281,28 +10283,29 @@ You can set it up in the global settings.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="302"/>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit nu a putut porni!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="303"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit nu a putut porni.
+Ar putea fi necesar să îl reinstalați.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți un fișier zip ce conține o lume de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Minecraft World Zip File (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier Zip al Lumii de Minecraft (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Copy World</source>
-        <translation>Copiați lumea</translation>
+        <translation>Copiați Lumea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
@@ -10313,7 +10316,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="192"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmă Ștergerea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="193"/>
@@ -10332,17 +10335,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
         <source>Enter a new name for the copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu un nou nume pentru copie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Redenumiți Lumea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
         <source>Enter a new world name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu un nume pentru noua lume.</translation>
     </message>
 </context>
 <context>
@@ -10350,72 +10353,74 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se obține autorizația pentru a accesa serviciile %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="64"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut obține autorizația pentru serviciile %1. Eroare %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="67"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare STS necunoscută pentru serviciile %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut obține autorizația pentru serviciile %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="79"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut analiza răspunsul autorizației de acces la serviciile %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="85"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverul a schimbat hash-ul de autorizare al utilizatorului in răspuns. Ceva nu a mers bine.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="91"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S-a obținut autorizația pentru a accesa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="102"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nu s-a putut analiza răspunsul de eroare al autorizației %1 ca JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="110"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementul XErr lipsește din răspunsul de eroare al autorizației %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest cont de Microsoft nu are un profil de XBox Live. Cumpără jocul pe %1 mai întâi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox Live nu este disponibil în țara ta. Ai fost blocat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="128"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest cont de Microsoft este sub vârsta legală și nu este conectat la o familie.
+
+Vă rugăm configurați-vă contul conform %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="134"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation>Autentificarea XSTS s-a încheiat cu eroare(e) nerecunoscută(e):
+        <translation>Autentificarea XSTS s-a încheiat cu eroare(i) nerecunoscută(e):
 
 %1</translation>
     </message>
