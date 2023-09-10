@@ -3945,12 +3945,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="426"/>
         <source>Kill Minecraft?</source>
-        <translation>סגור את Minecraft?</translation>
+        <translation>סגור את מיינקראפט?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation type="unfinished"></translation>
+        <translation>זה יכול לגרום לשלב להשחת וצריך להיות משומש רק אם החלון מיינקרפט קפא</translation>
     </message>
 </context>
 <context>
