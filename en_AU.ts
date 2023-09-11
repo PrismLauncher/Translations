@@ -546,8 +546,8 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Welcome!
-If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</translation>
+        <translation>Welcome!
+If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -837,7 +837,7 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">Search</translation>
+        <translation>Search</translation>
     </message>
 </context>
 <context>
@@ -1306,93 +1306,93 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="66"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished">Releases</translation>
+        <translation>Releases</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
         <source>Snapshots</source>
-        <translation type="unfinished">Snapshots</translation>
+        <translation>Snapshots</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished">Old Snapshots</translation>
+        <translation>Old Snapshots</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished">Betas</translation>
+        <translation>Betas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished">Alphas</translation>
+        <translation>Alphas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation type="unfinished">Experiments</translation>
+        <translation>Experiments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="263"/>
         <source>Refresh</source>
-        <translation type="unfinished">Refresh</translation>
+        <translation>Refresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished">Mod Loader</translation>
+        <translation>Mod Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>None</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="230"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="240"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished">Custom</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="121"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished">No Minecraft version is selected.</translation>
+        <translation>No Minecraft version is selected.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="127"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished">No mod loader is selected.</translation>
+        <translation>No mod loader is selected.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
@@ -1541,7 +1541,7 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation type="unfinished">Abort</translation>
+        <translation>Abort</translation>
     </message>
 </context>
 <context>
