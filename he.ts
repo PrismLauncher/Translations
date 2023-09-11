@@ -416,7 +416,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="325"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">N/A</translation>
+        <translation type="unfinished">לא ישים</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="328"/>
@@ -579,7 +579,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;A
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
         <translation type="unfinished">ברוכים הבאים!
-אם אתם חדשים כאן, אתם יכולים ללחוץ על כפתור ה&quot;הוספה&quot; כדי להוסיף את חשבון ה-Mojang או ה-Minecraft שלכם.</translation>
+אם אתם חדשים כאן, אתם יכולים ללחוץ על כפתור ה&quot;הוספה&quot; כדי להוסיף את חשבון ה-Mojang ו/או את משתמש Microsoft שלכם.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -3959,7 +3959,8 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>הצפייה אחר יומן תיעוד אירועים פסקה, לאחר שיומן תיעוד האירועים עבר אורך של %1 שורות.
+את\ה צריך לתקן את המודים בגלל שהמשחק עדיין ממשיך לרשום ליומן תיעוד האירועים וסביר להניח שהוא מבזבז מקום אחסון במהירות מדאיגה!</translation>
     </message>
 </context>
 <context>
@@ -3973,12 +3974,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="58"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">נכשל בניסיון לקבל אות גישה של מיינקראפט: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="68"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>נכשל ניסיון ניתוח של המענה שמכיל את האות גישה של מיינקראפט.</translation>
     </message>
 </context>
 <context>
@@ -3991,13 +3992,13 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>עדכן הגדרות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>בדיקה אחר עדכונים אוטומטית</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="67"/>
@@ -4007,7 +4008,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="83"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>מקרים:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="102"/>
@@ -4020,17 +4021,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>מודים:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation>אייקונים:(&amp;I)</translation>
+        <translation>אייקונים:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>&amp;Downloads:</source>
-        <translation>הורדות:(&amp;D)</translation>
+        <translation>הורדות:</translation>
     </message>
     <message>
         <source>...</source>
@@ -4039,12 +4040,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="209"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>ממשק משתמש</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="218"/>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>מצב מיון תצוגת מקרים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
@@ -4055,7 +4056,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>ע&quot;י name&amp;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="247"/>
@@ -4065,17 +4066,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>מודים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">מתי שמופעל, בנוסף לתיקיית הורדות, התיקיות הנוספות בתוך יבדקו גם מתי שיהיה חיפוש לאחר משאבים (למשל מתי שמחפשים אחרי מודים שנחסמו בCurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">בדוק את תיקיית ההורדות באופן רקורסיבי</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
