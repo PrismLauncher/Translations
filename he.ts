@@ -6399,7 +6399,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="52"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">מודים</translation>
     </message>
 </context>
 <context>
