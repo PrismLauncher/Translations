@@ -531,8 +531,8 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Вітаю!
-Есьлі ты новы тут, ты можаш ціскнуць кнопку &quot;Дадаць&quot; каб дадаць Моянг або Майнкрафт акаунт.</translation>
+        <translation>Вітаю!
+Калі вы тут упершыню, націскніце кнопку &quot;Дадаць&quot; каб дадаць Mojang або Minecraft уліковы запіс.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -775,7 +775,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Select a share code</source>
-        <translation type="unfinished">Выберыце агульны код</translation>
+        <translation type="unfinished">Увядзіце адкрыты код</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
@@ -822,7 +822,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук</translation>
     </message>
 </context>
 <context>
@@ -932,7 +932,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="52"/>
         <source>Equipping cape</source>
-        <translation type="unfinished">Адягаем плашч</translation>
+        <translation>Апранаем плашч</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="72"/>
@@ -992,7 +992,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation type="unfinished">Некаторыя задачы па загрузцы метаданых кампанента не выкананы.</translation>
+        <translation>Некаторыя задачы па загрузцы метаданых кампанента ня выкананы.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
@@ -1070,7 +1070,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished">Выбраць усе</translation>
+        <translation>Абраць усё</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
@@ -1166,7 +1166,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished">Налады CoW (Copy-on-Write)</translation>
+        <translation>Налады CoW (Copy-on-Write)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
@@ -1301,12 +1301,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
         <source>Snapshots</source>
-        <translation type="unfinished">Хуткія здымкі</translation>
+        <translation>Хуткія здымкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished">Старыя Здымкі</translation>
+        <translation>Старыя Здымкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
@@ -1382,7 +1382,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Зараз няма даступный версій для Minecraft %1</translation>
+        <translation>Зараз няма даступных версій для Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -1406,7 +1406,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">Спынено</translation>
+        <translation>Спынено</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1491,7 +1491,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
@@ -1532,38 +1532,38 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Апісаньне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Зводка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="unfinished">Імя</translation>
+        <translation>&amp;Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Версія</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Налады</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Файлы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Азначыць</translation>
     </message>
     <message>
         <source>Version</source>
