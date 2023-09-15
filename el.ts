@@ -416,19 +416,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="325"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Δ/Α</translation>
+        <translation>Δ/Α</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="328"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Ναι</translation>
+        <translation>Ναι</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="330"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Όχι</translation>
+        <translation>Όχι</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -473,7 +473,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Το όνομα χρήστη Minecraft που σχετίζεται με τον λογαριασμό.</translation>
+        <translation>Το όνομα χρήστη του Minecraft που σχετίζεται με τον λογαριασμό.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -548,7 +548,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Προσθήκη λογαριασμού Microsoft</translation>
+        <translation>&amp;Προσθήκη λογαριασμού Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
@@ -560,7 +560,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Ανανέωση</translation>
+        <translation>&amp;Ανανέωση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -859,7 +859,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">Αναζήτηση</translation>
+        <translation>Αναζήτηση</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -883,17 +883,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Επί του παρόντος, δεν υπάρχουν διαθέσιμες εκδόσεις Forge για το Minecraft %1</translation>
+        <translation>Δεν υπάρχουν διαθέσιμες εκδόσεις για το Minecraft %1 αυτή τη στιγμή</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Επί του παρόντος, δεν υπάρχουν διαθέσιμες εκδόσεις</translation>
+        <translation>Επί του παρόντος, δεν υπάρχουν διαθέσιμες εκδόσεις</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Αδυναμία λήψης ή φόρτωσης της λίστας εκδόσεων!</translation>
+        <translation>Αδυναμία φόρτωσης ή λήψης των λιστών εκδόσεων!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -1040,7 +1040,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="172"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Aborted</source>
-        <translation type="unfinished">Ακυρώθηκε</translation>
+        <translation>Ακυρώθηκε</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
@@ -1085,7 +1085,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="289"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Παρακαλώ περιμένετε...</translation>
+        <translation>Παρακαλώ περιμένετε...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
@@ -1287,7 +1287,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="79"/>
         <source>Core mods</source>
-        <translation type="unfinished">Mods πυρήνες</translation>
+        <translation>Core mods</translation>
     </message>
 </context>
 <context>
@@ -1304,31 +1304,31 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">Προσαρμοσμένες εντολές &amp;t</translation>
+        <translation>Προσαρμοσμένες Εντολές (&amp;Custom Commands)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished">Εντολή μετά την έξοδο:</translation>
+        <translation>&amp;Εντολή μετά την &amp;έξοδο:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished">Εντολή πριν την εκκίνηση:</translation>
+        <translation>&amp;Εντολή πριν από την εκκίνηση:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">Εντολή Wrapper:</translation>
+        <translation>&amp;Εντολή Wrapper:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Η εντολή προ-εκκίνησης τρέχει προτού γίνει η εκκίνηση της εγκατάστασης και η εντολή μετά την έξοδο τρέχει αφου γίνει η έξοδος.&lt;/p&gt;&lt;p&gt;Οι 2 εντολές θα τρέξουν στον τρεχών φάκελο του launcher με κάποιες επιπλέον μεταβλητές περιβάλλοντος:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Όνομα εγκατάστασης&lt;/li&gt;&lt;li&gt;$INST_ID - Ταυτότητα εγκατάστασης (το όνομα του φακέλου της)&lt;/li&gt;&lt;li&gt;$INST_DIR - Απόλυτη διαδρομή της εγκατάστασης&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Απόλυτη διαδρομή του Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Εκτελούμενο Java που χρησιμοποιείται για την εκκίνηση&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Παράμετροι γραμμής εντολών που χρησιμοποιούνται για την εκκίνηση&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Η εντολή Wrapper που επιτρέπει την εκκίνηση χρησιμοποιόντας ενα επιπλέον προγραμμα Wrapper (π. χ. το &apos;opti-run&apos; στο Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Η εντολή πριν από την εκκίνηση εκτελείται πριν ξεκινήσει η διεργασία, και η εντολή μετά την έξοδο εκτελείται μετά την τερματική εκτέλεση της.&lt;/p&gt;&lt;p&gt;Και τα δύο θα εκτελεστούν στον φάκελο εργασίας του εκκινητή με επιπρόσθετες μεταβλητές περιβάλλοντος:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;$INST_NAME - Όνομα της διεργασίας&lt;/li&gt;&lt;li&gt;$INST_ID - ID της διεργασίας (όνομα φακέλου)&lt;/li&gt;&lt;li&gt;$INST_DIR - απόλυτη διαδρομή της διεργασίας&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - απόλυτη διαδρομή του Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Δυαδικό Java που χρησιμοποιείται για την εκκίνηση&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - παράμετροι γραμμής εντολών που χρησιμοποιούνται για την εκκίνηση (προειδοποίηση: δεν θα λειτουργήσει σωστά αν οι παράμετροι περιέχουν κενά)&lt;/li&gt; &lt;/ul&gt;&lt;p&gt;Η εντολή Wrapper επιτρέπει την εκκίνηση χρησιμοποιώντας ένα πρόγραμμα περιτύλιγμα (όπως το &apos;optirun&apos; στο Linux)&lt;/p&gt; &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1344,12 +1344,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="66"/>
         <source>Filter</source>
-        <translation type="unfinished">Φίλτρο</translation>
+        <translation>Φίλτρο</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished">Κυκλοφορίες Εκδόσεων</translation>
+        <translation>Κυκλοφορίες Εκδόσεων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
@@ -1359,28 +1359,28 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished">Παλιά Στιγμιότυπα</translation>
+        <translation>Παλιά Στιγμιότυπα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished">Betas</translation>
+        <translation>Δοκιμαστικές εκδόσεις</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished">Alphas</translation>
+        <translation>Άλφα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation type="unfinished">Πειραματικά</translation>
+        <translation>Πειραματικά</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="263"/>
         <source>Refresh</source>
-        <translation type="unfinished">Ανανέωση</translation>
+        <translation>Ανανέωση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
@@ -1420,7 +1420,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished">Προσαρμοσμένο</translation>
+        <translation>Προσαρμοσμένο</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="121"/>
@@ -1435,7 +1435,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Επί του παρόντος, δεν υπάρχουν διαθέσιμες εκδόσεις Forge για το Minecraft %1</translation>
+        <translation>Επί του παρόντος, δεν υπάρχουν διαθέσιμες εκδόσεις Forge για το Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -1459,7 +1459,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">Ακυρώθηκε</translation>
+        <translation>Ακυρώθηκε</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1579,7 +1579,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation type="unfinished">Ματαίωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
 </context>
 <context>
@@ -1617,7 +1617,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="unfinished">Όνομα</translation>
+        <translation>&amp;Όνομα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
@@ -1667,7 +1667,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Export %1</source>
-        <translation type="unfinished">Εξαγωγή %1</translation>
+        <translation>Εξαγωγή %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
@@ -1687,7 +1687,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="153"/>
         <source>Abort</source>
-        <translation type="unfinished">Ματαίωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
 </context>
 <context>
@@ -1700,7 +1700,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Ρυθμίσεις</translation>
+        <translation>Ρυθμίσεις</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -1730,7 +1730,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished">Προσαρμοσμένο</translation>
+        <translation>Προσαρμοσμένο</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
@@ -1746,7 +1746,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished">Έκδοση</translation>
+        <translation>Έκδοση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
@@ -1778,12 +1778,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished">Αντιγραφή</translation>
+        <translation>Αντιγραφή</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">Εξαγωγή %1</translation>
+        <translation>Εξαγωγή %1</translation>
     </message>
 </context>
 <context>
@@ -1791,7 +1791,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation type="unfinished">Φίλτρο:</translation>
+        <translation>Φίλτρο:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="74"/>
@@ -1801,7 +1801,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Προσθήκη</translation>
+        <translation>&amp;Προσθήκη</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
@@ -1811,7 +1811,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">%Αφαίρεση</translation>
+        <translation>%Αφαίρεση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
@@ -1821,7 +1821,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished">&amp;Ενεργοποίηση</translation>
+        <translation>&amp;Ενεργοποίηση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -1831,7 +1831,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished">&amp;Απενεργοποίηση</translation>
+        <translation>&amp;Απενεργοποίηση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -1841,17 +1841,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">Προβολή Ρυθμίσεων &amp;C</translation>
+        <translation>Προβολή &amp;Ρυθμίσεων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Άνοιγμα του φακέλου &apos;config&apos; στον διαχειριστή συστήματος αρχείων.</translation>
+        <translation>Άνοιγμα του φακέλου &apos;config&apos; στον διαχειριστή συστήματος αρχείων.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">Προβολή &amp;Φακέλου</translation>
+        <translation>Προβολή &amp;Φακέλου</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
@@ -1903,7 +1903,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="199"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">Επιλογή %1</translation>
+        <translation>Επιλογή %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="229"/>
@@ -1945,7 +1945,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">Αναζήτηση</translation>
+        <translation>Αναζήτηση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -1963,7 +1963,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">Επεξεργαστής κειμένου:</translation>
+        <translation>Επεξεργαστής κειμένου:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
@@ -2085,7 +2085,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
         <source>Aborted</source>
-        <translation type="unfinished">Ακυρώθηκε</translation>
+        <translation>Ακυρώθηκε</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
@@ -2121,7 +2121,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ταξινόμηση κατά όνομα</translation>
+        <translation>Ταξινόμηση κατά Όνομα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
@@ -2139,12 +2139,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Αναζήτηση και φιλτράρισμα...</translation>
+        <translation>Αναζήτηση και φιλτράρισμα...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished">Αναζήτηση</translation>
+        <translation>Αναζήτηση</translation>
     </message>
 </context>
 <context>
@@ -2248,39 +2248,39 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για %1</translation>
+        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="297"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Απέτυχε η εύρεση έκδοσης για %1 loader</translation>
+        <translation>Απέτυχε η εύρεση έκδοσης για %1 loader</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="302"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Δεν έχει οριστεί έκδοση loader για το modpack!</translation>
+        <translation>Δεν έχει οριστεί έκδοση loader για το modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Αδυναμία μετονομασίας του φακέλου παρακάμψεων:
+        <translation>Αδυναμία μετονομασίας του φακέλου παρακάμψεων:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="343"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Ο επιλεγμένος φάκελος παρακάμψεων (%1) δεν υπάρχει. Ίσως το modpack είχε ήδη χρησιμοποιηθεί στο παρελθόν;</translation>
+        <translation>Ο επιλεγμένος φάκελος παρακάμψεων (%1) δεν υπάρχει. Ίσως το modpack είχε ήδη χρησιμοποιηθεί στο παρελθόν;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="370"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Άγνωστος τύπος mod loader στο manifest: %1</translation>
+        <translation>Άγνωστος τύπος mod loader στο manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="384"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">Αφαιρέθηκαν οι μυστηριώδης τελείες από την έκδοση Minecraft κατά την εισαγωγή modpack.</translation>
+        <translation>Αφαιρέθηκαν οι μυστηριώδης τελείες από την έκδοση Minecraft κατά την εισαγωγή modpack.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -2290,7 +2290,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="435"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Αδύνατη η επίλυση των mod ID: 
+        <translation>Αδύνατη η επίλυση των mod ID:
 </translation>
     </message>
     <message>
@@ -2312,7 +2312,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="557"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">1% από τα δύο 2% ολοκληρωμένο</translation>
+        <translation>1% από τα 2% ολοκληρωμένο</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="571"/>
@@ -2331,22 +2331,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished">Αυτός ο &apos;Φάκελος&apos; ίσως χρειαστεί εξαγωγή: %1</translation>
+        <translation>Αυτός ο &apos;Φάκελος&apos; ίσως χρειαστεί εξαγωγή: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="537"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished">Η εισαγωγή modpacks σε άλλα modpacks δεν εφαρμόζεται, δεν έγινε λήψη: %1</translation>
+        <translation>Η εισαγωγή modpacks σε άλλα modpacks δεν εφαρμόζεται, δεν έγινε λήψη: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="542"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished">Μη αναγνωρίσιμο/εκμεταλλεύσιμο PackageType για: %1</translation>
+        <translation>Μη αναγνωρίσιμο/εκμεταλλεύσιμο PackageType για: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="563"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Λήψη mods...</translation>
+        <translation>Λήψη mods...</translation>
     </message>
 </context>
 <context>
@@ -2468,7 +2468,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Αναζήτηση και φιλτράρισμα...</translation>
+        <translation>Αναζήτηση και φιλτράρισμα...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -2478,37 +2478,37 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="77"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Ταξινόμηση κατά προτεινόμενα</translation>
+        <translation>Ταξινόμηση κατά Προτεινόμενα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Ταξινόμηση κατά δημοτικότητα</translation>
+        <translation>Ταξινόμηση κατά Δημοφιλία</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Ταξινόμηση κατά τελευτ. ενημ</translation>
+        <translation>Ταξινόμηση κατά Τελευταία Ενημέρωση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ταξινόμηση κατά όνομα</translation>
+        <translation>Ταξινόμηση κατά Όνομα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">Ταξινόμηση κατά δημιουργό</translation>
+        <translation>Ταξινόμηση κατά Εκδότη</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">Ταξινόμηση κατά συνολικές λήψεις</translation>
+        <translation>Ταξινόμηση κατά Συνολικές Λήψεις</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="190"/>
@@ -2548,7 +2548,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Αδυναμία δημιουργίας φακέλου για δυαδικά Minecraft.</translation>
+        <translation>Αδυναμία δημιουργίας φακέλου για δυαδικά Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -2776,7 +2776,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Εισαγωγή από zip</translation>
+        <translation>Εισαγωγή από zip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="134"/>
@@ -2798,7 +2798,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>Abort</source>
-        <translation type="unfinished">Ματαίωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="205"/>
@@ -2902,7 +2902,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="43"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Επί του παρόντος, δεν υπάρχουν διαθέσιμες εκδόσεις Forge για το Minecraft %1</translation>
+        <translation>Επί του παρόντος, δεν υπάρχουν διαθέσιμες εκδόσεις Forge για το Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3162,7 +3162,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="82"/>
         <source>Browse</source>
-        <translation type="unfinished">Αναζήτηση</translation>
+        <translation>Αναζήτηση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="127"/>
@@ -3193,7 +3193,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="280"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Εκκίνηση του Minecraft σε πλήρες παράθυρο;</translation>
+        <translation>Εκκίνηση του Minecraft σε πλήρη οθόνη</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="289"/>
@@ -3214,19 +3214,19 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="352"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Εμφάνιση κονσόλας ενώ εκτελείται το παιχνίδι;</translation>
+        <translation>Εμφάνιση της κονσόλας ενώ το παιχνίδι τρέχει</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Αυτόματο κλείσιμο κονσόλας όταν τερματιστεί το παιχνίδι;</translation>
+        <translation>Αυτόματο κλείσιμο της κονσόλας όταν το παιχνίδι τερματίζει</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="366"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Εμφάνιση κονσόλας όταν το παιχνίδι τερματίσει ανεπιτυχώς;</translation>
+        <translation>Εμφάνιση της κονσόλας όταν το παιχνίδι καταρρέει</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="388"/>
@@ -3510,13 +3510,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished">Ελάχιστη παραχώρηση μνήμης:</translation>
+        <translation>&amp;Ελάχιστη παραχώρηση μνήμης:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished">Μέγιστη παραχώρηση μνήμης:</translation>
+        <translation>&amp;Μέγιστη παραχώρηση μνήμης:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
@@ -3547,7 +3547,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="255"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">Διαδρομή Java:</translation>
+        <translation>&amp;Java path:</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -3558,13 +3558,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="209"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished">Ανίχνευση...</translation>
+        <translation>&amp;Αυτόματη Ανίχνευση...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="222"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished">Δοκιμή</translation>
+        <translation>&amp;Δοκιμή</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
@@ -3714,8 +3714,8 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">Δεν έχετε ακόμα ορίσει ένα εκτελέσιμο περιβάλλον Java ή έχει χαθεί.
-Παρακαλώ επιλέξτε ένα από τα παρακάτω ή αναζητήστε ένα εκτελέσιμο αρχείο Java.</translation>
+        <translation>Δεν έχετε ακόμη εγκαταστήσει το Java ή χάθηκε.
+Παρακαλώ επιλέξτε μία από τις παρακάτω επιλογές ή περιηγηθείτε για ένα εκτελέσιμο αρχείο Java.</translation>
     </message>
 </context>
 <context>
@@ -4014,7 +4014,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished">Έλεγχος για ενημερώσεις κατά την εκκίνηση;</translation>
+        <translation>Έλεγχος για ενημερώσεις αυτόματα</translation>
     </message>
     <message>
         <source>Up&amp;date Channel:</source>
@@ -4195,19 +4195,19 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Εμφάνιση κονσόλας ενώ εκτελείται το παιχνίδι;</translation>
+        <translation>Εμφάνιση της κονσόλας ενώ το παιχνίδι είναι &amp;ενεργό</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Αυτόματο κλείσιμο κονσόλας όταν τερματιστεί το παιχνίδι;</translation>
+        <translation>&amp;Αυτόματο &amp;κλείσιμο της κονσόλας όταν το παιχνίδι τερματίζει</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">Εμφάνιση κονσόλας όταν το παιχνίδι τερματίσει ανεπιτυχώς;</translation>
+        <translation>Εμφάνιση της κονσόλας όταν το παιχνίδι &amp;καταρρέει</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -5961,7 +5961,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished">Εκκίνηση του Minecraft σε πλήρες παράθυρο;</translation>
+        <translation>Εκκίνηση του Minecraft με &amp;μέγιστη επιφάνεια</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -9057,7 +9057,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation>Ανανέωση</translation>
+        <translation>&amp;Ανανέωση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
