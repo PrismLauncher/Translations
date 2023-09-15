@@ -410,7 +410,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Άγνωστο</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="325"/>
@@ -578,13 +578,13 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Καλωσήρθατε!
-Αν είστε καινούργιοι εδώ, πατήστε το κουμπί &quot;Προσθήκη&quot; για να προσθέσετε τον λογαριασμό Mojang ή τον λογαριασμό Minecraft σας.</translation>
+        <translation>Καλώς ήρθατε!
+Αν είστε νέοι εδώ, μπορείτε να επιλέξετε τα κουμπιά &quot;Προσθήκη Microsoft&quot; ή &quot;Προσθήκη Mojang&quot; για να συνδέσετε τους λογαριασμούς σας στη Microsoft και/ή τη Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ορίστηκε αναγνωριστικό πελάτη για την Πιστοποίηση της Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -657,7 +657,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το αναγνωριστικό πελάτη έχει αλλάξει. Χρειάζεται να δημιουργηθεί νέα συνεδρία.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
@@ -695,27 +695,27 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1136"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακυρώθηκε</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1534"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Βρέθηκαν παλιά δεδομένα από το %1, αλλά έχετε ήδη υπάρχοντα δεδομένα για το %2. Δυστυχώς, θα χρειαστεί να μεταφέρετε τα δεδομένα μόνοι σας. Θέλετε να σας υπενθυμίσουμε για την εκκρεμή μεταφορά δεδομένων την επόμενη φορά που θα ξεκινήσετε το %2;</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1538"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Φαίνεται ότι χρησιμοποιήσατε το %1 προηγουμένως. Θέλετε να μεταφέρετε τα δεδομένα σας στη νέα τοποθεσία του %2;</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1544"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Φαίνεται ότι χρησιμοποιήσατε το %1 στις %2 προηγουμένως. Θέλετε να μεταφέρετε τα δεδομένα σας στη νέα τοποθεσία του %3;</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1587"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποτυχία μεταφοράς! Αιτία: %1</translation>
     </message>
 </context>
 <context>
@@ -734,7 +734,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="43"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακυρώθηκε</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
@@ -767,19 +767,19 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Ταξινόμηση κατά δημοτικότητα</translation>
+        <translation>Ταξινόμηση κατά Δημοφιλία</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ταξινόμηση κατά όνομα</translation>
+        <translation>Ταξινόμηση ανά Όνομα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Ταξινόμηση κατά έκδοση παιχνιδιού</translation>
+        <translation>Ταξινόμηση ανά Έκδοση Παιχνιδιού</translation>
     </message>
 </context>
 <context>
@@ -812,17 +812,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε έναν κωδικό κοινοποίησης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κωδικός κοινοποίησης:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="352"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν έχει καθοριστεί κωδικός κοινοποίησης!</translation>
     </message>
 </context>
 <context>
@@ -830,12 +830,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Είστε σίγουροι ότι θέλετε να ενεργοποιήσετε αυτό το mod;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
 </context>
 <context>
@@ -854,7 +854,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="64"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Αναζήτηση και φιλτράρισμα...</translation>
+        <translation>Αναζήτηση και φίλτρο...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
