@@ -69,7 +69,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;備註：您只需要啟用這個設定就可以存取私人資料。閱讀 &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;檔案&lt;/a&gt; 以了解更多資訊。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;備註：您只需要啟用這個設定就可以存取私人資料。閱讀 &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;文件&lt;/a&gt; 以了解更多資訊。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -587,7 +587,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;A
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
         <translation>歡迎！
-如果您是第一次來這裡，您可以按一下「新增 Microsoft」或「新增 Mojang」按鈕來新增您的 Microsoft 和（或）Mojang 帳號。</translation>
+如果您是第一次來這裡，您可以按一下「新增 Microsoft 帳號」或「新增 Mojang 帳號」按鈕來新增您的 Microsoft 和（或）Mojang 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -2252,7 +2252,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
         <source>Invalid data returned from the API.</source>
-        <translation>從 API 返回的數據資料無效。</translation>
+        <translation>從 API 返回的資料無效。</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2285,7 +2285,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未找到該模組的有效版本。可能在目前的遊戲版本或模組載入器中還不可用。</translation>
+        <translation>找不到該模組的有效版本。可能在目前的遊戲版本或模組載入器中還不可用。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
@@ -5769,7 +5769,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>Delete group &apos;%1&apos;</source>
-        <translation>刪除 &apos;%1&apos; 群組</translation>
+        <translation>刪除「%1」群組</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -7389,7 +7389,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="104"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未找到該模組的有效版本。可能在目前的遊戲版本或模組載入器中還不可用。</translation>
+        <translation>找不到該模組的有效版本。可能在目前的遊戲版本或模組載入器中還不可用。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
@@ -9094,7 +9094,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="138"/>
         <source>No valid version found!</source>
-        <translation>未找到可用的版本！</translation>
+        <translation>找不到可用的版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="139"/>
@@ -9264,7 +9264,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="273"/>
         <source>No valid version found.</source>
-        <translation>未找到可用的版本。</translation>
+        <translation>找不到可用的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="274"/>
@@ -11473,7 +11473,7 @@ Do you want to continue?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
         <source>No MCEdit found or set up!</source>
-        <translation>未找到 MCEdit 或尚未設定！</translation>
+        <translation>找不到 MCEdit 或尚未設定！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
