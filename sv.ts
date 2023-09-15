@@ -167,12 +167,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="372"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Misslyckades med att hitta versionen av %1-loadern</translation>
+        <translation>Misslyckades med att hitta versionen av %1-laddaren</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="385"/>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen loader-version angiven för modpaketet!</translation>
+        <translation>Ingen laddare-version angiven för modpaketet!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="515"/>
@@ -252,7 +252,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="973"/>
         <source>Unknown loader type: </source>
-        <translation>Okänd loader-typ: </translation>
+        <translation>Okänd laddare-typ: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="987"/>
@@ -1135,7 +1135,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Att avaktivera detta kommer behålla mod-loadern (t.ex. Fabric, Quilt, etc.), men radera modmappen och deras konfigurationer.</translation>
+        <translation>Att avaktivera detta kommer behålla mod-laddaren (t.ex. Fabric, Quilt, etc.), men radera modmappen och deras konfigurationer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -2273,7 +2273,7 @@ Försök igen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen/mod-loadern.</translation>
+        <translation>Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen/mod-laddaren.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
@@ -2339,12 +2339,12 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="297"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Misslyckades med att hitta versionen av %1 -loadern</translation>
+        <translation>Misslyckades med att hitta versionen av %1-laddaren</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="302"/>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen loader-version angiven för modpaketet!</translation>
+        <translation>Ingen laddare-version angiven för modpaketet!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
@@ -2361,7 +2361,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="370"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Okänd mod-loader i manifest: %1</translation>
+        <translation>Okänd mod-laddare i manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="384"/>
@@ -5414,12 +5414,12 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="733"/>
         <source>View I&amp;con Theme Folder</source>
-        <translation>Visa I&amp;con Tema Mapp</translation>
+        <translation>Visa mapp för i&amp;kon-teman</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
         <source>View Icon Theme Folder</source>
-        <translation>Visa Ikon Tema Mapp</translation>
+        <translation>Visa mapp för ikon-teman</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="744"/>
@@ -6215,7 +6215,7 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="944"/>
         <source>, last played on %1 for %2</source>
-        <translation>, senast spelat på %1 i %2</translation>
+        <translation>, senast spelad %1 i %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -6796,7 +6796,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
         <source>Please install a mod loader first!</source>
-        <translation>Vänligen installera en mod-loader först!</translation>
+        <translation>Vänligen installera en mod-laddare först!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
@@ -7219,7 +7219,7 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="104"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen/mod-loadern.</translation>
+        <translation>Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen/mod-laddaren.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
@@ -7559,7 +7559,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="66"/>
         <source>Requesting %1</source>
-        <translation>Begär #1</translation>
+        <translation>Efterfrågar #1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="139"/>
@@ -8972,7 +8972,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="228"/>
         <source>A network error occurred. Could not load project info:%1</source>
-        <translation>Ett nätverksfel uppstod. Kunde inte ladda projektinformation:%1</translation>
+        <translation>Ett nätverksfel uppstod. Kunde inte ladda projektinformation: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="434"/>
@@ -9393,7 +9393,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Denna fil kommer laddas ner till en annan mapp än standardmappen, möjligtvis för att dess loader kräver det.</translation>
+        <translation>Denna fil kommer laddas ner till en annan mapp än standardmappen, möjligtvis för att dess laddare kräver det.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
@@ -10199,7 +10199,7 @@ Varning: Denna resurs är hårt länkad någon annanstans. Om du redigerar den �
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="60"/>
         <source>View icon themes folder.</source>
-        <translation>Visa mapp för ikon teman.</translation>
+        <translation>Visa mapp för ikon-teman.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="79"/>
@@ -10629,7 +10629,7 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation>Ändra Version</translation>
+        <translation>Ändra version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
@@ -10644,7 +10644,7 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
         <source>Make the selected component apply sooner.</source>
-        <translation>Gör den valda komponenten tillämpas tidigare.</translation>
+        <translation>Låt den valda komponenten tillämpas tidigare.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
@@ -10654,12 +10654,12 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
         <source>Make the selected component apply later.</source>
-        <translation>Gör den valda komponenten appliceras senare.</translation>
+        <translation>Låt den valda komponenten tillämpas senare.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Remove selected component from the instance.</source>
-        <translation>Ta bort vald komponent från instansen.</translation>
+        <translation>Ta bort den valda komponenten från instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
