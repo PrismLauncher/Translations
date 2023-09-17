@@ -7650,7 +7650,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="80"/>
         <source>Sort by Total Downloads</source>
-        <translation>按總下載量排序</translation>
+        <translation>按總下載數排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="261"/>
@@ -11187,7 +11187,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Released</source>
-        <translation>發佈於</translation>
+        <translation>發布於</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="127"/>
