@@ -428,7 +428,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="330"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Tidak Bisa</translation>
+        <translation>Tidak</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1393,32 +1393,32 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="230"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="240"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
@@ -1742,17 +1742,17 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>text kosong</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
@@ -1779,13 +1779,13 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Pembuat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Link</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
@@ -1909,17 +1909,17 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pergi ke halaman awal Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="176"/>
         <source>Remove metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus Metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus Mod&apos;s Metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -2154,12 +2154,12 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Urutkan sesuai Nama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Urutkan sesuai Versi Game</translation>
     </message>
 </context>
 <context>
@@ -2172,12 +2172,12 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>cari dan filter..</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cari</translation>
     </message>
 </context>
 <context>
@@ -2194,7 +2194,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copying files...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
@@ -2453,12 +2453,12 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="63"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>mencari FIle...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="85"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak Dapat Mencari File</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="102"/>
@@ -2484,7 +2484,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="330"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>menambahkan FIle..</translation>
     </message>
 </context>
 <context>
@@ -3662,7 +3662,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Alokasi memori kamu lebih kecil dari nilai minimum yang dibutuhkan</translation>
     </message>
 </context>
 <context>
