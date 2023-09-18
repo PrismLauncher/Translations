@@ -858,7 +858,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -3454,7 +3454,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>A sua alocação de memória máxima é menor que o valor mínimo</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3698,7 +3698,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>A sua alocação de memória máxima é menor que o valor mínimo</translation>
     </message>
 </context>
 <context>
@@ -3776,7 +3776,7 @@ Podes alterar mais tarde a versão do Java nas definições.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>A sua alocação de memória máxima é menor que o valor mínimo</translation>
     </message>
 </context>
 <context>
@@ -4197,7 +4197,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished">Desativar utilizar metadados para mods?</translation>
+        <translation>Desativar utilização de metadados para mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -4273,7 +4273,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">&amp;Fechar a consola automaticamente quando o jogo fechar?</translation>
+        <translation>&amp;Encerrar consola automaticamente quando o jogo fechar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
@@ -4503,12 +4503,12 @@ Garantindo %1 acesso a essa pasta por via de Flatseal é recomendado.</translati
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisar e filtrar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="29"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="42"/>
@@ -5144,7 +5144,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ver &amp;Pasta Raiz do Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5293,7 +5293,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="744"/>
         <source>View Cat Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ver Pasta dos Pacotes de Gatos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
@@ -5641,7 +5641,7 @@ Por favor adiciona a tua conta Mojang ou Microsoft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>O modpack, mod, ou recurso %1 está bloqueado para terceiros! Por favor transfere-o manualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
@@ -5764,7 +5764,7 @@ Queres proceder na mesma?</numerusform>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1505"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao criar ícone para a Aplicação.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
@@ -6105,7 +6105,7 @@ Queres proceder na mesma?</numerusform>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished">Iniciar o Minecraft &amp;maximizado?</translation>
+        <translation>Iniciar o Minecraft &amp;maximizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -6150,7 +6150,7 @@ Queres proceder na mesma?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="216"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Caminho para a biblioteca GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="226"/>
@@ -6161,7 +6161,7 @@ Queres proceder na mesma?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="233"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Caminho para a biblioteca OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="260"/>
@@ -6206,7 +6206,7 @@ Queres proceder na mesma?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
@@ -6229,7 +6229,7 @@ Queres proceder na mesma?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostrar tempo de jogo em horas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
@@ -6269,13 +6269,13 @@ Queres proceder na mesma?</numerusform>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="135"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminho para o ficheiro da biblioteca %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
         <source>Auto detected path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Caminho auto-detetado: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="158"/>
@@ -6473,7 +6473,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Ultimo Modificado</translation>
+        <translation>Última Modificação</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="165"/>
@@ -6594,13 +6594,13 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para a página inicial do mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover metadados do mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -6610,17 +6610,17 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="114"/>
         <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitar páginas dos mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="115"/>
         <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para as páginas dos mods selecionados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
         <source>Remove mods&apos; metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover metadados dos mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
@@ -6683,7 +6683,8 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estás prestes a remover os metadados de %1 mods.
+Tens a certeza?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
@@ -8555,7 +8556,7 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Desagrupado</translation>
     </message>
 </context>
 <context>
@@ -8627,7 +8628,7 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="172"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="173"/>
@@ -8658,7 +8659,7 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="228"/>
         <source>A network error occurred. Could not load project info:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro de rede. Impossível carregar informações do projeto:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="434"/>
@@ -9899,7 +9900,7 @@ Aviso: Este recurso está ligado por ligação rígida a partir de outro local. 
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="154"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver pasta dos pacotes de gatos.</translation>
     </message>
 </context>
 <context>
@@ -10307,12 +10308,12 @@ Por favor muda para uma das seguintes versões do Java para esta instância:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar Versão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
         <source>Change version of the selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar versão do componente selecionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
@@ -10337,17 +10338,17 @@ Por favor muda para uma das seguintes versões do Java para esta instância:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Remove selected component from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover o componente selecionado da instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Customize selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizar o componente selecionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
         <source>Edit selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar o componente selecionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
@@ -10362,7 +10363,7 @@ Por favor muda para uma das seguintes versões do Java para esta instância:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Install a mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Installar um mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
@@ -10372,12 +10373,12 @@ Por favor muda para uma das seguintes versões do Java para esta instância:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Reload all components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recarregar todos os componentes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Download all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transferir todos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
@@ -10741,7 +10742,7 @@ Por favor adiciona a tua conta Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
