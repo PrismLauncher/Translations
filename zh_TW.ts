@@ -31,7 +31,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>備註：您可能想要在變更貼上服務類型後更改或清除根網址。</translation>
+        <translation>備註：在更改貼上服務類型後，您可能想要變更或清除根網址。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -1114,7 +1114,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="293"/>
         <source>Executing 1 task:</source>
-        <translation>正在執行 1 個任務：</translation>
+        <translation>正在執行一個任務：</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="295"/>
@@ -1298,7 +1298,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>在 Windows 上，符號連結可能需要系統管理員權限才能建立。</translation>
+        <translation>在 Windows 上，符號連結可能需要系統管理員身分才能建立。</translation>
     </message>
 </context>
 <context>
@@ -1840,7 +1840,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>這取決於這些模組的後設資料。如果要保證其可用，可以該實例中運行更新，而不需要將更新安裝到實例中。</translation>
+        <translation>這取決於這些模組的後設資料。如果要保證其可用，可以該實例中執行更新，而不需要將更新安裝到實例中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
@@ -2081,7 +2081,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM 可執行檔</translation>
+        <translation>JVisualVM 執行檔</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
@@ -2733,22 +2733,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="91"/>
         <source>Survival</source>
-        <translation>生存</translation>
+        <translation>生存模式</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Creative</source>
-        <translation>創造</translation>
+        <translation>創造模式</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Adventure</source>
-        <translation>冒險</translation>
+        <translation>冒險模式</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="97"/>
         <source>Spectator</source>
-        <translation>旁觀者</translation>
+        <translation>旁觀者模式</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
@@ -3579,7 +3579,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="387"/>
         <source>Find Java executable</source>
-        <translation>尋找 Java 可執行檔</translation>
+        <translation>尋找 Java 執行檔</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
@@ -3813,7 +3813,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="142"/>
         <source>Find Java executable</source>
-        <translation>尋找 Java 可執行檔</translation>
+        <translation>尋找 Java 執行檔</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="194"/>
@@ -3850,13 +3850,13 @@ You can change the Java version in the settings later.
 %1 將無法啟動 Minecraft。
 您要忽略嗎？
 
-你之後可以在設定中更改 Java 的設定。
+你稍後可以在設定中更改 Java 版本。
 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="259"/>
         <source>Find Java executable</source>
-        <translation>尋找 Java 可執行檔</translation>
+        <translation>尋找 Java 執行檔</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="399"/>
@@ -5061,7 +5061,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="143"/>
         <source>Microsoft user authentication failed - user no longer exists.</source>
-        <translation>Microsoft 使用者身份驗證失敗──使用者不存在。</translation>
+        <translation>Microsoft 使用者身分驗證失敗──使用者不存在。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="148"/>
@@ -5071,7 +5071,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
-        <translation>Microsoft 使用者身份驗證已完成，但結果無法識別。</translation>
+        <translation>Microsoft 使用者身分驗證已完成，但結果無法識別。</translation>
     </message>
 </context>
 <context>
@@ -6787,7 +6787,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="171"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>此模組上次變更（或新增）的日期與時間。</translation>
+        <translation>此模組上次修改（或加入）的日期與時間。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="173"/>
@@ -8180,7 +8180,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>預設貼上服務已更改為 mclo.gs，請選擇你要對設定執行的操作。</translation>
+        <translation>預設貼上服務已變更為 mclo.gs，請選擇你要對設定執行的操作。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -8795,7 +8795,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="95"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>指定的 Java 二進位檔無法使用。&lt;br /&gt;應使用自動偵測功能，或者設定 Java 可執行檔的路徑。&lt;br /&gt;</translation>
+        <translation>指定的 Java 二進位檔無法使用。&lt;br /&gt;應使用自動偵測功能，或者設定 Java 執行檔的路徑。&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
@@ -8855,7 +8855,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
         <source>Change instance name</source>
-        <translation>更改實例名稱</translation>
+        <translation>變更實例名稱</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="9"/>
@@ -9405,7 +9405,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="496"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>這資源上次變更（或加入）的日期與時間。</translation>
+        <translation>此資源上次修改（或加入）的日期與時間。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="551"/>
@@ -9493,7 +9493,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="157"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>此資源包上次變更（或新增）的日期與時間.</translation>
+        <translation>此資源上次修改（或加入）的日期與時間。</translation>
     </message>
 </context>
 <context>
@@ -10335,7 +10335,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>這個資源上次變更（或加入）的日期與時間。</translation>
+        <translation>此資源上次修改（或加入）的日期與時間。</translation>
     </message>
 </context>
 <context>
@@ -10829,12 +10829,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation>更改版本</translation>
+        <translation>變更版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
         <source>Change version of the selected component.</source>
-        <translation>更改選取元件的版本。</translation>
+        <translation>變更選取元件的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
@@ -11585,7 +11585,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="85"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation>伺服器已更改響應中的 %1 授權使用者雜湊值。有點不對勁。</translation>
+        <translation>伺服器回應中更改了 %1 授權使用者雜湊值。發生了問題。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="91"/>
