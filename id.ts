@@ -1252,12 +1252,12 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Salin paket-paket sumber daya</translation>
+        <translation>Salin paket-paket resource</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation>Simpan waktu bermain</translation>
+        <translation>Simpan waktu main</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
@@ -1362,7 +1362,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished">Snapshot Lama</translation>
+        <translation>Snapshot-snapshot Lama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
@@ -1467,7 +1467,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation>Beberapa alamat tidak dapat disalin!</translation>
+        <translation>Beberapa path tidak dapat disalin!</translation>
     </message>
 </context>
 <context>
@@ -1497,12 +1497,12 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="33"/>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>Surel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="43"/>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation>Sandi</translation>
     </message>
 </context>
 <context>
@@ -1510,7 +1510,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="87"/>
         <source>Checking if mods have metadata...</source>
-        <translation>Mengecek jika mod-mod memiliki metadata...</translation>
+        <translation>Memeriksa jika mod-mod memiliki metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
@@ -1526,13 +1526,13 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="333"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>Menguraikan respons API dari Modrinth untuk &apos;%1&apos;...</translation>
+        <translation>Mengurai respons API dari Modrinth untuk &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="400"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="467"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Menguraikan respons API dari CurseForge untuk &apos;%1&apos;...</translation>
+        <translation>Mengurai respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1540,7 +1540,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="16"/>
         <source>Determining game ownership.</source>
-        <translation>Mencari tahu apakah anda mempunyai gamenya.</translation>
+        <translation>Menentukan kepemilikan permainan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
@@ -1673,7 +1673,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="62"/>
         <source>1.0.0</source>
-        <translation type="unfinished">1.0.0</translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
@@ -1727,7 +1727,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Pengaturan</translation>
+        <translation>Setelan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -2194,7 +2194,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation>Copying files...</translation>
+        <translation>Menyalin berkas-berkas...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
@@ -2867,7 +2867,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Pilihlah instansi yang ingin Anda impor resource pack ini ke.</translation>
+        <translation>Pilihlah instansi yang ingin Anda impor paket resource ini ke.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -2910,27 +2910,27 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
@@ -3680,9 +3680,9 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Anda tidak memilih versi Java atau memilih sesuatu yang tidak bekerja.
+        <translation>Anda tidak memilih versi Java atau memilih sesuatu yang fungsional.
 %1 tidak dapat memulai Minecraft.
-Apakah anda ingin melanjutkan tanpa Java?
+Apakah Anda ingin melanjutkan tanpa Java?
 
 Anda dapat mengubah versi Java di pengaturan nanti.
 </translation>
@@ -3690,12 +3690,12 @@ Anda dapat mengubah versi Java di pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="259"/>
         <source>Find Java executable</source>
-        <translation>Cari file Java</translation>
+        <translation>Cari berkas Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="399"/>
         <source>Memory</source>
-        <translation>Ram</translation>
+        <translation>Memori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
@@ -3740,7 +3740,7 @@ Anda dapat mengubah versi Java di pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Alokasi memori kamu lebih kecil dari nilai minimum yang dibutuhkan</translation>
+        <translation>Alokasi memori maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
 </context>
 <context>
@@ -3773,7 +3773,7 @@ Mohon pilih salah satu di bawah atau telusuri eksekutabel Java.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Tidak dapat melihat bahasa anda atau kualitas terjemahan nya buruk?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Bantu kami dengan menerjemahkannya!&lt;/a&gt;</translation>
+        <translation>Tidak dapat melihat bahasa Anda atau kualitas terjemahannya buruk?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Bantu kami dengan menerjemahkannya!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
@@ -4154,7 +4154,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished">Matikan penggunaan metadata untuk mod-mod?</translation>
+        <translation>Matikan penggunaan metadata untuk mod-mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -4215,19 +4215,19 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Tampilkan konsol ketika permainan sedang &amp;berjalan?</translation>
+        <translation>Tampilkan konsol ketika permainan sedang &amp;berjalan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">&amp;Tutup konsol secara otomatis ketika keluar permainan?</translation>
+        <translation>&amp;Tutup konsol secara otomatis ketika keluar permainan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">Tampilkan konsol ketika game &amp;crash?</translation>
+        <translation>Tampilkan konsol ketika game &amp;berhenti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -6022,7 +6022,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished">Mulai Minecraft dengan layar penuh?</translation>
+        <translation>Mulai Minecraft dengan &amp;layar penuh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -8303,7 +8303,7 @@ CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
         <source>resource pack</source>
-        <translation>pack resource</translation>
+        <translation>paket resource</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
@@ -8524,7 +8524,7 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="124"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>pack-pack resource</translation>
+        <translation>paket-paket resource</translation>
     </message>
 </context>
 <context>
@@ -8533,13 +8533,13 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="35"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation>pack-pack resource</translation>
+        <translation>paket-paket resource</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation>pack resource</translation>
+        <translation>paket resource</translation>
     </message>
 </context>
 <context>
@@ -8630,7 +8630,7 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="160"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>pack-pack shader</translation>
+        <translation>paket-paket shader</translation>
     </message>
 </context>
 <context>
@@ -8639,13 +8639,13 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="35"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>pack-pack shader</translation>
+        <translation>paket-paket shader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation>pack shader</translation>
+        <translation>paket shader</translation>
     </message>
 </context>
 <context>
@@ -8654,7 +8654,7 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="143"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>pack-pack tekstur</translation>
+        <translation>paket-paket tekstur</translation>
     </message>
 </context>
 <context>
@@ -8663,13 +8663,13 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="37"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation>pack-pack tekstur</translation>
+        <translation>paket-paket tekstur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation>pack tekstur</translation>
+        <translation>paket tekstur</translation>
     </message>
 </context>
 <context>
@@ -8724,7 +8724,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="490"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Apakah resource aktif?</translation>
+        <translation>Apakah resource diaktifkan?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="493"/>
@@ -8736,7 +8736,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="496"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Tanggal kapan resource ini terakhir diubah (atau ditambahkan).</translation>
+        <translation>Tanggal dan waktu resource ini terakhir diubah (atau ditambahkan).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="551"/>
@@ -8753,17 +8753,17 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Enable</source>
-        <translation type="unfinished">Aktifkan</translation>
+        <translation>Aktifkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Image</source>
-        <translation type="unfinished">Gambar</translation>
+        <translation>Gambar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Terakhir Diubah</translation>
+        <translation>Terakhir Diubah</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="77"/>
@@ -8775,7 +8775,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="155"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>ID format pack resource, serta versi Minecraft yang diperuntukkan.</translation>
+        <translation>ID format paket resource, serta versi Minecraft yang diperuntukkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"/>
@@ -8796,12 +8796,12 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Name</source>
-        <translation type="unfinished">Nama</translation>
+        <translation>Nama</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Pack Format</source>
-        <translation>Format Pack</translation>
+        <translation>Format Paket</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -8810,17 +8810,17 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="150"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Apakah pack resource aktif? (Hanya berlaku untuk ZIP-ZIP)</translation>
+        <translation>Apakah paket resource aktif? (Hanya berlaku untuk ZIP-ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="152"/>
         <source>The name of the resource pack.</source>
-        <translation>Nama paket daya.</translation>
+        <translation>Nama paket resource.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="157"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>Tanggal dan waktu pack resource ini terakhir diubah (atau ditambahkan).</translation>
+        <translation>Tanggal dan waktu paket resource ini terakhir diubah (atau ditambahkan).</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -8832,32 +8832,32 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="50"/>
         <source>Resource packs</source>
-        <translation>Paket Sumber daya</translation>
+        <translation>Paket resource</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download packs</source>
-        <translation>Unduh pack-pack</translation>
+        <translation>Unduh paket-paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download resource packs from online platforms</source>
-        <translation>Unduh pack resource dari platform-platform daring</translation>
+        <translation>Unduh paket-paket resource dari platform-platform daring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="77"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="81"/>
         <source>Aborted</source>
-        <translation type="unfinished">Dibatalkan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="81"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Pengunduhan dihentikan oleh pengguna.</translation>
+        <translation>Pengunduhan dihentikan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="87"/>
@@ -9728,7 +9728,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>WizardPage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
@@ -10279,32 +10279,32 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih komponen-komponen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Components (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponen-komponen (*.json)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="332"/>
         <source>Failed to import components</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengimpor komponen-komponen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>Beberapa komponen tidak dapat diimpor. Periksa log untuk detail-detail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih agen-agen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
         <source>Java agents (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Agen-agen Java (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="385"/>
@@ -10327,12 +10327,13 @@ Apakah Anda yakin?</translation>
 Please add your Microsoft or Mojang account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dapat mengunduh Minecraft atau perbaruan instansi kecuali Anda memiliki setidaknya satu akun ditambahkan.
+Mohon menambahkan akun Microsoft atau Mojang Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmasi Revisi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="550"/>
@@ -10509,7 +10510,7 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
@@ -10529,7 +10530,7 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustomisasi aksi-aksi toolbar</translation>
     </message>
 </context>
 <context>
@@ -10537,19 +10538,21 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="200"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunia ini secara simbolis terhubung dari tempat lain.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Dunia ini telah disambungkeraskan di tempat lain.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="222"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Peringatan: Dunia ini secara simbolis terhubung dari tempat lain. Menyunting akan juga mengubah yang asli.
+Path kanonis: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
@@ -10575,13 +10578,13 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ukuran</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="274"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Informasi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
@@ -10601,12 +10604,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukuran dunia di disk.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informasi dan peringatan mengenai dunia.</translation>
     </message>
 </context>
 <context>
@@ -10712,7 +10715,7 @@ Apakah anda ingin melanjutkan?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="275"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka dunia di MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
@@ -10771,7 +10774,10 @@ Apakah anda ingin melanjutkan?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan menghapus &quot;%1&quot;.
+Dunia ini mungkin hilang selamanya (WAKTU YANG LAMA).
+
+Apakah Anda yakin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
@@ -10787,7 +10793,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Namai ulang dunia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
@@ -10800,23 +10806,23 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mendapatkan otorisasi untuk mengakses layanan %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="64"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mendapatkan otorisasi untuk layanan %1. Kesalahan %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="67"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan STS tidak diketahui untuk layanan %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="71"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mendapatkan otorisasi untuk layanan %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="79"/>
@@ -10841,7 +10847,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="110"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemen XErr tidak ada dari respons kesalahan otorisasi %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
@@ -10883,7 +10889,7 @@ Tolong atur akun anda menurut %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="60"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mendapatkan profil Xbox: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -10892,7 +10898,7 @@ Tolong atur akun anda menurut %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="67"/>
         <source>Got Xbox profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil Xbox didapatkan</translation>
     </message>
 </context>
 <context>
@@ -10910,7 +10916,7 @@ Tolong atur akun anda menurut %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Otentikasi pengguna Xbox gagal: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
@@ -10963,7 +10969,7 @@ Tolong atur akun anda menurut %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="259"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSL Handshake gagal.&lt;/b&gt;&lt;br/&gt;Mungkin terdapat beberapa penyebab:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Anda menggunakan WIndows dan harus memperbarui sertifikat root Anda, mohon memasang perbaruan yang ada.&lt;/li&gt;&lt;li&gt;Beberapa perangkat dalam jaringan Anda sedang mengganggu lalu lintas SSL. Dalam kasus tersebut, Anda memiliki kekhawatiran lebih besar ketimbang Minecraft tidak memulai.&lt;/li&gt;&lt;li&gt;Kemungkinan sesuatu yang berbeda. Periksa berkas log untuk detail-detail&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="273"/>
