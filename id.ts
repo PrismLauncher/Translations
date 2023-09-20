@@ -1919,7 +1919,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Hapus Mod&apos;s Metadata</translation>
+        <translation>Hapus metadata mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -1939,7 +1939,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>Anda akan menghapus %1 barang.
-Ini mungkin permanen dan mereka akan tidak ada di dalam folder.
+Ini mungkin permanen dan akan menghilangkan berkas-berkas dari folder.
 
 Apakah Anda yakin?</translation>
     </message>
@@ -1950,7 +1950,7 @@ This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
         <translation>Anda akan menghapus folder &quot;%1&quot;.
-Ini mungkin permanen dan akan folder tidak ada di dalam folder atas.
+Ini mungkin permanen dan akan menghilangkan folder dari folder induk.
 
 Apakah Anda yakin?</translation>
     </message>
@@ -4473,7 +4473,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="122"/>
         <source>Remove selected pack</source>
-        <translation>Hapus pack yang dipilih</translation>
+        <translation>Hapus pack terpilih</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="142"/>
