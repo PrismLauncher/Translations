@@ -2023,7 +2023,7 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="120"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation>Error disaat memeriksa Jalur instal JProfiler: 
+        <translation>Error disaat memeriksa Path instal JProfiler: 
 %1</translation>
     </message>
     <message>
@@ -3452,7 +3452,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation>Tutup jendela konsol </translation>
+        <translation>Jendela konsol untuk </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
@@ -3589,7 +3589,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="255"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">Jalur Java:</translation>
+        <translation type="unfinished">Path Java:</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -4397,7 +4397,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="124"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>Gagal mengunduh beberapa daftar pack: %1</translation>
+        <translation>Gagal mengunduh beberapa daftar paket: %1</translation>
     </message>
 </context>
 <context>
@@ -4468,12 +4468,12 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
         <source>Add pack</source>
-        <translation>Tambahkan pack</translation>
+        <translation>Tambahkan paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="122"/>
         <source>Remove selected pack</source>
-        <translation>Hapus pack terpilih</translation>
+        <translation>Hapus paket terpilih</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="142"/>
@@ -4514,12 +4514,12 @@ Apakah sebaiknya dihapus sekarang?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <source>Add FTB pack</source>
-        <translation>Tambahkan pack FTB</translation>
+        <translation>Tambahkan paket FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
         <source>Enter pack code:</source>
-        <translation>Masukkan kode pack:</translation>
+        <translation>Masukkan kode paket:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
@@ -5787,12 +5787,12 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation>Informasi pack</translation>
+        <translation>Informasi paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation>Nama pack:</translation>
+        <translation>Nama paket:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -5862,7 +5862,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="198"/>
         <source>Update pack</source>
-        <translation>Perbarui pack</translation>
+        <translation>Perbarui paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="209"/>
@@ -6055,7 +6055,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished">Gunakan instalasi sistem GLFW</translation>
+        <translation>Gunakan pemasangan sistem &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="216"/>
@@ -6066,7 +6066,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="226"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="unfinished">Gunakan instalasi sistem OpenAL</translation>
+        <translation>Gunakan pemasangan sistem &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="233"/>
@@ -6967,7 +6967,7 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="415"/>
         <source>Could not understand pack index:
 </source>
-        <translation>Tidak dapat mengerti index pack:
+        <translation>Tidak dapat mengerti index paket:
 </translation>
     </message>
 </context>
@@ -8160,7 +8160,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Pemeriksa Pustaka java tidak dapat ditemukan. Mohon cek instalasi anda.</translation>
+        <translation>Pemeriksa Pustaka java tidak dapat ditemukan. Mohon cek pemasangan Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
@@ -8178,18 +8178,18 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
-        <translation>Jalur kosong</translation>
+        <translation>Path kosong</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
         <source>Invalid path to JVisualVM</source>
-        <translation>Jalur tidak valid menuju JVisualVM</translation>
+        <translation>Path tidak valid menuju JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
-        <translation>Jalur tidak ada</translation>
+        <translation>Path tidak ada</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="95"/>
@@ -8199,12 +8199,12 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="30"/>
         <source>Path is empty</source>
-        <translation>Jalur kosong</translation>
+        <translation>Path kosong</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="40"/>
         <source>Path does not seem to be a MCEdit path</source>
-        <translation>Jalur yang dipilih nampaknya bukan jalur menuju MCEdit</translation>
+        <translation>Path yang dipilih nampaknya bukan jalur menuju MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="52"/>
@@ -8239,7 +8239,7 @@ Nama baru: %2</translation>
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
         <translation>Satu atau lebih instansimu berasal dari modpack yang sama%1. Apakah Anda ingin membuat instansi terpisah, atau memperbarui yang sudah ada?
 
-CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, karena dunia-dunia dapat terkorupsi dan beberapa konfigurasi dapat hilang (dikarenakan penimpaan pack).</translation>
+CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, karena dunia-dunia dapat terkorupsi dan beberapa konfigurasi dapat hilang (dikarenakan penimpaan paket).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
@@ -8308,17 +8308,17 @@ CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
         <source>texture pack</source>
-        <translation>pack tekstur</translation>
+        <translation>paket tekstur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
         <source>data pack</source>
-        <translation>pack data</translation>
+        <translation>paket data</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>shader pack</source>
-        <translation>pack shader</translation>
+        <translation>paket shader</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
@@ -9647,12 +9647,12 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="51"/>
         <source>Download packs</source>
-        <translation>Unduh pack-pack</translation>
+        <translation>Unduh paket-paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download texture packs from online platforms</source>
-        <translation>Unduh pack-pack tekstur dari platform-platform daring</translation>
+        <translation>Unduh paket-paket tekstur dari platform-platform daring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="79"/>
@@ -9720,7 +9720,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="154"/>
         <source>View cat packs folder.</source>
-        <translation>Lihat folder pack kucing.</translation>
+        <translation>Lihat folder paket kucing.</translation>
     </message>
 </context>
 <context>
@@ -10429,7 +10429,7 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
         <source>Path</source>
-        <translation>Jalur</translation>
+        <translation>Path</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
@@ -10739,7 +10739,7 @@ Anda dapat mengaturnya di pengaturan global.</translation>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit gagal dijalankan.
-Disarankan untuk menginstall ulang MCEdit.</translation>
+Disarankan untuk memasang ulang MCEdit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
