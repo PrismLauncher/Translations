@@ -18,12 +18,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>&amp;URL Dasar</translation>
+        <translation>&amp;tautan Dasar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Catatan: Anda mungkin ingin mengubah atau menghapus URL Dasar setelah mengubah jenis layanan tempel.</translation>
+        <translation>Catatan: Anda mungkin ingin mengubah atau menghapus tautan Dasar setelah mengubah jenis layanan tempel.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -106,7 +106,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Masukkan URL kustom untuk meta disini.</translation>
+        <translation>Masukkan tautan kustom untuk meta disini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
@@ -167,12 +167,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="372"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Gagal menemukan versi untuk loader %1</translation>
+        <translation>Gagal menemukan versi untuk pemuat %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="385"/>
         <source>No loader version set for modpack!</source>
-        <translation>Versi loader tidak dipilih buat modpack ini!</translation>
+        <translation>Versi pemuat tidak dipilih buat modpack ini!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="515"/>
@@ -554,7 +554,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Tambahkan &amp;Offline</translation>
+        <translation>Tambahkan &amp;Luring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -613,7 +613,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="172"/>
@@ -1053,7 +1053,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Persyaratan bertindihan terdeteksi selama pengecekan ketergantungan!</translation>
+        <translation>Persyaratan bertindihan terdeteksi selama pemeriksaan ketergantungan!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
@@ -1423,7 +1423,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished">Kustom</translation>
+        <translation>Kustom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="121"/>
@@ -1438,7 +1438,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Tidak ada versi yang saat ini tersedia untuk Minecraft %1</translation>
+        <translation>Tidak ada versi yang saat ini tersedia untuk Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -1572,7 +1572,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
@@ -1582,7 +1582,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation type="unfinished">Batalkan</translation>
+        <translation>Batalkan</translation>
     </message>
 </context>
 <context>
@@ -1694,27 +1694,27 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Export %1</source>
-        <translation type="unfinished">Ekspor %1</translation>
+        <translation>Ekspor %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tugas dibatalkan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Tugas telah dibatalkan oleh pengguna.</translation>
+        <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="153"/>
         <source>Abort</source>
-        <translation type="unfinished">Batalkan</translation>
+        <translation>Batalkan</translation>
     </message>
 </context>
 <context>
@@ -1810,7 +1810,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">Ekspor %1</translation>
+        <translation>Ekspor %1</translation>
     </message>
 </context>
 <context>
@@ -2016,7 +2016,7 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -2186,7 +2186,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="81"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="97"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">%1 Minecraft</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2294,17 +2294,17 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Gagal mendapatkan indeks metadata lokal untuk %1</translation>
+        <translation>Gagal mendapatkan indeks metadata lokal untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="297"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Gagal menemukan versi untuk loader %1</translation>
+        <translation>Gagal menemukan versi untuk pemuat %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="302"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Versi loader tidak dipilih buat modpack ini!</translation>
+        <translation>Tidak ada versi pemuat terpilih untuk modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
@@ -2321,7 +2321,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="370"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Mod loader tidak dikenal dalam manifest: %1</translation>
+        <translation>Pemuat mod tidak dikenal dalam manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="384"/>
@@ -2474,7 +2474,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="233"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="295"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Menguraikan respons API dari CurseForge untuk &apos;%1&apos;...</translation>
+        <translation>Mengurai respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="252"/>
@@ -2784,13 +2784,13 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>Jenis berkas berikut telah diimplementasikan (untuk berkas lokal dan URL):</translation>
+        <translation>Jenis berkas berikut telah diimplementasikan (untuk berkas lokal serta tautan):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- Modpack-modpack CurseForge (ZIP)</translation>
+        <translation>- Modpack-modpack CurseForge (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -2817,14 +2817,14 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Impor dari zip</translation>
+        <translation>Impor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
@@ -2943,7 +2943,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="43"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Tidak ada versi yang saat ini tersedia untuk Minecraft %1</translation>
+        <translation>Tidak ada versi yang saat ini tersedia untuk Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3179,27 +3179,27 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="134"/>
         <source>Minimum memory allocation:</source>
-        <translation>Minimum pengalokasian memori(Ram):</translation>
+        <translation>Alokasi memori (RAM) minimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="177"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Jumlah maksimum Ram yang dapat digunakan oleh Minecraft.</translation>
+        <translation>Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="155"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Jumlah Memori (Ram) yang digunakan oleh Minecraft.</translation>
+        <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="199"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Jumlah memori yang tersedia untuk menyimpan kelas Java yang dimuat.</translation>
+        <translation>Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="141"/>
         <source>Maximum memory allocation:</source>
-        <translation>Maksimal pengalokasian Ram:</translation>
+        <translation>Alokasi memori (RAM) maksimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="82"/>
@@ -3426,17 +3426,17 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="487"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Alokasi maksimum memori Anda melebihi kapasitas memori sistem Anda.</translation>
+        <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="490"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Alokasi maksimal memori Anda mendekati kapasitas memori sistem Anda.</translation>
+        <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="493"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Alokasi memori maksimum Anda lebih kecil dari nilai minimum</translation>
+        <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
 </context>
 <context>
@@ -3541,24 +3541,24 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="45"/>
         <source>Memory</source>
-        <translation>Ram</translation>
+        <translation>Memori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Jumlah maksimum Ram yang dapat digunakan oleh Minecraft.</translation>
+        <translation>Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished">Minimal Pengalokasian Ram:</translation>
+        <translation>Alokasi memori (RAM) &amp;minimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished">Maksimal pengalokasian Ram:</translation>
+        <translation>Alokasi memori (RAM) ma&amp;ksimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
@@ -3568,12 +3568,12 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Jumlah memori (ram) awal yang digunakan untuk memulai Minecraft.</translation>
+        <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Jumlah memori (ram) yang tersedia untuk menyimpan kelas Java yang dimuat.</translation>
+        <translation>Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
@@ -3632,7 +3632,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>&amp;Lewati pengecekan kompatibilitas Java</translation>
+        <translation>&amp;Lewati pemeriksaan kompatibilitas Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -3652,17 +3652,17 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="194"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Alokasi maksimal memori Anda melebihi kapasitas memori sistem Anda.</translation>
+        <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="197"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Alokasi maksimal memori Anda mendekati kapasitas memori sistem.</translation>
+        <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Alokasi memori kamu lebih kecil dari nilai minimum yang dibutuhkan</translation>
+        <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
 </context>
 <context>
@@ -3700,27 +3700,27 @@ Anda dapat mengubah versi Java di pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Jumlah maksimum Ram yang dapat digunakan oleh Minecraft.</translation>
+        <translation>Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="401"/>
         <source>Minimum memory allocation:</source>
-        <translation>Minimal Pengalokasian Ram:</translation>
+        <translation>Alokasi memori (RAM) minimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="402"/>
         <source>Maximum memory allocation:</source>
-        <translation>Maksimal pengalokasian Ram:</translation>
+        <translation>Alokasi memori (RAM) maksimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="403"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Jumlah memori (Ram) bawaan yang digunakan untuk menjalankan minecraft.</translation>
+        <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="404"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Jumlah memori (ram) yang tersedia untuk menyimpan kelas Java yang dimuat.</translation>
+        <translation>Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="405"/>
@@ -3730,17 +3730,17 @@ Anda dapat mengubah versi Java di pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="414"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Alokasi maksimal memori Anda melebihi kapasitas memori sistem Anda.</translation>
+        <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="417"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Alokasi maksimal memori Anda mendekati kapasitas memori sistem.</translation>
+        <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Alokasi memori maksimum Anda lebih kecil dari nilai minimum</translation>
+        <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
 </context>
 <context>
@@ -3849,7 +3849,7 @@ Mohon pilih salah satu di bawah atau telusuri eksekutabel Java.</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="179"/>
         <source>Choose your offline mode player name.</source>
-        <translation>Pilih nama offline karakter anda.</translation>
+        <translation>Pilih nama offline karakter Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="181"/>
@@ -3895,7 +3895,7 @@ Apakah Anda ingin memainkan demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
         <source>Play Offline</source>
-        <translation>Mainkan secara Offline</translation>
+        <translation>Mainkan Luring</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="259"/>
@@ -3989,7 +3989,7 @@ Apakah Anda ingin memainkan demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="413"/>
@@ -4244,7 +4244,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
         <source> lines</source>
-        <translation> baris-baris</translation>
+        <translation> baris</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
@@ -4487,7 +4487,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="211"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="216"/>
@@ -4508,8 +4508,8 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="227"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>Gagal untuk mengunduh informasi pack untuk kode %1.
-Haruskah dihapus sekarang?</translation>
+        <translation>Gagal mengunduh informasi paket untuk kode %1.
+Apakah sebaiknya dihapus sekarang?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="343"/>
@@ -4524,12 +4524,12 @@ Haruskah dihapus sekarang?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Remove pack</source>
-        <translation>Hapus pack</translation>
+        <translation>Hapus paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Apakah anda yakin ingin menghapus pack %1?</translation>
+        <translation>Apakah Anda yakin ingin menghapus paket %1?</translation>
     </message>
 </context>
 <context>
@@ -4614,10 +4614,10 @@ Haruskah dihapus sekarang?</translation>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>Beberapa artefak yang ditandai sebagai &apos;lokal&apos; kehilangan file nya:
+        <translation>Beberapa artefak yang ditandai sebagai &apos;lokal&apos; kehilangan filenya:
 %1
 
-Anda perlu menambahkan file, atau menghapus paket yang membutuhkannya.
+Anda perlu menambahkan berkas, atau menghapus paket yang membutuhkannya.
 Anda harus memperbaiki masalah ini secara manual.</translation>
     </message>
     <message>
@@ -5436,7 +5436,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>Buka folder utama instansi di penjelajah file.</translation>
+        <translation>Buka folder root instansi terpilih di file browser.</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -5538,7 +5538,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="826"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tugas dibatalkan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="826"/>
@@ -5764,7 +5764,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
         <location filename="src/launcher/ui/MainWindow.cpp" line="969"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
@@ -5837,7 +5837,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="178"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="182"/>
@@ -5847,7 +5847,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="185"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tugas dibatalkan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="185"/>
@@ -5922,7 +5922,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="244"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished">Luncurkan &amp;Offline</translation>
+        <translation>Luncurkan &amp;Luring</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="245"/>
@@ -5942,7 +5942,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
         <source>Profilers</source>
-        <translation type="unfinished">Profiler</translation>
+        <translation>Profiler-profile</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="265"/>
@@ -6497,7 +6497,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished">Hapus Mod&apos;s Metadata</translation>
+        <translation>Hapus metadata mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -6524,7 +6524,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="180"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
@@ -6610,7 +6610,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>Tidak dapat menghapus file jar basi: %1</translation>
+        <translation>Tidak dapat menghapus berkas jar terkorupsi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
@@ -6692,7 +6692,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="105"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
@@ -6832,7 +6832,7 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="356"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
@@ -7406,7 +7406,7 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="211"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="250"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="139"/>
@@ -7989,7 +7989,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="234"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>URL untuk jar utama tidak dapat ditentukan - Mojang menghapus server yang kami gunakan untuk fallback.</translation>
+        <translation>Tautan untuk jar utama tidak dapat ditentukan - Mojang telah menghapus server yang kami gunakan sebagai fallback.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
@@ -8117,9 +8117,9 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">Anda mencoba untuk mengatur opsi memori JVM secara manual (menggunakan &quot;-XX:PermSize&quot;,&quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;,&quot;-Xmx&quot; or &quot;-Xms&quot;).
-Terdapat kotak yang dikhususkan untuk pengaturan tersebut (didalam tab Java, dalam group Memori diatas).
-Pesan ini akan terus ditampilkan sampai anda menghapus mereka dari argumen JVM.</translation>
+        <translation>Anda mencoba untuk mengatur opsi memori JVM secara manual (menggunakan &quot;-XX:PermSize&quot;,&quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;,&quot;-Xmx&quot; atau &quot;-Xms&quot;).
+Terdapat kotak yang dikhususkan untuk pengaturan tersebut (di dalam tab Java, dalam grup Memori di atas).
+Pesan ini akan terus ditampilkan sampai Anda menghapus opsi memori dari argumen-argumen JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
@@ -8154,7 +8154,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
         <location filename="src/launcher/JavaCommon.cpp" line="95"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Biner java yang ditentukan tidak bekerja.&lt;br /&gt; anda sebaiknya menggunakan fitur deteksi otomatis, atau tentukan jalur menuju program java.&lt;br /&gt;</translation>
+        <translation>Biner Java yang ditentukan tidak berfungsi.&lt;br /&gt;Anda sebaiknya menggunakan fitur deteksi otomatis, atau atur path ke eksekutabel Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
@@ -8462,7 +8462,7 @@ CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
@@ -8498,7 +8498,7 @@ CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, kar
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="434"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="438"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="228"/>
@@ -8983,7 +8983,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation>Screenshot</translation>
+        <translation>Tangkapan layar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
@@ -9016,7 +9016,7 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="427"/>
         <source>Failed to upload screenshots!</source>
-        <translation>Gagal mengunggah screenshot!</translation>
+        <translation>Gagal mengunggah tangkapan layar!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
@@ -9028,17 +9028,17 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="402"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="432"/>
         <source>Upload finished</source>
-        <translation>Berhasil mengunggah</translation>
+        <translation>Selesai mengunggah</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="403"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>Link &lt;a href=&quot;%1&quot;&gt; untuk mengupload screenshot&lt;/a&gt; telah diletakkan kedalam papan kilp anda.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Tautan  ke tangkapan layar yang diunggah&lt;/a&gt; telah diletakkan di dalam papan klip Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="433"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>Link &lt;a href=&quot;%1&quot;&gt; ke album yang terunggah&lt;/a&gt; telah diletakkan kedalam papan klip anda.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Tautan  ke album yang diunggah&lt;/a&gt; telah diletakkan di dalam papan klip Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="480"/>
@@ -9065,7 +9065,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="491"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Konfirmasi Penghapusan</translation>
+        <translation>Konfirmasi Penghapusan</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -9244,7 +9244,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="70"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
@@ -9333,12 +9333,12 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="75"/>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
-        <translation>Menggunakan URL jarak jauh untuk mengatur skin belum diimplementasikan.</translation>
+        <translation>Menggunakan tautan jarak jauh untuk mengatur skin belum diimplementasikan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="82"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
-        <translation>Anda tidak dapat menggunakan URL invalid untuk mengunggah skin.</translation>
+        <translation>Anda tidak dapat menggunakan tautan invalid untuk mengunggah skin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="94"/>
@@ -9657,7 +9657,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="79"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="83"/>
@@ -9715,7 +9715,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="126"/>
         <source>C&amp;at</source>
-        <translation>K%ucing</translation>
+        <translation>K&amp;ucing</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="154"/>
@@ -10228,7 +10228,7 @@ Mohon berganti ke salah satu versi Java berikut untuk instansi ini:</translation
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="366"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="412"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
@@ -10515,7 +10515,7 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
@@ -10671,7 +10671,7 @@ Path kanonis: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>Hapus ikon world untuk membuat game membuatnya kembali pada pemuatan berikutnya.</translation>
+        <translation>Hapus ikon dunia agar game membuatnya kembali pada pemuatan berikutnya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
@@ -10726,7 +10726,7 @@ Apakah anda ingin melanjutkan?</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation>Anda tidak memiliki MCEdit yang ter atur atau MCEdit terpindahkan.
+        <translation>Anda belum mengatur MCEdit atau MCEdit terpindahkan.
 Anda dapat mengaturnya di pengaturan global.</translation>
     </message>
     <message>
