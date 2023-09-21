@@ -8319,7 +8319,7 @@ Awe u sure??</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="364"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>Minecraft.jaw mowds (*.zip *.jaw)</translation>
+        <translation>Minecraft.jar mowds (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="374"/>
@@ -8329,7 +8329,7 @@ Awe u sure??</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="374"/>
         <source>Minecraft.jar replacement (*.jar)</source>
-        <translation>Minecraft.jaw wepwacement (*.jaw)</translation>
+        <translation>Minecraft.jar wepwacement (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
