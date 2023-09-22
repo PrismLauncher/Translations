@@ -3589,7 +3589,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="255"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">Path Java:</translation>
+        <translation>Path &amp;Java:</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -7322,7 +7322,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation>Nama pengguna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
