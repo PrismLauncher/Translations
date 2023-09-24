@@ -1094,7 +1094,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="98"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>未能停止所有執行中的任務。</translation>
+        <translation>無法停止所有執行中的任務。</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="285"/>
@@ -11585,7 +11585,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="85"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation>伺服器回應中更改了 %1 授權使用者雜湊值。發生了問題。</translation>
+        <translation>伺服器回應中更改了 %1 授權使用者雜湊值。發生問題。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="91"/>
