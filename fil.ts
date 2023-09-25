@@ -247,7 +247,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="952"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation>Bigong gumawa ng mga library components</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="973"/>
@@ -403,7 +403,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="325"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="328"/>
@@ -541,8 +541,8 @@
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Maligayang pagdating!
-Kung bago ka pa lang dito, puwede mong i-click ang &quot;Magdagdag&quot; na button upang idagdag ang iyong Mojang o Minecraft account.</translation>
+        <translation>Maligayang pagdating!
+Kung bago ka pa lang dito, pwede mong pindutin ang &quot;Magdagdag&quot; na button upang idagdag ang iyong Mojang o Minecraft account.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -832,7 +832,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanapin</translation>
     </message>
 </context>
 <context>
@@ -855,7 +855,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation type="unfinished">Nag-install</translation>
+        <translation>Ini-install</translation>
     </message>
 </context>
 <context>
@@ -942,12 +942,12 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="52"/>
         <source>Equipping cape</source>
-        <translation type="unfinished">Sinusuot na ang kapa</translation>
+        <translation>Sinusuot ang kapa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="72"/>
         <source>Removing cape</source>
-        <translation type="unfinished">Tinatanggal ang kapa</translation>
+        <translation>Tinatangal ang kapa</translation>
     </message>
 </context>
 <context>
