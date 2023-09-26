@@ -3614,7 +3614,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation>Avsluta körande instans</translation>
+        <translation>Tvångsavsluta körande instans</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -4123,7 +4123,7 @@ Vill du spela i demoläget?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="426"/>
         <source>Kill Minecraft?</source>
-        <translation>Avsluta Minecraft?</translation>
+        <translation>Tvångsavsluta Minecraft?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="427"/>
@@ -4925,7 +4925,7 @@ Anledning:
         <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>Processen avslutades av användaren.</translation>
+        <translation>Processen tvångsavslutades av användaren.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
@@ -5235,7 +5235,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Avsluta</translation>
+        <translation>&amp;Tvångsavsluta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
@@ -5364,7 +5364,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="345"/>
         <source>Kill the running instance.</source>
-        <translation>Avsluta körande instans.</translation>
+        <translation>Tvångsavsluta körande instans.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
