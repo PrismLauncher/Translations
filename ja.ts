@@ -6723,7 +6723,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="297"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
@@ -6749,12 +6749,12 @@ Are you sure?</source>
         <translation>考えうる解決策: 最新バージョンを手動で取得する:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="250"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>「%1」のメタデータが見つかりません。このmodをアップデートをするために生成する必要があります。使用するmodプロバイダを選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>選択されたmod プロバイダで有効なバージョンが見つけられませんでした</translation>
     </message>
@@ -6774,32 +6774,32 @@ Are you sure?</source>
         <translation>メタデータを探しています</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="298"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="302"/>
         <source>Generating metadata...</source>
         <translation>メタデータを生成中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
         <source>Provider: %1</source>
         <translation>プロバイダ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Old version: %1</source>
         <translation>現在のバージョン: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Not installed</source>
         <translation>インストールされていない</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="367"/>
         <source>New version: %1</source>
         <translation>新しいバージョン: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="370"/>
         <source>Changelog of the latest version</source>
         <translation>最新バージョンの更新内容</translation>
     </message>

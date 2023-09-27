@@ -7187,7 +7187,7 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="297"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
         <source>Abort</source>
         <translation>终止</translation>
     </message>
@@ -7213,12 +7213,12 @@ Please update %1!</source>
         <translation>可能的解决方案：手动获取最新版本：&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="250"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>模组 “%1” 还没有元数据。我们需要生成相关信息用于检查模组更新。因此，请选择一个模组托管平台，并使用它来检查此模组的更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>在所选模组托管平台上找不到有效版本</translation>
     </message>
@@ -7250,7 +7250,7 @@ Please update %1!</source>
         <translation type="vanished">Mod（%1）还没有Metadata。我们需要创建一份Metadata，以保留如何更新此Mod的相关信息。请先选择一个Mod托管平台，我们将通过此平台查询 %1 是否有可用更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="298"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="302"/>
         <source>Generating metadata...</source>
         <translation>生成 Metadata 中……</translation>
     </message>
@@ -7259,27 +7259,27 @@ Please update %1!</source>
         <translation type="vanished">无法在所选择的Mod托管平台上找到可用的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
         <source>Provider: %1</source>
         <translation>模组托管平台：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Old version: %1</source>
         <translation>旧版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="367"/>
         <source>New version: %1</source>
         <translation>新版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="370"/>
         <source>Changelog of the latest version</source>
         <translation>最新版本的更新日志</translation>
     </message>

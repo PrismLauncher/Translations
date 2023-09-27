@@ -6288,7 +6288,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="297"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
         <source>Abort</source>
         <translation type="unfinished">Nutraukti</translation>
     </message>
@@ -6314,12 +6314,12 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="250"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Modifikacija &apos;%1&apos; dar neturi metaduomenų. Turime juos sugeneruoti, kad galėtume sekti atitinkamą informaciją, kaip atnaujinti šią modifikaciją. Norėdami tai padaryti, pasirinkite modifikacijų tiekėją, kurį galime naudoti norėdami patikrinti, ar nėra šios modifikacijos atnaujinimų.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6339,32 +6339,32 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="298"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="302"/>
         <source>Generating metadata...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
         <source>Provider: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Old version: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Not installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="367"/>
         <source>New version: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="370"/>
         <source>Changelog of the latest version</source>
         <translation type="unfinished"></translation>
     </message>

@@ -7163,7 +7163,7 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="297"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -7189,12 +7189,12 @@ Aktualizujte prosím %1!</translation>
         <translation>Možné řešení: ruční získání nejnovější verze:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="250"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Mod &apos;%1&apos; zatím nemá metadata. Musíme je vygenerovat, abychom mohli sledovat relevantní informace o tom, jak tento mod aktualizovat. Za tímto účelem prosím vyberte poskytovatele modů, kterého můžeme použít ke kontrole aktualizací tohoto modu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Nepodařilo se najít platnou verzi u vybraných poskytovatelů modů</translation>
     </message>
@@ -7226,7 +7226,7 @@ Aktualizujte prosím %1!</translation>
         <translation type="vanished">Tento mód (%1) nemá ještě stejná metadata. Musíme je nejprve vytvořit, abychom ponechali relevantní informace o tom, jak aktualizovat tento mód. Abyste tak učinili, vyberte poskytovatele módů, na kterém budeme moci vyhledat aktualizace módu %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="298"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="302"/>
         <source>Generating metadata...</source>
         <translation>Generování metadat...</translation>
     </message>
@@ -7235,27 +7235,27 @@ Aktualizujte prosím %1!</translation>
         <translation type="vanished">Nepodařilo se najít platnou verzi vybraných poskytovatelů módů</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
         <source>Provider: %1</source>
         <translation>Poskytovatel: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Old version: %1</source>
         <translation>Stará verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Not installed</source>
         <translation>Nenainstalováno</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="367"/>
         <source>New version: %1</source>
         <translation>Nová verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="370"/>
         <source>Changelog of the latest version</source>
         <translation>Seznam změn nejnovější verze</translation>
     </message>

@@ -7197,7 +7197,7 @@ Bitte aktualisiere %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="297"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
         <source>Abort</source>
         <translation>Abbrechen</translation>
     </message>
@@ -7223,12 +7223,12 @@ Bitte aktualisiere %1!</translation>
         <translation>Mögliche Lösung: Manuelles Abrufen der neuesten Version:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="250"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Die Mod &apos;%1&apos; hat noch keine Metadaten. Wir müssen diese erstellen, um relevante Informationen über die Aktualisierung der Mod zu erhalten. Wähle dazu bitte einen Mod-Anbieter aus, mit dem wir nach Updates für sie suchen können.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Konnte keine gültige Version auf dem/den ausgewählten Mod-Anbieter(n) finden</translation>
     </message>
@@ -7260,7 +7260,7 @@ Bitte aktualisiere %1!</translation>
         <translation type="vanished">Diese Mod (%1) hat noch keine Metadaten. Wir müssen diese erstellen, um relevante Informationen, wie bspw. diese Mod aktualisiert werden kann, zu pflegen. Wähle dazu bitte einen Mod-Anbieter aus, bei dem wir nach Updates für %1 suchen können.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="298"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="302"/>
         <source>Generating metadata...</source>
         <translation>Erzeuge Metadaten...</translation>
     </message>
@@ -7269,27 +7269,27 @@ Bitte aktualisiere %1!</translation>
         <translation type="vanished">Es wurde keine gültige Version bei dem/den ausgewählten Mod-Anbieter(n) gefunden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
         <source>Provider: %1</source>
         <translation>Anbieter: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Old version: %1</source>
         <translation>Alte Version: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Not installed</source>
         <translation>Nicht installiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="367"/>
         <source>New version: %1</source>
         <translation>Neue Version: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="370"/>
         <source>Changelog of the latest version</source>
         <translation>Changelog der neuesten Version</translation>
     </message>
