@@ -9328,7 +9328,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="77"/>
         <source>Unrecognized</source>
-        <translation>인식할 수 없는</translation>
+        <translation>인식 불가</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="103"/>
