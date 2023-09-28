@@ -8060,16 +8060,16 @@ Are you sure?</source>
         <translation>El test de Java s&apos;ha completat correctament!&lt;br /&gt;Plataforma reportada: %1&lt;br /&gt;Versió de Java reportada: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>Test de Java completat correctament</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>El test de Java ha fallat</translation>
     </message>

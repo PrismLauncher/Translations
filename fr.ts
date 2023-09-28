@@ -8577,16 +8577,16 @@ Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnell
         <translation>Vérification de Java réussie&#xa0;!&lt;br /&gt;Plateforme détectée&#xa0;: %1&lt;br /&gt;Version de Java détectée&#xa0;: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>Vérification de Java réussie</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Vérification de Java échouée</translation>
     </message>
