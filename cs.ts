@@ -4397,17 +4397,17 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Další nastavení</translation>
+        <translation>Různé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet souběžných úloh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet souběžných stahování</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
@@ -7209,7 +7209,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Kontrola závislostí...</translation>
+        <translation>Kontrola závislostí...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="299"/>
@@ -7280,12 +7280,12 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="421"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Vyžaduje: %1</translation>
+        <translation>Vyžaduje: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
         <source>Required by:</source>
-        <translation type="unfinished">Vyžaduje:</translation>
+        <translation>Vyžaduje:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="434"/>
