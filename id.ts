@@ -76,12 +76,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
         <source>Miscellaneous</source>
-        <translation>Lainnya</translation>
+        <translation>Lain-lain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>User Agent</source>
-        <translation>User Agent</translation>
+        <translation>Agen Pengguna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
@@ -3164,7 +3164,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Jika dinyalakan, peluncur tidak akan memeriksa jika sebuah instansi kompatibel dengan versi Java yang dipilih.</translation>
+        <translation>Jika aktif, launcher tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
@@ -3340,7 +3340,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="536"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nyalakan Feral Interactive&apos;s GameMode, untuk memungkinkan peningkatan performa permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktifkan Feral Interactive&apos;s GameMode, untuk secara potensial meningkatkan performa permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="539"/>
@@ -3600,7 +3600,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="209"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished">Deteksi otomatis...</translation>
+        <translation>&amp;Deteksi otomatis...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="222"/>
@@ -3626,7 +3626,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Jika dinyalakan, peluncur tidak akan memeriksa jika sebuah instansi kompatibel dengan versi Java yang dipilih.</translation>
+        <translation>Jika aktif, launcher tidak akan memeriksa kecocokan sebuah instansi dengan versi Java terpilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
@@ -4188,17 +4188,17 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Lain-lain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Jumlah tugas konkuren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Jumlah unduhan konkuren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
@@ -5408,7 +5408,7 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/MainWindow.ui" line="422"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">Lihat dunia dari instansi ini.</translation>
+        <translation>Hapus instansi terpilih.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -6043,7 +6043,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished">Pan&amp;jang Jendela:</translation>
+        <translation>&amp;Panjang Jendela:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
@@ -6096,12 +6096,12 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="266"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nyalakan Feral Interactive&apos;s GameMode, untuk memungkinkan peningkatan performa permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktifkan Feral Interactive&apos;s GameMode, untuk secara potensial meningkatkan performa permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="269"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Nyalakan Feral GameMode</translation>
+        <translation>Aktifkan Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="276"/>
