@@ -1386,7 +1386,7 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
@@ -1580,12 +1580,12 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Deskribo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Resumo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
@@ -1596,22 +1596,22 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Versio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Opcioj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Dosieroj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Marki malŝaltitajn dosierojn kiel opcionalajn</translation>
     </message>
     <message>
         <source>Version</source>
@@ -1629,17 +1629,17 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eksporti Modrinth Pakton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eksporti CurseForge Pakon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
         <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Aŭtoro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
@@ -1655,12 +1655,12 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tasko ĉesigita</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La tasko estis ĉesigita de la uzanto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="153"/>
@@ -1673,7 +1673,7 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eksportu Pakon al ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -1683,27 +1683,27 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klara teksto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
@@ -1713,50 +1713,50 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ŝablono</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Laŭvola Informo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aŭtoroj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rezulto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ĉi tio dependas de la metadatenoj de la mods. Por certigi, ke ĝi estas disponebla, rulu ĝisdatigon sur la petskribo. Instali la ĝisdatigojn ne estas necesa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopiu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
@@ -1769,17 +1769,17 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtrilo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="74"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Agoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Aldoni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
@@ -1789,42 +1789,42 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Forigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forigi elektitan eron</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ebligu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ebligu elektitan objekton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Malebligu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Malebligu elektitan objekton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vidi &amp;Agordojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Malfermu la dosierujon &apos;config&apos; en la sistema dosieradministranto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
@@ -1834,43 +1834,43 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Elŝutu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="146"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elŝutu novan rimedon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Kontrolu por Ĝisdatigoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provu kontroli aŭ ĝisdatigi ĉiujn elektitajn rimedojn (ĉiuj rimedoj se neniu estas elektita)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="165"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vizitu la paĝon de mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iru al mods-hejmpaĝo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="176"/>
         <source>Remove metadata</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forigi metadatenojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forigi la metadatenojn de mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -1889,7 +1889,10 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vi estas forigonta %1 erojn.
+Ĉi tio povas esti konstanta kaj ili estos for de la dosierujo.
+
+Ĉu vi certas?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
@@ -1897,22 +1900,25 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vi estas forigonta la dosierujon &quot;%1&quot;.
+Ĉi tio povas esti konstanta kaj ĝi estos for de la gepatra dosierujo.
+
+Ĉu vi certas?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="241"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konfirmu Forigon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="323"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (%1 instalita, %2 elektita)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (%1 instalita)</translation>
     </message>
 </context>
 <context>
@@ -1923,7 +1929,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Foliumi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -1935,7 +1941,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eksteraj Redaktoroj (lasu malplena por sistema defaŭlto)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
@@ -1951,7 +1957,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="102"/>
         <source>JProfiler Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JProfiler Dosierujo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -1968,7 +1974,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="120"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eraro dum kontrolado de JProfiler-instalado:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="122"/>
@@ -1980,61 +1987,63 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="122"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JProfiler-aranĝo ŝajnas esti bona</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JVisualVM Efektivigebla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="149"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eraro dum kontrolado de instalado de JVisualVM:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="151"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JVisualVM-aranĝo ŝajnas esti bona</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="161"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Apliko MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="163"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MCEdit Dosierujo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eraro dum kontrolado de MCEdit-instalado:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="184"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MCEdit-aranĝo ŝajnas esti bona</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="190"/>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JSON-redaktisto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nevalida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La elektita dosiero ne ŝajnas esti rulebla</translation>
     </message>
 </context>
 <context>
@@ -2042,7 +2051,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne eblis eltiri indiĝenan kruĉon &apos;%1&apos; al celo &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -2050,12 +2059,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrolante FML-bibliotekojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elŝutante FML-bibliotekojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -2065,17 +2074,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopiante FML-bibliotekojn en la petskribon...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Malsukcesis krei FML-bibliotekan dosierujon ene de la petskribo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Malsukcesa kopiado de Forge/FML-biblioteko: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="114"/>
@@ -2084,7 +2093,11 @@ Are you sure?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Malsukcesis elŝuti la sekvajn dosierojn:
+%1
+
+Kialo:%2
+Bonvolu reprovi.</translation>
     </message>
 </context>
 <context>
@@ -2092,12 +2105,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordigi laŭ Nomo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordigi laŭ Luda Versio</translation>
     </message>
 </context>
 <context>
@@ -2105,7 +2118,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Importo de FTB App</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
@@ -2124,7 +2137,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="81"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="97"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2132,12 +2145,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopiante dosierojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopiante agordojn...</translation>
     </message>
 </context>
 <context>
@@ -2145,12 +2158,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="31"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Solvante mod-IDojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nevalidaj datumoj resenditaj de la API.</translation>
     </message>
 </context>
 <context>
@@ -2158,34 +2171,34 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preparante modojn por CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Malŝaltitaj modoj ne estos ĝisdatigitaj, por malhelpi problemojn pri modifkopiado!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="131"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ricevante API-respondon de CurseForge por &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Analizante la API-respondon de CurseForge por &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="145"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neniu valida versio trovita por ĉi tiu modo. Ĝi verŝajne ne disponeblas por la nuna ludversio / modŝargilo.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="153"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mod havas novan ĝisdatigon havebla, sed ne estas elŝutebla per CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -2201,17 +2214,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="114"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (versio %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neniu indeksa dosiero.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ni ne povis trovi taŭgan indeksan dosieron por la malnova versio. Ĉi tio povas kaŭzi kelkajn el la dosieroj esti duobligitaj. Ĉu vi volas daŭrigi?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
@@ -2232,33 +2245,35 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne eblis renomi la anstataŭigajn dosierujon:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="343"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La specifita anstataŭiga dosierujo (%1) mankas. Eble la modpack jam estis uzata antaŭe?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="370"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nekonata modŝargilo en manifesto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="384"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Misteraj postpunktoj forigitaj de Minecraft-versio dum importado de pakaĵo.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="435"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne eblas solvi mod-IDojn:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="488"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Blokitaj modoj trovitaj</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="489"/>
