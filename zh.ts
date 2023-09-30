@@ -1085,17 +1085,17 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>在检测依赖过程中检测到了冲突的依赖项！</translation>
+        <translation>检测到了冲突的前置！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>实例包含冲突的依赖项。</translation>
+        <translation>实例包含冲突的前置。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="455"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>实例在加载/检查启动时发现了未解析的依赖项。</translation>
+        <translation>实例在加载/检查启动时发现了未解决的前置。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
@@ -1564,7 +1564,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="401"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="468"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在处理 CurseForge 对“%1”的 API 响应……</translation>
+        <translation>正在解析 CurseForge 对“%1”的 API 响应……</translation>
     </message>
 </context>
 <context>
@@ -2110,12 +2110,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="151"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVM配置正确</translation>
+        <translation>JVisualVM 配置正确</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="161"/>
         <source>MCEdit Application</source>
-        <translation>MCEdit应用程序</translation>
+        <translation>MCEdit 应用程序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="163"/>
@@ -2156,7 +2156,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>无法解压原 Jar 文件 &quot;%1&quot; 到目标位置 &apos;%2&apos;</translation>
+        <translation>无法解压原 Jar 文件 “%1” 到目标位置 “%2”</translation>
     </message>
 </context>
 <context>
@@ -2285,29 +2285,29 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>为避免出现模组问题，被停用的模组将不会被更新！</translation>
+        <translation>为避免模组重复的问题，被停用的模组将不会被更新！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="131"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>正从 CurseForge 获取“%1”的 API 响应……</translation>
+        <translation>正在获取 CurseForge 对“%1”的 API 响应……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在分析“ %1 ”的 CurseForge API 返回数据……</translation>
+        <translation>正在解析 CurseForge 对“%1”的 API 响应……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="145"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未找到该模组的有效版本。可能在目前的游戏版本或模组加载器中还没有可用版本。</translation>
+        <translation>未找到该模组的有效版本。可能由于模组没有适配此游戏版本或模组加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="153"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>模组有可用的更新，但无法使用 CurseForge 进行下载。</translation>
+        <translation>模组有可用的更新，但在 CurseForge 上禁止了第三方启动器的下载。</translation>
     </message>
 </context>
 <context>
@@ -2404,13 +2404,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="435"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>无法解析模组ID：
+        <translation>无法解析模组 ID：
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="488"/>
         <source>Blocked mods found</source>
-        <translation>发现了被屏蔽的模组</translation>
+        <translation>找到被屏蔽的模组</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="489"/>
@@ -2547,7 +2547,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在处理 CurseForge 对“%1”的 API 响应……</translation>
+        <translation>正在解析 CurseForge 对“%1”的 API 响应……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
@@ -2774,7 +2774,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation>获取依赖项</translation>
+        <translation>获取前置</translation>
     </message>
 </context>
 <context>
@@ -4414,17 +4414,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">杂项</translation>
+        <translation>杂项</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>并发任务数</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>并发下载数</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
@@ -7233,7 +7233,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">正在检查依赖项……</translation>
+        <translation>正在检查前置……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="299"/>
@@ -7304,12 +7304,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="421"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">被 %1 依赖</translation>
+        <translation>%1 的前置</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
         <source>Required by:</source>
-        <translation type="unfinished">被依赖：</translation>
+        <translation>后置：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="434"/>
@@ -7433,7 +7433,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>为避免出现模组问题，被停用的模组将不会被更新！</translation>
+        <translation>为避免模组重复的问题，被停用的模组将不会被更新！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
@@ -7443,7 +7443,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="104"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未获取到该模组的可用版本。可能还没有适用于目前游戏版本和模组加载器的版本。</translation>
+        <translation>未找到该模组的有效版本。可能由于模组没有适配此游戏版本或模组加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
@@ -9192,7 +9192,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
         <source>Checking for dependencies...</source>
-        <translation>正在检查依赖项……</translation>
+        <translation>正在检查前置……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -9649,12 +9649,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Required by: %1</source>
-        <translation>被 %1 依赖</translation>
+        <translation>%1 的前置</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Required by:</source>
-        <translation>被依赖：</translation>
+        <translation>后置：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
