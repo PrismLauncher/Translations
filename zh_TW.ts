@@ -289,7 +289,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>產生編譯日期：</translation>
+        <translation>建構日期：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -339,7 +339,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="164"/>
         <source>Build date: %1</source>
-        <translation>產生編譯日期：%1</translation>
+        <translation>建構日期：%1</translation>
     </message>
     <message>
         <source>Build Number</source>
