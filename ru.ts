@@ -2219,7 +2219,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation>Упорядочить по Версии игры</translation>
+        <translation>Упорядочить по версии игры</translation>
     </message>
 </context>
 <context>
