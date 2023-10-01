@@ -433,22 +433,24 @@
         <translation>Unbekannt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="325"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
+        <source>Type of the account (MSA or Offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation>N/V</translation>
+        <translation type="vanished">N/V</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="328"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation>Ja</translation>
+        <translation type="vanished">Ja</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="330"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation>Nein</translation>
+        <translation type="vanished">Nein</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -466,32 +468,31 @@
         <translation type="vanished">Nein</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="362"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
         <source>Username</source>
         <translation>Benutzername</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="364"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="353"/>
         <source>Account</source>
         <translation>Konto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="366"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
         <source>Type</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="368"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="370"/>
         <source>Can Migrate?</source>
-        <translation>Migration verfügbar?</translation>
+        <translation type="vanished">Migration verfügbar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="365"/>
         <source>Minecraft username associated with the account.</source>
         <translation>Minecraft-Nutzername des Accounts.</translation>
     </message>
@@ -500,90 +501,87 @@
         <translation type="vanished">Profil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="367"/>
         <source>User name of the account.</source>
         <translation>Benutzername des Kontos.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>Typ des Kontos - Mojang oder MSA.</translation>
+        <translation type="vanished">Typ des Kontos - Mojang oder MSA.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>Current status of the account.</source>
         <translation>Aktueller Status des Kontos.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation>Kan dieser Account zum Microsoft-Konto migrieren?</translation>
+        <translation type="vanished">Kan dieser Account zum Microsoft-Konto migrieren?</translation>
     </message>
 </context>
 <context>
     <name>AccountListPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation>&amp;Mojang-Konto hinzufügen</translation>
+        <translation type="vanished">&amp;Mojang-Konto hinzufügen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="67"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
         <translation>Ent&amp;fernen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="72"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
         <translation>Als &amp;Standard setzen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="80"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
         <translation>Kei&amp;n Standard</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="85"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
         <translation>Skin hochla&amp;den</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="90"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
         <translation>Skin l&amp;öschen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="93"/>
         <source>Delete the currently active skin and go back to the default one</source>
         <translation>Aktiven Skin löschen und zum Standard-Skin wechseln</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
         <translation>Microsoft-Konto &amp;hinzufügen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="103"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
         <translation>&amp;Offline-Konto hinzufügen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
         <translation>Aktualisie&amp;ren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="111"/>
         <source>Refresh the account tokens</source>
         <translation>Konto-Token aktualisieren</translation>
     </message>
@@ -593,29 +591,38 @@
         <translation>Konten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation>Willkommen!
+        <translation type="vanished">Willkommen!
 Wenn du hier neu sein solltest, kannst du die &quot;Hinzufügen&quot;-Schaltfläche drücken um dein Mojang- oder Minecraft-Konto hinzuzufügen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <source>Welcome!
+If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Keine Client-ID für die Microsoft Authentifizierung festgelegt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
         <source>Context menu</source>
         <translation>Kontextmenü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Bitte gebe die E-Mail und das Passwort deines Mojang-Kontos ein, um dich anzumelden.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -639,27 +646,26 @@ Please update both your operating system and PolyMC.</source>
 Bitte aktualisiere macOS und PolyMC.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="172"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Du musst ein Microsoft- oder Mojang-Konto hinzufügen, welches Minecraft bereits besitzt, bevor du ein Offline-Konto hinzufügen kannst.&lt;br&gt;&lt;br&gt;Falls du Zugang zu deinem Konto verloren hast, kontaktiere Microsoft für Hilfe.</translation>
+        <translation type="vanished">Du musst ein Microsoft- oder Mojang-Konto hinzufügen, welches Minecraft bereits besitzt, bevor du ein Offline-Konto hinzufügen kannst.&lt;br&gt;&lt;br&gt;Falls du Zugang zu deinem Konto verloren hast, kontaktiere Microsoft für Hilfe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Bitte gib deinen gewünschten Benutzernamen ein, um dein Offline-Konto hinzuzufügen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
         <source>Skin Delete</source>
         <translation>Skin löschen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
         <source>Failed to delete current skin!</source>
         <translation>Löschen des Skins fehlgeschlagen!</translation>
     </message>
@@ -2677,33 +2683,33 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>Nach Gesamt-Downloads sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="190"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="207"/>
         <source>No version is available!</source>
         <translation>Keine Version vorhanden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="274"/>
         <source> by </source>
         <translation> von </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="279"/>
         <source>External links:</source>
         <translation>Externe Links:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="283"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="285"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Quellcode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -4011,9 +4017,9 @@ Wähle bitte eine der folgenden aus oder wähle eine ausführbare Java-Datei.</t
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>Um Minecraft spielen zu können, musst du mindestens ein Microsoft- oder Mojang-Konto hinterlegen. Dabei können Mojang-Konten nur Offline genutzt werden. Möchtest du die Kontoverwaltung öffnen, um ein Konto hinzuzufügen?</translation>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
+        <translation type="unfinished">Um Minecraft spielen zu können, musst du mindestens ein Microsoft- oder Mojang-Konto hinterlegen. Dabei können Mojang-Konten nur Offline genutzt werden. Möchtest du die Kontoverwaltung öffnen, um ein Konto hinzuzufügen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -5026,19 +5032,16 @@ Grund:
 <context>
     <name>LoginDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation>Konto hinzufügen</translation>
+        <translation type="vanished">Konto hinzufügen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="39"/>
         <source>Email</source>
-        <translation>E-Mail</translation>
+        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
-        <translation>Passwort</translation>
+        <translation type="vanished">Passwort</translation>
     </message>
 </context>
 <context>
@@ -5907,10 +5910,10 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="874"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Microsoft or Mojang account.</source>
+Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</oldsource>
-        <translation>Minecraft kann nicht heruntergeladen oder aktualisiert werden, solange kein Konto hinzugefügt wurde.
+Please add your Microsoft or Mojang account.</oldsource>
+        <translation type="unfinished">Minecraft kann nicht heruntergeladen oder aktualisiert werden, solange kein Konto hinzugefügt wurde.
 Bitte füge ein Mojang- oder Minecraft-Konto hinzu.</translation>
     </message>
     <message>
@@ -6298,23 +6301,20 @@ Bist du dir sicher?</translation>
 <context>
     <name>MigrationEligibilityStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="14"/>
         <source>Checking for migration eligibility.</source>
-        <translation>Prüfe auf Migrations-Verfügbarkeit.</translation>
+        <translation type="vanished">Prüfe auf Migrations-Verfügbarkeit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="44"/>
         <source>Got migration flags</source>
-        <translation>Migrationsmerkmale erhalten</translation>
+        <translation type="vanished">Migrationsmerkmale erhalten</translation>
     </message>
 </context>
 <context>
     <name>MinecraftAccount</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="148"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="141"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="193"/>
         <source>Aborted</source>
         <translation>Abgebrochen</translation>
     </message>
@@ -6367,27 +6367,26 @@ Bist du dir sicher?</translation>
         <translation>&amp;lt;ZUGANGS-TOKEN&amp;gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="860"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
-        <translation>&amp;lt;CLIENT-TOKEN&amp;gt;</translation>
+        <translation type="vanished">&amp;lt;CLIENT-TOKEN&amp;gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="862"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="859"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&amp;lt;PROFIL-ID&amp;gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="925"/>
         <source>broken</source>
         <translation>kaputt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="939"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="936"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="944"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="941"/>
         <source>, last played on %1 for %2</source>
         <translation>, zuletzt gespielt am %1 Spielzeit: %2</translation>
     </message>
@@ -6400,12 +6399,12 @@ Bist du dir sicher?</translation>
         <translation type="vanished">, Zuletzt gespielt für %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="951"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="948"/>
         <source>, total played for %1</source>
         <translation>, gesamte Spielzeit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="956"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="953"/>
         <source>, has crashed.</source>
         <translation>, ist abgestürzt.</translation>
     </message>
@@ -6608,13 +6607,13 @@ Bist du dir sicher?</translation>
         <translation>Minecraft Profil wird geladen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="45"/>
         <source>Account has no Minecraft profile.</source>
         <translation>Konto hat kein Minecraft-Profil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="63"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="62"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>Minecraft Java-Profilerfassung fehlgeschlagen: %1</translation>
     </message>
@@ -6623,12 +6622,12 @@ Bist du dir sicher?</translation>
         <translation type="vanished">Laden des Minecraft Java-Profils ist fehlgeschlagen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="72"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="68"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Minecraft Java-Profil-Antwort konnte nicht verarbeitet werden</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="81"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="72"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation>Laden des Minecraft Java-Profils war erfolgreich.</translation>
     </message>
@@ -6636,39 +6635,32 @@ Bist du dir sicher?</translation>
 <context>
     <name>MinecraftProfileStepMojang</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="16"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation>Minecraft Profil wird geladen.</translation>
+        <translation type="vanished">Minecraft Profil wird geladen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="22"/>
         <source>A UUID is required to get the profile.</source>
-        <translation>Zum Abrufen des Profils ist eine UUID erforderlich.</translation>
+        <translation type="vanished">Zum Abrufen des Profils ist eine UUID erforderlich.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="54"/>
         <source>Account has no Minecraft profile.</source>
-        <translation>Konto hat kein Minecraft-Profil.</translation>
+        <translation type="vanished">Konto hat kein Minecraft-Profil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="68"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="71"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>Minecraft Java Profilerfassung fehlgeschlagen: %1</translation>
+        <translation type="vanished">Minecraft Java Profilerfassung fehlgeschlagen: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
         <translation type="vanished">Laden des Minecraft Java-Profils ist fehlgeschlagen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="77"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>Minecraft Java-Profil-Antwort konnte nicht verarbeitet werden</translation>
+        <translation type="vanished">Minecraft Java-Profil-Antwort konnte nicht verarbeitet werden</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="86"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Laden des Minecraft Java-Profils war erfolgreich.</translation>
+        <translation type="vanished">Laden des Minecraft Java-Profils war erfolgreich.</translation>
     </message>
 </context>
 <context>
@@ -7215,7 +7207,7 @@ Bitte aktualisiere %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="352"/>
         <source>Abort</source>
         <translation>Abbrechen</translation>
     </message>
@@ -7246,12 +7238,12 @@ Bitte aktualisiere %1!</translation>
         <translation type="unfinished">Überprüfen von möglichen Abhängigkeiten...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="299"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Die Mod &apos;%1&apos; hat noch keine Metadaten. Wir müssen diese erstellen, um relevante Informationen über die Aktualisierung der Mod zu erhalten. Wähle dazu bitte einen Mod-Anbieter aus, mit dem wir nach Updates für sie suchen können.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="396"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="398"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Konnte keine gültige Version auf dem/den ausgewählten Mod-Anbieter(n) finden</translation>
     </message>
@@ -7274,7 +7266,7 @@ Bitte aktualisiere %1!</translation>
         <translation>Die folgenden Mods konnten nicht auf Updates überprüft oder abgerufen werden:&lt;br&gt;Möchtest du ohne diese Mods fortfahren?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="256"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="258"/>
         <source>Looking for metadata</source>
         <translation>Suche nach Metadaten</translation>
     </message>
@@ -7283,7 +7275,7 @@ Bitte aktualisiere %1!</translation>
         <translation type="vanished">Diese Mod (%1) hat noch keine Metadaten. Wir müssen diese erstellen, um relevante Informationen, wie bspw. diese Mod aktualisiert werden kann, zu pflegen. Wähle dazu bitte einen Mod-Anbieter aus, bei dem wir nach Updates für %1 suchen können.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
         <source>Generating metadata...</source>
         <translation>Erzeuge Metadaten...</translation>
     </message>
@@ -7292,37 +7284,42 @@ Bitte aktualisiere %1!</translation>
         <translation type="vanished">Es wurde keine gültige Version bei dem/den ausgewählten Mod-Anbieter(n) gefunden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="410"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="412"/>
         <source>Provider: %1</source>
         <translation>Anbieter: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="415"/>
         <source>Old version: %1</source>
         <translation>Alte Version: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="415"/>
         <source>Not installed</source>
         <translation>Nicht installiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="416"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="418"/>
         <source>New version: %1</source>
         <translation>Neue Version: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="421"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
+        <source>New Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Required by: %1</source>
         <translation type="unfinished">Erforderlich für: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Required by:</source>
         <translation type="unfinished">Erforderlich für:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="441"/>
         <source>Changelog of the latest version</source>
         <translation>Changelog der neuesten Version</translation>
     </message>
@@ -7727,37 +7724,37 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>Nach Anzahl Downloads sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="262"/>
         <source> by </source>
         <translation> von </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="266"/>
         <source>Donate information: </source>
         <translation>Informationen zu Spenden: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="279"/>
         <source>External links:</source>
         <translation>Externe Links:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="283"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="285"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="287"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Quellcode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="289"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -8761,12 +8758,12 @@ Bist Du Dir sicher?</translation>
         <translation type="vanished">Kann die Versionsdatei %1 nicht verarbeiten.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="476"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="360"/>
         <source>No profile (%1)</source>
         <translation>Kein Profil (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="489"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="370"/>
         <source>&lt;Offline&gt;</source>
         <translation>&lt;Offline&gt;</translation>
     </message>
@@ -9100,44 +9097,44 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>unbekannt</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="212"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <source>Sort by Featured</source>
         <translation>Nach Vorgestellt sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="213"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
         <translation>Nach Beliebtheit sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Last Updated</source>
         <translation>Nach zuletzt aktualisiert sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Name</source>
         <translation>Nach Name sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <source>Sort by Author</source>
         <translation>Nach Autor sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
         <source>Sort by Downloads</source>
         <translation>Nach Downloads sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Category</source>
         <translation>Nach Kategorie sortiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
         <translation>Nach Spielversion sortiert</translation>
     </message>
@@ -9191,12 +9188,12 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
         <source>No valid version found!</source>
         <translation>Keine gültige Version gefunden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>Cannot select invalid version :(</source>
         <translation>Ungültige Version kann nicht ausgewählt werden :(</translation>
     </message>
@@ -9361,17 +9358,17 @@ Bitte aktualisiere %1!</translation>
         <translation>Abwählen von %1 zum Herunterladen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
         <source>No valid version found.</source>
         <translation>Keine gültige Version gefunden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="274"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="277"/>
         <source>Cannot select invalid version :(</source>
         <translation>Ungültige Version kann nicht ausgewählt werden :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>Loading versions...</source>
         <translation>Lade Versionen...</translation>
     </message>
@@ -9706,17 +9703,22 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
         <translation>Erforderlich für:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
+        <source>Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
         <source>Confirm %1 selection</source>
         <translation>%1-Auswahl bestätigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="108"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>Du bist dabei, die folgenden %1 herunterzuladen:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>Nur %1 welche angehakt sind, werden heruntergeladen!</translation>
     </message>
@@ -11164,10 +11166,10 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="413"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Microsoft or Mojang account.</source>
+Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</oldsource>
-        <translation>Du kannst Minecraft nicht herunterladen oder Instanzen aktualisieren, wenn Sie nicht mindestens ein Konto hinzugefügt haben.
+Please add your Microsoft or Mojang account.</oldsource>
+        <translation type="unfinished">Du kannst Minecraft nicht herunterladen oder Instanzen aktualisieren, wenn Sie nicht mindestens ein Konto hinzugefügt haben.
 Bitte fügen Sie Ihr Microsoft- oder Mojang-Konto hinzu.</translation>
     </message>
     <message>
@@ -11784,92 +11786,75 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
 <context>
     <name>Yggdrasil</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="193"/>
         <source>Authentication server didn&apos;t send a client token.</source>
-        <translation>Authentifizierungsserver hat keinen Client-Token gesendet.</translation>
+        <translation type="vanished">Authentifizierungsserver hat keinen Client-Token gesendet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="200"/>
         <source>Authentication server attempted to change the client token. This isn&apos;t supported.</source>
-        <translation>Authentifizierungsserver hat versucht, den Client-Token zu ändern. Dies wird nicht unterstützt.</translation>
+        <translation type="vanished">Authentifizierungsserver hat versucht, den Client-Token zu ändern. Dies wird nicht unterstützt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="209"/>
         <source>Authentication server didn&apos;t send an access token.</source>
-        <translation>Authentifizierungsserver hat keinen Zugriffs-Token gesendet.</translation>
+        <translation type="vanished">Authentifizierungsserver hat keinen Zugriffs-Token gesendet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="220"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation>Der Authentifizierungsserver hat kein ausgewähltes Profil gesendet.</translation>
+        <translation type="vanished">Der Authentifizierungsserver hat kein ausgewähltes Profil gesendet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="234"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation>Der Authentifizierungsserver hat keine UUID im ausgewählten Profil gesendet.</translation>
+        <translation type="vanished">Der Authentifizierungsserver hat keine UUID im ausgewählten Profil gesendet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="252"/>
         <source>Authentication operation timed out.</source>
-        <translation>Zeitüberschreitung beim Authentifizierungsvorgang.</translation>
+        <translation type="vanished">Zeitüberschreitung beim Authentifizierungsvorgang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="255"/>
         <source>Authentication operation cancelled.</source>
-        <translation>Authentifizierungsvorgang abgebrochen.</translation>
+        <translation type="vanished">Authentifizierungsvorgang abgebrochen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="259"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt;SSL-Handshake fehlgeschlagen.&lt;/b&gt;&lt;br/&gt;Es kann mehrere Erklärungen geben:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Du benutzt Windows und musst Deine Stammzertifikate aktualisieren. Bitte installiere alle ausstehenden Updates.&lt;/li&gt;&lt;li&gt;Ein Gerät in Deinem Netzwerk mischt sich in den SSL-Verkehr ein. In diesem Fall hast du größere Probleme, als dass Minecraft nicht gestartet werden kann.&lt;/li&gt;&lt;li&gt;Möglicherweise etwas anderes. Prüfe die Log-Datei für Details&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation type="vanished">&lt;b&gt;SSL-Handshake fehlgeschlagen.&lt;/b&gt;&lt;br/&gt;Es kann mehrere Erklärungen geben:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Du benutzt Windows und musst Deine Stammzertifikate aktualisieren. Bitte installiere alle ausstehenden Updates.&lt;/li&gt;&lt;li&gt;Ein Gerät in Deinem Netzwerk mischt sich in den SSL-Verkehr ein. In diesem Fall hast du größere Probleme, als dass Minecraft nicht gestartet werden kann.&lt;/li&gt;&lt;li&gt;Möglicherweise etwas anderes. Prüfe die Log-Datei für Details&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="273"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation>Das Mojang-Konto ist nicht verfügbar. Es wurde möglicherweise zu einem Microsoft-Konto migriert.</translation>
+        <translation type="vanished">Das Mojang-Konto ist nicht verfügbar. Es wurde möglicherweise zu einem Microsoft-Konto migriert.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="277"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
-        <translation>Authentifizierung wegen eines Netzwerkfehlers fehlgeschlagen: %1 (%2)</translation>
+        <translation type="vanished">Authentifizierung wegen eines Netzwerkfehlers fehlgeschlagen: %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="301"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation>Fehler beim Einlesen der Antwort des Authentifizierungs-Servers. JSON-Antwort: %1 bei %2.</translation>
+        <translation type="vanished">Fehler beim Einlesen der Antwort des Authentifizierungs-Servers. JSON-Antwort: %1 bei %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="325"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation>Ein unbekannter Fehler ist bei der Kommunikation mit dem Authentifizierungs-Server aufgetreten: %1</translation>
+        <translation type="vanished">Ein unbekannter Fehler ist bei der Kommunikation mit dem Authentifizierungs-Server aufgetreten: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="340"/>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation>Ein unbekannter Yggdrasil-Fehler ist aufgetreten.</translation>
+        <translation type="vanished">Ein unbekannter Yggdrasil-Fehler ist aufgetreten.</translation>
     </message>
 </context>
 <context>
     <name>YggdrasilStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="20"/>
         <source>Logging in with Mojang account.</source>
-        <translation>Mit Mojang-Konto anmelden.</translation>
+        <translation type="vanished">Mit Mojang-Konto anmelden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="39"/>
         <source>Logged in with Mojang</source>
-        <translation>Angemeldet mit Mojang</translation>
+        <translation type="vanished">Angemeldet mit Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication failed.</source>
-        <translation>Mojang-Benutzerauthentifizierung fehlgeschlagen.</translation>
+        <translation type="vanished">Mojang-Benutzerauthentifizierung fehlgeschlagen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="54"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation>Die Mojang-Benutzerauthentifizierung endete mit einem Netzwerkfehler.</translation>
+        <translation type="vanished">Die Mojang-Benutzerauthentifizierung endete mit einem Netzwerkfehler.</translation>
     </message>
 </context>
 </TS>

@@ -417,22 +417,24 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="325"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
+        <source>Type of the account (MSA or Offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Không Rõ</translation>
+        <translation type="obsolete">Không Rõ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="328"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Có</translation>
+        <translation type="obsolete">Có</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="330"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Không</translation>
+        <translation type="obsolete">Không</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -450,32 +452,31 @@
         <translation type="vanished">Không</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="362"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
         <source>Username</source>
         <translation>Tên người dùng</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="364"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="353"/>
         <source>Account</source>
         <translation>Tài khoản</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="366"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
         <source>Type</source>
         <translation>Loại</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="368"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Status</source>
         <translation>Trạng thái</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="370"/>
         <source>Can Migrate?</source>
-        <translation>Có thể chuyển đổi?</translation>
+        <translation type="vanished">Có thể chuyển đổi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="365"/>
         <source>Minecraft username associated with the account.</source>
         <translation>Tên người dùng Minecraft được liên kết với tài khoản.</translation>
     </message>
@@ -484,90 +485,87 @@
         <translation type="vanished">Hồ sơ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="367"/>
         <source>User name of the account.</source>
         <translation>Tên người dùng của tài khoản.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>Loại tài khoản - Mojang hoặc Microsoft.</translation>
+        <translation type="vanished">Loại tài khoản - Mojang hoặc Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>Current status of the account.</source>
         <translation>Tình trạng hiện tại của tài khoản.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation>Có thể chuyển đổi tài khoản này thành tài khoản Microsoft không?</translation>
+        <translation type="vanished">Có thể chuyển đổi tài khoản này thành tài khoản Microsoft không?</translation>
     </message>
 </context>
 <context>
     <name>AccountListPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation>Thêm tài khoản &amp;Mojang</translation>
+        <translation type="vanished">Thêm tài khoản &amp;Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="67"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
         <translation>Loại &amp;bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="72"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
         <translation>&amp;Đặt làm mặc định</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="80"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
         <translation>&amp;Không có mặc định</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="85"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
         <translation>&amp;Tải lên skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="90"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
         <translation>&amp;Xoá skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="93"/>
         <source>Delete the currently active skin and go back to the default one</source>
         <translation>Xoá skin hiện tại và chuyển về skin mặc định</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
         <translation>&amp;Thêm tài khoản Microsoft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="103"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
         <translation>Thêm tài khoản &amp;Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
         <translation>&amp;Làm mới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="111"/>
         <source>Refresh the account tokens</source>
         <translation>Làm mới token tài khoản</translation>
     </message>
@@ -577,29 +575,38 @@
         <translation>Tài khoản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">Chào mừng!
+        <translation type="obsolete">Chào mừng!
 Nếu bạn là người mới, chọn nút &quot;Thêm&quot; để cho tài khoản Mojang hoặc Minecraft của bạn vào.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <source>Welcome!
+If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Không có một ID người dùng nào cho xác thực qua Microsoft được đặt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
         <source>Context menu</source>
         <translation>Menu ngữ cảnh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Vui lòng nhập email và mật khẩu tài khoản Mojang của bạn để thêm tài khoản của bạn.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -615,27 +622,26 @@ Please update both your operating system and %1.</source>
 Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="172"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Bạn phải thêm một tài khoản Microsoft hoặc Mojang có sở hữu Minecraft trước khi bạn có thể thêm một tài khoản offline.&lt;br&gt;&lt;br&gt;Nếu bạn đã mất tài khoản của mình thì bạn có thể liên hệ với Microsoft để được hỗ trợ.</translation>
+        <translation type="vanished">Bạn phải thêm một tài khoản Microsoft hoặc Mojang có sở hữu Minecraft trước khi bạn có thể thêm một tài khoản offline.&lt;br&gt;&lt;br&gt;Nếu bạn đã mất tài khoản của mình thì bạn có thể liên hệ với Microsoft để được hỗ trợ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Nhập tên tài khoản mà bạn mong muốn để thêm tài khoản offline của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
         <source>Skin Delete</source>
         <translation>Xóa skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
         <source>Failed to delete current skin!</source>
         <translation>Xoá skin hiện tại thất bại!</translation>
     </message>
@@ -2561,33 +2567,33 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Sắp xếp theo tổng lượt tải</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="190"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="207"/>
         <source>No version is available!</source>
         <translation>Không có phiên bản nào!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="274"/>
         <source> by </source>
         <translation> bởi </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="279"/>
         <source>External links:</source>
         <translation>Liên kết ngoài:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="283"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Vấn đề: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="285"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Mã nguồn: &lt;a href=%1&gt;% 1 &lt;/a&gt;</translation>
     </message>
@@ -3861,8 +3867,8 @@ Hãy chọn một trong những tuỳ chọn sau để tìm tệp Java.</transla
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">Để chơi Minecraft, bạn phải có ít nhất một tài khoản Minecraft hoặc Mojang để đăng nhập vào PolyMC. Bạn có muốn mở phần quản lý tài khoản để thêm tài khoản bây giờ chứ?</translation>
     </message>
     <message>
@@ -4836,19 +4842,16 @@ Lý do:
 <context>
     <name>LoginDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation>Thêm tài khoản</translation>
+        <translation type="vanished">Thêm tài khoản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="39"/>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation type="vanished">Email</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
-        <translation>Mật khẩu</translation>
+        <translation type="vanished">Mật khẩu</translation>
     </message>
 </context>
 <context>
@@ -5636,9 +5639,9 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="874"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Microsoft or Mojang account.</source>
+Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</oldsource>
+Please add your Microsoft or Mojang account.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5964,23 +5967,20 @@ Do you wish to proceed?</source>
 <context>
     <name>MigrationEligibilityStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="14"/>
         <source>Checking for migration eligibility.</source>
-        <translation>Kiểm tra tính đủ điều kiện di chuyển.</translation>
+        <translation type="vanished">Kiểm tra tính đủ điều kiện di chuyển.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="44"/>
         <source>Got migration flags</source>
-        <translation>Có cờ di chuyển</translation>
+        <translation type="vanished">Có cờ di chuyển</translation>
     </message>
 </context>
 <context>
     <name>MinecraftAccount</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="148"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="141"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="193"/>
         <source>Aborted</source>
         <translation type="unfinished">Bị gián đoạn</translation>
     </message>
@@ -6033,27 +6033,26 @@ Do you wish to proceed?</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="860"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
-        <translation>&lt;CLIENT TOKEN&gt;</translation>
+        <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="862"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="859"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="925"/>
         <source>broken</source>
         <translation>hỏng</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="939"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="936"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="944"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="941"/>
         <source>, last played on %1 for %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6066,12 +6065,12 @@ Do you wish to proceed?</source>
         <translation type="vanished">, đã chơi trong vòng %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="951"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="948"/>
         <source>, total played for %1</source>
         <translation>, tổng cộng thời gian chơi là %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="956"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="953"/>
         <source>, has crashed.</source>
         <translation>, đã hỏng.</translation>
     </message>
@@ -6274,13 +6273,13 @@ Do you wish to proceed?</source>
         <translation>Đang tìm nạp hồ sơ Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="45"/>
         <source>Account has no Minecraft profile.</source>
         <translation>Tài khoản không có hồ sơ Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="63"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="62"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6289,12 +6288,12 @@ Do you wish to proceed?</source>
         <translation type="vanished">Thu thập hồ sơ Minecraft Java không thành công.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="72"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="68"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Không thể phân tích cú pháp phản hồi hồ sơ Minecraft Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="81"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="72"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation>Thu thập hồ sơ Minecraft Java thành công.</translation>
     </message>
@@ -6302,39 +6301,24 @@ Do you wish to proceed?</source>
 <context>
     <name>MinecraftProfileStepMojang</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="16"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished">Đang tìm nạp hồ sơ Minecraft.</translation>
+        <translation type="obsolete">Đang tìm nạp hồ sơ Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="22"/>
-        <source>A UUID is required to get the profile.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="54"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished">Tài khoản không có hồ sơ Minecraft.</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="68"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="71"/>
-        <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Tài khoản không có hồ sơ Minecraft.</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
         <translation type="obsolete">Thu thập hồ sơ Minecraft Java không thành công.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="77"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished">Không thể phân tích cú pháp phản hồi hồ sơ Minecraft Java</translation>
+        <translation type="obsolete">Không thể phân tích cú pháp phản hồi hồ sơ Minecraft Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="86"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished">Thu thập hồ sơ Minecraft Java thành công.</translation>
+        <translation type="obsolete">Thu thập hồ sơ Minecraft Java thành công.</translation>
     </message>
 </context>
 <context>
@@ -6790,7 +6774,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="352"/>
         <source>Abort</source>
         <translation type="unfinished">Hủy bỏ</translation>
     </message>
@@ -6821,12 +6805,12 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="299"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="396"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="398"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6841,47 +6825,52 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="256"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="258"/>
         <source>Looking for metadata</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
         <source>Generating metadata...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="410"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="412"/>
         <source>Provider: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="415"/>
         <source>Old version: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="415"/>
         <source>Not installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="416"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="418"/>
         <source>New version: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="421"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
+        <source>New Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Required by: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Required by:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="441"/>
         <source>Changelog of the latest version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7200,32 +7189,32 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation type="unfinished">Sắp xếp theo cập nhật lần cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="266"/>
         <source>Donate information: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="279"/>
         <source>External links:</source>
         <translation type="unfinished">Liên kết ngoài:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="283"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Vấn đề: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="285"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="287"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Mã nguồn: &lt;a href=%1&gt;% 1 &lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="289"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7241,7 +7230,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation type="unfinished">Sắp xếp theo lượt tải xuống</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="262"/>
         <source> by </source>
         <translation type="unfinished"> bởi </translation>
     </message>
@@ -8164,12 +8153,12 @@ Are you sure?</source>
         <translation type="vanished">Không thể xử lý tệp phiên bản %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="476"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="360"/>
         <source>No profile (%1)</source>
         <translation>Không có hồ sơ (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="489"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="370"/>
         <source>&lt;Offline&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8475,44 +8464,44 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="212"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <source>Sort by Featured</source>
         <translation type="unfinished">Sắp xếp theo tính năng</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="213"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
         <translation type="unfinished">Sắp xếp theo mức độ phổ biến</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Sắp xếp theo cập nhật lần cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Name</source>
         <translation type="unfinished">Sắp xếp theo tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <source>Sort by Author</source>
         <translation type="unfinished">Sắp xếp theo tác giả</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished">Sắp xếp theo lượt tải</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Category</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
         <translation type="unfinished">Sắp xếp theo phiên bản trò chơi</translation>
     </message>
@@ -8566,12 +8555,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
         <source>No valid version found!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8735,17 +8724,17 @@ Please update %1!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
         <source>No valid version found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="274"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="277"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>Loading versions...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9057,17 +9046,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
+        <source>Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
         <source>Confirm %1 selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="108"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10436,9 +10430,9 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="413"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Microsoft or Mojang account.</source>
+Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</oldsource>
+Please add your Microsoft or Mojang account.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11035,92 +11029,67 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
 <context>
     <name>Yggdrasil</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="193"/>
         <source>Authentication server didn&apos;t send a client token.</source>
-        <translation>Máy chủ xác thực không gửi client token.</translation>
+        <translation type="vanished">Máy chủ xác thực không gửi client token.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="200"/>
         <source>Authentication server attempted to change the client token. This isn&apos;t supported.</source>
-        <translation>Máy chủ xác thực đã thử đổi client token. Việc này chưa được hỗ trợ.</translation>
+        <translation type="vanished">Máy chủ xác thực đã thử đổi client token. Việc này chưa được hỗ trợ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="209"/>
         <source>Authentication server didn&apos;t send an access token.</source>
-        <translation>Máy chủ xác thực không gửi token truy cập.</translation>
+        <translation type="vanished">Máy chủ xác thực không gửi token truy cập.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="220"/>
-        <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="234"/>
-        <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="252"/>
         <source>Authentication operation timed out.</source>
-        <translation>Hoạt động xác thực đã hết thời gian.</translation>
+        <translation type="vanished">Hoạt động xác thực đã hết thời gian.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="255"/>
         <source>Authentication operation cancelled.</source>
-        <translation>Thao tác xác thực đã bị hủy.</translation>
+        <translation type="vanished">Thao tác xác thực đã bị hủy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="259"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt;SSL Handshake không thành công.&lt;/b&gt;&lt;br/&gt; Có thể có một vài nguyên nhân:&lt;br/&gt;&lt;ul&gt;&lt;li&gt; Bạn sử dụng Windows và cần cập nhật chứng chỉ gốc của mình, vui lòng cài đặt bất kỳ bản cập nhật nào còn tồn đọng.&lt;/li&gt;&lt;li&gt; Một số thiết bị trên mạng của bạn đang cản trở lưu lượng SSL. Trong trường hợp đó, bạn còn lo lắng hơn là Minecraft không khởi động được.&lt;/li&gt;&lt;li&gt;Có thể là điều gì đó khác. Kiểm tra tệp nhật ký PolyMC để biết chi tiết&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation type="vanished">&lt;b&gt;SSL Handshake không thành công.&lt;/b&gt;&lt;br/&gt; Có thể có một vài nguyên nhân:&lt;br/&gt;&lt;ul&gt;&lt;li&gt; Bạn sử dụng Windows và cần cập nhật chứng chỉ gốc của mình, vui lòng cài đặt bất kỳ bản cập nhật nào còn tồn đọng.&lt;/li&gt;&lt;li&gt; Một số thiết bị trên mạng của bạn đang cản trở lưu lượng SSL. Trong trường hợp đó, bạn còn lo lắng hơn là Minecraft không khởi động được.&lt;/li&gt;&lt;li&gt;Có thể là điều gì đó khác. Kiểm tra tệp nhật ký PolyMC để biết chi tiết&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="273"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation>Tài khoản Mojang không còn tồn tại. Nó có thể đã được chuyển sang tài khoản Microsoft.</translation>
+        <translation type="vanished">Tài khoản Mojang không còn tồn tại. Nó có thể đã được chuyển sang tài khoản Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="277"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
-        <translation>Thao tác xác thực không thành công do lỗi mạng: %1 (%2)</translation>
+        <translation type="vanished">Thao tác xác thực không thành công do lỗi mạng: %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="301"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation>Không thể phân tích cú pháp phản hồi của máy chủ xác thực Phản hồi JSON: %1 ở mức bù %2.</translation>
+        <translation type="vanished">Không thể phân tích cú pháp phản hồi của máy chủ xác thực Phản hồi JSON: %1 ở mức bù %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="325"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation>Đã xảy ra lỗi không xác định khi cố gắng giao tiếp với máy chủ xác thực: %1</translation>
+        <translation type="vanished">Đã xảy ra lỗi không xác định khi cố gắng giao tiếp với máy chủ xác thực: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="340"/>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation>Đã xảy ra lỗi Yggdrasil không xác định.</translation>
+        <translation type="vanished">Đã xảy ra lỗi Yggdrasil không xác định.</translation>
     </message>
 </context>
 <context>
     <name>YggdrasilStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="20"/>
         <source>Logging in with Mojang account.</source>
-        <translation>Đang đăng nhập bằng tài khoản Mojang.</translation>
+        <translation type="vanished">Đang đăng nhập bằng tài khoản Mojang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="39"/>
         <source>Logged in with Mojang</source>
-        <translation>Đã đăng nhặp bằng tài khoản Mojang</translation>
+        <translation type="vanished">Đã đăng nhặp bằng tài khoản Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication failed.</source>
-        <translation>Xác minh tài khoản Mojang thất bại.</translation>
+        <translation type="vanished">Xác minh tài khoản Mojang thất bại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="54"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation>Xác thực tài khoản Mojang đã kết thúc với kết nối mạng lỗi.</translation>
+        <translation type="vanished">Xác thực tài khoản Mojang đã kết thúc với kết nối mạng lỗi.</translation>
     </message>
 </context>
 </TS>

@@ -421,22 +421,24 @@
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="325"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
+        <source>Type of the account (MSA or Offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation>不適用</translation>
+        <translation type="vanished">不適用</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="328"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation>是</translation>
+        <translation type="vanished">是</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="330"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation>否</translation>
+        <translation type="vanished">否</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -454,32 +456,31 @@
         <translation type="vanished">否</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="362"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
         <source>Username</source>
         <translation>使用者名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="364"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="353"/>
         <source>Account</source>
         <translation>帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="366"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
         <source>Type</source>
         <translation>類型</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="368"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Status</source>
         <translation>狀態</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="370"/>
         <source>Can Migrate?</source>
-        <translation>能否轉移？</translation>
+        <translation type="vanished">能否轉移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="365"/>
         <source>Minecraft username associated with the account.</source>
         <translation>屬於該帳號的 Minecraft 個人資料名稱。</translation>
     </message>
@@ -488,90 +489,87 @@
         <translation type="vanished">個人資料</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="367"/>
         <source>User name of the account.</source>
         <translation>該帳號的使用者名稱。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>帳號類型──Mojang 或 MSA。</translation>
+        <translation type="vanished">帳號類型──Mojang 或 MSA。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>Current status of the account.</source>
         <translation>帳號目前的狀態。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation>這個帳號是否能夠轉移到 Microsoft 帳號？</translation>
+        <translation type="vanished">這個帳號是否能夠轉移到 Microsoft 帳號？</translation>
     </message>
 </context>
 <context>
     <name>AccountListPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation>新增 Mojang 帳號（&amp;M）</translation>
+        <translation type="vanished">新增 Mojang 帳號（&amp;M）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="67"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
         <translation>移除（&amp;V）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="72"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
         <translation>設為預設帳號（&amp;S）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="80"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
         <translation>無預設帳號（&amp;N）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="85"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
         <translation>上傳外觀（&amp;U）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="90"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
         <translation>刪除外觀（&amp;D）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="93"/>
         <source>Delete the currently active skin and go back to the default one</source>
         <translation>刪除目前的外觀並恢復至預設外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
         <translation>新增 Microsoft 帳號（&amp;A）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="103"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
         <translation>新增離線帳號（&amp;O）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
         <translation>重新整理（&amp;R）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="111"/>
         <source>Refresh the account tokens</source>
         <translation>重新整理帳號權杖</translation>
     </message>
@@ -581,29 +579,38 @@
         <translation>帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; or &quot;Add Mojang&quot; buttons to link your Microsoft and/or Mojang accounts.</source>
         <oldsource>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</oldsource>
-        <translation>歡迎！
+        <translation type="vanished">歡迎！
 如果您是第一次來這裡，您可以按一下「新增 Microsoft 帳號」或「新增 Mojang 帳號」按鈕來新增您的 Microsoft 和（或）Mojang 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <source>Welcome!
+If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>尚未設定 Microsoft 驗證用戶端 ID。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
         <source>Context menu</source>
         <translation>功能表</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>請輸入您 Mojang 帳號的電子郵件與密碼以新增您的帳號。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -619,27 +626,26 @@ Please update both your operating system and %1.</source>
 請更新您的作業系統以及 %1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="172"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>在你新增離線帳號之前，您必須先新增一個擁有 Minecraft 的 Microsoft 或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果您遺失了您的帳號，您可以嘗試聯絡 Microsoft 尋求支援。</translation>
+        <translation type="vanished">在你新增離線帳號之前，您必須先新增一個擁有 Minecraft 的 Microsoft 或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果您遺失了您的帳號，您可以嘗試聯絡 Microsoft 尋求支援。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>請輸入您期望的使用者名稱以新增離線帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
         <source>Skin Delete</source>
         <translation>刪除外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
         <source>Failed to delete current skin!</source>
         <translation>刪除目前的外觀失敗！</translation>
     </message>
@@ -2633,33 +2639,33 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>按總下載量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="190"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="207"/>
         <source>No version is available!</source>
         <translation>沒有可用的版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="274"/>
         <source> by </source>
         <translation> 作者： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="279"/>
         <source>External links:</source>
         <translation>外部連結：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="283"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>議題：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="285"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>原始碼：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -3979,9 +3985,9 @@ Please select one of the following or browse for a java executable.</oldsource>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>要玩 Minecraft 的話，需要擁有 Mojang 或 Microsoft 帳號。Mojang 帳號只能離線使用。是否開啟帳號管理器並新增一個帳號？</translation>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
+        <translation type="unfinished">要玩 Minecraft 的話，需要擁有 Mojang 或 Microsoft 帳號。Mojang 帳號只能離線使用。是否開啟帳號管理器並新增一個帳號？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4990,19 +4996,16 @@ Reason:
 <context>
     <name>LoginDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation>新增帳號</translation>
+        <translation type="vanished">新增帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="39"/>
         <source>Email</source>
-        <translation>電子郵件</translation>
+        <translation type="vanished">電子郵件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
-        <translation>密碼</translation>
+        <translation type="vanished">密碼</translation>
     </message>
 </context>
 <context>
@@ -5866,10 +5869,10 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="874"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Microsoft or Mojang account.</source>
+Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</oldsource>
-        <translation>除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
+Please add your Microsoft or Mojang account.</oldsource>
+        <translation type="unfinished">除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
 請新增你的 Microsoft 或 Mojang 帳號。</translation>
     </message>
     <message>
@@ -6254,23 +6257,20 @@ Are you sure?</source>
 <context>
     <name>MigrationEligibilityStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="14"/>
         <source>Checking for migration eligibility.</source>
-        <translation>正在檢查轉移資格。</translation>
+        <translation type="vanished">正在檢查轉移資格。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="44"/>
         <source>Got migration flags</source>
-        <translation>已取得遷移標誌</translation>
+        <translation type="vanished">已取得遷移標誌</translation>
     </message>
 </context>
 <context>
     <name>MinecraftAccount</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="148"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="141"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="193"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
@@ -6323,27 +6323,26 @@ Are you sure?</source>
         <translation>&lt;存取權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="860"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
-        <translation>&lt;用戶端權杖&gt;</translation>
+        <translation type="vanished">&lt;用戶端權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="862"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="859"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;設定檔 ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="925"/>
         <source>broken</source>
         <translation>損壞</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="939"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="936"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="944"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="941"/>
         <source>, last played on %1 for %2</source>
         <translation>，上次遊玩時間為 %1，持續了 %2</translation>
     </message>
@@ -6356,12 +6355,12 @@ Are you sure?</source>
         <translation type="vanished">，上次已遊玩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="951"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="948"/>
         <source>, total played for %1</source>
         <translation>，總共遊玩了 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="956"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="953"/>
         <source>, has crashed.</source>
         <translation>，程式已崩潰。</translation>
     </message>
@@ -6576,13 +6575,13 @@ Are you sure?</source>
         <translation>正在取得 Minecraft 個人資料。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="45"/>
         <source>Account has no Minecraft profile.</source>
         <translation>此帳號沒有 Minecraft 個人資料。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="63"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="62"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
         <translation>取得 Minecraft Java 個人資料失敗：%1</translation>
     </message>
@@ -6591,12 +6590,12 @@ Are you sure?</source>
         <translation type="vanished">取得 Minecraft Java 個人資料失敗。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="72"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="68"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>無法解析 Minecraft Java 個人資料回應</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="81"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="72"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation>取得 Minecraft Java 個人資料成功。</translation>
     </message>
@@ -6604,39 +6603,32 @@ Are you sure?</source>
 <context>
     <name>MinecraftProfileStepMojang</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="16"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation>正在取得 Minecraft 個人資料。</translation>
+        <translation type="vanished">正在取得 Minecraft 個人資料。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="22"/>
         <source>A UUID is required to get the profile.</source>
-        <translation>需要 UUID 來取得個人資料。</translation>
+        <translation type="vanished">需要 UUID 來取得個人資料。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="54"/>
         <source>Account has no Minecraft profile.</source>
-        <translation>此帳號沒有 Minecraft 個人資料。</translation>
+        <translation type="vanished">此帳號沒有 Minecraft 個人資料。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="68"/>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="71"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>取得 Minecraft Java 個人資料失敗：%1</translation>
+        <translation type="vanished">取得 Minecraft Java 個人資料失敗：%1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
         <translation type="vanished">取得 Minecraft Java 個人資料失敗。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="77"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>無法解析 Minecraft Java 個人資料回應</translation>
+        <translation type="vanished">無法解析 Minecraft Java 個人資料回應</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="86"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>取得 Minecraft Java 個人資料成功。</translation>
+        <translation type="vanished">取得 Minecraft Java 個人資料成功。</translation>
     </message>
 </context>
 <context>
@@ -7184,7 +7176,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="352"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
@@ -7215,12 +7207,12 @@ Please update %1!</source>
         <translation>正在檢查依賴項…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="299"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>模組「%1」還未擁有後設資料。為了追蹤如何更新這模組的相關資訊，我們需要先產生一筆後設資料。因此，請選取一個模組託管平台，我們將會在該平台檢查這模組的更新資訊。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="396"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="398"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>無法在所選的模組託管平台找到有效版本</translation>
     </message>
@@ -7243,7 +7235,7 @@ Please update %1!</source>
         <translation>無法檢查或取得以下模組更新：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="256"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="258"/>
         <source>Looking for metadata</source>
         <translation>正在尋找後設資料</translation>
     </message>
@@ -7252,7 +7244,7 @@ Please update %1!</source>
         <translation type="vanished">模組（%1）還未擁有後設資料。我們需要建立一份後設資料，以保留如何更新本模組的相關資訊。請先選取一個模組託管平台，我們將透過此平台查詢 %1 是否有可用更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
         <source>Generating metadata...</source>
         <translation>正在生成後設資料…</translation>
     </message>
@@ -7261,37 +7253,42 @@ Please update %1!</source>
         <translation type="vanished">無法在所選的模組託管平台找到有效的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="410"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="412"/>
         <source>Provider: %1</source>
         <translation>模組託管平台：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="415"/>
         <source>Old version: %1</source>
         <translation>舊版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="415"/>
         <source>Not installed</source>
         <translation>尚未安裝</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="416"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="418"/>
         <source>New version: %1</source>
         <translation>新版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="421"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
+        <source>New Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Required by: %1</source>
         <translation>被要求：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Required by:</source>
         <translation>被要求：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="441"/>
         <source>Changelog of the latest version</source>
         <translation>最新版本的更新日誌</translation>
     </message>
@@ -7686,37 +7683,37 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>按總下載數排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="262"/>
         <source> by </source>
         <translation> 作者 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="265"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="266"/>
         <source>Donate information: </source>
         <translation>贊助資訊： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="279"/>
         <source>External links:</source>
         <translation>外部連結：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="283"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>議題：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="285"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="287"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>原始碼：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="289"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -8695,12 +8692,12 @@ Are you sure?</source>
         <translation type="vanished">無法處理版本檔 %1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="476"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="360"/>
         <source>No profile (%1)</source>
         <translation>沒有個人資料（%1）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="489"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="370"/>
         <source>&lt;Offline&gt;</source>
         <translation>&lt;離線&gt;</translation>
     </message>
@@ -9034,44 +9031,44 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="212"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <source>Sort by Featured</source>
         <translation>按精選內容排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="213"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
         <translation>按人氣程度排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Last Updated</source>
         <translation>按最近更新時間排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Name</source>
         <translation>按名稱排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <source>Sort by Author</source>
         <translation>按作者排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
         <source>Sort by Downloads</source>
         <translation>按下載數量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Category</source>
         <translation>按類別排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
         <translation>按遊戲版本排序</translation>
     </message>
@@ -9125,12 +9122,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>模組</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
         <source>No valid version found!</source>
         <translation>找不到可用的版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>Cannot select invalid version :(</source>
         <translation>無法選擇無效版本 :(</translation>
     </message>
@@ -9295,17 +9292,17 @@ Please update %1!</source>
         <translation>取消選擇要下載的%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
         <source>No valid version found.</source>
         <translation>找不到可用的版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="274"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="277"/>
         <source>Cannot select invalid version :(</source>
         <translation>無法選擇無效版本 :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>Loading versions...</source>
         <translation>正在載入版本…</translation>
     </message>
@@ -9640,17 +9637,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>被要求：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
+        <source>Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
         <source>Confirm %1 selection</source>
         <translation>確認%1選擇</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="108"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>您將要下載以下%1：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>只會下載勾選的%1！</translation>
     </message>
@@ -11098,10 +11100,10 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="413"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Microsoft or Mojang account.</source>
+Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Mojang or Minecraft account.</oldsource>
-        <translation>除非你至少新增了一個帳號，否則將無法下載 Minecraft 或更新實例。
+Please add your Microsoft or Mojang account.</oldsource>
+        <translation type="unfinished">除非你至少新增了一個帳號，否則將無法下載 Minecraft 或更新實例。
 請登入你的 Microsoft 或 Mojang 帳號。</translation>
     </message>
     <message>
@@ -11718,92 +11720,75 @@ Please set up your account according to %1.</source>
 <context>
     <name>Yggdrasil</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="193"/>
         <source>Authentication server didn&apos;t send a client token.</source>
-        <translation>驗證伺服器未傳送用戶端權杖。</translation>
+        <translation type="vanished">驗證伺服器未傳送用戶端權杖。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="200"/>
         <source>Authentication server attempted to change the client token. This isn&apos;t supported.</source>
-        <translation>驗證伺服器嘗試修改用戶端權杖。尚未支援此操作。</translation>
+        <translation type="vanished">驗證伺服器嘗試修改用戶端權杖。尚未支援此操作。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="209"/>
         <source>Authentication server didn&apos;t send an access token.</source>
-        <translation>驗證伺服器未傳送存取權杖。</translation>
+        <translation type="vanished">驗證伺服器未傳送存取權杖。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="220"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation>驗證伺服器未發送選擇的個人資料。</translation>
+        <translation type="vanished">驗證伺服器未發送選擇的個人資料。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="234"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation>驗證伺服器未發送選擇個人資料中的 UUID。</translation>
+        <translation type="vanished">驗證伺服器未發送選擇個人資料中的 UUID。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="252"/>
         <source>Authentication operation timed out.</source>
-        <translation>驗證逾時。</translation>
+        <translation type="vanished">驗證逾時。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="255"/>
         <source>Authentication operation cancelled.</source>
-        <translation>驗證已取消。</translation>
+        <translation type="vanished">驗證已取消。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="259"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt;SSL 握手失敗。&lt;/b&gt;&lt;br/&gt;這可能有幾種原因：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;您使用 Windows 且需要更新您的根憑證，請安裝任何未完成的更新。&lt;/li&gt;&lt;li&gt;在您的網路中有一些裝置在干擾 SSL 流量。在此情況下，您有比無法啟動 Minecraft 還更大的擔憂。&lt;/li&gt;&lt;li&gt;可能是一些其他的原因。確認記錄檔以了解詳情&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation type="vanished">&lt;b&gt;SSL 握手失敗。&lt;/b&gt;&lt;br/&gt;這可能有幾種原因：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;您使用 Windows 且需要更新您的根憑證，請安裝任何未完成的更新。&lt;/li&gt;&lt;li&gt;在您的網路中有一些裝置在干擾 SSL 流量。在此情況下，您有比無法啟動 Minecraft 還更大的擔憂。&lt;/li&gt;&lt;li&gt;可能是一些其他的原因。確認記錄檔以了解詳情&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="273"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation>此 Mojang 帳號不存在。可能是已移轉至 Microsoft 帳號。</translation>
+        <translation type="vanished">此 Mojang 帳號不存在。可能是已移轉至 Microsoft 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="277"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
-        <translation>驗證失敗：網路錯誤 %1（%2）</translation>
+        <translation type="vanished">驗證失敗：網路錯誤 %1（%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="301"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation>解析驗證伺服器的 JSON 回應失敗：%1 於位移 %2。</translation>
+        <translation type="vanished">解析驗證伺服器的 JSON 回應失敗：%1 於位移 %2。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="325"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation>當與驗證伺服器通訊時發生未知的錯誤：%1</translation>
+        <translation type="vanished">當與驗證伺服器通訊時發生未知的錯誤：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="340"/>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation>發生未知的 Yggdrasil 錯誤。</translation>
+        <translation type="vanished">發生未知的 Yggdrasil 錯誤。</translation>
     </message>
 </context>
 <context>
     <name>YggdrasilStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="20"/>
         <source>Logging in with Mojang account.</source>
-        <translation>使用 Mojang 帳號登入。</translation>
+        <translation type="vanished">使用 Mojang 帳號登入。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="39"/>
         <source>Logged in with Mojang</source>
-        <translation>成功以 Mojang 帳號登入</translation>
+        <translation type="vanished">成功以 Mojang 帳號登入</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication failed.</source>
-        <translation>Mojang 使用者驗證失敗。</translation>
+        <translation type="vanished">Mojang 使用者驗證失敗。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="54"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation>Mojang 使用者驗證程式因網路問題而中止。</translation>
+        <translation type="vanished">Mojang 使用者驗證程式因網路問題而中止。</translation>
     </message>
 </context>
 </TS>
