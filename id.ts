@@ -415,7 +415,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Jenis akun (MSA atau Luring)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -582,7 +582,8 @@ Jika anda baru disini, anda dapat menekan tombol &quot;Tambah Microsoft&quot; at
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selamat datang!
+Jika Anda baru, Anda dapat mengeklik tombol &quot;Tambahkan Microsoft&quot; untuk menyambungkan akun Microsoft Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -602,7 +603,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda harus menambahkan akun Microsoft yang memiliki Minecraft sebelum Anda dapat menambahkan akun luring. &lt;br&gt;&lt;br&gt;Silakan menghubungi pusat bantuan Microsoft jika Anda kehilangan akun Anda.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -6794,7 +6795,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jenis Versi Baru: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
@@ -8958,7 +8959,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jenis Versi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
