@@ -419,7 +419,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>A fiók típusa (MSA vagy Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -586,7 +586,8 @@ Ha új vagy itt, kattints a &quot;Hozzáadás&quot; gombra, hogy hozzá add Moja
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üdvözöljük!
+Ha új vagy itt, a &quot;Microsoft fiók felvétele&quot; gombra kattintva kapcsolhatja össze Microsoft-fiókját.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -606,7 +607,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az offline fiók hozzáadásához hozzá kell adnia egy Minecraftot birtokló Microsoft-fiókot.&lt;br&gt;&lt;br&gt;Ha elvesztette fiókját, segítségért forduljon a Microsofthoz.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -3953,7 +3954,7 @@ Kérjük, válasszon egyet a következők közül, vagy keressen egy java futtat
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">A Minecraft-hoz legalább egy Microsoft- vagy Mojang-fiókkal be kell jelentkezned. A Mojang-fiókok csak offline módban használhatók. Szeretné megnyitni a fiókkezelőt, hogy most hozzáadjon egy fiókot?</translation>
+        <translation>A Minecraft-hoz legalább egy Microsoft- vagy Mojang-fiókkal be kell jelentkezned. A Mojang-fiókok csak offline módban használhatók. Szeretné megnyitni a fiókkezelőt, hogy most hozzáadjon egy fiókot?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4372,17 +4373,17 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Egyéb</translation>
+        <translation>Egyéb</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyidejű feladatok száma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyidejű letöltések száma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
@@ -5812,8 +5813,8 @@ Indok:
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">A launcher nem tudja letölteni vagy frissíteni a Minecraft példányaidat, hacsak be nem jelentkezel egy fiókkal.
-Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
+        <translation>A launcher nem tudja letölteni vagy frissíteni a Minecraft példányaidat, hacsak be nem jelentkezel egy fiókkal.
+Adjon hozzá egy Microsoft-fiókot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
@@ -7125,7 +7126,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Függőségek keresése...</translation>
+        <translation>Függőségek keresése...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
@@ -7180,17 +7181,17 @@ Kérjük, frissítse a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Új verzió típusa: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Szükséges ehhez: %1</translation>
+        <translation>Szükséges ehhez: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Required by:</source>
-        <translation type="unfinished">Szükséges ehhez:</translation>
+        <translation>Szükséges ehhez:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="441"/>
@@ -9536,7 +9537,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Verziótípus: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
@@ -10980,8 +10981,8 @@ Biztos vagy ebben?</translation>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">Nem lehet letölteni a Minecraftot vagy frissíteni a példányokat, hacsak nincs hozzáadva legalább egy fiók.
-Adja hozzá Mojang- vagy Minecraft-fiókját.</translation>
+        <translation>Nem lehet letölteni a Minecraftot vagy frissíteni a példányokat, hacsak nincs hozzáadva legalább egy fiók.
+Adjon hozzá egy Microsoft-fiókot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
