@@ -486,7 +486,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="365"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>계정과 연결된 마인크래프트 아이디입니다.</translation>
+        <translation>계정과 연결된 마인크래프트 사용자 이름입니다.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -594,7 +594,8 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>환영합니다!
+처음이시라면, &quot;Microsoft 계정 추가&quot;를 눌러 Microsoft 계정을 연결할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -3958,7 +3959,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>마인크래프트를 이용하려면 마인크래프트를 소유하고 있는 하나 이상의 Minecraft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
+        <translation>마인크래프트를 이용하려면 마인크래프트를 소유하고 있는 하나 이상의 Microsoft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -8216,7 +8217,7 @@ Error message: %3</source>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>이 계정으로 마인크래프트를 플레이 하려면 한 단계만 더 걸으면 됩니다.
+        <translation>이 계정으로 마인크래프트를 플레이 하려면 한 단계만 더 진행하면 됩니다.
 
 이름을 신중하게 선택하십시오:</translation>
     </message>
