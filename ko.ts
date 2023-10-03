@@ -427,7 +427,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>계정의 종류 (Microsoft 계정 또는 오프라인)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -614,7 +614,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 계정을 추가하기 전에 마인크래프트를 소유하고 있는 Microsoft 계정을 추가해야 합니다.&lt;br&gt;&lt;br&gt;계정을 잃어버린 경우 Microsoft에 연락하여 지원을 받을 수 있습니다.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -3958,7 +3958,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">마인크래프트를 이용하려면 하나 이상의 Mojang 또는 Minecraft 계정에 로그인되어 있어야 합니다. Mojang 계정은 오프라인으로만 사용할 수 있습니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
+        <translation>마인크래프트를 이용하려면 마인크래프트를 소유하고 있는 하나 이상의 Minecraft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -5815,8 +5815,8 @@ Reason:
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">런처에 하나 이상의 계정을 추가하지 않으면 마인크래프트 다운로드 또는 인스턴스 업데이트를 할 수 없습니다.
-Mojang 또는 Microsoft 계정을 추가하세요.</translation>
+        <translation>런처에 하나 이상의 계정을 추가하지 않으면 마인크래프트 다운로드 또는 인스턴스 업데이트를 할 수 없습니다.
+Microsoft 계정을 추가하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
@@ -7180,7 +7180,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 버전 유형: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
@@ -9532,7 +9532,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>버전 유형: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
@@ -10996,8 +10996,8 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">하나 이상의 계정을 추가하지 않으면 마인크래프트 다운로드 또는 인스턴스 업데이트를 할 수 없습니다.
-Mojang 또는 Microsoft 계정을 추가하세요.</translation>
+        <translation>하나 이상의 계정을 추가하지 않으면 마인크래프트 다운로드 또는 인스턴스 업데이트를 할 수 없습니다.
+Microsoft 계정을 추가하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
