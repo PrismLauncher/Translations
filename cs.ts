@@ -415,7 +415,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ účtu (MSA nebo offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -582,7 +582,8 @@ Kliknutím na tlačítko „Přidat Microsoft“ nebo „Přidat Mojang“ přid
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vítejte!
+Svůj účet Microsoft můžete přidat tlačítkem „Přidat Microsoft“.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -602,7 +603,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Před přidáním účtu offline musíte přidat účet Microsoft, který vlastní Minecraft.&lt;br&gt;&lt;br&gt;Pokud jste ztratili svůj účet, kontaktujte Microsoft pro podporu.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -3978,7 +3979,7 @@ Vyberte prosím jedno z následujících nebo vyberte spustitelný soubor Java.<
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Abyste mohli hrát Minecraft, musíte být přihlášeni s alespoň jedním účtem Microsoft nebo Mojang. Účty Mojang lze používat pouze offline. Chcete otevřít správce účtů pro přidání účtu?</translation>
+        <translation>Abyste mohli hrát Minecraft, musíte být přihlášeni s alespoň jedním účtem Microsoft, který vlastní Minecraft. Chcete otevřít správce účtů pro přidání účtu?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -5859,8 +5860,8 @@ Důvod:
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">Launcher nemůže stáhnout Minecraft nebo aktualizovat instance, pokud nemáte přidaný alespoň jeden účet.
-Přidjete prosím svůj účet Microsoft nebo Mojang.</translation>
+        <translation>Launcher nemůže stáhnout Minecraft nebo aktualizovat instance, pokud nemáte přidaný alespoň jeden účet.
+Přidjete prosím svůj účet Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
@@ -7274,7 +7275,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový typ verze: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
@@ -9629,7 +9630,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ verze: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
@@ -11089,8 +11090,8 @@ Jste si jisti?</translation>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">Nelze stáhnout Minecraft nebo aktualizovat instance, pokud nemáte přidaný alespoň jeden účet.
-Přidjete prosím svůj účet Microsoft nebo Mojang.</translation>
+        <translation>Nelze stáhnout Minecraft nebo aktualizovat instance, pokud nemáte přidaný alespoň jeden účet.
+Přidjete prosím svůj účet Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
