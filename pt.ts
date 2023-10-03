@@ -415,7 +415,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de conta (MSA ou Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -582,7 +582,8 @@ Se és novo por aqui, clica no botão &quot;Adicionar&quot; para adicionar a tua
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bem-vindo!
+Se és novo aqui, tu podes clicar no botão &quot;Adicionar Microsoft&quot; para ligar a tua conta Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -602,7 +603,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tens de adicionar uma conta Microsoft antes de puderes adicionar uma conta offline. Se tu perdeste a tua conta, tu podes contactar a Microsoft para suporte.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -1400,7 +1401,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
@@ -1435,7 +1436,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="127"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished">Nenhum mod loader selecionado.</translation>
+        <translation>Nenhum carregador de mods selecionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
@@ -1655,38 +1656,38 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Descrição</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Resumo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="unfinished">Nome</translation>
+        <translation>&amp;Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Versão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opções</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ficheiros</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Marcar ficheiros desativos como opcional</translation>
     </message>
     <message>
         <source>Version</source>
@@ -1709,12 +1710,12 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar pacote CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
         <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
@@ -1940,7 +1941,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="176"/>
         <source>Remove metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
@@ -2180,12 +2181,12 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Versão do Jogo</translation>
     </message>
 </context>
 <context>
@@ -2193,17 +2194,17 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar da app FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procura e filtrar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar</translation>
     </message>
 </context>
 <context>
@@ -2812,7 +2813,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- CurseForge modpacks (ZIP)</translation>
+        <translation>- CurseForge modpacks (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -2839,7 +2840,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importar de .zip</translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="134"/>
@@ -2851,17 +2852,17 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>O modpack %1 está bloquado por terceiros. Por favor, faz download manualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Este URL não é um modpack válido!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="205"/>
@@ -2932,7 +2933,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
@@ -3257,7 +3258,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="280"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Iniciar o Minecraft maximizado?</translation>
+        <translation>Iniciar o Minecraft maximizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="289"/>
@@ -3278,19 +3279,19 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="352"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Mostrar consola enquanto o jogo estiver sendo executado?</translation>
+        <translation>Mostrar a consola enquanto o jogo estiver sendo executado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Fechar automaticamente a consola quando o jogo for encerrado?</translation>
+        <translation>Fechar automaticamente a consola quando o jogo for encerrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="366"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Mostrar consola quando o jogo bloquear?</translation>
+        <translation>Mostrar a consola quando o jogo crashar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="388"/>
