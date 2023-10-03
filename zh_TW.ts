@@ -423,7 +423,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>帳號類型（MSA 或離線）</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -590,7 +590,8 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>歡迎！
+如果你第一次來這裡，你可以按一下「新增 Microsoft 帳號」按鈕來連結你的 Microsoft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -610,7 +611,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>您需要先新增一個擁有 Minecraft 的 Microsoft 帳號，才能新增離線帳號。&lt;br&gt;&lt;br&gt;如果您已遺失帳號，您可以聯繫 Microsoft 獲得支援。</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -3987,7 +3988,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">要玩 Minecraft 的話，需要擁有 Mojang 或 Microsoft 帳號。Mojang 帳號只能離線使用。是否開啟帳號管理器並新增一個帳號？</translation>
+        <translation>要遊玩 Minecraft，您需要有一個擁有 Minecraft 的 Microsoft 帳號。現在要開啟帳號管理員新增帳號嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -5872,8 +5873,8 @@ Reason:
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
-請新增你的 Microsoft 或 Mojang 帳號。</translation>
+        <translation>除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
+請新增你的 Microsoft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
@@ -7277,7 +7278,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>新版本類型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
@@ -9641,7 +9642,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>版本類型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
@@ -11105,8 +11106,8 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">除非你至少新增了一個帳號，否則將無法下載 Minecraft 或更新實例。
-請登入你的 Microsoft 或 Mojang 帳號。</translation>
+        <translation>除非你至少新增了一個帳號，否則將無法下載 Minecraft 或更新實例。
+請登入你的 Microsoft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
