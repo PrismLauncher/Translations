@@ -2069,7 +2069,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="326"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Impossible de comprendre le manifeste du pack:
+        <translation>Impossible de comprendre le manifeste du pack:
 </translation>
     </message>
     <message>
@@ -2148,7 +2148,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="557"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 de %2 est complété</translation>
+        <translation>%1 de %2 complété</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="571"/>
@@ -5972,7 +5972,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="271"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 de %2 est complété</translation>
+        <translation>%1 de %2 complété</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="276"/>
