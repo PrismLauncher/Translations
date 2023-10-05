@@ -227,7 +227,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="816"/>
         <source>%1 out of %2 complete</source>
-        <translation>Dokončené %1 z %2</translation>
+        <translation>%1 z %2 hotovo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="859"/>
