@@ -1445,7 +1445,7 @@ Si vous êtes nouveau ici, vous pouvez sélectionner le bouton &quot;Ajouter un 
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
@@ -1525,7 +1525,7 @@ Si vous êtes nouveau ici, vous pouvez sélectionner le bouton &quot;Ajouter un 
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
@@ -1836,7 +1836,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -2488,7 +2488,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
@@ -3505,7 +3505,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="413"/>
@@ -3993,7 +3993,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="211"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="216"/>
@@ -4634,7 +4634,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comptes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="270"/>
@@ -4753,7 +4753,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="969"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="822"/>
@@ -5078,7 +5078,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="178"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="182"/>
@@ -5620,7 +5620,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="247"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
@@ -5765,7 +5765,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="109"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="193"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
@@ -5883,7 +5883,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="356"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
@@ -6320,7 +6320,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nom d&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -6404,7 +6404,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="211"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="250"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="139"/>
@@ -7339,7 +7339,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="138"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
@@ -7375,7 +7375,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="437"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="441"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="231"/>
@@ -7704,7 +7704,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="78"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="82"/>
@@ -8083,7 +8083,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="70"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
@@ -8454,7 +8454,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="80"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="84"/>
@@ -8840,7 +8840,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="366"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="412"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
@@ -9078,7 +9078,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
