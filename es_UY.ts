@@ -3842,7 +3842,7 @@ Por favor, selecciona uno de los siguientes o busca un ejecutable java.</transla
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="150"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Parece que no pudimos iniciar después de %1 intentos. ¿Quieres seguir intentándolo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="186"/>
