@@ -4830,7 +4830,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="109"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Tolong buka %1 di dalam peramban dan masukkan kode &lt;b&gt;%2&lt;/b&gt; untuk masuk.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Mohon buka %1 di dalam peramban dan masukkan kode &lt;b&gt;%2&lt;/b&gt; untuk masuk.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -10904,7 +10904,7 @@ Apakah Anda yakin?</translation>
 Please set up your account according to %1.</source>
         <translation>Akun Microsoft ini dibawah umur dan tidak dilink ke keluarga. 
 
-Tolong atur akun anda menurut %1.</translation>
+Mohon atur akun anda menurut %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="134"/>
