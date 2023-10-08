@@ -415,7 +415,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ av konto (MSA eller Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -582,7 +582,8 @@ Om du är ny här så kan du lägga till ditt Microsoft- eller Mojang-konto med 
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Welcome!
+Om du är ny här, kan du välja &quot;Lägg till Microsoft&quot; knappen för att länka ditt Microsoft konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
