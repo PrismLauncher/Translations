@@ -435,7 +435,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de cuenta (MSA o Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -602,7 +602,8 @@ Si acabas de llegar, puedes seleccionar los botones &quot;Añadir Microsoft&quot
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenido
+Si eres nuevo aquí, puedes seleccionar el botón &quot;Añadir Microsoft&quot; para vincular tu cuenta Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -622,7 +623,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debes añadir una cuenta Microsoft propietaria de Minecraft antes de poder añadir una cuenta offline.&lt;br&gt;&lt;br&gt;Si has perdido tu cuenta puedes contactar con Microsoft para obtener soporte.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -3984,7 +3985,7 @@ Por favor, seleccione uno de los siguientes o busque un ejecutable de Java.</tra
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Para poder jugar a Minecraft, debes tener al menos una cuenta de Mojang o Microsoft conectada. Las cuentas de Mojang solo pueden ser jugadas sin conexión. ¿Quieres abrir el gestor de cuentas para añadir una cuenta ahora?</translation>
+        <translation>Para poder jugar a Minecraft, debes tener al menos una cuenta Microsoft que posea Minecraft iniciada.¿Quieres abrir el administrador de cuentas para añadir una cuenta ahora?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4421,17 +4422,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Misceláneo</translation>
+        <translation>Misceláneo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de tareas simultáneas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de descargas simultáneas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
@@ -5882,8 +5883,8 @@ Motivo:
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">El lanzador no puede descargar Minecraft ni actualizar instancias a menos que tengas al menos una cuenta añadida.
-Añade tu cuenta de Microsoft o Mojang.</translation>
+        <translation>El lanzador no puede descargar Minecraft o actualizar instancias a menos que tengas al menos una cuenta añadida.
+Por favor, añade una cuenta Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
@@ -5985,6 +5986,13 @@ Do you wish to proceed?</source>
 %1
 
 Borrarla podría romper la otra instancia, 
+
+¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
+
+%1
+
+Borrarlo podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
             <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
@@ -6927,7 +6935,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Eliminar metadatos del mod</translation>
+        <translation>Eliminar metadatos de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -7220,7 +7228,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Comprobación de dependencias...</translation>
+        <translation>Buscando dependencias...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
@@ -7275,17 +7283,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo tipo de versión: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Requerido por: %1</translation>
+        <translation>Requerido por: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Required by:</source>
-        <translation type="unfinished">Requerido por:</translation>
+        <translation>Requerido por:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="441"/>
@@ -9649,7 +9657,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de versión: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
@@ -11113,8 +11121,8 @@ Esto es permanente y eliminará por completo el componente personalizado.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">No puedes descargar Minecraft o actualizar instancias a menos que tengas al menos una cuenta añadida.
-Añade tu cuenta de Microsoft o Mojang.</translation>
+        <translation>No puedes descargar Minecraft o actualizar instancias a menos que tengas al menos una cuenta añadida.
+Por favor, añade una cuenta Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
