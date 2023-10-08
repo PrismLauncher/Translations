@@ -427,7 +427,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>账号类型（微软账户或离线）</translation>
     </message>
     <message>
         <source>N/A</source>
