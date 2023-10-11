@@ -2485,7 +2485,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="521"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegir archivo de actualización</translation>
     </message>
     <message>
         <source> (Current)</source>
@@ -6206,7 +6206,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar mediante archivo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -7564,7 +7564,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Elegir archivo de actualización</translation>
     </message>
 </context>
 <context>
