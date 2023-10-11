@@ -2417,7 +2417,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="521"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih berkas pembaruan</translation>
     </message>
 </context>
 <context>
@@ -5841,7 +5841,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Perbarui dari berkas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -7029,7 +7029,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih berkas pembaruan</translation>
     </message>
 </context>
 <context>
