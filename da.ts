@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjenester</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -410,12 +410,12 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ukendt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontotype (MSA eller Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -582,7 +582,8 @@ Hvis du er ny her, kan du klikke på &quot;Tilføj&quot;-knappen for at tilføje
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velkommen!
+Hvis du er ny her, kan du vælge &quot;Tilføj Microsoft&quot;-knappen, for at tilknytte din Microsoft konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -872,7 +873,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">Søg</translation>
+        <translation>Søg</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -984,7 +985,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
@@ -1102,7 +1103,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="289"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vent venligst...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
@@ -1140,7 +1141,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg alt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
@@ -1155,7 +1156,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopier mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
@@ -1251,17 +1252,17 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit filsystem og/eller OS understøtter ikke reflinks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopier shader packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopier servere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
@@ -1286,12 +1287,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinks er understøttet på %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinks er ikke understøttet på %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
@@ -1381,12 +1382,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta&apos;er</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfaer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
@@ -1476,7 +1477,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">Afbrudt</translation>
+        <translation>Afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1596,7 +1597,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Afbryd</translation>
     </message>
 </context>
 <context>
@@ -1688,12 +1689,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Export %1</source>
-        <translation type="unfinished">Eksportér %1</translation>
+        <translation>Eksportér %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
@@ -1708,7 +1709,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="153"/>
         <source>Abort</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Afbryd</translation>
     </message>
 </context>
 <context>
@@ -1721,7 +1722,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Indstillinger</translation>
+        <translation>Indstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -1767,7 +1768,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
@@ -1804,7 +1805,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">Eksportér %1</translation>
+        <translation>Eksportér %1</translation>
     </message>
 </context>
 <context>
@@ -1966,7 +1967,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">Gennemse</translation>
+        <translation>Gennemse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2142,12 +2143,12 @@ Prøv venligst igen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sorter efter navn</translation>
+        <translation>Sortér efter navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sorter efter spilversion</translation>
+        <translation>Sortér efter spilversion</translation>
     </message>
 </context>
 <context>
@@ -2160,12 +2161,12 @@ Prøv venligst igen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Søg og filtrer ...</translation>
+        <translation>Søg og filtrér ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished">Søg</translation>
+        <translation>Søg</translation>
     </message>
 </context>
 <context>
@@ -2294,17 +2295,17 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="264"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Kunne ikke hente det lokale metadataindeks for %1</translation>
+        <translation>Kunne ikke hente det lokale metadataindeks for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="297"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Kunne ikke finde version for %1 loader</translation>
+        <translation>Kunne ikke finde version for %1 loader</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="302"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Ingen loader version angivet for modpack!</translation>
+        <translation>Ingen loader-version angivet for modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
@@ -2358,7 +2359,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="557"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 ud af %2 færdiggjort</translation>
+        <translation>%1 ud af %2 færdiggjort</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="571"/>
@@ -2804,7 +2805,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- CurseForge modpacks (ZIP)</translation>
+        <translation>- CurseForge modpacks (ZIP &amp;/ curseforge://URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -2838,7 +2839,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
@@ -2853,7 +2854,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>Abort</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Afbryd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="205"/>
@@ -3217,7 +3218,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="82"/>
         <source>Browse</source>
-        <translation type="unfinished">Gennemse</translation>
+        <translation>Gennemse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="127"/>
@@ -3269,19 +3270,19 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="352"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Vis konsol mens spillet kører?</translation>
+        <translation>Vis konsol mens spillet kører</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Luk automatisk konsollen når spillet lukkes?</translation>
+        <translation>Luk automatisk konsollen når spillet lukkes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="366"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Vis konsollen når spillet crasher?</translation>
+        <translation>Vis konsollen når spillet crasher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="388"/>
@@ -3628,7 +3629,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
         <source>Browse</source>
-        <translation type="unfinished">Gennemse</translation>
+        <translation>Gennemse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
@@ -4098,7 +4099,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="136"/>
         <source>Browse</source>
-        <translation type="unfinished">Gennemse</translation>
+        <translation>Gennemse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
@@ -4177,13 +4178,13 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished">Deaktivér brug af metadata leveret af modudbydere (som Modrinth eller Curseforge) til mods.</translation>
+        <translation>Deaktivér brug af metadata leveret af modudbydere (som Modrinth eller Curseforge) til mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished">Deaktivér brug af metadata til mods?</translation>
+        <translation>Deaktivér brug af metadata til mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -4226,7 +4227,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Diverse</translation>
+        <translation>Diverse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
@@ -4268,7 +4269,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="347"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Vis konsollen mens spillet kører?</translation>
+        <translation>Vis konsollen mens spillet kører</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="354"/>
@@ -4280,7 +4281,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="361"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">Vis konsollen når spillet crasher?</translation>
+        <translation>Vis konsollen når spillet crasher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
@@ -4493,12 +4494,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Søg og filtrer ...</translation>
+        <translation>Søg og filtrér ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="29"/>
         <source>Search</source>
-        <translation type="unfinished">Søg</translation>
+        <translation>Søg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="42"/>
@@ -5365,7 +5366,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
         <source>Accounts</source>
-        <translation type="unfinished">Konti</translation>
+        <translation>Konti</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -5860,7 +5861,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="179"/>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
@@ -5880,7 +5881,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="191"/>
         <source>Abort</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Afbryd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="199"/>
@@ -5908,7 +5909,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="65"/>
         <source>Name</source>
-        <translation type="unfinished">Navn</translation>
+        <translation>Navn</translation>
     </message>
 </context>
 <context>
@@ -7020,7 +7021,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="271"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 ud af %2 færdiggjort</translation>
+        <translation>%1 ud af %2 færdiggjort</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="276"/>
@@ -8234,7 +8235,7 @@ Nyt navn: %2</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished">Lignende modpack fundet!</translation>
+        <translation>Lignende modpack fundet!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
@@ -8340,23 +8341,23 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="212"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Sorter efter udvalgte</translation>
+        <translation>Sortér efter udvalgte</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="213"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Sorter efter popularitet</translation>
+        <translation>Sortér efter popularitet</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Sorter efter senest opdateret</translation>
+        <translation>Sortér efter senest opdateret</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sorter efter navn</translation>
+        <translation>Sortér efter navn</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
@@ -8377,7 +8378,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sorter efter spilversion</translation>
+        <translation>Sortér efter spilversion</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
@@ -8444,12 +8445,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="70"/>
         <source>Review and confirm</source>
-        <translation type="unfinished">Gennemgå og bekræft</translation>
+        <translation>Gennemgå og bekræft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="118"/>
@@ -8464,7 +8465,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="138"/>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
@@ -8474,7 +8475,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
         <source>Abort</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Afbryd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
@@ -8500,7 +8501,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="437"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="441"/>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="231"/>
@@ -8516,8 +8517,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="442"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished">API-version er for gammel!
-Opdater venligst %1!</translation>
+        <translation>API-version er for gammel!
+Opdatér venligst %1!</translation>
     </message>
 </context>
 <context>
@@ -8571,22 +8572,22 @@ Opdater venligst %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="217"/>
         <source>External links:</source>
-        <translation type="unfinished">Eksterne links:</translation>
+        <translation>Eksterne links:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="221"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problemer: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemer: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="225"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Kildekode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Kildekode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="227"/>
@@ -8834,17 +8835,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="78"/>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="82"/>
         <source>Aborted</source>
-        <translation type="unfinished">Afbrudt</translation>
+        <translation>Afbrudt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="82"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Overførsel afbrudt af bruger.</translation>
+        <translation>Overførsel afbrudt af bruger.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="88"/>
@@ -8854,7 +8855,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="98"/>
         <source>Abort</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Afbryd</translation>
     </message>
 </context>
 <context>
@@ -8862,12 +8863,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">Søg</translation>
+        <translation>Søg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version valgt:</translation>
+        <translation>Version valgt:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
