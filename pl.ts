@@ -431,7 +431,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodzaj konta (MSA lub offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -598,7 +598,8 @@ Jeśli jesteś tu nowy, możesz kliknąć przycisk &quot;Dodaj Microsoft&quot; l
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Witaj!
+Jeżeli dopiero zaczynasz korzystać, użyj przycisku „Dodaj Microsoft”, aby powiązać launcher z kontem Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -2484,7 +2485,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="521"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz plik aktualizacji</translation>
     </message>
 </context>
 <context>
@@ -6255,7 +6256,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuj z pliku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -7279,7 +7280,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Sprawdzanie zależności...</translation>
+        <translation>Sprawdzanie zależności…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
@@ -7614,7 +7615,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz plik aktualizacji</translation>
     </message>
 </context>
 <context>
@@ -11202,8 +11203,8 @@ Jesteś tego pewien?</translation>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">Nie można pobrać Minecraft ani zaktualizować instancji, chyba że masz dodane przynajmniej jedno konto.
-Proszę dodać twoje konto Mojang lub Minecraft.</translation>
+        <translation>Nie można pobrać Minecrafta ani zaktualizować instancji, jeżeli nie masz dodanego przynajmniej jednego konta.
+Proszę dodać swoje konto Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
