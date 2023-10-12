@@ -2473,7 +2473,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="521"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 파일 선택</translation>
     </message>
 </context>
 <context>
@@ -6124,7 +6124,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>파일에서 업데이트</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -7461,7 +7461,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 파일 선택</translation>
     </message>
 </context>
 <context>
