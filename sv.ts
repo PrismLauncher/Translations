@@ -603,7 +603,7 @@ Om du är ny här, kan du välja &quot;Lägg till Microsoft&quot; knappen för a
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du måste lägga till ett Microsoft konto som äger Minecraft innan du kan lägga till ett offline konto.&lt;br&gt;&lt;br&gt;Om du har förlorat tillgången till ditt konto kan du kontakta Microsoft för att få hjälp.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -2457,7 +2457,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="521"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj uppdateringsfil</translation>
     </message>
 </context>
 <context>
@@ -3951,7 +3951,7 @@ Vänligen välj en av följande eller sök efter en körbar Java-fil.</translati
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">För att kunna spela Minecraft så måste du vara inloggad på minst ett Microsoft- eller Mojang-konto. Mojang-konton kan endast användas offline. Vill du öppna kontohanteraren och lägga till ett konto nu?</translation>
+        <translation>För att kunna spela Minecraft så måste du vara inloggad på minst ett Microsoft konto som äger Minecraft. Vill du öppna kontohanteraren och lägga till ett konto nu?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4386,17 +4386,17 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Övrigt</translation>
+        <translation>Övrigt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal parallella uppgifter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal parallella nerladdningar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
@@ -5801,8 +5801,8 @@ Detta kan vara permanent och kommer att helt radera instansen.
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">Launchern kan inte ladda ner Minecraft eller uppdatera instansen om du inte har lagt till minst ett konto.
-Vänligen lägg till ditt Microsoft- eller Mojang-konto.</translation>
+        <translation>Prism Launcher kan inte ladda ner Minecraft eller uppdatera instanser om du inte har lagt till minst ett konto.
+Vänligen lägg till ett Microsoft konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
@@ -6074,7 +6074,7 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera från fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -7075,7 +7075,7 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Söker efter beroenden...</translation>
+        <translation>Söker efter beroenden...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
@@ -7130,17 +7130,17 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny versionstyp: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Krävs av: %1</translation>
+        <translation>Krävs av: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Required by:</source>
-        <translation type="unfinished">Krävs av:</translation>
+        <translation>Krävs av:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="441"/>
@@ -7392,7 +7392,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj uppdateringsfil</translation>
     </message>
 </context>
 <context>
@@ -9461,7 +9461,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versionstyp: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
@@ -10921,8 +10921,8 @@ Detta är permanent och kommer att helt ta bort den anpassade komponenten.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">Kan inte ladda ner Minecraft eller uppdatera instanser om du inte har lagt till minst ett konto.
-Vänligen lägg till ditt Microsoft- eller Mojang-konto.</translation>
+        <translation>Kan inte ladda ner Minecraft eller uppdatera instanser om du inte har lagt till minst ett konto.
+Vänligen lägg till ett Microsoft konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
