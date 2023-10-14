@@ -8010,22 +8010,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇選用的模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>選取全部</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
         <source>Deselect All</source>
-        <translation type="unfinished"></translation>
+        <translation>取消選取全部</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>未選取的模組將會停用。</translation>
     </message>
 </context>
 <context>
