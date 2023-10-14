@@ -615,7 +615,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>在添加离线账号之前，您必须先添加一个已购买 Minecraft 的微软账号。&lt;br&gt;&lt;br&gt;如果你的账号丢失，请联系微软寻求帮助。</translation>
+        <translation>您必须添加一个拥有 Minecraft 的微软账户，才能添加离线账号。&lt;br&gt;&lt;br&gt;如果您遗失了您的账户，您可以联系微软以获得支持。</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
