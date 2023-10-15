@@ -214,7 +214,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
-        <translation>正在选定可选模组……</translation>
+        <translation>正在选择可选模组……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
@@ -427,7 +427,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>账号类型（微软账户或离线）</translation>
+        <translation>账号类型（微软账号或离线用户）</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -558,13 +558,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>添加微软账户(&amp;A)</translation>
+        <translation>添加微软账号(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="103"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>添加离线账号(&amp;O)</translation>
+        <translation>添加离线用户(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
@@ -595,7 +595,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>欢迎！
-如果您是首次打开这里，您可以选择“添加微软账户”按钮来链接您的微软账户。</translation>
+如果您是首次来到这里，可以单击“添加微软账号”按钮来链接您的微软账号。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -610,12 +610,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>请输入您要添加的 Mojang 账户的邮箱和密码。</translation>
+        <translation>请输入您要添加的 Mojang 账号的邮箱和密码。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您必须添加一个拥有 Minecraft 的微软账户，才能添加离线账号。&lt;br&gt;&lt;br&gt;如果您遗失了您的账户，您可以联系微软以获得支持。</translation>
+        <translation>您必须先添加一个拥有 Minecraft 的微软账号，才能添加其他离线用户。&lt;br&gt;&lt;br&gt;如果您遗失了您的账号，可以联系微软以获得支持。</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -650,7 +650,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>请输入要添加的的离线账号名称。</translation>
+        <translation>请输入您要添加的的离线用户的用户名。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
@@ -995,7 +995,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>选择下载的模组所在目录</translation>
+        <translation>选择下载模组的目录</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
@@ -1230,7 +1230,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>如果选择了“复制存档”，则世界存档数据将被复制而不是链接，因此存档不会在实例之间共享。</translation>
+        <translation>如果选择了“复制存档”，则世界存档数据将复制而非链接，因此存档不会在实例之间共享。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -1962,7 +1962,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>尝试检查并更新所有选定的资源（默认检查所有）</translation>
+        <translation>尝试检查或更新所有选中的资源（默认检查并更新所有资源）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="165"/>
@@ -1993,7 +1993,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="199"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation>选择%1</translation>
+        <translation>选择 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="229"/>
@@ -2972,12 +2972,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>选择您要导入资源包的实例。</translation>
+        <translation>选择需要导入资源包的实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>选择您想把%1导入的实例。</translation>
+        <translation>选择需要导入 %1 的实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -3594,7 +3594,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
         <source>Select a Java version</source>
-        <translation>选择一个 Java 版本</translation>
+        <translation>选择 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="387"/>
@@ -3685,7 +3685,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation>运行选择的实例</translation>
+        <translation>运行该实例</translation>
     </message>
 </context>
 <context>
@@ -3828,7 +3828,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="130"/>
         <source>Select a Java version</source>
-        <translation>选择一个 Java 版本</translation>
+        <translation>选择 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="142"/>
@@ -3856,7 +3856,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="159"/>
         <source>No Java version selected</source>
-        <translation>没有选择 Java 版本</translation>
+        <translation>未选择 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="160"/>
@@ -3866,7 +3866,7 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>您没有选择 Java 或选择了无效的 Java。
+        <translation>您没有选择 Java 版本或选择的 Java 无法工作。
 %1 将无法启动 Minecraft。
 您想在没有任何 Java 版本的情况下继续吗？
 
@@ -3943,7 +3943,7 @@ Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
         <translation>您的 Java 设置无效。
-请在下面选择或浏览来选定一个 Java 可执行文件。</translation>
+请选择以下选项之一或浏览并选择 Java 可执行文件。</translation>
     </message>
 </context>
 <context>
@@ -4001,7 +4001,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>要游玩 Minecraft，您至少需要登录一个微软账户。Mojang 账户只能离线使用。您想现在打开账号管理添加一个账号吗？</translation>
+        <translation>在游玩 Minecraft 之前，您至少需要链接一个拥有 Minecraft 的微软账号。需要现在打开账号管理添加一个账号吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4035,12 +4035,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="179"/>
         <source>Choose your offline mode player name.</source>
-        <translation>选择离线游戏时的玩家名称。</translation>
+        <translation>输入离线游戏时使用的玩家名。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="181"/>
         <source>Choose your demo mode player name.</source>
-        <translation>选择体验版玩家名。</translation>
+        <translation>选择体验模式玩家名。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -4518,7 +4518,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>您真的想使用这个路径吗？选择“否”将会关闭且不会改变您目前的实例路径。</translation>
+        <translation>您确定想使用此路径吗？选择“否”将会关闭且不会改变您目前的实例路径。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
@@ -5059,7 +5059,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation>添加微软账户</translation>
+        <translation>添加微软账号</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
@@ -5077,12 +5077,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="70"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>正在使用微软账户登录。</translation>
+        <translation>正在使用微软账号登录。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="94"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>Microsoft 账户身份验证失败——客户端标识已更改。</translation>
+        <translation>Microsoft 账号身份验证失败——客户端标识已更改。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
@@ -5092,7 +5092,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="138"/>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation>微软账户认证因网络错误终止。</translation>
+        <translation>微软账号认证因网络错误终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="143"/>
@@ -5896,7 +5896,7 @@ Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
         <translation>启动器无法在没有正版账号的情况下下载 Minecraft 或更新实例。
-请添加您的微软账户。</translation>
+请添加一个微软账号。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
@@ -6929,7 +6929,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="87"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>尝试检查并更新所有选定的模组（默认检查所有模组）</translation>
+        <translation>尝试检查并更新所有选中的模组（默认检查并更新所有模组）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
@@ -8001,7 +8001,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>超过 16 个字符的用户名不能用于局域网联机或离线（关闭正版验证的）服务器。</translation>
+        <translation>超过 16 个字符的用户名不能用于局域网联机或离线模式（关闭正版验证的）服务器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
@@ -8014,12 +8014,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="10"/>
         <source>Creating offline account.</source>
-        <translation>创建离线账号。</translation>
+        <translation>正在创建离线用户。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="20"/>
         <source>Created offline account.</source>
-        <translation>离线账号已成功创建。</translation>
+        <translation>离线用户已成功创建。</translation>
     </message>
 </context>
 <context>
@@ -8042,7 +8042,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation>未选择的模组会被禁用。</translation>
+        <translation>未选中的模组会被禁用。</translation>
     </message>
 </context>
 <context>
@@ -8266,7 +8266,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>默认剪切板服务已更改为 mclo.gs，请选择您要对设置进行的操作。</translation>
+        <translation>默认剪切板服务已更改为 mclo.gs ，请选择您要对设置进行的操作。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -8338,12 +8338,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation>选择一个账号</translation>
+        <translation>选择账号</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation>选择一个档案。</translation>
+        <translation>选择档案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
@@ -8379,7 +8379,7 @@ Error message: %3</source>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>只差最后一步就可在此账号上玩 Minecraft 了。
+        <translation>只差最后一步就可在此账号上游玩 Minecraft 了。
 
 请慎重选择您在游戏里的名称：</translation>
     </message>
@@ -9305,7 +9305,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="247"/>
         <source>Select %1 for download</source>
-        <translation>选择要下载的%1</translation>
+        <translation>选择要下载的 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
@@ -9345,7 +9345,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="249"/>
         <source>Deselect %1 for download</source>
-        <translation>取消选择要下载的%1</translation>
+        <translation>取消选择要下载的 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
@@ -9700,7 +9700,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
         <source>Confirm %1 selection</source>
-        <translation>确认选择%1</translation>
+        <translation>确认选择 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="108"/>
@@ -10925,7 +10925,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
         <source>Change version of the selected component.</source>
-        <translation>更改选定组件的版本。</translation>
+        <translation>更改选中组件的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
@@ -11588,7 +11588,7 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Select a Minecraft world zip</source>
-        <translation>选择一个包含 Minecraft 世界的 Zip 文件</translation>
+        <translation>选择 Minecraft 世界压缩包（.zip 文件）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
@@ -11696,7 +11696,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>此微软账户没有 Xbox Live 档案。请先在 %1 购买游戏。</translation>
+        <translation>此微软账号没有 Xbox Live 档案。请先在 %1 购买游戏。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
@@ -11708,9 +11708,9 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>此微软账户拥有者尚未成年，且未绑定到一个家庭。
+        <translation>此微软账号拥有者尚未成年，且未绑定到一个家庭。
 
-请根据 %1 设置您的帐户。</translation>
+请根据 %1 设置您的帐号。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="134"/>
