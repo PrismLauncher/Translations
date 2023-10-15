@@ -2489,7 +2489,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="521"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите файл обновления</translation>
     </message>
 </context>
 <context>
@@ -4222,7 +4222,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>Это может привести к нарушению работоспособности игры. Используйте только в случае зависания Minecraft по какой-либо причине</translation>
+        <translation>Это может привести к нарушению работоспособности игры. Используйте только если Minecraft завис по какой-либо причине</translation>
     </message>
 </context>
 <context>
@@ -4294,7 +4294,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="83"/>
         <source>I&amp;nstances:</source>
-        <translation>Сборки:</translation>
+        <translation>&amp;Сборки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="102"/>
@@ -4307,12 +4307,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>&amp;Mods:</source>
-        <translation>Моды:</translation>
+        <translation>&amp;Моды:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation>Иконки:</translation>
+        <translation>&amp;Иконки:</translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
@@ -4439,7 +4439,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>&amp;Downloads:</source>
-        <translation>Скачи&amp;ваний:</translation>
+        <translation>&amp;Загрузки:</translation>
     </message>
     <message>
         <source>...</source>
@@ -6176,7 +6176,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Папка вашей сборки содержит &apos;Rar$&apos; - это значит, что Вы не извлекли архив с лаунчером!</translation>
+        <translation>Имя папки вашей сборки содержит &apos;Rar$&apos; - это значит, что Вы не распаковали архив с лаунчером!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
@@ -6206,7 +6206,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="200"/>
         <source>&amp;Accounts</source>
-        <translation>Учётные записи</translation>
+        <translation>&amp;Учётные записи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
@@ -7218,7 +7218,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="53"/>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Вы вот-вот обновите следующие моды:</translation>
+        <translation>Вы собираетесь обновить следующие моды:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="54"/>
@@ -9245,7 +9245,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="104"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>моды</translation>
+        <translation>модов</translation>
     </message>
 </context>
 <context>
@@ -9795,7 +9795,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>Только %1 будет скачен с проверкой!</translation>
+        <translation>Только отмеченные %1 будут загружены!</translation>
     </message>
 </context>
 <context>
