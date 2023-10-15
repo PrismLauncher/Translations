@@ -55,7 +55,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">Nhập một client ID tùy chỉnh cho việc xác thực qua Microsoft ở đây. </translation>
+        <translation type="unfinished">Nhập một client ID tùy chỉnh cho việc xác thực qua Microsoft ở đây.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -100,7 +100,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dịch vụ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -419,7 +419,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dạng tài khoản (MSA hoặc Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -586,7 +586,8 @@ Nếu bạn là người mới, chọn nút &quot;Thêm&quot; để cho tài kho
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Xin chào!
+Bạn có thể bắt đầu bằng cách chọn nút &quot;Thêm tài khoản Microsoft&quot; để kết nối tài khoản Microsoft của bạn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -606,7 +607,8 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bạn phải có một tài khoản Microsoft đã sở hữu Minecraft trước khi bạn có thể thêm tài khoản Ofline vào.&lt;br&gt;&lt;br&gt;Nếu như bạn đã làm mất tài khoản
+bạn có thể liên hệ Microsoft để giúp đỡ</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -1102,7 +1104,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="289"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Vui lòng chờ...</translation>
+        <translation>Vui lòng chờ...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
