@@ -163,7 +163,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="149"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Не удалось получить локальный индекс метаданных для &apos;%1&apos; v%2</translation>
+        <translation>Не удалось получить локальный индекс метаданных для «%1» v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
@@ -198,7 +198,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="628"/>
         <source>Downloading configs...</source>
-        <translation>Загрузка настроек...</translation>
+        <translation>Загрузка настроек…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
@@ -208,7 +208,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
         <source>Extracting configs...</source>
-        <translation>Извлечение настроек...</translation>
+        <translation>Извлечение настроек…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="677"/>
@@ -218,12 +218,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
-        <translation>Выбор необязательных модов...</translation>
+        <translation>Выбор необязательных модов…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
         <source>Downloading mods...</source>
-        <translation>Загрузка модов...</translation>
+        <translation>Загрузка модов…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
@@ -248,12 +248,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="859"/>
         <source>Failed to extract mods...</source>
-        <translation>Не удалось извлечь моды...</translation>
+        <translation>Не удалось извлечь моды…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="869"/>
         <source>Extracting mods...</source>
-        <translation>Извлечение модов...</translation>
+        <translation>Извлечение модов…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="940"/>
@@ -599,7 +599,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Добро пожаловать!
-Если вы здесь впервые, вы можете нажать кнопку «Добавить Microsoft», чтобы связать свою учетную запись Microsoft.</translation>
+Если вы здесь впервые, вы можете нажать кнопку «Добавить Microsoft», чтобы связать свою учётную запись Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -672,7 +672,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="59"/>
         <source>Sending request to auth servers...</source>
-        <translation>Отправка запроса на сервера аутентификации...</translation>
+        <translation>Отправка запроса на сервера аутентификации…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
@@ -707,7 +707,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
@@ -753,7 +753,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Обновление индекса ресурсов...</translation>
+        <translation>Обновление индекса ресурсов…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
@@ -950,7 +950,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="53"/>
         <source>Working...</source>
-        <translation>Обработка...</translation>
+        <translation>Обработка…</translation>
     </message>
 </context>
 <context>
@@ -1131,12 +1131,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="289"/>
         <source>Please wait...</source>
-        <translation>Пожалуйста, подождите...</translation>
+        <translation>Пожалуйста, подождите…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
         <source>Waiting for a task to start...</source>
-        <translation>Ожидание начала выполнения задачи...</translation>
+        <translation>Ожидание начала выполнения задачи…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="293"/>
@@ -1374,7 +1374,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском выполняется перед запуском сборки, а команда после выхода после закрытия.&lt;/p&gt;&lt;p&gt;Они будут выполняться в папке лаунчера с дополнительными переменными среды:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Имя сборки&lt;/li&gt;&lt;li&gt;$INST_ID - ID сборки (название её папки)&lt;/li&gt;&lt;li&gt;$INST_DIR - полный путь до сборки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - полный путь до Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java файл, используемый при запуске&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - аргументы командной строки, используемые при запуске (внимание: они не будут работать при наличии пробелов)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обёртки позволяет запускать Java, используя дополнительную программу-обёртку (например, &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском выполняется перед запуском сборки, а команда после выхода после закрытия.&lt;/p&gt;&lt;p&gt;Они будут выполняться в папке лаунчера с дополнительными переменными среды:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Имя сборки&lt;/li&gt;&lt;li&gt;$INST_ID - ID сборки (название её папки)&lt;/li&gt;&lt;li&gt;$INST_DIR - полный путь до сборки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - полный путь до Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java файл, используемый при запуске&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - аргументы командной строки, используемые при запуске (внимание: они не будут работать при наличии пробелов)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обёртки позволяет запускать Java, используя дополнительную программу-обёртку (например, «optirun» на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1558,24 +1558,24 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>Запрашиваем метданные из %1...</translation>
+        <translation>Запрашивание метаданных из %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="166"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>Запрашиваем метаданные о &apos;%2&apos; из %1...</translation>
+        <translation>Запрашивание метаданных о «%2» из %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="245"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="334"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>Парсинг ответа API Modrinth для &apos;%1&apos;...</translation>
+        <translation>Парсинг ответа API Modrinth для «%1»…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="401"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="468"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Парсинг ответа API CurseForge для &apos;%1&apos;...</translation>
+        <translation>Парсинг ответа API CurseForge для «%1»…</translation>
     </message>
 </context>
 <context>
@@ -1940,7 +1940,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>Открыть папку &apos;config&apos; в системном файловом менеджере.</translation>
+        <translation>Открыть папку «config» в системном файловом менеджере.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
@@ -2016,7 +2016,7 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>Вы собираетесь удалить папку &quot;%1&quot;.
+        <translation>Вы собираетесь удалить папку «%1».
 Это действие необратимо, и она исчезнет из родительской папки.
 
 Вы уверены?</translation>
@@ -2167,7 +2167,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Не удалось извлечь нативный jar-файл &apos;%1&apos; в указанное место &apos;%2&apos;</translation>
+        <translation>Не удалось извлечь нативный jar-файл «%1» в указанное место «%2»</translation>
     </message>
 </context>
 <context>
@@ -2180,7 +2180,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>Загрузка библиотек FML...</translation>
+        <translation>Загрузка библиотек FML…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -2261,12 +2261,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation>Копирование файлов...</translation>
+        <translation>Копирование файлов…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation>Копирование настроек...</translation>
+        <translation>Копирование настроек…</translation>
     </message>
 </context>
 <context>
@@ -2274,7 +2274,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="31"/>
         <source>Resolving mod IDs...</source>
-        <translation>Исправление идентификаторов мода...</translation>
+        <translation>Исправление идентификаторов мода…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
@@ -2291,28 +2291,28 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Подготовка модов для CurseForge...</translation>
+        <translation>Подготовка модов для CurseForge…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Отключенные моды не будут обновлены, чтобы предотвратить дублирование модов!</translation>
+        <translation>Отключённые моды не будут обновлены, чтобы предотвратить дублирование модов!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="131"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Получаю ответ API CurseForge для &apos;%1&apos;...</translation>
+        <translation>Ожидание ответа API CurseForge для «%1»…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Произвожу парсинг ответа API CurseForge для &apos;%1&apos;...</translation>
+        <translation>Парсинг ответа API CurseForge для «%1»…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="145"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Не найдена подходящая версия этого мода. Вероятно, он недоступен для текущей версии игры / загрузчика модов.</translation>
+        <translation>Не найдена подходящая версия этого мода. Вероятно, он недоступен для текущей версии игры или загрузчика модов.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="153"/>
@@ -2442,7 +2442,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="592"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Копирование заблокированных модов...</translation>
+        <translation>Копирование заблокированных модов…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="605"/>
@@ -2471,7 +2471,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
         <source>Downloading mods...</source>
-        <translation>Загрузка модов...</translation>
+        <translation>Загрузка модов…</translation>
     </message>
 </context>
 <context>
@@ -2479,7 +2479,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="395"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Привет!&lt;/h1&gt;&lt;h4&gt;Похоже, ваш Pack ID недействителен. Это связано с ошибкой в старых версиях лаунчера.&lt;br/&gt;К сожалению, без этой информации мы не можем выполнять правильные запросы к API.&lt;br/&gt;&lt;br/&gt;Итак, чтобы эта функция работала, вам нужно будет повторно загрузить сборку из встроенного загрузчика.&lt;br/&gt;&lt;br/&gt;Не волнуйтесь, вместо этого вам будет предложено обновить эту сборку, чтобы вы не потеряли эту сборку!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Привет!&lt;/h1&gt;&lt;h4&gt;Похоже, ваш Pack ID недействителен. Это связано с ошибкой в старых версиях лаунчера.&lt;br/&gt;К сожалению, без этой информации выполнять правильные запросы к API невозможно.&lt;br/&gt;&lt;br/&gt;Чтобы эта функция работала, вам нужно будет повторно загрузить сборку из встроенного загрузчика.&lt;br/&gt;&lt;br/&gt;Не волнуйтесь, вместо этого вам будет предложено обновить эту сборку, чтобы вы не потеряли эту сборку!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="457"/>
@@ -2585,23 +2585,23 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
         <source>Finding versions for hashes...</source>
-        <translation>Поиск версий для хэшов...</translation>
+        <translation>Поиск версий для хэшов…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Парсинг ответа API CurseForge для &apos;%1&apos;...</translation>
+        <translation>Парсинг ответа API CurseForge для «%1»…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>Поиск информации о проекте из CurseForge...</translation>
+        <translation>Поиск информации о проекте из CurseForge…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="332"/>
         <source>Adding files...</source>
-        <translation>Добавление файлов...</translation>
+        <translation>Добавление файлов…</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -3348,7 +3348,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="93"/>
         <source>Auto-detect...</source>
-        <translation>Автоматическое обнаружение...</translation>
+        <translation>Автоматическое обнаружение…</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -3818,7 +3818,7 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="209"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>Автоопределение...</translation>
+        <translation>Автоопределение…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="222"/>
@@ -4057,7 +4057,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="150"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Похоже, что мы не смогли запуститься после %1 попыток. Хотите продолжить попытки?</translation>
+        <translation>Похоже, что не удалось запуститься после %1 попыток. Хотите продолжить попытки?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="186"/>
@@ -4128,7 +4128,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="266"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>Идентификация клиента лаунчера изменилась. Пожалуйста, удалите эту учетную запись и добавьте ее снова.</translation>
+        <translation>Идентификация клиента лаунчера изменилась. Пожалуйста, удалите эту учётную запись и добавьте её снова.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="267"/>
@@ -4550,7 +4550,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Вы действительно хотите использовать этот путь? Выбрав &quot;Нет&quot;, окно закроется и путь к сборке не будет изменен.</translation>
+        <translation>Вы действительно хотите использовать этот путь? Выбрав «Нет», окно закроется и путь к сборке не будет изменён.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
@@ -4630,7 +4630,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="158"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>Команда обертки &quot;%1&quot; не может быть найдена.</translation>
+        <translation>Не удалось найти команду обёртки «%1».</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
@@ -4892,7 +4892,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>Загрузка необходимых библиотек...</translation>
+        <translation>Загрузка необходимых библиотек…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -5113,7 +5113,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="70"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>Вход в аккаунт Microsoft...</translation>
+        <translation>Вход через учётную запись Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="94"/>
@@ -5305,7 +5305,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="236"/>
         <source>More news...</source>
-        <translation>Больше новостей...</translation>
+        <translation>Больше новостей…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="239"/>
@@ -5340,7 +5340,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="434"/>
         <source>Cop&amp;y...</source>
-        <translation>Копировать...</translation>
+        <translation>Копировать…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="497"/>
@@ -5376,7 +5376,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="279"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Добавить сборк&amp;у...</translation>
+        <translation>Добавить сборк&amp;у…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="184"/>
@@ -5387,7 +5387,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="306"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>Нас&amp;тройки...</translation>
+        <translation>Нас&amp;тройки…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="270"/>
@@ -5450,7 +5450,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>&amp;Update...</source>
-        <translation>Обновить...</translation>
+        <translation>Обновить…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="251"/>
@@ -5563,7 +5563,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>Открыть корневую папку лаунчера в файловом браузере.</translation>
+        <translation>Открыть корневую папку лаунчера в файловом менеджере.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
@@ -5655,7 +5655,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
         <source>&amp;Change Group...</source>
-        <translation>Изменить группу...</translation>
+        <translation>Изменить группу…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="375"/>
@@ -5846,7 +5846,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>Delete group &apos;%1&apos;</source>
-        <translation>Удалить группу &apos;%1&apos;</translation>
+        <translation>Удалить группу «%1»</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -5895,7 +5895,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="764"/>
         <source>Loading news...</source>
-        <translation>Загрузка новостей...</translation>
+        <translation>Загрузка новостей…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
@@ -6009,7 +6009,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Вы собираетесь удалить: %1
+        <translation>Вы собираетесь удалить «%1».
 Это действие необратимо и полностью удалит сборку.
 
 Вы уверены?</translation>
@@ -6161,7 +6161,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>Папка вашей сборки содержит знак &apos;!&apos; в своём пути, это приводит к проблемам в Java!</translation>
+        <translation>Папка вашей сборки содержит знак «!» в своём пути, это приводит к проблемам в Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1705"/>
@@ -6176,12 +6176,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Имя папки вашей сборки содержит &apos;Rar$&apos; - это значит, что Вы не распаковали архив с лаунчером!</translation>
+        <translation>Имя папки вашей сборки содержит «Rar$» - это значит, что Вы не распаковали архив с лаунчером!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>Папка сборки располагается во временной папке: &apos;%1&apos;!</translation>
+        <translation>Папка сборки располагается во временной папке: «%1»!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1739"/>
@@ -7011,7 +7011,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
         <source>Remove mods&apos; metadata</source>
-        <translation>Удалить метаданные модификации</translation>
+        <translation>Удалить метаданные модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
@@ -7082,7 +7082,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>Версия &apos;%1&apos; уже актуальна! :)</translation>
+        <translation>Версия «%1» уже актуальна! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="235"/>
@@ -7105,7 +7105,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>Не удалось создать папку bin для Minecraft.jar</translation>
+        <translation>Не удалось создать папку «bin» для «Minecraft.jar»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
@@ -7330,7 +7330,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
         <source>Generating metadata...</source>
-        <translation>Генерирую метаданные...</translation>
+        <translation>Генерирование метаданных…</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -7494,12 +7494,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Подготовка модов для Modrinth...</translation>
+        <translation>Подготовка модов для Modrinth…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Отключенные моды не будут обновлены, чтобы избежать ошибок их дублирования!</translation>
+        <translation>Отключённые моды не будут обновлены, чтобы избежать ошибок их дублирования!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
@@ -7509,7 +7509,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="104"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Не найдена подходящая версия этого мода. Вероятно, он недоступен для текущей версии игры / загрузчика модов.</translation>
+        <translation>Не найдена подходящая версия этого мода. Вероятно, он недоступен для текущей версии игры или загрузчика модов.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
@@ -7519,7 +7519,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="176"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>Ожидание ответа API Modrinth...</translation>
+        <translation>Ожидание ответа API Modrinth…</translation>
     </message>
 </context>
 <context>
@@ -7599,7 +7599,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="279"/>
         <source>Downloading mods...</source>
-        <translation>Загрузка модов...</translation>
+        <translation>Загрузка модов…</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -7683,7 +7683,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
         <source>Finding versions for hashes...</source>
-        <translation>Поиск версий для хэшов...</translation>
+        <translation>Поиск версий для хэшов…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
@@ -7693,7 +7693,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
         <source>Adding files...</source>
-        <translation>Добавление файлов...</translation>
+        <translation>Добавление файлов…</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -8112,7 +8112,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать всё</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
@@ -8211,8 +8211,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>Вы собираетесь удалить &quot;%1&quot;.
-Это действие необратимо, &quot;%1&quot; навсегда исчезнет из папки с журналами.
+        <translation>Вы собираетесь удалить «%1».
+Это действие необратимо, «%1» навсегда исчезнет из папки с журналами.
 
 Вы уверены?</translation>
     </message>
@@ -8499,17 +8499,17 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>Пожалуйста, подождите...</translation>
+        <translation>Пожалуйста, подождите…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation>Общее состояние задачи...</translation>
+        <translation>Общее состояние задачи…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="56"/>
         <source>Global Status Details...</source>
-        <translation>Подробности глобального статуса...</translation>
+        <translation>Подробности глобального статуса…</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -8682,7 +8682,7 @@ Choose your name carefully:</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Вы собираетесь загрузить &quot;%1&quot; в %2.
+        <translation>Вы собираетесь загрузить «%1» в %2.
 Вам следует дважды проверить отсутствие личной информации.
 
 Вы уверены?</translation>
@@ -8711,7 +8711,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="281"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation>Указанный файл Java не запустился корректно.&lt;br /&gt;</translation>
+        <translation>Указанный файл Java не запустился правильно.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="291"/>
@@ -8751,12 +8751,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>В processArguments установлено неизвестное значение &apos;%1&apos;</translation>
+        <translation>В processArguments установлено неизвестное значение «%1»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation>Значение &apos;minimumLauncherVersion&apos; текущей версии (%1) выше, чем поддерживается %3 (%2). Лаунчер может работать неправильно!</translation>
+        <translation>Значение «minimumLauncherVersion» текущей версии (%1) выше, чем поддерживается %3 (%2). Лаунчер может работать неправильно!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
@@ -8776,7 +8776,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="189"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation>В версии файла имеется &apos;+libraries&apos; и &apos;libraries&apos;. Больше это не поддерживается.</translation>
+        <translation>В файле версий и «+libraries» и «libraries». Больше это не поддерживается.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="234"/>
@@ -8786,27 +8786,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation>Файл версии содержит неподдерживаемый элемент &apos;tweakers&apos;</translation>
+        <translation>Файл версии содержит неподдерживаемый элемент «tweakers»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="263"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>Файл версии содержит неподдерживаемый элемент &apos;-libraries&apos;</translation>
+        <translation>Файл версии содержит неподдерживаемый элемент «-libraries»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="266"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>Файл версии содержит неподдерживаемый элемент &apos;-tweakers&apos;</translation>
+        <translation>Файл версии содержит неподдерживаемый элемент «-tweakers»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="269"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>Файл версии содержит неподдерживаемый элемент &apos;-minecraftArguments&apos;</translation>
+        <translation>Файл версии содержит неподдерживаемый элемент «-minecraftArguments»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="272"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>Файл версии содержит неподдерживаемый элемент &apos;+minecraftArguments&apos;</translation>
+        <translation>Файл версии содержит неподдерживаемый элемент «+minecraftArguments»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="310"/>
@@ -8929,7 +8929,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation>Вы пытались вручную задать параметр памяти JVM (используя &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; или &quot;-Xms&quot;).
+        <translation>Вы пытались вручную задать параметр памяти JVM (используя «-XX:PermSize», «-XX-MaxHeapSize», «-XX:InitialHeapSize», «-Xmx» или «-Xms»).
 В настройках есть выделенные поля для них (вкладка Java, в группе «Память» вверху).
 Это сообщение будет отображаться до тех пор, пока вы не удалите их из аргументов JVM.</translation>
     </message>
@@ -8943,7 +8943,7 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>Вы попытались передать JVM требуемую версию Java (используя &quot;-version:xxx&quot;). Это небезопасно и не будет разрешено.
+        <translation>Вы попытались передать JVM требуемую версию Java (используя «-version:xxx»). Это небезопасно и не будет разрешено.
 Это сообщение будет отображаться до тех пор, пока вы не удалите его из аргументов JVM.</translation>
     </message>
     <message>
@@ -9034,7 +9034,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation>Имя экземпляра, похоже, включает старую версию. Не хотите ли вы обновить ее?
+        <translation>Имя экземпляра, похоже, включает старую версию. Не хотите ли вы обновить её?
 
 Старое имя: %1
 Новое имя: %2</translation>
@@ -9384,7 +9384,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="99"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>Поиск %1...</translation>
+        <translation>Поиск %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
@@ -9445,7 +9445,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>Loading versions...</source>
-        <translation>Загрузка версий...</translation>
+        <translation>Загрузка версий…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
@@ -10070,8 +10070,8 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>Вы собираетесь удалить &quot;%1&quot;
-Это действие необратимо, и сервер будет навсегда удален из списка (ОЧЕНЬ НАДОЛГО).
+        <translation>Вы собираетесь удалить «%1».
+Это действие необратимо, и сервер будет навсегда удалён из списка (ОЧЕНЬ НАДОЛГО).
 
 Вы уверены?</translation>
     </message>
@@ -10371,52 +10371,52 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="58"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation>Не удалось открыть &quot;bin/modpack.jar&quot;!</translation>
+        <translation>Не удалось открыть «bin/modpack.jar»!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="67"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation>Не удалось открыть &quot;fmlversion.properties&quot;!</translation>
+        <translation>Не удалось открыть «fmlversion.properties»!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="127"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation>Не удалось открыть &quot;version.json&quot;!</translation>
+        <translation>Не удалось открыть «version.json»!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="87"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation>Не удалось найти &quot;version.json&quot; внутри &quot;bin/modpack.jar&quot;, но версия Minecraft неизвестна</translation>
+        <translation>Не удалось найти «version.json» внутри «bin/modpack.jar», но версия Minecraft неизвестна</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="99"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation>Не удалось открыть &quot;forgeversion.properties&quot;</translation>
+        <translation>Не удалось открыть «forgeversion.properties»</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="113"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation>Неправильный &quot;forgeversion.properties&quot;!</translation>
+        <translation>Неправильный «forgeversion.properties»!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="134"/>
         <source>Unable to find a &quot;version.json&quot;!</source>
-        <translation>Не удалось найти &quot;version.json&quot;!</translation>
+        <translation>Не удалось найти «version.json»!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="144"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation>Невозможно разобрать &quot;version.json&quot;:
+        <translation>Невозможно разобрать «version.json»:
 inheritsFrom отсутствует</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="181"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation>Невозможно разобрать &quot;version.json&quot;:
+        <translation>Невозможно разобрать «version.json»:
 </translation>
     </message>
 </context>
@@ -10839,7 +10839,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Перейдите в настройки &quot;Установка Java&quot;, чтобы изменить свою версию Java или отключить проверку совместимости, если вы знаете, что делаете.</translation>
+        <translation>Перейдите в настройки «Установка Java», чтобы изменить свою версию Java или отключить проверку совместимости, если вы знаете, что делаете.</translation>
     </message>
 </context>
 <context>
@@ -11097,7 +11097,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>Открыть папку .minecraft сборки.</translation>
+        <translation>Открыть папку «.minecraft» сборки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
@@ -11170,8 +11170,8 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation>Вы собираетесь удалить &quot;%1&quot;.
-Это действие необратимо, и пользовательский компонент будет навсегда удален.
+        <translation>Вы собираетесь удалить «%1».
+Это действие необратимо, и пользовательский компонент будет навсегда удалён.
 
 Вы уверены?</translation>
     </message>
@@ -11265,7 +11265,7 @@ Please add your Microsoft or Mojang account.</oldsource>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>Вы собираетесь восстановить &quot;%1&quot;.
+        <translation>Вы собираетесь восстановить «%1».
 Это необратимо и полностью отменит ваши настройки.
 
 Вы уверены?</translation>
@@ -11710,8 +11710,8 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>Вы собираетесь удалить &quot;%1&quot;.
-Это действие необратимо, и мир будет удален навсегда (ОЧЕНЬ НАДОЛГО).
+        <translation>Вы собираетесь удалить «%1».
+Это действие необратимо, и мир будет удалён навсегда (ОЧЕНЬ НАДОЛГО).
 
 Вы уверены?</translation>
     </message>
@@ -11825,7 +11825,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="60"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Не удалось получить информацию о профиле Xbox: &apos;%1&apos;</translation>
+        <translation>Не удалось получить информацию о профиле Xbox: «%1»</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -11842,7 +11842,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="15"/>
         <source>Logging in as an Xbox user.</source>
-        <translation>Вход через аккаунт Xbox...</translation>
+        <translation>Вход через учётную запись Xbox.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
@@ -11852,7 +11852,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation>Не удалось выполнить аутентификацию пользователя XBox: &apos;%1&apos;</translation>
+        <translation>Не удалось выполнить аутентификацию пользователя XBox: «%1»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
