@@ -757,7 +757,7 @@ Update von Version %3 zu Version %4
 Zielinstallationspfad: %5
 Datenpfad: %6
 Dies bedeutet wahrscheinlich, dass ein Updateversuch fehlgeschlagen ist. Bitte vergewissere dich vor dem Fortfahren, dass deine Installation funktional ist.
-Überprüfe die Log-Datei des Prism Launchers bei:
+Überprüfe die Log-Datei des Prism-Launcher-Updaters bei:
 %7
 für Details zum letzten Updateversuch.
 
