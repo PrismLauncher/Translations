@@ -734,12 +734,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>설치 프로그램이 현재 다음 위치에서 업데이트 잠금 파일을 발견했습니다: %1
+
+시간: %2
+%3에서 %4로 업데이트
+설치 경로: %5
+데이터 경로: %6
+이는 보통 업데이트 시도가 실패했음을 의미합니다. 진행하기 전에 설치가 진행 중인지 확인했습니다.
+마지막 업데이트 시도의 자세한 내용을 확인하려면: 
+%7
+위 위치에서 Prism Launcher 업데이터 로그를 볼 수 있습니다.
+
+잠금 파일을 삭제하고 진행하려면 아래에 있는 &quot;무시&quot; 버튼을 누르십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 진행 중</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="934"/>
@@ -749,12 +760,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 실패
+
+진행하기 전에 설치가 이미 진행 중인지 확인하십시오.
+최근 업데이트 시도의 자세한 내용을 확인하려면: 
+%1
+에서 Prism Launcher 업데이터 로그를 볼 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="942"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="967"/>
@@ -764,12 +780,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 성공
+
+이제 당신은 %1을 실행 중입니다.
+자세한 내용을 확인하려면:
+%1
+에서 Prism Launcher 업데이터 로그를 볼 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="975"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 성공</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1307"/>
@@ -8340,68 +8361,72 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="89"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">업데이트 확인 중...</translation>
+        <translation>업데이트 확인 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="118"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="139"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 확인 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="119"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>5초 이후에 시작 실패
+이유: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="140"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이터를 60초 동안 닫지 못했습니다
+이유: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>최신 버전입니다</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>최신 버전을 실행하고 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 확인 오류</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="177"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트를 확인하는 중에 오류가 발생했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="204"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>알 수 없는 업데이트 오류</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="205"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Updater가 알 수 없는 상태로 종료되었습니다.
+종료 코드: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="207"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>StdOut: %1
+StdErr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 업데이트가 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -8409,103 +8434,103 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>앱 상위 폴더를 사용자 경로로 사용 (&apos;.&apos;으로 현재 디렉토리 사용).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>디렉토리</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>이 버전을 설치된 런처 버전으로 사용합니다. (Windows에서 stdout을 확실하게 저장할 수 없기에 제공됨)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>설치된 런처 버전</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>버전 이름</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>Update from the specified repo.</source>
-        <translation type="unfinished"></translation>
+        <translation>지정된 저장소에서 업데이트합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub 저장소 URL</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트가 필요할 때만 확인합니다. true이면 종료 코드 100, 아니면 0 (혹은 오류가 있을 경우 0 이외의 값).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation>사전 릴리스 버전으로 업데이트 허용</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트가 필요 없는 경우에도 강제로 업데이트</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>사용 가능한 버전의 목록을 표시합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="235"/>
         <source>Log debug to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>콘솔에 디버그 로그를 기록합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>GUI로 설치하려는 버전을 선택하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이터가 이전 버전으로 다운그레이드하는 것을 허용합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>macOS는 지원되지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이터는 macOS에서의 설치를 지원하지 않습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="254"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>설치 지원되지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이터가 구성되지 않은 AppImage에서 실행 중입니까? ($APPIMAGE 환경 변수를 찾을 수 없음)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이터가 메인 실행 파일을 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="368"/>
         <source>The launcher data folder is not writable!</source>
-        <translation type="unfinished"></translation>
+        <translation>런처 데이터 폴더에 쓸 수 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="369"/>
@@ -8515,129 +8540,136 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이터가 로그 파일을 만들지 못했습니다 - 데이터 폴더에 쓸 수 없습니다.
+
+데이터 폴더에 쓰기 권한이 있는 지 확인하세요.
+(%1)
+
+이 문제를 수정할 때까지 진행할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Flatpak을 업데이트하는 것은 지원되지 않습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher의 Flatpak 버전을 실행 중인 경우 업데이트 확인 이외의 작업은 지원되지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Updating Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트가 지원되지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="591"/>
         <source>Updating non-portable linux installations is not supported. Please use your system package manager</source>
-        <translation type="unfinished"></translation>
+        <translation>포터블이 아닌 리눅스 패키지는 업데이트할 수 없습니다. 시스템 패키지 관리자를 사용하십시오</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="641"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1090"/>
         <source>Reading manifest from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에서 매니페스트 읽는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="653"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>매니페스트가 비어 있어, %1의 디렉터리 내용을 가장 잘 추측합니다</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2를 다음 위치에 설치 중 :
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="663"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="670"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에서 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="675"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 %2에서 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="679"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 %2로 복사하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="694"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1167"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>파일이 존재하지 않음, 다음 파일 무시: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="707"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트를 설치하는 중 오류가 발생했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="711"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트를 성공했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>유효한 릴리스 에셋 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="869"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub 릴리스 %1이 이 플랫폼의 유효한 에셋을 가지고 있지 않음: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 포터블: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>예</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>아니요</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>No version selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>버전이 선택되지 않았습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>No version was selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>버전이 선택되지 않았습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
         <source>Failed to Download</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 에셋을 다운로드하는데 실패했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="988"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트가 이미 진행 중입니다
+</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="990"/>
@@ -8653,137 +8685,150 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>설치 프로그램이 현재 다음 위치에서 업데이트 잠금 파일을 발견했습니다: %1
+
+시간: %2
+%3에서 %4로 업데이트
+설치 경로: %5
+데이터 경로: %6
+이는 보통 업데이트 시도가 실패했음을 의미합니다. 진행하기 전에 설치가 진행 중인지 확인했습니다.
+마지막 업데이트 시도의 자세한 내용을 확인하려면: 
+%7
+위 위치에서 Prism Launcher 업데이터 로그를 볼 수 있습니다.
+
+잠금 파일을 삭제하고 진행하려면 아래에 있는 &quot;무시&quot; 버튼을 누르십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 시도가 중단되었습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 %2로 업데이트 중</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1031"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에 있는 포터블 설치 업데이트 중</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1034"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에 있는 설치 파일 실행 중</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>프로세스 시작 결과: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>설치 백업 중</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1071"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos;에서 새 업데이터 시작 중</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1073"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; 실행 실패 %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1124"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>백업 중:
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1142"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1에 설치 백업 중</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
         <source>Backing up and then removing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 백업 후 제거 중</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 %2에 백업하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1154"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 제거하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1189"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>아래 항목을 &quot;%1&quot;에 추출함:
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1191"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1193"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 %2에 추출하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 중: `%1 %2`</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1204"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>런처 자식 프로세스 &quot;%1 %2&quot; 실패.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1206"/>
         <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>압축 추출 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>자식 프로세스 &quot;%1 %2&quot;가 실패했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
         <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>압축 파일을 추출하는 데 실패했습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1220"/>
         <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 아카이브 형식을 알 수 없습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>버전 확인 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>런처 자식 프로세스가 버전을 읽는 데 실패했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>자식 런처 프로세스가 실패했습니다.</translation>
     </message>
 </context>
 <context>
@@ -9609,7 +9654,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher의 자동 업데이터</translation>
     </message>
 </context>
 <context>
@@ -10327,17 +10372,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Version</source>
-        <translation type="unfinished">버전</translation>
+        <translation>버전</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>게시 날짜</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="118"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>설치할 버전을 선택하세요.</translation>
     </message>
 </context>
 <context>
@@ -10345,29 +10390,31 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>설치할 릴리스 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트하고 싶은 릴리스를 선택하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Version</source>
-        <translation type="unfinished">버전</translation>
+        <translation>버전</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>게시 날짜</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="46"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>설치할 버전을 선택하세요.
+
+현재 설치된 버전: %1</translation>
     </message>
 </context>
 <context>
@@ -11105,43 +11152,43 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 사용 가능</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 버전을 사용할 수 있습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>버전 %1을 사용할 수 있습니다 - 현재 %2를 사용하고 있습니다. 지금 다운로드하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>릴리스 노트:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>이 버전 건너뛰기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>나중에 하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 버전 %1을 사용할 수 있습니다!</translation>
     </message>
 </context>
 <context>
