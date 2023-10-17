@@ -1850,7 +1850,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation>Экспорт модпака в ModList</translation>
+        <translation>Экспортировать сборку в ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -2456,7 +2456,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="344"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>Отсутствует указанная папка переопределений (%1). Может быть, модпак уже использовался раньше?</translation>
+        <translation>Отсутствует указанная папка переопределений (%1). Может быть, сборка уже использовалась раньше?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="371"/>
@@ -2517,7 +2517,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="544"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation>Этой &apos;Папке&apos; возможно нужна распаковка: %1</translation>
+        <translation>Этой «папке» возможно нужна распаковка: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="558"/>
@@ -2697,7 +2697,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Примечание: CurseForge позволяет авторам блокировать доступ для сторонних приложений, таких как Prism Launcher. В связи с этим, вам может потребоваться загрузить некоторые моды вручную, чтобы установить модпак.</translation>
+        <translation>Примечание: CurseForge позволяет авторам блокировать доступ для сторонних приложений, таких как Prism Launcher. В связи с этим, вам может потребоваться загрузить некоторые моды вручную, чтобы установить сборку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -3027,12 +3027,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Модпак %1 заблокирован для третьих лиц! Пожалуста, скачайте вручную.</translation>
+        <translation>Сборка %1 заблокирована для третьих лиц! Пожалуйста, скачайте вручную.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Эта URL не правильный модпак!</translation>
+        <translation>Эта URL не правильная сборка!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
@@ -4621,7 +4621,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="111"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Вы пытаетесь указать папку сборки, путь к которой содержит по крайней мере один символ &apos;!&apos;. Это может вызвать проблемы с Java, и ваши сборки (возможно) не запустятся!</translation>
+        <translation>Вы пытаетесь указать папку сборки, путь к которой содержит по крайней мере один символ «!». Это может вызвать проблемы с Java, и ваши сборки (возможно) не запустятся!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
@@ -4992,11 +4992,11 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>Некоторым артефактам, помеченным как &apos;local&apos;, недостает файлов:
+        <translation>Некоторым артефактам, помеченным как &apos;local&apos;, недостаёт файлов:
 %1
 
-Вам нужно либо добавить эти файлы, или убрать пакеты, которые их требуют.
-Вам придется исправить эту проблему вручную.</translation>
+Вам нужно либо добавить эти файлы, либо убрать пакеты, которые их требуют.
+Вам придётся исправить эту проблему вручную.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
@@ -5372,7 +5372,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="254"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>Это пушистый котенок :3</translation>
+        <translation>Это пушистый котёнок :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -5478,12 +5478,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
         <source>View &amp;Instance Folder</source>
-        <translation>Просмотреть &amp;Сборку Папку</translation>
+        <translation>Просмотреть папку &amp;сборок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation>Просмотреть Лаунчер &amp;Корневую Папку</translation>
+        <translation>Просмотреть &amp;корневую папку лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5625,12 +5625,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="733"/>
         <source>View I&amp;con Theme Folder</source>
-        <translation>Просмотр п&amp;апки темы значка</translation>
+        <translation>Просмотреть п&amp;апку темы иконок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
         <source>View Icon Theme Folder</source>
-        <translation>Просмотр папки темы значка</translation>
+        <translation>Просмотреть папку темы иконок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="744"/>
@@ -6020,12 +6020,12 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Модпак, мод или ресурс %1 заблокирован для третьих лиц! Пожалуйста, загрузите его вручную.</translation>
+        <translation>Сборка, мод или ресурс %1 заблокирован для третьих лиц! Пожалуйста, загрузите его вручную.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
         <source>Modpack download</source>
-        <translation>Скачать модпак</translation>
+        <translation>Скачать сборку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
@@ -6065,7 +6065,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1294"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 был успешно добавлен в ваш PATH. Теперь вы можете запустить его, выполнив `%2`.</translation>
+        <translation>%1 был успешно добавлен в ваш PATH. Теперь вы можете запустить его, выполнив «%2».</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1297"/>
@@ -6176,7 +6176,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Лаунчер находится в папке, из которой он был извлечен, поэтому не может создавать ярлыки.</translation>
+        <translation>Лаунчер находится в папке, из которой он был извлечён, поэтому не может создавать ярлыки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
@@ -6289,7 +6289,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Имя папки вашей сборки содержит «Rar$» - это значит, что Вы не распаковали архив с лаунчером!</translation>
+        <translation>Имя папки вашей сборки содержит «Rar$» - это значит, что вы не распаковали архив с лаунчером!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
@@ -6423,7 +6423,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="199"/>
         <source>Update pack</source>
-        <translation>Обновить пак</translation>
+        <translation>Обновить сборку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="210"/>
@@ -6433,7 +6433,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="213"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>Не удалось получить список изменений для этого модпака.</translation>
+        <translation>Не удалось получить список изменений для этой сборки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="215"/>
@@ -7421,7 +7421,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Мод &apos;%1&apos; ещё не имеет метадаты. Нам нужно сгенерировать её, чтобы отслеживать релевантную информацию об обновлении этого мода. Чтобы это сделать, пожалуйста выберите поставщика модификаций, которого мы используем для проверки обновлений мода.</translation>
+        <translation>Мод «%1» ещё не имеет метаданные. Нам нужно сгенерировать их, чтобы отслеживать релевантную информацию об обновлении этого мода. Чтобы это сделать, пожалуйста выберите поставщика модов, которого мы используем для проверки обновлений мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="398"/>
@@ -7845,7 +7845,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Примечание: сборки Modrinth все еще находятся в альфа. Некоторые вещи могут криво работать или не работать вообще! Используйте с осторожностью.</translation>
+        <translation>Примечание: сборки Modrinth всё ещё находятся в альфа. Некоторые вещи могут криво работать или не работать вообще! Используйте с осторожностью.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -8387,7 +8387,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="252"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation>Невозможно удалить некоторые файлы!</translation>
+        <translation>Не удалось удалить некоторые файлы!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
@@ -8575,7 +8575,7 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас последняя версия.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
@@ -8630,7 +8630,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>установленная версия лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
@@ -8645,7 +8645,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>адрес репозитории GitHub</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
@@ -9621,7 +9621,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation>Похожий модпак найден!</translation>
+        <translation>Похожая сборка найдена!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
@@ -9698,7 +9698,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="271"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation>Фоновый кот (из MultiMC)</translation>
+        <translation>Фоновый котик (из MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="272"/>
@@ -11226,7 +11226,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="147"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Кот находится на заднем фоне, но не показан по умолчанию. Чтобы его показать, нужно нажать на кнопку с котом на панели инструментов.</translation>
+        <translation>Котик находится на заднем фоне, но не показан по умолчанию. Чтобы его показать, нажмите на кнопку с котом на панели инструментов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="126"/>
@@ -11254,7 +11254,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Подсказка: Кот находится на заднем фоне, но не показан по умолчанию. Чтобы его показать, нужно нажать на кнопку с котом на панели инструментов.</translation>
+        <translation>Подсказка: Котик находится на заднем фоне, но не показан по умолчанию. Чтобы его показать, нажмите на кнопку с котом на панели инструментов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
@@ -11298,7 +11298,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation>Завершенность - это отношение переведенных строк к их общему количеству, не считая автоматически распознанные.</translation>
+        <translation>Завершённость — это отношение переведённых строк к их общему количеству, не считая автоматически распознанные.</translation>
     </message>
 </context>
 <context>
@@ -11515,7 +11515,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Перейдите в настройки «Установка Java», чтобы изменить свою версию Java или отключить проверку совместимости, если вы знаете, что делаете.</translation>
+        <translation>Перейдите в раздел настроек «Java», чтобы изменить свою версию Java или отключить проверку совместимости, если вы знаете, что делаете.</translation>
     </message>
 </context>
 <context>
@@ -11894,7 +11894,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>Некоторые компоненты не удалось импортировать. Проверьте журнал для получения подробной информации</translation>
+        <translation>Не удалось импортировать некоторые компоненты. Проверьте журнал для подробной информации</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
