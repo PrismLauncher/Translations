@@ -247,12 +247,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Blockierte Mods gefunden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die folgenden Dateien stehen in Drittanbieter-Launchern nicht zum Download zur Verfügung.&lt;br/&gt;Sie müssen manuell heruntergeladen und zur Instanz hinzugefügt werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -445,7 +445,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontotyp (MSA oder Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -504,7 +504,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="365"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft-Nutzername des Accounts.</translation>
+        <translation>Minecraft-Nutzername des Kontos.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -612,7 +612,8 @@ Wenn du hier neu sein solltest, kannst du die &quot;Hinzufügen&quot;-Schaltflä
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Willkommen!
+Wenn du neu hier bist, kannst du den &quot;Microsoft-Konto hinzufügen&quot;-Knopf drücken, um dein Microsoft-Konto hinzuzufügen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -632,7 +633,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du musst ein Microsoft-Konto, das Minecraft besitzt, hinzufügen, bevor du ein Offline-Konto hinzufügen kannst.&lt;br&gt;&lt;br&gt;Falls du dein Konto verloren hast, wende dich für Hilfe an Microsoft.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -749,12 +750,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bei dieser Installation liegt eine Update-lock-Datei vor bei: %1
+
+Zeitstempel: %2
+Update von Version %3 zu Version %4
+Zielinstallationspfad: %5
+Datenpfad: %6
+Dies bedeutet wahrscheinlich, dass ein Updateversuch fehlgeschlagen ist. Bitte vergewissere dich vor dem Fortfahren, dass deine Installation funktional ist.
+Überprüfe die Log-Datei des Prism Launchers bei:
+%7
+für Details zum letzten Updateversuch.
+
+Um diesen lock zu löschen und fortzufahren, drücke &quot;Ignorieren&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Update läuft</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="934"/>
@@ -764,12 +776,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Updateversuch schlug fehl.
+
+Bitte vergewissere dich vor dem Fortfahren, dass deine Installation funktional ist.
+Überprüfe die Log-Datei des Prism-Launcher-Updaters bei:
+%1
+für Details zum letzten Updateversuch.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="942"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Update fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="967"/>
