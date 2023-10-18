@@ -1077,7 +1077,7 @@ po więcej informacji.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Wybierz katalog do którego zostały pobrane modyfikacje</translation>
+        <translation>Wybierz folder, do którego zostały pobrane modyfikacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
@@ -1419,7 +1419,7 @@ po więcej informacji.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="15"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>Nie można utworzyć głównego katalogu gry</translation>
+        <translation>Nie można utworzyć głównego folderu gry</translation>
     </message>
 </context>
 <context>
@@ -2273,7 +2273,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Nie udało się utworzyć katalogu biblioteki FML wewnątrz instancji.</translation>
+        <translation>Nie udało się utworzyć folderu biblioteki FML wewnątrz instancji.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
@@ -4655,10 +4655,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>Próbujesz określić folder instancji, który został tymczasowo przyznany przez Flatpak.
-Jest to znanym powodem występowania błędów. Po ponownym uruchomieniu launcher może zostać uszkodzony, gdyż nie będzie miał dostępu do tego katalogu.
+        <translation>Próbujesz określić folder instancji, który został tymczasowo przyznany za pośrednictwem Flatpak.
+Wiadomo, że powoduje to problemy. Po ponownym uruchomieniu launcher może się zepsuć, ponieważ nie będzie już miał dostępu do tego folderu.
 
-Zalecane jest przyznanie %1 dostępu przez Flatseal.</translation>
+Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
@@ -5291,7 +5291,7 @@ Powód:
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>Zobacz &amp;centralny katalog modyfikacji</translation>
+        <translation>Zobacz &amp;centralny folder modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
@@ -5423,7 +5423,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
         <source>&amp;Folder</source>
-        <translation>&amp;Katalog</translation>
+        <translation>&amp;Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
