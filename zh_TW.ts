@@ -621,7 +621,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您需要先新增一個擁有 Minecraft 的 Microsoft 帳號，才能新增離線帳號。&lt;br&gt;&lt;br&gt;如果您已遺失帳號，您可以聯繫 Microsoft 獲得支援。</translation>
+        <translation>您需要先新增一個擁有 Minecraft 的 Microsoft 帳號，才能新增離線帳號。&lt;br&gt;&lt;br&gt;如果您已遺失帳號，您可以聯繫 Microsoft 取得支援。</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -666,7 +666,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="59"/>
         <source>Sending request to auth servers...</source>
-        <translation>正在傳送請求至驗證伺服器…</translation>
+        <translation>正在向驗證伺服器傳送請求...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
@@ -1317,7 +1317,7 @@ for details.</source>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation>使用符號連結而不要複製檔案。</translation>
+        <translation>使用符號連結而不是複製檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
@@ -3627,7 +3627,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="601"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates 使用了舊的線上服務，且目前已停止維護。&lt;/p&gt;&lt;p&gt;這目前允許使用新版外觀。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
@@ -5982,7 +5982,7 @@ Reason:
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation>除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
+        <translation>除非你新增了至少一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
 請新增你的 Microsoft 帳號。</translation>
     </message>
     <message>
@@ -6568,7 +6568,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates 使用了舊的線上服務，且目前已停止維護。&lt;/p&gt;&lt;p&gt;這目前允許使用新版外觀。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
@@ -8501,7 +8501,7 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <source>You are running the latest version.</source>
-        <translation>你在執行最新版本。</translation>
+        <translation>你正在執行最新版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
@@ -8729,12 +8729,12 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished">沒有有效的發布資產</translation>
+        <translation>沒有有效的發布資源</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="869"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished">GitHub 發布版本 %1 沒有針對此平台 %2 的有效資產</translation>
+        <translation>GitHub 發布版本 %1 沒有針對此平台 %2 的有效資源</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
@@ -8771,7 +8771,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法下載選取資源。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="988"/>
@@ -8825,117 +8825,119 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1031"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在 %1 更新免安裝版安裝</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1034"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>在 %1 執行安裝程式檔案</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟程式結果：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>備份安裝</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1071"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>在「%1」啟動新更新程式</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1073"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動「%1」失敗 %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1124"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>備份：
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1142"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>在 %1 備份安裝</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
         <source>Backing up and then removing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>備份並移除 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>將 %1 備份至 %2 失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1154"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>移除 %1 失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1189"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>解壓縮以下檔案至「%1」：
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1191"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1193"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>將 %1 解壓縮到 %2 失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
+        <translation>執行：`%1 %2`</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1204"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動子處理程序「%1 %2」。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1206"/>
         <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>解壓縮封存失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>子處理程序「%1 %2」失敗。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
         <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>解壓縮封存失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1220"/>
         <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 為未知封存格式</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查版本失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動子啟動器處理程序以讀取版本失敗。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>子啟動器處理程序失敗。</translation>
     </message>
 </context>
 <context>
@@ -9761,7 +9763,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launhcer 自動更新程式</translation>
     </message>
 </context>
 <context>
@@ -9813,7 +9815,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="118"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>開啟一個新的彈出視窗以查看您選擇的 %1 並確認您的選擇。快捷鍵：Ctrl+Enter</translation>
+        <translation>開啟新的彈出視窗以查看您選擇的 %1 並確認您的選擇。快捷鍵：Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
@@ -10484,12 +10486,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>發布日期</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="118"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇版本以安裝。</translation>
     </message>
 </context>
 <context>
@@ -10497,12 +10499,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇正式版以安裝</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>請選擇你想要更新到的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
@@ -10512,14 +10514,16 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>發布日期</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="46"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇版本以安裝
+
+目前安裝版本：%1</translation>
     </message>
 </context>
 <context>
@@ -10964,7 +10968,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="113"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation>此「forgeversion.properties」無效！</translation>
+        <translation>「forgeversion.properties」無效！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="134"/>
@@ -11257,23 +11261,23 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>更新可用</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>有新版本可用！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>版本 %1 現在可用──你現在有 %2。你現在想要下載它嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>發布說明：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
@@ -12145,7 +12149,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Date and time the world was last played.</source>
-        <translation>上次遊玩這個世界的時間。</translation>
+        <translation>此世界上次遊玩的日期與時間。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
