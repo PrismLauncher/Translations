@@ -332,17 +332,17 @@
         <translation>Tanca</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="139"/>
         <source>About %1</source>
         <translation>Sobre %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="159"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="160"/>
         <source>Commit: %1</source>
         <translation>Commit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="164"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="165"/>
         <source>Build date: %1</source>
         <translation>Data de compilació: %1</translation>
     </message>
@@ -351,7 +351,7 @@
         <translation type="vanished">Versió</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="155"/>
         <source>Platform</source>
         <translation>Plataforma</translation>
     </message>
@@ -360,7 +360,7 @@
         <translation type="vanished">Número de compilació</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="169"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="170"/>
         <source>Channel</source>
         <translation>Canal</translation>
     </message>
@@ -8629,7 +8629,7 @@ Elegeix un nom amb cura:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="74"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="93"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
@@ -8642,7 +8642,7 @@ Elegeix un nom amb cura:</translation>
         <translation type="vanished">Contribuïdors de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="100"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>Gràcies addicionals a</translation>
