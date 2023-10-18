@@ -83,12 +83,12 @@
             "untranslated" : 963
         },
         "de" : {
-            "file" : "69c25f1ba0de168ddc70c4ceeb9520d8713f85a6.class",
-            "sha1" : "69c25f1ba0de168ddc70c4ceeb9520d8713f85a6",
-            "size" : 248966,
-            "translated" : 1626,
-            "fuzzy" : 47,
-            "untranslated" : 131
+            "file" : "3fd45ae042d7c255c2faef7eb8962b63e13dd674.class",
+            "sha1" : "3fd45ae042d7c255c2faef7eb8962b63e13dd674",
+            "size" : 255423,
+            "translated" : 1705,
+            "fuzzy" : 10,
+            "untranslated" : 89
         },
         "de_CH" : {
             "file" : "2b0bc1ae9b97a63794395e6cc003a052ec139a36.class",
@@ -283,12 +283,12 @@
             "untranslated" : 1633
         },
         "hu" : {
-            "file" : "61e1780591ac7bae03bca7e1990d69297f126ed6.class",
-            "sha1" : "61e1780591ac7bae03bca7e1990d69297f126ed6",
-            "size" : 242780,
-            "translated" : 1678,
-            "fuzzy" : 6,
-            "untranslated" : 120
+            "file" : "951d5f25ea006f7023393ed827ad5eb1a41785de.class",
+            "sha1" : "951d5f25ea006f7023393ed827ad5eb1a41785de",
+            "size" : 253803,
+            "translated" : 1729,
+            "fuzzy" : 9,
+            "untranslated" : 66
         },
         "hy" : {
             "file" : "8299b94708fcdf242de77f425ba1995f71780864.class",
@@ -419,12 +419,12 @@
             "untranslated" : 894
         },
         "nan" : {
-            "file" : "0c533efb1f3116d636521a708f341f2403f9a610.class",
-            "sha1" : "0c533efb1f3116d636521a708f341f2403f9a610",
-            "size" : 25526,
-            "translated" : 245,
+            "file" : "ca0ce6c8fb6467b24b29ffe48511883549e84e52.class",
+            "sha1" : "ca0ce6c8fb6467b24b29ffe48511883549e84e52",
+            "size" : 25702,
+            "translated" : 246,
             "fuzzy" : 2,
-            "untranslated" : 1154
+            "untranslated" : 1153
         },
         "nb" : {
             "file" : "e1407fa08d8c24cbe5ba3cbe32b4adf1105621aa.class",
