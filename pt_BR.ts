@@ -239,12 +239,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Mods bloqueados encontrados</translation>
+        <translation>Mods bloqueados encontrados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Os seguintes arquivos não podem ser baixados por meio de launchers de terceiros.&lt;br/&gt;É necessário fazer o download manualmente e adicioná-los à instância.</translation>
+        <translation>Os arquivos a seguir não estão disponíveis para download em launchers de terceiros.&lt;br/&gt;Você precisará baixá-los manualmente e adicioná-los à instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -742,12 +742,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta instalação possui um arquivo de bloqueio de atualização presente em: %1
+
+Carimbo de data/hora: %2
+Atualizando da versão %3 para %4
+Caminho de instalação de destino: %5
+Caminho de dados: %6
+Isso provavelmente significa que uma tentativa de atualização falhou. Certifique-se de que sua instalação esteja funcionando bem antes de continuar.
+Verifique o log do atualizador do Prism Launcher em:
+%7
+para obter detalhes sobre a última tentativa de atualização.
+
+Para excluir este bloqueio e prosseguir, selecione &quot;Ignorar&quot; abaixo.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização em andamento</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="934"/>
@@ -757,7 +768,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uma tentativa de atualização falhou
+
+Certifique-se de que sua instalação esteja funcionando bem antes de continuar.
+Verifique o log do atualizador do Prism Launcher em:
+%1
+para obter detalhes sobre a última tentativa de atualização.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="942"/>
