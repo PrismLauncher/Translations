@@ -244,7 +244,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>第三方启动器无法下载以下文件。&lt;br/&gt;您需要手动下载并添加到实例中。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -747,7 +747,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>更新中</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="934"/>
@@ -757,12 +757,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>更新尝试失败
+
+请在继续操作前确保您的设备处于正常工作状态。
+查看 Prism Launcher 更新日志，请访问：
+%1
+了解上次更新尝试的详情。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="942"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>更新失败</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="967"/>
@@ -772,12 +777,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>更新成功
+
+您现在正在运行 %1 。
+请查看 Prism Launcher 更新日志：
+%1
+查看详情。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="975"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>更新成功</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1307"/>
@@ -3609,7 +3619,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="589"/>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>旧版设置</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="601"/>
