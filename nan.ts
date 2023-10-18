@@ -1720,7 +1720,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>按名稱排序</translation>
     </message>
 </context>
 <context>
@@ -1728,13 +1728,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>已選擇的版本：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>搜索和篩選...</translation>
     </message>
 </context>
 <context>
@@ -1742,12 +1742,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="82"/>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>密鑰</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="84"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>數值</translation>
     </message>
 </context>
 <context>
@@ -1755,7 +1755,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="65"/>
         <source>Game Options</source>
-        <translation type="unfinished"></translation>
+        <translation>遊戲選項</translation>
     </message>
 </context>
 <context>
@@ -1763,32 +1763,32 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="90"/>
         <source>Survival</source>
-        <translation type="unfinished"></translation>
+        <translation>生存模式</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="92"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>創造模式</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="94"/>
         <source>Adventure</source>
-        <translation type="unfinished"></translation>
+        <translation>冒險模式</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="96"/>
         <source>Spectator</source>
-        <translation type="unfinished"></translation>
+        <translation>觀察者模式</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="101"/>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>未知（%1）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="103"/>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>未定義</translation>
     </message>
 </context>
 <context>
