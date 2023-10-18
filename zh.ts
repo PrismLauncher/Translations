@@ -6573,7 +6573,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="203"/>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">旧版设置</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
