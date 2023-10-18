@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Usługa &amp;Pastebin</translation>
+        <translation>&amp;Usługa Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1583,7 +1583,7 @@ po więcej informacji.</translation>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation>Przerwano</translation>
+        <translation>Przerwane</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -2064,7 +2064,7 @@ po więcej informacji.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Usuń metadane modyfikacji</translation>
+        <translation>Usuń metadane moda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -2263,7 +2263,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
         <source>Aborted</source>
-        <translation>Przerwano</translation>
+        <translation>Przerwane</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
@@ -2720,7 +2720,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Szukaj i filtruj...</translation>
+        <translation>Wyszukaj i filtruj...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -4305,7 +4305,7 @@ Czy chcesz zagrać w demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="413"/>
         <source>Abort</source>
-        <translation>Anuluj</translation>
+        <translation>Przerwij</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="426"/>
@@ -5940,13 +5940,13 @@ Powód:
         <location filename="src/launcher/ui/MainWindow.cpp" line="520"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Stwórz nową instancję</translation>
+        <translation>&amp;Stwórz nową instancję</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Usuń grupę &apos;%1&apos;</translation>
+        <translation>&amp;Usuń grupę</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -7136,7 +7136,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Usuń metadane modyfikacji</translation>
+        <translation>Usuń metadane moda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -7195,7 +7195,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="200"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="267"/>
         <source>Abort</source>
-        <translation>Anuluj</translation>
+        <translation>Przerwij</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
@@ -7403,7 +7403,7 @@ Proszę zaktualizować %1!</translation>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="352"/>
         <source>Abort</source>
-        <translation>Anuluj</translation>
+        <translation>Przerwij</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
@@ -7494,7 +7494,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Required by:</source>
-        <translation type="unfinished">Wymagany przez:</translation>
+        <translation>Wymagany przez:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="441"/>
@@ -8551,7 +8551,7 @@ Wiadomość błędu: %3</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="89"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Sprawdzanie aktualizacji...</translation>
+        <translation>Sprawdzanie aktualizacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="118"/>
@@ -8766,7 +8766,7 @@ Aktualizator nie może kontynuować aż nie naprawisz problemu.</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="653"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifest pusty, tworzenie go najlepiej jak się da z plików folderu %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
@@ -8875,137 +8875,150 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta instalacja posiada plik blokady aktualizacji w %1
+
+Timestamp: %2
+Aktualizowanie z wersji %3 do %4
+Docelowa ścieżka instalacji: %5
+Ścieżka danych: %6
+To najprawdopodobniej znaczy, że poprzednia próba aktualizacji zawiodła. Upewnij się, że instalacja działa przed przystąpieniem.
+Sprawdź logi aktualizatora Prism Launcher w:
+%7
+po więcej informacji o ostatniej próbie aktualizacji.
+
+By zastąpić tą blokadę i kontynuować z aktualizacją mimo to, zaznacz &quot;Ignoruj&quot; poniżej.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja Anulowana</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Próba aktualizacji została anulowana</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizowanie z %1 do %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1031"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizowanie przenośnej instalacji w %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1034"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchamianie pliku instalacyjnego w %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat startowy procesu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>Tworzenie kopii zapasowej instalacji</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1071"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Startowanie nowego aktualizatora w &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1073"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd podczas uruchamiania &apos;%1&apos; %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1124"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tworzenie kopii zapasowej:
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1142"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tworzenie kopii zapasowej instalacji w %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
         <source>Backing up and then removing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tworzenie kopii zapasowej i następnie usuwanie %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd podczas tworzenia kopii zapasowej %1 do %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1154"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd podczas usuwania %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1189"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypakowano następujące do &quot;%1&quot;:
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1191"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1193"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd podczas wypakowywania %1 do %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchamianie: &apos;%1 %2&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1204"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd podczas uruchamiania procesu podrzędnego &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1206"/>
         <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd podczas wypakowywania archiwum</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proces podrzędny &quot;%1 %2&quot; nie powiódł się.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
         <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypakowywanie archiwum nieudane</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1220"/>
         <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieznany format archiwum dla %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie wersji nieudane</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się uruchomić podrzędnego procesu uruchamiania w celu odczytania wersji.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd podczas uruchamiania procesu podrzędnego launchera.</translation>
     </message>
 </context>
 <context>
@@ -9836,7 +9849,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-aktualizator dla Prism Launcher</translation>
     </message>
 </context>
 <context>
@@ -10380,7 +10393,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ Wersji: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
@@ -10550,17 +10563,17 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Version</source>
-        <translation type="unfinished">Wersja</translation>
+        <translation>Wersja</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data Publikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="118"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz wersję do instalacji.</translation>
     </message>
 </context>
 <context>
@@ -10568,29 +10581,31 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz Wydanie do Instalacji</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę zaznacz wydanie do którego chcesz zaktualizować.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Version</source>
-        <translation type="unfinished">Wersja</translation>
+        <translation>Wersja</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data Publikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="46"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz wersję do instalacji.
+
+Aktualnie zainstalowana wersja: %1</translation>
     </message>
 </context>
 <context>
@@ -11328,43 +11343,43 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępna Aktualizacja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowa wersja jest dostępna!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja %1 jest dostępna - w tej chwili masz %2. Chcesz pobrać ją teraz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacje o Wydaniu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomiń tą Wersję</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Przypomnij mi Później</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstaluj Aktualizację</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowa wersja %1 jest dostępna!</translation>
     </message>
 </context>
 <context>
