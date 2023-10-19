@@ -629,7 +629,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Прежде чем добавлять автономную учетную запись, вам необходимо добавить учетную запись Microsoft, которая владеет Minecraft.&lt;br&gt;&lt;br&gt;Если вы потеряли свою учетную запись, вы можете обратиться в Microsoft за поддержкой.</translation>
+        <translation>Прежде чем добавлять автономную учётную запись, вам необходимо добавить учётную запись Microsoft, которая владеет Minecraft.&lt;br&gt;&lt;br&gt;Если вы потеряли свою учётную запись, вы можете обратиться в Microsoft за поддержкой.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -712,7 +712,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Ошибка аутентификации. Учетная запись больше не существует.</translation>
+        <translation>Ошибка аутентификации. Учётная запись больше не существует.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
@@ -1167,7 +1167,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="455"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Сборка имеет неудовлетворенные зависимости при загрузке/проверке запуска.</translation>
+        <translation>Сборка имеет неудовлетворённые зависимости при загрузке/проверке запуска.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
@@ -2273,8 +2273,8 @@ Please try again.</source>
         <translation>Не удалось получить следующие файлы:
 %1
 
-Причина:%2
-Пожалуйста, попробуйте еще раз.</translation>
+Причина: %2
+Пожалуйста, попробуйте ещё раз.</translation>
     </message>
 </context>
 <context>
@@ -3065,7 +3065,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Выберите сборку, в которую вы хотите импортировать этот пакет ресурсов.</translation>
+        <translation>Выберите сборку, в которую вы хотите импортировать этот набор ресурсов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -3584,7 +3584,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="681"/>
         <source>Override default account</source>
-        <translation>Перезаписать основную учётную запись</translation>
+        <translation>Переопределить основную учётную запись</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="701"/>
@@ -4114,7 +4114,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
         <source>Which account would you like to use?</source>
-        <translation>Какую учетную запись вы хотите использовать?</translation>
+        <translation>Какую учётную запись вы хотите использовать?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="138"/>
@@ -4194,7 +4194,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="259"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>Cрок действия учетной записи истёк, необходимо снова войти в систему.</translation>
+        <translation>Cрок действия учётной записи истёк, необходимо снова войти в систему.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
@@ -4219,7 +4219,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="276"/>
         <source>Account gone</source>
-        <translation>Учетная запись исчезла</translation>
+        <translation>Учётная запись исчезла</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="283"/>
@@ -4262,7 +4262,7 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>Запуск игры приостановлен до тех пор, пока вы не нажмете кнопку. Это подходящее время, чтобы настроить профайлер, поскольку сервер профайлера запущен.
+        <translation>Запуск игры приостановлен до тех пор, пока вы не нажмёте кнопку. Это подходящее время, чтобы настроить профайлер, поскольку сервер профайлера запущен.
 
 %1</translation>
     </message>
@@ -4313,8 +4313,8 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation>Остановлено наблюдение лога игры, потому что его длина превысила %1 строк.
-Возможно, вам нужно исправить моды, потому что игра всё ещё записывает логи в файл и, вероятно, тратит место на диске с огромной скоростью!</translation>
+        <translation>Остановлено наблюдение журнала игры, потому что его длина превысила %1 строк.
+Возможно, вам нужно исправить моды, потому что игра всё ещё записывает в журналы и, вероятно, тратит место на диске с огромной скоростью!</translation>
     </message>
 </context>
 <context>
@@ -4524,7 +4524,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>Когда включено, при поиске ресурсов (например при поиске заблокированных модов на CurseForge) дополнительно будут включены под-папки из папки загрузок.</translation>
+        <translation>Когда включено, при поиске ресурсов (например при поиске заблокированных модов на CurseForge) дополнительно будут включены подпапки из папки загрузок.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -5176,7 +5176,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation>Добавление учетной записи Microsoft</translation>
+        <translation>Добавление учётной записи Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
@@ -5478,12 +5478,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
         <source>View &amp;Instance Folder</source>
-        <translation>Просмотреть папку &amp;сборок</translation>
+        <translation>Открыть папку &amp;сборок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation>Просмотреть &amp;корневую папку лаунчера</translation>
+        <translation>Открыть &amp;корневую папку лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5615,27 +5615,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="721"/>
         <source>View &amp;Widget Themes Folder</source>
-        <translation>Просмотреть &amp;папку темы виджета</translation>
+        <translation>Открыть папку тем &amp;виджета</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>View Widget Theme Folder</source>
-        <translation>Просмотреть папку темы виджета</translation>
+        <translation>Открыть папку тем виджета</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="733"/>
         <source>View I&amp;con Theme Folder</source>
-        <translation>Просмотреть п&amp;апку темы иконок</translation>
+        <translation>Открыть папку тем &amp;иконок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
         <source>View Icon Theme Folder</source>
-        <translation>Просмотреть папку темы иконок</translation>
+        <translation>Открыть папку тем иконок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="744"/>
         <source>View Cat Packs Folder</source>
-        <translation>Просмотреть папку набора кошек</translation>
+        <translation>Открыть папку наборов кошек</translation>
     </message>
     <message>
         <source>&amp;View Launcher Root Folder</source>
@@ -6020,7 +6020,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Сборка, мод или ресурс %1 заблокирован для третьих лиц! Пожалуйста, загрузите его вручную.</translation>
+        <translation>Сборка, мод или ресурс «%1» заблокирован для третьих лиц! Пожалуйста, загрузите его вручную.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
@@ -6505,7 +6505,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="269"/>
         <source>&amp;No Profiler</source>
-        <translation>&amp;Нет профиля</translation>
+        <translation>&amp;Без профайлера</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="869"/>
@@ -6741,7 +6741,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Лаунчер автоматически выйдет при вылете или выходе из игры.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Лаунчер автоматически закроется при вылете или выходе из игры.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="173"/>
@@ -8222,12 +8222,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="10"/>
         <source>Creating offline account.</source>
-        <translation>Создание автономной учетной записи.</translation>
+        <translation>Создание автономной учётной записи.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="20"/>
         <source>Created offline account.</source>
-        <translation>Создана автономная учетная запись.</translation>
+        <translation>Создана автономная учётная запись.</translation>
     </message>
 </context>
 <context>
@@ -8284,7 +8284,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Загрузить журнал на сервис хранения логов, указанный в настройках.</translation>
+        <translation>Загрузить журнал на сервис хранения журналов, указанный в настройках.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
@@ -8321,7 +8321,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="153"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation>Файл (%1) слишком большой. Вы можете открыть его в программе для просмотра, оптимизированной для больших файлов.</translation>
+        <translation>Файл «%1» слишком большой. Вы можете открыть его в программе для просмотра, оптимизированной для больших файлов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
@@ -9325,7 +9325,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="261"/>
         <source>Patch is not loaded yet.</source>
-        <translation>Патч еще не загружен.</translation>
+        <translation>Патч ещё не загружен.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
@@ -9545,7 +9545,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="95"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>Указанный файл Java не работает.&lt;br /&gt;Используйте автоматический поиск или установите путь к файлу Java вручную.&lt;br /&gt;</translation>
+        <translation>Указанный файл Java не работает.&lt;br /&gt;Используйте автоматическое обнаружение или установите путь к файлу Java вручную.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
@@ -9718,7 +9718,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
         <source>resource pack</source>
-        <translation>пакет ресурсов</translation>
+        <translation>набор ресурсов</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
@@ -10041,7 +10041,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation>Ресурс</translation>
+        <translation>ресурс</translation>
     </message>
 </context>
 <context>
@@ -10148,7 +10148,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="494"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Ресурсы включенны?</translation>
+        <translation>Ресурс включён?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="497"/>
@@ -10160,7 +10160,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="500"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Дата и время этого ресурса были недавно изменены (или добавлены).</translation>
+        <translation>Дата и время последнего изменения (или добавления) этого ресурса.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="555"/>
@@ -10199,7 +10199,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="155"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>ID пакета ресурсов и версия Minecraft для которой он был разработан.</translation>
+        <translation>ID набора ресурсов и версия Minecraft для которой он был разработан.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"/>
@@ -10234,7 +10234,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="150"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Пакет ресурсов включен?(Действительно только для ZIP архивов)</translation>
+        <translation>Набор ресурсов включён? (действительно только для ZIP архивов)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="152"/>
@@ -10634,7 +10634,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation>Ресурс-пак</translation>
+        <translation>Наборы ресурсов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
@@ -10845,7 +10845,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="75"/>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
-        <translation>Использование удаленных URL-адресов для настройки скинов еще не реализовано.</translation>
+        <translation>Использование удалённых URL-адресов для настройки скинов ещё не реализовано.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="82"/>
@@ -11132,13 +11132,13 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Внимание: Этот ресурс связан с ресурсом в другом месте при момощи жесткой ссылки. Его редактирование также изменит оригинал.</translation>
+Внимание: Этот ресурс связан жёсткой ссылкой с ресурсом в другом месте. Его редактирование также изменит оригинал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="134"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Ресурсы включены?</translation>
+        <translation>Ресурс включён?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="137"/>
@@ -11150,7 +11150,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Дата и время этого ресурса были недавно изменены (или добавлены).</translation>
+        <translation>Дата и время последнего изменения (или добавления) этого ресурса.</translation>
     </message>
 </context>
 <context>
@@ -11210,7 +11210,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="60"/>
         <source>View icon themes folder.</source>
-        <translation>Просмотр папки тем иконок.</translation>
+        <translation>Открыть папку тем иконок.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="79"/>
@@ -11220,7 +11220,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="104"/>
         <source>View widget themes folder.</source>
-        <translation>Просмотр папки тем виджета.</translation>
+        <translation>Открыть папку тем виджета.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
@@ -11259,7 +11259,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation> Препросмотр:</translation>
+        <translation> Предпросмотр:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
@@ -12338,7 +12338,7 @@ Do you want to continue?</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation>MCEdit не установлен или перемещен.
+        <translation>MCEdit не установлен или перемещён.
 Вы можете настроить его в глобальных настройках.</translation>
     </message>
     <message>
@@ -12464,7 +12464,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Эта учетная запись Microsoft не имеет профиля XBox Live. Купите игру на %1 сначала.</translation>
+        <translation>Эта учётная запись Microsoft не имеет профиля XBox Live. Купите игру на %1 сначала.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
@@ -12476,9 +12476,9 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>Эта учетная запись Microsoft ниже требуемого возраста и не привязана к семье.
+        <translation>Эта учётная запись Microsoft ниже требуемого возраста и не привязана к семье.
 
-Пожалуйста, настройте свою учетную запись в соответствии с %1.</translation>
+Пожалуйста, настройте свою учётную запись в соответствии с %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="134"/>
