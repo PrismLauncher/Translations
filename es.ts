@@ -247,12 +247,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Se han encontrado mods bloqueados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los siguientes archivos no están disponibles para descargar en launchers de tercera man., &lt;br/&gt; Los necesitaras descargar manualmente y añadirlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -755,7 +755,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización en progreso</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="934"/>
@@ -770,7 +770,7 @@ for details on the last update attempt.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="942"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización fallida</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="967"/>
@@ -785,7 +785,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="975"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización realizada</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1307"/>
@@ -6159,27 +6159,27 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estas seguro que quieres eliminar el grupo &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Renombrar grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>No puedes renombrar el grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>No puedes poner un nombre vació.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Ese grupo ya existe. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
@@ -8462,19 +8462,20 @@ Mensaje de error: %3</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="89"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Comprobando actualizaciones...</translation>
+        <translation>Buscando actualizaciones...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="118"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="139"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>La búsqueda de actualizaciones fallo</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="119"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Problema al iniciar después de 5 segundos
+Razón: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="140"/>
@@ -8486,12 +8487,12 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay actualizaciones disponibles</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estas ejecutando la ultima versión.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
