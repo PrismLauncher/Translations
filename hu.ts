@@ -726,7 +726,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a telepítés rendelkezik egy frissítési zárfájllal a következő címen: %1
+
+Időbélyeg: %2
+Frissítés a %3 verzióról a %4 verzióra
+Cél telepítési útvonal: %5
+Adatok elérési útvonala: %6
+Ez valószínűleg azt jelenti, hogy a frissítési kísérlet sikertelen volt. Kérjük, a folytatás előtt győződjön meg arról, hogy a telepítés rendben van.
+Ellenőrizze a Prism Launcher frissítő naplóját a következő címen: 
+%7
+a legutóbbi frissítési kísérlet részleteiért.
+
+A zárolás törléséhez és a folytatáshoz válassza az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
@@ -8565,13 +8576,13 @@ A frissítő nem tud tovább haladni, amíg Ön ezt a problémát ki nem küszö
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="591"/>
         <source>Updating non-portable linux installations is not supported. Please use your system package manager</source>
-        <translation type="unfinished"></translation>
+        <translation>A nem hordozható linuxos telepítések frissítése nem támogatott. Kérjük, használja a rendszer csomagkezelőjét</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="641"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1090"/>
         <source>Reading manifest from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Manifesztum olvasása innen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="653"/>
@@ -8582,49 +8593,50 @@ A frissítő nem tud tovább haladni, amíg Ön ezt a problémát ki nem küszö
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>A következők telepítése ide: %1 :
+ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="663"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="670"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Telepítés innen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="675"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 telepítése innen: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="679"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Sikertelen a(z) %1 másolása ide: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="694"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1167"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A fájl nem létezik, figyelmen kívül hagyva: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="707"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>A frissítés telepítése során hibák léptek fel.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="711"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>A frissítés sikerül.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs érvényes kiadási eszköz</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="869"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>A Github kiadás %1 nem rendelkezik érvényes eszközökkel ezen a platformon: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
@@ -8683,7 +8695,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a telepítés rendelkezik egy frissítési zárfájllal a következő címen: %1
+
+Időbélyeg: %2
+Frissítés a %3 verzióról a %4 verzióra
+Cél telepítési útvonal: %5
+Adatok elérési útvonala: %6
+Ez valószínűleg azt jelenti, hogy egy korábbi frissítési kísérlet sikertelen volt. Kérjük, a folytatás előtt győződjön meg arról, hogy a telepítés rendben van.
+Ellenőrizze a Prism Launcher frissítő naplóját a következő címen: 
+%7
+a legutóbbi frissítési kísérlet részleteiért.
+
+Ha szeretné felülírni ezt a zárolást, és mindenképpen folytatni szeretné a frissítést, válassza az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
