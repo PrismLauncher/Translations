@@ -240,7 +240,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下檔案無法在第三方啟動器中下載。&lt;br/&gt;您將需要手動去下載它們並把它們加入到實例之中。</translation>
+        <translation>下列檔案無法在第三方啟動器中下載。&lt;br/&gt;您將需要手動去下載它們並把它們加入到實例之中。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -2489,7 +2489,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>以下檔案無法在第三方啟動器中下載。&lt;br/&gt;您將需要手動去下載它們並把它們加入到實例之中。</translation>
+        <translation>下列檔案無法在第三方啟動器中下載。&lt;br/&gt;您將需要手動去下載它們並把它們加入到實例之中。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="512"/>
@@ -2959,7 +2959,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>支援以下檔案類型（本機檔案以及網址）：</translation>
+        <translation>支援下列檔案類型（本機檔案以及網址）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
@@ -4748,7 +4748,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="124"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>無法下載以下檔案：%1</translation>
+        <translation>無法下載下列檔案：%1</translation>
     </message>
 </context>
 <context>
@@ -6065,7 +6065,7 @@ Deleting it could break the other instance(s),
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>以下實例可能會使用此實例的檔案：
+            <numerusform>下列實例可能會使用此實例的檔案：
 
 %1
 
@@ -7296,7 +7296,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="53"/>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>您即將更新以下模組：</translation>
+        <translation>您即將更新下列模組：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="54"/>
@@ -7316,7 +7316,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="76"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>無法為以下模組生成後設資料：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
+        <translation>無法為下列模組生成後設資料：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="90"/>
@@ -7394,7 +7394,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>無法檢查或取得以下模組更新：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
+        <translation>無法檢查或取得下列模組更新：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="258"/>
@@ -8691,7 +8691,7 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation>安裝以下內容到 %1：
+        <translation>安裝下列內容到 %1：
  %2</translation>
     </message>
     <message>
@@ -8805,7 +8805,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 %7
 以取得上次更新嘗試的詳細資訊
 
-要覆蓋此鎖定並繼續進行此更新，請選擇以下的「忽略」。</translation>
+要覆蓋此鎖定並繼續進行此更新，請點選下方的「忽略」。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
@@ -8884,7 +8884,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1189"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation>解壓縮以下檔案至「%1」：
+        <translation>解壓縮下列檔案至「%1」：
   %2</translation>
     </message>
     <message>
@@ -9018,7 +9018,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="264"/>
         <source>The server returned the following error:</source>
-        <translation>伺服器返回以下錯誤：</translation>
+        <translation>伺服器返回下列錯誤：</translation>
     </message>
 </context>
 <context>
@@ -10317,7 +10317,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="108"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>您將要下載以下%1：</translation>
+        <translation>您將要下載下列%1：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
@@ -11443,7 +11443,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
         <translation>本實例不相容於 Java %1。
-請將本實例切換至以下的其中一個 Java 版本：</translation>
+請將本實例切換至下列的其中一個 Java 版本：</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="70"/>
