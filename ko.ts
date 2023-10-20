@@ -3694,12 +3694,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>환영합니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>시작하려면 &quot;인스턴스 추가&quot;를 클릭하세요.</translation>
     </message>
 </context>
 <context>
