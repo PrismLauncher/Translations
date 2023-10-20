@@ -3723,12 +3723,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>歡迎！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下「新增實例」開始。</translation>
     </message>
 </context>
 <context>
