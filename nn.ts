@@ -3479,6 +3479,19 @@ Prøv igjen.</translation>
     </message>
 </context>
 <context>
+    <name>InstanceView</name>
+    <message>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
+        <source>Welcome!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
+        <source>Click &quot;Add Instance&quot; to get started.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InstanceWindow</name>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
