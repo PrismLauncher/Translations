@@ -239,7 +239,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>发现被阻止的模组</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
