@@ -248,7 +248,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка следующих файлов недоступна сторонним лаунчерам.&lt;br/&gt;Вам придётся загрузить и добавить их в сборку вручную.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -761,12 +761,15 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка при обновлении.
+
+Проверьте, что ваша установка правильно устроена и в рабочем состоянии.
+Вы можете смотреть подробности последней попытки обновления в журнале «%1».</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="942"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление не удалось</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="967"/>
@@ -781,7 +784,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="975"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Успешное обновление</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1307"/>
@@ -1173,7 +1176,7 @@ for details.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>Ошибка задачи обновления метаданных компонента при загрузке с удаленного сервера:
+        <translation>Ошибка задачи обновления метаданных компонента при загрузке с удалённого сервера:
 %1</translation>
     </message>
 </context>
@@ -1928,7 +1931,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>Это зависит от метаданных мода. Чтобы убедиться в их наличии, запустите обновление на экземпляре. Установка обновлений не обязательна.</translation>
+        <translation>Это зависит от метаданных модов. Чтобы убедиться в их наличии, запустите обновление сборки. Установка обновлений не обязательна.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
@@ -3742,7 +3745,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Добро пожаловать!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
@@ -6232,7 +6235,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось переименовать группу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
@@ -8571,7 +8574,8 @@ Error message: %3</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="119"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось запуститься после 5 секунд.
+Причина: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="140"/>
@@ -8598,7 +8602,7 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="177"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка при проверки обновлений.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="204"/>
@@ -8615,7 +8619,8 @@ Exit Code: %1</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="207"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартный вывод: %1
+Стандартный вывод ошибок: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
@@ -8648,7 +8653,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>название версии</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
@@ -8688,7 +8693,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать версию для установки графическим интерфейсом.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
@@ -8698,7 +8703,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>MacOS неподдерживаемый</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
@@ -8724,7 +8729,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="368"/>
         <source>The launcher data folder is not writable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка данных лаунчера не доступна для записи!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="369"/>
@@ -8739,22 +8744,22 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление Flatpack неподдерживаемое</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Единое доступное действие в Flatpack версии Prism Launcher — проверка наличия обновлений.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Updating Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление неподдерживаемое</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="591"/>
         <source>Updating non-portable linux installations is not supported. Please use your system package manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление установок не в переносимом режиме на Linux неподдерживаемое. Пожалуйста, используйте системный менеджер пакетов</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="641"/>
@@ -8771,18 +8776,19 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка следующих файлов в «%1»:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="663"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="670"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка из «%1»</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="675"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка «%1» из «%2»</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="679"/>
@@ -8798,12 +8804,12 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="707"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось установить обновление.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="711"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Успешное обновление.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
@@ -8850,7 +8856,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось загрузить указанный ресурс.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="988"/>
@@ -8878,17 +8884,17 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление прервано</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление было прервано</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление с %1 к %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1031"/>
@@ -8951,7 +8957,8 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1189"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующие файлы были распакованы в «%1»:
+%2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1191"/>
@@ -8962,32 +8969,32 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
+        <translation>Выполняется: «%1 %2»</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1204"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось запустить дочерний процесс «%1 %2».</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1206"/>
         <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалась распаковка</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка в дочернем процессе «%1 %2».</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
         <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалась распаковка</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1220"/>
         <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>«%1» имеет неизвестный формат архива</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
@@ -9619,7 +9626,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
         <source>Change instance name</source>
-        <translation>Изменить имя экземпляра</translation>
+        <translation>Переименовать сборку</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="9"/>
@@ -9627,7 +9634,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation>Имя экземпляра, похоже, включает старую версию. Не хотите ли вы обновить её?
+        <translation>Имя сборки, похоже, включает старую версию. Вы хотите её обновить?
 
 Старое имя: %1
 Новое имя: %2</translation>
@@ -10569,7 +10576,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="118"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите версию для установки.</translation>
     </message>
 </context>
 <context>
@@ -10599,7 +10606,9 @@ Are you sure?</source>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите версию для установки.
+
+Текущая версия: %1</translation>
     </message>
 </context>
 <context>
@@ -11348,7 +11357,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия %1 теперь доступна; у вас версия %2. Вы хотите её установить?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
@@ -11358,7 +11367,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустить эту версию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
@@ -11368,12 +11377,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить обновление</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступна новая версия «%1»!</translation>
     </message>
 </context>
 <context>
