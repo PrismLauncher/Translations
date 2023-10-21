@@ -2301,7 +2301,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation>Сортировать по Имени</translation>
+        <translation>Упорядочить по названию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
@@ -2762,7 +2762,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>Упорядочить по кол-ву загрузок</translation>
+        <translation>Упорядочить по количеству загрузок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="191"/>
@@ -4434,7 +4434,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>Instance view sorting mode</source>
-        <translation>Режим сортировки сборок</translation>
+        <translation>Режим упорядочивания сборок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="261"/>
@@ -7907,7 +7907,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="79"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation>Сортировать по релевантности</translation>
+        <translation>Упорядочить по релевантности</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -7916,24 +7916,24 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
         <source>Sort by Follows</source>
-        <translation>Сортировать по фолловерам</translation>
+        <translation>Упорядочить по подписчикам</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Сортировать по дате обновления</translation>
+        <translation>Упорядочить по дате обновления</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation>Сортировать по новизне</translation>
+        <translation>Упорядочить по новизне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="80"/>
         <source>Sort by Total Downloads</source>
-        <translation>Упорядочить по кол-ву загрузок</translation>
+        <translation>Упорядочить по количеству загрузок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="262"/>
@@ -9836,7 +9836,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="116"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Downloads</source>
-        <translation>Упорядочить по скачиваниям</translation>
+        <translation>Упорядочить по количеству загрузок</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
@@ -10546,7 +10546,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="388"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
