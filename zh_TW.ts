@@ -601,7 +601,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>歡迎！
-如果你第一次來這裡，你可以按一下「新增 Microsoft 帳號」按鈕來連結你的 Microsoft 帳號。</translation>
+如果你第一次來這裡，您可以按一下「新增 Microsoft 帳號」按鈕來連結你的 Microsoft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
