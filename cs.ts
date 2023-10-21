@@ -10433,19 +10433,19 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="388"/>
         <source>Abort</source>
-        <translation type="unfinished">Přerušit</translation>
+        <translation>Přerušit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrání snímku zrušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Úloha byla přerušena uživatelem.</translation>
+        <translation>Úloha byla přerušena uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="414"/>
