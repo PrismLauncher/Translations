@@ -4142,7 +4142,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="181"/>
         <source>Choose your demo mode player name.</source>
-        <translation>選擇你的試玩版模式玩家名稱。</translation>
+        <translation>選擇你的試玩模式玩家名稱。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -6453,7 +6453,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
         <source>Launch &amp;Demo</source>
-        <translation>試玩版啟動（&amp;D）</translation>
+        <translation>啟動試玩版（&amp;D）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
@@ -10446,19 +10446,19 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="388"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>螢幕擷取畫面上傳已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">任務已被使用者中止。</translation>
+        <translation>任務已被使用者中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="414"/>
