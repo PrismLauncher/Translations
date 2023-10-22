@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>API Ключи</translation>
+        <translation>API ключи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -750,14 +750,13 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 
 Время: %2
 При обновлении с версии %3 до %4
-Пусть установки: %5
+Путь установки: %5
 Путь данных: %6
 Скорее всего, это означает неудавшуюся попытку обновления. Пожалуйста, перед продолжением убедитесь, что ваша установка работает.
-Гляньте лог установки обновления по:
+Для подробностей об этой попытке обновления проверьте журнал установки обновления по:
 %7
-для получения подробностей об этой попытке обновления.
 
-Нажмите &quot;Игнорировать&quot; ниже, чтобы удалить этот файл обновления и продолжить.</translation>
+Нажмите «Игнорировать» ниже, чтобы удалить этот файл обновления и продолжить.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
@@ -8597,8 +8596,8 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="140"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished">Службе обновления не удалось завершиться за 60 секунд.
-Причина: %1</translation>
+        <translation>Службе обновления не удалось завершиться за 60 секунд.
+Причина: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
@@ -10510,7 +10509,7 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>Вы собираетесь загрузить %1 скриншотов в %2.
-Вы должны перепроверить личную информацию.
+Вам следует дважды проверить отсутствие личной информации.
 
 Вы уверены?</translation>
     </message>
@@ -10521,7 +10520,7 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>Вы собираетесь загрузить выбранный скриншот в %1.
-Вы должны перепроверить личную информацию.
+Вам следует дважды проверить отсутствие личной информации.
 
 Вы уверены?</translation>
     </message>
