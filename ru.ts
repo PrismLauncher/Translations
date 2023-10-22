@@ -609,7 +609,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Добро пожаловать!
-Если вы здесь впервые, вы можете нажать кнопку «Добавить Microsoft», чтобы связать свою учётную запись Microsoft.</translation>
+Если вы здесь впервые, вы можете нажать кнопку «Войти через Microsoft», чтобы связать свою учётную запись Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -5466,7 +5466,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="500"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Создает ярлык на рабочем столе для запуска выбранной сборки.</translation>
+        <translation>Создаёт ярлык на рабочем столе для запуска выбранной сборки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -9227,7 +9227,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Примечание: Имя пользователя и пароль от прокси хранится обычным текстом внутри файла настроек лаунчера!</translation>
+        <translation>Примечание: Имя пользователя и пароль от прокси хранятся незашифрованно в файле настроек лаунчера!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="57"/>
@@ -12572,7 +12572,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="17"/>
         <source>Fetching Xbox profile.</source>
-        <translation>Получение профиля Xbox…</translation>
+        <translation>Получение профиля Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
