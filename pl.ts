@@ -10528,19 +10528,19 @@ Dla bezpieczeństwa swoich danych upewnij się dwukrotnie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="388"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwij</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwano przesyłanie zrzutu ekranu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Działanie zostało przerwane przez użytkownika.</translation>
+        <translation>Działanie zostało przerwane przez użytkownika.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="414"/>
