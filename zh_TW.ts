@@ -3224,7 +3224,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>壓縮檔未包含已知的模組包類型。</translation>
+        <translation>壓縮檔包含未知的模組包類型。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="205"/>
@@ -3597,7 +3597,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="539"/>
         <source>Enable Feral GameMode</source>
-        <translation>啟用 Feral GameMode</translation>
+        <translation>啟用 Feral 遊戲模式</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
@@ -8146,7 +8146,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>超過 16 個字元長的使用者名稱無法用於區網遊戲或離線模式下的伺服器。</translation>
+        <translation>超過 16 個字元長的使用者名稱無法用於區網網路或離線模式中的伺服器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
