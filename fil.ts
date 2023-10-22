@@ -227,12 +227,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>May nakitang pinagbabawalang mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -316,7 +316,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation>Tungkol sa Qt</translation>
+        <translation>Impormasyon na tungkol sa Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
@@ -336,7 +336,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="160"/>
         <source>Commit: %1</source>
-        <translation>Gumawa: %1</translation>
+        <translation type="unfinished">Gumawa: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="165"/>
@@ -355,7 +355,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Hindi naka-check</translation>
+        <translation>Hindi naka-tsek</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
@@ -373,7 +373,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Paggawa</translation>
+        <translation>Gumagana</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
@@ -396,7 +396,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uri ng account (MSA or Offline)</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -432,7 +432,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
         <source>Username</source>
-        <translation>Ngalan ng user</translation>
+        <translation>Pangalan ng user</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="353"/>
@@ -481,7 +481,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="312"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Hindi pinagana</translation>
+        <translation>Hindi bukas</translation>
     </message>
 </context>
 <context>
@@ -501,7 +501,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="72"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>&amp;Itakda ang Default</translation>
+        <translation>&amp;Itakda na Default</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="80"/>
@@ -530,7 +530,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;Magdagdag ng Microsoft</translation>
+        <translation>&amp;Magdagdag ng Microsoft Account</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
@@ -555,7 +555,8 @@ Kung bago ka pa lang dito, pwede mong pindutin ang &quot;Magdagdag&quot; na butt
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maligayang Pagdating!
+Kung bago ka dito, pwede mo pindutin ang &quot;Add Microsoft&quot; para i-link ang iyong Microsoft account.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
@@ -565,12 +566,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Mangyaring ilagay ang iyong Mojang account email at password upang maidagdag ang iyong account.</translation>
+        <translation>Maaring ilagay ang iyong Mojang account email at password upang maidagdag ang iyong account.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kailangan mo mag-lagay ng isang Microsoft Account na may-ari ng kopya ng Minecraft bago ka magdagdag ng isang offline account.&lt;br&gt;&lt;br&gt;Kung nawala ang iyong account, pwede mo i-contact si Microsoft para tulungin ka.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -618,7 +619,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Mangyaring ilagay ang ninanais mong usename upang maidagdag ang iyong offline account.</translation>
+        <translation>Maaring ilagay ang ninanais mong usename upang maidagdag ang iyong offline account.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -631,32 +632,32 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="59"/>
         <source>Sending request to auth servers...</source>
-        <translation>Nagpapadala ng kahilingan sa mga server ng pagpapatunay...</translation>
+        <translation>Nagpapadala ng kahilingan sa mga authentication server...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Authentication task succeeded.</source>
-        <translation>Nagtagumpay ang gawain sa pagpapatunay.</translation>
+        <translation>Nagtagumpay ang authentication.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Nabigong makipag-ugnayan sa server ng pagpapatunay.</translation>
+        <translation>Nabigong makipag-ugnayan sa authentication server.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Encountered an error during authentication.</source>
-        <translation>May natagpuang pagkamali habang nagpatunay.</translation>
+        <translation>May natagpuang pagkamali habang nagpapatunay.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>Nabigo sa pagpapatunay. Nag-expire na ang sesyon.</translation>
+        <translation>Nabigo sa pagpapatunay. Nag-expire na ang iyong sesyon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Nabigong patotohanan. Wala na ang account.</translation>
+        <translation>Nabigong patotohanan. Hindi na mahanap ang iyong account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
@@ -671,7 +672,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>Nagbago ang Client ID. Kailangang gumawa ng bagong sesyon.</translation>
+        <translation>Nabago ang Client ID. Kailangang gumawa ng bagong sesyon.</translation>
     </message>
 </context>
 <context>
@@ -679,7 +680,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="741"/>
         <source>Settings</source>
-        <translation>Pagsasaayos</translation>
+        <translation>Mga setting</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="892"/>
@@ -695,12 +696,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang installation na ito ay may update lock file na tinatagpo sa: %1
+
+Panahon ng pangyayari: %2
+Pag-uupdate galing sa version na %3 patungo sa %4
+Target na install path: %5
+Path ng data: %6
+Ang ikinahuhulugan nito ay may nabigong update attempt. Suriin na yung installation mo ay gumagana bago tumuloy.
+Tingnan ang updater log ng Prism Launcher sa: 
+%7
+para sa detalye ng huling update attempt.
+
+Para i-delete ang lock na ito at mag-patuloy, I-select ang &quot;Ignore&quot; sa baba.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Nag-uupdate</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="934"/>
@@ -710,12 +722,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>May nabigong update attempt. 
+
+Suriin na yung installation mo ay gumagana bago tumuloy.
+Tingnan ang updater log ng Prism Launcher sa: 
+%1
+para sa detalye ng huling update attempt.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="942"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang update</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="967"/>
@@ -725,22 +742,27 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Matagumpay ang iyong pag-update
+
+Ikaw ay nag ru-run ng %1 .
+Tingnan ang updater log ng Prism Launcher sa: 
+%1
+para sa detalye ng update.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="975"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Matagumpay ang pag-update</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1307"/>
         <source>Aborted</source>
-        <translation>Na-abort</translation>
+        <translation>Pinigil</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1705"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>May natagpuang lumang data mula sa %1, ngunit mayroon ka nang umiiral na data para sa %2. Sa kasawiangpalad ay kakailanganin mong ilipat ang iyong sarili. Nais mo bang mapaalalahanan nang nakabinbing paglipat ng data sa susunod na magsimula ka sa %2?</translation>
+        <translation type="unfinished">May natagpuang lumang data mula sa %1, ngunit mayroon ka nang umiiral na data para sa %2. Sa kasawiangpalad ay kakailanganin mong ilipat ang iyong sarili. Nais mo bang mapaalalahanan nang nakabinbing paglipat ng data sa susunod na magsimula ka sa %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1709"/>
@@ -774,7 +796,7 @@ for details.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="43"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Aborted</source>
-        <translation type="unfinished">Na-abort</translation>
+        <translation>Pinigil</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
@@ -797,7 +819,7 @@ for details.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Nabigong magdownload ng mga asset:
+        <translation>Nabigong mag-download ang mga asset:
 %1</translation>
     </message>
 </context>
@@ -807,19 +829,19 @@ for details.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Uriin ayon sa kasikatan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>I-sorte ayon sa Pangalan</translation>
+        <translation>Uriin ayon sa Pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>I-sorte ayon sa Bersyon ng Laro</translation>
+        <translation>Uriin ayon sa Bersyon ng Laro</translation>
     </message>
 </context>
 <context>
@@ -827,7 +849,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Piliin ang mga Mod na I-install</translation>
+        <translation>Piliin ang mga Mod na I-installin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -847,7 +869,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Hawanan Lahat</translation>
+        <translation>Burahin Lahat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
@@ -857,12 +879,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Share code:</source>
-        <translation>Ibahagi ang code:</translation>
+        <translation>Ang share code:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="352"/>
         <source>No share code specified!</source>
-        <translation>Walang tinukoy na share code!</translation>
+        <translation>Walang itinukoy na share code!</translation>
     </message>
 </context>
 <context>
@@ -870,7 +892,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Sigurado ka ba na nais mong paganahin ang mod na ito?</translation>
+        <translation>Sigurado ka ba na nais mong buksan ang mod na ito?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
@@ -883,7 +905,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="86"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Babala: ito ay isang gawaing napapatuloy. Kung nakatakbo ka ng mga isyu sa na-import na modpack, maaaring ito ay isang bug.</translation>
+        <translation>Babala: ito ay isang gawaing hindi pa tapos. Kung nakakita ka ng mga isyu sa na-import na modpack, maaaring ito ay bug lamang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
@@ -894,7 +916,7 @@ for details.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="64"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Maghanap at mag-filter...</translation>
+        <translation>Hanapin at i-filter...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
@@ -912,12 +934,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation>Walang mga bersyon na kasalukuyang magagamit</translation>
+        <translation>Walang mga bersyon na magagamit ngayon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Hindi ma-load o ma-download ang mga listahan ng bersyon!</translation>
+        <translation>Hindi ma-load o ma-download ang listahan ng mga bersyon!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -935,12 +957,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="24"/>
         <source>Initializing</source>
-        <translation>Nagsisimula</translation>
+        <translation>Naghahanda</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="53"/>
         <source>Working...</source>
-        <translation>Nagtatrabaho...</translation>
+        <translation>Gumagana...</translation>
     </message>
 </context>
 <context>
@@ -948,7 +970,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation>Na-abort ang Profiler</translation>
+        <translation>Pinigil ang Profiler</translation>
     </message>
 </context>
 <context>
@@ -961,7 +983,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
         <source>Please download the missing mods.</source>
-        <translation>Mangyaring i-download ang nawawalang mods.</translation>
+        <translation>Mangyaring i-download ang mga nawawalang mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
@@ -971,32 +993,32 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="53"/>
         <source>Open Missing</source>
-        <translation>Buksan ang nawawala</translation>
+        <translation>Buksan ang mga nawawala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <source>Add Download Folder</source>
-        <translation>Magdagdag ng Download Folder</translation>
+        <translation>Magdagdag ng isang Download Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Piliin ang direktoryong pinagdownloadan mo ng mga mod</translation>
+        <translation>Piliin ang direktoryo kung saan dinownload mo ng mga mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Di-nahanap &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Hindi nahanap &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;ang Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt;Ang iyong naka-configure na global mods folder at default na pang-download na folder ay awtomatikong ichini-check para sa na-download na mga mod at makokopya sila sa instance kung natagpuan.&lt;/p&gt;&lt;p&gt;Opsyonal ay maaari mong i-drag at i-drop ang na-download na mga mod papunta sa dialog na ito o magdagdag ng isang folder upang panoorin kung hindi mo na-download ang mga mod sa isang default na lokasyon.&lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt;Ang iyong naka-configure na global mods folder at default na pang-download na folder ay awtomatikong itsine-tsek para sa na-download na mga mod at makokopya sila sa instance kung saan natatagpuan.&lt;/p&gt;&lt;p&gt;Opsyonal na i-drag at i-drop ang na-download na mga mod papunta sa dialog na ito o magdagdag ng isang folder upang panoorin kung hindi mo na-download ang mga mod sa isang default na lokasyon.&lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1014,7 +1036,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="72"/>
         <source>Removing cape</source>
-        <translation>Tinatangal ang kapa</translation>
+        <translation>Tinatanggal ang kapa</translation>
     </message>
 </context>
 <context>
@@ -1022,7 +1044,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="71"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Hindi mahanap ang library ng Java checker. Mangyaring suriin ang iyong installation.</translation>
+        <translation>Hindi mahanap ang library ng Java checker. Suriin po ang iyong installation.</translation>
     </message>
 </context>
 <context>
@@ -1030,7 +1052,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Pumili ng mod provider</translation>
+        <translation>Pumili ng provider ng mga mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -1040,12 +1062,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation>Laktawan ang lahat</translation>
+        <translation>Laktawan lahat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation>Kumpirmahin para sa lahat</translation>
+        <translation>Kumpirmahin lahat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
@@ -1055,7 +1077,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Subukin ng kusa na gumamit ng ibang providers kung nabigo ang pinili</translation>
     </message>
 </context>
 <context>
@@ -1064,27 +1086,27 @@ for details.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="172"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Aborted</source>
-        <translation type="unfinished">Na-abort</translation>
+        <translation>Pinigil</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Merong mga nabigong component metadata load tasks.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation type="unfinished"></translation>
+        <translation>May hindi tumutugma na pangangailangan na nakita noong pag-tsek ng dependency!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang instance ay may hindi tugma na dependency.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="455"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang instance na ito ay may mga dependencies na hindi pa resolved habang nag-checheck/nag-loload para sa pagbukas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
@@ -1099,32 +1121,32 @@ for details.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="98"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang pag-tigil ng lahat ng gumaganang task.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="285"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagawa ang %1 task(s) (%2 sa %3 ay tapos na)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="289"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Maghintay muna...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinihintay ang isang task na mag-simula...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="293"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ginagawa ang isang task:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="295"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapos na ang task.</translation>
     </message>
 </context>
 <context>
@@ -1132,67 +1154,67 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Selekatahin lahat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang pag-disable nito ay magpapanatili ng mod loader (ex: Fabric, Quilt, etc.) pero tatanggalin niya ang folder ng mga mods at config nila.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga opsyon sa pag-kopya ng Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang mga mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang mga in-game options katulad ng FOV, max framerate, atbp.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang opsyon ng laro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang mga save</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga advanced na opsyon para sa pagkopya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gumamit ng symbolic o hard link kaysa kumopya ng mga file.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga opsyon ng Symbolic at Hard Link</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
@@ -9898,57 +9920,57 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Released</source>
-        <translation type="unfinished"></translation>
+        <translation>Petsa na inilabas</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="127"/>
         <source>The name of the version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang pangalan ng bersyong ito.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="129"/>
         <source>Minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Bersyon ng Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The version&apos;s branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang branch ng bersyon</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>The version&apos;s type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang uri ng bersyon</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <source>CPU Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkitektura ng CPU</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>Filesystem path to this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Filesystem path para sa bersyong ito</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>Release date of this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Petsa ng pag-labas ng bersyong ito</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="158"/>
         <source>%1 (installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (naka-install)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="182"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-rerekomenda</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="186"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinaka-bago</translation>
     </message>
 </context>
 <context>
@@ -9956,12 +9978,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="95"/>
         <source>Choose Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Piliin ang Bersyon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="96"/>
         <source>Reloads the version list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I-loload ulit ang mga listahan ng bersyon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="97"/>
@@ -9974,18 +9996,19 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished">Hanapin</translation>
+        <translation>Hanapin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
         <source>Error</source>
-        <translation type="unfinished">Mali</translation>
+        <translation>Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
         <source>List update failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang pag-bago ng listahan:
+%1</translation>
     </message>
 </context>
 <context>
@@ -9993,7 +10016,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I-pasadya ang mga aksyon sa toolbar</translation>
     </message>
 </context>
 <context>
@@ -10001,76 +10024,78 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="200"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ang world na ito ay naka-link na simboliko sa ibang lugar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ang world na ito ay naka-hard link sa ibang lugar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="222"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Babala: Ang world na ito ay naka-hard link sa ibang lugar. Ang pag-edit nito ay magbabago din ng orihinal.
+Kanonikal na Path: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Babala: Ang world na ito ay naka-hard link sa ibang lugar. Ang pag-edit nito ay magbabago din ng orihinal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
         <source>Game Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Game Mode</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="268"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Huling Ni-laro</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Laki</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="274"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pabatid</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>The name of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang pangalan ng world.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
         <source>Game mode of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Game mode ng world.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Petsa at oras noong huling nilaro ang world na ito.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laki ng world sa disk.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impormasyon at babala na tumutukoy sa world.</translation>
     </message>
 </context>
 <context>
@@ -10078,22 +10103,22 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="65"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga aksyon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="97"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>I-dagdag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="102"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ng pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
@@ -10103,32 +10128,32 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
         <source>Copy Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang seed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sariwain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan ang Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
         <source>Reset Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>I-reset ang Icon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tanggalin ang icon ng world para i-generate ulit ng laro sa susunod na pag-bukas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
@@ -10153,7 +10178,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang World Datapacks Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="275"/>
@@ -10174,39 +10199,41 @@ You can set it up in the global settings.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="302"/>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang MCEdit ay hindi nakapag-bukas!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="303"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang MCEdit ay hindi nakapag-simula.
+Baka kailanganin na i-reinstall siya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Pumili ng Minecraft world zip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Minecraft World Zip File (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zip file ng Minecraft World (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Copy World</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang World</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ang pag-bago ng world habang bukas ang Minecraft ay may potensyal na makapaghamak.
+Gusto mo pa ba i-pagtuloy ito?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="192"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumpirmahin ang pag-bura</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="193"/>
@@ -10214,28 +10241,31 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>I-tatanggal mo ang &quot;%1&quot;.
+Ang world ay mawawala ng magpakailanman (NAPAKATAGAL NA ORAS).
+
+Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
         <source>World name</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng World</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
         <source>Enter a new name for the copy.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mag-lagay ng bagong pangalan para sa kopya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang pangalan ng World</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
         <source>Enter a new world name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-lagay ng bagong world name.</translation>
     </message>
 </context>
 <context>
@@ -10243,7 +10273,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumukuha ng awtorisasyon para mag-access ng %1 services.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="64"/>
