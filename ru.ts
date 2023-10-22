@@ -812,7 +812,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1705"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Были найдены старые данные от %1, но у вас уже есть существующие данные %2. К сожалению, вам придется мигрировать самостоятельно. Вы хотите, чтобы при следующем запуске %2 вы получали напоминание об ожидающем переносе данных?</translation>
+        <translation>Были найдены старые данные от %1, но у вас уже есть существующие данные %2. К сожалению, вам придётся мигрировать вручную. Вы хотите, чтобы при следующем запуске %2 вы получали напоминание об ожидающем переносе данных?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1709"/>
