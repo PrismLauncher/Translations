@@ -59,12 +59,12 @@
             "untranslated" : 1589
         },
         "cs" : {
-            "file" : "3200e035645e2d32924501d2e6997011582d9313.class",
-            "sha1" : "3200e035645e2d32924501d2e6997011582d9313",
-            "size" : 255198,
-            "translated" : 1806,
-            "fuzzy" : 2,
-            "untranslated" : 1
+            "file" : "04b61a86adf42777804f4a0577a8f65787cd7261.class",
+            "sha1" : "04b61a86adf42777804f4a0577a8f65787cd7261",
+            "size" : 255312,
+            "translated" : 1809,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "cy" : {
             "file" : "c2a6c72a8112db6e8d4294a7a043797fc8e5cdc5.class",
@@ -163,12 +163,12 @@
             "untranslated" : 1203
         },
         "es" : {
-            "file" : "162c9e0ad245fd565ec84317d8a9eb93f2425aab.class",
-            "sha1" : "162c9e0ad245fd565ec84317d8a9eb93f2425aab",
-            "size" : 248910,
-            "translated" : 1697,
-            "fuzzy" : 5,
-            "untranslated" : 107
+            "file" : "a471c64dd29a3147d74518e53efedc4f98408b62.class",
+            "sha1" : "a471c64dd29a3147d74518e53efedc4f98408b62",
+            "size" : 270919,
+            "translated" : 1809,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "es_UY" : {
             "file" : "098e2562b82e55044ac001d507f0e9520fc96f5a.class",
@@ -499,12 +499,12 @@
             "untranslated" : 740
         },
         "ru" : {
-            "file" : "694f772deebb6ecb04363e7b1bee2b55977af19f.class",
-            "sha1" : "694f772deebb6ecb04363e7b1bee2b55977af19f",
-            "size" : 259320,
-            "translated" : 1791,
+            "file" : "9e42dc6e37ce6dcc724e25a194dd36ea2ee122f2.class",
+            "sha1" : "9e42dc6e37ce6dcc724e25a194dd36ea2ee122f2",
+            "size" : 259429,
+            "translated" : 1792,
             "fuzzy" : 15,
-            "untranslated" : 3
+            "untranslated" : 2
         },
         "sco" : {
             "file" : "6c7d714b082791ff51980f95a388e43e5c5b8273.class",
