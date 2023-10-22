@@ -211,12 +211,12 @@
             "untranslated" : 728
         },
         "fil" : {
-            "file" : "a80b9c79041f1174a1cbe1adf51e057e240642b7.class",
-            "sha1" : "a80b9c79041f1174a1cbe1adf51e057e240642b7",
-            "size" : 56052,
-            "translated" : 316,
-            "fuzzy" : 108,
-            "untranslated" : 1385
+            "file" : "dff5e3c7bba87fc4aa0467c4d8d7c224e97b9073.class",
+            "sha1" : "dff5e3c7bba87fc4aa0467c4d8d7c224e97b9073",
+            "size" : 65690,
+            "translated" : 508,
+            "fuzzy" : 0,
+            "untranslated" : 1301
         },
         "fr" : {
             "file" : "ec720a51379f1ea5b94d254f9efddadda08c7cf5.class",
@@ -451,12 +451,12 @@
             "untranslated" : 939
         },
         "pl" : {
-            "file" : "fc9a26a004bc4808b320dfa55ef3d195ca7fb9e5.class",
-            "sha1" : "fc9a26a004bc4808b320dfa55ef3d195ca7fb9e5",
-            "size" : 264625,
-            "translated" : 1806,
-            "fuzzy" : 1,
-            "untranslated" : 2
+            "file" : "88a8f471572a1c134eb3afd96041ef112956f0d4.class",
+            "sha1" : "88a8f471572a1c134eb3afd96041ef112956f0d4",
+            "size" : 264830,
+            "translated" : 1809,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "pt_PT" : {
             "file" : "d9172704df167981d3ba1d1d998a1d079dbec9ba.class",
@@ -499,9 +499,9 @@
             "untranslated" : 740
         },
         "ru" : {
-            "file" : "c3f82128efb3356ae96f65f8d79dbe3d3879575d.class",
-            "sha1" : "c3f82128efb3356ae96f65f8d79dbe3d3879575d",
-            "size" : 259763,
+            "file" : "db6a35d2ef52d20fa5137fbd55470234eb973285.class",
+            "sha1" : "db6a35d2ef52d20fa5137fbd55470234eb973285",
+            "size" : 259753,
             "translated" : 1800,
             "fuzzy" : 9,
             "untranslated" : 0
@@ -611,9 +611,9 @@
             "untranslated" : 113
         },
         "zh_TW" : {
-            "file" : "ecf88c80977a7c21d8912a025e90ebe01725cd80.class",
-            "sha1" : "ecf88c80977a7c21d8912a025e90ebe01725cd80",
-            "size" : 183481,
+            "file" : "710a5244661aaed36a4438f5b0522da0eb0382ee.class",
+            "sha1" : "710a5244661aaed36a4438f5b0522da0eb0382ee",
+            "size" : 183471,
             "translated" : 1809,
             "fuzzy" : 0,
             "untranslated" : 0
