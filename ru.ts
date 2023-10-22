@@ -3768,7 +3768,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Нажмите &quot;Добавить сборку&quot;, чтобы начать.</translation>
+        <translation>Нажмите «Добавить сборку», чтобы начать.</translation>
     </message>
 </context>
 <context>
@@ -9128,7 +9128,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="264"/>
         <source>The server returned the following error:</source>
-        <translation>Сервер вернул ошибку:</translation>
+        <translation>Сервер ответил ошибкой:</translation>
     </message>
 </context>
 <context>
