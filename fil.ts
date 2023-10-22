@@ -6542,7 +6542,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="88"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Walang grupo</translation>
     </message>
 </context>
 <context>
