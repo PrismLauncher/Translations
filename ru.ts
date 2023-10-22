@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>API ключи</translation>
+        <translation>Ключи API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -746,14 +746,15 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished">У этой установки есть файл обновления в %1
+        <translation>У этой установки есть файл обновления в %1
 
 Время: %2
 При обновлении с версии %3 до %4
 Путь установки: %5
 Путь данных: %6
-Скорее всего, это означает неудавшуюся попытку обновления. Пожалуйста, перед продолжением убедитесь, что ваша установка работает.
-Для подробностей об этой попытке обновления проверьте журнал установки обновления по:
+Скорее всего, это означает неудавшуюся попытку обновления. Пожалуйста, убедитесь, что ваша установка работает нормально, прежде чем продолжить.
+
+Подробности об этой попытке обновления находятся в журнале установки в:
 %7
 
 Нажмите «Игнорировать» ниже, чтобы удалить этот файл обновления и продолжить.</translation>
@@ -771,10 +772,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation>Произошла ошибка при обновлении.
+        <translation>При обновлении произошла ошибка.
 
-Проверьте, что ваша установка правильно устроена и в рабочем состоянии.
-Вы можете смотреть подробности последней попытки обновления в журнале «%1».</translation>
+Пожалуйста, убедитесь, что ваша установка работает нормально, прежде чем продолжить.
+
+Подробности об этой попытке обновления находятся в журнале установки в:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="942"/>
@@ -792,9 +795,9 @@ for details.</source>
         <translation type="unfinished">Обновление успешно
 
 Теперь вы используете %1
-Подробности обновления доступны в:
-%1
-Можете взглянуть на них.</translation>
+
+Подробности обновления доступны в журнале установки в:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="975"/>
@@ -1384,7 +1387,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation>Копировать снимки экрана</translation>
+        <translation>Копировать скриншоты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
@@ -4737,7 +4740,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished">Не удалось найти библиотеку Legacy-лончера. Пожалуйста, проверьте целостность своей установки.</translation>
+        <translation type="unfinished">Не удалось найти библиотеку Legacy-лаунчера. Пожалуйста, проверьте целостность установки.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
@@ -6029,7 +6032,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="827"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Задание было прервано пользователем.</translation>
+        <translation>Задача была прервана пользователем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="831"/>
@@ -6444,7 +6447,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="186"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Процесс был прерван пользователем.</translation>
+        <translation>Задача была прервана пользователем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="191"/>
@@ -8629,7 +8632,7 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="205"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished">Служба обновлений сломалась в неизвестном состоянии.
+        <translation type="unfinished">Служба обновлений вылетела с неизвестным состоянием.
 Код ошибки: %1</translation>
     </message>
     <message>
@@ -8792,7 +8795,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="653"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished">Манифест пуст. Предполагаем содержимое папки %1</translation>
+        <translation type="unfinished">Манифест пуст. Предполагаемое содержимое папки %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
@@ -8901,18 +8904,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished">У этой установки есть файл обновления в %1
+        <translation>У этой установки есть файл обновления в %1
 
 Время: %2
 При обновлении с версии %3 до %4
 Пусть установки: %5
 Путь данных: %6
-Скорее всего, это означает, что предыдущая попытка обновления не удалась. Пожалуйста, перед продолжением убедитесь, что ваша установка работает.
-Гляньте лог установки обновления по:
-%7
-для получения подробностей об этой попытке обновления.
+Скорее всего, это означает, что предыдущая попытка обновления не удалась. Пожалуйста, убедитесь, что ваша установка работает нормально, прежде чем продолжить.
 
-Нажмите &quot;Игнорировать&quot; ниже, чтобы игнорировать этот файл обновления и продолжить как есть.</translation>
+Подробности об этой попытке обновления находятся в журнале установки в:
+%7
+
+Нажмите «Игнорировать» ниже, чтобы игнорировать этот файл обновления и продолжить как есть.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
@@ -8937,7 +8940,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1034"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished">Запуск файла установщика в %1</translation>
+        <translation>Запуск файла установщика в %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
@@ -8963,7 +8966,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1124"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished">Новая резервная копия:
+        <translation type="unfinished">Создаётся резервная копия:
   %1</translation>
     </message>
     <message>
@@ -10551,13 +10554,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка скриншотов отменена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Задача была прервана пользователем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="414"/>
@@ -10617,7 +10620,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
@@ -10645,7 +10648,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
