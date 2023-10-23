@@ -10283,7 +10283,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Pack Format</source>
-        <translation>Формат пакета</translation>
+        <translation>Формат набора</translation>
     </message>
     <message>
         <source>Last changed</source>
