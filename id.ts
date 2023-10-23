@@ -6102,12 +6102,12 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
         <translation>&amp;Tidak Ada Pemrofil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="869"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="882"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="872"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="885"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -6116,22 +6116,22 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="874"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="887"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="940"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="953"/>
         <source>broken</source>
         <translation>rusak</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="951"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="964"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="956"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="969"/>
         <source>, last played on %1 for %2</source>
         <translation>, terakhir dimainkan %1 selama %2</translation>
     </message>
@@ -6144,12 +6144,12 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
         <translation type="vanished">, terakhir dimain untuk %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="963"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="976"/>
         <source>, total played for %1</source>
         <translation>, total waktu bermain %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="968"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="981"/>
         <source>, has crashed.</source>
         <translation>, telah crash.</translation>
     </message>
