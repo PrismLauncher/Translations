@@ -55,7 +55,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Примечание: скорее всего, вам не нужно устанавливать этот параметр, если вход в систему через Microsoft Аутентификация уже работает.</translation>
+        <translation>Примечание: скорее всего, вам не нужно устанавливать этот параметр, если вход через Microsoft уже работает.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -152,7 +152,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="120"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Невозможно разобрать манифест сборки:
+        <translation>Не удалось разобрать манифест пакета:
 </translation>
     </message>
     <message>
@@ -248,7 +248,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Загрузка следующих файлов недоступна сторонним лаунчерам.&lt;br/&gt;Вам придётся загрузить и добавить их в сборку вручную.</translation>
+        <translation>Эти файлы недоступны для сторонних лаунчеров.&lt;br/&gt;Вам придётся скачать и добавить их в сборку вручную.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -614,7 +614,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>ID клиента Microsoft Аутентификации не установлен.</translation>
+        <translation>ID клиента аутентификации Microsoft не установлен.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
@@ -2509,7 +2509,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Эти файлы недоступны для сторонних лаунчеров.&lt;br/&gt;Вам нужно скачать их вручную и добавить их сборку.</translation>
+        <translation>Эти файлы недоступны для сторонних лаунчеров.&lt;br/&gt;Вам придётся скачать и добавить их в сборку вручную.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="512"/>
@@ -9167,7 +9167,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>Настройки прокси-сервера влияют только на лаунчер; Minecraft их не принимает.</translation>
+        <translation>Настройки прокси-сервера влияют только на лаунчер и не затрагивают игру.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
@@ -9227,7 +9227,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Примечание: Имя пользователя и пароль от прокси хранятся незашифрованно в файле настроек лаунчера!</translation>
+        <translation>Примечание: данные авторизации прокси хранятся незашифрованно в файле настроек лаунчера!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="57"/>
@@ -9781,7 +9781,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
         <source>texture pack</source>
-        <translation>пакет текстур</translation>
+        <translation>набор текстур</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
@@ -9868,7 +9868,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>пакетная программа MKLINK для Windows, который будет использоваться с prismlauncher</translation>
+        <translation>bat скрипт MKLINK для Windows, который будет использоваться с prismlauncher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
@@ -11051,7 +11051,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не удалось понять манифест пакета:
+        <translation>Не удалось разобрать манифест пакета:
 </translation>
     </message>
     <message>
@@ -11235,7 +11235,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="50"/>
         <source>Texture packs</source>
-        <translation>Пакеты текстур</translation>
+        <translation>Наборы текстур</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="51"/>
