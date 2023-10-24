@@ -1592,7 +1592,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation>Некоторые пути не могут быть скопированы!</translation>
+        <translation>Не удалось скопировать некоторые пути!</translation>
     </message>
 </context>
 <context>
@@ -1670,7 +1670,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
-        <translation>Получил права</translation>
+        <translation>Права получены</translation>
     </message>
 </context>
 <context>
@@ -1678,7 +1678,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>Экспорт сборки</translation>
+        <translation>Экспортировать сборку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
@@ -2042,7 +2042,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Check for &amp;Updates</source>
-        <translation>Проверить Обновления</translation>
+        <translation>Проверить обновления</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -7405,7 +7405,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="90"/>
         <source>Checking for updates</source>
-        <translation>Проверяю обновления</translation>
+        <translation>Проверка обновлений</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="109"/>
@@ -7478,7 +7478,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Не удалось проверить или получить обновления для следующих модов:&lt;br&gt;Вы желаете продолжить без них?</translation>
+        <translation>Не удалось проверить или получить обновления для следующих модов:&lt;br&gt;Вы хотите продолжить без них?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="258"/>
@@ -8908,7 +8908,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 
 Время: %2
 При обновлении с версии %3 до %4
-Пусть установки: %5
+Путь установки: %5
 Путь данных: %6
 Скорее всего, это означает, что предыдущая попытка обновления не удалась. Пожалуйста, убедитесь, что ваша установка работает нормально, прежде чем продолжить.
 
