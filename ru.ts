@@ -1347,7 +1347,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation>Настройки CoW (копирования при записи)</translation>
+        <translation>Настройки копирования при записи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
@@ -1497,7 +1497,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation>Альфа</translation>
+        <translation>Альфы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
@@ -7879,7 +7879,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Примечание: сборки Modrinth всё ещё находятся в альфа. Некоторые вещи могут криво работать или не работать вообще! Используйте с осторожностью.</translation>
+        <translation>Примечание: сборки Modrinth всё ещё находятся в альфе. Некоторые вещи могут криво работать или не работать вообще! Используйте с осторожностью.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
