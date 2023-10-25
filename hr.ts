@@ -777,7 +777,7 @@ za detalje.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1758"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Neuspješna migracija! Razlog: %1</translation>
+        <translation>Neuspjela migracija! Razlog: %1</translation>
     </message>
 </context>
 <context>
@@ -1750,7 +1750,7 @@ za detalje.</translation>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
@@ -1915,7 +1915,10 @@ za detalje.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Uklonit ćeš %1 stavke.
+Zauvijek će se izbrisati iz mape.
+
+Stvarno želiš to učiniti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
@@ -1923,7 +1926,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Uklonit ćeš mapu „%1”.
+Zauvijek će se izbrisati iz nadređene mape.
+
+Stvarno želiš to učiniti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="241"/>
@@ -2150,7 +2156,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="81"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="97"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2158,12 +2164,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiranje datoteka …</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiranje postavki …</translation>
     </message>
 </context>
 <context>
@@ -2176,7 +2182,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>API je vratio nevažeće podatke.</translation>
     </message>
 </context>
 <context>
@@ -2793,7 +2799,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="171"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiranje mape instance je prekinuto.</translation>
     </message>
 </context>
 <context>
@@ -3842,7 +3848,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modovi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
@@ -5040,7 +5046,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1342"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi brisanje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
@@ -5052,7 +5058,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Izbrisat ćeš „%1”.
+Instanca će se zauvijek izbrisati.
+
+Stvarno želiš to učiniti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
@@ -5376,22 +5385,22 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="248"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokreni &amp;neumreženo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokreni &amp;demonstraciju</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="259"/>
@@ -5421,27 +5430,27 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="953"/>
         <source>broken</source>
-        <translation type="unfinished"></translation>
+        <translation>pokvaren</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="964"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="969"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, zadnji put igrano %1, %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="976"/>
         <source>, total played for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, ukupno igrano %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="981"/>
         <source>, has crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>, se srušio.</translation>
     </message>
 </context>
 <context>
@@ -5457,30 +5466,30 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="48"/>
         <source>Window Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Veličina prozora</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pokreni Minecraft u &amp;maksimalno rastvorenom prozoru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Visina prozora:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Širina prozora:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži vrijeme igranja u satima</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="197"/>
@@ -5758,7 +5767,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -5898,17 +5907,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualiziranje modova je prekinuto!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="237"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Svi odabrani modovi su aktualni! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="240"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Provjera aktualiziranja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="325"/>
@@ -5919,33 +5928,34 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="326"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Uklonit ćeš metapodatke za %1 moda.
+Stvarno želiš to učiniti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>„%1” je aktualan! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="235"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Svi modovi su aktualni! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi modove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi modove od umreženih platformi modova</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="52"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modovi</translation>
     </message>
 </context>
 <context>
@@ -6705,7 +6715,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi brisanje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="197"/>
@@ -6768,7 +6778,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="573"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija</translation>
     </message>
 </context>
 <context>
@@ -7942,7 +7952,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
@@ -8028,7 +8038,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="104"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>modovi</translation>
     </message>
 </context>
 <context>
@@ -8037,13 +8047,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>modovi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
@@ -8570,7 +8580,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži mapu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
@@ -8657,24 +8667,24 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="516"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi brisanje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Snimke ekrana</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj sliku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj datoteke</translation>
     </message>
 </context>
 <context>
@@ -8682,17 +8692,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum izdavanja</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="118"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odaberi verziju koju želiš instalirati.</translation>
     </message>
 </context>
 <context>
@@ -8700,29 +8710,31 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Odaberi izdanje koje želiš instalirati</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odaberi izdanje na koje želiš aktualizirati.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum izdavanja</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="46"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Odaberi verziju koju želiš instalirati.
+
+Trenutačno instalirana verzija: %1</translation>
     </message>
 </context>
 <context>
@@ -8730,12 +8742,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="45"/>
         <source>One of the tasks failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedan od zadataka nije uspio!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="56"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvršavanje zadatka %1 od %2</translation>
     </message>
 </context>
 <context>
@@ -9816,7 +9828,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="59"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija</translation>
     </message>
 </context>
 <context>
@@ -9824,7 +9836,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="110"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="112"/>
@@ -10074,95 +10086,98 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži mapu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
         <source>Reset Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetiraj ikonu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni ikonu svijeta kako bi je igra ponovo generirala pri sljedećem učitavanju.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
         <source>Datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketi podataka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
         <source>Manage datapacks inside the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljaj paketima podataka u svijetu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="59"/>
         <source>Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Svijetovi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="140"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstni izbornik</translation>
+        <translation>Kontekstni izbornik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori mapu paketa podataka svijeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="275"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori svijet u uređivaču MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
         <source>No MCEdit found or set up!</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit nije pronađen ili nije postavljen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit nije postavljen ili je premješten.
+Možeš ga postaviti u globalnim postavkama.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="302"/>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit se nije uspio pokrenuti!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="303"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit se nije uspio pokrenuti.
+Možda se mora ponovo instalirati.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Odaberi zip datoteku Minecraft svijeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Minecraft World Zip File (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zip datoteka Minecraft svijeta (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Copy World</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj svijet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mijenjanje svijeta dok je Minecraft pokrenut je potencijalno nesigurno.
+Želiš li nastaviti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="192"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi brisanje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="193"/>
