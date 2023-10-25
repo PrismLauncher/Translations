@@ -696,18 +696,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Ova instalacija ima datoteku za zaključavanje ažuriranja koja se nalazi na: %1
-
-Vrijeme: %2
-Ažuriranje s verzije %3 na %4
-Putanja ciljane instalacije: %5
-Put podataka: %6
-To vjerojatno znači da pokušaj ažuriranja nije uspio. Provjerite je li vaša instalacija u ispravnom stanju prije nastavka.
-Provjerite dnevnik ažuriranja programa Prism Launcher na:
-%7
-za detalje o posljednjem pokušaju ažuriranja.
-
-Za brisanje ovog zaključavanja i nastavak odaberite &quot;Zanemari&quot; u nastavku.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
