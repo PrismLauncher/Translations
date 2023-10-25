@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>OBS! Du behöver förmodligen inte ställa in detta ifall inloggning via Microsoft Authentication redan fungerar.</translation>
+        <translation>OBS! Du behöver förmodligen inte ställa in detta ifall inloggning via Microsoft Autentisering redan fungerar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Ange ett anpassat klient-ID för Microsoft Authentication här.</translation>
+        <translation>Ange ett anpassat klient-ID för Microsoft Autentisering här.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Ange ett anpassat API-token för Modrinth här.</translation>
+        <translation>Ange en anpassad API-nyckel för Modrinth här.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Ange en anpassad användaragent här. Specialsträngen $LAUNCHER_VER kommer att ersättas med versionen av launchern.</translation>
+        <translation>Ange en anpassad Användaragent här. Specialsträngen $LAUNCHER_VER kommer att ersättas med versionen av launchern.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -232,7 +232,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Följande filer är inte tillgängliga för nedladdning i tredjepartslaunchers.&lt;br/&gt;Du kommer behöva manuellt ladda ner och lägga till dem i instansen.</translation>
+        <translation>Följande filer är inte tillgängliga för nedladdning i tredjepartslaunchers.&lt;br/&gt;Du kommer behöva manuellt ladda ner och lägga till dem i instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -722,7 +722,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna installation har en uppdateringslåsfil som finns på %1
+
+Tidsstämpel: %2
+Uppdaterar från version %3 till %4
+Installationssökväg: %5
+Datasökväg: %6
+Detta betyder troligen att ett uppdateringsförsök misslyckades. Vänligen kontrollera att din installation fungerar som den ska innan du fortsätter.
+Kolla igenom Prism Launcherns uppdaterarlogg på:
+%7
+för detaljer om senaste uppdateringsförsöket.
+
+För att radera detta lås och fortsätta välj &quot;Ignorera&quot; nedan.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
@@ -737,7 +748,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett uppdateringsförsök misslyckades
+
+Vänligen kontrollera att din installation fungerar som den ska innan du fortsätter.
+Kolla igenom Prism Launcherns uppdaterarlogg på:
+%1
+för detaljer om senaste uppdateringsförsöket.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="942"/>
@@ -752,7 +768,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdateringen lyckades
+
+Du har nu %1.
+Kolla igenom Prism Launcherns uppdaterarlogg på:
+%1
+för detaljer.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="975"/>
@@ -3559,7 +3580,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="589"/>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy-inställningar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="601"/>
@@ -3569,7 +3590,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera online-fixar (experimentell)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="617"/>
@@ -3665,7 +3686,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka på &quot;Lägg till Instans&quot; för att börja.</translation>
     </message>
 </context>
 <context>
@@ -4635,7 +4656,7 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy launcher-bibliotek kunde inte hittas. Vänligen kontrollera din installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
@@ -6048,7 +6069,7 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ange tomt namn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
@@ -6432,7 +6453,7 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="203"/>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy-inställningar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
