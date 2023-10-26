@@ -966,7 +966,7 @@ for details.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="64"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
@@ -2027,7 +2027,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
         <source>View &amp;Folder</source>
-        <translation>Открыть П&amp;апку</translation>
+        <translation>Открыть п&amp;апку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
@@ -2724,7 +2724,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация…</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -7884,7 +7884,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
         <source>Search and filter ...</source>
-        <translation>Поиск и фильтр ...</translation>
+        <translation>Поиск и фильтрация…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
@@ -11140,7 +11140,7 @@ inheritsFrom отсутствует</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
