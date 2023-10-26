@@ -1256,7 +1256,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Отключение оставит загрузчик модов (например, Fabric, Quilt и т.д.), но удалит папку с модами и их конфиги.</translation>
+        <translation>Отключение оставит загрузчик модов (например, Fabric, Quilt и т.д.), но удалит папку с модами и их настройки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -2017,7 +2017,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>View &amp;Configs</source>
-        <translation>Открыть конфиги</translation>
+        <translation>Открыть &amp;настройки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
@@ -3662,7 +3662,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="589"/>
         <source>Legacy settings</source>
-        <translation>Устаревшие настройки</translation>
+        <translation type="unfinished">Устаревшие настройки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="601"/>
@@ -9688,7 +9688,7 @@ New name: %2</source>
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
         <translation>Одна или несколько ваших сборок относятся к одному и тому же модпаку%1. Вы хотите создать отдельную сборку или обновить существующую?
 
-ПРИМЕЧАНИЕ: Убедитесь, что вы сделали резервную копию важных данных сборки перед обновлением, так как миры могут быть повреждены, а некоторые конфиги могут быть потеряны (из-за переопределения пака).</translation>
+ПРИМЕЧАНИЕ: Убедитесь, что вы сделали резервную копию важных данных сборки перед обновлением, так как миры могут быть повреждены, а некоторые настройки могут быть потеряны (из-за переопределения сборки).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
