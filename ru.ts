@@ -4143,7 +4143,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>Чтобы играть в Minecraft, вам нужно войти как минимум в одну учётную запись, владеющую игру. Вы хотите открыть менеджер учётных записей, чтобы добавить одну сейчас?</translation>
+        <translation>Чтобы играть в Minecraft, вам нужно войти как минимум в одну учётную запись Microsoft, владеющую игрой. Открыть менеджер учётных записей, чтобы добавить новую?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4218,7 +4218,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="231"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Запуск отменён; учётная запись не владеет Minecraft.</translation>
+        <translation>Запуск отменён: учётная запись не владеет Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="246"/>
