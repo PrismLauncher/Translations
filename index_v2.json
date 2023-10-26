@@ -499,9 +499,9 @@
             "untranslated" : 740
         },
         "ru" : {
-            "file" : "32c2607a3256337fe1765513b523be124fb79d56.class",
-            "sha1" : "32c2607a3256337fe1765513b523be124fb79d56",
-            "size" : 259481,
+            "file" : "f0cc9ed0390450e9d6921a036cc329366ed16824.class",
+            "sha1" : "f0cc9ed0390450e9d6921a036cc329366ed16824",
+            "size" : 259471,
             "translated" : 1800,
             "fuzzy" : 9,
             "untranslated" : 0
