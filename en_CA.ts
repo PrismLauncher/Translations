@@ -717,7 +717,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="909"/>
         <source>Update In Progress</source>
-        <translation>Please wait bud, there&apos;s an update in progress\!</translation>
+        <translation>Please wait bud, there&apos;s an update in progress</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="934"/>
@@ -727,7 +727,7 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished">An update attempt failed, bud!
+        <translation>An update attempt failed, bud!
 
 Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
@@ -757,7 +757,7 @@ for details.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="975"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished">Update Succeeded, Bud\!</translation>
+        <translation>Update Succeeded, Bud</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1307"/>
@@ -1706,7 +1706,7 @@ for details.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished">&amp;Summary</translation>
+        <translation>&amp;Summary</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
@@ -2466,7 +2466,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="521"/>
         <source>Choose update file</source>
-        <translation type="unfinished">Please, choose an update file, bud\!</translation>
+        <translation>Please, choose an update file, bud</translation>
     </message>
 </context>
 <context>
@@ -3234,7 +3234,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;GLFW library path</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="467"/>
@@ -6800,7 +6800,7 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>Choose update file</source>
-        <translation type="unfinished">Please, choose an update file, bud\!</translation>
+        <translation>Please, choose an update file, bud</translation>
     </message>
 </context>
 <context>
