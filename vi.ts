@@ -2474,7 +2474,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="578"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đã xong %1 từ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="592"/>
@@ -7260,7 +7260,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="274"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đã xong %1 từ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="279"/>

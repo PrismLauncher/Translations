@@ -2437,7 +2437,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">‌فایل‌های زیر در راه‌اندازهای شخص ثالث برای دانلود در دسترس نیستند. باید آنها را به صورت دستی دانلود کرده و به نمونه اضافه کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="512"/>
