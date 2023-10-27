@@ -7219,7 +7219,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="325"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirm Removal</translation>
+        <translation>Confirm Removal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="326"/>
@@ -7433,7 +7433,7 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Checking for dependencies...</translation>
+        <translation>Checking for dependencies...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
@@ -7493,12 +7493,12 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Required by: %1</translation>
+        <translation>Required by: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Required by:</source>
-        <translation type="unfinished">Required by:</translation>
+        <translation>Required by:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="441"/>
