@@ -239,12 +239,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blocked mods found</translation>
+        <translation>Blocked mods found</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</translation>
+        <translation>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -747,7 +747,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Update In Progress</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="938"/>
@@ -757,12 +757,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>An update attempt failed
+
+Please ensure your installation is in working order before proceeding.
+Check the Prism Launcher updater log at: 
+%1
+for details on the last update attempt.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="946"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Update Failed</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="971"/>
@@ -772,7 +777,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="979"/>
@@ -1653,7 +1663,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
@@ -1663,22 +1673,22 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
         <source>Value</source>
-        <translation type="unfinished">Value</translation>
+        <translation>Value</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Add</translation>
+        <translation>&amp;Add</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Remove</translation>
+        <translation>&amp;Remove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
@@ -5956,13 +5966,13 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="520"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Create instance</translation>
+        <translation>Create instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Delete group &apos;%1&apos;</translation>
+        <translation>Delete group &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -8537,7 +8547,7 @@ Error message: %3</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="89"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Checking for updates...</translation>
+        <translation>Checking for updates...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="118"/>
@@ -10482,7 +10492,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="388"/>
         <source>Abort</source>
-        <translation type="unfinished">Abort</translation>
+        <translation>Abort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
@@ -10494,7 +10504,7 @@ Are you sure?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">The task has been aborted by the user.</translation>
+        <translation>The task has been aborted by the user.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="414"/>
@@ -10547,7 +10557,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
@@ -10575,7 +10585,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
