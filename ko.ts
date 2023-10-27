@@ -716,12 +716,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="741"/>
+        <location filename="src/launcher/Application.cpp" line="744"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="892"/>
+        <location filename="src/launcher/Application.cpp" line="896"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -748,12 +748,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 잠금 파일을 삭제하고 진행하려면 아래에 있는 &quot;무시&quot; 버튼을 누르십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="909"/>
+        <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Update In Progress</source>
         <translation>업데이트 진행 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="934"/>
+        <location filename="src/launcher/Application.cpp" line="938"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -768,12 +768,12 @@ for details on the last update attempt.</source>
 에서 Prism Launcher 업데이터 로그를 볼 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="942"/>
+        <location filename="src/launcher/Application.cpp" line="946"/>
         <source>Update Failed</source>
         <translation>업데이트 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="967"/>
+        <location filename="src/launcher/Application.cpp" line="971"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -788,32 +788,32 @@ for details.</source>
 에서 Prism Launcher 업데이터 로그를 볼 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="975"/>
+        <location filename="src/launcher/Application.cpp" line="979"/>
         <source>Update Succeeded</source>
         <translation>업데이트 성공</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1307"/>
+        <location filename="src/launcher/Application.cpp" line="1311"/>
         <source>Aborted</source>
         <translation>중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1705"/>
+        <location filename="src/launcher/Application.cpp" line="1709"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1에서 이전 데이터를 찾았지만 %2에 대한 기존 데이터가 이미 있습니다. 안타깝게도 직접 마이그레이션해야 합니다. 다음에 %2를 시작할 때 보류 중인 데이터 마이그레이션에 대한 알림을 받으시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1709"/>
+        <location filename="src/launcher/Application.cpp" line="1713"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>이전에 %1을 사용한 것 같습니다. 데이터를 새 위치 %2로 마이그레이션하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1715"/>
+        <location filename="src/launcher/Application.cpp" line="1719"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>이전에 %2에서 %1을 사용한 것 같습니다. 데이터를 %3의 새 위치로 마이그레이션하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1758"/>
+        <location filename="src/launcher/Application.cpp" line="1762"/>
         <source>Migration failed! Reason: %1</source>
         <translation>마이그레이션 실패! 이유: %1</translation>
     </message>
@@ -1655,6 +1655,52 @@ for details.</source>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
         <translation>자격 얻는 중</translation>
+    </message>
+</context>
+<context>
+    <name>EnvironmentVariables</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">폼</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
+        <source>&amp;Environment Variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
+        <source>Name</source>
+        <translation type="unfinished">이름</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
+        <source>Value</source>
+        <translation type="unfinished">값</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
+        <source>&amp;Add</source>
+        <translation type="unfinished">추가 (&amp;A)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">제거 (&amp;R)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
+        <source>&amp;Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EnvironmentVariablesPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
+        <source>Environment Variables</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3354,12 +3400,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>이곳의 설정은 전역 설정을 오버라이딩합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
         <source>Java insta&amp;llation</source>
         <translation>자바 설치본 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="93"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Auto-detect...</source>
         <translation>자동 감지...</translation>
     </message>
@@ -3368,156 +3414,161 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">탐색...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
         <source>Test</source>
         <translation>테스트</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="64"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>이 옵션을 선택하면 런처는 인스턴스가 선택한 자바 버전과 호환되는지 확인하지 않습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
         <source>Skip Java compatibility checks</source>
         <translation>자바 호환성 검사 무시</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="112"/>
         <source>Memor&amp;y</source>
         <translation>메모리 (&amp;Y)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
         <source>Minimum memory allocation:</source>
         <translation>메모리 최소 할당량:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="174"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>마인크래프트에 할당된 사용 가능한 최대 메모리입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="152"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>마인크래프트는 이 용량의 메모리를 할당받고 실행됩니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="196"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>로드된 자바 클래스를 저장하는 데에 사용 가능한 메모리입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
         <source>Maximum memory allocation:</source>
         <translation>메모리 최대 할당량:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
         <source>Browse</source>
         <translation>탐색하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
         <source>PermGen:</source>
         <translation>PermGen:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>참고: 펌젠(Permgen) 은 자바 8 이상일 경우 자동설정됩니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="237"/>
         <source>Java argumen&amp;ts</source>
         <translation>자바 명령행 인자 (&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="256"/>
         <source>Game windows</source>
         <translation>게임 창(들)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="265"/>
         <source>Game Window</source>
         <translation>게임 창</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="277"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
         <translation>마인크래프트를 최대화된 상태로 시작하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="286"/>
         <source>Window height:</source>
         <translation>창 높이:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="293"/>
         <source>Window width:</source>
         <translation>창 너비:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="340"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="337"/>
         <source>Conso&amp;le Settings</source>
         <translation>콘솔 설정 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="349"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
         <translation>게임이 실행 중일때도 콘솔 표시</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="356"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
         <translation>게임 종료 시 콘솔을 자동으로 닫기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="363"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
         <translation>게임이 충돌했을 때 콘솔 표시</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="385"/>
         <source>Close the launcher after game window opens</source>
         <translation>게임 창이 열리면 런처 닫기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="392"/>
         <source>Quit the launcher after game window closes</source>
         <translation>게임 창이 닫히면 런처 종료</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="416"/>
         <source>Custom commands</source>
         <translation>사용자 정의 명령어들</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="426"/>
+        <source>Environment variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="436"/>
         <source>Workarounds</source>
         <translation>해결책</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="438"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="445"/>
         <source>Native libraries</source>
         <translation>네이티브 라이브러리</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="464"/>
         <source>&amp;GLFW library path</source>
         <translation>GLFW 라이브러리 경로 (&amp;G)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="467"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="474"/>
         <source>Use system installation of GLFW</source>
         <translation>시스템에 설치되어 있는 GLFW 사용하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="450"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
         <source>Use system installation of OpenAL</source>
         <translation>시스템에 설치되어 있는 OpenAL 사용하기</translation>
     </message>
@@ -3534,99 +3585,99 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">월간 활성 사용자 수를 계산하기 위해 퀼트 로더의 비콘 비활성화</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="681"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="688"/>
         <source>Override default account</source>
         <translation>기본 계정 덮어쓰기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="701"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="708"/>
         <source>Account:</source>
         <translation>계정:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="376"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="583"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="590"/>
         <source>Miscellaneous</source>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="488"/>
         <source>&amp;OpenAL library path</source>
         <translation>OpenAL 라이브러리 경로 (&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="515"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="524"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="522"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="531"/>
         <source>Performance</source>
         <translation>성능</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="536"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="543"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Feral Interactive의 GameMode를 활성화하여 게임 성능을 잠재적으로 향상시킵니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="539"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
         <source>Enable Feral GameMode</source>
         <translation>Feral GameMode 활성화</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;MangoHud의 고급 성능 오버레이 사용.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="549"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="556"/>
         <source>Enable MangoHud</source>
         <translation>MangoHud 활성화</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="556"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="563"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;기본 GPU 대신 개별 GPU 사용.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="566"/>
         <source>Use discrete GPU</source>
         <translation>개별 GPU 사용</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="589"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="596"/>
         <source>Legacy settings</source>
         <translation>레거시 설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="601"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;더 이상 작동하지 않는 이전 온라인 서비스의 작동을 에뮬레이트합니다.&lt;/p&gt;&lt;p&gt;이는 현재의 스킨을 사용할 수 있게 합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
         <source>Enable online fixes (experimental)</source>
         <translation>온라인 수정 활성화 (실험)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="617"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="624"/>
         <source>Override global game time settings</source>
         <translation>전역 게임 시간 설정을 오버라이드</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="629"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
         <source>Show time spent playing this instance</source>
         <translation>인스턴스에서 플레이 한 시간 보기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="643"/>
         <source>Record time spent playing this instance</source>
         <translation>인스턴스에서 플레이 한 시간 기록</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
         <source>Set a server to join on launch</source>
         <translation>실행 후 바로 접속 할 서버 설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="666"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="673"/>
         <source>Server address:</source>
         <translation>서버 주소:</translation>
     </message>
@@ -3636,33 +3687,33 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="328"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="349"/>
         <source>Path to %1 library file</source>
         <translation>%1 라이브러리 파일의 경로</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="364"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>시스템에서 Feral Interactive의 게임모드를 찾을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="369"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>시스템에서 MangoHud를 찾을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="396"/>
         <source>Select a Java version</source>
         <translation>자바 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="413"/>
         <source>Find Java executable</source>
         <translation>자바 실행 파일 찾기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="505"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>최대 메모리 할당이 최소 값보다 작습니다</translation>
     </message>
@@ -3671,12 +3722,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">기본 계정 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="499"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="514"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량을 초과했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="502"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="517"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량에 근접했습니다.</translation>
     </message>
@@ -6371,47 +6422,47 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="246"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>&amp;Launch</source>
         <translation>실행 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="248"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
         <source>Launch &amp;Offline</source>
         <translation>오프라인으로 실행 (&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Launch &amp;Demo</source>
         <translation>체험판 실행 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="259"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="262"/>
         <source>Profilers</source>
         <translation>프로파일러</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
         <source>&amp;No Profiler</source>
         <translation>프로파일러 없음 (&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="882"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="902"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="885"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="905"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -6420,22 +6471,22 @@ Are you sure?</source>
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="887"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="953"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="973"/>
         <source>broken</source>
         <translation>손상됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="964"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="984"/>
         <source>Minecraft %1</source>
         <translation>마인크래프트 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="969"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="989"/>
         <source>, last played on %1 for %2</source>
         <translation>, %2 에 대해 %1 에서 마지막으로 재생됨</translation>
     </message>
@@ -6448,12 +6499,12 @@ Are you sure?</source>
         <translation type="vanished">, %1동안 지난 플레이함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="976"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="996"/>
         <source>, total played for %1</source>
         <translation>, 총 %1동안 플레이 함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="981"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
         <source>, has crashed.</source>
         <translation>, 는 튕겼습니다.</translation>
     </message>

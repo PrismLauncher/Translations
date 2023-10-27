@@ -728,12 +728,12 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="741"/>
+        <location filename="src/launcher/Application.cpp" line="744"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="892"/>
+        <location filename="src/launcher/Application.cpp" line="896"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -760,12 +760,12 @@ pour obtenir des détails sur la dernière tentative de mise à jour.
 Pour lever ce verrouillage et continuer, sélectionnez &quot;Ignorer&quot; ci-dessous.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="909"/>
+        <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Update In Progress</source>
         <translation>Mise à jour en cours</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="934"/>
+        <location filename="src/launcher/Application.cpp" line="938"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -780,12 +780,12 @@ Vérifiez le journal de l&apos;assistant d&apos;installation de Prism Launcher&#
 pour plus de détails concernant la dernière tentative de mise à jour.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="942"/>
+        <location filename="src/launcher/Application.cpp" line="946"/>
         <source>Update Failed</source>
         <translation>Échec de la mise à jour</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="967"/>
+        <location filename="src/launcher/Application.cpp" line="971"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -800,32 +800,32 @@ Vérifiez le journal de l&apos;assistant de mise à jour de Prism Launcher&#x202
 pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="975"/>
+        <location filename="src/launcher/Application.cpp" line="979"/>
         <source>Update Succeeded</source>
         <translation>Mise à jour réussie</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1307"/>
+        <location filename="src/launcher/Application.cpp" line="1311"/>
         <source>Aborted</source>
         <translation>Annulé</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1705"/>
+        <location filename="src/launcher/Application.cpp" line="1709"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Des anciennes données de %1 ont été trouvés, cependant vous avez déjà des données existantes pour %2. Malheuresement, vous devrez faire la migration par vous même. Souhaitez-vous recevoir un rappel de la migration des données en attente la prochaine fois que vous démarrerez %2&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1709"/>
+        <location filename="src/launcher/Application.cpp" line="1713"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Il semblerai que vous avez utilisé %1 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement %2&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1715"/>
+        <location filename="src/launcher/Application.cpp" line="1719"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Il semblerait que vous utilisez %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement de %3&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1758"/>
+        <location filename="src/launcher/Application.cpp" line="1762"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration échouée&#xa0;! Raison&#xa0;: %1</translation>
     </message>
@@ -1667,6 +1667,52 @@ pour plus de détails.</translation>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
         <translation>Droits obtenus</translation>
+    </message>
+</context>
+<context>
+    <name>EnvironmentVariables</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
+        <source>&amp;Environment Variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
+        <source>Value</source>
+        <translation type="unfinished">Valeur</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Ajouter</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">&amp;Supprimer</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
+        <source>&amp;Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EnvironmentVariablesPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
+        <source>Environment Variables</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3399,12 +3445,12 @@ Procéder avec prudence!</translation>
         <translation>Les paramètres sont ici outrepassés par les paramètres globaux.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
         <source>Java insta&amp;llation</source>
         <translation>Insta&amp;llation Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="93"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Auto-detect...</source>
         <translation>Détecter automatiquement...</translation>
     </message>
@@ -3413,156 +3459,161 @@ Procéder avec prudence!</translation>
         <translation type="vanished">Parcourir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
         <source>Test</source>
         <translation>Vérifier</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="64"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>Si activé, le lanceur ne va pas vérifier si une instance est compatible avec la version de Java sélectionnée.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
         <source>Skip Java compatibility checks</source>
         <translation>Passer les vérifications de compatibilité de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="112"/>
         <source>Memor&amp;y</source>
         <translation>&amp;Mémoire</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
         <source>Minimum memory allocation:</source>
         <translation>Allocation minimale de mémoire&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="174"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>La quantité maximale de mémoire que Minecraft est autorisé à utiliser.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="152"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>La quantité de mémoire avec laquelle Minecraft démarre.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="196"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>La quantité de mémoire disponible pour stocker les classes Java chargées.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
         <source>Maximum memory allocation:</source>
         <translation>Allocation maximale de mémoire&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
         <source>Browse</source>
         <translation>Parcourir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
         <source>PermGen:</source>
         <translation>PermGen :</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>Remarque&#xa0;: Permgen est automatiquement activé avec Java 8 et ultérieur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="237"/>
         <source>Java argumen&amp;ts</source>
         <translation>Argumen&amp;ts Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="256"/>
         <source>Game windows</source>
         <translation>Fenêtres de jeu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="265"/>
         <source>Game Window</source>
         <translation>Fenêtre de jeu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="277"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
         <translation>Démarrer Minecraft en plein écran</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="286"/>
         <source>Window height:</source>
         <translation>Hauteur de la fenêtre&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="293"/>
         <source>Window width:</source>
         <translation>Largeur de la fenêtre&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="340"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="337"/>
         <source>Conso&amp;le Settings</source>
         <translation>Paramètres de la conso&amp;le</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="349"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
         <translation>Afficher la console durant l&apos;exécution du jeu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="356"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
         <translation>Fermer automatiquement la console à la fermeture du jeu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="363"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
         <translation>Afficher la console lorsque le jeu plante</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="385"/>
         <source>Close the launcher after game window opens</source>
         <translation>Fermer le lanceur après l&apos;ouverture de la fenêtre de jeu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="392"/>
         <source>Quit the launcher after game window closes</source>
         <translation>Quitter le lanceur après la fermeture de la fenêtre de jeu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="416"/>
         <source>Custom commands</source>
         <translation>Commandes personnalisées</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="426"/>
+        <source>Environment variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="436"/>
         <source>Workarounds</source>
         <translation>Solutions de secours</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="438"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="445"/>
         <source>Native libraries</source>
         <translation>Bibliothèques natives</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="464"/>
         <source>&amp;GLFW library path</source>
         <translation>Chemin de la bibliothèque &amp;GLFW</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="467"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="474"/>
         <source>Use system installation of GLFW</source>
         <translation>Utiliser l&apos;installation système de GLFW</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="450"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
         <source>Use system installation of OpenAL</source>
         <translation>Utiliser l&apos;installation système d&apos;OpenAL</translation>
     </message>
@@ -3579,99 +3630,99 @@ Procéder avec prudence!</translation>
         <translation type="vanished">Désactiver la balise du Quilt Loader pour le suivi du nombre d&apos;utilisateurs mensuels actifs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="681"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="688"/>
         <source>Override default account</source>
         <translation>Remplacer le compte par défaut</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="701"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="708"/>
         <source>Account:</source>
         <translation>Compte&#x202f;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="376"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="583"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="590"/>
         <source>Miscellaneous</source>
         <translation>Divers</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="488"/>
         <source>&amp;OpenAL library path</source>
         <translation>Chemin de la bibliothèque &amp;OpenAL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="515"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="524"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="522"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="531"/>
         <source>Performance</source>
         <translation>Performance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="536"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="543"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activer le mode de jeu de Feral Interactive, pour potentiellement améliorer les performances de jeu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="539"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
         <source>Enable Feral GameMode</source>
         <translation>Activer le Mode de jeu de Feral</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activez l&apos;affichage en superposition de performances avancées utilisant MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="549"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="556"/>
         <source>Enable MangoHud</source>
         <translation>Activer MangoHud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="556"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="563"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Utilisez le GPU dédié au lieu du GPU intégré.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="566"/>
         <source>Use discrete GPU</source>
         <translation>Utiliser un GPU dédié</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="589"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="596"/>
         <source>Legacy settings</source>
         <translation>Anciens paramètres</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="601"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emule les usages d&apos;anciens services en ligne qui ne fonctionnent plus.&lt;/p&gt;&lt;p&gt;Cela permet actuellement d&apos;utiliser des apparences modernes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
         <source>Enable online fixes (experimental)</source>
         <translation>Activation des correctifs en ligne (expérimental)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="617"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="624"/>
         <source>Override global game time settings</source>
         <translation>Remplacer les paramètres globaux de l&apos;heure du jeu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="629"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
         <source>Show time spent playing this instance</source>
         <translation>Afficher le temps passé à jouer à cette instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="643"/>
         <source>Record time spent playing this instance</source>
         <translation>Enregistrer le temps passé à jouer à cette instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
         <source>Set a server to join on launch</source>
         <translation>Définir un serveur à rejoindre au lancement</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="666"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="673"/>
         <source>Server address:</source>
         <translation>Adresse du serveur&#xa0;:</translation>
     </message>
@@ -3681,33 +3732,33 @@ Procéder avec prudence!</translation>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="328"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="349"/>
         <source>Path to %1 library file</source>
         <translation>Chemin d&apos;accès au fichier de la bibliothèque %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="364"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Le GameMode de Feral Interactive est introuvable sur votre système.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="369"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud est introuvable sur votre système.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="396"/>
         <source>Select a Java version</source>
         <translation>Sélectionner une version de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="413"/>
         <source>Find Java executable</source>
         <translation>Trouver l&apos;exécutable Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="505"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>L&apos;allocation maximale de mémoire est inférieure à la valeur minimale</translation>
     </message>
@@ -3716,12 +3767,12 @@ Procéder avec prudence!</translation>
         <translation type="vanished">Aucun compte par défaut</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="499"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="514"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Votre allocation maximale de mémoire excède votre capacité de mémoire système.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="502"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="517"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>La quantité de mémoire que vous avez allouée s&apos;approche de la quantité de mémoire de votre système.</translation>
     </message>
@@ -6467,47 +6518,47 @@ Voulez-vous continuer ?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="246"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lancer</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="248"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
         <source>Launch &amp;Offline</source>
         <translation>Lancer en mode &amp;Hors-ligne</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Launch &amp;Demo</source>
         <translation>Lancer &amp;Démo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="259"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="262"/>
         <source>Profilers</source>
         <translation>Profileurs</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Sans profileur</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="882"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="902"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="885"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="905"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -6516,22 +6567,22 @@ Voulez-vous continuer ?</translation>
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="887"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="953"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="973"/>
         <source>broken</source>
         <translation>endommagée</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="964"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="984"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="969"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="989"/>
         <source>, last played on %1 for %2</source>
         <translation>, joué pour la dernière fois le %1 pour %2</translation>
     </message>
@@ -6544,12 +6595,12 @@ Voulez-vous continuer ?</translation>
         <translation type="vanished">, joué pour la dernière fois pendant %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="976"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="996"/>
         <source>, total played for %1</source>
         <translation>, joué en tout pendant %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="981"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
         <source>, has crashed.</source>
         <translation>, a cessé de fonctionner.</translation>
     </message>

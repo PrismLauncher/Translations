@@ -704,12 +704,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="741"/>
+        <location filename="src/launcher/Application.cpp" line="744"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="892"/>
+        <location filename="src/launcher/Application.cpp" line="896"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -725,12 +725,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="909"/>
+        <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Update In Progress</source>
         <translation>Оновлення в прогресі</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="934"/>
+        <location filename="src/launcher/Application.cpp" line="938"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -740,12 +740,12 @@ for details on the last update attempt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="942"/>
+        <location filename="src/launcher/Application.cpp" line="946"/>
         <source>Update Failed</source>
         <translation>Не вдалося оновити</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="967"/>
+        <location filename="src/launcher/Application.cpp" line="971"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -755,32 +755,32 @@ for details.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="975"/>
+        <location filename="src/launcher/Application.cpp" line="979"/>
         <source>Update Succeeded</source>
         <translation>Оновлення встановлено успішно</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1307"/>
+        <location filename="src/launcher/Application.cpp" line="1311"/>
         <source>Aborted</source>
         <translation>Перервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1705"/>
+        <location filename="src/launcher/Application.cpp" line="1709"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Старі дані були знайдені у %1, проте у вас уже є дані у %2. На жаль, вам потрібно провести перенесення даних. Нагадати вам про перенесення коли ви запуститите %2 наступного разу?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1709"/>
+        <location filename="src/launcher/Application.cpp" line="1713"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Схоже, що ви використовували %1 раніше. Чи хочете ви перенести ваші дані до нового місця %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1715"/>
+        <location filename="src/launcher/Application.cpp" line="1719"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Схоже ви вже використовували %1 у %2. Чи хочете ви перенести дані до нового місця %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1758"/>
+        <location filename="src/launcher/Application.cpp" line="1762"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Не вдалося перенести! Причина: %1</translation>
     </message>
@@ -1618,6 +1618,52 @@ for details.</source>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
         <translation>Отримав права</translation>
+    </message>
+</context>
+<context>
+    <name>EnvironmentVariables</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">Форма</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
+        <source>&amp;Environment Variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
+        <source>Name</source>
+        <translation type="unfinished">Назва</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
+        <source>Value</source>
+        <translation type="unfinished">Значення</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Додати</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">&amp;Видалити</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
+        <source>&amp;Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EnvironmentVariablesPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
+        <source>Environment Variables</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3302,12 +3348,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Налаштування тут перевизначають глобальні налаштування.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
         <source>Java insta&amp;llation</source>
         <translation>Встановлення Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="93"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Auto-detect...</source>
         <translation>Автоматичне виявлення...</translation>
     </message>
@@ -3316,156 +3362,161 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">Огляд...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
         <source>Test</source>
         <translation>Перевірка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="64"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>Якщо ввімкнено, програма запуску не перевірятиме, чи екземпляр сумісний із вибраною версією Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
         <source>Skip Java compatibility checks</source>
         <translation>Пропустити перевірку сумісності з Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="112"/>
         <source>Memor&amp;y</source>
         <translation>Налаштування пам&apos;яті</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
         <source>Minimum memory allocation:</source>
         <translation>Мінімальний об&apos;єм виділеної пам&apos;яті:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="174"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Максимальний дозволений для використання об&apos;єм пам&apos;яті Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="152"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Мінімальний об&apos;єм пам&apos;яті для завантаження Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="196"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Об&apos;єм доступної пам&apos;яті для зберігання завантажених класів Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
         <source>Maximum memory allocation:</source>
         <translation>Максимальний об&apos;єм виділеної пам&apos;яті:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
         <source>Browse</source>
         <translation>Огляд</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
         <source>PermGen:</source>
         <translation>PermGen:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>Примітка: Permgen встановлюється автоматично для Java 8 і для більш пізніх версій</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="237"/>
         <source>Java argumen&amp;ts</source>
         <translation>Аргументи Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="256"/>
         <source>Game windows</source>
         <translation>Ігрові вікна</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="265"/>
         <source>Game Window</source>
         <translation>Налаштування вікна гри</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="277"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
         <translation>Запускати Minecraft в повноекранному режимі</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="286"/>
         <source>Window height:</source>
         <translation>Висота вікна:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="293"/>
         <source>Window width:</source>
         <translation>Ширина вікна:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="340"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="337"/>
         <source>Conso&amp;le Settings</source>
         <translation>Налаштування консолі</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="349"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
         <translation>Показувати консоль під час гри</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="356"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
         <translation>Автоматично закривати консоль при виході із гри</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="363"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
         <translation>Показувати вікно консолі після аварії гри</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="385"/>
         <source>Close the launcher after game window opens</source>
         <translation>Закривати запускач після відкриття вікна гри</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="392"/>
         <source>Quit the launcher after game window closes</source>
         <translation>Виходити із запускача після закриття вікна гри</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="416"/>
         <source>Custom commands</source>
         <translation>Користувацькі команди</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="426"/>
+        <source>Environment variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="436"/>
         <source>Workarounds</source>
         <translation>Обхідні шляхи</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="438"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="445"/>
         <source>Native libraries</source>
         <translation>Нативні бібліотеки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="464"/>
         <source>&amp;GLFW library path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="467"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="474"/>
         <source>Use system installation of GLFW</source>
         <translation>Використовувати системне встановлення GLFW</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="450"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
         <source>Use system installation of OpenAL</source>
         <translation>Використовувати системне встановлення OpenAL</translation>
     </message>
@@ -3482,99 +3533,99 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">Вимкнути маячок завантажувача Quilt для підрахунку активних користувачів щомісяця</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="681"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="688"/>
         <source>Override default account</source>
         <translation>Перевизначити типічний аккаунт</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="701"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="708"/>
         <source>Account:</source>
         <translation>Аккаунт:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="376"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="583"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="590"/>
         <source>Miscellaneous</source>
         <translation>Інше</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="488"/>
         <source>&amp;OpenAL library path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="515"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="524"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="522"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="531"/>
         <source>Performance</source>
         <translation>Продуктивність</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="536"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="543"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкніть GameMode Feral Interactive, щоб потенційно покращити ігрову продуктивність.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="539"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
         <source>Enable Feral GameMode</source>
         <translation>Увімнути Feral GameMode</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Увімкнути розширений оверлей продуктивності MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="549"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="556"/>
         <source>Enable MangoHud</source>
         <translation>Увімкнути MangoHud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="556"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="563"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Користуватися зовнішньою відеокартою замість головної.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="566"/>
         <source>Use discrete GPU</source>
         <translation>Користуватися зовнішньою відеокартою</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="589"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="596"/>
         <source>Legacy settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="601"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="604"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
         <source>Enable online fixes (experimental)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="617"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="624"/>
         <source>Override global game time settings</source>
         <translation>Перевизначити глобальні налаштування часу гри</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="629"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
         <source>Show time spent playing this instance</source>
         <translation>Показати час, витрачений на гру в цей екземпляр</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="643"/>
         <source>Record time spent playing this instance</source>
         <translation>Записувати час, витрачений на гру в цей екземпляр</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
         <source>Set a server to join on launch</source>
         <translation>Налаштувати сервер для приєднання під час запуску</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="666"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="673"/>
         <source>Server address:</source>
         <translation>Адреса сервера:</translation>
     </message>
@@ -3584,33 +3635,33 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="328"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="349"/>
         <source>Path to %1 library file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="364"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactive&apos;s GameMode не було знайдено в системі.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="369"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud не було знайдено в системі.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="396"/>
         <source>Select a Java version</source>
         <translation>Виберіть версію Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="413"/>
         <source>Find Java executable</source>
         <translation>Пошук виконуваного файлу Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="505"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3619,12 +3670,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">Немає типічного аккаунту</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="499"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="514"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Ваша кількість виділеної пам&apos;яті перевищує кількість пам&apos;яті, встановленої у вашу систему.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="502"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="517"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Максимальне виділення пам&apos;яті наближається до обсягу пам&apos;яті в системі.</translation>
     </message>
@@ -6325,47 +6376,47 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="246"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>&amp;Launch</source>
         <translation type="unfinished">За&amp;пустити</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="248"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
         <source>Launch &amp;Offline</source>
         <translation type="unfinished">Запустити &amp;офлайн</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Ctrl+Shift+O</source>
         <translation type="unfinished">Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Launch &amp;Demo</source>
         <translation type="unfinished">Запустити &amp;демо</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Ctrl+Alt+O</source>
         <translation type="unfinished">Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="259"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="262"/>
         <source>Profilers</source>
         <translation type="unfinished">Профайлери</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
         <source>&amp;No Profiler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="882"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="902"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID СЕСІЇ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="885"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="905"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ ДОСТУПУ&gt;</translation>
     </message>
@@ -6374,22 +6425,22 @@ Are you sure?</source>
         <translation type="vanished">&lt;КЛЮЧ КЛІЄНТА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="887"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID ПРОФІЛЮ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="953"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="973"/>
         <source>broken</source>
         <translation>пошкоджено</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="964"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="984"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="969"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="989"/>
         <source>, last played on %1 for %2</source>
         <translation>, востаннє зіграно %1 за %2</translation>
     </message>
@@ -6402,12 +6453,12 @@ Are you sure?</source>
         <translation type="vanished">, останній раз грав %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="976"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="996"/>
         <source>, total played for %1</source>
         <translation>, всього зіграно %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="981"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
         <source>, has crashed.</source>
         <translation>, вилетів.</translation>
     </message>
