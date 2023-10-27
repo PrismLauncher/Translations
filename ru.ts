@@ -1678,7 +1678,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
@@ -1698,17 +1698,17 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
         <source>&amp;Add</source>
-        <translation>Добавить</translation>
+        <translation type="unfinished">Добавить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished">Удалить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation>Очистить</translation>
+        <translation type="unfinished">Очистить</translation>
     </message>
 </context>
 <context>
@@ -2023,7 +2023,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>&amp;Add</source>
-        <translation>Добавить</translation>
+        <translation type="unfinished">Добавить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
@@ -2033,7 +2033,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>&amp;Remove</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished">Удалить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
