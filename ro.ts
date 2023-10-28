@@ -227,12 +227,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">S-au găsit mod-uri blocate</translation>
+        <translation>S-au găsit mod-uri blocate</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarele fișiere nu sunt disponibile pentru a fi descărcate cu launchere terțe.&lt;br/&gt;Va trebui să le descarci manual și să le adaugi la instanță.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -396,7 +396,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Eroare</translation>
+        <translation>A dat eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
@@ -425,7 +425,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip de cont (MSA sau Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -592,7 +592,8 @@ Dacă sunteți nou aici, puteți apăsa butonul &quot;Adăugați Microsoft&quot;
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bun venit!
+Dacă ești nou aici, poți alege butonul &quot;Adaugă Microsoft&quot; pentru a-ți conecta contul de Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -612,7 +613,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să adaugi un cont de Microsoft care deține Minecraft înainte să poți adăuga un cont offline.&lt;br&gt;&lt;br&gt;Dacă ți-ai pierdut contul poți contacta Microsoft for support.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -721,12 +722,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această instalare are un lock file la: %1
+
+Timestamp: %2
+Se actualizează de la versiunea %3 la %4
+Locatia instalării: %5
+Locatia Datelor: %6
+Asta probabil înseamnă că o încercare de actualizare a eșuat. Vă rog asigurați-vă că instalarea voastră funcționează înainte să continuați.
+Verificați log-ul actualizatorului Prism Launcher la: 
+%7
+pentru detalii despre ultima încercare de actualizare.
+
+Pentru a șterge acest lock și a continua apasa &quot;Ignoră&quot; mai jos.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Se actualizează</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="938"/>
@@ -736,12 +748,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>O încercare de actualizare a eșuat
+
+Vă rog asigurați-vă că instalarea funcționează înainte de a continua.
+Verificați log-ul actualizatorului Prism Launcher la: 
+%1
+pentru detalii despre ultima încercare de actualizare.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="946"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea a Eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="971"/>
@@ -751,12 +768,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea a reușit
+
+Acum rulați %1 .
+Verificați log-ul actualizatorului Prism Launcher la: 
+%1
+pentru detalii.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="979"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea a Reușit</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1311"/>
@@ -1634,27 +1656,27 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
         <source>Value</source>
-        <translation type="unfinished">Valoare</translation>
+        <translation>Valoare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Adauga</translation>
+        <translation>&amp;Adaugă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Elimină</translation>
+        <translation>&amp;Elimină</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Curăță</translation>
     </message>
 </context>
 <context>
@@ -1771,7 +1793,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rezumat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
@@ -1820,7 +1842,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă Pachetul CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
@@ -1831,7 +1853,7 @@ for details.</source>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Export %1</source>
-        <translation type="unfinished">Exportă %1</translation>
+        <translation>Exportă %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
@@ -1846,12 +1868,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Sarcina a fost anulată de utilizator.</translation>
+        <translation>Sarcina a fost anulată de utilizator.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="153"/>
         <source>Abort</source>
-        <translation type="unfinished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
 </context>
 <context>
@@ -1864,7 +1886,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Setări</translation>
+        <translation>Setări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -1910,7 +1932,7 @@ for details.</source>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished">Versiune</translation>
+        <translation>Versiune</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
@@ -1942,12 +1964,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
         <source>Copy</source>
-        <translation type="unfinished">Copiaţi</translation>
+        <translation>Copiaţi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">Exportă %1</translation>
+        <translation>Exportă %1</translation>
     </message>
 </context>
 <context>
@@ -2051,12 +2073,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="176"/>
         <source>Remove metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină metadata modului</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -2115,7 +2137,7 @@ Sunteți sigur?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">Răsfoiește</translation>
+        <translation>Răsfoiește</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2291,12 +2313,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sortează după nume</translation>
+        <translation>Sortează după Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sortează după versiunea jocului</translation>
+        <translation>Sortează după Versiunea Jocului</translation>
     </message>
 </context>
 <context>
@@ -2314,7 +2336,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished">Căutare</translation>
+        <translation>Caută</translation>
     </message>
 </context>
 <context>
@@ -2423,17 +2445,17 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="265"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
+        <translation>Obținerea indexului de metadate locale pentru %1 a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="298"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Nu s-a putut găsi versiunea pentru loader-ul %1</translation>
+        <translation>Nu s-a putut găsi versiunea pentru loader-ul %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="303"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Nu este setată nicio versiune de loader pentru modpack!</translation>
+        <translation>Nu este setată nicio versiune de loader pentru modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="339"/>
@@ -2539,7 +2561,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="521"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Alege fișierul de actualizare</translation>
     </message>
 </context>
 <context>
@@ -2596,7 +2618,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Nu s-a putut căuta cauta fișiere...</translation>
+        <translation>Nu s-au putut căuta fișiere</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
@@ -2612,17 +2634,17 @@ Vă rugăm să încercați din nou.</translation>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Analizăm răspunsul API de la CurseForge pentru &apos;%1&apos;...</translation>
+        <translation>Analizăm răspunsul API de la CurseForge pentru &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se caută informații despre proiect de la CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="332"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Se adaugă fișiere...</translation>
+        <translation>Se adaugă fișiere...</translation>
     </message>
 </context>
 <context>
@@ -2823,7 +2845,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Fă rost de dependențe</translation>
     </message>
 </context>
 <context>
@@ -2928,7 +2950,7 @@ Vă rugăm să încercați din nou.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- Pachete de mod-uri Curseforge (ZIP)</translation>
+        <translation>- Pachete de mod-uri Curseforge (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -2955,7 +2977,7 @@ Vă rugăm să încercați din nou.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importă din zip</translation>
+        <translation>Importă</translation>
     </message>
     <message>
         <source>Modrinth pack (*.mrpack)</source>
@@ -2966,7 +2988,7 @@ Vă rugăm să încercați din nou.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
@@ -2981,7 +3003,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>Abort</source>
-        <translation type="unfinished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="205"/>
@@ -3050,7 +3072,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="138"/>
         <source>Report issues to: </source>
-        <translation type="unfinished">Raportează probleme la: </translation>
+        <translation>Raportează probleme la: </translation>
     </message>
 </context>
 <context>
@@ -3068,22 +3090,22 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
@@ -3096,7 +3118,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="43"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Momentan nu sunt versiuni disponibile pentru Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3401,12 +3423,12 @@ Continuați cu prudență!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
         <source>Browse</source>
-        <translation type="unfinished">Răsfoiește</translation>
+        <translation>Răsfoiește</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
@@ -3500,7 +3522,7 @@ Continuați cu prudență!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="464"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation>locația bibliotecii &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="474"/>
@@ -3531,7 +3553,7 @@ Continuați cu prudență!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="488"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation>locația bibliotecii &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="522"/>
