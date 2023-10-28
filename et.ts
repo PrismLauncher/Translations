@@ -6292,12 +6292,12 @@ Do you wish to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="902"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="903"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SEANSI ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="905"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="906"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;PÄÄSUTALONG&gt;</translation>
     </message>
@@ -6306,22 +6306,22 @@ Do you wish to proceed?</source>
         <translation type="vanished">&lt;KLIENDITALONG&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="908"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFIILI ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="973"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="974"/>
         <source>broken</source>
         <translation>katki</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="984"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="985"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="989"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="990"/>
         <source>, last played on %1 for %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6334,12 +6334,12 @@ Do you wish to proceed?</source>
         <translation type="vanished">, viimati mängitud %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="996"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="997"/>
         <source>, total played for %1</source>
         <translation>, kokku mängitud %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>, has crashed.</source>
         <translation>, jooksis kokku.</translation>
     </message>
