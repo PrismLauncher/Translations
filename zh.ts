@@ -5978,7 +5978,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation>删除示例组(&amp;D)</translation>
+        <translation>删除分组(&amp;D)</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
