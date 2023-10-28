@@ -5450,7 +5450,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="392"/>
         <source>&amp;Edit...</source>
-        <translation>编辑(&amp;E)</translation>
+        <translation>编辑(&amp;E)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
@@ -5460,7 +5460,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>E&amp;xport...</source>
-        <translation>导出(&amp;X)</translation>
+        <translation>导出(&amp;X)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="419"/>
@@ -5470,7 +5470,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="434"/>
         <source>Cop&amp;y...</source>
-        <translation>复制(&amp;Y)</translation>
+        <translation>复制(&amp;Y)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="497"/>
@@ -5506,7 +5506,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="279"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>添加实例(&amp;E)</translation>
+        <translation>添加实例(&amp;E)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="184"/>
@@ -5517,7 +5517,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="306"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>设置(&amp;N)</translation>
+        <translation>设置(&amp;N)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="270"/>
@@ -5644,7 +5644,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="479"/>
         <source>CurseForge (zip)</source>
-        <translation>CurseForge (zip)</translation>
+        <translation>CurseForge (.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="488"/>
@@ -5785,7 +5785,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
         <source>&amp;Change Group...</source>
-        <translation>重新分组(&amp;C)</translation>
+        <translation>重新分组(&amp;C)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="375"/>
@@ -6085,7 +6085,7 @@ Please add your Microsoft or Mojang account.</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
         <source>Enter a new group name.</source>
-        <translation>输入新的实例组名称。</translation>
+        <translation>输入或选择要分配到的实例组。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
@@ -8563,7 +8563,7 @@ Error message: %3</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="119"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished">无法在5秒后启动
+        <translation type="unfinished">无法在 5 秒后启动
 原因：%1。</translation>
     </message>
     <message>
