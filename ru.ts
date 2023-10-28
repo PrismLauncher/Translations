@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>С&amp;ервис вставки</translation>
+        <translation>Вставить сервис и тип</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -674,7 +674,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
         <source>Failed to delete current skin!</source>
-        <translation>Не удалось удалить текущий скин!</translation>
+        <translation>Не удалось удалить текущий скин</translation>
     </message>
 </context>
 <context>
@@ -792,17 +792,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation>Обновление успешно
+        <translation>Успешное обновление!
 
 Теперь вы используете %1.
 
-Подробности обновления доступны в журнале установки в:
+Подробности обновления доступны в журнале установки:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="979"/>
         <source>Update Succeeded</source>
-        <translation>Обновление успешно</translation>
+        <translation>Успешное обновление</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1311"/>
@@ -919,7 +919,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Убрать все</translation>
+        <translation>Убрать всё</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
@@ -2191,7 +2191,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>Т&amp;екстовый редактор:</translation>
+        <translation>&amp;Текстовый редактор:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
@@ -3232,7 +3232,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation>Гру&amp;ппа:</translation>
+        <translation>&amp;Группа:</translation>
     </message>
 </context>
 <context>
@@ -3931,7 +3931,7 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>Минимал&amp;ьный объём выделенной памяти:</translation>
+        <translation>&amp;Минимальный объём выделенной памяти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
@@ -3985,7 +3985,7 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="222"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>Пров&amp;ерить</translation>
+        <translation>&amp;Проверить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
@@ -5573,7 +5573,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation>Очи&amp;стить кэш метаданных</translation>
+        <translation>&amp;Очистить кэш метаданных</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="655"/>
@@ -8178,7 +8178,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation>Гру&amp;ппа:</translation>
+        <translation>&amp;Группа:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
@@ -10851,7 +10851,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation>З&amp;авершить</translation>
+        <translation>&amp;Завершить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
