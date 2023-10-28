@@ -6276,7 +6276,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Лаунчер работает как неправильно настроенный AppImage? (переменная окружения $APPIMAGE отсутствует)</translation>
+        <translation>Лаунчер работает как неправильно настроенный AppImage? (переменная среды $APPIMAGE отсутствует)</translation>
     </message>
     <message>
         <source>Quilt is currently not supported by CurseForge modpacks.</source>
