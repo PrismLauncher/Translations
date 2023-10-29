@@ -3718,17 +3718,17 @@ Continuați cu prudență!</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Pornește</translation>
+        <translation>&amp;Lansează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Oprește forțat</translation>
+        <translation>&amp;Oprește forțat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -3871,7 +3871,7 @@ Continuați cu prudență!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
         <source>Browse</source>
-        <translation type="unfinished">Răsfoiește</translation>
+        <translation>Răsfoiește</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
@@ -4075,7 +4075,7 @@ Vă rugăm să selectați una dintre următoarele instalări sau căutați un ex
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Pentru a juca Minecraft, trebuie să aveți cel puțin un cont Mojang sau Microsoft conectat. Conturile Mojang pot fi folosite numai offline. Doriți să deschideți managerul de conturi pentru a adăuga un cont?</translation>
+        <translation>Pentru a juca Minecraft, trebuie să aveți cel puțin un cont Microsoft conectat care deține Minecraft. Doriți să deschideți managerul de conturi pentru a adăuga un cont?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4217,7 +4217,7 @@ Doriți să jucați demo-ul?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Pornește</translation>
+        <translation>&amp;Lansează</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -4338,7 +4338,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="136"/>
         <source>Browse</source>
-        <translation type="unfinished">Răsfoiește</translation>
+        <translation>Răsfoiește</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
@@ -4414,7 +4414,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished">Dezactivează folosirea metadatelor provenite de la furnizori de moduri (cum ar fi Modrinth sau Curseforge) pentru moduri.</translation>
+        <translation>Dezactivează folosirea metadatelor provenite de la furnizori de moduri (cum ar fi Modrinth sau Curseforge) pentru moduri.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
@@ -4725,7 +4725,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="29"/>
         <source>Search</source>
-        <translation type="unfinished">Căutare</translation>
+        <translation>Caută</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="42"/>
@@ -4764,7 +4764,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="207"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="212"/>
@@ -4938,7 +4938,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished">Copiați întregul log în clipboard</translation>
+        <translation>Copiați întregul log în clipboard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
@@ -4959,7 +4959,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Clear the log</source>
-        <translation type="unfinished">Ștergeți log-ul</translation>
+        <translation>Ștergeți log-ul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
@@ -5165,7 +5165,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="461"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished">Prism Launcher (zip)</translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="470"/>
@@ -5427,7 +5427,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished">&amp;Actualizați...</translation>
+        <translation>&amp;Actualizați...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="251"/>
@@ -5457,12 +5457,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished">&amp;Editează</translation>
+        <translation>&amp;Editează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished">&amp;Vedere</translation>
+        <translation>&amp;Vezi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="205"/>
@@ -5567,7 +5567,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="254"/>
         <source>Backspace</source>
-        <translation type="unfinished">Backspace</translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="440"/>
@@ -5589,7 +5589,7 @@ Motiv:
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Accounts</source>
-        <translation type="unfinished">Conturi</translation>
+        <translation>Conturi</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -5598,7 +5598,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1342"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmă Ștergerea</translation>
+        <translation>Confirmă Ștergerea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
@@ -5745,12 +5745,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="827"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Sarcina anulată</translation>
+        <translation>Sarcină anulată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="827"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Sarcina a fost anulată de utilizator.</translation>
+        <translation>Sarcina a fost anulată de utilizator.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="831"/>
@@ -5758,7 +5758,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="982"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1008"/>
         <source>Abort</source>
-        <translation type="unfinished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="875"/>
@@ -5776,7 +5776,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Descărcare modpack</translation>
+        <translation>Descărcare modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
@@ -5992,7 +5992,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="970"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1003"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
@@ -6060,7 +6060,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="179"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
@@ -6070,17 +6070,17 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="186"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Sarcina anulată</translation>
+        <translation>Sarcină anulată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="186"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Sarcina a fost anulată de utilizator.</translation>
+        <translation>Sarcina a fost anulată de utilizator.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="191"/>
         <source>Abort</source>
-        <translation type="unfinished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="199"/>
@@ -6108,7 +6108,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="65"/>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
 </context>
 <context>
@@ -6118,7 +6118,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="141"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <source>Aborted</source>
-        <translation type="unfinished">Anulat</translation>
+        <translation>Anulat</translation>
     </message>
 </context>
 <context>
@@ -6126,7 +6126,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Pornește</translation>
+        <translation>&amp;Lansează</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
@@ -6136,7 +6136,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctrl+Shift+O</translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
@@ -6146,7 +6146,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished">Ctrl+Alt+O</translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="262"/>
@@ -6181,7 +6181,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="985"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="990"/>
@@ -6204,7 +6204,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="20"/>
         <source>Aborted</source>
-        <translation type="unfinished">Anulat</translation>
+        <translation>Anulat</translation>
     </message>
 </context>
 <context>
@@ -6266,58 +6266,58 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished">Utilizați instalarea implicita de GLFW</translation>
+        <translation>Utilizați instalarea implicita de &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="235"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">locația bibliotecii &amp;GLFW</translation>
+        <translation>locația bibliotecii &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="unfinished">Utilizați instalarea implicita de OpenAL</translation>
+        <translation>Utilizați instalarea implicită de &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="252"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished">locația bibliotecii &amp;OpenAL</translation>
+        <translation>locația bibliotecii &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
         <source>Performance</source>
-        <translation type="unfinished">Performanță</translation>
+        <translation>Performanță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="285"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește GameMode de la Feral Interactive, pentru a îmbunătăți potențial performanța în timpului jocului.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește GameMode de la Feral Interactive, pentru a îmbunătăți potențial performanța jocului.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="288"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Pornește Feral GameMode</translation>
+        <translation>Pornește Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="295"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește suprapunerea conținând informații de performanță MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pornește overlay-ul avansat de performanță MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="298"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Pornește MangoHud</translation>
+        <translation>Pornește MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="305"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folosește placa grafică dedicată în locul plăcii primare GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folosește placa grafică dedicată în locul plăcii primare GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="308"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Folosește placa grafică dedicată</translation>
+        <translation>Folosește placa grafică dedicată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -6350,7 +6350,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Adițional</translation>
+        <translation>Adițional</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
@@ -6396,7 +6396,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">GameMode de la Feral Interactive nu a putut fi găsit în sistemul dumneavoastră.</translation>
+        <translation>GameMode de la Feral Interactive nu a putut fi găsit în sistemul dumneavoastră.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="166"/>
