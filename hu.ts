@@ -6076,6 +6076,13 @@ Do you wish to proceed?</source>
 A törlés tönkre teheti a másik példányt,
 
 Szeretné folytatni?</numerusform>
+            <numerusform>A következő példányok hivatkozhatnak fájlokra ebben a példányban:
+
+%1
+
+A törlés tönkre teheti a többi példányt,
+
+Szeretné folytatni?</numerusform>
         </translation>
     </message>
     <message>
@@ -9733,7 +9740,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="104"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>Modok</translation>
+        <translation>modok</translation>
     </message>
 </context>
 <context>
