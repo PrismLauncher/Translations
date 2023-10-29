@@ -1646,12 +1646,12 @@ pentru detalii.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Variabile de Mediu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1684,7 +1684,7 @@ pentru detalii.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabile de Mediu</translation>
     </message>
 </context>
 <context>
@@ -2326,7 +2326,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importare Aplicatie FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
@@ -2623,12 +2623,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Găsim hash-uri de fișiere...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Găsim versiunilor hashurilor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
@@ -3507,7 +3507,7 @@ Continuați cu prudență!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="426"/>
         <source>Environment variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabile de mediu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="436"/>
@@ -3594,17 +3594,19 @@ Continuați cu prudență!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="596"/>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Setări vechi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;
+Emulează utilizările vechilor servicii online care nu mai funcționează.&lt;/p&gt;&lt;p&gt;
+Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activează remedieri online (experimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="624"/>
@@ -3640,7 +3642,7 @@ Continuați cu prudență!</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="342"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="349"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea către fișierul bibliotecă %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="364"/>
@@ -3695,12 +3697,12 @@ Continuați cu prudență!</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bun venit!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apasă &quot;Adăugare Instanță&quot; pentru a incepe.</translation>
     </message>
 </context>
 <context>
@@ -3823,7 +3825,7 @@ Continuați cu prudență!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermisiuneGenerator:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -4038,7 +4040,7 @@ Vă rugăm să selectați una dintre următoarele instalări sau căutați un ex
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Folosește locale de sistem</translation>
     </message>
 </context>
 <context>
@@ -4212,7 +4214,7 @@ Doriți să jucați demo-ul?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificarea profilelor pentru %1 a eșuat: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
@@ -4445,17 +4447,17 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Diverse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de sarcini concurente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>numărul de descărcări simultane</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
@@ -4605,7 +4607,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca de lansare veche nu a putut fi găsită. Vă rugăm să verificați instalația.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
@@ -5044,7 +5046,7 @@ Motiv:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="444"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder nu există</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="447"/>
@@ -5059,7 +5061,7 @@ Motiv:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="476"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu poate citi si compresa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="482"/>
