@@ -5140,29 +5140,29 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="95"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>程式已退出，代碼：%1。</translation>
+        <translation>處理程序已退出，代碼：%1。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="100"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation>程式已崩潰。</translation>
+        <translation>處理程序已崩潰。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="102"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>程式已崩潰，退出代碼：%1。</translation>
+        <translation>處理程序已崩潰，退出代碼：%1。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>程式已被使用者強制關閉。</translation>
+        <translation>處理程序已被使用者強制關閉。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
         <source>The process failed to start.</source>
-        <translation>程式啟動失敗。</translation>
+        <translation>處理程序啟動失敗。</translation>
     </message>
 </context>
 <context>
@@ -8899,7 +8899,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>Process start result: %1</source>
-        <translation>開啟程式結果：%1</translation>
+        <translation>開啟處理程序結果：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
@@ -8996,7 +8996,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation>啟動子啟動器處理程序以讀取版本失敗。</translation>
+        <translation>啟動子啟動器處理程序讀取版本失敗。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
