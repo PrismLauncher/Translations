@@ -8563,14 +8563,14 @@ Error message: %3</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="119"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished">无法在 5 秒后启动
+        <translation>5 秒后仍然无法开始
 原因：%1。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="140"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished">更新程序无法在 60 秒后关闭
+        <translation>更新程序在 60 秒后未关闭
 原因：%1。</translation>
     </message>
     <message>
