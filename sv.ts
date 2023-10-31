@@ -8612,7 +8612,7 @@ Uppdateraren kan inte fortsätta tills du åtgärdar problemet.</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
         <source>No Valid Release Assets</source>
-        <translation>Inga giltiga släpptillgångar</translation>
+        <translation>Inga giltiga versionstillgångar (release assets)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="869"/>
@@ -8677,16 +8677,16 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation>Denna installation har en uppdateringslåsfil närvarande på: %1
+        <translation>Denna installation har en uppdateringslåsfil som finns på: %1
 
 Tidsstämpel: %2
-Uppdatering från version %3 till %4
-Målinstallationsväg: %5
-Dataväg: %6
-Detta innebär sannolikt att ett tidigare uppdateringsförsök misslyckades. Se till att din installation är giltig innan du fortsätter.
-Kontrollera Prism Launcher-uppdateringsloggen på:
+Uppdaterar från version %3 till %4
+Installationssökväg: %5
+Datasökväg: %6
+Detta betyder troligen att ett tidigare uppdateringsförsök misslyckades. Vänligen kontrollera att din installation fungerar som den ska innan du fortsätter.
+Kolla igenom Prism Launcherns uppdaterarlogg på:
 %7
-för detaljer om det senaste uppdateringsförsöket.
+för detaljer om senaste uppdateringsförsöket.
 
 För att skriva över detta lås och fortsätta med denna uppdatering ändå, välj &quot;Ignorera&quot; nedan.</translation>
     </message>
@@ -8718,12 +8718,12 @@ För att skriva över detta lås och fortsätta med denna uppdatering ändå, v�
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>Process start result: %1</source>
-        <translation>Processstartsresultat: %1</translation>
+        <translation>Resultat från start av process: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
         <source>Backing up install</source>
-        <translation>Gör backup på installation</translation>
+        <translation>Säkerhetskopierar installationen</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1071"/>
@@ -8739,24 +8739,24 @@ För att skriva över detta lås och fortsätta med denna uppdatering ändå, v�
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1124"/>
         <source>Backing up:
   %1</source>
-        <translation>Gör en backup:
+        <translation>Säkerhetskopierar:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1142"/>
         <source>Backing up install at %1</source>
-        <translation>Återställer backup på %1</translation>
+        <translation>Säkerhetskopierar installation på %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
         <source>Backing up and then removing %1</source>
-        <translation>Gör backup och sen tar bort %1</translation>
+        <translation>Säkerhetskopierar och tar sedan bort %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
         <source>Failed to backup %1 to %2</source>
-        <translation>Misslyckades att göra backup %1 till %2</translation>
+        <translation>Misslyckades att säkerhetskopiera %1 till %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1154"/>
@@ -8767,8 +8767,8 @@ För att skriva över detta lås och fortsätta med denna uppdatering ändå, v�
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1189"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation>Utdragna följande till &quot;%1&quot;:
-%2</translation>
+        <translation>Extraherade följande till &quot;%1&quot;:
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1191"/>
@@ -8789,7 +8789,7 @@ För att skriva över detta lås och fortsätta med denna uppdatering ändå, v�
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1206"/>
         <source>Failed extract archive</source>
-        <translation>Misslyckad extrakt arkiv</translation>
+        <translation>Misslyckades att extrahera arkiv</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
