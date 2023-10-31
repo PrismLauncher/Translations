@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>OBS! Du behöver förmodligen inte ställa in detta ifall inloggning via Microsoft Autentisering redan fungerar.</translation>
+        <translation>OBS! Du behöver förmodligen inte ställa in detta ifall inloggning med Microsofts autentisering redan fungerar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Ange ett anpassat klient-ID för Microsoft Autentisering här.</translation>
+        <translation>Ange ett anpassat klient-ID för Microsoft-autentisering här.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Ange en anpassad Användaragent här. Specialsträngen $LAUNCHER_VER kommer att ersättas med versionen av launchern.</translation>
+        <translation>Ange en anpassad användaragent här. Specialsträngen $LAUNCHER_VER kommer att ersättas med versionen av launchern.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -593,7 +593,7 @@ Om du är ny här så kan du lägga till ditt Microsoft- eller Mojang-konto med 
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Välkommen!
-Om du är ny här, kan du välja &quot;Lägg till Microsoft&quot; knappen för att länka ditt Microsoft konto.</translation>
+Om du är ny här kan du välja &quot;Lägg till Microsoft&quot;-knappen för att länka ditt Microsoft-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
@@ -613,7 +613,7 @@ Om du är ny här, kan du välja &quot;Lägg till Microsoft&quot; knappen för a
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Du måste lägga till ett Microsoft konto som äger Minecraft innan du kan lägga till ett offline konto.&lt;br&gt;&lt;br&gt;Om du har förlorat tillgången till ditt konto kan du kontakta Microsoft för att få hjälp.</translation>
+        <translation>Du måste lägga till ett Microsoft-konto som äger Minecraft innan du kan lägga till ett offline-konto.&lt;br&gt;&lt;br&gt;Om du har förlorat tillgången till ditt konto kan du kontakta Microsoft för att få hjälp.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -738,7 +738,7 @@ För att radera detta lås och fortsätta välj &quot;Ignorera&quot; nedan.</tra
     <message>
         <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Update In Progress</source>
-        <translation>Uppdatering Pågår</translation>
+        <translation>Uppdatering pågår</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="938"/>
@@ -758,7 +758,7 @@ för detaljer om senaste uppdateringsförsöket.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="946"/>
         <source>Update Failed</source>
-        <translation>Uppdateringen Misslyckades</translation>
+        <translation>Uppdateringen misslyckades</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="971"/>
@@ -778,7 +778,7 @@ för detaljer.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="979"/>
         <source>Update Succeeded</source>
-        <translation>Uppdateringen Lyckades</translation>
+        <translation>Uppdateringen lyckades</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1311"/>
@@ -1651,7 +1651,7 @@ för detaljer.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Miljövariabler</translation>
+        <translation>&amp;Systemvariabler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1684,7 +1684,7 @@ för detaljer.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
-        <translation>Miljövariabler</translation>
+        <translation>Systemvariabler</translation>
     </message>
 </context>
 <context>
@@ -3540,7 +3540,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="426"/>
         <source>Environment variables</source>
-        <translation>Miljövariabler</translation>
+        <translation>Systemvariabler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="436"/>
@@ -3636,7 +3636,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerar användningar av gamla onlinetjänster som inte längre fungerar.&lt;/p&gt;&lt;p&gt; Detta tillåter för närvarande att moderna skins används.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerar användandet av gamla onlinetjänster som inte längre fungerar.&lt;/p&gt;&lt;p&gt; Detta tillåter för närvarande att moderna skins används.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
@@ -3737,7 +3737,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Klicka på &quot;Lägg till Instans&quot; för att börja.</translation>
+        <translation>Klicka på &quot;Lägg till instans&quot; för att börja.</translation>
     </message>
 </context>
 <context>
@@ -4112,7 +4112,7 @@ Vänligen välj en av följande eller sök efter en körbar Java-fil.</translati
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>För att kunna spela Minecraft så måste du vara inloggad på minst ett Microsoft konto som äger Minecraft. Vill du öppna kontohanteraren och lägga till ett konto nu?</translation>
+        <translation>För att kunna spela Minecraft så måste du vara inloggad på minst ett Microsoft-konto som äger Minecraft. Vill du öppna kontohanteraren och lägga till ett konto nu?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -5970,7 +5970,7 @@ Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
         <translation>Prism Launcher kan inte ladda ner Minecraft eller uppdatera instanser om du inte har lagt till minst ett konto.
-Vänligen lägg till ett Microsoft konto.</translation>
+Vänligen lägg till ett Microsoft-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
@@ -6509,7 +6509,7 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerar användningar av gamla onlinetjänster som inte längre fungerar.&lt;/p&gt;&lt;p&gt; Detta tillåter för närvarande att moderna skinn används.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulerar användandet av gamla onlinetjänster som inte längre fungerar.&lt;/p&gt;&lt;p&gt; Detta tillåter för närvarande att moderna skins används.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
@@ -8028,12 +8028,12 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="10"/>
         <source>Creating offline account.</source>
-        <translation>Skapar offlinekonto.</translation>
+        <translation>Skapar offline-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="20"/>
         <source>Created offline account.</source>
-        <translation>Skapade offlinekonto.</translation>
+        <translation>Skapade offline-konto.</translation>
     </message>
 </context>
 <context>
@@ -8051,7 +8051,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
         <source>Deselect All</source>
-        <translation>Avmarkera Alla</translation>
+        <translation>Avmarkera alla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
@@ -8372,14 +8372,14 @@ Orsak: %1.</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="140"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation>Uppdateraren misslyckades med att stänga 60 sekunder
+        <translation>Uppdateraren misslyckades med att stänga efter 60 sekunder
 Anledning: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
         <source>No Update Available</source>
-        <translation>Ingen Uppdatering Tillgänglig</translation>
+        <translation>Ingen uppdatering tillgänglig</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
@@ -8399,7 +8399,7 @@ Anledning: %1.</translation>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="204"/>
         <source>Unknown Update Error</source>
-        <translation>Okänt Uppdateringsfel</translation>
+        <translation>Okänt uppdateringsfel</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="205"/>
@@ -8426,7 +8426,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation>Använd en anpassad väg som applikationsrot (använd &quot;.&apos; för aktuell mapp).</translation>
+        <translation>Använd en anpassad väg som applikationsrot (använd &apos;.&apos; för aktuell mapp).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
@@ -8436,12 +8436,12 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation>Använd den här versionen som den installerade launcherversionen. (förutsatt eftersom stdout inte kan fångas på ett tillförlitligt sätt på Windows)</translation>
+        <translation>Använd den här versionen som den installerade launcher-versionen. (Tillhandahålls eftersom stdout inte kan fångas på ett tillförlitligt sätt på Windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
         <source>installed launcher version</source>
-        <translation>installerad launcher version</translation>
+        <translation>installerad launcher-version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
@@ -8451,22 +8451,22 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>Update from the specified repo.</source>
-        <translation>Uppdatering från den angivna repon.</translation>
+        <translation>Uppdatera från det angivna repot.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation>github repo url</translation>
+        <translation>GitHub repo-URL</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation>Kontrollera bara om en uppdatering behövs. Exitstatus 100 om det är sant, 0 om falskt (eller icke 0 om det fanns ett fel).</translation>
+        <translation>Utför endast en kontroll om en uppdatering behövs. Exit-status 100 om det är sant, 0 om falskt (eller annat än 0 om det fanns ett fel).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>Allow updating to pre-release releases</source>
-        <translation>Tillåt uppdatering till pre-release releaser</translation>
+        <translation>Tillåt uppdatering till experimentversioner</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
@@ -8496,7 +8496,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>MacOS Not Supported</source>
-        <translation>MacOS Stöds Inte</translation>
+        <translation>MacOS stöds inte</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
@@ -8507,12 +8507,12 @@ StdErr: %2</translation>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="254"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
         <source>Unsupported Installation</source>
-        <translation>Installationen Stöds Inte</translation>
+        <translation>Installationen stöds inte</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Updater körs som felkonfigurerad AppImage? ($APPIMAGE miljövariabel saknas)</translation>
+        <translation>Uppdateraren kör som felkonfigurerad AppImage? (systemvariabeln $APPIMAGE saknas)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
@@ -8547,7 +8547,7 @@ Uppdateraren kan inte fortsätta tills du åtgärdar problemet.</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation>Åtgärder utanför kontrollen om en uppdatering är tillgänglig stöds inte när du kör flatpak-versionen av Prism Launcher.</translation>
+        <translation>Åtgärder förutom kontrollen om en uppdatering är tillgänglig stöds inte när du kör flatpak-versionen av Prism Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
@@ -8557,7 +8557,7 @@ Uppdateraren kan inte fortsätta tills du åtgärdar problemet.</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="591"/>
         <source>Updating non-portable linux installations is not supported. Please use your system package manager</source>
-        <translation>Uppdatering av icke-porterbara linuxinstallationer stöds inte. Använd din systempakethanterare</translation>
+        <translation>Uppdatering av icke-portabla installationer på Linux stöds inte. Använd din systempakethanterare</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="641"/>
@@ -8693,7 +8693,7 @@ För att skriva över detta lås och fortsätta med denna uppdatering ändå, v�
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>Update Aborted</source>
-        <translation>Uppdatering Avbruten</translation>
+        <translation>Uppdatering avbruten</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
@@ -11162,7 +11162,7 @@ Varning: Denna resurs är hårt länkad någon annanstans. Om du redigerar den �
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation>Release Anteckningar:</translation>
+        <translation>Versionsanteckningar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
@@ -11747,7 +11747,7 @@ Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
         <translation>Kan inte ladda ner Minecraft eller uppdatera instanser om du inte har lagt till minst ett konto.
-Vänligen lägg till ett Microsoft konto.</translation>
+Vänligen lägg till ett Microsoft-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
