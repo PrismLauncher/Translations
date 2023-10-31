@@ -5333,32 +5333,32 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pliant</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xportare...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="419"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge&amp;re</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="434"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia&amp;re...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bara de instrumente pentru instanțe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="380"/>
         <source>Change Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbați iconița</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
@@ -5373,7 +5373,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="279"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă o Instanț&amp;a...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="184"/>
@@ -5384,47 +5384,47 @@ Motiv:
         <location filename="src/launcher/ui/MainWindow.ui" line="306"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Setă&amp;ri...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="270"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anulați Stergerea Ultimei Instanțe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ștergeți Memoria Cache a Metadatelor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="655"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeti Metadatele din Cache</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="664"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalați în &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spațiul Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="601"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Breasla Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="625"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="637"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aproximativ 1%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
@@ -5439,12 +5439,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="321"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gestionați Conturile...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="262"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocați barele de instrumente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
@@ -5474,58 +5474,58 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="533"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Inchideți &amp;Fereasta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="536"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Inchideți Fereastra Curenta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
         <source>View &amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizați &amp;Folderul de Instanțe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizați &amp;Folderul Rădăcină al Lansatorului</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="709"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Ajutor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="712"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți wiki-ul 1%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="721"/>
         <source>View &amp;Widget Themes Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizați &amp;Dosarul Teme Widget</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>View Widget Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizați Dosarul cu Teme Widget</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="733"/>
         <source>View I&amp;con Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizați &amp;Folderul cu Tema Pictogramelor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
         <source>View Icon Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizați &amp;Folderul cu Tema Pictogramelor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="744"/>
         <source>View Cat Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizați Folderul cu Pachete de Pisici</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
@@ -5555,7 +5555,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Schimbați Grupul...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="375"/>
@@ -5580,12 +5580,12 @@ Motiv:
         <location filename="src/launcher/ui/MainWindow.ui" line="497"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1567"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Crează o Scurtătură</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="500"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Creează o Comandă Rapidă pe Desktop pentru a Lansa Instanța Selectată.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
@@ -5612,7 +5612,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sunteți pe cale să Ștergeți „%1”.
+Acest lucru poate fi Permanent și va Șterge Complet Instanța.
+
+Esti sigur?</translation>
     </message>
     <message>
         <source>Launch the selected instance in offline mode.</source>
@@ -5625,7 +5628,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="395"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbați setările instanței, modurile și versiunile.</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -5639,7 +5642,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.ui" line="422"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți Instanța Selectată.</translation>
     </message>
     <message>
         <source>Change Group</source>
@@ -5648,12 +5651,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="372"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbați Grupul Instanței Selectate.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți Folderul Rădăcină al Instanței Selectate într-un Browser de Fișiere.</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -5671,31 +5674,31 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="437"/>
         <source>Copy the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiați Instanța Selectată.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="421"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1696"/>
         <source>No instance selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicio Instanță Selectată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Timp Total de Redare: 0s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="520"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Creează o Instanță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ștergeți Grupul</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -5712,7 +5715,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
         <source>No accounts added!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu au fost adăugate Conturi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
@@ -5722,7 +5725,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="521"/>
         <source>No Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Niciun Cont Implicit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="524"/>
@@ -5732,17 +5735,17 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="765"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se încarcă știrile...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="775"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu Există Știri Disponibile.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="823"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="827"/>
@@ -5768,12 +5771,13 @@ Are you sure?</oldsource>
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Lansatorul nu poate descărca Minecraft sau actualiza instanțe decât dacă aveți cel puțin un cont adăugat.
+Vă rugăm să adăugați un cont Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachetul de moduri, modul sau resursa %1 este blocat pentru terți! Vă rugăm să îl descărcați manual.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
@@ -5783,7 +5787,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele grupului</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
@@ -5794,42 +5798,42 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți grupul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanța nu poate fi editată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această instanță nu este editabilă. Poate fi stricată, invalidă sau prea veche. Verificați jurnalele pentru detalii.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>S-a adăugat cu succes %1 la PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1294"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 a fost adăugat cu succes la PATH. Acum îl puteți porni rulând „%2”.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1297"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut adăuga %1 la PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o eroare la încercarea de a adăuga %1 la PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Există instanțe legate</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1356"/>
@@ -5840,10 +5844,28 @@ Please add your Microsoft or Mojang account.</oldsource>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Următoarea instanță poate face referire la fișiere în această instanță:
+
+%1
+
+Ștergerea acestuia ar putea distruge cealaltă instanță,
+
+Doresti sa continui?</numerusform>
+            <numerusform>Următoarele cazuri pot face referire la fișiere în această instanță:
+
+%1
+
+Ștergerea acestuia ar putea distruge celelalte instanțe,
+
+Doresti sa continui?</numerusform>
+            <numerusform>Următoarele cazuri pot face referire la fișiere în această instanță:
+
+%1
+
+Ștergerea acestuia ar putea distruge celelalte instanțe,
+
+Doresti sa continui?</numerusform>
         </translation>
     </message>
     <message>
@@ -5859,79 +5881,79 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1620"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Creați o comandă rapidă pentru instanță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu ați putut găsi desktop-ul?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lansatorul se află în folderul din care a fost extras, prin urmare nu poate crea comenzi rapide.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Creați aplicație de instanță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut crea o pictogramă pentru aplicație.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Am creat o comandă rapidă către această instanță pe desktop-ul dumneavoastră!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Am creat o comandă rapidă către această instanță!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1620"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut crea comanda rapidă pentru instanță!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lansatorul rulează ca AppImage greșit? (variabila de mediu $APPIMAGE lipsește)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Redenumiți grupul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să ștergeți grupul „%1”?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Redenumiți grupul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate redenumi grupul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate seta un nume gol.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupul există deja. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1550"/>
@@ -5939,12 +5961,12 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1601"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut crea o pictogramă pentru scurtătură.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1567"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrări desktop (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1606"/>
