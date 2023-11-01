@@ -9614,8 +9614,8 @@ This message will be displayed until you remove this from the JVM arguments.</tr
         <translation>Invalid path to JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>Path does not exist</translation>
     </message>
