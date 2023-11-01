@@ -3481,7 +3481,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="265"/>
         <source>Game Window</source>
-        <translation>Spelfönster</translation>
+        <translation>Spelfönstern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="277"/>
