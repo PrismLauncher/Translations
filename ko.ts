@@ -1692,7 +1692,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation>초기화 (&amp;C)</translation>
+        <translation>모두 지우기 (&amp;C)</translation>
     </message>
 </context>
 <context>
