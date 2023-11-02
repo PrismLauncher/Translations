@@ -1693,7 +1693,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
         <source>Value</source>
-        <translation>Значение правила</translation>
+        <translation>Значение</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
@@ -1703,7 +1703,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation>&amp;Убрать</translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
@@ -1873,7 +1873,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation>Экспорт Modrinth пак</translation>
+        <translation>Экспорт сборки Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
@@ -12567,7 +12567,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="79"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation>Не удалось разобрать ответ авторизации для доступа к службам %1.</translation>
+        <translation>Не удалось обработать ответ авторизации для доступа к службам %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="85"/>
@@ -12582,7 +12582,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="102"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation>Не удается разобрать ответ на ошибку %1 авторизации как JSON: %2</translation>
+        <translation>Не удалось обработать ответ на ошибку %1 авторизации как JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="110"/>
