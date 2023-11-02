@@ -347,11 +347,11 @@
             "untranslated" : 1776
         },
         "kk" : {
-            "file" : "5c950a75d09229e2561a5793b0de005e9130ef3d.class",
-            "sha1" : "5c950a75d09229e2561a5793b0de005e9130ef3d",
-            "size" : 5069,
-            "translated" : 22,
-            "fuzzy" : 9,
+            "file" : "828a00bf4c33fa6f40fb5d28d8fe0ec93008441d.class",
+            "sha1" : "828a00bf4c33fa6f40fb5d28d8fe0ec93008441d",
+            "size" : 5067,
+            "translated" : 26,
+            "fuzzy" : 5,
             "untranslated" : 1787
         },
         "ko" : {
