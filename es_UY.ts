@@ -4013,7 +4013,7 @@ Por favor, selecciona uno de los siguientes o busca un ejecutable java.</transla
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="181"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elige tu nombre de jugador en el modo de demostración.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -4023,7 +4023,7 @@ Por favor, selecciona uno de los siguientes o busca un ejecutable java.</transla
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Jugar demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
