@@ -649,12 +649,12 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítod a fiókot?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan szeretnéd törölni ezt a fiókot?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
@@ -6084,6 +6084,13 @@ Do you wish to proceed?</source>
 %1
 
 A törlés tönkre teheti a másik példányt,
+
+Szeretné folytatni?</numerusform>
+            <numerusform>A következő példányok hivatkozhatnak fájlokra a jelenlegi példányban:
+
+%1
+
+A törlés tönkre teheti a másik példányokat,
 
 Szeretné folytatni?</numerusform>
         </translation>
