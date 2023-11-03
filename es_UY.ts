@@ -232,7 +232,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los siguientes archivos no están disponibles para descargar en lanzadores de terceros.&lt;br/&gt;Necesitas descargarlos manualmente y añadirlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -425,7 +425,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de cuenta (MSA o Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -592,7 +592,8 @@ Si eres nuevo aquí, haz clic en el botón &quot;Agregar&quot; para agregar tu c
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="60"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Bienvenido!
+Si eres nuevo aquí, puedes seleccionar el botón &quot;Agregar Microsoft&quot; para vincular tu cuenta de Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
@@ -612,7 +613,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debes añadir una cuenta Microsoft propietaria de Minecraft antes de poder añadir una cuenta offline.&lt;br&gt;&lt;br&gt;Si has perdido tu cuenta puedes contactar con Microsoft para obtener soporte.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -644,12 +645,12 @@ Actualice su sistema operativo y %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Remover cuenta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Estás seguro de que deseas borrar esta cuenta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
@@ -736,7 +737,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="913"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización en proceso</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="938"/>
@@ -751,7 +752,7 @@ for details on the last update attempt.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="946"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización fallida</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="971"/>
@@ -766,7 +767,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="979"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización realizada</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1311"/>
@@ -1748,7 +1749,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Versión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
@@ -2008,7 +2009,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir a la página central de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="176"/>
@@ -3820,7 +3821,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Tu memoria maxima asignada es menor que el valor mínimo</translation>
+        <translation>Tu memoria máxima asignada es menor que el valor mínimo</translation>
     </message>
 </context>
 <context>
@@ -3898,7 +3899,7 @@ Puedes cambiar la versión de Java en los ajustes más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Tu memoria maxima asignada es menor que el valor mínimo</translation>
+        <translation>Tu memoria máxima asignada es menor que el valor mínimo</translation>
     </message>
 </context>
 <context>
@@ -3936,7 +3937,7 @@ Por favor, selecciona uno de los siguientes o busca un ejecutable java.</transla
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar localizaciones del sistema</translation>
     </message>
 </context>
 <context>
@@ -3992,7 +3993,7 @@ Por favor, selecciona uno de los siguientes o busca un ejecutable java.</transla
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="149"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Continuar el lanzamiento?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="150"/>
@@ -4309,13 +4310,13 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar el uso de metadatos entregados por proveedores de mods (como Modrinth o CurseForge) para mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar el uso de metadatos para mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -4353,7 +4354,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar la carpeta de descargas de forma recursiva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
@@ -4997,7 +4998,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir página y copiar código</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="109"/>
@@ -5194,7 +5195,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="236"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Más noticias...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="239"/>
@@ -5204,7 +5205,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="392"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Editar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
@@ -5280,12 +5281,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Limpiar caché de metadatos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="655"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar metadatos en caché</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="664"/>
@@ -5325,7 +5326,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="321"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Manejar cuentas...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="262"/>
@@ -5345,7 +5346,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Editar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
@@ -5481,7 +5482,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cambiar grupo...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="375"/>
@@ -5733,7 +5734,8 @@ Are you sure?</oldsource>
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>El launcher no puede descargar Minecraft o actualizar instancias a menos que tenga una cuenta añadida.
+Por favor, añada una cuenta Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
@@ -5764,12 +5766,12 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>La instancia no es editable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta instancia no es editable. Podría estar rota, ser inválida o muy vieja. Revise los registros para más información.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
@@ -5933,7 +5935,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto es un problema: &lt;br/&gt; - El launcher probablemente se borrará sin previo aviso por el sistema operativo &lt;br/&gt; - cierre el launcher ahora y extráigalo a una carpeta real, no una carpeta temporal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
@@ -7144,7 +7146,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">No pudimos encontrar un archivo index apto para esta version antigua. Esto podria duplicar algunos de sus archivos. Desea continuar?</translation>
+        <translation>No pudimos encontrar un archivo index apto para esta versión antigua. Esto podría duplicar algunos de sus archivos. ¿Desea continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="185"/>
@@ -8568,7 +8570,7 @@ Elige tu nombre cuidadosamente:</translation>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desarrolladores de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
@@ -9398,7 +9400,8 @@ Please update %1!</source>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="44"/>
         <source>Downloading resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando recurso:
+%1</translation>
     </message>
 </context>
 <context>
@@ -10474,7 +10477,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="147"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>El gato aparece en el fondo y no se muestra por defecto. Sólo es visible al presionar el botón de Gato en la barra de herramientas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="126"/>
@@ -10497,22 +10500,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona el tema que deseas usar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pista: El gato aparece en el fondo y no se muestra por defecto. Sólo es visible al presionar el botón de Gato en la barra de herramientas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> Previsualización:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>El gato aparece en el fondo y no tiene un propósito, es puramente visual.</translation>
     </message>
 </context>
 <context>
@@ -11131,7 +11134,8 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>No se puede descargar Minecraft o actualizar instancias a menos que tenga una cuenta añadida.
+Por favor, añada una cuenta Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
@@ -11711,7 +11715,7 @@ Por favor, configura tu cuenta como se indica en %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticación de usuario Xbox fallida: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
