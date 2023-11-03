@@ -1822,50 +1822,50 @@ for details.</source>
         <translation type="unfinished">Tersuai</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
         <translation>Templat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="96"/>
         <source>Optional Info</source>
         <translation>Maklumat Pilihan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <source>Version</source>
         <translation type="unfinished">Versi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="130"/>
         <source>Authors</source>
         <translation>Pengarang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="156"/>
         <source>Format</source>
         <translation>Format</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="166"/>
         <source>Result</source>
         <translation>Keputusan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="195"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
         <translation>Ini bergantung pada metadata mod. Untuk memastikan ia tersedia, jalankan kemas kini pada instance. Memasang kemas kini tidak diperlukan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
         <source>Copy</source>
         <translation type="unfinished">Salin</translation>
     </message>

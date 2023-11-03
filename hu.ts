@@ -1945,50 +1945,50 @@ további részletekért.</translation>
         <translation>Egyedi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
         <translation>Sablon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="96"/>
         <source>Optional Info</source>
         <translation>Választható információ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <source>Version</source>
         <translation>Verzió</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="130"/>
         <source>Authors</source>
         <translation>Szerzők</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="156"/>
         <source>Format</source>
         <translation>Formátum</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="166"/>
         <source>Result</source>
         <translation>Eredmény</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="195"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
         <translation>Ez a modok metaadataitól függ. Az elérhetőség biztosításához futtasson egy frissítést a példányon. A frissítések telepítése nem szükséges.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
         <source>Copy</source>
         <translation>Másolás</translation>
     </message>
