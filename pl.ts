@@ -605,29 +605,29 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 Jeśli jesteś tu nowy, możesz kliknąć przycisk &quot;Dodaj Microsoft&quot; lub &quot;Dodaj Mojang&quot;, aby dodać swoje konta Mojang i/lub Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="60"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Witaj!
 Jeżeli dopiero zaczynasz korzystać, użyj przycisku „Dodaj Microsoft”, aby powiązać launcher z kontem Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Nie ustawiono ID klienta uwierzytelnienia Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation>Menu kontekstowe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Proszę wprowadzić email i hasło swojego konta Mojang, aby dodać swoje konto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>Musisz dodać konto Microsoft które posiada Minecraft zanim dodasz konto offline.&lt;br&gt;&lt;br&gt;Skontaktuj się z supportem Microsoft jeżeli zgubiłeś swoje konto.</translation>
     </message>
@@ -653,7 +653,7 @@ Please update both your operating system and PolyMC.</source>
 Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
@@ -662,17 +662,27 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
         <translation type="vanished">Musisz dodać konto Microsoft lub Mojang, które jest w posiadaniu kopii Minecrafta, zanim będziesz mógł dodać konto offline.&lt;br&gt;&lt;br&gt;Jeśli straciłeś dostęp do swojego konta, możesz skontaktować się z Microsoft w celu uzyskania wsparcia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Proszę wprowadzić swoją pożądaną nazwę użytkownika, aby dodać konto offline.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Remove account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Do you really want to delete this account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Skin Delete</source>
         <translation>Usuń skórkę</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Failed to delete current skin!</source>
         <translation>Nie udało się usunąć bieżącej skórki!</translation>
     </message>

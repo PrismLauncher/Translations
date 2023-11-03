@@ -597,29 +597,29 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 如果您是第一次來這裡，您可以按一下「新增 Microsoft 帳號」或「新增 Mojang 帳號」按鈕來新增您的 Microsoft 和（或）Mojang 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="60"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>歡迎！
 如果你第一次來這裡，您可以按一下「新增 Microsoft 帳號」按鈕來連結你的 Microsoft 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>尚未設定 Microsoft 驗證用戶端 ID。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation>功能表</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>請輸入您 Mojang 帳號的電子郵件與密碼以新增您的帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>您需要先新增一個擁有 Minecraft 的 Microsoft 帳號，才能新增離線帳號。&lt;br&gt;&lt;br&gt;如果您已遺失帳號，您可以聯繫 Microsoft 取得支援。</translation>
     </message>
@@ -637,7 +637,7 @@ Please update both your operating system and %1.</source>
 請更新您的作業系統以及 %1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -646,17 +646,27 @@ Please update both your operating system and %1.</source>
         <translation type="vanished">在你新增離線帳號之前，您必須先新增一個擁有 Minecraft 的 Microsoft 或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果您遺失了您的帳號，您可以嘗試聯絡 Microsoft 尋求支援。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>請輸入您期望的使用者名稱以新增離線帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Remove account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Do you really want to delete this account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Skin Delete</source>
         <translation>刪除外觀</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Failed to delete current skin!</source>
         <translation>刪除目前的外觀失敗！</translation>
     </message>

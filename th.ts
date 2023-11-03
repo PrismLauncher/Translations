@@ -592,28 +592,28 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 ถ้าคุณเป็นผู้ใช้ใหม่กดปุ่ม &quot;เพิ่ม&quot; เพื่อเพิ่มบัญชี Mojang หรือบัญชี Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="60"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>ไม่มีไคลเอนต์ไอดีการรับรองของ Microsoft ที่ถูกจัดตั้ง</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation>เมนูเนื้อหา</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>กรุณาป้อนอีเมลและรหัสผ่าน Minecraft เพื่อเพิ่มบัญชี</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -631,7 +631,7 @@ Please update both your operating system and %1.</source>
 โปรดอัพเดตทั้งระบบปฏิบัติการและ %1 ของคุณ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
         <source>Error</source>
         <translation>เกิดข้อผิดพลาด</translation>
     </message>
@@ -640,17 +640,27 @@ Please update both your operating system and %1.</source>
         <translation type="vanished">คุณต้องเพิ่มบัญชีของ Microsoft หรือ Mojang ที่มีการซื้อ Minecraft ไว้แล้วก่อนที่จะเพิ่มบัญชีออฟไลน์&lt;br&gt;&lt;br&gt;ถ้าเกิดคุณได้ทำบัญชีของคุณหาย คุณสามารถติดต่อทาง Microsoft เพื่อขอความช่วยเหลือได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>โปรดกรอกชื่อผู้ใช้ที่คุณต้องการเพื่อเพิ่มบัญชีออฟไลน์ของคุณ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Remove account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Do you really want to delete this account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Skin Delete</source>
         <translation>ลบสกิน</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Failed to delete current skin!</source>
         <translation>เกิดข้อผิดพลาดในการลบสกินปัจจุบัน!</translation>
     </message>

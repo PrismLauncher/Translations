@@ -589,29 +589,29 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 إن كنت جديدًا هنا، فباستطاعتك الضغط على زر &quot;إضافة&quot; لإضافة حساب موجانغ أو ماينكرافت الخاص بك.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="60"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>أهلا!
 اذا كنت جديدا هنا، بامكانك ضغط زر &quot;إضافة Microsoft&quot; لربط حساب Microsoft الخاص بك.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>لم يتم تعيين معرف عميل مصادقة الخاص بمايكروسوفت .</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation>قائمة السياق</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>رجاءً قم بإدخال البريد الإلكتروني وكلمة المرور لحساب موجانغ الخاص بك ليتم إضافته.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -629,7 +629,7 @@ Please update both your operating system and %1.</source>
 فضلا حدث نظام تشغيلك و 1% كذالك</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
         <source>Error</source>
         <translation>خطأ</translation>
     </message>
@@ -638,17 +638,27 @@ Please update both your operating system and %1.</source>
         <translation type="vanished">يجب عليك إضافة حساب &quot;مايكروسوفت(Microsoft)&quot; او حساب &quot;موجانق(Mojang)&quot; يمتلك &quot;ماين كرافت(Minecraft)&quot; قبل ان تستطيع إضافة حساب اوف لاين.&lt;br&gt;&lt;br&gt;إذا خسر حسابك تستطيع التواصل مع &quot;مايكروسوفت(Microsoft)&quot; للدعم.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>يرجى إدخال اسم المستخدم الذي تريده لإضافة حسابك غير المتصل بالإنترنت.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Remove account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Do you really want to delete this account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Skin Delete</source>
         <translation>حذف المظهر</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Failed to delete current skin!</source>
         <translation>فشل في حذف المظهر الحالي!</translation>
     </message>

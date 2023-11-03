@@ -589,29 +589,29 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 Dacă sunteți nou aici, puteți apăsa butonul &quot;Adăugați Microsoft&quot; sau &quot;Adăugați Mojang&quot; pentru a adăuga contul dvs. Microsoft și/sau Mojang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="60"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Bun venit!
 Dacă ești nou aici, poți alege butonul &quot;Adaugă Microsoft&quot; pentru a-ți conecta contul de Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>ID-ul de client pentru autentificarea Microsoft nu a fost introdus.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation>Meniu contextual</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Te rugăm introdu email-ul și parola contului tău Mojang pentru a adăuga contul.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>Trebuie să adaugi un cont de Microsoft care deține Minecraft înainte să poți adăuga un cont offline.&lt;br&gt;&lt;br&gt;Dacă ți-ai pierdut contul poți contacta Microsoft for support.</translation>
     </message>
@@ -629,7 +629,7 @@ Please update both your operating system and %1.</source>
 Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
@@ -638,17 +638,27 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <translation type="vanished">Trebuie să adăugați un cont de Microsoft sau de Mojang care deține Minecraft înainte de a putea adăuga un cont offline.&lt;br&gt;&lt;br&gt;Dacă v-ați pierdut contul, puteți contacta echipa de suport Microsoft pentru asistență.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Vă rugăm să introduceți numele de utilizator dorit pentru a adăuga un cont offline.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Remove account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Do you really want to delete this account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Skin Delete</source>
         <translation>Ştergere Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Failed to delete current skin!</source>
         <translation>Ștergerea skinului curent a eșuat!</translation>
     </message>

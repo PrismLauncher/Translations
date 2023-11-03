@@ -552,26 +552,36 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 Kung bago ka pa lang dito, pwede mong pindutin ang &quot;Magdagdag&quot; na button upang idagdag ang iyong Mojang o Minecraft account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="60"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Maligayang Pagdating!
 Kung bago ka dito, pwede mo pindutin ang &quot;Add Microsoft&quot; para i-link ang iyong Microsoft account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation>Menu ng konteksto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Maaring ilagay ang iyong Mojang account email at password upang maidagdag ang iyong account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>Kailangan mo mag-lagay ng isang Microsoft Account na may-ari ng kopya ng Minecraft bago ka magdagdag ng isang offline account.&lt;br&gt;&lt;br&gt;Kung nawala ang iyong account, pwede mo i-contact si Microsoft para tulungin ka.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Remove account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Do you really want to delete this account?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -587,12 +597,12 @@ Please update both your operating system and %1.</source>
 Mangyaring i-update ang iyong operating system at %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Skin Delete</source>
         <translation>Tanggalin ang Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Failed to delete current skin!</source>
         <translation>Nabigo sa pagtanggal ng kasalukuyang Skin!</translation>
     </message>
@@ -608,7 +618,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
         <translation>Magdagdag ng &amp;Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
         <source>Error</source>
         <translation>Mali</translation>
     </message>
@@ -617,12 +627,12 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
         <translation type="vanished">Kailangan mong magdagdag ng Microsoft o Mojang account na nagmamay ari ng Minecraft bago ka makapagdagdag ng Offline account.&lt;br&gt;&lt;br&gt;Kung nakalimutan mo ang iyong account maaari kang makipag-ugnay sa Microsoft support.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Maaring ilagay ang ninanais mong usename upang maidagdag ang iyong offline account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Walang nakatakdang Microsoft Authentication client ID.</translation>
     </message>

@@ -589,28 +589,28 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 Αν είστε νέοι εδώ, μπορείτε να επιλέξετε τα κουμπιά &quot;Προσθήκη Microsoft&quot; ή &quot;Προσθήκη Mojang&quot; για να συνδέσετε τους λογαριασμούς σας στη Microsoft και/ή τη Mojang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="60"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Δεν ορίστηκε αναγνωριστικό πελάτη για την Πιστοποίηση της Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation>Μενού περιβάλλοντος</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Παρακαλώ εισάγετε το email και τον κωδικό πρόσβασης του λογαριασμού Mojang για να προσθέσετε το λογαριασμό σας.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -629,7 +629,7 @@ Please update both your operating system and %1.</source>
 Παρακαλώ ενημερώστε και το λειτουργικό σύστημα σας και το 1%</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
         <source>Error</source>
         <translation>Σφάλμα</translation>
     </message>
@@ -638,17 +638,27 @@ Please update both your operating system and %1.</source>
         <translation type="vanished">Πρέπει να προσθέσετε έναν λογαριασμό Microsoft ή Mojang στον οποίο ανήκει το Minecraft για να μπορέσετε να προσθέσετε έναν λογαριασμό εκτός σύνδεσης. Εάν έχετε χάσει τον λογαριασμό σας, μπορείτε να επικοινωνήσετε με τη Microsoft για υποστήριξη.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Εισαγάγετε το όνομα χρήστη που θέλετε για να προσθέσετε τον λογαριασμό σας εκτός σύνδεσης.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Remove account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Do you really want to delete this account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Skin Delete</source>
         <translation>Διαγραφή Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Failed to delete current skin!</source>
         <translation>Αποτυχία διαγραφής του τρέχοντος Skin!</translation>
     </message>

@@ -542,24 +542,34 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 Jika anda baru di sini, anda boleh mengklik butang &quot;Tambah&quot; untuk menambah akaun Mojang atau Minecraft anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="60"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation type="unfinished">Menu konteks</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Sila masukkan e-mel dan kata laluan akaun Mojang anda untuk menambah akaun anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Remove account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
+        <source>Do you really want to delete this account?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -576,12 +586,12 @@ Please update both your operating system and %1.</source>
 Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Skin Delete</source>
         <translation>Padam Kekulit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
         <source>Failed to delete current skin!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -597,7 +607,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
         <translation>Tambah &amp;Luar Talian</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
         <source>Error</source>
         <translation>Ralat</translation>
     </message>
@@ -606,12 +616,12 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
         <translation type="vanished">Anda mesti menambah akaun Microsoft atau Mojang yang memiliki Minecraft sebelum anda boleh menambah akaun luar talian.&lt;br&gt;&lt;br&gt;Jika anda kehilangan akaun anda, anda boleh menghubungi Microsoft untuk mendapatkan sokongan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Sila masukkan nama pengguna yang anda inginkan untuk menambah akaun luar talian anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation>Tiada ID pelanggan Pengesahan Microsoft ditetapkan.</translation>
     </message>
