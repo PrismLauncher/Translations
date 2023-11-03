@@ -1476,12 +1476,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
@@ -1754,17 +1754,17 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opciones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Archivos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>%Marcar archivos desactivados como opcionales</translation>
     </message>
     <message>
         <source>Version</source>
@@ -1773,7 +1773,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="62"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
@@ -1832,7 +1832,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
@@ -1885,7 +1885,7 @@ for details.</source>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="156"/>
