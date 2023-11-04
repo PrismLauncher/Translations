@@ -6144,10 +6144,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Estas a punto de eliminar &quot;%1&quot;.
+        <translation>Estás a punto de eliminar &quot;%1&quot;.
 Esta acción es permanente y eliminará completamente la instancia.
 
-¿Estas seguro?</translation>
+¿Estás seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
