@@ -1722,7 +1722,7 @@ für Details.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished">&amp;Leeren</translation>
+        <translation>&amp;Leeren</translation>
     </message>
 </context>
 <context>
@@ -1951,7 +1951,7 @@ für Details.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation>Plaintext</translation>
+        <translation>Klartext</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
@@ -3628,7 +3628,7 @@ Achtung beim Fortfahren!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="426"/>
         <source>Environment variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Umgebungsvariablen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="436"/>
@@ -3816,12 +3816,12 @@ Achtung beim Fortfahren!</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Willkommen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicke &quot;Instanz hinzufügen&quot; um anzufangen.</translation>
     </message>
 </context>
 <context>
@@ -4622,12 +4622,12 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="201"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished">Anzahl konkurrierender Aufgaben</translation>
+        <translation>Anzahl konkurrierender Aufgaben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished">Anzahl konkurrierender Downloads</translation>
+        <translation>Anzahl konkurrierender Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="302"/>
@@ -6272,7 +6272,7 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>&amp;Rename group</source>
-        <translation>Gruppe umbenennen</translation>
+        <translation>&amp;Gruppe umbenennen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
@@ -8689,7 +8689,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished">Nutze diese Version als die installierte Launcher-Version. (wird zur Verfügung gestellt, da man stdout unter Windows nicht verlässlich abfangen kann)</translation>
+        <translation>Nutze diese Version als die installierte Launcher-Version. (wird zur Verfügung gestellt, da man stdout unter Windows nicht verlässlich abfangen kann)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
@@ -8971,7 +8971,7 @@ Um diesen lock zu überschreiben und trotzdem mit diesem Update fortzufahren, dr
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished">Prozessstartergebnis: %1</translation>
+        <translation>Prozessstartergebnis: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
@@ -10574,19 +10574,19 @@ Möchtest du jetzt mit dem Hochladen fortfahren?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="388"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Abbruch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Screenshot hochladen abgebrochen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Die Aufgabe wurde vom Benutzer abgebrochen.</translation>
+        <translation>Die Aufgabe wurde vom Benutzer abgebrochen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="414"/>
