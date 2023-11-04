@@ -732,7 +732,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta instalación tiene un archivo de bloqueo de actualización presente en: %1
+
+Marca de tiempo: %2
+Actualización de la versión %3 a %4
+Ruta de instalación de destino: %5
+Ruta de datos: %6
+Esto probablemente significa que un intento de actualización ha fallado. Asegúrese de que su instalación funciona correctamente antes de continuar.
+Compruebe el registro de actualización de Prism Launcher en: 
+%7
+para más detalles sobre el último intento de actualización.
+
+Para eliminar este bloqueo y continuar, seleccione &quot;Ignorar&quot; a continuación.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="913"/>
@@ -2259,7 +2270,7 @@ Por favor inténtalo nuevamente.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation>Ordenar por Version de Juego</translation>
+        <translation>Ordenar por Versión de Juego</translation>
     </message>
 </context>
 <context>
@@ -3603,7 +3614,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clickee &quot;Añadir instancia&quot; para empezar.</translation>
     </message>
 </context>
 <context>
@@ -4349,7 +4360,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando esté activado, además de en la carpeta de descargas, se buscarán los recursos en sus sub-carpetas (por ejemplo, cuando se estén buscando mods bloqueados en CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -4639,7 +4650,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar y filtrar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="29"/>
@@ -5296,12 +5307,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Espacio de Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="601"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Servidor de Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="625"/>
@@ -5356,7 +5367,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="205"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ayuda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="345"/>
@@ -5436,7 +5447,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir %1 Espacio de Matrix.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="667"/>
@@ -5447,7 +5458,7 @@ Motivo:
         <location filename="src/launcher/ui/MainWindow.ui" line="709"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Ayuda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="712"/>
@@ -5508,7 +5519,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="500"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea un atajo en tu escritorio para lanzar la instancia seleccionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
@@ -5535,7 +5546,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Estás a punto de borrar &quot;%1&quot;.
+Esto será permanente y borrará la instancia por completo.
+
+¿Estás seguro?</translation>
     </message>
     <message>
         <source>Launch the selected instance in offline mode.</source>
@@ -5825,7 +5839,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1620"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear atajo de instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
@@ -5841,7 +5855,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear instancia Aplicación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
@@ -5852,12 +5866,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Se ha creado un atajo a esta instancia en tu escritorio!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Se ha creado un acceso directo a esta instancia!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1620"/>
@@ -5965,7 +5979,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir %1 Servidor de Discord.</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -7264,7 +7278,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Los packs de Modrinth aún están en fase alfa. Algunas cosas pueden ser toscas o no funcionar en absoluto. Utilízalo con precaución.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -7290,12 +7304,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="79"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por relevancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por seguidores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
@@ -7337,7 +7351,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por lo más nuevo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="80"/>
@@ -9093,17 +9107,17 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por relevancia</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por seguidores</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por lo más nuevo</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
