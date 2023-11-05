@@ -669,12 +669,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Remove account?</source>
-        <translation>Удалить аккаунт?</translation>
+        <translation>Удалить учётную запись?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Do you really want to delete this account?</source>
-        <translation>Вы действительно хотите удалить этот аккаунт?</translation>
+        <translation>Вы точно хотите удалить эту учётную запись?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
@@ -4721,7 +4721,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Вы действительно хотите использовать этот путь? Выбрав «Нет», окно закроется и путь к сборке не будет изменён.</translation>
+        <translation>Вы точно хотите использовать этот путь? Выберите «Нет», чтобы закрыть окно без применения изменений.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
