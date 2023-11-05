@@ -4081,8 +4081,8 @@ Please select one of the following or browse for a java executable.</oldsource>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">Для того, щоб грати в Minecraft, ви повинні увійти, як мінімум, в один обліковий запис Mojang, або Minecraft. Відкрити керування обліковими записами для додавання облікового запису?</translation>
     </message>
     <message>

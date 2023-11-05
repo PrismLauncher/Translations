@@ -3981,8 +3981,8 @@ Vælg venligst én af følgende eller gennemse filer for en eksekverbar Java-fil
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">For at kunne spille Minecraft skal du have mindst én Microsoft- eller Mojang-konto logget ind. Mojang-konti kan kun bruges offline. Vil du gerne åbne kontoadministratoren for at tilføje en konto nu?</translation>
     </message>
     <message>

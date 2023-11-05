@@ -3928,8 +3928,8 @@ Prosim zvoľte si jedno z nasledujúcich alebo vyhľadajte spustiteľnú Javu.</
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">Ak chcete hrať Minecraft, musíte byť prihlásený v PolyMC aspoň pod jedným účtom Mojang alebo Minecraft. Želáte si otvoriť správcu účtov a pridať svoj účet?</translation>
     </message>
     <message>

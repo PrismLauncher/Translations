@@ -3996,8 +3996,8 @@ Mohon pilih salah satu di bawah atau telusuri eksekutabel Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">Untuk bermain Minecraft, Anda harus memiliki setidaknya satu akun Mojang atau Minecraft. Apakah Anda ingin membuka pengelola akun untuk menambahkan akun sekarang?</translation>
     </message>
     <message>

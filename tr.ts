@@ -4121,8 +4121,8 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">Minecraft oynayabilmek için en az 1 Microsoft veya Mojang hesabıyla oturum açman gerekiyor. Mojang hesapları sadece çevrimdışı olarak kullanılabilir. Hesap eklemek için hesap yöneticisini açmak ister misin?</translation>
     </message>
     <message>

@@ -3935,8 +3935,8 @@ Lūdzu izvēlieties vienu no sekošajiem vai meklējat Java izpildāmo.</transla
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">Lai spēlētu Minecraft, jums ir jābūt pieslēgtam vismaz vienam Mojang vai Minecraft kontam. Vai vēlaties atvērt kontu pārvaldnieku, lai pievienotu kontu?</translation>
     </message>
     <message>

@@ -3945,8 +3945,8 @@ Please select one of the following or browse for a java executable.</oldsource>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">برای اینکه بتوانید ماینکرافت بازی کنید، باید حداقل یک حساب موجانگ یا ماینکرافت وارد شده داشته باشید. آیا تمایل دارید که مدیریت حساب ها را باز کنید و یک حساب را اضافه کنید?</translation>
     </message>
     <message>

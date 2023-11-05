@@ -4034,8 +4034,8 @@ Palun vali üks järgnevatest või sirvi Java käivitatavat faili.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">Minecrafti mängimiseks pead olema sisse logitud vähemalt ühte Microsofti või Mojangi kontosse. Mojangi kontosid saab kasutada vaid võrguta. Kas soovid avada kontohalduri, et lisada konto nüüd?</translation>
     </message>
     <message>

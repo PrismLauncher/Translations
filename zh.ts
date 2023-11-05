@@ -4170,9 +4170,9 @@ Please select one of the following or browse for a java executable.</oldsource>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
-        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>在游玩 Minecraft 之前，您至少需要链接一个拥有 Minecraft 的微软账号。需要现在打开账号管理添加一个账号吗？</translation>
+        <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
+        <translation type="unfinished">在游玩 Minecraft 之前，您至少需要链接一个拥有 Minecraft 的微软账号。需要现在打开账号管理添加一个账号吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
