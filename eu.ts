@@ -10467,18 +10467,18 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="17"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-eko profila lortzen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="60"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezin izan da Xbox-eko erabiltzailea lortu:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="67"/>
         <source>Got Xbox profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-eko erabiltzailea lortuta</translation>
     </message>
 </context>
 <context>
@@ -10486,23 +10486,23 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="15"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-eko erabiltzaileaz hasten saioa.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-eko erabiltzailearen autentifikazioa huts egin du</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezin izan da ulertu Xbox-en erabiltzailearen autentifikazio-erantzuna.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-eko erabiltzailearen tokena lortuta</translation>
     </message>
 </context>
 </TS>
