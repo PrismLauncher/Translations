@@ -6580,7 +6580,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="990"/>
         <source>, last played on %1 for %2</source>
-        <translation>, jugado por última vez el %1 para %2</translation>
+        <translation>, jugado por última vez el %1 por %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
