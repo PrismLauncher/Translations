@@ -4135,7 +4135,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">마인크래프트를 이용하려면 마인크래프트를 소유하고 있는 하나 이상의 Microsoft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
+        <translation>마인크래프트를 이용하려면 마인크래프트를 소유하고 있는 하나 이상의 Microsoft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
