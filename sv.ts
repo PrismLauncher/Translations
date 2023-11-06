@@ -4122,7 +4122,7 @@ Vänligen välj en av följande eller sök efter en körbar Java-fil.</translati
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">För att kunna spela Minecraft så måste du vara inloggad på minst ett Microsoft-konto som äger Minecraft. Vill du öppna kontohanteraren och lägga till ett konto nu?</translation>
+        <translation>För att spela Minecraft måste du ha minst ett Microsoft-konto som äger Minecraft inloggat. Vill du öppna kontohanteraren för att lägga till ett konto nu?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
