@@ -4164,7 +4164,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">要遊玩 Minecraft，您需要有一個擁有 Minecraft 的 Microsoft 帳號。現在要開啟帳號管理員新增帳號嗎？</translation>
+        <translation>要遊玩 Minecraft，您需要有一個擁有 Minecraft 的 Microsoft 帳號。現在要開啟帳號管理員新增帳號嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
