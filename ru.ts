@@ -4204,7 +4204,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Чтобы играть в Minecraft, вам нужно войти как минимум в одну учётную запись Microsoft, владеющую игрой. Открыть менеджер учётных записей, чтобы добавить новую?</translation>
+        <translation>Чтобы играть в Minecraft, вам нужно войти хотя бы в одну учётную запись Microsoft, владеющую игрой. Открыть менеджер учётных записей, чтобы добавить новую?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
