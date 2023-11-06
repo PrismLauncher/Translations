@@ -4186,7 +4186,7 @@ Please select one of the following or browse for a Java executable.</translation
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">In order to play Minecraft, you must have at least one Microsoft account that owns Minecraft logged in. Would you like to open the account manager to add an account now?</translation>
+        <translation>In order to play Minecraft, you must have at least one Microsoft account that owns Minecraft logged in. Would you like to open the account manager to add an account now?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
