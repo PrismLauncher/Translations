@@ -5707,7 +5707,7 @@ Důvod:
         <location filename="src/launcher/ui/MainWindow.ui" line="709"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 Nápověda</translation>
+        <translation>Nápověda programu %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="712"/>
@@ -11299,7 +11299,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Nápověda: Kočka se zobrazuje na pozadí a není zobrazena ve výchozím nastavení. Zviditelní se pouze po stisknutí tlačítka Kočka v panelu nástrojů.</translation>
+        <translation>Nápověda: kočka se zobrazuje na pozadí a není zobrazena ve výchozím nastavení. Zviditelní se pouze po stisknutí tlačítka Kočka v panelu nástrojů.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
