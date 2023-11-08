@@ -5233,7 +5233,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Přihlaste se prosím v otevřeném prohlížeči. Pokud nebyl prohlížeč otevřen, otevřete jej prosím a přejděte v něm na adresu %1 a zadejte kód &lt;b&gt;%2&lt;/b&gt; pro přihlášení se.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
