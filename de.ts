@@ -4196,7 +4196,7 @@ Wähle bitte eine der folgenden aus oder wähle eine ausführbare Java-Datei.</t
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Um Minecraft spielen zu können, musst du mindestens ein Microsoft-Konto, das Minecraft besitzt, hinzufügen. Möchtest du nun die Kontoverwaltung öffnen, um ein Konto hinzuzufügen?</translation>
+        <translation>Um Minecraft spielen zu können, musst du mindestens ein Microsoft-Konto, das Minecraft besitzt, hinzufügen. Möchtest du nun die Kontoverwaltung öffnen, um ein Konto hinzuzufügen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4617,12 +4617,12 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable automatically checking and installation of mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisches Überprüfen und Herunterladen von Mod-Abhängigkeiten deaktivieren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Do not install mod dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Abhängigkeiten von Mods nicht installieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -5279,7 +5279,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Bitte melde dich im geöffneten Browser-Fenster an. Falls kein Browser geöffnet wurde, öffne bitte %1 in einem und gebe den Code &lt;b&gt;%2&lt;/b&gt; ein, um mit der Anmeldung fortzufahren.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -7255,7 +7255,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisierungen von Mods sind nicht verfügbar, wenn Metadaten deaktiviert sind!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
@@ -8573,12 +8573,12 @@ Fehlermeldung: %3</translation>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixmap Cache-Fehler durch Verdrängung passierten zu schnell, da Cache Limit erreicht hat wird nichts unternommen</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixmap Cache-Fehler durch Verdrängung passierten zu schnell, Cache-Größe wird erhöht auf</translation>
     </message>
 </context>
 <context>
