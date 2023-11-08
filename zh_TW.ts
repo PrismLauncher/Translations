@@ -1173,12 +1173,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>實例有衝突的依賴項。</translation>
+        <translation>實例有衝突的前置。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="455"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>在啟動載入或檢查時，發現實例有未解決的依賴項。</translation>
+        <translation>在啟動載入或檢查時，發現實例有未解決的前置。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
@@ -2916,7 +2916,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation>取得依賴項</translation>
+        <translation>取得前置</translation>
     </message>
 </context>
 <context>
@@ -7456,7 +7456,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation>正在檢查依賴項…</translation>
+        <translation>正在檢查前置…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
@@ -9943,7 +9943,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
         <source>Checking for dependencies...</source>
-        <translation>正在檢查依賴項…</translation>
+        <translation>正在檢查前置…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
