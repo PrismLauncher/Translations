@@ -645,12 +645,12 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergi contul?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiar dorești să ștergi contul?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
@@ -4087,7 +4087,7 @@ Vă rugăm să selectați una dintre următoarele instalări sau căutați un ex
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Pentru a juca Minecraft, trebuie să aveți cel puțin un cont Microsoft conectat care deține Minecraft. Doriți să deschideți managerul de conturi pentru a adăuga un cont?</translation>
+        <translation>Pentru a juca Minecraft, trebuie să aveți cel puțin un cont Microsoft conectat care deține Minecraft. Doriți să deschideți managerul de conturi pentru a adăuga un cont?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4457,12 +4457,12 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable automatically checking and installation of mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezactivați verificarea și instalarea automată a dependențelor de mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Do not install mod dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu instala dependențe de moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -5086,7 +5086,7 @@ Motiv:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="482"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o eroare zip</translation>
     </message>
 </context>
 <context>
@@ -5104,7 +5104,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Vă rugăm să vă conectați în browserul deschis. Dacă nu a fost deschis niciun browser, deschideți %1 într-un browser si introduceți codul &lt;b&gt;%2&lt;/b&gt; pentru a continua cu autentificarea.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -5202,12 +5202,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="479"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="488"/>
         <source>Mod List</source>
-        <translation type="unfinished"></translation>
+        <translation>Listă de moduri</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -5242,7 +5242,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Raportează un Bug sau Sugerează o Caracteristică</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
@@ -5996,42 +5996,42 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1606"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu este suportat de platforma ta!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Renumește Instanța</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dosarul instanțelor tale conține un &quot;!&quot; care este cunoscut pentru cauzarea unor probleme cu Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ai două opțiuni acum: &lt;br/&gt; - schimbă dosarul de instanțe în setări &lt;br/&gt; - mută această instalare a %1 într-un dosar diferit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1723"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Asta este o problemă: &lt;br/&gt; - Launcher-ul va fi cel mai probabil șters de sistemul de operare fără avertisment &lt;br/&gt; - închide launcher-ul acum și extrage-l într-o locație reală, nu un dosar temporar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosarul instanțelor tale conține &apos;Rar$&apos; - asta înseamnă că nu ai extras launcher-ul din arhivă!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosarul instanțelor tale este intr-un dosar temporar: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Timp jucat total: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="819"/>
@@ -6046,7 +6046,7 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide server-ul de Discord %1.</translation>
     </message>
 </context>
 <context>
@@ -6054,57 +6054,57 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informații despre pachet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele pachetului:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiune curentă:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informații furnizor:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează la versiunea:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preluare versiuni...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează de la fișier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnal de modificări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Niciun jurnal de modificări disponibil pentru versiunea aceasta!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"/>
         <source>Reload page</source>
-        <translation type="unfinished"></translation>
+        <translation>Reîncarcă pagina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="136"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Site-ul web: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID Pachet: %3 | ID Versiune: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="179"/>
@@ -6114,7 +6114,7 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="183"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avertizări</translation>
+        <translation>Avertizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="186"/>
@@ -6134,22 +6134,22 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="199"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează pachet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="210"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Căutarea de versiuni disponibile a eșuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="213"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cererea jurnalului de modificări pentru acest pachet de moduri a eșuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="215"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate actualiza!</translation>
     </message>
 </context>
 <context>
@@ -6180,7 +6180,7 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lansează &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
@@ -6190,7 +6190,7 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Lansează &amp;Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
@@ -6225,7 +6225,7 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="979"/>
         <source>broken</source>
-        <translation type="unfinished"></translation>
+        <translation>stricat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="990"/>
@@ -6235,7 +6235,7 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="995"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, ultima dată jucat pe %1 pentru %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
@@ -6245,7 +6245,7 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1007"/>
         <source>, has crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">, a căzut.</translation>
     </message>
 </context>
 <context>
@@ -6261,7 +6261,7 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="48"/>
         <source>Window Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Mărime Fereastră</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
@@ -6273,23 +6273,23 @@ Doresti sa continui?</numerusform>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Înălțime Fereastră:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lățime Fereastră:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată timpul jucat în ore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="197"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="203"/>
@@ -6299,19 +6299,17 @@ Doresti sa continui?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;
-Emulează utilizările vechilor servicii online care nu mai funcționează.&lt;/p&gt;&lt;p&gt;
-Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulează utilizările vechilor servicii online care nu mai funcționează.&lt;/p&gt;&lt;p&gt;Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Activează remedieri online (experimental)</translation>
+        <translation>Activează remedieri online (experimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
         <source>Native library workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soluții de rezolvare ale bibliotecii native</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
@@ -6373,24 +6371,24 @@ Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
-        <translation type="unfinished"></translation>
+        <translation>Timp de joc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arată timpul petrecut &amp;jucând instanțele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Arată timpul petrecut jucând &amp;toate instanțele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="137"/>
@@ -6407,25 +6405,25 @@ Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher-ul se va redeschide automat când jocul se blochează sau iese.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="163"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Închide launcher-ul după ce fereastra jocului se deschide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher-ul va închide automat după ce jocul iese sau se blochează. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="173"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ieși din launcher după ce fereastra jocului se închide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="58"/>
@@ -6436,13 +6434,13 @@ Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Calea către fișierul bibliotecă %1</translation>
+        <translation>Calea către fișierul bibliotecă %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="148"/>
         <source>Auto detected path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cale auto-detectată: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
@@ -6452,7 +6450,7 @@ Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="166"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud nu a putut fi găsit în sistemul dumneavoastră.</translation>
+        <translation>MangoHud nu a putut fi găsit în sistemul dumneavoastră.</translation>
     </message>
 </context>
 <context>
@@ -6460,28 +6458,28 @@ Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="16"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preluarea profilului de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="45"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contul nu are niciun profil de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="62"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dobândirea proflului de Minecraft Java a eșuat: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="68"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Răspunsul profilului de Minecraft Java nu a putut fi analizat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="72"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dobândirea profilului de Minecraft Java a reușit.</translation>
     </message>
 </context>
 <context>
@@ -6489,7 +6487,7 @@ Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;
     <message>
         <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abandonat de utilizator.</translation>
     </message>
 </context>
 <context>
@@ -6504,32 +6502,32 @@ Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiuni de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation type="unfinished"></translation>
+        <translation>obținerea index-ului versiunii a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="58"/>
         <source>Strict match (= %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivire strictă (= %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="63"/>
         <source>Major version match (= %1.%2.x)</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivire versiune majoră (=%1.%2.x)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="65"/>
         <source>Major version match (unsupported)</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivire versiune majoră (nesuportat)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Any version</source>
-        <translation type="unfinished"></translation>
+        <translation>Orice versiune</translation>
     </message>
 </context>
 <context>
@@ -6555,13 +6553,16 @@ Acest lucru permite în prezent să fie folosite skin-uri moderne.&lt;/p&gt;&lt;
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Avertizare: Această resursă este legată simbolic din altă parte. Editarea ei va schimba și originalul.
+Cale Canonică: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="122"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Avertizare: Această resursă este legată strâns în altă parte. Editarea ei va schimba și originalul.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -6576,47 +6577,47 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Furnizor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagine</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima Modificare</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
         <source>Is the mod enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>Este activat modul?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="172"/>
         <source>The name of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele modului.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="174"/>
         <source>The version of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiunea modului.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="176"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Data și timpul la care acest mod a fost schimbat ultima dată (sau adăugat).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="178"/>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>De unde a fost descărcat modul.</translation>
     </message>
 </context>
 <context>
@@ -6637,12 +6638,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarcă moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarcă moduri de pe platforme online de moduri</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -6651,24 +6652,24 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="80"/>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă fișier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="81"/>
         <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă un fișier descărcat local</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="87"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Încearcă verificarea sau actualizarea tuturor modurilor selectate (toate modurile dacă nu e selectate niciunul)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Mergi la pagina principală a modului</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
@@ -6679,22 +6680,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Vizitați pagina modului</translation>
+        <translation>Vizitați pagina modului</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="114"/>
         <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizitează paginile modului</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="115"/>
         <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mergi la paginile modurilor selectate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="117"/>
         <source>Remove mods&apos; metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină metadata modurilor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
@@ -6703,58 +6704,58 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="251"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>Te rog instalează un încărcător de moduri mai întâi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"/>
         <source>Aborted</source>
-        <translation type="unfinished">Anulat</translation>
+        <translation>Anulat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="255"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descărcare oprită de utilizator.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="190"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="261"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avertizări</translation>
+        <translation>Avertizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="200"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <source>Abort</source>
-        <translation type="unfinished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizările de moduri nu sunt disponibile când metadata e dezactivată!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizatorul de moduri a fost anulat!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="241"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate modurile selectate sunt la zi! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificator de actualizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="329"/>
@@ -6765,23 +6766,24 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="330"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești pe cale de a elimina metadata pentru %1 moduri.
+Ești sigur(ă)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&quot; este la zi! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Toate modurile sunt la zi! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="52"/>
         <source>Mods</source>
-        <translation type="unfinished">Mod-uri</translation>
+        <translation>Mod-uri</translation>
     </message>
 </context>
 <context>
@@ -6789,17 +6791,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut crea dosarul bin pentru Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut înlătura fișierul jar învechit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crearea unui fișier Minecraft jar personalizat a eșuat.</translation>
     </message>
 </context>
 <context>
@@ -6845,152 +6847,152 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="43"/>
         <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmeaza modurile pentru actualizare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="53"/>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești pe cale să actualizezi următoarele moduri:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="54"/>
         <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Doar modurile cu o bifă vor fi actualizate!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele modului: %1&lt;br&gt;Numele fișierului: %2&lt;br&gt;Motiv: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="75"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Generarea de metadata a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="76"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut genera metadata pentru următoarele moduri:&lt;br&gt;Dorești să continui fără acele moduri?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="90"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificare pentru actualizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="109"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="193"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="198"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avertizări</translation>
+        <translation>Avertizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="352"/>
         <source>Abort</source>
-        <translation type="unfinished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificare pentru actualizări...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele modului: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="169"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Motiv: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="172"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Soluție posibilă: Obținerea celei mai noi versiuni manual:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificare pentru dependențe...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="301"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul &apos;%1&apos; nu are încă metadata. Trebuie sa o generăm pentru a urmări informații relevante despre cum să actualizăm modul. Pentru a face asta, te rugăm selectează un furnizor de moduri pe care îl putem folosi pentru a verifica actualizări pentru acest mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="398"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut găsi o versiune validă în furnizorul(ii) de moduri selectat(ți)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="177"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificarea pentru actualizări a eșuat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut verifica actualizări pentru următoarele moduri:&lt;br&gt;Dorești să continui fără aceste moduri?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="258"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Se caută metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Generare metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="412"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Furnizor: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="415"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiune veche: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="415"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu este instalat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="418"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiune nouă: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip Versiune Nouă: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerut de: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerut de:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="441"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnalul de modificări al celei mai noi versiuni</translation>
     </message>
 </context>
 <context>
@@ -7035,19 +7037,20 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="356"/>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="353"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>A avut loc o eroare de rețea. Nu s-au putut încărca pachetele de moduri.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="360"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Versiunea API este prea veche!
+Te rugăm actualizează %1!</translation>
     </message>
 </context>
 <context>
@@ -7055,32 +7058,32 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregătire moduri pentru Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished">Modurile dezactivate nu for fii actualizate, pentru a prevenii problemele cu duplicarea modurilor!</translation>
+        <translation>Modurile dezactivate nu for fii actualizate, pentru a prevenii problemele cu duplicarea modurilor!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="89"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se analizează răspunsul API de la Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="104"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de mod.</translation>
+        <translation>Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de moduri.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
         <source>Mod has an empty download URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul are un URL de descărcare gol</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="176"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se așteaptă pentru răspunsul API de la Modrinth...</translation>
     </message>
 </context>
 <context>
@@ -7088,7 +7091,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (version %1)</translation>
+        <translation> (versiune %1)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7097,25 +7100,26 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="140"/>
         <source>No index file.</source>
-        <translation type="unfinished">Nu există fișier index.</translation>
+        <translation>Nu există fișier index.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Nu s-a putut găsi un fișier index pentru vechea versiunea veche. Asta ar putea face ca unele fișiere să fie duplicate. Dorești să continui?</translation>
+        <translation>Nu s-a putut găsi un fișier index pentru versiunea veche. Asta ar putea face ca unele fișiere să fie duplicate. Dorești să continui?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="185"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Nu s-a putut redenumi folderul pentru overrides:
+        <translation>Nu s-a putut redenumi dosarul pentru overrides:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="198"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut redenumi dosarul pentru client overrides:
+</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -7124,22 +7128,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="232"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descărcare Mod Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="241"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unul din fișiere are o cale care duce la o locație arbitrară (%1). Asta este un risc de securitate și nu este permis.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="274"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 din %2 complet</translation>
+        <translation>%1 din %2 complet</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="279"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Se descarcă modurile...</translation>
+        <translation>Se descarcă modurile...</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -7152,13 +7156,13 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="374"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished">URL-ul de descărcare pentru %1 nu este un URL formatat corect</translation>
+        <translation>URL-ul de descărcare pentru %1 nu este un URL formatat corect</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="427"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished">Nu am putut înțelege indexul pachetului:
+        <translation>Nu s-a putut înțelege indexul pachetului:
 </translation>
     </message>
 </context>
@@ -7167,17 +7171,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="288"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Curent)</translation>
+        <translation>%1 (Curent)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="300"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preluare jurnal de modificări...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>Choose update file</source>
-        <translation type="unfinished">Alege fișierul de actualizare</translation>
+        <translation>Alegeți fișierul de actualizare</translation>
     </message>
 </context>
 <context>
@@ -7196,32 +7200,32 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="54"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Se caută fișiere...</translation>
+        <translation>Se caută fișiere...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="76"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Nu s-a putut căuta cauta fișiere...</translation>
+        <translation>Nu s-au putut căuta fișierele</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="92"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Găsim hash-uri de fișiere...</translation>
+        <translation>Găsim hash-uri de fișiere...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Găsim versiunilor hashurilor...</translation>
+        <translation>Găsim versiunile hashurilor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizarea răspunsului versiunilor a eșuat: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Se adaugă fișiere...</translation>
+        <translation>Se adaugă fișiere...</translation>
     </message>
 </context>
 <context>
