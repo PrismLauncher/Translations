@@ -5247,7 +5247,12 @@ Motivo:
         <translation>Abrir página y copiar código</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
+        <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Por favor, abre %1 en un navegador y coloca el código &lt;b&gt;%2&lt;/b&gt; para proceder con el inicio de sesión.&lt;/p&gt;</translation>
     </message>
