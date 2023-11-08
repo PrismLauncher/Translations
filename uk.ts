@@ -232,7 +232,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Наступні файли недоступні для завантаження у сторонніх лаунчерах.&lt;br/&gt;Вам потрібно буде завантажити їх вручну і додати до збірки.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -425,7 +425,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип аккаунту (MSA або офлайн)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -645,12 +645,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити обліковий запис?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно хочете видалити цей обліковий запис?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
@@ -732,7 +732,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ця інсталяція має файл блокування оновлень в: %1
+
+Час: %2
+Оновлення з версії %3 до %4
+Цільовий шлях встановлення: %5
+Шлях до даних: %6
+Скоріше за все, це означає, що спроба оновлення завершилася невдало. Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш ніж продовжити.
+Перевірте журнал оновлень Prism Launcher в: 
+%7
+за подробицями про останню спробу оновлення.
+
+Щоб зняти це блокування і продовжити, натисніть &quot;Ігнорувати&quot; нижче.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="914"/>
@@ -747,7 +758,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Спроба оновлення не вдалася
+
+Будь ласка, переконайтеся, що ваша інсталяція працює належним чином, перш ніж продовжити.
+Перевірте журнал оновлень Prism Launcher в: 
+%1
+за подробицями про останню спробу оновлення.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="947"/>
