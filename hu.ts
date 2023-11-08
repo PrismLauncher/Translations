@@ -4549,12 +4549,12 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable automatically checking and installation of mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tiltsa le a mod függőségeknek automatikus keresését és telepítését.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Do not install mod dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne telepítse a mod függőségeket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -6101,6 +6101,13 @@ Do you wish to proceed?</source>
 A törlés tönkre teheti a másik példányt,
 
 Szeretné folytatni?</numerusform>
+            <numerusform>A következő példányok hivatkozhatnak fájlokra a jelenlegi példányban:
+
+%1
+
+A törlés tönkre teheti a másik példányokat,
+
+Szeretné folytatni?</numerusform>
         </translation>
     </message>
     <message>
@@ -7144,7 +7151,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>A mod frissítések nem elérhetők, ha a metaadat le van tiltva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
