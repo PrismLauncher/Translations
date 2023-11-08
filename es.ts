@@ -10791,7 +10791,7 @@ Esto es permanente y el servidor desaparecerá de su lista para siempre (POR MUC
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation>&lt; &amp;Atrás</translation>
+        <translation>&lt; Atrás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
