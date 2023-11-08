@@ -3491,7 +3491,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="265"/>
         <source>Game Window</source>
-        <translation>Spelfönstern</translation>
+        <translation>Spelfönster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="277"/>
@@ -5204,7 +5204,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Vänligen logga in i den öppnade webbläsaren. Om ingenting öppnades, gå då till %1 i en webbläsare och skriv in koden &lt;b&gt;%2&lt;/b&gt; för att fortsätta med inloggningen.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -6634,7 +6634,7 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
         <source>Show time spent playing in hours</source>
-        <translation>Visa tid spenderad på spel i timmar</translation>
+        <translation>Visa spelad tid i timmar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
@@ -8330,12 +8330,12 @@ Felmeddelande: %3</translation>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation>pixmap-cache-missar genom uthysning skedde för snabbt, gjorde ingenting eftersom cache-storleken nådde sin gräns</translation>
+        <translation>pixmap-cachemissar genom uthysning skedde för snabbt, gjorde ingenting eftersom cache-storleken nådde sin gräns</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation>pixmap-cachemissar genom uthysning hände för snabbt, vilket ökade cacheminnestorleken till</translation>
+        <translation>pixmap-cachemissar genom uthysning skedde för snabbt, ökar cache-storleken till</translation>
     </message>
 </context>
 <context>
@@ -9156,7 +9156,7 @@ Du bör dubbelkolla att det inte innehåller personlig information.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>Javatest lyckades!&lt;br /&gt;Plattform rapporterad: %1&lt;br /&gt;Java version rapporterad: %2&lt;br /&gt;</translation>
+        <translation>Javatestet lyckades!&lt;br /&gt;Plattform rapporterad: %1&lt;br /&gt;Java-version rapporterad: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
@@ -9383,7 +9383,7 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="69"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Javatestet lyckades!&lt;br /&gt;Angiven plattform: %1&lt;br /&gt;Angiven Javaversion: %2&lt;br /&gt;Angiven Java-leverantör: %3&lt;br /&gt;</translation>
+        <translation>Javatestet lyckades!&lt;br /&gt;Plattform rapporterad: %1&lt;br /&gt;Java-version rapporterad: %2&lt;br /&gt;Java-leverantör rapporterad: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="77"/>
