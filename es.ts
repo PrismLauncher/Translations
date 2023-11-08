@@ -4161,7 +4161,7 @@ Por favor, seleccione uno de los siguientes o busque un ejecutable de Java.</tra
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Para poder jugar a Minecraft, debes tener al menos una cuenta Microsoft que posea Minecraft iniciada.¿Quieres abrir el administrador de cuentas para añadir una cuenta ahora?</translation>
+        <translation>Para poder jugar a Minecraft, debes tener al menos una cuenta de Microsoft que posea Minecraft iniciada. Quieres abrir el administrador de cuentas para añadir una cuenta ahora?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4598,12 +4598,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable automatically checking and installation of mod dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactiva la comprobación e instalación automática de las dependencias de los mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Do not install mod dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>No instalar dependencias de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -7236,7 +7236,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Las actualizaciones de mods no están disponibles cuando los metadatos están desactivados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
@@ -8519,12 +8519,12 @@ Mensaje de error: %3</translation>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Las pérdidas de caché de mapa de píxeles por desalojo ocurrían demasiado rápido, sin hacer nada cuando el tamaño de la caché alcanzaba su límite</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation>Las pérdidas de caché de mapa de píxeles por desalojo se producían demasiado rápido, lo que aumentaba el tamaño de la caché a</translation>
     </message>
 </context>
 <context>
@@ -10784,7 +10784,7 @@ Esto es permanente y el servidor desaparecerá de su lista para siempre (POR MUC
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation>&lt; Atras</translation>
+        <translation>&lt; &amp;Atrás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
