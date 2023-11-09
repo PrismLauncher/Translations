@@ -4130,7 +4130,7 @@ Kérjük, válasszon egyet a következők közül, vagy keressen egy java futtat
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">A Minecraft-hoz legalább egy Microsoft- vagy Mojang-fiókkal be kell jelentkezned. A Mojang-fiókok csak offline módban használhatók. Szeretné megnyitni a fiókkezelőt, hogy most hozzáadjon egy fiókot?</translation>
+        <translation>A Minecraft-hoz legalább egy Microsoft fiókkal be kell jelentkezned. Szeretné megnyitni a fiókkezelőt, hogy most hozzáadjon egy fiókot?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4550,7 +4550,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished">Tiltsa le a mod függőségeknek automatikus keresését és telepítését.</translation>
+        <translation>Tiltsa le a mod-függőségek automatikus észlelését, telepítését és frissítését.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -4559,7 +4559,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Az automatikus mod-függőség-kezelés letiltása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -5201,7 +5201,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Kérjük, jelentkezzen be a megnyitott böngészőben. Ha nem nyílt meg a böngésző, nyissa meg a(z) %1 linket, és írja be a &lt;b&gt;%2&lt;/b&gt; kódot a bejelentkezéshez.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -8418,12 +8418,12 @@ Hibaüzenet: %3</translation>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>A pixmap gyorsítótár kihagyása túl gyorsan történt, nem történt semmit, mivel a gyorsítótár mérete elérte a határértékét</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation>A pixmap gyorsítótár kihagyása túl gyorsan történt, így a gyorsítótár mérete a következőre nőtt</translation>
     </message>
 </context>
 <context>
