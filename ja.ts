@@ -2201,7 +2201,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
@@ -4373,7 +4373,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します&#x3000;(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
+        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します　(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -4404,7 +4404,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="225"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>同時ダウンロード数</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
@@ -4436,19 +4436,19 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="357"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">ゲームの実行中にコンソールを表示(&amp;R)</translation>
+        <translation>ゲームの実行中にコンソールを表示(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="364"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">ゲームを終了時にコンソールを自動的に閉じる(&amp;A)</translation>
+        <translation>ゲームを終了時にコンソールを自動的に閉じる(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">ゲームがクラッシュしたときにコンソールを表示(&amp;C)</translation>
+        <translation>ゲームがクラッシュしたときにコンソールを表示(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
@@ -4541,7 +4541,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="61"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ランチャー</translation>
     </message>
 </context>
 <context>
@@ -4554,7 +4554,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">従来のランチャーライブラリが見つかりません。正しくインストールされているか確認してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
@@ -4669,12 +4669,12 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>検索とフィルター...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="29"/>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="42"/>
@@ -4993,27 +4993,27 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="444"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダーが存在していません</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="447"/>
         <source>Could not create file</source>
-        <translation type="unfinished">ファイルを作成できませんでした</translation>
+        <translation>ファイルを作成できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="455"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">次の物を作成できませんでした:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="476"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 を読み取って圧縮できませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="482"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zipエラーが発生しました。</translation>
     </message>
 </context>
 <context>
@@ -5031,7 +5031,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;開かれたブラウザでログインしてください。ブラウザが開かれない場合は、ブラウザで %1 を開き、コード&lt;b&gt; %2 &lt;/b&gt;を入力しログインを続行してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -5722,13 +5722,13 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="520"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">起動構成の作成</translation>
+        <translation type="unfinished">起動構成の作成(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">グループ &apos;%1&apos; を削除</translation>
+        <translation type="unfinished">グループ &apos;%1&apos; を削除(%D)</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -5929,13 +5929,13 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">起動構成アプリの作成</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">アプリケーションのアイコン作成に失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
@@ -5960,32 +5960,32 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>グループ名の変更(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本当にグループ&apos;%1&apos;を削除してもいいのですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>グループ名の変更</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グループ名を変更できません</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>空の名前は設定できません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>グループ名はすでに存在します。(´・ω・｀)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1550"/>
@@ -6097,7 +6097,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ファイルが更新されました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -6229,7 +6229,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
         <source>&amp;No Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>プロファイラなし(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="908"/>
@@ -6320,17 +6320,17 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">プレイ時間を&quot;何時間&quot;で表示する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="197"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">微調整</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="203"/>
         <source>Legacy settings</source>
-        <translation type="unfinished">レガシー設定</translation>
+        <translation type="unfinished">従来の設定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
