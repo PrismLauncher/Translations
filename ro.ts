@@ -5245,7 +5245,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation>Raportează un Bug sau Sugerează o Caracteristică</translation>
+        <translation>Raportați un Bug sau Sugerați o Caracteristică</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
