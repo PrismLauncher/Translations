@@ -4558,7 +4558,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished">Inaktivera automatisk kontroll och installation av mod-beroenden.</translation>
+        <translation>Inaktivera automatisk kontroll och installation av mod-beroenden.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -4567,7 +4567,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng av automatisk modd-beroende hantering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
