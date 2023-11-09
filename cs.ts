@@ -4580,7 +4580,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished">Zakázat automatickou kontrolu a instalaci závislostí modů.</translation>
+        <translation>Zakázat automatickou kontrolu, instalaci a aktualizaci závislostí modů.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -4589,7 +4589,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat automatickou správu závislostí modů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
