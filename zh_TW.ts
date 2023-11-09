@@ -4584,13 +4584,18 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
-        <source>Disable automatically checking and installation of mod dependencies.</source>
-        <translation>停用前置模組自動檢查和安裝。</translation>
+        <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
+        <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
+        <translation type="unfinished">停用前置模組自動檢查和安裝。</translation>
+    </message>
+    <message>
+        <source>Do not install mod dependencies</source>
+        <translation type="vanished">不要安裝前置模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
-        <source>Do not install mod dependencies</source>
-        <translation>不要安裝前置模組</translation>
+        <source>Disable automatic mod dependency management</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>

@@ -4548,13 +4548,18 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
-        <source>Disable automatically checking and installation of mod dependencies.</source>
+        <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
+        <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
         <translation type="unfinished">Tiltsa le a mod függőségeknek automatikus keresését és telepítését.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Do not install mod dependencies</source>
-        <translation>Ne telepítse a mod függőségeket</translation>
+        <translation type="vanished">Ne telepítse a mod függőségeket</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
+        <source>Disable automatic mod dependency management</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -6099,13 +6104,6 @@ Do you wish to proceed?</source>
 %1
 
 A törlés tönkre teheti a másik példányt,
-
-Szeretné folytatni?</numerusform>
-            <numerusform>A következő példányok hivatkozhatnak fájlokra a jelenlegi példányban:
-
-%1
-
-A törlés tönkre teheti a másik példányokat,
 
 Szeretné folytatni?</numerusform>
         </translation>

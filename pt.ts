@@ -4401,12 +4401,13 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
-        <source>Disable automatically checking and installation of mod dependencies.</source>
+        <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
+        <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
-        <source>Do not install mod dependencies</source>
+        <source>Disable automatic mod dependency management</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

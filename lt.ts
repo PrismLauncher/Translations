@@ -4111,12 +4111,8 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
-        <source>Disable automatically checking and installation of mod dependencies.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
-        <source>Do not install mod dependencies</source>
+        <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
+        <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4190,6 +4186,11 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
+        <source>Disable automatic mod dependency management</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

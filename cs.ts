@@ -4578,13 +4578,18 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
-        <source>Disable automatically checking and installation of mod dependencies.</source>
-        <translation>Zakázat automatickou kontrolu a instalaci závislostí modů.</translation>
+        <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
+        <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
+        <translation type="unfinished">Zakázat automatickou kontrolu a instalaci závislostí modů.</translation>
+    </message>
+    <message>
+        <source>Do not install mod dependencies</source>
+        <translation type="vanished">Neinstalovat závislosti modů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
-        <source>Do not install mod dependencies</source>
-        <translation>Neinstalovat závislosti modů</translation>
+        <source>Disable automatic mod dependency management</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>

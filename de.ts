@@ -4616,13 +4616,18 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
-        <source>Disable automatically checking and installation of mod dependencies.</source>
-        <translation>Automatisches Überprüfen und Herunterladen von Mod-Abhängigkeiten deaktivieren.</translation>
+        <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
+        <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
+        <translation type="unfinished">Automatisches Überprüfen und Herunterladen von Mod-Abhängigkeiten deaktivieren.</translation>
+    </message>
+    <message>
+        <source>Do not install mod dependencies</source>
+        <translation type="vanished">Abhängigkeiten von Mods nicht installieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
-        <source>Do not install mod dependencies</source>
-        <translation>Abhängigkeiten von Mods nicht installieren</translation>
+        <source>Disable automatic mod dependency management</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
