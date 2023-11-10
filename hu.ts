@@ -65,7 +65,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Megjegyzés: Ezt csak a személyes adatok eléréséhez kell beállítani. További információért olvassa el a &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentációt&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Megjegyzés: Ezt csak a személyes adatok eléréséhez kell beállítani. További információkért olvassa el a &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentációt&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -4559,7 +4559,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation>Az automatikus mod-függőség-kezelés letiltása</translation>
+        <translation>Automatikus mod-függőség-kezelés letiltása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -4590,7 +4590,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="321"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>Cserélje ki az eszköztárat menüsorra</translation>
+        <translation>Menüso&amp;r használata eszköztár helyett</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
@@ -5201,7 +5201,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Kérjük, jelentkezzen be a megnyitott böngészőben. Ha nem nyílt meg a böngésző, nyissa meg a(z) %1 linket, és írja be a &lt;b&gt;%2&lt;/b&gt; kódot a bejelentkezéshez.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Kérjük, jelentkezzen be a megnyitott böngészőben. Ha nem nyílt meg a böngésző, nyissa meg a %1 linket, és írja be a(z) &lt;b&gt;%2&lt;/b&gt; kódot a bejelentkezéshez.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -5970,7 +5970,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="521"/>
         <source>No Default Account</source>
-        <translation>Nincs alapértelmezett fiók</translation>
+        <translation>Ne legyen alapértelmezett fiók</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="524"/>
@@ -9132,7 +9132,7 @@ Gondosan válassza ki a nevét:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Megjegyzés: A proxy felhasználónevet és jelszót egyszerű szövegben tároljuk a launcher konfigurációs fájljában!</translation>
+        <translation>Megjegyzés: A proxy felhasználónevet és jelszót egyszerű szövegként tároljuk a launcher konfigurációs fájljában!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="57"/>
@@ -10835,12 +10835,12 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="123"/>
         <source>Select Skin Texture</source>
-        <translation>Válassza ki a skinfelületet</translation>
+        <translation>Válassza ki a skin textúrát</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="138"/>
         <source>No Cape</source>
-        <translation>Nincs köpeny</translation>
+        <translation>Ne legyen köpeny</translation>
     </message>
 </context>
 <context>
