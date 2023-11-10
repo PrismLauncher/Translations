@@ -4537,7 +4537,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished">모드 의존성의 설치 여부 자동 검사를 비활성화합니다.</translation>
+        <translation>모드 의존성의 자동 감지, 설치, 업데이트를 비활성화합니다.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -4546,7 +4546,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 모드 의존성 관리 비활성화</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -5199,7 +5199,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;열린 브라우저 창에서 로그인해 주세요. 브라우저가 열리지 않는다면, 브라우저에서 %1을 열고 &lt;b&gt;%2&lt;/b&gt; 코드를 입력하여 로그인을 진행하세요.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
