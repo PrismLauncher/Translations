@@ -5356,7 +5356,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="392"/>
         <source>&amp;Edit...</source>
-        <translation>%Editează...</translation>
+        <translation>&amp;Editează...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
