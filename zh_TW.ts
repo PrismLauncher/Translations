@@ -3436,7 +3436,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation>此頁的設定會覆寫全域設定。</translation>
+        <translation>本頁的設定會覆寫全域設定。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
@@ -8516,12 +8516,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">由於驅逐（eviction）導致太快地未命中像素圖快取，在該高速快取大小達到其限制時，不執行任何操作</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">由於驅逐（eviction）導致太快地未命中像素圖緩存，在該高速快取大小達到其限制時，將快取大小調整為</translation>
     </message>
 </context>
 <context>
@@ -8530,14 +8530,14 @@ Error message: %3</source>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
         <source>Running Post-Launch command: %1</source>
-        <translation>正在執行啟動後指令：%1</translation>
+        <translation>啟動後執行指令：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="68"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation>啟動後指令執行失敗，代碼：%1
+        <translation>啟動後執行指令失敗，代碼：%1
 
 </translation>
     </message>
@@ -8546,7 +8546,7 @@ Error message: %3</source>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation>啟動後指令已成功地執行。
+        <translation>啟動後執行指令已成功地執行。
 
 </translation>
     </message>
