@@ -4612,12 +4612,12 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Desative a detecção, instalação e atualização automática de dependências de mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Desative o gerenciamento automático de dependências de mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -5274,7 +5274,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Faça login no navegador aberto. Se nenhum navegador foi aberto, abra %1 em um navegador e insira o código &lt;b&gt;%2&lt;/b&gt; para prosseguir com o login.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -7270,7 +7270,7 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>As atualizações de mod não estão disponíveis quando os metadados estão desativados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="232"/>
@@ -8563,12 +8563,12 @@ Mensagem de erro: %3</translation>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>As perdas de cache do pixmap por despejo aconteceram muito rápido, não fazendo nada quando o tamanho do cache atingiu seu limite</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation>As falhas de cache do pixmap por despejo aconteceram muito rápido, aumentando o tamanho do cache para</translation>
     </message>
 </context>
 <context>
