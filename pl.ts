@@ -3818,12 +3818,12 @@ Postępuj ostrożnie!</translation>
 <context>
     <name>InstanceView</name>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="483"/>
         <source>Welcome!</source>
         <translation>Witaj!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>Kliknij &quot;Dodaj Instancje&quot; by zacząć.</translation>
     </message>

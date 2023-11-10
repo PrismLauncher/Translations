@@ -3617,12 +3617,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
 <context>
     <name>InstanceView</name>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="483"/>
         <source>Welcome!</source>
         <translation>¡Bienvenido!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>Clickee &quot;Añadir instancia&quot; para empezar.</translation>
     </message>

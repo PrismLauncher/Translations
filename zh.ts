@@ -3790,12 +3790,12 @@ Proceed with caution!</source>
 <context>
     <name>InstanceView</name>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="483"/>
         <source>Welcome!</source>
         <translation>欢迎！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>从点击“添加示例”开始。</translation>
     </message>

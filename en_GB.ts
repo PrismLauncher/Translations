@@ -3804,12 +3804,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceView</name>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="483"/>
         <source>Welcome!</source>
         <translation>Welcome!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>Click &quot;Add Instance&quot; to get started.</translation>
     </message>
