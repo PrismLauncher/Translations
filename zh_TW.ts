@@ -873,19 +873,19 @@ for details.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>按人氣程度排序</translation>
+        <translation>依人氣程度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>按名稱排序</translation>
+        <translation>依名稱排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>按遊戲版本排序</translation>
+        <translation>依遊戲版本排序</translation>
     </message>
 </context>
 <context>
@@ -2339,12 +2339,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation>按名稱排序</translation>
+        <translation>依名稱排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation>按遊戲版本排序</translation>
+        <translation>依遊戲版本排序</translation>
     </message>
 </context>
 <context>
@@ -2750,37 +2750,37 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="77"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation>按精選內容排序</translation>
+        <translation>依精選內容排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>按人氣程度排序</translation>
+        <translation>依人氣程度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>按最後更新時間排序</translation>
+        <translation>依最後更新時間排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>按名稱排序</translation>
+        <translation>依名稱排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation>按作者排序</translation>
+        <translation>依作者排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>按總下載量排序</translation>
+        <translation>依總下載量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="191"/>
@@ -4795,7 +4795,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>按名稱排序</translation>
+        <translation>依名稱排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
@@ -6333,7 +6333,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1729"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>你的實例資料夾名稱中包含了「Rar$」──這代表著你還尚未將啟動器檔案解壓縮！</translation>
+        <translation>你的實例資料夾名稱中包含了「Rar$」，這代表著你還尚未將啟動器檔案解壓縮！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
@@ -7919,7 +7919,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="79"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation>按關聯性排序</translation>
+        <translation>依關聯性排序</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -7928,24 +7928,24 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
         <source>Sort by Follows</source>
-        <translation>按追蹤數量排序</translation>
+        <translation>依追蹤數量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>按最近更新時間排序</translation>
+        <translation>依最近更新時間排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation>按最近發布時間排序</translation>
+        <translation>依最近發布時間排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="80"/>
         <source>Sort by Total Downloads</source>
-        <translation>按總下載數排序</translation>
+        <translation>依總下載數排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="262"/>
@@ -9106,7 +9106,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="120"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation>名稱太短─長度必須在 3 到 16 個字元之間。</translation>
+        <translation>名稱太短，長度必須在 3 到 16 個字元之間。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="180"/>
@@ -9416,7 +9416,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="234"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>無法確定主要 Jar 的網址──Mojang 刪除了我們作為備用的伺服器。</translation>
+        <translation>無法確定主要 Jar 的網址，Mojang 刪除了我們作為備用的伺服器。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
@@ -9809,59 +9809,59 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <source>Sort by Featured</source>
-        <translation>按精選內容排序</translation>
+        <translation>依精選內容排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
-        <translation>按人氣程度排序</translation>
+        <translation>依人氣程度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Last Updated</source>
-        <translation>按最近更新時間排序</translation>
+        <translation>依最近更新時間排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Name</source>
-        <translation>按名稱排序</translation>
+        <translation>依名稱排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <source>Sort by Author</source>
-        <translation>按作者排序</translation>
+        <translation>依作者排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
-        <translation>按下載數量排序</translation>
+        <translation>依下載數量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Category</source>
-        <translation>按類別排序</translation>
+        <translation>依類別排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
-        <translation>按遊戲版本排序</translation>
+        <translation>依遊戲版本排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation>按關聯性排序</translation>
+        <translation>依關聯性排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Follows</source>
-        <translation>按追蹤數量排序</translation>
+        <translation>依追蹤數量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Newest</source>
-        <translation>按最近發布時間排序</translation>
+        <translation>依最近發布時間排序</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
@@ -11402,7 +11402,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation>版本 %1 現在可用──你現在有 %2。你現在想要下載它嗎？</translation>
+        <translation>版本 %1 現在可用，現在版本為 %2。你現在想要下載它嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
