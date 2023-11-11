@@ -778,7 +778,7 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation>Оновлення виконано успішно
+        <translation>Оновлення встановлено успішно
 
 Зараз ви використовуєте %1 .
 Перевірте журнал оновлень Prism Launcher в: 
@@ -957,7 +957,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">Пошук</translation>
+        <translation>Пошук</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -1656,7 +1656,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
