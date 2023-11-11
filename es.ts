@@ -4599,7 +4599,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished">Desactiva la comprobación e instalación automática de las dependencias de los mods.</translation>
+        <translation>Desactiva la comprobación e instalación automática de las dependencias de los mods.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -4608,7 +4608,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar gestión automática de dependencias de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -5254,7 +5254,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Por favor, inicia sesión en el navegador abierto. Si no se ha abierto ningún navegador, por favor, abre %1 en un navegador y escribe el código &lt;b&gt;%2&lt;/b&gt; para proceder con el inicio de sesión.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -6195,9 +6195,10 @@ Borrarla podría romper la otra instancia,
 
 %1
 
-Borrarlo podría romper las otras instancias, 
+Borrarla podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
