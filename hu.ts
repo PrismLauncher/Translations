@@ -1706,7 +1706,7 @@ további részletekért.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
-        <translation>Környezeti Változók</translation>
+        <translation>Környezeti változók</translation>
     </message>
 </context>
 <context>
@@ -1835,7 +1835,7 @@ további részletekért.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
         <source>&amp;Options</source>
-        <translation>&amp;Beállitások</translation>
+        <translation>&amp;Beállítások</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
@@ -4369,7 +4369,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
         <source>Update Settings</source>
-        <translation>Beállítások frissítése</translation>
+        <translation>Frissítési beállítások</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
