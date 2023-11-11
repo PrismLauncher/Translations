@@ -9126,7 +9126,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Ordenar por última actualización</translation>
     </message>
@@ -9167,7 +9167,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <translation>Ordenar por seguidores</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Newest</source>
         <translation>Ordenar por lo más nuevo</translation>
     </message>
