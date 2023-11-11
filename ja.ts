@@ -2201,7 +2201,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
@@ -4373,7 +4373,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します&#x3000;(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
+        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します　(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -8426,70 +8426,71 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 を%2 にバックアップできませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1154"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 を削除するのに失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1189"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">以下のファイルを&quot;%1&quot;に展開しました:
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1191"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1193"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 を %2に展開できませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">実行中: `%1 %2`</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1204"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">子プロセス&quot;%1 %2&quot;の起動に失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1206"/>
         <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">アーカイブの展開に失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">子プロセス&quot;%1 %2&quot;は失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
         <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">アーカイブの展開に失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1220"/>
         <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 は不明なアーカイブ形式です</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">バージョンのチェックに失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">バージョンを読み込むための子ランチャープロセスの起動に失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">子ランチャープロセスが失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -8588,7 +8589,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グローバルステータスの詳細...</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -9270,17 +9271,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">prismLauncherで使用されるWindows用のMKLINKバッチプログラム</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">非グループ</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prism Launcherの自動アップデーター</translation>
     </message>
 </context>
 <context>
@@ -9352,7 +9353,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
@@ -9383,7 +9384,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="231"/>
         <source>A network error occurred. Could not load project info:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>ネットワークエラーが発生しました。プロジェクト情報を読み込めませんでした:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="437"/>
