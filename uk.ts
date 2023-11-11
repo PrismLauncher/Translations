@@ -778,7 +778,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення виконано успішно
+
+Зараз ви використовуєте %1 .
+Перевірте журнал оновлень Prism Launcher в: 
+%1
+за подробицями.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="980"/>
