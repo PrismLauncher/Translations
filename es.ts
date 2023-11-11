@@ -6198,7 +6198,6 @@ Borrarla podría romper la otra instancia,
 Borrarla podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>
