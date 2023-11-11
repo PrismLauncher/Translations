@@ -208,7 +208,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="674"/>
         <source>Extracting configs...</source>
-        <translation>Извлечение настроек…</translation>
+        <translation>Распаковка настроек…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="680"/>
@@ -258,12 +258,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
         <source>Failed to extract mods...</source>
-        <translation>Не удалось извлечь моды…</translation>
+        <translation>Не удалось распаковать моды…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="937"/>
         <source>Extracting mods...</source>
-        <translation>Извлечение модов…</translation>
+        <translation>Распаковка модов…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1008"/>
@@ -2305,7 +2305,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Не удалось извлечь нативный jar-файл «%1» в указанное место «%2»</translation>
+        <translation>Не удалось распаковать нативный jar-файл «%1» в указанное место «%2»</translation>
     </message>
 </context>
 <context>
@@ -4816,7 +4816,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished">Не удалось найти библиотеку Legacy-лаунчера. Пожалуйста, проверьте целостность установки.</translation>
+        <translation type="unfinished">Не удалось найти библиотеку лаунчера старых версий. Пожалуйста, проверьте целостность установки.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
@@ -4902,7 +4902,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation>Извлечение сборки</translation>
+        <translation>Распаковка сборки</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
@@ -6291,7 +6291,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>Лаунчер находится в папке, из которой он был извлечён, поэтому не может создавать ярлыки.</translation>
+        <translation>Лаунчер находится в папке, из которой он был распакован, поэтому не может создавать ярлыки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1612"/>
