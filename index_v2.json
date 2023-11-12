@@ -219,12 +219,12 @@
             "untranslated" : 1316
         },
         "fr" : {
-            "file" : "545a045f2e44f0ac6ed91c3b782a962373f8a0f5.class",
-            "sha1" : "545a045f2e44f0ac6ed91c3b782a962373f8a0f5",
-            "size" : 282874,
-            "translated" : 1820,
+            "file" : "4eb65a7efec9fa3366dd7819688d2bdf114b58cd.class",
+            "sha1" : "4eb65a7efec9fa3366dd7819688d2bdf114b58cd",
+            "size" : 285024,
+            "translated" : 1826,
             "fuzzy" : 0,
-            "untranslated" : 6
+            "untranslated" : 0
         },
         "fr_CA" : {
             "file" : "bcb153d37afc18091116aff27edce7bdc50eec3f.class",
@@ -323,12 +323,12 @@
             "untranslated" : 146
         },
         "ja" : {
-            "file" : "27bfc8c3efb8b01ecbc01d2ff214492cdc318b7f.class",
-            "sha1" : "27bfc8c3efb8b01ecbc01d2ff214492cdc318b7f",
-            "size" : 196103,
-            "translated" : 1570,
-            "fuzzy" : 172,
-            "untranslated" : 84
+            "file" : "4481795a472811931c916941efbaba44366ad88d.class",
+            "sha1" : "4481795a472811931c916941efbaba44366ad88d",
+            "size" : 197088,
+            "translated" : 1576,
+            "fuzzy" : 175,
+            "untranslated" : 75
         },
         "ja_KANJI" : {
             "file" : "886ed439e18c052339b009479db430c419026b90.class",
@@ -579,12 +579,12 @@
             "untranslated" : 1000
         },
         "tr" : {
-            "file" : "56f55eba57782337ae08d0461802caf99145f7c4.class",
-            "sha1" : "56f55eba57782337ae08d0461802caf99145f7c4",
-            "size" : 227358,
+            "file" : "0f5df94509c9f7f733cdb3468ad1a2d783078189.class",
+            "sha1" : "0f5df94509c9f7f733cdb3468ad1a2d783078189",
+            "size" : 227421,
             "translated" : 1575,
-            "fuzzy" : 60,
-            "untranslated" : 191
+            "fuzzy" : 61,
+            "untranslated" : 190
         },
         "uk" : {
             "file" : "704e80516ff581f710f428ce3a0113e8bb631252.class",
