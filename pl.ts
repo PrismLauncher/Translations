@@ -4200,7 +4200,7 @@ Wybierz jedną z poniższych, lub przeglądaj za plikiem wykonywalnym Java.</tra
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Aby zagrać w Minecraft&apos;a, musisz być zalogowany na co najmniej jedno konto Mojang lub Microsoft. Kont Mojang można używać tylko w trybie offline. Czy chcesz otworzyć zarządzanie kontami, aby dodać konto teraz?</translation>
+        <translation>Aby zagrać w Minecrafta, musisz być zalogowany(a) na co najmniej jedno konto Microsoft posiadające Minecrafta. Czy chcesz otworzyć zarządzanie kontami, aby dodać konto teraz?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4626,12 +4626,12 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz automatyczne wykrywanie, instalację i aktualizację zależności modów.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz automatyczne zarządzanie zależności modów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
