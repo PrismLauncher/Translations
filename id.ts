@@ -2123,7 +2123,7 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">Telusuri</translation>
+        <translation>Telusuri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -3055,7 +3055,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Segarkan</translation>
+        <translation>&amp;Segarkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
@@ -3354,7 +3354,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
         <source>Browse</source>
-        <translation type="unfinished">Telusuri</translation>
+        <translation>Telusuri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
@@ -3645,17 +3645,17 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Luncurkan</translation>
+        <translation>&amp;Luncurkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Bunuh</translation>
+        <translation>&amp;Matikan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -3794,7 +3794,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
         <source>Browse</source>
-        <translation type="unfinished">Telusuri</translation>
+        <translation>Telusuri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
@@ -3998,7 +3998,7 @@ Mohon pilih salah satu di bawah atau telusuri eksekutabel Java.</translation>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Untuk bermain Minecraft, Anda harus memiliki setidaknya satu akun Mojang atau Minecraft. Apakah Anda ingin membuka pengelola akun untuk menambahkan akun sekarang?</translation>
+        <translation>Untuk bermain Minecraft, Anda harus memiliki setidaknya satu akun Mojang atau Minecraft. Apakah Anda ingin membuka pengelola akun untuk menambahkan akun sekarang?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4140,7 +4140,7 @@ Apakah Anda ingin memainkan demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Luncurkan</translation>
+        <translation>&amp;Luncurkan</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -4241,7 +4241,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished">Periksa pembaruan secara otomatis</translation>
+        <translation>Periksa pembaruan secara otomatis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="67"/>
@@ -4259,7 +4259,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="136"/>
         <source>Browse</source>
-        <translation type="unfinished">Telusuri</translation>
+        <translation>Telusuri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
@@ -4331,7 +4331,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished">Matikan penggunaan metadata yang disediakan penyelenggara-penyelenggara mod (seperti Modrinth atau CurseForge) untuk mod-mod.</translation>
+        <translation>Matikan penggunaan metadata yang disediakan penyedia mod (seperti Modrinth atau CurseForge) untuk mod-mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
@@ -4372,7 +4372,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished">Nonaktifkan pemeriksaan dan pemasangan dependensi mod otomatis.</translation>
+        <translation>Nonaktifkan pemeriksaan dan pemasangan dependensi mod otomatis.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -4417,12 +4417,12 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
         <source>Console</source>
-        <translation type="unfinished">Konsol</translation>
+        <translation>Konsol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="351"/>
         <source>Console Settings</source>
-        <translation type="unfinished">Pengaturan Konsol</translation>
+        <translation>Pengaturan Konsol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="357"/>
@@ -4841,7 +4841,7 @@ Anda harus memperbaiki masalah ini secara manual.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation type="unfinished">Dibatalkan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -5021,7 +5021,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation type="unfinished">Buka halaman dan salin kode</translation>
+        <translation>Buka halaman dan salin kode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
@@ -5558,7 +5558,7 @@ Alasan:
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Accounts</source>
-        <translation type="unfinished">Akun</translation>
+        <translation>Akun</translation>
     </message>
     <message>
         <source>Launch Offline</source>
