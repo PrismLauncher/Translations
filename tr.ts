@@ -3728,7 +3728,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maksimum bellek değeriniz minimum değerden daha düşük</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3985,7 +3985,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maksimum bellek değeriniz minimum değerden daha düşük</translation>
     </message>
 </context>
 <context>
@@ -6156,13 +6156,6 @@ Do you wish to proceed?</source>
 Bu profili silmek diğer profili de bozabilir.
 
 Devam etmek istiyor musunuz?</numerusform>
-            <numerusform>Aşağıdaki profiller bu profildeki dosyaları kullanıyor olabilir:
-
-%1
-
-Bu profili silmek diğer profili de bozabilir.
-
-Devam etmek istiyor musunuz?</numerusform>
         </translation>
     </message>
     <message>
@@ -6648,7 +6641,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Çevrimiçi düzeltmeleri etkinleştir (deneysel)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
@@ -6664,7 +6657,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="235"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;GLFW kütüphane yolu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
@@ -6675,7 +6668,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="252"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;OpenAL kütüphane yolu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
@@ -6783,7 +6776,7 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 kütüphane dosyasının yolu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
@@ -7144,7 +7137,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uzantının metadata&apos;sını kaldır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -7761,7 +7754,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="357"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Güncelleme dosyası seçin</translation>
     </message>
 </context>
 <context>
