@@ -2846,7 +2846,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>前提modを取得</translation>
     </message>
 </context>
 <context>
