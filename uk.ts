@@ -4519,7 +4519,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
         <source>Number of concurrent tasks</source>
-        <translation>Кількість паралельних завдань</translation>
+        <translation>Кількість одночасних завдань</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="225"/>
@@ -4674,7 +4674,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося знайти бібліотеку застарілого лаунчера. Будь ласка, перевірте вашу інсталяцію.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
@@ -5452,7 +5452,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
         <source>View &amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути папку &amp;збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
