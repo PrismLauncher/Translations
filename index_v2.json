@@ -323,12 +323,12 @@
             "untranslated" : 146
         },
         "ja" : {
-            "file" : "4481795a472811931c916941efbaba44366ad88d.class",
-            "sha1" : "4481795a472811931c916941efbaba44366ad88d",
-            "size" : 197088,
-            "translated" : 1576,
-            "fuzzy" : 175,
-            "untranslated" : 75
+            "file" : "1cb6ce2f1710b4303f001f9d36a750095a03fa81.class",
+            "sha1" : "1cb6ce2f1710b4303f001f9d36a750095a03fa81",
+            "size" : 197861,
+            "translated" : 1578,
+            "fuzzy" : 179,
+            "untranslated" : 69
         },
         "ja_KANJI" : {
             "file" : "886ed439e18c052339b009479db430c419026b90.class",
