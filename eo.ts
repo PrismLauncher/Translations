@@ -644,7 +644,7 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĉu forigi konton?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
@@ -751,7 +751,7 @@ for details on the last update attempt.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="947"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝisdatigo Malsukcesa</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="972"/>
@@ -761,12 +761,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝisdatigo sukcesis
+
+Vi nun kuras %1.
+Kontrolu la Prism Launcher ĝisdatigor-registron ĉe:
+%1
+por detaloj.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="980"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝisdatigita Succeed</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1312"/>
@@ -1601,12 +1606,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; medio Variabloj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1631,7 +1636,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Clear</translation>
     </message>
 </context>
 <context>
@@ -3721,7 +3726,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĉu vi ne vidas vian lingvon aŭ la kvaliton estas malriĉa? &lt;br/&gt; helpu nin kun tradukoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
