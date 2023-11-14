@@ -9897,7 +9897,7 @@ Ești sigur(ă)?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation>%Următorul &gt;</translation>
+        <translation>&amp;Următorul &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
