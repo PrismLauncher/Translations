@@ -8516,12 +8516,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished">由於驅逐（eviction）導致太快地未命中像素圖快取，在該高速快取大小達到其限制時，不執行任何操作</translation>
+        <translation>由於驅逐（eviction）導致未命中像素圖快取發生過快，在該高速快取大小達到其限制時，不執行任何操作</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished">由於驅逐（eviction）導致太快地未命中像素圖緩存，在該高速快取大小達到其限制時，將快取大小調整為</translation>
+        <translation>由於驅逐（eviction）導致未命中像素圖緩存發生過快，在該高速快取大小達到其限制時，將快取大小調整為</translation>
     </message>
 </context>
 <context>
