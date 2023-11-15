@@ -4859,7 +4859,7 @@ Alasan:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="44"/>
         <source>Updating index for mod:
 %1</source>
-        <translation>Membarui indeks untuk mod:
+        <translation>Memperbarui indeks untuk mod:
 %1</translation>
     </message>
     <message>
