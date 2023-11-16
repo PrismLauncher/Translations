@@ -8592,7 +8592,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation>업데이트가 필요 없는 경우에도 강제로 업데이트</translation>
+        <translation>업데이트가 필요하지 않더라도 강제로 업데이트합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
