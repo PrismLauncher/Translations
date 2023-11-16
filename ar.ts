@@ -227,12 +227,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>تم العثور على اضافات محضورة</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى المثيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -300,7 +300,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished">التجهيز:</translation>
+        <translation>التجهيز:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -613,7 +613,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب عليك إضافة حساب مايكروسوفت يمتلك لعبة ماين كرافت قبل أن تتمكن من إضافة حساب غير متصل بالإنترنت.&lt;br&gt;&lt;br&gt;إذا فقدت حسابك، فيمكنك الاتصال بشركة مايكروسوفت للحصول على الدعم.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -645,12 +645,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة الحساب؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="170"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد حقا حذف هذا الحساب؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="258"/>
@@ -732,12 +732,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحتوي هذا التثبيت على ملف قفل التحديث الموجود في: %1
+
+الطابع الزمني: %2
+التحديث من الإصدار %3 إلى %4
+مسار التثبيت الهدف: %5
+مسار البيانات: %6
+وهذا يعني على الأرجح فشل محاولة التحديث. يرجى التأكد من أن التثبيت الخاص بك يعمل جيدًا قبل المتابعة.
+تحقق من سجل تحديث بريسوم لانشر على:
+%7
+للحصول على تفاصيل حول محاولة التحديث الأخيرة.
+
+لحذف هذا القفل والمتابعة، حدد &quot;تجاهل&quot; أدناه.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="914"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>التحديث قيد التقدم</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="939"/>
@@ -747,12 +758,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت محاولة التحديث
+
+يرجى التأكد من أن التثبيت الخاص بك يعمل جيدًا قبل المتابعة.
+تحقق من سجل تحديث بريسوم لانشر على:
+%1
+للحصول على تفاصيل حول محاولة التحديث الأخيرة.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="947"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="972"/>
@@ -762,12 +778,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>نجح التحديث
+
+أنت الآن تقوم بتشغيل %1 .
+تحقق من سجل تحديث بريسوم لانشر على:
+%1
+للتفاصيل.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="980"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>نجح التحديث</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1312"/>
@@ -936,7 +957,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">البحث</translation>
+        <translation>البحث</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -1150,7 +1171,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="289"/>
         <source>Please wait...</source>
-        <translation type="unfinished">يرجى الإنتظار...</translation>
+        <translation>يرجى الإنتظار...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
@@ -1160,7 +1181,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="293"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنفيذ مهمة واحدة:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="295"/>
@@ -1193,12 +1214,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished">تعطيل هذا سيحافض على مشغل المودات (مثل: Fabric, Quilt, إلخ.) لاكن احذف ملف المودات وتففضيلاتها (configs).</translation>
+        <translation>تعطيل هذا سيحافض على مشغل المودات (مثل: Fabric, Quilt, إلخ.) لاكن احذف ملف المودات وتففضيلاتها (configs).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished">خيارات نسخ الحالة</translation>
+        <translation>خيارات نسخ الحالة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1228,12 +1249,12 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished">استخدم روابط رمزية أو صلبة بدلا من نسخ الملفات.</translation>
+        <translation>استخدم روابط رمزية أو صلبة بدلا من نسخ الملفات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation type="unfinished">خيارات الارتباط الرمزي والثابت</translation>
+        <translation>خيارات الارتباط الرمزي والثابت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
@@ -1268,7 +1289,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation type="unfinished">استخدام الروابط الصلبة</translation>
+        <translation>استخدام الروابط الصلبة</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
