@@ -210,7 +210,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
         <source>Selecting optional mods...</source>
-        <translation>選擇可選的模組…</translation>
+        <translation>正在選擇可選模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
@@ -601,7 +601,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>歡迎！
-如果你第一次來這裡，您可以按一下「新增 Microsoft 帳號」按鈕來連結你的 Microsoft 帳號。</translation>
+如果你第一次來這裡，你可以按一下「新增 Microsoft 帳號」按鈕來連結你的 Microsoft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
@@ -621,7 +621,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您需要先新增一個擁有 Minecraft 的 Microsoft 帳號，才能新增離線帳號。&lt;br&gt;&lt;br&gt;如果您已遺失帳號，您可以聯繫 Microsoft 取得支援。</translation>
+        <translation>您需要先新增一個擁有 Minecraft 的 Microsoft 帳號，才能新增離線帳號。&lt;br&gt;&lt;br&gt;如果您已遺失帳號，您可以聯絡 Microsoft 取得支援。</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -8777,7 +8777,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation>在執行 Prism Launcher 的 Flatpak 版本時，除了檢查是否有更新可用之外的動作都不受支援。</translation>
+        <translation>在執行 Flatpak 版本的 Prism Launcher 時，不支援檢查更新以外的任何操作。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
@@ -10552,7 +10552,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="441"/>
         <source>Screenshots upload aborted</source>
-        <translation>螢幕擷取畫面上傳已中止</translation>
+        <translation>螢幕擷取畫面已中止上傳</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="400"/>
@@ -10621,7 +10621,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="118"/>
         <source>Select a version to install.</source>
-        <translation>選擇版本以安裝。</translation>
+        <translation>選擇要安裝的版本。</translation>
     </message>
 </context>
 <context>
@@ -10629,12 +10629,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation>選擇正式版以安裝</translation>
+        <translation>選擇要安裝的發布版</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation>請選擇你想要更新到的版本。</translation>
+        <translation>請選擇要更新到的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
@@ -10651,7 +10651,7 @@ Are you sure?</source>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation>選擇版本以安裝
+        <translation>選擇要安裝的版本
 
 目前安裝版本：%1</translation>
     </message>
