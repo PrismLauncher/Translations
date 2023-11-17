@@ -3290,7 +3290,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Pengaturan disini telah ditimpa untuk pengaturan global.</translation>
+        <translation>Pengaturan di sini adalah timpaan untuk pengaturan global.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
@@ -8882,13 +8882,13 @@ Kembalikan ke versi sebelumnya?</translation>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished">%1j %2m</translation>
+        <translation>%1 jam %2 menit</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="39"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1h %2j %3m</translation>
+        <translation>%1 hari %2 jam %3 menit</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
@@ -10978,12 +10978,12 @@ Mohon berganti ke salah satu versi Java berikut untuk instansi ini:</translation
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Replace Minecraft.jar</source>
-        <translation>Menggantikan Minecraft.jar</translation>
+        <translation>Ganti Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <source>Add Agents</source>
-        <translation>Tambahkan Agen-agen</translation>
+        <translation>Tambahkan Agen Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
