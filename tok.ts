@@ -191,7 +191,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="747"/>
         <source>Unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>kon pi kama jo ike: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="753"/>
