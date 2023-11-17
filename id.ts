@@ -6407,7 +6407,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Lain-lain</translation>
+        <translation>Serba Aneka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
@@ -6763,7 +6763,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Kunjungi laman mod</translation>
+        <translation>Kunjungi halaman web mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="114"/>
