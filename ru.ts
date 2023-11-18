@@ -8780,7 +8780,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation>Использовать эту версию в качестве установленной версии лаунчера. (она предоставляется в связи с невозможностью надежного перехвата в Windows)</translation>
+        <translation>Использовать эту версию в качестве установленной версии лаунчера. (она предоставляется в связи с невозможностью надежного перехвата stdout в Windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
