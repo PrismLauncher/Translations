@@ -4814,7 +4814,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished">Не удалось найти библиотеку лаунчера старых версий. Пожалуйста, проверьте целостность установки.</translation>
+        <translation>Не удалось найти библиотеку лаунчера старых версий. Пожалуйста, проверьте целостность установки.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
