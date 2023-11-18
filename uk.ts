@@ -4512,7 +4512,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Різне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
@@ -5154,7 +5154,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Будь-ласка зайдіть у відкритому браузері. Якщо браузер не відкрився, відкрийте %1 в браузері і вставьте &lt;b&gt;%2&lt;/b&gt; щоб продовжити логін&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -5455,7 +5455,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>View Launcher &amp;Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути &amp;Root теку лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5583,27 +5583,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="721"/>
         <source>View &amp;Widget Themes Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути теку тем &amp;Widget</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>View Widget Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути теку тем віджета</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="733"/>
         <source>View I&amp;con Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути теку тем &amp;Icon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
         <source>View Icon Theme Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути теку тем іконок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="744"/>
         <source>View Cat Packs Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути теку пакетів кота</translation>
     </message>
     <message>
         <source>&amp;View Launcher Root Folder</source>
@@ -5984,12 +5984,12 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Збірка, мод, чи ресурс %1 заблоковано для третіх-сторон! Будь-ласка завантажте його вручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
@@ -6156,7 +6156,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Перейменувати групу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
@@ -6187,13 +6187,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробити екземпляр Програми</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося створити іконку для Програми.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1550"/>
@@ -6666,7 +6666,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати час витрачений на гру в годинах</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
