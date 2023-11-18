@@ -3721,7 +3721,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="596"/>
         <source>Legacy settings</source>
-        <translation type="unfinished">Устаревшие настройки</translation>
+        <translation>Традиционные настройки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
@@ -7219,7 +7219,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверить обновления модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="96"/>
@@ -7231,17 +7231,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверить зависимости</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Попробовать обновить и проверить на отсутствие зависимостей все выбранные моды (все моды, если ни один из них не выбран)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Сброс метаданных обновления</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="120"/>
@@ -8630,12 +8630,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished">Промахи кэша pixmap начались слишком быстро при вытеснении. Изменено ничего не будет, т.к. размер кэша достиг предельного значения</translation>
+        <translation>Пропуски кэша pixmap при освобождении происходили слишком быстро. Изменено ничего не будет, т.к. размер кэша достиг предельного значения</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished">Промахи кэша pixmap начались слишком быстро при вытеснении. Увеличиваем размер кэша до</translation>
+        <translation>Пропуски кэша pixmap начались слишком быстро при освобождении. Увеличиваем размер кэша до</translation>
     </message>
 </context>
 <context>
@@ -8749,7 +8749,7 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="205"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished">Служба обновлений вылетела с неизвестным состоянием.
+        <translation>Служба обновлений была завершена с неизвестным состоянием.
 Код ошибки: %1</translation>
     </message>
     <message>
@@ -8780,7 +8780,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished">Использовать эту версию в качестве установленной версии лаунчера. (она предоставлена, т.к. stdout ненадёжен под Windows)</translation>
+        <translation>Использовать эту версию в качестве установленной версии лаунчера. (она предоставляется в связи с невозможностью надежного перехвата в Windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
@@ -8835,7 +8835,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished">Позволить понижение версии приложения.</translation>
+        <translation>Позволить службе обновления понижение версии приложения.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
@@ -8912,7 +8912,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="653"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished">Манифест пуст. Предполагаемое содержимое папки %1</translation>
+        <translation>Манифест пуст. Предполагаемое содержимое папки %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
@@ -8966,7 +8966,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished">%1 портативная: %2</translation>
+        <translation>%1 портативная: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
@@ -9083,7 +9083,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1124"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished">Создаётся резервная копия:
+        <translation>Создаётся резервная копия:
   %1</translation>
     </message>
     <message>
@@ -11533,7 +11533,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished">Изменения в этой версии:</translation>
+        <translation>Изменения в данной версии:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
