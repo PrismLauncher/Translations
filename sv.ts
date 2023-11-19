@@ -7010,7 +7010,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök efter uppdateringar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="96"/>
@@ -7022,17 +7022,17 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifiera beroenden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Försök att uppdatera och leta efter saknade beroenden för alla valda mods (alla mods om inga är valda)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ uppdateringsmetadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="120"/>
