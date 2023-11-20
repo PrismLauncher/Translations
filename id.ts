@@ -5427,32 +5427,32 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="748"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema-tema &amp;Widget</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="751"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder tema-tema widget dalam file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema Ikon (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="763"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder tema ikon dalam file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket-paket Kucing</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="775"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder paket-paket kucing di file browser.</translation>
     </message>
     <message>
         <source>View &amp;Widget Themes Folder</source>
@@ -5576,42 +5576,42 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instansi-instansi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder instansi-instansi di file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Root Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod-mod Utama (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon-ikon Instansi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="590"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder ikon-ikon instansi di file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Log-log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder log-log di file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
