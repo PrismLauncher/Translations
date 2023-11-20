@@ -9313,16 +9313,16 @@ Sei sicuro?</translation>
         <translation>Verfica di Java conclusa con successo!&lt;br /&gt;Piattaforma riportata: %1&lt;br /&gt;Versione Java riportata: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>Test di Java riuscito</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Test di Java fallito</translation>
     </message>
@@ -9575,8 +9575,8 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
         <translation>Formato versione sconosciuto!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Percorso vuoto</translation>
     </message>

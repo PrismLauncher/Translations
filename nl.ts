@@ -9239,16 +9239,16 @@ Weet u het zeker?</translation>
         <translation>Java test geslaagd!&lt;br /&gt;Platform gemeld: %1&lt;br /&gt;Java versie gemeld: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>Java test geslaagd</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Java test mislukt</translation>
     </message>
@@ -9501,8 +9501,8 @@ Dit bericht zal worden weergegeven totdat u dit van de JVM-argumenten verwijdert
         <translation>Onbekende opmaakversie!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Leeg pad</translation>
     </message>
@@ -10068,7 +10068,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aanzetten</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
@@ -10112,12 +10112,12 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aanzetten</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afbeelding</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -11040,12 +11040,12 @@ inheritsFrom ontbreekt</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aanzetten</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afbeelding</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>

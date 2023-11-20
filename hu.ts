@@ -9335,16 +9335,16 @@ Biztos vagy ebben?</translation>
         <translation>A Java teszt sikerült!&lt;br /&gt;Platform jelentve: %1&lt;br /&gt;Jelentett Java verzió: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>Java teszt sikeres</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Java teszt hiba</translation>
     </message>
@@ -9597,8 +9597,8 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <translation>Ismeretlen verzióformátumú!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Üres elérési út</translation>
     </message>
