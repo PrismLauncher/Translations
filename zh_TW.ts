@@ -5577,42 +5577,42 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>實例（&amp;I）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在檔案管理器中開啟實例資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>啟動器根資料夾（&amp;R）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">置中模組（&amp;C）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>實例圖示</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="590"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在檔案管理器中開啟實例圖示資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>記錄檔</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在檔案管理器中開啟實例記錄檔資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5627,32 +5627,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="748"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>小工具主題（&amp;W）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="751"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在檔案管理器中開啟小工具主題資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>圖示主題（&amp;I）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="763"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在檔案管理器中開啟圖示主題資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>貓包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="775"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在檔案管理器中開啟貓包資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
