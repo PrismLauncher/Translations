@@ -601,7 +601,7 @@ Burada yeniyseniz, &quot;Ekle&quot; düğmesine basarak Mojang veya Minecraft he
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Hoşgeldin!
-Eğer burada yeni isen, &quot;Microsoft Ekle&quot; butonu ile Microsoft hesabını ilişkilendirebilirsin</translation>
+Eğer burada yeni isen, &quot;Microsoft Ekle&quot; butonu ile Microsoft hesabını ilişkilendirebilirsin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="93"/>
@@ -3167,7 +3167,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
         <source>Install Loader</source>
-        <translation type="unfinished">yükleyici&apos;yi indir</translation>
+        <translation>Yükleyiciyi Kur</translation>
     </message>
 </context>
 <context>
@@ -3660,7 +3660,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bu artık aktif olmayan çevrimiçi servisleri emüle eder.&lt;/p&gt;&lt;p&gt;Bu şuan modern skinlerin kullanılmasını sağlıyor.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
@@ -3726,7 +3726,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Maksimum bellek değeriniz minimum değerden daha düşük</translation>
+        <translation>Maksimum bellek değeriniz minimum değerden daha küçük</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3983,7 +3983,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Maksimum bellek değeriniz minimum değerden daha düşük</translation>
+        <translation>Maksimum bellek değeriniz minimum değerden daha küçük</translation>
     </message>
 </context>
 <context>
@@ -4573,12 +4573,12 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Eşzamanlı görev sayısı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="225"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Eşzamanlı indirme sayısı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
@@ -5220,7 +5220,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Lütfen açılan tarayıcıda giriş yapın. Eğer tarayıcı açılmadıysa, tarayıcınızda %1 adresini açıp &lt;b&gt;%2&lt;/b&gt; kodu ile giriş işleminizi gerçekleştirin.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
