@@ -362,6 +362,14 @@
             "fuzzy" : 0,
             "untranslated" : 0
         },
+        "la" : {
+            "file" : "2ed6edd0ce1cf92bf894eb8ad708100d7cc4dcea.class",
+            "sha1" : "2ed6edd0ce1cf92bf894eb8ad708100d7cc4dcea",
+            "size" : 30,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 1832
+        },
         "lb" : {
             "file" : "bbf0c0daad56e977f32d0743e0285205b5a473d6.class",
             "sha1" : "bbf0c0daad56e977f32d0743e0285205b5a473d6",
