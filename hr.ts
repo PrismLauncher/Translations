@@ -7538,7 +7538,7 @@ Pažljivo odaberi svoje ime:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Molimo pričekajte...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
