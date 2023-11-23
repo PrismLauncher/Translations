@@ -396,19 +396,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Desconhecido</translation>
+        <translation>Desconhecido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
@@ -2179,24 +2179,26 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar exclusão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se você remover este recurso enquanto o jogo estiver em execução, ele poderá travar o jogo.
+Você tem certeza de que quer fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar desativação</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se você desativar este recurso enquanto o jogo estiver em execução, ele poderá travar o jogo.
+Você tem certeza de que quer fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
@@ -3899,7 +3901,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation>Forçar parada da instância</translation>
+        <translation>Encerre a instância em execução</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -4408,7 +4410,7 @@ Você gostaria de jogar o demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>Kill Minecraft?</source>
-        <translation>Forçar parada do Minecraft?</translation>
+        <translation>Encerrar Minecraft?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="428"/>
@@ -5525,7 +5527,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="348"/>
         <source>Kill the running instance.</source>
-        <translation>Mate a instância em execução.</translation>
+        <translation>Encerre a instância em execução.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="395"/>
@@ -5576,7 +5578,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="345"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Matar</translation>
+        <translation>&amp;Encerrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="333"/>
@@ -5653,12 +5655,12 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation>Abrir a pasta de instâncias em um explorador de arquivos.</translation>
+        <translation>Abra a pasta de instâncias em um explorador de arquivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Launcher &amp;Root</source>
-        <translation>Launcher &amp;Root</translation>
+        <translation>&amp;Raíz do Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
@@ -5673,7 +5675,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="590"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation>Abrir a pasta de Ícones de Instância em um explorador de arquivos.</translation>
+        <translation>Abra a pasta de ícones de instância em um explorador de arquivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
@@ -5683,7 +5685,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation>Abrir a pasta de logs em um explorador de arquivos.</translation>
+        <translation>Abra a pasta de logs em um explorador de arquivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5698,32 +5700,32 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="748"/>
         <source>&amp;Widget Themes</source>
-        <translation>&amp;Temas de Widget</translation>
+        <translation>&amp;Temas de Widgets</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="751"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation>Abrir a pasta de Temas de Widget em um explorador de arquivos.</translation>
+        <translation>Abra a pasta de temas de widgets em um explorador de arquivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished">T&amp;ema de Ícone</translation>
+        <translation>Tema de Í&amp;cones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="763"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation>Abrir a pasta de temas de ícone em um explorador de arquivos.</translation>
+        <translation>Abra a pasta de tema dos ícones em um explorador de arquivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Cat Packs</source>
-        <translation type="unfinished">Cat Packs</translation>
+        <translation>Pacotes de Gato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="775"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished">Open the cat packs folder in a file browser.</translation>
+        <translation>Abra a pasta pacotes de gato em um explorador de arquivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
@@ -7291,7 +7293,7 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <source>Check for Updates</source>
-        <translation>Procurar por Atualizações</translation>
+        <translation>Verifique se há atualizações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="96"/>
@@ -7308,7 +7310,7 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Tente atualizar e procurar por dependências ausentes em todos os mods selecionados (todos os mods se nenhum estiver selecionado)</translation>
+        <translation>Tente atualizar e verificar se há dependências ausentes em todos os mods selecionados (todos os mods, se nenhum estiver selecionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -7393,14 +7395,16 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar atualização</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
         <source>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se você atualizar mods enquanto o jogo estiver em execução, poderá causar duplicação de mods e travamentos do jogo.
+Os arquivos antigos não podem ser excluídos porque estão em uso.
+Você tem certeza de que quer fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
@@ -7437,13 +7441,14 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar exclusão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se você remover mods enquanto o jogo estiver em execução, ele poderá travar.
+Você tem certeza de que quer fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
@@ -10396,13 +10401,14 @@ Aviso: Este recurso tem links físicos para outro lugar. Sua edição também al
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar alternância</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se você ativar/desativar este recurso enquanto o jogo estiver em execução, ele poderá travar o jogo.
+Você tem certeza de que quer fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="495"/>
