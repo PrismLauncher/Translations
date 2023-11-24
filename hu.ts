@@ -388,19 +388,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Ismeretlen</translation>
+        <translation>Ismeretlen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
@@ -2163,24 +2163,26 @@ biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Törlés jóváhagyása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha eltávolítod ezt az erőforrást, miközben a játék fut, a játék összeomolhat.
+Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Letiltást megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha letiltja ezt az erőforrást, miközben a játék fut, a játék összeomolhat.
+Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
@@ -5576,7 +5578,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Launcher &amp;Root</source>
-        <translation>Launcher &amp;Root</translation>
+        <translation>Launcher Gyöké&amp;r</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
@@ -5586,7 +5588,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
         <source>Instance Icons</source>
-        <translation>Példány ikonok</translation>
+        <translation>Példányikonok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="590"/>
@@ -7272,14 +7274,16 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítés megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
         <source>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha a játék futása közben frissíti a modokat, az modduplikációt és a játék összeomlását okozhatja.
+A régi fájlokat nem lehet törölni, mivel használatban vannak.
+Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
@@ -7316,13 +7320,14 @@ biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Törlés megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha a játék futása közben eltávolítja a modokat, akkor a játék összeomolhat.
+Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
@@ -10241,13 +10246,14 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Váltás megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha engedélyezi/letiltja ezt az erőforrást, miközben a játék fut, a játék összeomolhat.
+Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="495"/>
