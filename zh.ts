@@ -396,19 +396,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>微软账号</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">离线</translation>
+        <translation>离线</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
@@ -2179,24 +2179,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>确认删除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>在游戏运行时删除此资源，游戏可能会崩溃。
+
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>确认禁用</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>在游戏运行时禁用此资源，游戏可能会崩溃。
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
@@ -5630,42 +5633,42 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>实例(&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件管理器中打开实例文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>启动器根(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>共享模组文件夹(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>实例图标</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="590"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件管理器中打开实例图标文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>日志</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件管理器中打开实例日志文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5680,32 +5683,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="748"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>控件主题(&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="751"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件管理器中打开控件主题文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>图标主题(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="763"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件管理器中打开图标主题文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>猫主题</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="775"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件管理器中打开猫主题文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
@@ -7266,7 +7269,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>检查更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="96"/>
@@ -7278,17 +7281,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>检验前置模组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试更新并检查选定的模组（默认全选）是否缺少前置模组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>重置更新元数据</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="120"/>
@@ -7368,14 +7371,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>确认更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
         <source>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>在游戏运行时更新模组，可能会导致模组重复或游戏崩溃。
+由于游戏正在使用旧版本的模组，他们可能不会被删除。
+
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
@@ -7412,13 +7418,15 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>确认删除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>在游戏运行时删除模组，游戏可能会崩溃。
+
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
@@ -10357,13 +10365,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>确认启用/禁用</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>在游戏运行时启用或禁用此资源，游戏可能会崩溃。
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="495"/>
@@ -11469,7 +11478,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="154"/>
         <source>View cat packs folder.</source>
-        <translation>查看猫猫文件夹。</translation>
+        <translation>查看猫主题文件夹。</translation>
     </message>
 </context>
 <context>
