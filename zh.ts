@@ -2509,7 +2509,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="115"/>
         <source> (version %1)</source>
-        <translation> （版本 %1）</translation>
+        <translation> （%1 版本）</translation>
     </message>
     <message>
         <source>Similar modpack was found!</source>
@@ -3653,12 +3653,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="474"/>
         <source>Use system installation of GLFW</source>
-        <translation>使用系统中的 GLFW</translation>
+        <translation>使用系统 GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
         <source>Use system installation of OpenAL</source>
-        <translation>使用系统中的 OpenAL</translation>
+        <translation>使用系统 OpenAL</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4553,7 +4553,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>停用模组托管平台（如 Modrinth 和 Curseforge）提供的模组元数据。</translation>
+        <translation>停用模组托管平台（如 Modrinth 和 CurseForge）提供的模组元数据。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
@@ -6791,13 +6791,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
         <source>Native library workarounds</source>
-        <translation>系统中的运行库</translation>
+        <translation>系统运行库</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>使用系统中的 GLFW(&amp;G)</translation>
+        <translation>使用系统 GLFW(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="235"/>
@@ -6808,7 +6808,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>使用系统中的 OpenAL(&amp;O)</translation>
+        <translation>使用系统 OpenAL(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="252"/>
@@ -8507,7 +8507,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="153"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation>文件（%1）太大了。您可能需要用一个为大文件优化过的查看器打开。</translation>
+        <translation>文件（%1）过大。需要用为大文件优化过的查看器打开。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
@@ -8678,12 +8678,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation>由于驱逐（eviction）导致未命中像素图缓存发生过快，在该高速缓存大小达到其限制时，不执行任何操作</translation>
+        <translation>由于过于频繁的驱逐（eviction）导致无法命中 PixMap 缓存，在缓存达到容量限制时不执行任何操作</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation>由于驱逐（eviction）导致未命中像素图缓存发生过快，在该高速缓存大小达到其限制时，将缓存大小调整为</translation>
+        <translation>由于过于频繁的驱逐（eviction）导致无法命中 PixMap 缓存，在缓存达到容量限制时，将其大小增至</translation>
     </message>
 </context>
 <context>
@@ -8904,7 +8904,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>更新程序正在配置错误的 AppImage 中运行？（缺少 $APPIMAGE 环境变量）</translation>
+        <translation>更新程序正在配置错误的 AppImage 中运行？（缺少环境变量“APPIMAGE”）</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
@@ -9342,7 +9342,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation>使用您系统中的默认代理设置。</translation>
+        <translation>使用系统默认代理设置。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -9553,7 +9553,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation>该版本（%1）的“minimumLauncherVersion”（最小启动器版本）比 %3 支持的版本（%2）高。可能无法正常工作！</translation>
+        <translation>该版本（%1）的“minimumLauncherVersion”值（最小启动器版本）比 %3 支持的版本（%2）高。可能无法正常工作！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
@@ -9632,7 +9632,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="360"/>
         <source>No profile (%1)</source>
-        <translation>没有档案（%1）</translation>
+        <translation>无档案（%1）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="370"/>
@@ -9728,7 +9728,7 @@ There are dedicated boxes for these in the settings (Java tab, in the Memory gro
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>您正在尝试手动设置 JVM 内存选项（使用“-XX:PermSize”，-XX-MaxHeapSize&quot;， &quot;-XX:InitialHeapSize&quot;，“-Xmx”或“-Xms”选项）。
 这些选项已包含在设置（“Java”栏，顶端的“内存”分组）中，您无需手动设置。
-此信息将一直显示，直到您删除这些 JVM 参数。</translation>
+此信息将一直显示，除非删除这些参数。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
@@ -9741,7 +9741,7 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
         <translation>您试图通过 JVM 参数指定所需的 Java 版本（使用“-version=xxx”），这并不安全也不被允许。
-此信息将一直显示，直到您删除这些 JVM 参数。</translation>
+此信息将一直显示，除非删除这些参数。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="69"/>
@@ -9848,7 +9848,7 @@ New name: %2</source>
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
         <translation>您拥有一个或多个来自此整合包（%1）的实例。您想创建一个独立的实例，还是更新现有的实例？
 
-注意：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会（由于整合包的覆盖）损坏或遗失。</translation>
+注意：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会损坏或遗失（由于整合包会覆盖）。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
@@ -10464,7 +10464,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="155"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>是否启用该资源包？（仅对 Zip 文件有效）</translation>
+        <translation>是否启用该资源包？（仅对 .zip 文件有效）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="157"/>
@@ -12598,7 +12598,7 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Select a Minecraft world zip</source>
-        <translation>选择 Minecraft 世界压缩包（.zip 文件）</translation>
+        <translation>选择 Minecraft 存档（.zip 文件）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
