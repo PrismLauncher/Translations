@@ -3,12 +3,12 @@
     "version" : 2,
     "languages" : {
         "ar" : {
-            "file" : "ee80a27fec9f91873cea882252c8d5799e44fa97.class",
-            "sha1" : "ee80a27fec9f91873cea882252c8d5799e44fa97",
-            "size" : 108752,
+            "file" : "d8922c4e9aaafb73861c8f3d7a892dc35adfec7c.class",
+            "sha1" : "d8922c4e9aaafb73861c8f3d7a892dc35adfec7c",
+            "size" : 108822,
             "translated" : 721,
-            "fuzzy" : 179,
-            "untranslated" : 945
+            "fuzzy" : 180,
+            "untranslated" : 944
         },
         "ast" : {
             "file" : "828e8ef09ae6c4f34609e0c65f4af9740c65231d.class",
@@ -307,12 +307,12 @@
             "untranslated" : 1709
         },
         "id" : {
-            "file" : "6d12cd96f00bc6b74c21c33e76f597314911b809.class",
-            "sha1" : "6d12cd96f00bc6b74c21c33e76f597314911b809",
-            "size" : 265542,
-            "translated" : 1746,
-            "fuzzy" : 88,
-            "untranslated" : 11
+            "file" : "ac5d4e4aabd2b7c7b6e890b08504683489b40da3.class",
+            "sha1" : "ac5d4e4aabd2b7c7b6e890b08504683489b40da3",
+            "size" : 268519,
+            "translated" : 1772,
+            "fuzzy" : 73,
+            "untranslated" : 0
         },
         "is" : {
             "file" : "65a1fc75dc223023ed9f46c124ef96a2e70179b0.class",
@@ -539,12 +539,12 @@
             "untranslated" : 1805
         },
         "sk" : {
-            "file" : "edfc86a224dc4920fd3220cc2951ce9cf5a0d5b6.class",
-            "sha1" : "edfc86a224dc4920fd3220cc2951ce9cf5a0d5b6",
-            "size" : 131215,
+            "file" : "2daef3876033ae7feeac78f6b81aad704df44b68.class",
+            "sha1" : "2daef3876033ae7feeac78f6b81aad704df44b68",
+            "size" : 133394,
             "translated" : 849,
-            "fuzzy" : 163,
-            "untranslated" : 833
+            "fuzzy" : 178,
+            "untranslated" : 818
         },
         "sl" : {
             "file" : "ab3d62536d197ad9398599f079f185e20325a4a5.class",
