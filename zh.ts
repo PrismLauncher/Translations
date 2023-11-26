@@ -98,7 +98,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="329"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>在此处输入自定义用户代理。特殊字符串 $LAUNCHER_VER 将替换为启动器版本。</translation>
+        <translation>在此处输入自定义用户代理。可用特殊字符串 $LAUNCHER_VER 代替启动器版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -4675,7 +4675,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="321"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>用菜单栏替换工具栏(&amp;R)</translation>
+        <translation>用菜单栏代替工具栏(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
@@ -5777,7 +5777,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="482"/>
         <source>CurseForge (zip)</source>
-        <translation>CurseForge (.zip)</translation>
+        <translation>CurseForge（.zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="491"/>
@@ -11893,7 +11893,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Replace Minecraft.jar</source>
-        <translation>替换 Minecraft.jar</translation>
+        <translation>替换 Minecraft.jar 文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
@@ -12116,7 +12116,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="317"/>
         <source>Minecraft.jar replacement (*.jar)</source>
-        <translation>用于替换的 Minecraft.jar(*.jar)</translation>
+        <translation>用于替换的 Minecraft.jar 文件（*.jar）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
