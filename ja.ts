@@ -2239,7 +2239,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
@@ -3645,7 +3645,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">最大メモリ割り当て量が最小メモリ割り当て量を下回っています。</translation>
+        <translation>最大メモリ割り当て量が最小メモリ割り当て量を下回っています</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4411,7 +4411,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します&#x3000;(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
+        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します　(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -5046,7 +5046,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="476"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished">%1 を読み取って圧縮できませんでした。</translation>
+        <translation>%1 を読み取って圧縮できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="482"/>
@@ -5069,7 +5069,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;開かれたブラウザでログインしてください。ブラウザが開かれない場合は、ブラウザで %1 を開き、コード&lt;b&gt; %2 &lt;/b&gt;を入力しログインを続行してください。</translation>
+        <translation>&lt;p&gt;開かれたブラウザでログインしてください。ブラウザが開かれない場合は、ブラウザで %1 を開き、コード&lt;b&gt; %2 &lt;/b&gt;を入力しログインを続行してください。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -8196,14 +8196,14 @@ Error message: %3</source>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation type="unfinished">5秒経過しても起動できませんでした。
-理由: %1</translation>
+理由: %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="140"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation type="unfinished">アップデーターが60秒間終了できませんでした。
-理由: %1</translation>
+理由: %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
@@ -8572,7 +8572,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1154"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished">%1 を削除するのに失敗しました。</translation>
+        <translation>%1 を削除するのに失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1189"/>
@@ -8585,7 +8585,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1191"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1193"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished">%1 を %2に展開できませんでした。</translation>
+        <translation>%1 を %2に展開できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
