@@ -610,7 +610,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="61"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished">いらっしゃい！
+        <translation>いらっしゃい！
 初めての方は、&quot;Microsoftアカウントを追加&quot;ボタンを押してMicrosoftアカウントをリンクしてください。</translation>
     </message>
     <message>
