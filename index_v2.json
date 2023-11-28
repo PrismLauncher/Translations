@@ -331,11 +331,11 @@
             "untranslated" : 175
         },
         "ja" : {
-            "file" : "27ba1c5c949331b967168bd8c93446f2df32a827.class",
-            "sha1" : "27ba1c5c949331b967168bd8c93446f2df32a827",
-            "size" : 198357,
-            "translated" : 1583,
-            "fuzzy" : 178,
+            "file" : "4410ef2ee19414c77aa3438ac63d0cfdd5cc86e5.class",
+            "sha1" : "4410ef2ee19414c77aa3438ac63d0cfdd5cc86e5",
+            "size" : 198355,
+            "translated" : 1585,
+            "fuzzy" : 176,
             "untranslated" : 84
         },
         "ja_KANJI" : {
