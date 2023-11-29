@@ -101,7 +101,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Kamu dapat menyetel ini ke server metadata pihak ketiga untuk menggunakan pustaka yang dipatch atau peretasan lainnya.</translation>
+        <translation>Anda dapat menyetel ini ke server metadata pihak ketiga untuk menggunakan pustaka yang dipatch atau peretasan lainnya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -813,12 +813,14 @@ untuk detail.</translation>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori /tmp Anda saat ini terpasang dengan flag &apos;noexec&apos; aktif.
+Beberapa versi Minecraft mungkin tidak dapat dijalankan.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasi sistem tidak kompatibel</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1352"/>
@@ -828,17 +830,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1750"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Data lama dari %1 telah ditemukan, tetapi kamu punya data yang sudah ada untuk %2. Sayangnya, Anda harus bermigrasi sendiri. Apakah kamu ingin diingatkan tentang data migrasi yang tertunda saat kamu membuka ulang %2?</translation>
+        <translation>Data lama dari %1 telah ditemukan, tetapi Anda punya data yang sudah ada untuk %2. Sayangnya, Anda harus bermigrasi sendiri. Apakah Anda ingin diingatkan tentang data migrasi yang tertunda saat Anda membuka ulang %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1754"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>Sepertinya kamu sudah menggunakan %1 sebelumnya. Apakah Anda ingin memigrasikan data anda ke lokasi baru %2?</translation>
+        <translation>Sepertinya Anda sudah menggunakan %1 sebelumnya. Apakah Anda ingin memigrasikan data anda ke lokasi baru %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1760"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Sepertinya kamu sudah menggunakan %1 dengan %2 sebelumnya. Apakah anda ingin memigrasikan data ke lokasi baru %3?</translation>
+        <translation>Sepertinya Anda sudah menggunakan %1 dengan %2 sebelumnya. Apakah anda ingin memigrasikan data ke lokasi baru %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1803"/>
@@ -940,17 +942,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Select a share code</source>
-        <translation>Pilih kode berbagi</translation>
+        <translation>Pilih kode bagi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Share code:</source>
-        <translation>Kode berbagi:</translation>
+        <translation>Kode bagi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="352"/>
         <source>No share code specified!</source>
-        <translation>Tidak ada kode berbagi yang ditemukan!</translation>
+        <translation>Tidak ada kode bagi yang ditemukan!</translation>
     </message>
 </context>
 <context>
@@ -1104,7 +1106,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Konfigurasi mod global kamu dan folder unduhan baku telah dicek secara otomatis untuk mod yang diunduh dan akan disalin kepada instansi jika ditemukan&lt;/p&gt;&lt;p&gt;Secara optional, kamu bisa menarik dan melepas mod yang telah diunduh ke dialog atau tambahkan folder untuk melihat jika kamu tidak mengunduh mod tersebut di lokasi baku.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Konfigurasi mod global Anda dan folder unduhan baku telah dicek secara otomatis untuk mod yang diunduh dan akan disalin kepada instansi jika ditemukan&lt;/p&gt;&lt;p&gt;Secara optional, Anda bisa menarik dan melepas mod yang telah diunduh ke dialog atau tambahkan folder untuk melihat jika Anda tidak mengunduh mod tersebut di lokasi baku.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1366,7 +1368,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>Sistem file dan/atau sistem operasi kamu tidak mendukung reflink</translation>
+        <translation>Sistem file dan/atau sistem operasi Anda tidak mendukung reflink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -2597,7 +2599,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="395"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Halo!&lt;/h1&gt;&lt;h4&gt;Sepertinya ID Paket Anda null. Ini dikarenakan terdapat sebuah bug dalam versi-versi lebih lama peluncur.&lt;br/&gt;Sayang sekali, kami tidak dapat melakukan permintaan API yang seharusnya tanpa informasi ini.&lt;br/&gt;&lt;br/&gt;Jadi, agar fitur ini dapat bekerja, Anda harus mengunduh ulang modpack dari pengunduh terpasang. &lt;br/&gt;&lt;br/&gt;Jangan khawatir, Anda akan diminta untuk memperbarui instansi ini sebaliknya, agar kamu tidak akan kehilangan instansi ini!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Halo!&lt;/h1&gt;&lt;h4&gt;Sepertinya ID Paket Anda null. Ini dikarenakan terdapat sebuah bug dalam versi-versi lebih lama peluncur.&lt;br/&gt;Sayang sekali, kami tidak dapat melakukan permintaan API yang seharusnya tanpa informasi ini.&lt;br/&gt;&lt;br/&gt;Jadi, agar fitur ini dapat bekerja, Anda harus mengunduh ulang modpack dari pengunduh terpasang. &lt;br/&gt;&lt;br/&gt;Jangan khawatir, Anda akan diminta untuk memperbarui instansi ini sebaliknya, agar Anda tidak akan kehilangan instansi ini!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="457"/>
@@ -3597,12 +3599,12 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
         <source>Show time spent playing this instance</source>
-        <translation>Tunjukkan waktu bermain di instansi ini</translation>
+        <translation>Tampilkan waktu main instansi ini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="643"/>
         <source>Record time spent playing this instance</source>
-        <translation>Rekam waktu bermain di instansi ini</translation>
+        <translation>Rekam waktu main instansi ini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
@@ -4155,7 +4157,7 @@ Apakah Anda ingin memainkan demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="275"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Akun ini tidak ada lagi di server. Akun tersebut mungkit telah dimigrasi, dalam kasus ini, tolong tambahkan akun baru kamu migrasi ini ke.</translation>
+        <translation>Akun ini tidak lagi ada di server. Akun tersebut mungkin telah dimigrasikan, dalam kasus ini mohon tambahkan akun baru yang Anda migrasikan ke.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="277"/>
@@ -5708,7 +5710,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="398"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Ubah pengaturan instansi, mods dan versi.</translation>
+        <translation>Ubah pengaturan instansi, mod, dan versi.</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -5945,7 +5947,7 @@ Mohon menambahkan akun Microsoft Anda.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1304"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 sukses ditambahkan ke PATH kamu. Kamu sekarang dapat memulainya dengan menjalankan `%2`.</translation>
+        <translation>%1 sukses ditambahkan ke PATH Anda. Anda sekarang dapat memulainya dengan menjalankan `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
@@ -6109,7 +6111,7 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1739"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Terdapat &apos;Rar$&apos; di folder Instansi Anda - yang berarti kamu belum mengekstraksi arsip launcher!</translation>
+        <translation>Terdapat &apos;Rar$&apos; di folder Instansi Anda - yang berarti Anda belum mengekstraksi arsip launcher!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1745"/>
@@ -7424,7 +7426,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="288"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Saat ini)</translation>
+        <translation>%1 (Sekarang)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="300"/>
@@ -7533,7 +7535,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="283"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Masalah: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Masalah-masalah: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="285"/>
@@ -7564,7 +7566,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="262"/>
         <source> by </source>
-        <translation type="unfinished"> oleh </translation>
+        <translation> oleh </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="64"/>
@@ -9034,7 +9036,7 @@ Kembalikan ke versi sebelumnya?</translation>
         <location filename="src/launcher/MMCTime.cpp" line="34"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%1m %2d</translation>
+        <translation>%1 menit %2 detik</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
@@ -9194,7 +9196,7 @@ Nama baru: %2</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished">Modpack serupa ditemukan!</translation>
+        <translation>Modpack serupa telah ditemukan!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
@@ -9203,7 +9205,7 @@ Nama baru: %2</translation>
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
         <translation>Satu atau lebih instansimu berasal dari modpack yang sama%1. Apakah Anda ingin membuat instansi terpisah, atau memperbarui yang sudah ada?
 
-CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, karena dunia-dunia dapat terkorupsi dan beberapa konfigurasi dapat hilang (dikarenakan penimpaan paket).</translation>
+CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, karena dunia-dunia dapat terkorupsi dan beberapa konfigurasi dapat hilang (dikarenakan penimpaan paket).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
@@ -9213,12 +9215,12 @@ CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>Create new instance</source>
-        <translation type="unfinished">Buat instance baru</translation>
+        <translation>Buat instansi baru</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batalkan</translation>
     </message>
     <message>
         <source>Simple (Colored Icons)</source>
@@ -9302,12 +9304,12 @@ CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Urutkan berdasarkan unggulan</translation>
+        <translation>Berdasarkan Difiturkan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Urutkan berdasarkan popularitas</translation>
+        <translation>Berdasarkan Popularitas</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
@@ -9329,7 +9331,7 @@ CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, kar
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">Urutkan berdasarkan Unduhan</translation>
+        <translation>Berdasarkan Unduhan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
@@ -9339,22 +9341,22 @@ CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Urutkan berdasarkan versi game</translation>
+        <translation>Berdasarkan Versi Permainan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">Urutkan sesuai Relevansi</translation>
+        <translation>Berdasarkan Relevansi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">Urutkan sesuai Jumlah Pengikut</translation>
+        <translation>Berdasarkan Jumlah Pengikut</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished">Urutkan berdasarkan Terbaru</translation>
+        <translation>Berdasarkan Terbaru</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
@@ -9483,7 +9485,7 @@ CATATAN: Pastikan kamu telah membackup instansi penting sebelum memperbarui, kar
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="442"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished">Versi API terlalu lama!
+        <translation>Versi API terlalu lama!
 Mohon perbarui %1!</translation>
     </message>
 </context>
@@ -9528,7 +9530,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
         <source> by </source>
-        <translation type="unfinished"> oleh </translation>
+        <translation> oleh </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="204"/>
@@ -9861,7 +9863,7 @@ Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versi yang dipilih:</translation>
+        <translation>Versi terpilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
@@ -10244,7 +10246,7 @@ This is permanent and the server will be gone from your list forever (A LONG TIM
 
 Are you sure?</source>
         <translation>Anda akan menghapus &quot;%1&quot;.
-Hal ini permanen dan server akan menghilang dari daftar kamu selamanya (SANGAT LAMA).
+Hal ini permanen dan server akan menghilang dari daftar Anda selamanya (SANGAT LAMA).
 
 Apakah Anda yakin?</translation>
     </message>
@@ -10643,7 +10645,7 @@ inheritsFrom hilang</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Image</source>
-        <translation type="unfinished">Gambar</translation>
+        <translation>Gambar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
@@ -11235,7 +11237,7 @@ Mohon berganti ke salah satu versi Java berikut untuk instansi ini:</translation
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation type="unfinished">Pasang Pemuat</translation>
+        <translation>Pasang Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
@@ -11335,7 +11337,7 @@ Mohon berganti ke salah satu versi Java berikut untuk instansi ini:</translation
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="278"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Konfirmasi Penghapusan</translation>
+        <translation>Konfirmasi Hapus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="279"/>
