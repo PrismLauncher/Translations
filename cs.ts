@@ -812,12 +812,14 @@ Pro podrobnosti se můžete podívat na protokol aktualizačního programu zde:
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Váš adresář /tmp je momentálně připojen s povolenou vlajkou „noexec“.
+Některé verze Minecraftu se nemusí spustit.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nekompatibilní konfigurace systémmu</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1352"/>
