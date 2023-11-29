@@ -706,12 +706,12 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="745"/>
+        <location filename="src/launcher/Application.cpp" line="754"/>
         <source>Settings</source>
         <translation>Pagsasaayos</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="897"/>
+        <location filename="src/launcher/Application.cpp" line="906"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -738,12 +738,12 @@ para sa detalye ng huling update attempt.
 Para i-delete ang lock na ito at mag-patuloy, I-select ang &quot;Ignore&quot; sa baba.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="914"/>
+        <location filename="src/launcher/Application.cpp" line="923"/>
         <source>Update In Progress</source>
         <translation>Nag-uupdate</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="939"/>
+        <location filename="src/launcher/Application.cpp" line="948"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -758,12 +758,12 @@ Tingnan ang updater log ng Prism Launcher sa:
 para sa detalye ng huling update attempt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="947"/>
+        <location filename="src/launcher/Application.cpp" line="956"/>
         <source>Update Failed</source>
         <translation>Nabigo ang update</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="972"/>
+        <location filename="src/launcher/Application.cpp" line="981"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -778,32 +778,44 @@ Tingnan ang updater log ng Prism Launcher sa:
 para sa detalye ng update.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="980"/>
+        <location filename="src/launcher/Application.cpp" line="989"/>
         <source>Update Succeeded</source>
         <translation>Matagumpay ang pag-update</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1312"/>
+        <location filename="src/launcher/Application.cpp" line="1020"/>
+        <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
+Some versions of Minecraft may not launch.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="1022"/>
+        <source>Incompatible system configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="1352"/>
         <source>Aborted</source>
         <translation>Pinigil</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1710"/>
+        <location filename="src/launcher/Application.cpp" line="1750"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>May nakitang lumang data mula sa %1, ngunit mayroon ka nang data para sa %2. Sa kasawiangpalad, kakailanganin mong ilipat ito ng sarili mo. Nais mo bang mapaalalahanan nang nakabinbing paglipat ng data sa susunod na magsimula ka sa %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1714"/>
+        <location filename="src/launcher/Application.cpp" line="1754"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Mukhang ginamit mo na ang %1 noon. Nais mo bang ilipat ang iyong data sa bagong lokasyon ng %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1720"/>
+        <location filename="src/launcher/Application.cpp" line="1760"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Mukhang ginamit mo na ang %1 sa %2 noon. Nais mo bang ilipat ang iyong data sa bagong lokasyon ng %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1763"/>
+        <location filename="src/launcher/Application.cpp" line="1803"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Nabigo ang pag lipat! Dahilan: %1</translation>
     </message>

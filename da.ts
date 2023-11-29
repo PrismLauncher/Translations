@@ -740,12 +740,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="745"/>
+        <location filename="src/launcher/Application.cpp" line="754"/>
         <source>Settings</source>
         <translation>Indstillinger</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="897"/>
+        <location filename="src/launcher/Application.cpp" line="906"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -761,12 +761,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="914"/>
+        <location filename="src/launcher/Application.cpp" line="923"/>
         <source>Update In Progress</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="939"/>
+        <location filename="src/launcher/Application.cpp" line="948"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -776,12 +776,12 @@ for details on the last update attempt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="947"/>
+        <location filename="src/launcher/Application.cpp" line="956"/>
         <source>Update Failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="972"/>
+        <location filename="src/launcher/Application.cpp" line="981"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -791,32 +791,44 @@ for details.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="980"/>
+        <location filename="src/launcher/Application.cpp" line="989"/>
         <source>Update Succeeded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1312"/>
+        <location filename="src/launcher/Application.cpp" line="1020"/>
+        <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
+Some versions of Minecraft may not launch.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="1022"/>
+        <source>Incompatible system configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="1352"/>
         <source>Aborted</source>
         <translation>Afbrudt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1710"/>
+        <location filename="src/launcher/Application.cpp" line="1750"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished">Gammel data fundet fra %1, hvor du har eksisterende data for %2. Dette kræver du migrerer på egen hånd. Vil du blive husket på om den pågående data migration næste gang du starter %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1714"/>
+        <location filename="src/launcher/Application.cpp" line="1754"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1720"/>
+        <location filename="src/launcher/Application.cpp" line="1760"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Det ser ud som du tidligere brugt %1 på %2. Vil du migrere din data til det nye sted %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1763"/>
+        <location filename="src/launcher/Application.cpp" line="1803"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration mislykket! Årsag: %1</translation>
     </message>

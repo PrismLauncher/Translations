@@ -752,12 +752,12 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="745"/>
+        <location filename="src/launcher/Application.cpp" line="754"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="897"/>
+        <location filename="src/launcher/Application.cpp" line="906"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -784,12 +784,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 点击下面的“忽略”按钮可以删除此锁定文件并继续。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="914"/>
+        <location filename="src/launcher/Application.cpp" line="923"/>
         <source>Update In Progress</source>
         <translation>更新中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="939"/>
+        <location filename="src/launcher/Application.cpp" line="948"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -804,12 +804,12 @@ for details on the last update attempt.</source>
 了解上次更新尝试的详情。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="947"/>
+        <location filename="src/launcher/Application.cpp" line="956"/>
         <source>Update Failed</source>
         <translation>更新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="972"/>
+        <location filename="src/launcher/Application.cpp" line="981"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -824,32 +824,44 @@ for details.</source>
 查看详情。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="980"/>
+        <location filename="src/launcher/Application.cpp" line="989"/>
         <source>Update Succeeded</source>
         <translation>更新成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1312"/>
+        <location filename="src/launcher/Application.cpp" line="1020"/>
+        <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
+Some versions of Minecraft may not launch.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="1022"/>
+        <source>Incompatible system configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="1352"/>
         <source>Aborted</source>
         <translation>已终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1710"/>
+        <location filename="src/launcher/Application.cpp" line="1750"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>找到了来自 %1 的旧数据，但正在使用 %2 的现存数据，因此您只能自己进行迁移。是否需要在下次启动 %2 时再次提醒有待处理的数据迁移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1714"/>
+        <location filename="src/launcher/Application.cpp" line="1754"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>您似乎曾经使用过 %1。是否需要将您那时的数据迁移到 %2 使用的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1720"/>
+        <location filename="src/launcher/Application.cpp" line="1760"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>您似乎曾经在 %2 上用过 %1。是否需要将您那时的数据迁移到 %3 使用的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1763"/>
+        <location filename="src/launcher/Application.cpp" line="1803"/>
         <source>Migration failed! Reason: %1</source>
         <translation>迁移失败！原因：%1</translation>
     </message>
