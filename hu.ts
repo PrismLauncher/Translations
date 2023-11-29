@@ -817,12 +817,14 @@ további részletekért.</translation>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>A /tmp könyvtár jelenleg úgy van csatlakoztatva, hogy a „noexec” jelző engedélyezve van.
+Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem kompatibilis rendszerkonfiguráció</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1352"/>
