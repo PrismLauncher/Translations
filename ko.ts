@@ -825,12 +825,14 @@ for details.</source>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>당신의 /tmp 디렉토리가 &apos;noexec&apos; 플래그가 활성화된 상태로 마운트되었습니다.
+마인크래프트의 일부 버전이 실행되지 않을 수 있습니다.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>호환되지 않는 시스템 구성</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1352"/>
