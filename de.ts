@@ -410,13 +410,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
@@ -846,7 +846,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkompatible System Konfiguration</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1352"/>
@@ -2199,7 +2199,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestätige die Löschung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
@@ -2210,7 +2210,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestätige die Deaktivierung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
@@ -5670,12 +5670,12 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instanzen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Öffne den Instanzen Order im Dateien Finder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
@@ -5685,12 +5685,12 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zentrale Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanzen Symbole</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="590"/>
