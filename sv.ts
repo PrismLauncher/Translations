@@ -813,12 +813,14 @@ för detaljer.</translation>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Din /tmp-katalog är för närvarande monterad med &apos;noexec&apos;-flaggan aktiverad.
+Vissa versioner av Minecraft kanske inte startar.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkompatibel systemkonfiguration</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1352"/>
