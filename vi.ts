@@ -231,7 +231,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Đã tìm thấy các mod bị chặn</translation>
+        <translation>Đã tìm thấy các mod bị chặn</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">Đã xong %1 từ %2</translation>
+        <translation>Đã xong %1 từ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
@@ -4509,7 +4509,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="357"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Hiện bảng console khi trò chơi đang chạy?</translation>
+        <translation>Hiện bảng console khi trò chơi đang chạy (&amp;R)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="364"/>
@@ -4521,7 +4521,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">Mở console khi game bị crash?</translation>
+        <translation>Mở console khi game gặp phải sự cố (&amp;C)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
@@ -6379,7 +6379,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished">Bắt đầu với tối đa hóa Minecraft?</translation>
+        <translation>Bắt đầu với tối đa hóa (&amp;M) Minecraft?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
