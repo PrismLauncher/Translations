@@ -63,7 +63,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>在此处输入您在微软身份验证中得到的客户端 ID。</translation>
+        <translation>在此处输入用于进行微软身份验证的客户端 ID。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="329"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>在此处输入自定义用户代理。可用特殊字符串 $LAUNCHER_VER 代替启动器版本。</translation>
+        <translation>在此处输入自定义用户代理（UA）。此处的 $LAUNCHER_VER 将会被替换为启动器的版本号。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -134,7 +134,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>在此处输入您自己的 CurseForge API 密钥。</translation>
+        <translation>在此处输入您的 CurseForge API 密钥。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
@@ -678,7 +678,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="159"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>请输入您要添加的的离线用户的用户名。</translation>
+        <translation>请输入您要添加的离线用户的用户名。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
@@ -698,7 +698,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
         <source>Failed to delete current skin!</source>
-        <translation>未能删除当前皮肤！</translation>
+        <translation>无法删除当前皮肤！</translation>
     </message>
 </context>
 <context>
@@ -776,12 +776,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 从版本 %3 更新到 %4
 安装目标路径：%5
 数据路径：%6
-可能是上次尝试更新失败。我们不能确保您的这次安装可以正常工作。
-检查 Prism Launcher 更新程序日志： 
+这种情况有很大可能是上次更新失败过，请先确保该启动器安装是正常的再尝试继续。
+查看 Prism Launcher 更新安装日志文件： 
 %7
-以获取有关上次更新尝试的详细信息。
+以获取有关上次更新的详细信息。
 
-点击下面的“忽略”按钮可以删除此锁定文件并继续。</translation>
+点击下面的“忽略”按钮以删除此锁定文件并继续。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="923"/>
@@ -796,12 +796,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation>更新尝试失败
+        <translation>更新失败
 
-请在继续操作前确保您的设备处于正常工作状态。
-查看 Prism Launcher 更新日志，请访问：
+继续前，请先确保启动器工作正常。
+查看 Prism Launcher 更新安装日志：
 %1
-了解上次更新尝试的详情。</translation>
+了解上次更新的详情。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="956"/>
@@ -833,12 +833,14 @@ for details.</source>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>你的 /tmp 目录现在被以 noexec 的状态挂载。
+某些 Minecraft 版本可能无法启动。
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>系统配置不兼容</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1352"/>
@@ -848,7 +850,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1750"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>找到了来自 %1 的旧数据，但正在使用 %2 的现存数据，因此您只能自己进行迁移。是否需要在下次启动 %2 时再次提醒有待处理的数据迁移？</translation>
+        <translation>找到了来自 %1 的旧数据，但因在 %2 还有现存数据，因此您只能自行迁移旧数据。是否需要在下次启动 %2 时再次提醒需要进行数据迁移？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1754"/>
@@ -3858,7 +3860,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation>控制台窗口 </translation>
+        <translation>控制台窗口 - </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
@@ -10204,7 +10206,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="247"/>
         <source>Select %1 for download</source>
-        <translation>选择要下载的 %1</translation>
+        <translation>选择要下载的%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
@@ -10244,7 +10246,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="249"/>
         <source>Deselect %1 for download</source>
-        <translation>取消选择要下载的 %1</translation>
+        <translation>取消选择要下载的%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
