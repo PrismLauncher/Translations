@@ -12150,7 +12150,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>一些组件不能被导入。检查日志以了解详情</translation>
+        <translation>某些组件导入失败。查看日志以了解详情</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="342"/>
@@ -12337,7 +12337,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>Release date of this version</source>
-        <translation>本版本的发行日期</translation>
+        <translation>本版本的发布日期</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="158"/>
@@ -12420,7 +12420,7 @@ This world is hard linked elsewhere.</source>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>警告：这个世界被符号链接链接到了其他地方。如果修改也会同步修改原位置的存档。
-规范路径：%1</translation>
+符号链接到的路径：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
@@ -12529,7 +12529,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
         <source>View Folder</source>
-        <translation>查看文件夹</translation>
+        <translation>打开文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
@@ -12578,7 +12578,7 @@ Do you want to continue?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
         <source>Open World Datapacks Folder</source>
-        <translation>打开 World Datapacks 文件夹</translation>
+        <translation>打开世界数据包文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="275"/>
@@ -12622,7 +12622,7 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Copy World</source>
-        <translation>修改世界</translation>
+        <translation>复制世界</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
@@ -12656,7 +12656,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
         <source>Enter a new name for the copy.</source>
-        <translation>为复制键入一个新的名称。</translation>
+        <translation>输入复制的世界的名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
@@ -12732,7 +12732,7 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>此微软账号拥有者尚未成年，且未绑定到一个家庭。
+        <translation>此微软账号拥有者为未成年用户，且该账号尚未绑定到一个家庭。
 
 请根据 %1 设置您的帐号。</translation>
     </message>
@@ -12741,7 +12741,7 @@ Please set up your account according to %1.</source>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation>XSTS 身份验证触发了未知的错误：
+        <translation>XSTS 身份验证过程中发生了未知的错误：
 
 %1</translation>
     </message>
