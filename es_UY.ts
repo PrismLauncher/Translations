@@ -384,7 +384,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
@@ -813,12 +813,14 @@ para más detalles.</translation>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Tu directorio /tmp actualmente está montado con el parámetro &apos;noexec&apos; activado.
+Algunas versiones de Minecraft podrían no iniciar.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de sistema incompatible</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1352"/>
@@ -2111,18 +2113,19 @@ Esto puede ser permanente y se irá por siempre de la carpeta principal.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Si eliminas este recurso mientras el juego se está ejecutando, el juego podría bloquearse.
+¿Estás seguro de que quieres hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar desactivación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
