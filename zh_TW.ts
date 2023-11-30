@@ -10679,7 +10679,7 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>您將要把 %1 螢幕擷取畫面上傳至 %2。
+        <translation>您將要把 %1 個螢幕擷取畫面上傳至 %2。
 您應該再次檢查個人資訊。
 
 你確定嗎？</translation>
@@ -10758,7 +10758,7 @@ This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
         <translation>你正在刪除已選取的螢幕擷取畫面。
-這可能是永久性的，它們將從資料夾中消失。
+這可能將它從資料夾永遠刪除。
 
 你確定嗎？</translation>
     </message>
