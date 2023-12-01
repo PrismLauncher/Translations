@@ -240,7 +240,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>I seguenti file non sono disponibili per il download attraverso launcher di terze parti.&lt;br/&gt;È necessario scaricarli e aggiungerli manualmente all&apos;istanza.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -392,7 +392,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Account Microsoft (MSA)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
@@ -451,7 +451,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo di account (Microsoft o Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -618,7 +618,8 @@ Se sei nuovo, puoi cliccare il pulsante &quot;Aggiungi&quot; per aggiungere il t
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="61"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Benvenuto!
+Se sei nuovo qui, puoi selezionare il pulsante &quot;Aggiungi Microsoft&quot; per collegare il tuo account Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
@@ -678,12 +679,12 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminare l&apos;account?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi davvero eliminare questo account?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -770,7 +771,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="923"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento In Corso</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="948"/>
@@ -785,7 +786,7 @@ for details on the last update attempt.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="956"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento Fallito</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="981"/>
@@ -800,7 +801,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="989"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento Riuscito</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1020"/>
@@ -812,7 +813,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione di sistema non compatibile</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1352"/>
