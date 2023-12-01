@@ -841,7 +841,9 @@ für Details.</translation>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Dein /tmp Verzeichnis ist gerade montiert, mit dem &apos;noexec&apos; Flagge eingeschaltet.
+Manche Versionen von Minecraft starten vielleicht nicht.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
@@ -2205,7 +2207,8 @@ Bist Du Dir sicher?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn du die Ressource während dein Spiel noch läuft, löscht, könnte es dein Spiel abstürzen.
+Bist du dir sicher, du willst das tun?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
@@ -2216,7 +2219,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn du die Ressource während dein Spiel noch läuft, deaktivierst, könnte es dein Spiel abstürzen.
+Bist du dir sicher, du willst das tun?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
@@ -4668,7 +4672,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished">Automatisches Überprüfen und Herunterladen von Mod-Abhängigkeiten deaktivieren.</translation>
+        <translation>Automatisches Überprüfen und Herunterladen von Mod-Abhängigkeiten deaktivieren.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -4677,7 +4681,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deaktivieren der automatischen Mod-Abhängigkeitsverwaltung.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -5675,12 +5679,12 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished">Öffne den Instanzen Order im Dateien Finder.</translation>
+        <translation>Öffne den Instanzen Order im Dateien Finder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Startprogramm &amp;Wurzel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
@@ -5695,7 +5699,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="590"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen den Ordner icons in einem Dateibrowser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
