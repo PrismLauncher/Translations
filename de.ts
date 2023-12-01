@@ -4681,7 +4681,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished">Deaktivieren der automatischen Mod-Abhängigkeitsverwaltung.</translation>
+        <translation>Deaktivieren der automatischen Mod-Abhängigkeitsverwaltung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
