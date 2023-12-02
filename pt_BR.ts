@@ -833,12 +833,14 @@ para detalhes.</translation>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Seu diretório /tmp está atualmente montado com o sinalizador &apos;noexec&apos; ativado.
+Algumas versões do Minecraft podem não iniciar.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração de sistema incompatível</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1352"/>
