@@ -5592,12 +5592,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Launcher &amp;Root</source>
-        <translation>Launcher Gyöké&amp;r</translation>
+        <translation>&amp;Launcher gyökér</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>&amp;Central Mods</source>
-        <translation>&amp;Közép Modok</translation>
+        <translation>&amp;Közép modok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
@@ -5632,7 +5632,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="748"/>
         <source>&amp;Widget Themes</source>
-        <translation>&amp;Widget Témák</translation>
+        <translation>&amp;Widget témák</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="751"/>
@@ -5642,7 +5642,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>I&amp;con Theme</source>
-        <translation>&amp;Ikon Téma</translation>
+        <translation>&amp;Ikon téma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="763"/>
@@ -5652,7 +5652,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Cat Packs</source>
-        <translation>Cica Csomagok</translation>
+        <translation>Cica csomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="775"/>
@@ -6600,7 +6600,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
         <source>&amp;No Profiler</source>
-        <translation>&amp;Nincs Profiler</translation>
+        <translation>&amp;Ne legyen profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
