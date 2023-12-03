@@ -227,7 +227,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Estettyjä modeja löydetty</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
@@ -10141,7 +10141,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
         <source>Leave empty to keep current skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Jätä tyhjäksi käyttääksesi tämänhetkistä skiniä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="39"/>
@@ -11687,7 +11687,7 @@ Oletko varma?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimeä maailma uudelleen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
@@ -11792,7 +11792,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="15"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjaudutaan Xbox-käyttäjällä.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
