@@ -245,7 +245,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
         <source>%1 out of %2 complete</source>
-        <translation>已完成 %2 分之 %1</translation>
+        <translation>已完成 %1 個，共 %2 個</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
@@ -709,7 +709,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>用戶端 ID 已變更。需要建立新的工作階段。</translation>
+        <translation>用戶端 ID 已變更。需要建立新的 Session。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
@@ -719,7 +719,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>驗證失敗。工作階段已過期。</translation>
+        <translation>驗證失敗。Session 已過期。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
@@ -1230,7 +1230,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="285"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>正在執行 %1 個任務（已完成 %3 個中的 %2 個任務）</translation>
+        <translation>正在執行 %1 個任務（已完成 %2 個，共 %3 個）</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="289"/>
@@ -2609,7 +2609,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="578"/>
         <source>%1 out of %2 complete</source>
-        <translation>已完成 %2 分之 %1</translation>
+        <translation>已完成 %1 個，共 %2 個</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="592"/>
@@ -2619,7 +2619,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="605"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>正在複製被封鎖的模組（已完成 %2 個中的 %1 個任務）</translation>
+        <translation>正在複製被封鎖的模組（已完成 %1 個任務，共 %2 個任務）</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -4262,7 +4262,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="207"/>
         <source>Received undetermined session status during login.</source>
-        <translation>在登入時接收到無法確定的工作階段狀態。</translation>
+        <translation>在登入時接收到無法確定的 Session 狀態。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
@@ -5345,7 +5345,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
-        <translation>Microsoft 使用者身分驗證已完成，但結果無法識別。</translation>
+        <translation>Microsoft 使用者驗證已完成，但無法辨識結果。</translation>
     </message>
 </context>
 <context>
@@ -6669,7 +6669,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
         <source>&lt;SESSION ID&gt;</source>
-        <translation>&lt;工作階段 ID&gt;</translation>
+        <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="915"/>
@@ -7926,7 +7926,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="274"/>
         <source>%1 out of %2 complete</source>
-        <translation>已完成 %2 分之 %1</translation>
+        <translation>已完成 %1 個，共 %2 個</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="279"/>
@@ -8245,7 +8245,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="137"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>正在執行 %1 個任務（已完成 %3 個中的 %2 個任務）</translation>
+        <translation>正在執行 %1 個任務（已完成 %2 個，共 %3 個）</translation>
     </message>
 </context>
 <context>
