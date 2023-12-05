@@ -6698,7 +6698,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="999"/>
         <source>, last played on %1 for %2</source>
-        <translation>，上次遊玩時間為 %1，持續了 %2</translation>
+        <translation>，上次於 %1 遊玩，持續了 %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -7101,7 +7101,7 @@ Are you sure?</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：此資源已符號連結至其他位置，編輯將同步修改原始資源。
+警告：這個資源已符號連結至其他位置，編輯將同步修改原始資源。
 已連結路徑：%1</translation>
     </message>
     <message>
@@ -7109,7 +7109,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
+警告：這個資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -10331,7 +10331,7 @@ Please update %1!</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：此資源已符號連結至其他位置，編輯將同步修改原始資源。
+警告：這個資源已符號連結至其他位置，編輯將同步修改原始資源。
 已連結的路徑：%1</translation>
     </message>
     <message>
@@ -10339,7 +10339,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
+警告：這個資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
@@ -10388,7 +10388,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="501"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>此資源上次修改（或加入）的日期與時間。</translation>
+        <translation>這個資源上次修改（或加入）的日期與時間。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="542"/>
@@ -10435,7 +10435,7 @@ Are you sure you want to do this?</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：此資源已符號連結至其他位置，編輯將同步修改原始資源。
+警告：這個資源已符號連結至其他位置，編輯將同步修改原始資源。
 已連結的路徑：%1</translation>
     </message>
     <message>
@@ -10443,7 +10443,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
+警告：此這個資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -10462,7 +10462,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="155"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>此資源包是否已啟用？（僅對 ZIP 有效）</translation>
+        <translation>這個資源包是否已啟用？（僅對 ZIP 有效）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="157"/>
@@ -10476,7 +10476,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>此資源上次修改（或加入）的日期與時間。</translation>
+        <translation>這個資源上次修改（或加入）的日期與時間。</translation>
     </message>
 </context>
 <context>
@@ -11364,7 +11364,7 @@ inheritsFrom 引數缺失</translation>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：此資源已符號連結至其他位置，編輯將同步修改原始資源。
+警告：這個資源已符號連結至其他位置，編輯將同步修改原始資源。
 已連結的路徑：%1</translation>
     </message>
     <message>
@@ -11372,7 +11372,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
+警告：這個資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="138"/>
@@ -11390,7 +11390,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>此資源上次修改（或加入）的日期與時間。</translation>
+        <translation>這個資源上次修改（或加入）的日期與時間。</translation>
     </message>
 </context>
 <context>
@@ -12390,7 +12390,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="200"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation>此世界已連結至其他位置。</translation>
+        <translation>這個世界已連結至其他位置。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
@@ -12403,13 +12403,13 @@ This world is hard linked elsewhere.</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="222"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>警告：此世界已符號連結至其他位置，編輯將同步修改原始資源。
+        <translation>警告：這個世界已符號連結至其他位置，編輯將同步修改原始資源。
 已連結的路徑：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>警告：此世界已硬連結至其他位置，編輯將同步修改原始資源。</translation>
+        <translation>警告：這個世界已硬連結至其他位置，編輯將同步修改原始資源。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
@@ -12451,7 +12451,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Date and time the world was last played.</source>
-        <translation>此世界上次遊玩的日期與時間。</translation>
+        <translation>這個世界上次遊玩的日期與時間。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
@@ -12533,7 +12533,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
         <source>Manage datapacks inside the world.</source>
-        <translation>管理此世界的資料包。</translation>
+        <translation>管理這個世界的資料包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="59"/>
@@ -12562,7 +12562,7 @@ Do you want to continue?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
         <source>Open World Datapacks Folder</source>
-        <translation>開啟此世界的資料包資料夾</translation>
+        <translation>開啟這個世界的資料包資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="275"/>
