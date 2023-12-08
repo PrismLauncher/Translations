@@ -12352,12 +12352,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="182"/>
         <source>Recommended</source>
-        <translation>推荐的</translation>
+        <translation>推荐版本</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="186"/>
         <source>Latest</source>
-        <translation>最新的</translation>
+        <translation>最新版本</translation>
     </message>
 </context>
 <context>
@@ -12445,7 +12445,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="268"/>
         <source>Last Played</source>
-        <translation>最后游戏于</translation>
+        <translation>最后游玩于</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
@@ -12477,7 +12477,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Size of the world on disk.</source>
-        <translation>磁盘上的世界大小。</translation>
+        <translation>世界在磁盘上的大小。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
@@ -12544,7 +12544,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>删除世界图标使游戏在下次加载时重新生成图标。</translation>
+        <translation>删除世界图标，使游戏在下次加载时重新生成图标。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
