@@ -8908,8 +8908,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Neznámy formát verzie!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Prázdna cesta</translation>
     </message>

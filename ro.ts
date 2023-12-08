@@ -8964,8 +8964,8 @@ Acest mesaj va fi afișat până ștergi acest argument din argumentele JVM-ului
         <translation>Versiune formatare necunoscută!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Cale goală</translation>
     </message>
