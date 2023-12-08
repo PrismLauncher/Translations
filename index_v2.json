@@ -171,11 +171,11 @@
             "untranslated" : 0
         },
         "es_UY" : {
-            "file" : "eb03da46cbb9bf601e4b170c8b462d26412d69fc.class",
-            "sha1" : "eb03da46cbb9bf601e4b170c8b462d26412d69fc",
-            "size" : 192338,
-            "translated" : 1153,
-            "fuzzy" : 154,
+            "file" : "686fd254d7c2b1c466e9e9603aa8fd2433622ef3.class",
+            "sha1" : "686fd254d7c2b1c466e9e9603aa8fd2433622ef3",
+            "size" : 192314,
+            "translated" : 1169,
+            "fuzzy" : 138,
             "untranslated" : 540
         },
         "et" : {
