@@ -3852,7 +3852,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="484"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>从点击“添加示例”开始。</translation>
+        <translation>从点击“添加实例”开始。</translation>
     </message>
 </context>
 <context>
