@@ -400,7 +400,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">ẩn số</translation>
+        <translation>Không biết</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
@@ -667,12 +667,12 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gỡ tài khoản?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc chắn muốn gỡ tài khoản này?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -754,12 +754,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bản cài này đang khóa việc thay đổi tệp ở %1
+
+Thời gian: %2
+Đang cập nhật từ phiên bản %3 đến %4
+Đang cài ở %5
+Chỗ dữ liệu: %6
+Lỗi này có thể là do việc cập nhật đã thất bại. Vui lòng kiểm tra bản cài của bạn vẫn có thể chạy được như bình thường trước khi tiếp tục.
+Kiểm tra tệp log cho việc câpx nhật Prism Launcher ở:
+%7
+để biết thêm về lần thử cập nhật cuối.
+
+Để xóa bỏ khóa này và tiếp tục hãy chọn nút &quot;Kệ&quot; ở dưới.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="925"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang cập nhật</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="950"/>
@@ -769,12 +780,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lượt thử cập nhật đã thất bại
+
+Hãy kiểm tra bản cài của bạn vẫn có thể dùng được bình thường trước khi tiếp tục.
+Kiểm tra tệp log để cập nhật Prism Launcher ở:
+%1
+để hiểu thêm về lượt thử cập nhật cuối.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="958"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Cập nhật thất bại</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="983"/>
@@ -784,12 +800,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cập nhật thành công
+
+Bạn đang chạy phiên bản %1.
+Kiểm tra tệp log để cập nhật Prism Launcher ở:
+%1
+để biết thêm.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Cập nhật thành công</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
