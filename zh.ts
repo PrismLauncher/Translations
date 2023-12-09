@@ -1143,7 +1143,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation>检查过的文件夹：</translation>
+        <translation>已检查文件夹：</translation>
     </message>
 </context>
 <context>
@@ -1344,7 +1344,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation>单独链接每个资源，而不是直接链接整个文件夹</translation>
+        <translation>分别链接每个资源，而不是直接链接整个文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
@@ -2106,7 +2106,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>在文件资源管理器中打开“config”文件夹。</translation>
+        <translation>在文件管理器中打开“config”文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="138"/>
@@ -2170,7 +2170,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>您即将删除 %1 项项目。
-这可能是永久性的，如果是，它们将被从文件夹永久删除。
+确定后可能会永久删除。
 
 您确定吗？</translation>
     </message>
@@ -2181,7 +2181,7 @@ This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
         <translation>您即将删除文件夹“%1”。
-这可能是永久性的，如果是，它将被从父文件夹永久删除。
+确定后可能会永久删除。
 
 您确定吗？</translation>
     </message>
@@ -2262,7 +2262,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="102"/>
         <source>JProfiler Folder</source>
-        <translation>JProriler 文件夹</translation>
+        <translation>JProfiler 文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -2883,7 +2883,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation>为 Minecraft 文件创建文件夹时出错。</translation>
+        <translation>无法为 Minecraft 可执行文件创建文件夹。</translation>
     </message>
 </context>
 <context>
@@ -3278,7 +3278,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
-        <translation>复制实例文件夹失败。</translation>
+        <translation>实例文件夹复制失败。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="171"/>
@@ -4642,12 +4642,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>启用后，除了下载文件夹以外，其子文件夹也会在寻找资源时被搜索到（例如：在寻找 CurseForge 上被屏蔽的模组时）。</translation>
+        <translation>启用后，在查找资源时除了搜索下载文件夹本身，还会搜索其子文件夹（例如：在寻找 CurseForge 上被屏蔽的模组时）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>Check downloads folder recursively</source>
-        <translation>递归地检查下载文件夹</translation>
+        <translation>递归检查下载文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
@@ -5407,7 +5407,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>在文件资源管理器中打开公共模组文件夹。</translation>
+        <translation>在文件管理器中打开公共模组文件夹。</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -5421,7 +5421,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="715"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>打开实例间共用的文件夹之一。</translation>
+        <translation>打开实例间共用的文件夹。</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -5667,7 +5667,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation>共享模组文件夹(&amp;C)</translation>
+        <translation>共享模组(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
@@ -8545,7 +8545,7 @@ This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
         <translation>将要删除：“%1”。
-这可能将其从日志文件夹中永久删除。
+可能会将其从日志文件夹中永久删除。
 
 您确定吗？</translation>
     </message>
@@ -10769,7 +10769,7 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>即将删除%1张截图。
+        <translation>即将删除 %1 张截图。
 这可能将其从文件夹中永久删除。
 
 您确定吗？</translation>
