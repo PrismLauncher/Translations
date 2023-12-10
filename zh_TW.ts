@@ -7636,7 +7636,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="303"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>模組「%1」還未擁有後設資料。為了追蹤如何更新這模組的相關資訊，我們需要先產生一筆後設資料。因此，請選取一個模組託管平台，我們將會在該平台檢查這模組的更新資訊。</translation>
+        <translation>模組「%1」還未擁有後設資料。為了追蹤如何更新這模組的相關資訊，我們需要先生成一筆後設資料。因此，請選取一個模組託管平台，我們將會在該平台檢查這模組的更新資訊。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="400"/>
