@@ -305,7 +305,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>داخستن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
@@ -339,81 +339,81 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>چاوپیانەخشێنراو</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>دەرھێڵ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ئامادە</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>کارا</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ھەڵەی تێدایە</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>بەسەرچووە</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>بزربووە</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>بەردەست نییە</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>بەڵێ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>نەخێر</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>ناوی بەکارھێنەر</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>ھەژمار</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>جۆر</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>دۆخ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
@@ -423,22 +423,22 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>ناوی بەکارھێنەری ماینکرافت کە پەیوەستە بە ھەژمارەکەوە.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>ناوی بەکارھێنەری ھەژمارەکە.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation type="unfinished"></translation>
+        <translation>جۆری ھەژمارەکە - مۆجانگ ین مایکرۆسۆفت.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>دۆخی ئێستای ھەژمارەکە.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
@@ -450,7 +450,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ناچالاککراو</translation>
     </message>
 </context>
 <context>
@@ -459,65 +459,66 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>زیادکردنی ھەژماری مۆجانگ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>لابردن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>بیکە بە سەرەکی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>سەرەکی لاببە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>بارکردنی سکین</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>سڕینەوەی سکین</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation type="unfinished"></translation>
+        <translation>سکینی چالاک بسڕەوە و بگەڕێوە بۆ ئەوەی سەرەتا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>زیادکردنی ھەژماری مایکرۆسۆفت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>بووژاندنەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>ھێماکانی ھەژمارەکان نوێ بکەرەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>بەخێربێیت!
+ئەگەر تازەیت لێرە، دەتوانیت کرتە لەسەر دوگمەی &quot;زیادکردن&quot; بکەیت بۆ زیادکردنی ھەژماری مۆجانگ یان ماینکرافتەکەت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -528,12 +529,12 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation type="unfinished"></translation>
+        <translation>تکایە ئیمەیڵ و تێپەڕوشەی ھەژماری مۆجانگەکەت بنووسە بۆ زیادکردنی.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation type="unfinished"></translation>
+        <translation>ھەژماری مایکرۆسۆفت بەردەست نییە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -541,43 +542,45 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ھەژماری مایکرۆسۆفت تەنیا لە ماک ئۆ ئێسی ١٠.١٣ و نوێتر کار دەکات، بە %1ی تەواو نوێکراوە.
+
+تکایە ھەردوو سیستەمی کارپێکردن و %1 نوێ بکەرەوە.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>سڕینەوەی سکین</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>شکست ھەبوو لە سڕینەوەی سکینی چالاک!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>ھەژمارەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>زیادکردنی ھەژماری دەرھێڵ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ھەڵە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>پێویستە ھەژمارێکی مایکرۆسۆفت یان مۆجانگ زیاد بکەیت کە ماینکرافتی تێدا بێت ئنجا دەتوانیت ھەژماری دەرھێڵ زیاد بکەیت.&lt;br&gt;&lt;br&gt;ئەگەر ھەژمارەکەت لەدەس داوە، دەتوانیت پەیوەندی بە مایکرۆسۆفتەوە بکەیت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>تکایە ناوی دڵخوازت بنووسە بۆ زیادکردنی ھەژمارە دەرھێڵەکەت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -1228,25 +1231,25 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>فەرمانە تایبەتەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>فەرمانەکانی دوای داخستن:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>فەرمانەکانی پێش کردنەوە:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>فەرمانەکانی ڕووپێچ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -1537,28 +1540,28 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>بەسەریدا بچۆرەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>دەستکاریکەرە دەرەکییەکان (بە بەتاڵی جێی بھێڵە بۆ بەکارھێنانی ڕێکخستنەکانی سیستەم)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>دەستکاریکەری دەق:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>ئامرازە دەرەکییەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>JProfiler Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>فۆڵدەری جەی پرۆفایڵەر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1568,7 +1571,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ھەڵە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1582,7 +1585,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>باشە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
@@ -1609,12 +1612,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>بەرنامەی ئێم سی ئێدت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>فۆڵدەری ئێم سی ئێدت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
@@ -1631,17 +1634,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>دەستکاریکەری جەیسۆن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>نادروست</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>پەڕگەکەی ھەڵبژێردراوە لەوە ناجیت کاری پێ بکرێت</translation>
     </message>
 </context>
 <context>
@@ -2553,7 +2556,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="84"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>یارمەتی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
@@ -2632,108 +2635,108 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="45"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>بیرگە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>زۆرترین ڕێژەی بیرگە کە ماینکرافت ڕێی پێ دراوە بۆ بەکارھێنان.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>کەمترین ڕێژەی بیرگەی تەرخانکراو:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>زۆرترین ڕێژەی بیرگەی تەرخانکراو:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕێژەی بیرگەی کە ماینکرافت دەستی پێ دەکات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕێژەی بیرگەی بەردەست بۆ خەزنکردنی پۆلەکانی جاڤای بارکراو.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
         <source>Java Runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>ماوەی جێبەجێکردنی جاڤا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="185"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>بەڵگەکانی جەی ڤی ئێم:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="201"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ناونیشانی جاڤا:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>خۆکارانە بیدۆزەوە...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="217"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>تاقیکردنەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="266"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>ئەگەر کارا بکرێت، داگیرسێنەرەکە داوات لێ ناکات کە وەشانێکی جاڤا ھەڵبژێریت ئەگەر وەشانێکی جاڤا نەدۆزرایەوە.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="269"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>فێرکاری جاڤا بپەڕێنە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>ئەگەر کارا بکرێت، داگیرسێنەرەکە دڵنیای ناکاتەوە کە وەشانەکە دەگونجێت لەگەڵ وەشانی جاڤای ھەڵبژێردراو.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>پێداچوونەوەی گونجانی جاڤا بپەڕێنە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="136"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>وەشانێکی جاڤا ھەڵبژێرە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="149"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>جاڤا بدۆزەرەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>زۆرترین بیرگەی تەرخانکراو لە ڕێژەی بیرگەی سیستەمەکە تێپەڕیوە.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>زۆرترین بیرگەی تەرخانکراو لە ڕێژەی بیرگەی سیستەمەکە نزیک دەبێتەوە.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>جاڤا</translation>
     </message>
 </context>
 <context>
@@ -2825,7 +2828,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="56"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>زمان</translation>
     </message>
 </context>
 <context>
@@ -2833,7 +2836,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>زمانی دڵخوازتی تێدا نییە یان کوالیتییەکەی خراپە؟&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;یارمەتیمان بدە لە وەرگێڕانەکان!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -2841,12 +2844,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="46"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>زمان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="47"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>زمانێک ھەڵبژێرە بۆ بەکارھێنانی لە %1</translation>
     </message>
 </context>
 <context>
@@ -3078,94 +3081,94 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation>تایبەتمەندییەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕێکخستنەکانی نوێکردنەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>خۆکارانە بۆ نوێکردنەوە بگەڕێ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="67"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>فۆڵدەرەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="83"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>وەشانەکان:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>مۆدەکان:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>ئایکۆنەکان:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>کاتێک کە ئەمە کارا دەکرێت، لەگەڵ گەڕان بەنێو فۆڵدەری دابەزاندنەکاندا، لە ژێرفۆڵدەرەکانیشدا دەگەڕێت بۆ ژێدەرەکان (بۆ نموونە لەکاتی گەڕان بۆ مۆدە بەربەستکراوەکان لە کێرس فۆرج).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>بە شێوەیەکی گەڕانەوەیی بە فۆڵدەری دابەزاندنەکاندا بگەڕێ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="209"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕووکاری بەکارھێنەر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="218"/>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>شێوازی ڕیزکردنی وەشانەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;بە کۆتا داگیرساندن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>بە ناو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="247"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>شێواز</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>مۆدەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>دابەزاندنەکان:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>بەکارھێنانی مێتاداتا ناچالاک بکە کە لەلایەن بریکاری مۆدەکانەوە پێشکەش دەکرێت (وەک مۆدیرینت و کێرس فۆرج) بۆ مۆدەکان.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>بەکارھێنانی مێتاداتا بۆ مۆدەکان ناچالاک دەکەیت؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -3176,7 +3179,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>ئامرازەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="271"/>
@@ -3227,23 +3230,23 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>لۆگکردن بوەستێنە کاتێک لۆگەکان زۆر دەبن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> دێڕ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>فۆنتی کۆنسۆڵ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
         <source>Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>فۆڵدەری وەشانەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
@@ -3270,17 +3273,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>دەتەوێت بە ھەر شێوەیەک بێت بەردەوام بیت؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="154"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>فۆڵدەری ئایکۆنەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
         <source>Mods Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>فۆڵدەری مۆدەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
@@ -3290,12 +3293,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="308"/>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[فڵان/ھەڵە] ھەڵەیەکی ترسناک!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="317"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[تاقیکردنەوە/INFO] پەیامێکی بێزیان...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="326"/>
@@ -4124,12 +4127,12 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1529"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>دروستکردنی شۆڕتکەت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="477"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>شۆڕتکەتێک لەسەر دێسکتۆپەکەت دروست دەکات بۆ داگیرساندنی وەشانی دیاریکراو.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
@@ -4140,7 +4143,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>ماوەی یاریکردنی گشتی: ٠چ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="511"/>
@@ -4327,7 +4330,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>دروستکردنی شۆڕتکەت بۆ وەشان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
@@ -4409,7 +4412,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1741"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ماوەی یاریکردنی گشتی: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
@@ -4612,7 +4615,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="929"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>، دوایین یاریکردن لە %1 بۆ ماوەی %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="935"/>
@@ -4638,35 +4641,35 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="48"/>
         <source>Window Size</source>
-        <translation type="unfinished"></translation>
+        <translation>قەبارەی پەنجەرە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>دەتەوێت کە ماینکرافت دەستی پێکرد تەواوی شاشەکە بگرێتەوە؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>درێژیی پەنجەرە:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>پانیی پەنجەرە:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="190"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕێککردنەوەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Native library workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation>چارەسەرەکانی کتێبخانەی ڕەسەن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
@@ -4683,7 +4686,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="219"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>نواندن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="225"/>
@@ -5353,23 +5356,23 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ڕیزکردن بە پەیوەندی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕیزکردن بە کۆی دابەزاندنەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕیزکردن بە کۆی شوێنکەوتنەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ڕیزکردن بە دوایین نوێکردنەوەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
@@ -6009,62 +6012,62 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>ئەمە تەنیا کار لەسەر داگیرسێنەرەکە دەکات. ماینکرافت ڕێکخستنەکانی پڕۆکسی قبووڵ ناکات.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>جۆر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕێکخستنە بنچینەیییەکانی پڕۆکسیی سیستەمەکەت بەکار دەھێنێت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>بنچینەیی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>ھیچیان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ئێچ تی تی پی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ناونیشان و پۆرت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>سەلماندن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ناوی بەکارھێنەر:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>تێپەڕوشە:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
@@ -6074,7 +6077,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="61"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>پڕۆکسی</translation>
     </message>
 </context>
 <context>
@@ -6196,7 +6199,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;دەرھێڵ&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
@@ -6262,7 +6265,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="53"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>وێبگە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="72"/>
@@ -6270,7 +6273,7 @@ Choose your name carefully:</source>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 پەرەپێدەر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="93"/>
@@ -6314,60 +6317,60 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕووناک</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="79"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>سیستەم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="12"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>تاریک</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1خ %2چ</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1ک %2خ</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="39"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1ڕ %2ک %3خ</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕۆژ</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>کاتژمێر</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>خولەک</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>چرکە</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>میلیچرکە</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -7362,42 +7365,42 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="49"/>
         <source>Shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>شەیدەرەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>دابەزاندنی شەیدەر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>شەیدەر لە پێگە سەرھێڵەکانەوە داببەزێنە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="73"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ھەڵە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>وەستێندرا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>دابەزاندنەکە لەلایەن بەکارھێنەرەوە وەستێندرا.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="83"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>ئاگادارییەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="93"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>وەستاندن</translation>
     </message>
 </context>
 <context>
@@ -7509,7 +7512,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
         <source>Status Details</source>
-        <translation type="unfinished"></translation>
+        <translation>وردەکارییەکانی دۆخ</translation>
     </message>
 </context>
 <context>
@@ -7777,22 +7780,22 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="478"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>زمان</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="482"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>تەواوبوویی</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="492"/>
         <source>The native language name.</source>
-        <translation type="unfinished"></translation>
+        <translation>ناوی ڕەسەنی زمان.</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="496"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>تەواوبوویی ڕێژەی سترینگە تەواو وەرگێڕدراوەکانە، و ئەوانە ناژمێرێت کە بە خۆکارانە خەمڵێندراون.</translation>
     </message>
 </context>
 <context>
@@ -7949,27 +7952,27 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>پاڵێوەر:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>کردارەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="121"/>
         <source>Change version</source>
-        <translation type="unfinished"></translation>
+        <translation>گۆڕینی وەشان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="124"/>
         <source>Change version of the selected package.</source>
-        <translation type="unfinished"></translation>
+        <translation>وەشان بگۆڕە بۆ پاکێجی دیاریکراو.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="129"/>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>بیبەرە سەرەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="132"/>
@@ -8379,62 +8382,62 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="111"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>وەشان</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="113"/>
         <source>Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>ماینکرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="115"/>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>لق</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>جۆر</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>تەلارسازی</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>ناونیشان</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
         <source>Released</source>
-        <translation type="unfinished"></translation>
+        <translation>بڵاوبوونەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The name of the version.</source>
-        <translation type="unfinished"></translation>
+        <translation>ناوی وەشانەکە.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>Minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>وەشانی ماینکرافت</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
         <source>The version&apos;s branch</source>
-        <translation type="unfinished"></translation>
+        <translation>لقی وەشانەکە</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The version&apos;s type</source>
-        <translation type="unfinished"></translation>
+        <translation>جۆری وەشانەکە</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>CPU Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>تەلارسازی سی پی یوو</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
@@ -8444,23 +8447,23 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>Release date of this version</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕێکەوتی بڵاوبوونەوەی ئەم وەشانە</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="168"/>
         <source>%1 (installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (دامەزراوە)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="199"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>پێشنیارکراو</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
         <location filename="src/launcher/VersionProxyModel.cpp" line="211"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>نوێترین</translation>
     </message>
 </context>
 <context>
@@ -8540,7 +8543,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="293"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>دوایین یاریکردن</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="296"/>
@@ -8567,7 +8570,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="312"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>ڕێکەوت و کاتی دوایین یاریکردن لەو جیھانەدا.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="314"/>
@@ -8600,7 +8603,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>لەبەرگرتنەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
