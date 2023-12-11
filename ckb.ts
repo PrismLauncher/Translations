@@ -7,13 +7,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>خزمەتگوزاریی پەیسبین</translation>
+        <translation>&amp;خزمەتگوزاریی پەیسبین</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>شێوازی خزمەتگوزاریی پەیستبین</translation>
+        <translation>&amp;شێوازی خزمەتگوزاریی پەیستبین</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>ئەی پی ئایی مۆدیرینت</translation>
+        <translation>ئەی پی ئایی &amp;مۆدرینت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -91,7 +91,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>ڕاژەکاری مێتاداتا</translation>
+        <translation>ڕاژەکاری مێتا&amp;داتا</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -106,7 +106,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>ئەی پی ئایی سەرەکیی کێرس فۆرج</translation>
+        <translation>ئەی پی ئایی سەرەکیی &amp;کێرس فۆرج</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
@@ -459,37 +459,37 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation>زیادکردنی ھەژماری مۆجانگ</translation>
+        <translation>زیادکردنی ھەژماری &amp;مۆجانگ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>لابردن</translation>
+        <translation>&amp;لابردن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>بیکە بە سەرەکی</translation>
+        <translation>بیکە بە &amp;سەرەکی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>سەرەکی لاببە</translation>
+        <translation>سەرەکی &amp;لاببە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation>بارکردنی سکین</translation>
+        <translation>&amp;بارکردنی سکین</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation>سڕینەوەی سکین</translation>
+        <translation>&amp;سڕینەوەی سکین</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -500,13 +500,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>زیادکردنی ھەژماری مایکرۆسۆفت</translation>
+        <translation>&amp;زیادکردنی ھەژماری مایکرۆسۆفت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>بووژاندنەوە</translation>
+        <translation>&amp;بووژاندنەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -565,7 +565,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>زیادکردنی ھەژماری دەرھێڵ</translation>
+        <translation>زیادکردنی ھەژماری &amp;دەرھێڵ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
@@ -1231,25 +1231,25 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>فەرمانە تایبەتەکان</translation>
+        <translation>&amp;فەرمانە تایبەتەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>فەرمانەکانی دوای داخستن:</translation>
+        <translation>فەرمانەکانی &amp;دوای داخستن:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>فەرمانەکانی پێش کردنەوە:</translation>
+        <translation>فەرمانەکانی &amp;پێش کردنەوە:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>فەرمانەکانی ڕووپێچ:</translation>
+        <translation>فەرمانەکانی &amp;ڕووپێچ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -1551,7 +1551,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>دەستکاریکەری دەق:</translation>
+        <translation>&amp;دەستکاریکەری دەق:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -2646,13 +2646,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>کەمترین ڕێژەی بیرگەی تەرخانکراو:</translation>
+        <translation>&amp;کەمترین ڕێژەی بیرگەی تەرخانکراو:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>زۆرترین ڕێژەی بیرگەی تەرخانکراو:</translation>
+        <translation>&amp;زۆرترین ڕێژەی بیرگەی تەرخانکراو:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -2678,19 +2678,19 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="201"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>ناونیشانی جاڤا:</translation>
+        <translation>ناونیشانی &amp;جاڤا:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>خۆکارانە بیدۆزەوە...</translation>
+        <translation>&amp;خۆکارانە بیدۆزەوە...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="217"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>تاقیکردنەوە</translation>
+        <translation>&amp;تاقیکردنەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="266"/>
@@ -2700,7 +2700,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="269"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation>فێرکاری جاڤا بپەڕێنە</translation>
+        <translation>&amp;فێرکاری جاڤا بپەڕێنە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
@@ -2711,7 +2711,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>پێداچوونەوەی گونجانی جاڤا بپەڕێنە</translation>
+        <translation>پێداچوونەوەی گونجانی جاڤا &amp;بپەڕێنە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="136"/>
@@ -2920,7 +2920,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ھەڵوەشاندنەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="261"/>
@@ -2961,7 +2961,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <location filename="src/launcher/LaunchController.cpp" line="409"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>ھەڵە!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -2994,7 +2994,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="423"/>
         <source>Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>داگیرساندن</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="431"/>
@@ -3102,17 +3102,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="83"/>
         <source>I&amp;nstances:</source>
-        <translation>وەشانەکان:</translation>
+        <translation>&amp;وەشانەکان:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>&amp;Mods:</source>
-        <translation>مۆدەکان:</translation>
+        <translation>&amp;مۆدەکان:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation>ئایکۆنەکان:</translation>
+        <translation>&amp;ئایکۆنەکان:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
@@ -3143,7 +3143,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
         <source>By &amp;name</source>
-        <translation>بە ناو</translation>
+        <translation>بە &amp;ناو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="247"/>
@@ -3158,7 +3158,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>&amp;Downloads:</source>
-        <translation>دابەزاندنەکان:</translation>
+        <translation>&amp;دابەزاندنەکان:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
@@ -3206,31 +3206,31 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>دەتەوێت کۆنسۆڵ دیاربێت لە کاتێکدا یارییەکە کارایە؟</translation>
+        <translation>دەتەوێت کۆنسۆڵ دیاربێت لە کاتێکدا یارییەکە &amp;کارایە؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>دەتەوێت خۆکارانە کۆنسۆڵەکە دابخرێت کاتێک یارییەکە دادەخەیت؟</translation>
+        <translation>دەتەوێت &amp;خۆکارانە کۆنسۆڵەکە دابخرێت کاتێک یارییەکە دادەخەیت؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>دەتەوێت کۆنسۆڵەکە پیشان بدرێت کاتێک یارییەکە کراش دەکات؟</translation>
+        <translation>دەتەوێت کۆنسۆڵەکە پیشان بدرێت کاتێک یارییەکە &amp;کراش دەکات؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>سنووری مێژوو</translation>
+        <translation>سنووری &amp;مێژوو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>لۆگکردن بوەستێنە کاتێک لۆگەکان زۆر دەبن</translation>
+        <translation>&amp;لۆگکردن بوەستێنە کاتێک لۆگەکان زۆر دەبن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
@@ -3241,7 +3241,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>فۆنتی کۆنسۆڵ</translation>
+        <translation>&amp;فۆنتی کۆنسۆڵ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
@@ -3755,7 +3755,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation>بینینی فۆڵدەری وەشانەکان</translation>
+        <translation>بینینی &amp;فۆڵدەری وەشانەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
@@ -3776,27 +3776,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="194"/>
         <source>&amp;Accounts</source>
-        <translation>ھەژمارەکان</translation>
+        <translation>&amp;ھەژمارەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
         <source>&amp;Edit...</source>
-        <translation>دەستکاری...</translation>
+        <translation>&amp;دەستکاری...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="401"/>
         <source>&amp;Folder</source>
-        <translation>فۆڵدەر</translation>
+        <translation>&amp;فۆڵدەر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="459"/>
         <source>E&amp;xport...</source>
-        <translation>ھەناردەکردن...</translation>
+        <translation>ھ&amp;ەناردەکردن...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
         <source>Dele&amp;te</source>
-        <translation>سڕینەوە</translation>
+        <translation>سڕ&amp;ینەوە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="641"/>
@@ -3821,7 +3821,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="593"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>سەبڕێدتی %1 بکەرەوە.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="605"/>
@@ -3861,28 +3861,28 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="336"/>
         <source>&amp;Kill</source>
-        <translation>لابردن</translation>
+        <translation>&amp;لابردن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="324"/>
         <source>&amp;Launch</source>
-        <translation>داگیرساندن</translation>
+        <translation>&amp;داگیرساندن</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="273"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>وەشانێک زیادبکە...</translation>
+        <translation>وەشانێک &amp;زیادبکە...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="184"/>
         <source>F&amp;olders</source>
-        <translation>فۆڵدەرەکان</translation>
+        <translation>ف&amp;ۆڵدەرەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="300"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>ڕێکخستنەکان</translation>
+        <translation>ڕێکخ&amp;ستنەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="617"/>
@@ -3912,42 +3912,42 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="590"/>
         <source>Sub&amp;reddit</source>
-        <translation>سەبڕێدیت</translation>
+        <translation>&amp;سەبڕێدیت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>&amp;About %1</source>
-        <translation>دەربارەی %1</translation>
+        <translation>&amp;دەربارەی %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="285"/>
         <source>&amp;Update...</source>
-        <translation>نوێکردنەوە...</translation>
+        <translation>&amp;نوێکردنەوە...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>&amp;Meow</source>
-        <translation>میاو</translation>
+        <translation>&amp;میاو</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="315"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>بەڕێوەبردنی ھەژمارەکان...</translation>
+        <translation>&amp;بەڕێوەبردنی ھەژمارەکان...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation>پەڕگە</translation>
+        <translation>&amp;پەڕگە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation>بینین</translation>
+        <translation>&amp;بینین</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="199"/>
         <source>&amp;Help</source>
-        <translation>یارمەتی</translation>
+        <translation>&amp;یارمەتی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="339"/>
@@ -3957,7 +3957,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="510"/>
         <source>Close &amp;Window</source>
-        <translation>پەنجەرە دابخە</translation>
+        <translation>&amp;پەنجەرە دابخە</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="513"/>
@@ -4003,7 +4003,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="439"/>
         <source>Launch &amp;Offline</source>
-        <translation>داگیرساندن بە دەرھێڵ</translation>
+        <translation>داگیرساندن بە &amp;دەرھێڵ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
@@ -4013,22 +4013,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="392"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished">Ctrl+I</translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
         <source>&amp;Change Group...</source>
-        <translation>گۆڕینی گرووپ...</translation>
+        <translation>&amp;گۆڕینی گرووپ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished">Ctrl+G</translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="465"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished">Ctrl+E</translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="239"/>
@@ -4038,7 +4038,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="434"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished">Ctrl+D</translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="665"/>
@@ -4050,12 +4050,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>Launch Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>داگیرساندن بە دەرھێڵ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="442"/>
         <source>Launch the selected instance in offline mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>وەشانی ھەڵبژێردراو بە شێوازی دەرھێڵ دابگیرسێنە.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="264"/>
@@ -4070,12 +4070,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="447"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>داگیرساندنی &amp;دێمۆ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="450"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>وەشانی ھەڵبژێردراو بە شێوازی دێمۆ دابگیرسێنە.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="389"/>
@@ -4106,7 +4106,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>شێوازەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
@@ -4163,7 +4163,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>داگیرساندنی دێمۆ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
@@ -4215,7 +4215,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="918"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>ئاگادارییەکان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="923"/>
@@ -4422,27 +4422,27 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="230"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>ھەوڵی زیاتر...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="233"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>بڵۆگی پەرەسەندن بکەرەوە بۆ خوێندنەوەی ھەواڵی زیاتر لەسەر %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="836"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>بارکردنی ھەواڵەکان...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="851"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>ھیچ ھەواڵێک بەردەست نییە.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="462"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>وەشانی ھەڵبژێردراو وەک پەڕگەی زیپ ھەناردە بکە.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="569"/>
@@ -4647,19 +4647,19 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>دەتەوێت کە ماینکرافت دەستی پێکرد تەواوی شاشەکە بگرێتەوە؟</translation>
+        <translation>دەتەوێت کە ماینکرافت دەستی پێکرد &amp;تەواوی شاشەکە بگرێتەوە؟</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>درێژیی پەنجەرە:</translation>
+        <translation>درێ&amp;ژیی پەنجەرە:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>پانیی پەنجەرە:</translation>
+        <translation>پانیی پەن&amp;جەرە:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="190"/>
@@ -6027,12 +6027,12 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
-        <translation>بنچینەیی</translation>
+        <translation>&amp;بنچینەیی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;None</source>
-        <translation>ھیچیان</translation>
+        <translation>&amp;ھیچیان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
@@ -6044,13 +6044,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation>ئێچ تی تی پی</translation>
+        <translation>&amp;ئێچ تی تی پی</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation>ناونیشان و پۆرت</translation>
+        <translation>ناونیشان و &amp;پۆرت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -6061,13 +6061,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation>ناوی بەکارھێنەر:</translation>
+        <translation>&amp;ناوی بەکارھێنەر:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation>تێپەڕوشە:</translation>
+        <translation>&amp;تێپەڕوشە:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
