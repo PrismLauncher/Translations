@@ -2883,7 +2883,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
@@ -5700,7 +5700,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder instancji w przeglądarce plików.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
@@ -10641,7 +10641,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="98"/>
         <source>Abort</source>
-        <translation>Przerwano</translation>
+        <translation>Przerwij</translation>
     </message>
 </context>
 <context>
