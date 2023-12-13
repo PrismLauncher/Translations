@@ -828,22 +828,22 @@ Niektore verzie Minecraftu sa nemusia spustiť.
         <translation>Prerušené</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1752"/>
+        <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Boli nájdené staré dáta z %1, ale už máte existujúce dáta pre %2. Bohužiaľ budete musieť migrovať sami. Chcete, aby ste boli pri ďalšom spustení %2 upozornení na prebiehajúcu migráciu dát?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1756"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Vyzerá to tak že ste už predtým použili %1. Chcete migrovať údaje do nového umiestnenia %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1762"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Vyzerá to tak že ste už predtým použili %1 alebo %2. Chcete migrovať údaje do nového umiestnenia %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1805"/>
+        <location filename="src/launcher/Application.cpp" line="1817"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrácia zlyhala! Dôvod: %1</translation>
     </message>

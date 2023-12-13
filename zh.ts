@@ -848,22 +848,22 @@ Some versions of Minecraft may not launch.
         <translation>已终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1752"/>
+        <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>找到了来自 %1 的旧数据，但因在 %2 还有现存数据，因此您只能自行迁移旧数据。是否需要在下次启动 %2 时再次提醒需要进行数据迁移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1756"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>您似乎曾经使用过 %1。是否需要将您那时的数据迁移到 %2 使用的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1762"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>您似乎曾经在 %2 上用过 %1。是否需要将您那时的数据迁移到 %3 使用的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1805"/>
+        <location filename="src/launcher/Application.cpp" line="1817"/>
         <source>Migration failed! Reason: %1</source>
         <translation>迁移失败！原因：%1</translation>
     </message>

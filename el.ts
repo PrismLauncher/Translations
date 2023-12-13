@@ -806,22 +806,22 @@ Some versions of Minecraft may not launch.
         <translation>Ακυρώθηκε</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1752"/>
+        <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Βρέθηκαν παλιά δεδομένα από το %1, αλλά έχετε ήδη υπάρχοντα δεδομένα για το %2. Δυστυχώς, θα χρειαστεί να μεταφέρετε τα δεδομένα μόνοι σας. Θέλετε να σας υπενθυμίσουμε για την εκκρεμή μεταφορά δεδομένων την επόμενη φορά που θα ξεκινήσετε το %2;</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1756"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Φαίνεται ότι χρησιμοποιήσατε το %1 προηγουμένως. Θέλετε να μεταφέρετε τα δεδομένα σας στη νέα τοποθεσία του %2;</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1762"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Φαίνεται ότι χρησιμοποιήσατε το %1 στις %2 προηγουμένως. Θέλετε να μεταφέρετε τα δεδομένα σας στη νέα τοποθεσία του %3;</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1805"/>
+        <location filename="src/launcher/Application.cpp" line="1817"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Αποτυχία μεταφοράς! Αιτία: %1</translation>
     </message>

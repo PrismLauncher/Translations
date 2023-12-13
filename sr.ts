@@ -791,22 +791,22 @@ Some versions of Minecraft may not launch.
         <translation type="unfinished">Прекинут</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1752"/>
+        <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished">Пронађени су стари подаци са %1, али већ имате постојеће податке за %2. Нажалост, мораћете сами да мигрирате. Да ли желите да вас подсети на миграцију података на чекању следећи пут када покренете %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1756"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Изгледа да сте раније користили %1. Да ли желите да мигрирате своје податке на нову локацију %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1762"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Изгледа да сте раније користили %1 на %2. Да ли желите да мигрирате своје податке на нову локацију %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1805"/>
+        <location filename="src/launcher/Application.cpp" line="1817"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Миграција није успела! Разлог: %1</translation>
     </message>

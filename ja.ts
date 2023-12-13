@@ -827,22 +827,22 @@ Minecraft のバージョンによっては起動しない場合があります�
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1752"/>
+        <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 からの古いデータが見つかりましたが、%2 用のデータが既に存在しています。手動で移行する必要があります。次回 %2 を起動する際に保留中のデータ移行について通知しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1756"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>あなたは以前%1を利用していたようです。データを%2の新しい場所に移行しますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1762"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>あなたは%2以前に%1を利用していたようです。データを%3の新しい場所に移行しますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1805"/>
+        <location filename="src/launcher/Application.cpp" line="1817"/>
         <source>Migration failed! Reason: %1</source>
         <translation>次の理由で移行に失敗しました: %1</translation>
     </message>
@@ -2258,7 +2258,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM　実行ファイル</translation>
+        <translation>JVisualVM&#x3000;実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
@@ -4440,7 +4440,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します　(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
+        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します&#x3000;(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>

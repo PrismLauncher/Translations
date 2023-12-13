@@ -805,22 +805,22 @@ Some versions of Minecraft may not launch.
         <translation>Cancelado</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1752"/>
+        <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Foram encontrados dados antigos de %1, mas você já possui dados existentes para %2. Infelizmente, você precisará realizar a migração por conta própria. Deseja ser lembrado da migração pendente de dados na próxima vez que iniciar %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1756"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Parece que você utilizou %1 anteriormente. Deseja migrar seus dados para a nova localização de %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1762"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Parece que você utilizou %1 em %2 antes. Deseja migrar seus dados para a nova localização de %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1805"/>
+        <location filename="src/launcher/Application.cpp" line="1817"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Falha na migração! Razão: %1</translation>
     </message>

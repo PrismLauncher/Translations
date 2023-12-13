@@ -804,22 +804,22 @@ Some versions of Minecraft may not launch.
         <translation>Pārtraukts</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1752"/>
+        <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Veci dati no %1 tika atrasti, bet tev jau ir pastāvoši dati priekš %2. Diemžēl tev nāksies migrēt pašam. Vai vēlies tikt atgādināts par datu migrāciju nākošreiz kad tu atver %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1756"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Izskatās ka esi lietojis %1 iepriekš. Vai vēlies migrēt savus datus uz jauno atrašānās vietu %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1762"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Izskatās ka jau esi lietojis %1 uz %2 iepriekš. Vai vēlies migrēt savus datus uz jauno vietu %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1805"/>
+        <location filename="src/launcher/Application.cpp" line="1817"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrācija neizdevās! Iemesls: %1</translation>
     </message>

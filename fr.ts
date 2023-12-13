@@ -852,22 +852,22 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
         <translation>Annulé</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1752"/>
+        <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Des anciennes données de %1 ont été trouvés, cependant vous avez déjà des données existantes pour %2. Malheuresement, vous devrez faire la migration par vous même. Souhaitez-vous recevoir un rappel de la migration des données en attente la prochaine fois que vous démarrerez %2&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1756"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Il semblerai que vous avez utilisé %1 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement %2&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1762"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Il semblerait que vous utilisez %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement de %3&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1805"/>
+        <location filename="src/launcher/Application.cpp" line="1817"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration échouée&#xa0;! Raison&#xa0;: %1</translation>
     </message>

@@ -808,22 +808,22 @@ Some versions of Minecraft may not launch.
         <translation>Avortat</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1752"/>
+        <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>S&apos;ha trobat dades antigues del %1, però ja existeixen dades pel %2. Malauradament, l&apos;haureu de migrar pel vostre compte. Voldries ser recordat de la migració de les teves dades el pròxim cop que iniciïs %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1756"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Sembla que ja utilitzaves %1 anteriorment. Voleu migrar les dades a la nova ubicació %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1762"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Sembla que ja has utilitzat %1 a %2 anteriorment. Vols migrar les dades a la nova ubicació %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1805"/>
+        <location filename="src/launcher/Application.cpp" line="1817"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migració fallida! Motiu: %1</translation>
     </message>

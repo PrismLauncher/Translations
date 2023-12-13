@@ -796,22 +796,22 @@ Some versions of Minecraft may not launch.
         <translation type="unfinished">Avbrutt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1752"/>
+        <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished">Eldre data fra %1 ble funnet, men du har allerede eksisterende data for %2. Det er desverre nødvendig at du migrerer. Ønsker du en påminnelse om datamigreringen neste gang du starter 2%</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1756"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation type="unfinished">Det ser ut som om du har brukt %1 før. Ønsker du å flytte dataen over til den nye plasseringen %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1762"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation type="unfinished">Det ser ut som at du tidligere har anvendt %1 på %2 før. Ønsker du å flytte dataen din til den nye plasseringen %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1805"/>
+        <location filename="src/launcher/Application.cpp" line="1817"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrasjon feilet! Årsak: %1</translation>
     </message>
