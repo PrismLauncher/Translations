@@ -1168,7 +1168,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished">Nabigo ang isa o nakakarami pang sub-task</translation>
+        <translation>Nabigo ang isa o nakakarami pa na sub-task</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
