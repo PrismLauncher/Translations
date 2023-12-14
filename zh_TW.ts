@@ -1230,7 +1230,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>一個或多個子任務失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
@@ -2985,7 +2985,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependenies:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>發生網路錯誤。無法載入專案前置項：%1</translation>
     </message>
 </context>
 <context>
@@ -10188,7 +10188,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
         <source>The request was abborted for an unknown reason</source>
-        <translation type="unfinished"></translation>
+        <translation>由於未知原因，此請求已被中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
@@ -11362,7 +11362,7 @@ inheritsFrom 引數缺失</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished">錯誤</translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
