@@ -794,7 +794,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished">System configuration na hindi naayon</translation>
+        <translation>Kompigurasyon ng sistema na hindi naayon</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1354"/>
@@ -1168,7 +1168,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nabigo ang isa o nakakarami pang sub-task</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
@@ -1672,12 +1672,12 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>I-impake ang Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>I-impake ang %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
@@ -1688,7 +1688,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <source>Unable to export instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-impake ang instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
@@ -1708,7 +1708,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pag-kahulugan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
@@ -1749,12 +1749,12 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>I-impake ang Modrinth Pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>I-impake ang CurseForge Pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
@@ -1765,7 +1765,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>I-impake ang %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
@@ -1838,19 +1838,19 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="96"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsyonal na Impormasyon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bersyon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="130"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Awtor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
@@ -1866,7 +1866,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="166"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resulta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="195"/>
@@ -1970,7 +1970,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>I-suri o i-bago ang lahat ng nakaselektong mga resources (lahat kung walang nai-select)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -1980,7 +1980,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntahan ang home page ng mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="117"/>
@@ -1991,7 +1991,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="201"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selektahin ang %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="231"/>
@@ -1999,7 +1999,10 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tatanggalin mo ang %1 na bagay.
+Ito ay hindi ma-babalik at ito ay mawawala sa folder.
+
+Sigurado ka ba?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="236"/>
@@ -2023,7 +2026,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kung tinanggal mo ang resource na ito habang bukas ang game mo, baka mag-crash ang iyong game.
+Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
@@ -2034,7 +2038,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kung pinatay mo ang resource na ito habang bukas ang game mo, baka mag-crash ang iyong game.
+Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
@@ -2062,7 +2067,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Suriin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
@@ -2166,7 +2171,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang napiling file ay hindi masuri bilang executable</translation>
     </message>
 </context>
 <context>
@@ -2182,7 +2187,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusuri ang mga FML libraries…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
@@ -2197,12 +2202,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinokopya ang mga FML libraries sa instance…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-gawa ang folder ng FML library sa loob ng instace.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
@@ -2269,7 +2274,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinokopya ang kaayusan…</translation>
     </message>
 </context>
 <context>
@@ -2282,7 +2287,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi na-aayon ang data na binalik ng API.</translation>
     </message>
 </context>
 <context>
@@ -2290,7 +2295,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="123"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinahanda ang mga mods para sa CurseForge…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
