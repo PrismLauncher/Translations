@@ -388,13 +388,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tài khoản MS</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Ngoại tuyến</translation>
+        <translation>Ngoại tuyến</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
@@ -754,7 +754,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished">Bản cài này đang khóa việc thay đổi tệp ở %1
+        <translation>Bản cài này đang khóa việc thay đổi tệp ở %1
 
 Thời gian: %2
 Đang cập nhật từ phiên bản %3 đến %4
@@ -822,7 +822,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Cấu hình hệ thống của bạn không tương thích</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1354"/>
@@ -1235,17 +1235,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="282"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đang chờ một công việc để bắt đầu...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="284"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang làm 1 công việc:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="286"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Công việc đã kết thúc.</translation>
     </message>
 </context>
 <context>
