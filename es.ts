@@ -6333,13 +6333,6 @@ Borrarla podría romper la otra instancia,
 Borrarla podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
-            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
-
-%1
-
-Borrarla podría romper las otras instancias, 
-
-¿Desea continuar?</numerusform>
         </translation>
     </message>
     <message>
