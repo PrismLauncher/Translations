@@ -3380,7 +3380,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="64"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Si está habilitado, el lanzador no verificará si una instancia es compatible con la versión de Java seleccionada.</translation>
+        <translation>Si se activa, el lanzador no revisará si una instancia es compatible con la versión seleccionada de Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
