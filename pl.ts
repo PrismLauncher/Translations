@@ -6634,7 +6634,9 @@ Czy chcesz kontynuować?</translation>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ta paczka modyfikacji jest lokalna.
+Może być aktualizowana tylko przy użyciu pliku w formacie %1.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="152"/>
