@@ -2392,7 +2392,7 @@ Por favor inténtalo nuevamente.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
         <source>Invalid data returned from the API.</source>
-        <translation>Datos no válidos devueltos desde la API.</translation>
+        <translation>Datos no válidos devueltos por la API.</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2540,7 +2540,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="494"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Los siguientes archivos no están disponibles para su descarga en lanzadores de terceros.&lt;br/&gt;Tendrás que descargarlos manualmente y añadirlos a la instancia.</translation>
+        <translation>Las siguientes modificaciones fueron bloqueadas en launchers de terceros.&lt;br/&gt;Vas a necesitar descargarlas manualmente y añadirlas al modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
