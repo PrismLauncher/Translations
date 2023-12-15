@@ -7354,7 +7354,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdź aktualizacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="96"/>
@@ -7366,17 +7366,17 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Weryfikuj zależności</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spróbuj aktualizować i znaleźć brakujące zależności dla zaznaczonych modyfikacji (wszystkich modyfikacji, jeżeli żadna nie jest zaznaczona)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetuj metadane aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="120"/>
@@ -8186,7 +8186,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="187"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
@@ -10254,7 +10254,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <source>A network error occurred. Could not load project versions:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd z siecią. Nie udało się załadować wersji projektu:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
