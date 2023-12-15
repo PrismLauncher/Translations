@@ -1327,7 +1327,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Si &quot;copiar guardados&quot; es seleccionado los datos de guardado del mundo serán copiados en vez de vincular y por tanto no se compartirán entre instancias.</translation>
+        <translation>Si &quot;copiar mundos&quot; es seleccionado, los datos del mundo serán copiados en vez de ser vinculados, y por tanto no se compartirán entre instancias.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
