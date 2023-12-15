@@ -3214,12 +3214,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="43"/>
         <source>Removing old conflicting files...</source>
-        <translation>Removiendo archivos antiguos en conflicto...</translation>
+        <translation>Eliminando archivos antiguos en conflicto...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="52"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>Fallo al remover archivos antiguos en conflicto.</translation>
+        <translation>No se pudieron eliminar los archivos antiguos en conflicto.</translation>
     </message>
 </context>
 <context>
