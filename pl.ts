@@ -837,7 +837,9 @@ po więcej informacji.</translation>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Folder /tmp jest aktualnie zamontowany z flagą &apos;noexec&apos;.
+Niektóre wersje Minecrafta mogą się nie załadować.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1024"/>
@@ -1244,7 +1246,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedno lub więcej podzadań nie powiodło się</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
@@ -3018,7 +3020,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependenies:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd sieciowy. Nie udało się załadować zależności projektu:%1</translation>
     </message>
 </context>
 <context>
@@ -5450,7 +5452,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Otwórz centralny folder modyfikacji w eksploratorze plików.</translation>
+        <translation>Otwórz centralny folder modyfikacji w przeglądarce plików.</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -5690,7 +5692,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasek stanu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
@@ -5710,7 +5712,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Centralne modyfikacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
@@ -5720,17 +5722,17 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder z ikonami instancji w przeglądarce plików.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Logi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder z logami w przeglądarce plików.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="661"/>
@@ -5745,12 +5747,12 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Motywy widżetów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder z motywami widżetów w przeglądarce plików.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
@@ -5760,17 +5762,17 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder z motywami ikon w przeglądarce plików.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="781"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paczki kotów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder paczek kotów w przeglądarce plików.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="303"/>
@@ -6294,7 +6296,7 @@ Proszę dodaj swoje konto Mojang lub Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1283"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation>Ta instancja nie może zostać poddana edycji. Może być zepsuta, nieprawidłowa lub stara. Sprawdź dzienniki, aby uzyskać szczegółowe informacje.</translation>
+        <translation>Ta instancja nie może zostać poddana edycji. Może być zepsuta, nieprawidłowa lub stara. Sprawdź logi, aby uzyskać szczegółowe informacje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1318"/>
@@ -8612,7 +8614,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
         <source>Confirm Deletion</source>
-        <translation>Przerwij usunięcie</translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="197"/>
@@ -8621,7 +8623,7 @@ This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
         <translation>Jesteś w trakcie usuwania &quot;%1&quot;.
-Jest to działanie permamentne i plik zostanie usunięty z folderuz logami.
+Jest to działanie permamentne i plik zostanie usunięty z folderu z logami.
 
 Jesteś tego pewien?</translation>
     </message>
@@ -8633,7 +8635,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>Jesteś pewien usunięcia wszystkich plików logów?</translation>
+        <translation>Czy na pewno chcesz usunąć wszystkie logi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
@@ -11433,7 +11435,7 @@ Brakuje inheritsFrom</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
@@ -12259,7 +12261,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="326"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>Niektóre komponenty nie mogły zostać zaimportowane. Sprawdź dziennik zdarzeń by wyświetlić szczegóły</translation>
+        <translation>Niektóre komponenty nie mogły zostać zaimportowane. Sprawdź logi by wyświetlić szczegóły</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
