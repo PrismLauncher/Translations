@@ -267,7 +267,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1055"/>
         <source>Failed to create pack component</source>
-        <translation>Nabigo sa paglikha ng bahagi ng pack</translation>
+        <translation>Nabigong gawin ang komponent ng pack</translation>
     </message>
 </context>
 <context>
