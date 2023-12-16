@@ -2205,7 +2205,7 @@ Jesteś tego pewien?</translation>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Jeśli usuniesz ten zasób kiedy gra jest włączona może to spowodować niespodziewane wyłączenie się twojej gry.
-Czy jesteś pewien ze chcesz to zrobić?</translation>
+Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
@@ -2216,7 +2216,8 @@ Czy jesteś pewien ze chcesz to zrobić?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli wyłączysz ten zasób kiedy gra jest włączona może to spowodować niespodziewane wyłączenie się twojej gry.
+Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
@@ -2560,7 +2561,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="242"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Nie udało się znaleźć pasującego indeksu dla starszej wersji. Może to spowodować zduplikowanie co niektórych plików. Chcesz kontynuować?</translation>
+        <translation>Nie udało się znaleźć pasującego indeksu dla starszej wersji. Może to spowodować zduplikowanie co niektórych plików. Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
@@ -3668,7 +3669,7 @@ Postępuj ostrożnie!</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="363"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Pokazać konsolę, gdy gra się zcrashuje</translation>
+        <translation>Pokaż konsolę po &amp;awarii gry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="385"/>
@@ -4758,7 +4759,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Pokazywać konsolę po &amp;awarii gry</translation>
+        <translation>Pokaż konsolę po &amp;awarii gry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
@@ -5692,7 +5693,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
-        <translation>Pasek stanu</translation>
+        <translation>Pasek Stanu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
@@ -5707,7 +5708,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Główny folder launchera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
@@ -5717,7 +5718,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
         <source>Instance Icons</source>
-        <translation>Ikony instancji</translation>
+        <translation>Ikony Instancji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
@@ -5747,7 +5748,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>&amp;Widget Themes</source>
-        <translation>&amp;Motywy widżetów</translation>
+        <translation>&amp;Motywy Widżetów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
@@ -5757,7 +5758,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
         <source>I&amp;con Theme</source>
-        <translation>Motyw i&amp;kon</translation>
+        <translation>Motyw I&amp;kon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
@@ -5767,7 +5768,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="781"/>
         <source>Cat Packs</source>
-        <translation>Paczki kotów</translation>
+        <translation>Paczki Kotów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
@@ -7465,7 +7466,9 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
         <source>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizowanie modyfikacji podczas gdy gra jest włączona może spowodować duplikację modyfikacji i awarie gry.
+Stare pliki mogą nie zostać usunięte ponieważ są w użyciu.
+Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
@@ -7508,7 +7511,8 @@ Czy na pewno?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeżeli usuniesz modyfikacje podczas gdy gra jest włączona, może ona doznać awarii.
+Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
@@ -7970,7 +7974,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Nie udało się znaleźć pasującego indeksu dla starszej wersji. Może to spowodować zduplikowanie co niektórych plików. Chcesz kontynuować?</translation>
+        <translation>Nie udało się znaleźć pasującego indeksu dla starszej wersji. Może to spowodować zduplikowanie co niektórych plików. Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="185"/>
@@ -9945,7 +9949,7 @@ Ten komunikat będzie wyświetlany, dopóki nie usuniesz tego argumentu JVM.</tr
 
 Old name: %1
 New name: %2</source>
-        <translation>Wygląda na to, że nazwa instancji posiada numer starszej wersji. Chcesz go zaktualizować?
+        <translation>Wygląda na to, że nazwa instancji posiada numer starszej wersji. Czy chcesz go zaktualizować?
 
 Poprzednia nazwa: %1
 Nowa nazwa: %2</translation>
@@ -9960,9 +9964,9 @@ Nowa nazwa: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Jedna lub więcej z twoich instancji pochodzą z tej samej paczki modyfikacji%1. Chcesz utworzyć osobną instancję, czy zaktualizować już istniejącą?
+        <translation>Jedna lub więcej z twoich instancji pochodzą z tej samej paczki modyfikacji%1. Czy chcesz utworzyć osobną instancję, czy zaktualizować już istniejącą?
 
-Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktualizowaniem, światy mogą zostać uszkodzone oraz niektóre pliki konfiguracyjne mogą zaginąć (nadpisane przez paczkę).</translation>
+Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktualizowaniem, światy mogą zostać uszkodzone oraz niektóre pliki konfiguracyjne mogą zaginąć (z powodu nadpisania przez paczkę).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
@@ -10266,7 +10270,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
         <source>The request was abborted for an unknown reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Żądanie zostało anulowane z nieznanych powodów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
@@ -10490,13 +10494,14 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącznik potwierdzenia</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli włączysz/wyłączysz ten zasób kiedy gra jest włączona może to spowodować niespodziewane wyłączenie się twojej gry.
+Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="495"/>
