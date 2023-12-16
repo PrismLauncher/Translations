@@ -392,7 +392,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
@@ -758,7 +758,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished">Deze instalatie heeft een update lock bestand op: %1
+        <translation>Deze installatie heeft een update lock bestand op: %1
 
 Tijd: %2
 Bijwerken van versie %3 naar #4
