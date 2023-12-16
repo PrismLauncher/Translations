@@ -3020,8 +3020,9 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
-        <source>A network error occurred. Could not load project dependenies:%1</source>
-        <translation>Wystąpił błąd sieciowy. Nie udało się załadować zależności projektu:%1</translation>
+        <source>A network error occurred. Could not load project dependencies:%1</source>
+        <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
+        <translation type="unfinished">Wystąpił błąd sieciowy. Nie udało się załadować zależności projektu:%1</translation>
     </message>
 </context>
 <context>
@@ -7463,10 +7464,13 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
-        <source>If you update mods while the game is running may cause mod duplication and game crashes.
+        <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Aktualizowanie modyfikacji podczas gdy gra jest włączona może spowodować duplikację modyfikacji i awarie gry.
+        <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
+The old files may not be deleted as they are in use.
+Are you sure you want to do this?</oldsource>
+        <translation type="unfinished">Aktualizowanie modyfikacji podczas gdy gra jest włączona może spowodować duplikację modyfikacji i awarie gry.
 Stare pliki mogą nie zostać usunięte ponieważ są w użyciu.
 Czy na pewno chcesz to zrobić?</translation>
     </message>
@@ -10269,8 +10273,9 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
-        <source>The request was abborted for an unknown reason</source>
-        <translation>Żądanie zostało anulowane z nieznanych powodów</translation>
+        <source>The request was aborted for an unknown reason</source>
+        <oldsource>The request was abborted for an unknown reason</oldsource>
+        <translation type="unfinished">Żądanie zostało anulowane z nieznanych powodów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>

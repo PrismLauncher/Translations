@@ -2968,8 +2968,9 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
-        <source>A network error occurred. Could not load project dependenies:%1</source>
-        <translation>Hálózati hiba történt. Nem sikerült betölteni a projekt függőségek:%1</translation>
+        <source>A network error occurred. Could not load project dependencies:%1</source>
+        <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
+        <translation type="unfinished">Hálózati hiba történt. Nem sikerült betölteni a projekt függőségek:%1</translation>
     </message>
 </context>
 <context>
@@ -7321,10 +7322,13 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
-        <source>If you update mods while the game is running may cause mod duplication and game crashes.
+        <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Ha a játék futása közben frissíti a modokat, az modduplikációt és a játék összeomlását okozhatja.
+        <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
+The old files may not be deleted as they are in use.
+Are you sure you want to do this?</oldsource>
+        <translation type="unfinished">Ha a játék futása közben frissíti a modokat, az modduplikációt és a játék összeomlását okozhatja.
 A régi fájlokat nem lehet törölni, mivel használatban vannak.
 Biztosan ezt akarod csinálni?</translation>
     </message>
@@ -10084,8 +10088,9 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
-        <source>The request was abborted for an unknown reason</source>
-        <translation>A kérést ismeretlen okból megszakították</translation>
+        <source>The request was aborted for an unknown reason</source>
+        <oldsource>The request was abborted for an unknown reason</oldsource>
+        <translation type="unfinished">A kérést ismeretlen okból megszakították</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>

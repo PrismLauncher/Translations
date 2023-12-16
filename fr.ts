@@ -3000,8 +3000,9 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
-        <source>A network error occurred. Could not load project dependenies:%1</source>
-        <translation>Erreur réseau rencontrée. Impossible de charger les dépendances du projet&#x202f;: %1</translation>
+        <source>A network error occurred. Could not load project dependencies:%1</source>
+        <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
+        <translation type="unfinished">Erreur réseau rencontrée. Impossible de charger les dépendances du projet&#x202f;: %1</translation>
     </message>
 </context>
 <context>
@@ -7427,10 +7428,13 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
-        <source>If you update mods while the game is running may cause mod duplication and game crashes.
+        <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Si vous mettez à jour des mods alors que le jeu est en cours d&apos;exécution, vous risquez de dupliquer les mods et de faire planter le jeu.
+        <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
+The old files may not be deleted as they are in use.
+Are you sure you want to do this?</oldsource>
+        <translation type="unfinished">Si vous mettez à jour des mods alors que le jeu est en cours d&apos;exécution, vous risquez de dupliquer les mods et de faire planter le jeu.
 Les anciens fichiers ne peuvent pas être supprimés car ils sont en cours d&apos;utilisation.
 Êtes-vous sûr de vouloir faire cela ?</translation>
     </message>
@@ -10206,8 +10210,9 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
-        <source>The request was abborted for an unknown reason</source>
-        <translation>La requête a été interrompue pour une raison inconnue</translation>
+        <source>The request was aborted for an unknown reason</source>
+        <oldsource>The request was abborted for an unknown reason</oldsource>
+        <translation type="unfinished">La requête a été interrompue pour une raison inconnue</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>

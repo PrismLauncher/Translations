@@ -2974,8 +2974,9 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
-        <source>A network error occurred. Could not load project dependenies:%1</source>
-        <translation>Vyskytla se chyba sítě. Nepodařilo se načíst závislosti projektu: %1</translation>
+        <source>A network error occurred. Could not load project dependencies:%1</source>
+        <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
+        <translation type="unfinished">Vyskytla se chyba sítě. Nepodařilo se načíst závislosti projektu: %1</translation>
     </message>
 </context>
 <context>
@@ -7396,10 +7397,13 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
-        <source>If you update mods while the game is running may cause mod duplication and game crashes.
+        <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Pokud aktualizujete mody za běhu hry, může dojít k duplikaci modů a pádu hry.
+        <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
+The old files may not be deleted as they are in use.
+Are you sure you want to do this?</oldsource>
+        <translation type="unfinished">Pokud aktualizujete mody za běhu hry, může dojít k duplikaci modů a pádu hry.
 Staré soubory nemusí být odstraněny, protože jsou používány.
 Opravdu to chcete udělat?</translation>
     </message>
@@ -10174,8 +10178,9 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
-        <source>The request was abborted for an unknown reason</source>
-        <translation>Žádost byla z neznámých důvodů zrušena</translation>
+        <source>The request was aborted for an unknown reason</source>
+        <oldsource>The request was abborted for an unknown reason</oldsource>
+        <translation type="unfinished">Žádost byla z neznámých důvodů zrušena</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>

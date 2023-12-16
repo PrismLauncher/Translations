@@ -2964,8 +2964,9 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
-        <source>A network error occurred. Could not load project dependenies:%1</source>
-        <translation>Ett nätverksfel uppstod. Kunde inte ladda projektberoende:%1</translation>
+        <source>A network error occurred. Could not load project dependencies:%1</source>
+        <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
+        <translation type="unfinished">Ett nätverksfel uppstod. Kunde inte ladda projektberoende:%1</translation>
     </message>
 </context>
 <context>
@@ -7262,10 +7263,13 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
-        <source>If you update mods while the game is running may cause mod duplication and game crashes.
+        <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation>Om du uppdaterar mods medan spelet körs kan det orsaka modduplicering och spelkraschar.
+        <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
+The old files may not be deleted as they are in use.
+Are you sure you want to do this?</oldsource>
+        <translation type="unfinished">Om du uppdaterar mods medan spelet körs kan det orsaka modduplicering och spelkraschar.
 De gamla filerna kanske inte tas bort eftersom de används.
 Är du säker på att du vill göra det här?</translation>
     </message>
@@ -9991,8 +9995,9 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
-        <source>The request was abborted for an unknown reason</source>
-        <translation>Begäran avbröts av okänd anledning</translation>
+        <source>The request was aborted for an unknown reason</source>
+        <oldsource>The request was abborted for an unknown reason</oldsource>
+        <translation type="unfinished">Begäran avbröts av okänd anledning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
