@@ -2617,7 +2617,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="73"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Katangian</translation>
     </message>
 </context>
 <context>
@@ -2846,27 +2846,27 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
@@ -9812,7 +9812,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pan-sala:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
