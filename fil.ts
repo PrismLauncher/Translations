@@ -1939,7 +1939,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan ang mga &amp;Configs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -1949,22 +1949,22 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="138"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan ang &amp;Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="146"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;I-download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-download ng bagong resource</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Suriin kung may &amp;Updates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -1999,7 +1999,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">Tatanggalin mo ang %1 na bagay.
+        <translation>Tatanggalin mo ang %1 na bagay.
 Ito ay hindi ma-babalik at ito ay mawawala sa folder.
 
 Sigurado ka ba?</translation>
@@ -2010,17 +2010,20 @@ Sigurado ka ba?</translation>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tatanggalin mo ang folder &quot;%1&quot;.
+Ito ay hindi mababalik at maalis to sa pangunahing folder.
+
+Sigurado ka ba?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="243"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>I-kumpirma ang pag-tanggal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>I-kumpirma ang pag-delete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
@@ -2032,7 +2035,7 @@ Sigurado ka ba sa gagawin mo?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>I-kumpirma ang pag-disable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
@@ -2044,12 +2047,12 @@ Sigurado ka ba sa gagawin mo?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 ang naka-install, %2 ang selected)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="327"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 ay naka-install)</translation>
     </message>
 </context>
 <context>
@@ -2060,7 +2063,7 @@ Sigurado ka ba sa gagawin mo?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2726,7 +2729,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
@@ -3067,7 +3070,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
@@ -3510,7 +3513,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
@@ -3619,7 +3622,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="405"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="414"/>
@@ -4010,7 +4013,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="136"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
@@ -9258,62 +9261,62 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="39"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="49"/>
         <source>Player Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Uri ng modelo ng Player</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
         <source>Steve Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo na Steve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="65"/>
         <source>Alex Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo na Alex</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="75"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="75"/>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang pag-gamit ng remote URL para sa pag-set ng skin ay hindi pa nai-implement.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="82"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ka pwedeng gumamit ng invalid URL para sa pag-upload ng skin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="94"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang mahanap na Skin file!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="112"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang pag-upload ng skin!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="116"/>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Natapos ng maayos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="123"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>I-select ang texture ng Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="138"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang Kapa</translation>
     </message>
 </context>
 <context>
