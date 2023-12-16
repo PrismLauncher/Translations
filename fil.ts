@@ -257,7 +257,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
         <source>Failed to create libraries component</source>
-        <translation>Nabigong gawin ang mga libraries komponents</translation>
+        <translation>Nabigong gawin ang mga component ng libraries</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
