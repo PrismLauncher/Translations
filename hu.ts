@@ -2970,7 +2970,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished">Hálózati hiba történt. Nem sikerült betölteni a projekt függőségek:%1</translation>
+        <translation>Hálózati hiba történt. Nem sikerült betölteni a projekt függőségek: %1</translation>
     </message>
 </context>
 <context>
@@ -7328,7 +7328,7 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished">Ha a játék futása közben frissíti a modokat, az modduplikációt és a játék összeomlását okozhatja.
+        <translation>Ha a játék futása közben frissíti a modokat, az modduplikációt és a játék összeomlását okozhatja.
 A régi fájlokat nem lehet törölni, mivel használatban vannak.
 Biztosan ezt akarod csinálni?</translation>
     </message>
@@ -10090,7 +10090,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished">A kérést ismeretlen okból megszakították</translation>
+        <translation>A kérést ismeretlen okból megszakították</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
