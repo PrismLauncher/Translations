@@ -2986,7 +2986,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished">發生網路錯誤。無法載入專案前置項：%1</translation>
+        <translation>發生網路錯誤。無法載入專案前置項：%1</translation>
     </message>
 </context>
 <context>
@@ -3723,7 +3723,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="543"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟用 Feral Interactive 的遊戲模式，可能會提高遊戲效能。‎&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟用 Feral Interactive&apos;s GameMode，可能會提高遊戲效能。‎&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
@@ -3804,7 +3804,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="364"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>在您的系統上找不到 Feral Interactive 的遊戲模式。</translation>
+        <translation>在您的系統上找不到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="369"/>
@@ -5127,7 +5127,7 @@ You&apos;ll have to correct this problem manually.</source>
         <translation>這些標記為「本機」的檔案遺失了：
 %1
 
-您需要增加這些檔案，或是移除需要他們的套件。
+您需要增加這些檔案，或是移除需要它們的套件。
 您必須手動修復這個問題。</translation>
     </message>
     <message>
@@ -6849,7 +6849,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="285"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟用 Feral Interactive 的遊戲模式，可能會提高遊戲效能。‎&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟用 Feral Interactive&apos;s GameMode，可能會提高遊戲效能。‎&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="288"/>
@@ -6958,7 +6958,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>在你的系統上找不到 Feral Interactive 的遊戲模式。</translation>
+        <translation>在你的系統上找不到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="166"/>
@@ -7407,8 +7407,8 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished">在遊戲執行時更新模組，可能會導致模組重複或遊戲崩潰。
-由於遊戲正在使用舊版本的模組，他們可能不會被刪除。
+        <translation>在遊戲執行時更新模組，可能會導致模組重複或遊戲崩潰。
+由於遊戲正在使用舊版本的模組，它們可能不會被刪除。
 您確定嗎？</translation>
     </message>
     <message>
@@ -9781,7 +9781,7 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
         <translation>您嘗試將所需要的 Java 版本引數傳送給 JVM（使用「-version:xxx」）。這是不安全的，也是不允許的。
-此訊息會持續顯示，直到您將他們從 JVM 引數中移除。</translation>
+這則訊息會持續顯示，直到您將它們從 JVM 引數中移除。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="69"/>
@@ -10193,7 +10193,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished">由於未知原因，此請求已被中止</translation>
+        <translation>由於未知原因，這個請求已被中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
