@@ -1214,7 +1214,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Satu atau lebih sub tugas gagal</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
@@ -2769,7 +2769,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
@@ -2905,7 +2905,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Terjadi sebuah kesalahan jaringan. Tidak dapat memuat ketergantungan proyek:%1</translation>
     </message>
 </context>
 <context>
@@ -5459,7 +5459,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bar Status</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
@@ -6227,7 +6227,9 @@ Apakah Anda yakin untuk melanjutkan?</numerusform>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ini adalah paket mod lokal
+Ini hanya dapat diperbarui menggunakan berkas berformat %1
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="152"/>
@@ -7560,7 +7562,7 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="187"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
@@ -9515,7 +9517,7 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <source>A network error occurred. Could not load project versions:%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Terjadi sebuah kesalahan jaringan. Tidak dapat memuat versi-versi proyek:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
@@ -9526,7 +9528,7 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Permintaan dibatalkan untuk alasan yang tidak diketahui</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
@@ -10668,7 +10670,7 @@ inheritsFrom hilang</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
