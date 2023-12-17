@@ -2966,7 +2966,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished">Ett nätverksfel uppstod. Kunde inte ladda projektberoende:%1</translation>
+        <translation>Ett nätverksfel uppstod. Kunde inte läsa in projektberoenden:%1</translation>
     </message>
 </context>
 <context>
@@ -7269,7 +7269,7 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished">Om du uppdaterar mods medan spelet körs kan det orsaka modduplicering och spelkraschar.
+        <translation>Uppdatering av mods medan spelet körs kan orsaka modduplicering och spelkraschar.
 De gamla filerna kanske inte tas bort eftersom de används.
 Är du säker på att du vill göra det här?</translation>
     </message>
@@ -9997,7 +9997,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished">Begäran avbröts av okänd anledning</translation>
+        <translation>Begäran avbröts av okänd anledning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
