@@ -2208,8 +2208,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>Если вы удалите этот ресурс во время работы игры, это может привести к сбою вашей игры
-Вы уверены, что хотите это сделать?</translation>
+        <translation>Удаление этого ресурса с запущенной игрой может привести к её вылету.
+Вы точно хотите удалить этот ресурс?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
@@ -2220,7 +2220,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Выключение этого ресурса с запущенной игрой может привести к её вылету.
+Вы точно хотите выключить этот ресурс?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
@@ -3025,7 +3026,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Из-за ошибки сети не удалось загрузить зависимости проекта:%1</translation>
     </message>
 </context>
 <context>
@@ -5288,12 +5289,12 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="100"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation>Процесс вылетел.</translation>
+        <translation>Процесс провалился.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="102"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>Процесс вылетел с кодом завершения %1.</translation>
+        <translation>Процесс провалился с кодом завершения %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
@@ -7475,7 +7476,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Обновление модов с запущенной игрой может привести к раздвоению модов и вылету игры.
+Старые файлы могут не удалиться, если они используются игрой.
+Вы точно хотите обновить моды сейчас?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
@@ -7518,7 +7521,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление модов с запущенной игрой может привести к её вылету.
+Вы точно хотите удалить эти моды сейчас?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
@@ -10289,7 +10293,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Запрос был прерван по неизвестной причине</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
