@@ -291,11 +291,11 @@
             "untranslated" : 1258
         },
         "hu" : {
-            "file" : "45b4b267e642f79f97083f9f0b7c1799ae2280fa.class",
-            "sha1" : "45b4b267e642f79f97083f9f0b7c1799ae2280fa",
-            "size" : 274679,
-            "translated" : 1848,
-            "fuzzy" : 3,
+            "file" : "1d46c1f5f9ff4ccb35938d16d19dcf900cf4bb42.class",
+            "sha1" : "1d46c1f5f9ff4ccb35938d16d19dcf900cf4bb42",
+            "size" : 274681,
+            "translated" : 1851,
+            "fuzzy" : 0,
             "untranslated" : 4
         },
         "hy" : {
