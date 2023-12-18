@@ -1333,17 +1333,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nếu chọn &quot;sao chép các tệp đã lưu&quot; các tệp thế giới sẽ được sao chép thay vì liên kết vào và vì đó không chia sẻ giữa các instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Không liến kết tập tin đã lưu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dùng đường liên kết thay vì việc sao chép các tệp.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
