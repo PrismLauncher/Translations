@@ -2982,7 +2982,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished">네트워크 오류가 발생했습니다. 프로젝트 의존성을 불러올 수 없습니다:%1</translation>
+        <translation>네트워크 오류가 발생했습니다. 프로젝트 의존성을 불러올 수 없습니다:%1</translation>
     </message>
 </context>
 <context>
@@ -7330,7 +7330,7 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished">게임이 실행 중일 때 모드를 업데이트하면 모드 중복이 발생하고 게임이 충돌할 수 있습니다.
+        <translation>게임이 실행 중일 때 모드를 업데이트하면 모드 중복이 발생하고 게임이 충돌할 수 있습니다.
 오래된 파일은 사용 중일 경우 삭제되지 않을 것입니다.
 확실합니까?</translation>
     </message>
@@ -10084,7 +10084,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished">알 수 없는 이유로 요청이 중단됨</translation>
+        <translation>알 수 없는 이유로 요청이 중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
