@@ -2997,7 +2997,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished">Se ha producido un error de red. No se han podido cargar las dependencias del proyecto:%1</translation>
+        <translation>Se ha producido un error de red. Error al cargar las dependencias del proyecto:%1</translation>
     </message>
 </context>
 <context>
@@ -6334,6 +6334,13 @@ Borrarla podría romper la otra instancia,
 Borrarla podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
+
+%1
+
+Borrarla podría romper las otras instancias, 
+
+¿Desea continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -6592,7 +6599,7 @@ Esto es permanente y borrará completamente la instancia.
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Este es un modpack local.
+        <translation>Esto es un modpack local.
 Sólo puede actualizarse mediante un archivo con formato %1
 </translation>
     </message>
@@ -7425,9 +7432,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished">Si actualizas mods mientras el juego está en marcha puede causar duplicación de mods y caídas del juego.
-Los archivos antiguos pueden no ser borrados ya que están en uso.
-¿Estás seguro de que quieres hacer esto?</translation>
+        <translation>Actualizar mods mientras el juego se está ejecutando puede causar duplicación de mods y caídas del juego.
+Los archivos antiguos no se pueden borrar ya que están en uso.
+¿Estás seguro de que quieres hacerlo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
@@ -10201,7 +10208,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished">La solicitud fue abortada por una razón desconocida</translation>
+        <translation>La solicitud se ha cancelado por un motivo desconocido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
