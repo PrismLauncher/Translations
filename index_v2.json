@@ -523,11 +523,11 @@
             "untranslated" : 37
         },
         "ru" : {
-            "file" : "1e7799d93b66946273f0d012232d681b2babed7f.class",
-            "sha1" : "1e7799d93b66946273f0d012232d681b2babed7f",
-            "size" : 268155,
-            "translated" : 1839,
-            "fuzzy" : 16,
+            "file" : "c83ba13d12d87a0bc543fd568ba99842cfe65934.class",
+            "sha1" : "c83ba13d12d87a0bc543fd568ba99842cfe65934",
+            "size" : 268079,
+            "translated" : 1847,
+            "fuzzy" : 8,
             "untranslated" : 0
         },
         "sco" : {
