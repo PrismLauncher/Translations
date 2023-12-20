@@ -1250,7 +1250,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished">Одна или несколько подзадач завершились неудачей</translation>
+        <translation>Одна или несколько вложенных задач провалились</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
@@ -5742,7 +5742,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished">Открыть папку журнала в файловом менеджере.</translation>
+        <translation>Открыть папку журнала в файловом менеджере.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="661"/>
@@ -5762,7 +5762,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished">Открыть папку с темами виджетов в файловом менеджере.</translation>
+        <translation>Открыть папку с темами виджетов в файловом менеджере.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
@@ -5772,7 +5772,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished">Откройте папку с темой иконок в файловом браузере.</translation>
+        <translation>Открыть папку темы иконок в файловом менеджере.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="781"/>
@@ -6646,8 +6646,8 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation type="unfinished">Это локальный модпак.
-Он может быть обновлен только с помощью файла в формате %1
+        <translation>Это локальная сборка
+Её можно обновить только файлом в формате %1
 </translation>
     </message>
     <message>
@@ -10284,7 +10284,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <source>A network error occurred. Could not load project versions:%1</source>
-        <translation type="unfinished">Произошла сетевая ошибка. Не удалось загрузить версии проекта:%1</translation>
+        <translation>Произошла сетевая ошибка. Не удалось загрузить версии проекта:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
@@ -10519,14 +10519,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Подтверждение переключения</translation>
+        <translation>Подтвердите действие</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished">Если вы включите/выключите этот ресурс во время игры, это может привести к краху игры.
-Вы уверены, что хотите это сделать?</translation>
+        <translation>Включение/выключение этого ресурса с запущенной игрой может привести к её вылету.
+Вы точно хотите это сделать?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="495"/>
