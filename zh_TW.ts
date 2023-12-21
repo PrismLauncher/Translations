@@ -5235,7 +5235,7 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="95"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>處理程序已退出，代碼：%1。</translation>
+        <translation>處理程序已退出，結束代碼：%1。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="100"/>
@@ -5246,7 +5246,7 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="102"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>處理程序已崩潰，退出代碼：%1。</translation>
+        <translation>處理程序已崩潰，結束代碼：%1。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
