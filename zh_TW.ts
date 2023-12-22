@@ -6728,7 +6728,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="999"/>
         <source>, last played on %1 for %2</source>
-        <translation>，上次於 %1 遊玩，持續了 %2</translation>
+        <translation>，最後遊玩時間為 %1，持續了 %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -12483,7 +12483,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="268"/>
         <source>Last Played</source>
-        <translation>上次遊玩</translation>
+        <translation>最後遊玩時間</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
@@ -12510,7 +12510,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Date and time the world was last played.</source>
-        <translation>這個世界上次遊玩的日期與時間。</translation>
+        <translation>這個世界最後遊玩的日期與時間。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
