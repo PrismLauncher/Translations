@@ -232,7 +232,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Os seguintes ficheiros estão indisponíveis para transferência utilizando launchers de terceiros.&lt;br/&gt;Terás de os transferir manualmente e adicioná-los à instância.</translation>
+        <translation>Os seguintes arquivos estão indisponíveis para transferência utilizando launchers de terceiros.&lt;br/&gt;Você tera que transferir manualmente e adicioná-los à instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -384,7 +384,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
@@ -663,12 +663,12 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover conta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você realmente quer deletar essa conta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -755,7 +755,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="925"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização em andamento</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="950"/>
@@ -765,12 +765,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uma tentativa de atualização falhou
+
+Certifique-se de que sua instalação esteja funcionando bem antes de continuar.
+Verifique o log do atualizador do Prism Launcher em:
+%1
+para obter detalhes sobre a última tentativa de atualização.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="958"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>A atualização falhou</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="983"/>
@@ -780,24 +785,31 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização bem-sucedida
+
+Agora você está executando %1 .
+Verifique o log do atualizador do Prism Launcher em:
+%1
+para detalhes.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização concluida</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Seu /tmp directory está atualmente montado com o sinalizador &apos;noexec&apos; ativado.
+Algumas versões do Minecraft podem não iniciar.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuracão de sistema incompatível</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1354"/>
@@ -1187,7 +1199,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Uma ou mais subtarefas falharam</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
