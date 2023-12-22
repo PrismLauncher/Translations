@@ -227,12 +227,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>מודים חסומים נמצאו</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>הקבצים הבאים אינם זמינים להורדה בלאנצ&apos;רים צד שלישי.&lt;br/&gt;תצטרך להוריד אותם באופן ידני ולהוסיף אותם למופע (גרסא).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -384,7 +384,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>חשבון מיקרוסופט</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
@@ -443,7 +443,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>סוג החשבון (מיקרוסופט או לא מקוון)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -610,7 +610,8 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="61"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>ברוכים הבאים!
+אם אתם חדשים לתוכנה, אתם יכולים לבחור בכפתור &quot;הוסף חשבון מיקרוסופט&quot; על מנת לחבר את חשבון המיקרוסופט שלכם.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
@@ -630,7 +631,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>אתם צריכים להוסיף חשבון מיקרוסופט עם מיינקראפט לפני שאתם מוסיפים חשבון לא מקוון.&lt;br&gt;&lt;br&gt;אם אינכם זוכרים את פרטי המשתמש אנא פנו למיקרוסופט לתמיכה.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -662,12 +663,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>להסיר את החשבון?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>אתם בטוחים שאתם רוצים למחוק את החשבון?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -749,12 +750,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>להתקנה זו יש קובץ &quot;אפדייט לוק&quot; ב:%1
+
+חתימת זמן:%2
+מעדכן מגרסא %3 לגרסא %4
+נתיב היעד של ההתקנה: %5
+נתיב דאטא: %6
+זה כנראה מצביע על כך שנסיון העדכון נכשל. אנא וודאו שההתתקנה תקינה לפני שאתם ממשיכים.
+בדקו את הלוג של הPrism Launcher updater ב
+%7
+עבור פרטים אודות נסיון העדכון האחרון.
+
+למחיקת הLock הזה ולהמשיך בחרו &quot;התעלם&quot; למטה.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="925"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>עדכון מתבצע כעת</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="950"/>
@@ -764,12 +776,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>נסיון עדכון נכשל
+
+אנא בדקו שההתקנה תקינה לפני שאתם ממשיכים.
+בדקו את הלוג של הPrism Launcher updater ב 
+%1
+עבור פרטים אודות נסיון העדכון האחרון.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="958"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>עדכון נכשל</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="983"/>
@@ -779,24 +796,31 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>העדכון הושלם בהצלחה
+
+אתם עכשיו מריצים %1 .
+בדקו את הלוג של הPrism Launcher update ב 
+%1
+לפרטים נוספים.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>העדכון הצליח</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>תקיית ה tmp/ שלכם מותקנת למחשב עם דגל &apos;noexec&apos; פועל.
+גרסאות מסויימות של מיינקראפט לא ירוצו כתוצאה מכך.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>מפרט מערכת זה אינו נתמך</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1354"/>
@@ -965,7 +989,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">חיפוש</translation>
+        <translation>חיפוש</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -1078,12 +1102,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;body&gt;&lt;head/&gt;&lt;html&gt;תקיית המודים הגלובליים המקונפגת שלכם ותקיית ההורדות האוטומיות שלכם נסרקות באופן אוטומטי עבור מודים והם יועתקו לגרסא אם ימצאו.&lt;/p&gt;&lt;p&gt;ניתן גם לגרור מודים אל חלון זה או להוסיף תקייה שמה המערכת תחפש מודים אם לא הורדתם את המודים למקומות ברירת המחדל&lt;/html&gt;&lt;/body&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>תקיות לסריקה:</translation>
     </message>
 </context>
 <context>
@@ -1112,7 +1136,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר ספק מודים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -1146,7 +1170,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="172"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Aborted</source>
-        <translation type="unfinished">ננתש</translation>
+        <translation>בוטל</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
@@ -1186,7 +1210,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>תת-תהליך אחד או יותר נכשל</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
@@ -1239,12 +1263,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול של האופציה ישמור את טוען המודים (לדוג&apos; פאבריק, קווילט וכו&apos;) אבל ימחק את תקיית המודים ואת הגדרותן.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות העתק גרסא</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1289,7 +1313,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished"></translation>
+        <translation>אנא קשרו כל מקור בנפרד במקום לקשר תקיות שלמות בבת אחת</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
