@@ -631,7 +631,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρέπει να προσθέσετε ένα λογαριασμό Microsoft που έχει το Minecraft πριν μπορέσετε να προσθέσετε ένα λογαριασμό εκτός σύνδεσης.&lt;br&gt;&lt;br&gt;Αν έχετε χάσει τον λογαριασμό μπορείτε να επικοινωνήσετε με τη Microsoft για υποστήριξη.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -669,7 +669,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished">Θέλετε πραγματικά να διαγράψετε αυτό το λογαριασμό?</translation>
+        <translation>Θέλετε πραγματικά να διαγράψετε αυτό τον λογαριασμό;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
