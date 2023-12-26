@@ -7002,7 +7002,7 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished">Memperbarui mod ketika permainan masih berjalan dapat menyebabkan duplikasi mod serta permainan berhenti mendadak.
+        <translation>Memperbarui mod saat permainan sedang berjalan dapat menyebabkan duplikasi mod dan permainan berhenti mendadak.
 Berkas lama mungkin tidak terhapus karena sedang dipakai.
 Apakah Anda yakin untuk melakukan hal ini?</translation>
     </message>
@@ -7171,7 +7171,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="358"/>
         <source>Abort</source>
-        <translation type="unfinished">Batalkan</translation>
+        <translation>Batalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
@@ -7197,7 +7197,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Memeriksa ketergantungan...</translation>
+        <translation>Memeriksa ketergantungan...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="303"/>
@@ -7257,12 +7257,12 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Dibutuhkan oleh: %1</translation>
+        <translation>Dibutuhkan oleh: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="438"/>
         <source>Required by:</source>
-        <translation type="unfinished">Dibutuhkan oleh:</translation>
+        <translation>Dibutuhkan oleh:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="449"/>
@@ -7429,7 +7429,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="277"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 dari %2 selesai</translation>
+        <translation>%1 dari %2 selesai</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="282"/>
@@ -7572,7 +7572,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="284"/>
         <source>External links:</source>
-        <translation type="unfinished">Tautan eksternal:</translation>
+        <translation>Tautan eksternal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="288"/>
@@ -7676,7 +7676,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="135"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Menjalankan %1 tugas (%2 dari %3 selesai)</translation>
+        <translation>Menjalankan %1 tugas (%2 dari %3 selesai)</translation>
     </message>
 </context>
 <context>
@@ -7741,7 +7741,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished">Tutup</translation>
+        <translation>Tutup</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -7814,7 +7814,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation type="unfinished">Tambahkan Akun</translation>
+        <translation>Tambahkan Akun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
@@ -8084,7 +8084,7 @@ Pesan kesalahan: %3</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulir</translation>
+        <translation>Formulir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
@@ -8933,7 +8933,7 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="291"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Biner java yang ditentukan mengembalikan hasil yang tidak terduga: &lt;br /&gt;</translation>
+        <translation>Biner java yang ditentukan mengembalikan hasil yang tidak terduga: &lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
@@ -9341,7 +9341,7 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>unknown</source>
-        <translation type="unfinished">tidak diketahui</translation>
+        <translation>tidak diketahui</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
@@ -9480,12 +9480,12 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
         <source>Warnings</source>
-        <translation type="unfinished">Peringatan-peringatan</translation>
+        <translation>Peringatan-peringatan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
         <source>Abort</source>
-        <translation type="unfinished">Batalkan</translation>
+        <translation>Batalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
@@ -9594,7 +9594,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="217"/>
         <source>External links:</source>
-        <translation type="unfinished">Tautan eksternal:</translation>
+        <translation>Tautan eksternal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="221"/>
@@ -9719,31 +9719,31 @@ Mohon perbarui %1!</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Peringatan: Resource ini secara simbolis terhubung dari tempat lain. Menyunting akan juga mengubah yang asli.
-Path kanonis: %1</translation>
+        <translation>
+Peringatan: Sumber daya ini secara simbolis terhubung dari tempat lain. Menyuntingnya juga akan mengubah aslinya.
+Jalur kanonis: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="432"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Peringatan: Resource ini disambungkeraskan di tempat lain. Menyunting akan mengubah yang asli.</translation>
+        <translation>
+Peringatan: Sumber daya ini terhubung erat ke tempat lain. Menyuntingnya akan mengubah yang asli.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Name</source>
-        <translation type="unfinished">Nama</translation>
+        <translation>Nama</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Enable</source>
-        <translation type="unfinished">Aktifkan</translation>
+        <translation>Aktifkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Last Modified</source>
-        <translation type="unfinished">Terakhir Diubah</translation>
+        <translation>Terakhir Diubah</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
@@ -9819,7 +9819,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Peringatan: Resource ini secara simbolis terhubung dari tempat lain. Menyunting akan juga mengubah yang asli.
 Path kanonis: %1</translation>
     </message>
