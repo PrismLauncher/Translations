@@ -2297,7 +2297,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="493"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mods bloqués trouvés</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="494"/>
