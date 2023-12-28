@@ -750,7 +750,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished">このインストールには、アップデートロックファイルが次の場所に存在します。 : %1
+        <translation>このインストールには、アップデートロックファイルが次の場所に存在します。 : %1
 
 タイムスタンプ : %2
 バージョン %3 から %4 への更新
@@ -776,12 +776,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished">アップデートの試行に失敗しました。
+        <translation>アップデートに失敗しました。
 
-続行する前に、インストールが正常に動作しているか、確認してください。
-次の場所のPrism Launcherアップデーターログを確認してください :
+続行する前にインストールが正常に動作しているか確認してください。
+次の場所のログを確認してください :
 %1
-前回のアップデートの試行の詳細です。</translation>
+前回のアップデートの詳細です。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="958"/>
@@ -796,10 +796,10 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished">アップデートに成功しました。
+        <translation>アップデートに成功しました。
 
 現在 %1 を実行しています。
-詳細については次の場所のPrism Launcherアップデーターログを確認してください :
+詳細については次の場所のログを確認してください :
 %1</translation>
     </message>
     <message>
@@ -819,7 +819,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>システム構成に互換性がありません</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1354"/>
@@ -988,7 +988,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -1569,7 +1569,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">現在、Minecraft %1 で利用可能なバージョンはありません</translation>
+        <translation>現在、Minecraft %1 で利用可能なバージョンはありません</translation>
     </message>
 </context>
 <context>
@@ -1684,37 +1684,37 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">フォーム</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation type="unfinished">&amp;環境変数</translation>
+        <translation>&amp;環境変数</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
         <source>Value</source>
-        <translation type="unfinished">値</translation>
+        <translation>値</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;追加</translation>
+        <translation>&amp;追加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;削除</translation>
+        <translation>&amp;削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished">&amp;クリア</translation>
+        <translation>&amp;クリア</translation>
     </message>
 </context>
 <context>
@@ -1722,7 +1722,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">環境変数</translation>
+        <translation>環境変数</translation>
     </message>
 </context>
 <context>
@@ -1837,7 +1837,7 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
@@ -1866,7 +1866,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="62"/>
         <source>1.0.0</source>
-        <translation type="unfinished">1.0.0</translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <source>Files</source>
@@ -1891,12 +1891,12 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Export %1</source>
-        <translation type="unfinished">%1 をエクスポート</translation>
+        <translation>%1 をエクスポート</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
         <source>Error</source>
-        <translation type="unfinished">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
@@ -1924,7 +1924,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">設定</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -1934,7 +1934,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished">Markdown</translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
@@ -1944,7 +1944,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished">JSON</translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
@@ -1954,7 +1954,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished">カスタム</translation>
+        <translation>カスタム</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
@@ -1970,7 +1970,7 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <source>Version</source>
-        <translation type="unfinished">バージョン</translation>
+        <translation>バージョン</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
@@ -1987,12 +1987,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="156"/>
         <source>Format</source>
-        <translation type="unfinished">フォーマット</translation>
+        <translation>フォーマット</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="166"/>
         <source>Result</source>
-        <translation type="unfinished">結果</translation>
+        <translation>結果</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="195"/>
@@ -2002,7 +2002,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
         <source>Copy</source>
-        <translation type="unfinished">コピー</translation>
+        <translation>コピー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
@@ -2163,7 +2163,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームを起動中に削除するとクラッシュする可能性があります。
+本当に実行しますか?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
@@ -2258,7 +2259,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
@@ -2394,7 +2395,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
 </context>
 <context>
@@ -2403,7 +2404,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="81"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="97"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4441,7 +4442,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します&#x3000;(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
+        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します　(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
