@@ -2496,7 +2496,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="494"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε launchers τρίτων. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην εγκατάσταση.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
@@ -7468,7 +7468,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="135"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Εκτέλεση %1 εργασίας(ών) (%2 από %3 ολοκληρώθηκαν)</translation>
     </message>
 </context>
 <context>
@@ -8920,7 +8920,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Η βιβλιοθήκη Java checker δεν βρέθηκε. Παρακαλώ ελέγξτε την εγκατάστασή σας.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
