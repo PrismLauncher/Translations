@@ -232,7 +232,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε launchers τρίτων. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην εγκατάσταση.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -751,7 +751,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Αυτή η εγκατάσταση περιέχει ένα αρχείο lock ενημέρωσης στην τοποθεσία: %1
+
+Χρονική σήμανση: %2
+Ενημέρωση από έκδοση %3 σε %4
+Τοποθεσία εγκατάστασης: %5
+Τοποθεσία δεδομένων: %6
+Αυτό πιθανότατα σημαίνει ότι μια προσπάθεια ενημέρωσης απέτυχε. Παρακαλώ βεβαιωθείτε ότι η εγκατάστασή σας λειτουργεί σωστά πριν συνεχίσετε.
+Ελέγξτε το αρχείο καταγραφής ενημέρωσης του Prism Launcher στην τοποθεσία: 
+%7
+για λεπτομέρειες της τελευταίας προσπάθειας ενημέρωσης.
+
+Για να διαγράψετε αυτό το lock και να συνεχίσετε επιλέξτε &quot;Αγνόηση&quot; παρακάτω.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="925"/>
@@ -766,7 +777,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Μια προσπάθεια ενημέρωσης απέτυχε
+
+Παρακαλώ βεβαιωθείτε ότι η εγκατάστασή σας λειτουργεί σωστά πριν συνεχίσετε.
+Ελέγξτε το αρχείο καταγραφής ενημέρωσης του Prism Launcher στην τοποθεσία: 
+%1
+για λεπτομέρειες της τελευταίας προσπάθειας ενημέρωσης.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="958"/>
@@ -781,24 +797,31 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Επιτυχής ενημέρωση
+
+Τρέχετε την έκδοση %1 .
+Ελέγξτε το αρχείο καταγραφής ενημέρωσης του Prism Launcher στην τοποθεσία: 
+%1
+για λεπτομέρειες.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Επιτυχής Ενημέρωση</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ο κατάλογος /tmp είναι προσαρτημένος με ενεργοποιημένο το &apos;noexec&apos; flag.
+Μερικές εκδόσεις του Minecraft μπορεί να μην ξεκινήσουν.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Μη συμβατή διαμόρφωση συστήματος</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1354"/>
@@ -1006,7 +1029,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Εγκατάσταση</translation>
     </message>
 </context>
 <context>
@@ -1040,52 +1063,52 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="167"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Βρέθηκαν όλα τα mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Παρακαλώ κατεβάστε τα mods που λείπουν.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Βρέθηκε στην τοποθεσία %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="53"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Άνοιξε Όσα Λείπουν</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Προσθήκη Φακέλου Λήψης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Επιλέξτε τον κατάλογο στον οποίο κατεβάσατε τα mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Δεν Βρέθηκε &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Κατατεμαχισμός: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ο διαμορφωμένος φάκελος με καθολικά mods καθώς και ο προεπιλεγμένος φάκελος λήψεων ελέγχονται αυτόματα για τα κατεβασμένα mods τα οποία θα αντιγραφούν στην εγκατάσταση αν βρεθούν.&lt;/p&gt;&lt;p&gt;Προαιρετικά, μπορείτε να σύρετε και να εναποθέσετε τα κατεβασμένα mods σε αυτό το παράθυρο διαλόγου ή να προσθέσετε έναν φάκελο για παρακολούθηση αν δεν κατεβάσατε τα mods στην προεπιλεγμένη τοποθεσία.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Φάκελοι που Παρακολουθούνται:</translation>
     </message>
 </context>
 <context>
@@ -1106,7 +1129,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="71"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Η βιβλιοθήκη Java checker δεν βρέθηκε. Παρακαλώ ελέγξτε την εγκατάστασή σας.</translation>
     </message>
 </context>
 <context>
@@ -1114,32 +1137,32 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Επιλέξτε έναν πάροχο mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Παράλειψη αυτού του mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Παράλειψη όλων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Επιβεβαίωση για όλα</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Επιβεβαίωση</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Δοκίμασε να χρησιμοποιήσεις άλλους παρόχους αυτόματα αν ο επιλεγμένος αποτύχει</translation>
     </message>
 </context>
 <context>
@@ -1183,17 +1206,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="95"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Απέτυχε η διακοπή όλων των εργασιών που εκτελούνται.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Μία ή περισσότερες υπο-εργασίες απέτυχαν</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Εκτέλεση %1 εργασίας(ών) (%2 από %3 ολοκληρώθηκαν)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="280"/>
@@ -1203,17 +1226,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="282"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Αναμονή για ξεκίνημα εργασίας...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="284"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Εκτέλεση 1 εργασίας:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="286"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ολοκλήρωση εργασίας.</translation>
     </message>
 </context>
 <context>
@@ -1236,32 +1259,32 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Επιλογή όλων</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Απενεργοποιώντας το ο φορτωτής mod (π.χ.: Fabric, Quilt, κ.λπ.) θα διατηρηθεί αλλά ο φάκελος με τα mods καθώς και οι παράμετροί τους θα διαγραφούν.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Επιλογές Αντιγραφής Εγκατάστασης</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Αντιγραφή των mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Αντιγραφή των ρυθμίσεων εντός παιχνιδιού όπως το Πεδίο Όρασης, τον μέγιστο ρυθμό ανανέωσης, κ.λπ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Αντιγραφή των ρυθμίσεων παιχνιδιού</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
@@ -1271,7 +1294,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Προχωρημένες Ρυθμίσεις Αντιγραφής</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
