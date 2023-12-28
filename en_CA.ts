@@ -6090,7 +6090,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="203"/>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Legacy settings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
@@ -6100,7 +6100,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Enable online fixes (experimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
@@ -6127,7 +6127,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="252"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;OpenAL library path</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
@@ -6520,7 +6520,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirm Delete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
