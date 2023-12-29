@@ -5323,7 +5323,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;請在瀏覽器中打開 %1 並輸入代碼 &lt;b&gt;%2&lt;/b&gt; 以繼續登入。&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;請在瀏覽器中開啟 %1 並輸入代碼 &lt;b&gt;%2&lt;/b&gt; 以繼續登入。&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -8547,7 +8547,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="153"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation>檔案（%1）太大了。你可能會想用適合大型檔案的檢視器打開它。</translation>
+        <translation>檔案（%1）太大了。你可能會想用適合大型檔案的檢視器開啟它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
