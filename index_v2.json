@@ -526,8 +526,8 @@
             "file" : "c83ba13d12d87a0bc543fd568ba99842cfe65934.class",
             "sha1" : "c83ba13d12d87a0bc543fd568ba99842cfe65934",
             "size" : 268079,
-            "translated" : 1847,
-            "fuzzy" : 8,
+            "translated" : 1851,
+            "fuzzy" : 4,
             "untranslated" : 0
         },
         "sco" : {
@@ -635,8 +635,8 @@
             "untranslated" : 0
         },
         "zh_TW" : {
-            "file" : "417e030abddcc4d1efe1a4cc5d141c58a4ea9757.class",
-            "sha1" : "417e030abddcc4d1efe1a4cc5d141c58a4ea9757",
+            "file" : "82f5a38fa9a1f734bf9dc9ac5c430b601af58f12.class",
+            "sha1" : "82f5a38fa9a1f734bf9dc9ac5c430b601af58f12",
             "size" : 189057,
             "translated" : 1854,
             "fuzzy" : 1,
