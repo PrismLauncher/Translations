@@ -5333,12 +5333,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="431"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Borr&amp;ar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cop&amp;iar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -5363,23 +5363,23 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir instanc&amp;ia...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;arpetas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="318"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ajust&amp;es...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="282"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deshacer última eliminación de instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="688"/>
@@ -5419,7 +5419,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Raíz del Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
