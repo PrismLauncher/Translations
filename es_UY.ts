@@ -1214,7 +1214,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished">Una o más subtareas fallaron</translation>
+        <translation>Una o más subtareas fallaron</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
@@ -4455,12 +4455,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Desactiva la comprobación e instalación automática de las dependencias de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar gestión automática de las dependencias de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -4633,7 +4633,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha encontrado la biblioteca del launcher Legacy. Compruebe su instalación.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
@@ -4946,12 +4946,13 @@ Motivo:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="44"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizando el índice para el mod:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadatos inválidos</translation>
     </message>
 </context>
 <context>
@@ -5074,27 +5075,27 @@ Motivo:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="444"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>La carpeta no existe</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="447"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo crear el archivo</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="455"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo crear:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="476"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo leer y comprimir %1</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="482"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha producido un error zip</translation>
     </message>
 </context>
 <context>
@@ -5112,7 +5113,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Por favor, inicie sesión en el navegador abierto. Si no se ha abierto ningún navegador, por favor, abra %1 en un navegador y escriba el código &lt;b&gt;%2&lt;/b&gt; para continuar con el inicio de sesión.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -5130,7 +5131,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="94"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallado la autenticación del usuario de Microsoft - ha cambiado la identificación del cliente.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
@@ -5213,7 +5214,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="204"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cuentas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="712"/>
@@ -5302,7 +5303,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de herramientas de noticias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="240"/>
@@ -5312,7 +5313,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="243"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre el blog de desarrollo para leer más noticias sobre %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
@@ -5322,12 +5323,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="419"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Carpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="461"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xportar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="431"/>
@@ -5393,7 +5394,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar a &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="649"/>
@@ -5403,17 +5404,17 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de estado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra la carpeta de instancias en un explorador de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
@@ -5428,22 +5429,22 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Iconos de instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra la carpeta de iconos de instancia en un explorador de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Registros</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra la carpeta de registros en un explorador de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="637"/>
@@ -5458,47 +5459,47 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="673"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sobre %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Temas de Widget</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra la carpeta de temas de widget en un explorador de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tema de icono</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra la carpeta de temas de iconos en un explorador de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="781"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquetes de gatos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra la carpeta de paquetes de gatos en un explorador de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="303"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Actualizar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="255"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="333"/>
@@ -5508,17 +5509,17 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="274"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear barra de herramientas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Temas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Archivo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
@@ -5528,7 +5529,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="209"/>
@@ -5538,52 +5539,52 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizar la instancia en ejecución.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="464"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporte la instancia seleccionada a formatos soportados.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="473"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="482"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="491"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="500"/>
         <source>Mod List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar &amp;ventana</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar la ventana actual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra la carpeta raíz del Launcher en un explorador de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="625"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Reportar un error o sugerir una función</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
@@ -5604,7 +5605,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="748"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la wiki de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="395"/>
@@ -5629,7 +5630,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="381"/>
@@ -5639,23 +5640,23 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="387"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="255"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Retroceso</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1592"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear atajo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="512"/>
@@ -5675,7 +5676,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1367"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1368"/>
@@ -5838,7 +5839,7 @@ Esto será permanente y borrará la instancia por completo.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="533"/>
@@ -5848,22 +5849,22 @@ Esto será permanente y borrará la instancia por completo.
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="536"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando noticias...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="790"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay noticias disponibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="838"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
@@ -5895,7 +5896,7 @@ Por favor, añada una cuenta Microsoft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡El pack de mods, mod, o recurso %1 está bloqueado para terceros! Por favor, descárgalo manualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1012"/>
@@ -5905,18 +5906,18 @@ Por favor, añada una cuenta Microsoft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1154"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1154"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1176"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriba el nombre del grupo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1166"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
@@ -5931,27 +5932,27 @@ Por favor, añada una cuenta Microsoft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1318"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Se añadió %1 a PATH exitosamente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fue añadido exitosamente a PATH. Ahora puedes iniciarlo ejecutando `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo añadir %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1323"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha ocurrido un error al intentar añadir %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1380"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Hay instancias vinculadas</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1381"/>
