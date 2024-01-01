@@ -3109,7 +3109,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Збірка %1 заблокована для завантаження з лаунчера. Будь ласка, завантажте її вручну.</translation>
+        <translation>Збірка modpack %1 заблокована для третіх осіб! Будь ласка, завантажте її вручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
