@@ -1947,7 +1947,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation>Markdown</translation>
+        <translation>Розмітка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
