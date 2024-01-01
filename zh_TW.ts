@@ -5669,7 +5669,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished">置中模組（&amp;C）</translation>
+        <translation>共用模組（&amp;C）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
