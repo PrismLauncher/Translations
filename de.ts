@@ -7344,7 +7344,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Versuch einfach alle ausgewählten Mods zu aktualisieren und auf fehlende Abhängigkeiten zu prüfen (alle Mods, wenn keine ausgewählt sind)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -10484,7 +10484,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestätige den Schalter</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
