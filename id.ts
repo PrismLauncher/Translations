@@ -267,7 +267,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1055"/>
         <source>Failed to create pack component</source>
-        <translation>Gagal untuk membuat paket komponen</translation>
+        <translation>Gagal untuk membuat komponen paket</translation>
     </message>
 </context>
 <context>
@@ -716,7 +716,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Gagal autentikasi. Akun tersebuk tidak ada lagi.</translation>
+        <translation>Gagal mengautentikasi. Akun tersebut tidak ada lagi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
@@ -858,7 +858,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation>Aset indeks untuk %1</translation>
+        <translation>Indeks Aset untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="43"/>
@@ -869,7 +869,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
         <source>Failed to read the assets index!</source>
-        <translation>Gagal membaca aset indeks!</translation>
+        <translation>Gagal membaca indeks aset!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
@@ -880,7 +880,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="92"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Gagal mengunduh aset indeks:
+        <translation>Gagal mengunduh indeks aset:
 %1</translation>
     </message>
     <message>
@@ -909,7 +909,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Urutkan Berdasarkan Versi Game</translation>
+        <translation>Urutkan Berdasarkan Versi Permainan</translation>
     </message>
 </context>
 <context>
@@ -917,22 +917,22 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Pilih mod untuk di install</translation>
+        <translation>Pilih mod untuk dipasang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation>Instal</translation>
+        <translation>Pasang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Pilih yang direkomendasi</translation>
+        <translation>Pilih Rekomendasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Guna kode share</translation>
+        <translation>Gunakan Kode Bagi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -984,7 +984,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="64"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Cari dan filter...</translation>
+        <translation>Cari dan saring...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
@@ -1041,7 +1041,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="24"/>
         <source>Initializing</source>
-        <translation>Memulai Inisialisasi</translation>
+        <translation>Memulai</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="53"/>
@@ -1071,7 +1071,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
         <source>Please download the missing mods.</source>
-        <translation>Mohon download mod yang tidak ditemukan.</translation>
+        <translation>Mohon mengunduh mod yang hilang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
@@ -1091,7 +1091,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Pilihkan direktori tempat dengan mod yang telah anda unduh</translation>
+        <translation>Pilih direktori dengan mod yang telah Anda unduh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
@@ -1106,7 +1106,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Konfigurasi mod global Anda dan folder unduhan baku telah dicek secara otomatis untuk mod yang diunduh dan akan disalin kepada instansi jika ditemukan&lt;/p&gt;&lt;p&gt;Secara optional, Anda bisa menarik dan melepas mod yang telah diunduh ke dialog atau tambahkan folder untuk melihat jika Anda tidak mengunduh mod tersebut di lokasi baku.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folder mod global terkonfigurasi dan folder unduhan default Anda diperiksa secara otomatis untuk mod yang diunduh dan akan disalin ke instansi jika ditemukan&lt;/p&gt;&lt;p&gt;Secara optional, Anda bisa menyeret dan melepas mod yang telah diunduh ke dialog ini atau menambahkan folder untuk melihat jika Anda tidak mengunduh mod tersebut di lokasi default.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1119,12 +1119,12 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="52"/>
         <source>Equipping cape</source>
-        <translation>Jubah dipasang</translation>
+        <translation>Memasang jubah</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="72"/>
         <source>Removing cape</source>
-        <translation>Jubah dilepas</translation>
+        <translation>Melepas jubah</translation>
     </message>
 </context>
 <context>
@@ -1132,7 +1132,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="71"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Pemeriksa Pustaka java tidak dapat ditemukan. Mohon cek instalasi anda.</translation>
+        <translation>Pemeriksa Pustaka Java tidak dapat ditemukan. Mohon cek instalasi Anda.</translation>
     </message>
 </context>
 <context>
@@ -1165,7 +1165,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Coba menggunakan penyedia lain secara otomatis jika yang dipilih gagal</translation>
+        <translation>Coba gunakan penyedia lain secara otomatis jika opsi yang dipilih gagal</translation>
     </message>
 </context>
 <context>
@@ -1179,7 +1179,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>Beberapa komponen metadata memuat tugas yang gagal.</translation>
+        <translation>Beberapa tugas pemuatan metadata komponen gagal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
@@ -1194,7 +1194,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="455"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Instansi mengalami ketergantungan yang tidak terselesaikan disaat memuat/mengecek untuk peluncuran.</translation>
+        <translation>Instansi mengalami ketergantungan yang tidak terselesaikan ketika memuat/mengecek untuk peluncuran.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
@@ -1229,7 +1229,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="282"/>
         <source>Waiting for a task to start...</source>
-        <translation>Menunggu tugas untuk mulai...</translation>
+        <translation>Menunggu tugas untuk memulai...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="284"/>
@@ -1267,7 +1267,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Menonaktifkan ini akan tetap mempertahankan pemuat mod (contoh: Fabric, Quilt, etc.) tetapi menghapus folder mod dan konfigurasinya.</translation>
+        <translation>Menonaktifkan ini akan tetap mempertahankan pemuat mod (contoh: Fabric, Quilt, etc.) tetapi akan menghapus folder mod dan konfigurasinya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1378,7 +1378,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>Salin paketa-paket shader</translation>
+        <translation>Salin paket-paket shader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
@@ -10721,8 +10721,8 @@ inheritsFrom hilang</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Peringatan: Resource ini secara simbolis terhubung dari tempat lain. Menyunting akan juga mengubah yang asli.
+        <translation>
+Peringatan: Resource ini ditautkan secara simbolis di tempat lain. Menyuntingnya akan juga mengubah yang asli.
 Path kanonis: %1</translation>
     </message>
     <message>
