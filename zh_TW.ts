@@ -1235,7 +1235,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>正在執行 %1 個任務（已完成 %2 個，共 %3 個）</translation>
+        <translation>正在執行 %1 項任務（已完成 %2 項，共 %3 項）</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="280"/>
@@ -1250,7 +1250,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="284"/>
         <source>Executing 1 task:</source>
-        <translation>正在執行一個任務：</translation>
+        <translation>正在執行一項任務：</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="286"/>
@@ -2624,7 +2624,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="609"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>正在複製被封鎖的模組（已完成 %1 個任務，共 %2 個任務）</translation>
+        <translation>正在複製被封鎖的模組（已完成 %1 項任務，共 %2 項）</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -8211,7 +8211,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
-        <translation>正在嘗試 %2 任務中的任務 %1</translation>
+        <translation>正在嘗試 %1 項任務，共 %2 項</translation>
     </message>
 </context>
 <context>
@@ -8294,7 +8294,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="135"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>正在執行 %1 個任務（已完成 %2 個，共 %3 個）</translation>
+        <translation>正在執行 %1 項任務（已完成 %2 項，共 %3 項）</translation>
     </message>
 </context>
 <context>
@@ -10903,7 +10903,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation>正在執行 %2 個中的 %1 個任務</translation>
+        <translation>正在執行 %2 項中的 %1 項任務</translation>
     </message>
 </context>
 <context>
