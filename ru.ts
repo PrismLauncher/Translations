@@ -1082,7 +1082,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation>Профайлер остановлен</translation>
+        <translation>Профилировщик остановлен</translation>
     </message>
 </context>
 <context>
@@ -3972,7 +3972,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation>Профайлер остановлен</translation>
+        <translation>Профилировщик остановлен</translation>
     </message>
 </context>
 <context>
@@ -3985,7 +3985,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation>Профайлер остановлен</translation>
+        <translation>Профилировщик остановлен</translation>
     </message>
 </context>
 <context>
@@ -4412,7 +4412,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="367"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation>Проверка профайлеров для %1 не удалась: %2</translation>
+        <translation>Проверка профилировщиков для %1 не удалась: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="380"/>
@@ -4428,7 +4428,7 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>Запуск игры приостановлен до тех пор, пока вы не нажмёте кнопку. Это подходящее время, чтобы настроить профайлер, поскольку сервер профайлера запущен.
+        <translation>Запуск игры приостановлен до тех пор, пока вы не нажмёте кнопку. Это подходящее время, чтобы настроить профилировщик, поскольку сервер профилировщика запущен.
 
 %1</translation>
     </message>
@@ -4444,7 +4444,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation>Не удалось запустить профайлер: %1</translation>
+        <translation>Не удалось запустить профилировщик: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="387"/>
@@ -6761,12 +6761,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="262"/>
         <source>Profilers</source>
-        <translation>Профайлеры</translation>
+        <translation>Профилировщики</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
         <source>&amp;No Profiler</source>
-        <translation>&amp;Без профайлера</translation>
+        <translation>&amp;Без профилировщика</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
