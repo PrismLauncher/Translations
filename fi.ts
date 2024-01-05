@@ -8791,17 +8791,16 @@ Are you sure?</source>
         <translation>Korjauspäivitystä ei ole vielä ladattu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments:lle on asetettu tuntematon arvo &apos;%1&apos;</translation>
+        <translation type="vanished">processArguments:lle on asetettu tuntematon arvo &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Kirjaston %1 nimi on rikki, eikä sitä voida käsitellä.</translation>
     </message>

@@ -9519,17 +9519,16 @@ Emin misin?</translation>
         <translation>Yama henüz yüklenmemiş.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments bilinmeyen (%1) değerine atanmış</translation>
+        <translation type="vanished">processArguments bilinmeyen (%1) değerine atanmış</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>Bu sürüm için &apos;minimumLauncherVersion&apos; değeri (%1) %3&apos;nin desteklediğinden (%2) daha fazla. Sürüm düzgün çalışmayabilir!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Kitaplık %1 ismi bozuk ve işlenemiyor.</translation>
     </message>

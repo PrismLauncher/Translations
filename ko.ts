@@ -9484,17 +9484,16 @@ Are you sure?</source>
         <translation>패치가 아직 로드되지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments이 알 수 없는 값 &apos;%1&apos;으로 설정되었습니다</translation>
+        <translation type="vanished">processArguments이 알 수 없는 값 &apos;%1&apos;으로 설정되었습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>이 버전의 &apos;minimumLauncherVersion&apos; 값(%1) 이 %3가 지원하는 (%2) 보다 높습니다. 올바로 작동하지 않을 수 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>라이브러리 %1 이름이 손상되어 처리할 수 없습니다.</translation>
     </message>

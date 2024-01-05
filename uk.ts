@@ -9387,17 +9387,16 @@ Are you sure?</source>
         <translation>Латка ще не завантажена.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>в processArguments задано невідоме значення &apos;%1</translation>
+        <translation type="vanished">в processArguments задано невідоме значення &apos;%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>Значення «minimumLauncherVersion» цієї версії (%1) вище, ніж підтримується у %3 (%2). Це може працювати некоректно!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Ім&apos;я бібліотеки %1 пошкоджено та не може бути оброблено.</translation>
     </message>

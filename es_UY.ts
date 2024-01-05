@@ -8897,17 +8897,16 @@ Are you sure?</source>
         <translation>El parche no se cargó todavía.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments está establecido a un valor desconocido &apos;%1&apos;</translation>
+        <translation type="vanished">processArguments está establecido a un valor desconocido &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>El valor &apos;minimumLauncherVersion&apos; de esta versión (%1) es mayor que el admitido por %3 (%2). ¡Puede que no funcione correctamente!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>El nombre de la librería %1 está roto y no se puede procesar.</translation>
     </message>

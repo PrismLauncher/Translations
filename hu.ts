@@ -9490,17 +9490,16 @@ Biztos vagy ebben?</translation>
         <translation>A javítás még nincs betöltve.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments ismeretlen értékre van állítva &quot;%1&quot;</translation>
+        <translation type="vanished">processArguments ismeretlen értékre van állítva &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>A &apos;minimumLauncherVersion&apos; értéke ennél a verziónál (%1) magasabb, mint amit %3 (%2) támogat. Lehet, hogy nem működik megfelelően!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>A(z) %1 könyvtár neve megszakadt, és nem dolgozható fel.</translation>
     </message>

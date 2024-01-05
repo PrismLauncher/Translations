@@ -9675,17 +9675,16 @@ Jesteś tego pewien?</translation>
         <translation>Łatka nie jest jeszcze załadowana.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments został ustawiony na nieznaną wartość &apos;%1&apos;</translation>
+        <translation type="vanished">processArguments został ustawiony na nieznaną wartość &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>Wartość &apos;minimumLauncherVersion&apos; tej wersji (%1) jest większa niż wspierana przez %3 (%2). To może nie działać prawidłowo!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Biblioteka %1 jest uszkodzona i nie może być przetworzona.</translation>
     </message>

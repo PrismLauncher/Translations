@@ -9612,17 +9612,16 @@ Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnell
         <translation>Le correctif n&apos;est pas encore chargé.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments possède une valeur inconnu &apos;%1&apos;</translation>
+        <translation type="vanished">processArguments possède une valeur inconnu &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>La valeur de «&#xa0;minimumLauncherVersion&#xa0;» pour cette version (%1) est supérieure à celle prise en charge par %3 (%2). Il se peut que cela ne fonctionne pas correctement&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Le nom de la bibliothèque %1 est cassé et ne peut être traité.</translation>
     </message>

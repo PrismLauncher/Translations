@@ -9593,17 +9593,16 @@ Are you sure?</source>
         <translation>Patch 尚未載入。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments 被設為未知的值「%1」</translation>
+        <translation type="vanished">processArguments 被設為未知的值「%1」</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>此版本的「minimumLauncherVersion」值（%1）比 %3 所支援的還要高（%2）。有可能無法正常運作！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>函式庫 %1 損毀，無法繼續。</translation>
     </message>

@@ -9601,17 +9601,16 @@ Deberías revisarlo de nuevo en caso de contener datos personales.
         <translation>La ruta no existe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments se establece en el valor desconocido &apos;%1&apos;</translation>
+        <translation type="vanished">processArguments se establece en el valor desconocido &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>El valor de &apos;minimumLauncherVersion&apos; (versión mínima del launcher) de esta versión (%1) es superior al soportado por %3 (%2). ¡Puede que no funcione correctamente!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>El nombre de la biblioteca %1 está roto y no se puede procesar.</translation>
     </message>

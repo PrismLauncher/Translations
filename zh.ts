@@ -9609,17 +9609,16 @@ Are you sure?</source>
         <translation>补丁未加载。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments 设置为了未知值 &quot;%1&quot;</translation>
+        <translation type="vanished">processArguments 设置为了未知值 &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>该版本（%1）的“minimumLauncherVersion”值（最小启动器版本）比 %3 支持的版本（%2）高。可能无法正常工作！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>库 %1 的名称已损坏，不能处理。</translation>
     </message>

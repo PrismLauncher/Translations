@@ -9397,17 +9397,16 @@ Du bör dubbelkolla att det inte innehåller personlig information.
         <translation>Patch är inte laddad ännu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments är satt till ett okänt tal &apos;%1&apos;</translation>
+        <translation type="vanished">processArguments är satt till ett okänt tal &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>Värdet &apos;minimumLauncherVersion&apos; i denna version (%1) är högre än vad som stöds av %3 (%2). Det kanske inte fungerar ordentligt!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Namnet på biblioteket %1 är trasigt och kan inte behandlas.</translation>
     </message>

@@ -8973,17 +8973,16 @@ Are you sure?</source>
         <translation>Bản vá chưa được tải.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments được đặt thành giá trị không xác định &apos;%1&apos;</translation>
+        <translation type="vanished">processArguments được đặt thành giá trị không xác định &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>Giá trị &apos;minimumLauncherVersion&apos; của phiên bản này (%1) cao hơn giá trị được hỗ trợ bởi %3 (%2). Nó có thể không hoạt động bình thường!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Thư viện %1 bị hỏng và không thể xử lý được.</translation>
     </message>

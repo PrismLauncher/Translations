@@ -8808,17 +8808,16 @@ Ești sigur(ă)?</translation>
         <translation>Pachetul nu este încă încărcat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="171"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments este setat la o valoare neștiută &apos;%1&apos;</translation>
+        <translation type="vanished">processArguments este setat la o valoare neștiută &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>Valoarea &apos;minimumLauncherVersion&apos; a acestei versiuni (%1) este mai mare decât cea suportată de %3 (%2). S-ar putea să nu funcționeze cum trebuie!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Numele librăriei %1 este stricat și nu poate fi procesat.</translation>
     </message>
