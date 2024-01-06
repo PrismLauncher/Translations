@@ -3234,7 +3234,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="399"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>sina wile weka ala weka e ijo %1?</translation>
     </message>
 </context>
 <context>
