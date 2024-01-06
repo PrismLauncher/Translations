@@ -3793,7 +3793,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Ĉu vi ne vidas vian lingvon aŭ la kvaliton estas malriĉa? &lt;br/&gt; helpu nin kun tradukoj</translation>
+        <translation>Ĉu vi ne vidas vian lingvon aŭ la kvaliton estas malriĉa? &lt;br/&gt;&lt;a href=&quot;%1&quot;&gt; helpu nin kun tradukoj&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
