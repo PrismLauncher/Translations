@@ -412,7 +412,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Неизвестный</translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
@@ -5738,7 +5738,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>Logs</source>
-        <translation type="unfinished">Журнал</translation>
+        <translation>Журнал</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
@@ -5758,7 +5758,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished">Темы &amp;виджетов</translation>
+        <translation>Темы для виджетов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
@@ -5768,7 +5768,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished">Набор и&amp;конок</translation>
+        <translation>Набор иконок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
