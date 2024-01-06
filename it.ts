@@ -639,7 +639,7 @@ Se sei nuovo qui, puoi selezionare il pulsante &quot;Aggiungi Microsoft&quot; pe
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Devi aggiungere un account Microsoft che possieda Minecraft prima di poter aggiungere un account offline.&lt;br&gt;&lt;br&gt;Se hai perso l&apos;accesso all&apos;account puoi contattare il supporto Microsoft.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -1698,7 +1698,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Variabili Ambientali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1731,7 +1731,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabili Ambientali</translation>
     </message>
 </context>
 <context>
@@ -2170,7 +2170,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma l&apos;eliminazione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
