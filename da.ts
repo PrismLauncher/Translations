@@ -631,7 +631,7 @@ Hvis du er ny her, kan du vælge &quot;Tilføj Microsoft&quot;-knappen, for at t
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du skal tilføje en Microsoft konto som ejer Minecrat før du kan tilføje en offline konto.&lt;br&gt;&lt;br&gt;Hvis du har mistet din konto kan du kontakte Microsoft for hjælp.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -671,12 +671,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern Konto?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vil du virkelig slette denne konto?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -763,7 +763,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="925"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering Igang</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="950"/>
@@ -778,7 +778,7 @@ for details on the last update attempt.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="958"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering Fejlede</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="983"/>
