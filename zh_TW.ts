@@ -582,7 +582,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>新增 Microsoft 帳號（&amp;A）</translation>
+        <translation>新增微軟帳號（&amp;A）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="103"/>
@@ -619,7 +619,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>歡迎！
-如果你第一次來這裡，你可以按一下「新增 Microsoft 帳號」按鈕來連結你的 Microsoft 帳號。</translation>
+如果你第一次來這裡，你可以點選「新增微軟帳號」按鈕來連結你的 Microsoft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
@@ -769,7 +769,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 %7
 以取得有關上次更新嘗試的詳細資訊。
 
-要刪除此鎖定並繼續，請按一下下方的「忽略」。</translation>
+要刪除此鎖定並繼續，請點選下方的「忽略」。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="925"/>
@@ -2121,7 +2121,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>嘗試檢查或更新所選的資源（若未選取對象將檢查所有資源）</translation>
+        <translation>嘗試檢查或更新所選的資源（若未選取項目則檢查所有資源）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -3860,7 +3860,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="486"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>按一下「新增實例」開始。</translation>
+        <translation>點選「新增實例」開始。</translation>
     </message>
 </context>
 <context>
@@ -4686,22 +4686,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>貓</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>設定貓的不透明度。0% 代表完全透明，100% 代表完全不透明。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>不透明度</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
@@ -4892,7 +4892,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>按遊戲版本排序</translation>
+        <translation>依遊戲版本排序</translation>
     </message>
 </context>
 <context>
@@ -7324,7 +7324,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="116"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>嘗試檢查或更新所選的模組（若未選取對象將檢查所有模組）</translation>
+        <translation>嘗試檢查或更新所選的模組（若未選取項目則檢查所有模組）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
@@ -10579,7 +10579,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download resource packs from online platforms</source>
-        <translation>從線上資源包平台下載資源包</translation>
+        <translation>從線上平台下載資源包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="78"/>
@@ -10777,7 +10777,7 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>您將要把選取的螢幕擷取畫面上傳至 %１。
+        <translation>您將要把選取的螢幕擷取畫面上傳至 %1。
 您應該再次檢查個人資訊。
 
 你確定嗎？</translation>
@@ -11075,7 +11075,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download shaders from online platforms</source>
-        <translation>從線上光影包平台下載光影包</translation>
+        <translation>從線上平台下載光影包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="70"/>
@@ -11498,7 +11498,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download texture packs from online platforms</source>
-        <translation>從線上材質包平台下載材質包</translation>
+        <translation>從線上平台下載材質包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="80"/>
@@ -12093,7 +12093,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation>立刻下載所有啟動此實例所需的檔案。</translation>
+        <translation>立刻下載啟動此實例所需的所有檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
