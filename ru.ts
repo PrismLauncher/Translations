@@ -4730,12 +4730,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>Cat</source>
-        <translation>Кошка</translation>
+        <translation>Котик</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation>Установить прозрачность кота. 0% полностью прозрачен, 100% полностью непрозрачен.</translation>
+        <translation>Установить прозрачность котика. 0% — полностью прозрачен, 100% — полностью виден.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
@@ -11693,7 +11693,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Подсказка: Котик находится на заднем фоне, но не показан по умолчанию. Чтобы его показать, нажмите на кнопку с котом на панели инструментов.</translation>
+        <translation>Подсказка: котик находится на заднем фоне, но не показан по умолчанию. Чтобы его показать, нажмите на кнопку с котом на панели инструментов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
