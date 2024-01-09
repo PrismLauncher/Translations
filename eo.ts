@@ -289,7 +289,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation>Platforma:</translation>
+        <translation>Platformo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
@@ -310,7 +310,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>Kreditoj</translation>
+        <translation>Danklisto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
@@ -384,7 +384,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
@@ -586,7 +586,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Refr&amp;eŝi</translation>
+        <translation>A&amp;ktualigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="111"/>
@@ -610,7 +610,8 @@ Se vi estas nova ĉi tie, vi povas alklaki &quot;Aldoni&quot; por aldoni vian Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="61"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bonvenon!
+Se vi estas nova, vi povas premi la butonon &quot;Aldoni Microsoft&quot; por ligi vian konton de Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
@@ -1646,7 +1647,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation>&amp; medio Variabloj</translation>
+        <translation>&amp;Mediaj Variabloj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1671,7 +1672,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation>&amp;Clear</translation>
+        <translation>&amp;Malplenigi</translation>
     </message>
 </context>
 <context>
@@ -1679,7 +1680,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Mediaj Variabloj</translation>
     </message>
 </context>
 <context>
@@ -2519,7 +2520,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="475"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Nuna)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="539"/>
@@ -2659,12 +2660,12 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> de </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="281"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksteraj ligiloj:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="285"/>
@@ -2716,7 +2717,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="71"/>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝlosilo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="73"/>
@@ -2729,7 +2730,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="61"/>
         <source>Game Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Agordoj de Ludo</translation>
     </message>
 </context>
 <context>
@@ -2757,7 +2758,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nekonata (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="104"/>
@@ -2784,12 +2785,12 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="15"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Akirado de haŭto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="40"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Akiris haŭton</translation>
     </message>
 </context>
 <context>
@@ -2825,12 +2826,12 @@ Bonvolu reprovi.</translation>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="102"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Elekti Bildetojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
         <source>Icons %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildetoj %1</translation>
     </message>
 </context>
 <context>
@@ -2876,7 +2877,7 @@ Bonvolu reprovi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Importi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="134"/>
@@ -2904,12 +2905,12 @@ Bonvolu reprovi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="205"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pakaĵo de Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="206"/>
         <source>Choose modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Elekti modifaron</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -2936,7 +2937,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosiero: %1</translation>
     </message>
 </context>
 <context>
@@ -2964,7 +2965,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
@@ -3077,7 +3078,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="140"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltiras modifaron</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="147"/>
@@ -3120,7 +3121,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="184"/>
         <source>%1 Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Instanco</translation>
     </message>
 </context>
 <context>
@@ -3146,12 +3147,12 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
         <source>Java insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Insta&amp;laĵo de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aŭto-detekti...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
@@ -3171,7 +3172,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="112"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Memoro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
@@ -3206,7 +3207,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
@@ -3216,17 +3217,17 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="237"/>
         <source>Java argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumentoj de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="256"/>
         <source>Game windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenestroj de Ludo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="265"/>
         <source>Game Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenestro de Ludo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="277"/>
@@ -3237,17 +3238,17 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="286"/>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alteco de fenestro:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="293"/>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Larĝo de fenestro:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="337"/>
         <source>Conso&amp;le Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Agordoj de Konzolo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="349"/>
@@ -3280,22 +3281,22 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="416"/>
         <source>Custom commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Propraj komandoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="426"/>
         <source>Environment variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Mediaj Variabloj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="436"/>
         <source>Workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Provizoraj Solvoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="445"/>
         <source>Native libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Denaskaj libraroj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="464"/>
@@ -3320,7 +3321,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="708"/>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="373"/>
@@ -3337,7 +3338,7 @@ Bonvolu reprovi.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="522"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="531"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendimento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="543"/>
@@ -3357,7 +3358,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="556"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebligi MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="563"/>
@@ -3408,7 +3409,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="673"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreso de servilo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
@@ -3470,7 +3471,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bonvenon!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="486"/>
@@ -3493,12 +3494,12 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lanĉi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>Mortigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
@@ -3551,7 +3552,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>JVisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM komencis</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -3594,7 +3595,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -3609,24 +3610,24 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
         <source>Java Runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Runtime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumentoj de JVM:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="255"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Serĉirejo de &amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="209"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aŭto-detekti...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="222"/>
@@ -3798,7 +3799,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzi sisteman lingvon</translation>
     </message>
 </context>
 <context>
@@ -3829,7 +3830,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>No Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Neniom Kontoj</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="92"/>
@@ -3850,7 +3851,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="150"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Daŭrigi lanĉadon?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="151"/>
@@ -3880,7 +3881,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ludi demon?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="219"/>
@@ -3898,7 +3899,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuligi</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="232"/>
@@ -3938,7 +3939,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="277"/>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto foriris</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="284"/>
@@ -3970,7 +3971,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lanĉi</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="374"/>
@@ -3982,7 +3983,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Waiting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atendas.</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -4006,7 +4007,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>Kill Minecraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mortigi Minecraft?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="428"/>
@@ -4047,7 +4048,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcioj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
@@ -4063,12 +4064,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="67"/>
         <source>Folders</source>
-        <translation>Dosirujoj</translation>
+        <translation>Dosierujoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="83"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;nstancoj:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="102"/>
@@ -4122,7 +4123,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="256"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Fasado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
@@ -4138,22 +4139,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="281"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Per &amp;nomo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Temo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>Elŝutaĵoj:</translation>
     </message>
     <message>
         <source>...</source>
@@ -4185,7 +4186,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Kato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
@@ -4195,17 +4196,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opakeco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Iloj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="366"/>
@@ -4226,7 +4227,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="399"/>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Agordoj de Konzolo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="405"/>
@@ -4250,7 +4251,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="429"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Limo de &amp;historio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="435"/>
@@ -4267,7 +4268,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="476"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fonto de konzolo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="103"/>
@@ -4304,7 +4305,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="146"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosierujo de Bildetoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="157"/>
@@ -4334,7 +4335,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="61"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanĉilo</translation>
     </message>
 </context>
 <context>
@@ -4365,7 +4366,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="207"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="219"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ludo kraŝis.</translation>
     </message>
 </context>
 <context>
@@ -4388,7 +4389,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="128"/>
         <source>Public Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Publika Modifaro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="130"/>
@@ -4398,7 +4399,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="132"/>
         <source>Private Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepublika Modifaro</translation>
     </message>
 </context>
 <context>
@@ -4429,7 +4430,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltiras modifaron</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
@@ -4473,7 +4474,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="69"/>
         <source>3rd Party</source>
-        <translation type="unfinished"></translation>
+        <translation>3a Partia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="96"/>
@@ -4600,7 +4601,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevalida meta-datumo</translation>
     </message>
 </context>
 <context>
@@ -4608,12 +4609,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="60"/>
         <source>Keep updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Daŭrigi ĝisdatigadon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Volvi liniojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -4623,7 +4624,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopii</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -4634,7 +4635,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Alŝuti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
@@ -4649,7 +4650,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="125"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serĉi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="132"/>
@@ -4664,13 +4665,13 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Malsupro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <source>Minecraft Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Logo de Minecraft</translation>
     </message>
 </context>
 <context>
@@ -4685,7 +4686,7 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="100"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Procezo kraŝis.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="102"/>
@@ -4785,7 +4786,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
         <source>Got </source>
-        <translation type="unfinished"></translation>
+        <translation>Akiris </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="138"/>
@@ -4826,7 +4827,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĉefa Ilobreto</translation>
     </message>
     <message>
         <source>Add Instance</source>
@@ -4845,7 +4846,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="204"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="712"/>
@@ -4921,12 +4922,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Novaĵa Ilobreto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="240"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pli da novaĵo...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="243"/>
@@ -4936,63 +4937,63 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>R&amp;edakti...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="419"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosierujo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="461"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksporti...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="431"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Fors&amp;treki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopii...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanca Ilobreto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="392"/>
         <source>Change Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝanĝi Bildeton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="354"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>Mortigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lanĉi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldoni Instancon...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;osierujoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="318"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Agordoj...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="282"/>
@@ -5017,7 +5018,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="649"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spaco en &amp;Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
@@ -5027,7 +5028,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instancoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
@@ -5057,7 +5058,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Logoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
@@ -5067,17 +5068,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="637"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>Gildo en &amp;Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="661"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub&amp;redito</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="673"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
@@ -5112,47 +5113,47 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="303"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝisdatigi...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="255"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miaŭ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="333"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ad&amp;ministri Kontojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="274"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝlosi Ilobretojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Temoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosiero</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Redakti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vidi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="209"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Helpo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
@@ -5187,7 +5188,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermi Fenestron</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
@@ -5218,7 +5219,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="745"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Helpo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="748"/>
@@ -5233,7 +5234,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="372"/>
@@ -5243,38 +5244,38 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="381"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝanĝi Grupon...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="387"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="255"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Retropaŝo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1592"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Krei Simbolan Ligilon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="512"/>
@@ -5294,7 +5295,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1367"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmi Forigadon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1368"/>
@@ -5411,7 +5412,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="533"/>
@@ -5421,12 +5422,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="536"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝarĝado de novaĵo...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="790"/>
@@ -5436,7 +5437,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="838"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
@@ -5477,7 +5478,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1154"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomo de grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1154"/>
@@ -5488,7 +5489,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1166"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Forigi grupon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
@@ -5647,7 +5648,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomi Instancon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1739"/>
@@ -5700,22 +5701,22 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informo pri pakaĵo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomo de pakaĵo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuna versio:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informo pri provizanto:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
@@ -5725,7 +5726,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Venigado de versioj...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
@@ -5735,7 +5736,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝanĝlogo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
@@ -5745,7 +5746,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"/>
         <source>Reload page</source>
-        <translation type="unfinished"></translation>
+        <translation>Reŝarĝi paĝon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="145"/>
@@ -5767,7 +5768,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="199"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="202"/>
@@ -5787,7 +5788,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="215"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝisdatigi pakaĵon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="226"/>
@@ -5802,7 +5803,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="231"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne povas ĝisdatigi!</translation>
     </message>
 </context>
 <context>
@@ -5828,7 +5829,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lanĉi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
@@ -5853,7 +5854,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="262"/>
         <source>Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>Profililoj</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
@@ -5863,22 +5864,22 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
         <source>&lt;SESSION ID&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ID de SESIO&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="915"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;SIGNO de ALIRO&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="917"/>
         <source>&lt;PROFILE ID&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ID de PROFILO&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="983"/>
         <source>broken</source>
-        <translation type="unfinished"></translation>
+        <translation>rompita</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="994"/>
@@ -5914,7 +5915,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="48"/>
         <source>Window Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Grandeco de Fenestro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
@@ -5926,13 +5927,13 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Alto de fenestro:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Larĝo de fenestro:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
@@ -5942,7 +5943,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="197"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimumigoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="203"/>
@@ -5990,7 +5991,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendimento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="285"/>
@@ -6010,7 +6011,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="298"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebligi MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="305"/>
@@ -6025,12 +6026,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ludotempo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝenerala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
@@ -6156,7 +6157,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioj de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
@@ -6181,7 +6182,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Any version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajna versio</translation>
     </message>
 </context>
 <context>
@@ -6194,7 +6195,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="91"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosiero</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="103"/>
@@ -6228,17 +6229,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Provizanto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebligi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -6297,7 +6298,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Elŝuti modifojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -6316,7 +6317,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="80"/>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldoni dosieron</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="81"/>
@@ -6419,7 +6420,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="294"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
@@ -6487,7 +6488,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="52"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifoj</translation>
     </message>
 </context>
 <context>
@@ -6576,7 +6577,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="200"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="122"/>
@@ -6598,7 +6599,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="171"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaŭzo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="174"/>
@@ -6639,12 +6640,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="359"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Generado de meta-datumo...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="420"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Provizanto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
@@ -6654,7 +6655,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne instalita</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="426"/>
@@ -6835,12 +6836,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Nuna)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Venigado de ŝanĝlogojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="373"/>
@@ -6934,7 +6935,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> de </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
@@ -6949,7 +6950,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="289"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksteraj ligiloj:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="293"/>
@@ -6980,7 +6981,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="64"/>
         <source>Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
@@ -7012,7 +7013,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>nekonata</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
@@ -7096,7 +7097,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Novaĵo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
@@ -7121,13 +7122,13 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="23"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="51"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Sentitola</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="52"/>
         <source>No content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neniom enhavo.</translation>
     </message>
 </context>
 <context>
@@ -7135,7 +7136,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="92"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilmods</translation>
     </message>
 </context>
 <context>
@@ -7235,7 +7236,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopii</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
@@ -7257,22 +7258,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Alŝuti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
         <source>Clean</source>
-        <translation type="unfinished"></translation>
+        <translation>Purigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Reŝarĝi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="123"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serĉi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="139"/>
@@ -7299,7 +7300,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmi Forigadon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="197"/>
@@ -7312,7 +7313,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmi Purigadon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -7344,7 +7345,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="58"/>
         <source>Other logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliaj logoj</translation>
     </message>
 </context>
 <context>
@@ -7562,7 +7563,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>dosierujo</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
@@ -7753,13 +7754,13 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>jes</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>ne</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
@@ -8033,7 +8034,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="136"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Preterlasi</translation>
     </message>
 </context>
 <context>
@@ -8056,24 +8057,24 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Defaŭlto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Neniu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
@@ -8084,13 +8085,13 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Aŭtentigo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uzantnomo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
@@ -8106,7 +8107,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="57"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Prokuro</translation>
     </message>
 </context>
 <context>
@@ -8114,17 +8115,17 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="12"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Malhela</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="79"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela</translation>
     </message>
     <message>
         <source>PolyMC Developers</source>
@@ -8135,7 +8136,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Retejo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="74"/>
@@ -8143,7 +8144,7 @@ Choose your name carefully:</source>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Programistoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
@@ -8159,7 +8160,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmi Alŝutadon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
@@ -8172,12 +8173,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="85"/>
         <source>Upload failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Alŝutado malsukcesis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="91"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Alŝutado finiĝis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="92"/>
@@ -8223,7 +8224,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="62"/>
         <source>Minecraft Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servilo de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="261"/>
@@ -8313,19 +8314,19 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="370"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Elreta&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="34"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1min %2sek</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1hor %2min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="39"/>
@@ -8336,27 +8337,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>tagoj</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>m</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="46"/>
@@ -8424,7 +8425,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
-        <translation type="unfinished"></translation>
+        <translation>Malplena serĉirejo</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="85"/>
@@ -8455,7 +8456,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="57"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Neniu aŭtoro(j)</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
@@ -8495,7 +8496,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuligi</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -8524,37 +8525,37 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
         <source>resource pack</source>
-        <translation type="unfinished"></translation>
+        <translation>resurspakaĵo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
         <source>texture pack</source>
-        <translation type="unfinished"></translation>
+        <translation>teksturaro</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
         <source>data pack</source>
-        <translation type="unfinished"></translation>
+        <translation>datumpakaĵo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>nuancilaro</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>konservo de mondo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>modifo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>nekonata</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
@@ -8621,7 +8622,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="164"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrupigita</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
@@ -8635,7 +8636,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="104"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>modifoj</translation>
     </message>
 </context>
 <context>
@@ -8644,13 +8645,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>modifoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>modifo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
@@ -8693,7 +8694,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
@@ -8709,12 +8710,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resursoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="61"/>
         <source>Download %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Elŝuto %1</translation>
     </message>
 </context>
 <context>
@@ -8761,7 +8762,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="124"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resurspakaĵoj</translation>
     </message>
 </context>
 <context>
@@ -8770,13 +8771,13 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="35"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resurspakaĵoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resurspakaĵo</translation>
     </message>
 </context>
 <context>
@@ -8796,7 +8797,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> de </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="204"/>
@@ -8811,7 +8812,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksteraj ligiloj:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="226"/>
@@ -8851,19 +8852,19 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="298"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ŝarĝado de versioj...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resursoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resurso</translation>
     </message>
 </context>
 <context>
@@ -8872,7 +8873,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="160"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>nuancilaroj</translation>
     </message>
 </context>
 <context>
@@ -8881,13 +8882,13 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="35"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>nuancilaroj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>nuancilaro</translation>
     </message>
 </context>
 <context>
@@ -8896,7 +8897,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="143"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>teksturaroj</translation>
     </message>
 </context>
 <context>
@@ -8905,13 +8906,13 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="37"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>teksturaroj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>teksturaro</translation>
     </message>
 </context>
 <context>
@@ -8919,7 +8920,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="43"/>
         <source>Resource download</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursa elŝutado</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="44"/>
@@ -8951,7 +8952,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebligi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
@@ -8998,12 +8999,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebligi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -9013,7 +9014,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="77"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerekonata</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="103"/>
@@ -9043,7 +9044,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Aranĝo de Pakaĵo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="155"/>
@@ -9066,12 +9067,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="50"/>
         <source>Resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurspakaĵoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Elŝuti pakaĵojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -9096,7 +9097,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="88"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="98"/>
@@ -9119,7 +9120,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtraj agordoj</translation>
     </message>
 </context>
 <context>
@@ -9127,12 +9128,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Reen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosiernomo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
@@ -9190,7 +9191,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="61"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Alŝuti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
@@ -9200,7 +9201,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
@@ -9211,18 +9212,18 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopii Bildon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopii Dosiero(j)n</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekrankopioj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
@@ -9255,13 +9256,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nekonata eraro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="413"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="456"/>
         <source>Upload finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Alŝutado finiĝis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="388"/>
@@ -9309,7 +9310,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="516"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmi Forigadon</translation>
     </message>
 </context>
 <context>
@@ -9317,7 +9318,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versio</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
@@ -9345,7 +9346,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versio</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
@@ -9378,12 +9379,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="297"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreso</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="299"/>
         <source>Latency</source>
-        <translation type="unfinished"></translation>
+        <translation>Respondotempo</translation>
     </message>
 </context>
 <context>
@@ -9396,12 +9397,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreso</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>Res&amp;ursoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
@@ -9436,12 +9437,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Moviĝi Supren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Moviĝi Malsupren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
@@ -9477,22 +9478,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Post &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Reen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Finigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Refreŝu</translation>
+        <translation>Aktualigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -9505,12 +9506,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="48"/>
         <source>Shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuancilaroj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="52"/>
         <source>Download shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Elŝuti nuancilojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -9535,7 +9536,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="80"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="90"/>
@@ -9548,7 +9549,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/services/SkinDelete.cpp" line="52"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Forigado de haŭto</translation>
     </message>
 </context>
 <context>
@@ -9556,7 +9557,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/services/SkinUpload.cpp" line="80"/>
         <source>Uploading skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Alŝutado de haŭto</translation>
     </message>
 </context>
 <context>
@@ -9569,12 +9570,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="112"/>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="116"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Haŭta Alŝutado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="20"/>
         <source>Skin File</source>
-        <translation type="unfinished"></translation>
+        <translation>Haŭta Dosiero</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
@@ -9589,22 +9590,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="49"/>
         <source>Player Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Ludanta Modelo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
         <source>Steve Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Steve Modelo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="65"/>
         <source>Alex Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Aleks Modelo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="75"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantelo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="75"/>
@@ -9629,7 +9630,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="116"/>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Sukceso</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="123"/>
@@ -9639,7 +9640,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="138"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Neniu Mantelo</translation>
     </message>
 </context>
 <context>
@@ -9677,7 +9678,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltiras modifaro</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="71"/>
@@ -9728,7 +9729,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltiras modifaron</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
@@ -9778,7 +9779,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="113"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevalida &quot;forgeversion.properties&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="134"/>
@@ -9825,7 +9826,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> de </translation>
     </message>
 </context>
 <context>
@@ -9833,12 +9834,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebligi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
@@ -9887,12 +9888,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="50"/>
         <source>Texture packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Teksturaroj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="51"/>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Elŝuti pakaĵojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -9917,7 +9918,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="90"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="100"/>
@@ -9930,7 +9931,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="35"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>B&amp;ildetoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="60"/>
@@ -9940,7 +9941,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="79"/>
         <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenestraĵoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="104"/>
@@ -9956,7 +9957,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="126"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>K&amp;ato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="154"/>
@@ -9969,7 +9970,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>WizardPage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
@@ -9984,7 +9985,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> Antaŭrigardo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
@@ -10010,7 +10011,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompleteco</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
@@ -10028,7 +10029,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasko abortita.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="49"/>
@@ -10177,7 +10178,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
         <source>Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Personigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
@@ -10187,7 +10188,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>Revenigi</translation>
     </message>
     <message>
         <source>Install Forge</source>
@@ -10218,12 +10219,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Replace Minecraft.jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Anstataŭigi Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldoni Agentojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
@@ -10233,12 +10234,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
         <source>Add Empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldoni Malplenan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Reŝarĝi</translation>
     </message>
     <message>
         <source>Download All</source>
@@ -10337,7 +10338,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Open libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Malfermi librarojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
@@ -10347,7 +10348,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
         <source>Import Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Importi Komponantojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
@@ -10372,12 +10373,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="221"/>
         <source>Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>Eraro: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="223"/>
         <source>Warning: </source>
-        <translation type="unfinished"></translation>
+        <translation>Averto: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="256"/>
@@ -10425,7 +10426,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
         <source>Select jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Elekti jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
@@ -10435,12 +10436,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>Elekti komponantojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Components (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponantoj (*.json)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
@@ -10455,7 +10456,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Elekti Agentojn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
@@ -10493,7 +10494,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="542"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmi Inversigadon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="543"/>
@@ -10524,7 +10525,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Branĉo</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
@@ -10534,17 +10535,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkitekturo</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="120"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Serĉirejo</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Released</source>
-        <translation type="unfinished"></translation>
+        <translation>Eldonita</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="127"/>
@@ -10584,7 +10585,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="158"/>
         <source>%1 (installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (instalita)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="182"/>
@@ -10594,7 +10595,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="186"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Freŝaj</translation>
     </message>
 </context>
 <context>
@@ -10602,7 +10603,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="95"/>
         <source>Choose Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Elekti Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="96"/>
@@ -10612,7 +10613,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="97"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Refreŝu</translation>
+        <translation>Aktualigi</translation>
     </message>
 </context>
 <context>
@@ -10674,24 +10675,24 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
         <source>Game Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de Ludo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="268"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Laste Ludis</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Grandeco</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="274"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Informo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
@@ -10734,7 +10735,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="102"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
@@ -10753,12 +10754,12 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
         <source>Copy Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopii Semon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
@@ -10773,7 +10774,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
         <source>Reset Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Defaŭltigi Bildeton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
@@ -10783,7 +10784,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
         <source>Datapacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Datumpakaĵoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
@@ -10856,7 +10857,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="192"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmi Forigadon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="193"/>
@@ -10880,7 +10881,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomi Mondon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
