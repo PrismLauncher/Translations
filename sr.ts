@@ -227,12 +227,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokirane modifikacije pronađene</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledeći fajlovi nisu mogući skinuti na druge launcher-e.&lt;br/&gt;Morate da ih samostalno skinete i dodate u instanc.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -335,7 +335,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="160"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="165"/>
@@ -363,7 +363,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
@@ -375,7 +375,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nepoznato</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
@@ -429,12 +429,12 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nepoznato</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip akounta (MSA ili oflajn)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -597,7 +597,8 @@ Ako si nov ovde, možeš kliknuti &quot;Dodaj&quot; dugme da bi dodali vaš Moja
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="61"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dobro Došli!
+Ako ste novi tu, možete izabrati &quot;Dodaj Mikrosoft&quot; dugme da dodate Mikrosoft akount.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
@@ -617,7 +618,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Morate dodati Mikrosoft akount koji ima Majnkraft prenego sto mozete dodati oflajn akount.&lt;br&gt;&lt;br&gt;Ako ste izgubili akount možete kontactirati Mikrosoft za podršku.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -649,12 +650,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni akount?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li stvarno želite da obrišete ovaj akount?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -843,13 +844,15 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="92"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne uspešno skidanje u asset indeks:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download assets:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne uspešno skidanje asseta:
+%1</translation>
     </message>
 </context>
 <context>
@@ -858,7 +861,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Slaži po popularnosti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
@@ -870,7 +873,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Slaži po verziji igrice</translation>
     </message>
 </context>
 <context>
@@ -878,7 +881,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Izabrati koje Modifikacije Skinuti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -893,7 +896,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi Deljeni Kod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -903,17 +906,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi jedan kod za deljenje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Deljeni kod:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="352"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema deljeni kod!</translation>
     </message>
 </context>
 <context>
@@ -921,12 +924,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeste sigurni da želite da umogučiti ovu modifikaciju?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Upozorenje</translation>
     </message>
 </context>
 <context>
@@ -934,7 +937,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="86"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upozorenje: Ovo je još u radu. Ako naletete na probleme sa uvezeni modifikacijalni paket, može biti da je bug.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
@@ -950,7 +953,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretraži</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -989,7 +992,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Installiranje</translation>
     </message>
 </context>
 <context>
@@ -997,17 +1000,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="16"/>
         <source>Finished all authentication steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Svi koraci verifikacije su završeni</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="24"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicijaliziranje</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="53"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>U radu ...</translation>
     </message>
 </context>
 <context>
@@ -1015,7 +1018,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler prekinut</translation>
     </message>
 </context>
 <context>
@@ -1023,42 +1026,42 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="167"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Sve modifikacije pronađene</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Molimo da skinete nedostajuće modifikacije.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Tu možete pronaći %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="53"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori Nedostajuće</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj Dovnload Datoteku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi datoteku gde su skinute modifikacije</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Nije pronađeno &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
