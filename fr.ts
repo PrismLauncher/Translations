@@ -380,13 +380,13 @@
 <context>
     <name>AccountList</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="300"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation>Non coché</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation>Hors-ligne</translation>
@@ -397,67 +397,67 @@
         <translation type="vanished">En ligne</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
         <translation>MSA</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
         <translation>Hors-ligne</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
         <source>Ready</source>
         <comment>Account status</comment>
         <translation>Prêt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>Working</source>
         <comment>Account status</comment>
         <translation>Fonctionne</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation>Erronée</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation>Expiré</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="316"/>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation>Désactivé</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="321"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="319"/>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation>Absent</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="324"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
         <source>Unknown</source>
         <comment>Account status</comment>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
         <translation>Type de compte (MSA ou hors ligne)</translation>
     </message>
@@ -492,22 +492,22 @@
         <translation type="vanished">Non</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
         <source>Username</source>
         <translation>Nom d&apos;utilisateur</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Account</source>
         <translation>Compte</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Status</source>
         <translation>Statut</translation>
     </message>
@@ -516,7 +516,7 @@
         <translation type="vanished">Peut migrer&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Minecraft username associated with the account.</source>
         <translation>Nom d&apos;utilisateur Minecraft associé au compte.</translation>
     </message>
@@ -525,7 +525,7 @@
         <translation type="vanished">Profil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>User name of the account.</source>
         <translation>Nom d&apos;utilisateur du compte.</translation>
     </message>
@@ -534,7 +534,7 @@
         <translation type="vanished">Type de compte - Mojang ou MSA.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Current status of the account.</source>
         <translation>Statut actuel du compte.</translation>
     </message>
@@ -4233,33 +4233,33 @@ Veuillez sélectionner l&apos;une des options suivantes ou rechercher un fichier
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="69"/>
+        <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
         <translation>Aucune instance spécifiée&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="74"/>
+        <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>Arguments Java invalides spécifiés. Veuillez d’abord corriger ceci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="91"/>
+        <location filename="src/launcher/LaunchController.cpp" line="90"/>
         <source>No Accounts</source>
         <translation>Aucun compte</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="92"/>
+        <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Pour jouer à Minecraft, vous devez être connecté avec au moins un compte Microsoft qui possède Minecraft. Voulez-vous ouvrir le gestionnaire de compte pour ajouter un compte maintenant ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="118"/>
+        <location filename="src/launcher/LaunchController.cpp" line="117"/>
         <source>Which account would you like to use?</source>
         <translation>Quel compte souhaitez-vous utiliser&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>No account selected for launch.</source>
         <translation>Aucun compte sélectionné pour le lancement.</translation>
     </message>
@@ -4268,42 +4268,42 @@ Veuillez sélectionner l&apos;une des options suivantes ou rechercher un fichier
         <translation type="vanished">Votre compte n&apos;est pas connecté. Veuillez entrer votre mot de passe pour vous connecter à nouveau. &lt;br /&gt; &lt;br /&gt; Cela peut être dû à un changement de mot de passe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="150"/>
+        <location filename="src/launcher/LaunchController.cpp" line="155"/>
         <source>Continue launch?</source>
         <translation>Continuer le lancement&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="151"/>
+        <location filename="src/launcher/LaunchController.cpp" line="156"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Le lancement reste impossible après %1 essais. Voulez-vous réessayer&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="187"/>
+        <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>Player name</source>
         <translation>Nom du joueur</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="180"/>
+        <location filename="src/launcher/LaunchController.cpp" line="185"/>
         <source>Choose your offline mode player name.</source>
         <translation>Choisissez votre nom de joueur pour le mode hors ligne.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="182"/>
+        <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>Choose your demo mode player name.</source>
         <translation>Choisissez votre nom de joueur en mode démo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="207"/>
+        <location filename="src/launcher/LaunchController.cpp" line="212"/>
         <source>Received undetermined session status during login.</source>
         <translation>Un statut indéterminé de la session a été reçu durant la connexion.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="217"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Play demo?</source>
         <translation>Lancer la démo&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="219"/>
+        <location filename="src/launcher/LaunchController.cpp" line="224"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -4314,84 +4314,84 @@ Vous devez d&apos;abord acheter le jeu pour y jouer.
 Souhaitez-vous lancer la démo&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="222"/>
+        <location filename="src/launcher/LaunchController.cpp" line="227"/>
         <source>Play Demo</source>
         <translation>Lancer la démo</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <location filename="src/launcher/LaunchController.cpp" line="228"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="232"/>
+        <location filename="src/launcher/LaunchController.cpp" line="237"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Lancement annulé - le compte ne possède pas de licence Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="247"/>
+        <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>Play Offline</source>
         <translation>Jouer en hors ligne</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="260"/>
+        <location filename="src/launcher/LaunchController.cpp" line="259"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>Le compte a expiré et doit être reconnecté manuellement.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="261"/>
+        <location filename="src/launcher/LaunchController.cpp" line="260"/>
         <source>Account refresh failed</source>
         <translation>Rafraîchissement du compte échoué</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="267"/>
+        <location filename="src/launcher/LaunchController.cpp" line="266"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>L’identification client du lanceur a changé. Veuillez supprimer ce compte et l’ajouter à nouveau.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="268"/>
+        <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>Client identification changed</source>
         <translation>L&apos;identification du client changé</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="275"/>
+        <location filename="src/launcher/LaunchController.cpp" line="274"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Le compte n&apos;existe plus sur les serveurs. Il est possible qu&apos;il ait été migré, auquel cas veuillez ajouter le nouveau compte vers lequel vous avez migré celui-ci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="277"/>
+        <location filename="src/launcher/LaunchController.cpp" line="276"/>
         <source>Account gone</source>
         <translation>Compte disparu</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="283"/>
         <source>Failed to launch.</source>
         <translation>Échec du lancement.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="293"/>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="292"/>
+        <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Error!</source>
         <translation>Erreur&#xa0;!</translation>
     </message>
     <message>
+        <location filename="src/launcher/LaunchController.cpp" line="292"/>
         <location filename="src/launcher/LaunchController.cpp" line="293"/>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Impossible de charger le profil de l&apos;instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="300"/>
+        <location filename="src/launcher/LaunchController.cpp" line="299"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Impossible d&apos;instancier un lanceur.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Vérification du profiler pour %1 échoué : %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="380"/>
+        <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lancer</translation>
     </message>
@@ -4400,7 +4400,7 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
         <translation type="vanished">Impossible de démarrer le profileur&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -4409,7 +4409,7 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="377"/>
         <source>Waiting.</source>
         <translation>En attente.</translation>
     </message>
@@ -4418,27 +4418,27 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
         <translation type="vanished">Lancer</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="386"/>
+        <location filename="src/launcher/LaunchController.cpp" line="385"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Impossible de démarrer le profileur&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="387"/>
+        <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="414"/>
+        <location filename="src/launcher/LaunchController.cpp" line="413"/>
         <source>Abort</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="427"/>
+        <location filename="src/launcher/LaunchController.cpp" line="426"/>
         <source>Kill Minecraft?</source>
         <translation>Forcer la fermeture de Minecraft&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="428"/>
+        <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Cela peut provoquer la corruption de l&apos;instance et doit être utilisé uniquement si Minecraft ne répond pas pour une raison quelconque</translation>
     </message>

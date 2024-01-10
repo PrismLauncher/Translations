@@ -372,13 +372,13 @@
 <context>
     <name>AccountList</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="300"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation>Kontrol edilmedi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation>Çevrim dışı</translation>
@@ -389,67 +389,67 @@
         <translation type="vanished">Çevrim içi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
         <translation>MSA</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
         <translation>Çevrimdışı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
         <translation>Bilinmeyen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
         <source>Ready</source>
         <comment>Account status</comment>
         <translation>Hazır</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>Working</source>
         <comment>Account status</comment>
         <translation>Çalışıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation>Hatalı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation>Tarihi Geçmiş</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="316"/>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation>Devre Dışı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="321"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="319"/>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation>Kayıp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="324"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
         <source>Unknown</source>
         <comment>Account status</comment>
         <translation>Bilinmeyen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
         <translation>Hesap tipi (MSA ya da Çevrimdışı)</translation>
     </message>
@@ -484,22 +484,22 @@
         <translation type="vanished">Hayır</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
         <source>Username</source>
         <translation>Kullanıcı Adı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Account</source>
         <translation>Hesap</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>Type</source>
         <translation>Tür</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Status</source>
         <translation>Durum</translation>
     </message>
@@ -508,7 +508,7 @@
         <translation type="vanished">Taşınabilir?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Minecraft username associated with the account.</source>
         <translation>Hesapla ilişkili Minecraft kullanıcı adı.</translation>
     </message>
@@ -517,7 +517,7 @@
         <translation type="vanished">Hesap</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>User name of the account.</source>
         <translation>Hesabın kullanıcı adı.</translation>
     </message>
@@ -526,7 +526,7 @@
         <translation type="vanished">Hesabın türü - Mojang veya MSH.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Current status of the account.</source>
         <translation>Hesabın mevcut durumu.</translation>
     </message>
@@ -4196,33 +4196,33 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="69"/>
+        <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
         <translation>Belirtilen profil yok!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="74"/>
+        <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>Tanımsız Java değişkeni ayarlandı. Lütfen önce bunu düzeltin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="91"/>
+        <location filename="src/launcher/LaunchController.cpp" line="90"/>
         <source>No Accounts</source>
         <translation>Hesap Yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="92"/>
+        <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Minecraft oynayabilmek için, Minecraft&apos;ın sahibi olan en az bir Microsoft hesabınızda oturum açmış olmanız gerekir. Şimdi bir hesap eklemek için hesap yöneticisini açmak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="118"/>
+        <location filename="src/launcher/LaunchController.cpp" line="117"/>
         <source>Which account would you like to use?</source>
         <translation>Hangi hesabı kullanmak istersiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>No account selected for launch.</source>
         <translation>Başlatmak için hiçbir profil seçilmedi.</translation>
     </message>
@@ -4231,42 +4231,42 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
         <translation type="vanished">Hesabınızla şu an giriş yapılmamış. Lütfen giriş yapmak için parolanızı tekrar girin.&lt;br /&gt; &lt;br /&gt;Bu parola değişikliğinden kaynaklı olabilir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="150"/>
+        <location filename="src/launcher/LaunchController.cpp" line="155"/>
         <source>Continue launch?</source>
         <translation>Başlatmaya devam et?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="151"/>
+        <location filename="src/launcher/LaunchController.cpp" line="156"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Görünüşe göre %1 denemeden sonra başlatamadık. Denemeye devam etmek ister misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="187"/>
+        <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>Player name</source>
         <translation>Oyuncu ismi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="180"/>
+        <location filename="src/launcher/LaunchController.cpp" line="185"/>
         <source>Choose your offline mode player name.</source>
         <translation>Çevrimdışı oyuncu adınızı seçin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="182"/>
+        <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>Choose your demo mode player name.</source>
         <translation>Demo modu oyuncu ismi seç.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="207"/>
+        <location filename="src/launcher/LaunchController.cpp" line="212"/>
         <source>Received undetermined session status during login.</source>
         <translation>Giriş sırasında belirsiz oturum durumu görüldü.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="217"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Play demo?</source>
         <translation>Deneme sürümü çalıştırılsın mı?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="219"/>
+        <location filename="src/launcher/LaunchController.cpp" line="224"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -4277,84 +4277,84 @@ Oyunu oynamak için onu satın almış olmalısınız.
 Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="222"/>
+        <location filename="src/launcher/LaunchController.cpp" line="227"/>
         <source>Play Demo</source>
         <translation>Deneme Sürümünü Oyna</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <location filename="src/launcher/LaunchController.cpp" line="228"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="232"/>
+        <location filename="src/launcher/LaunchController.cpp" line="237"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Başlatma iptal edildi - hesapta Minecraft mevcut değil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="247"/>
+        <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>Play Offline</source>
         <translation>Çevrım Dışı Oyna</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="260"/>
+        <location filename="src/launcher/LaunchController.cpp" line="259"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>Hesabın süresi geçmiş ve yeniden elle giriş yapılması gerekiyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="261"/>
+        <location filename="src/launcher/LaunchController.cpp" line="260"/>
         <source>Account refresh failed</source>
         <translation>Hesap yenilemesi başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="267"/>
+        <location filename="src/launcher/LaunchController.cpp" line="266"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>Başlatıcının istemci tanılaması değişti. Lütfen bu hesabı kaldırıp yeniden ekleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="268"/>
+        <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>Client identification changed</source>
         <translation>İstemci tanılama değişti</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="275"/>
+        <location filename="src/launcher/LaunchController.cpp" line="274"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Bu hesap artık sunucularda yok. Belki taşınmış olabilir. Böyle bir durumda lütfen taşımış olduğunuz hesabın bilgileriyle yeni hesap ekleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="277"/>
+        <location filename="src/launcher/LaunchController.cpp" line="276"/>
         <source>Account gone</source>
         <translation>Hesap yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="283"/>
         <source>Failed to launch.</source>
         <translation>Başlatılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="293"/>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="292"/>
+        <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Error!</source>
         <translation>Hata!</translation>
     </message>
     <message>
+        <location filename="src/launcher/LaunchController.cpp" line="292"/>
         <location filename="src/launcher/LaunchController.cpp" line="293"/>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Profil dosyası yüklenemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="300"/>
+        <location filename="src/launcher/LaunchController.cpp" line="299"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Bir başlatıcı örneklendirilemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 için profilci denetimi başarısız oldu: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="380"/>
+        <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>&amp;Launch</source>
         <translation>&amp;Başlat</translation>
     </message>
@@ -4363,7 +4363,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation type="vanished">Profilleyici başlatılamadı: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -4372,7 +4372,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="377"/>
         <source>Waiting.</source>
         <translation>Bekleniyor.</translation>
     </message>
@@ -4381,27 +4381,27 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation type="vanished">Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="386"/>
+        <location filename="src/launcher/LaunchController.cpp" line="385"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Profilleyici başlatılamadı: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="387"/>
+        <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="414"/>
+        <location filename="src/launcher/LaunchController.cpp" line="413"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="427"/>
+        <location filename="src/launcher/LaunchController.cpp" line="426"/>
         <source>Kill Minecraft?</source>
         <translation>Minecraft&apos;ı durdur?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="428"/>
+        <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Bu işlem, profilin bozulmasına neden olabilir ve sadece Minecraft herhangi bir sebepten dolayı donduğunda kullanılmalıdır</translation>
     </message>

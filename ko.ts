@@ -376,13 +376,13 @@
 <context>
     <name>AccountList</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="300"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation>체크 해제</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation>오프라인</translation>
@@ -393,67 +393,67 @@
         <translation type="vanished">온라인</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="288"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
         <translation>MSA</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
         <translation>오프라인</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
         <source>Ready</source>
         <comment>Account status</comment>
         <translation>준비</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>Working</source>
         <comment>Account status</comment>
         <translation>작동됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation>만료됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="316"/>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation>비활성화</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="321"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="319"/>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation>사라짐</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="324"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
         <source>Unknown</source>
         <comment>Account status</comment>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
         <translation>계정의 종류 (Microsoft 계정 또는 오프라인)</translation>
     </message>
@@ -488,22 +488,22 @@
         <translation type="vanished">불가능</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
         <source>Username</source>
         <translation>아이디</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Account</source>
         <translation>계정</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>Type</source>
         <translation>유형</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="363"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Status</source>
         <translation>상태</translation>
     </message>
@@ -512,7 +512,7 @@
         <translation type="vanished">마이그레이션?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Minecraft username associated with the account.</source>
         <translation>계정과 연결된 마인크래프트 사용자 이름입니다.</translation>
     </message>
@@ -521,7 +521,7 @@
         <translation type="vanished">프로필</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>User name of the account.</source>
         <translation>계정의 사용자명.</translation>
     </message>
@@ -530,7 +530,7 @@
         <translation type="vanished">계정 유형 - Mojang 혹은 Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Current status of the account.</source>
         <translation>현재 계정 상태.</translation>
     </message>
@@ -4188,33 +4188,33 @@ Please select one of the following or browse for a java executable.</oldsource>
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="69"/>
+        <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
         <translation>선택한 인스턴스 없음!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="74"/>
+        <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>잘못된 자바 인수를 지정했습니다. 이 문제를 먼저 고쳐야 합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="91"/>
+        <location filename="src/launcher/LaunchController.cpp" line="90"/>
         <source>No Accounts</source>
         <translation>계정 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="92"/>
+        <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>마인크래프트를 이용하려면 마인크래프트를 소유하고 있는 하나 이상의 Microsoft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="118"/>
+        <location filename="src/launcher/LaunchController.cpp" line="117"/>
         <source>Which account would you like to use?</source>
         <translation>어떤 계정을 사용하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="138"/>
         <source>No account selected for launch.</source>
         <translation>실행에 사용될 계정이 선택되지 않음.</translation>
     </message>
@@ -4223,42 +4223,42 @@ Please select one of the following or browse for a java executable.</oldsource>
         <translation type="vanished">계정이 로그인 되어있지 않습니다. 다시 로그인하기 위해 비밀번호를 입력하세요. &lt;br /&gt;&lt;br /&gt; 이것은 비밀번호 변경에 의해 발생할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="150"/>
+        <location filename="src/launcher/LaunchController.cpp" line="155"/>
         <source>Continue launch?</source>
         <translation>실행 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="151"/>
+        <location filename="src/launcher/LaunchController.cpp" line="156"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>%1번 시도했지만 실행할 수 없는 것 같습니다. 계속 시도하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="187"/>
+        <location filename="src/launcher/LaunchController.cpp" line="192"/>
         <source>Player name</source>
         <translation>플레이어 이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="180"/>
+        <location filename="src/launcher/LaunchController.cpp" line="185"/>
         <source>Choose your offline mode player name.</source>
         <translation>오프라인 모드에서의 플레이어 이름을 고르세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="182"/>
+        <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>Choose your demo mode player name.</source>
         <translation>데모 모드 플레이어의 이름을 정하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="207"/>
+        <location filename="src/launcher/LaunchController.cpp" line="212"/>
         <source>Received undetermined session status during login.</source>
         <translation>로그인 과정에서 불분명한 세션 상태를 수신함.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="217"/>
+        <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Play demo?</source>
         <translation>데모를 플레이하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="219"/>
+        <location filename="src/launcher/LaunchController.cpp" line="224"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -4269,84 +4269,84 @@ Do you want to play the demo?</source>
 먼저 데모를 플레이하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="222"/>
+        <location filename="src/launcher/LaunchController.cpp" line="227"/>
         <source>Play Demo</source>
         <translation>데모 플레이</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <location filename="src/launcher/LaunchController.cpp" line="228"/>
         <source>Cancel</source>
         <translation>취소</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="232"/>
+        <location filename="src/launcher/LaunchController.cpp" line="237"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>실행 취소됨 - 계정이 마인크래프트를 소유하고 있지 않습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="247"/>
+        <location filename="src/launcher/LaunchController.cpp" line="252"/>
         <source>Play Offline</source>
         <translation>오프라인으로 실행</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="260"/>
+        <location filename="src/launcher/LaunchController.cpp" line="259"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>계정이 만료되었으므로 수동으로 다시 로그인해야 합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="261"/>
+        <location filename="src/launcher/LaunchController.cpp" line="260"/>
         <source>Account refresh failed</source>
         <translation>계정 리셋 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="267"/>
+        <location filename="src/launcher/LaunchController.cpp" line="266"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>런처의 클라이언트 ID가 변경되었습니다. 이 계정을 제거하고 다시 추가하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="268"/>
+        <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>Client identification changed</source>
         <translation>클라이언트 ID가 변경되었습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="275"/>
+        <location filename="src/launcher/LaunchController.cpp" line="274"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>계정이 서버에 더 이상 존재하지 않습니다. 마이그레이션되었을 수 있으므로 마이그레이션된 새 계정을 추가하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="277"/>
+        <location filename="src/launcher/LaunchController.cpp" line="276"/>
         <source>Account gone</source>
         <translation>계정이 없어짐</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="283"/>
         <source>Failed to launch.</source>
         <translation>실행에 실패하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="293"/>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="292"/>
+        <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Error!</source>
         <translation>오류!</translation>
     </message>
     <message>
+        <location filename="src/launcher/LaunchController.cpp" line="292"/>
         <location filename="src/launcher/LaunchController.cpp" line="293"/>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>인스턴스 프로필을 불러오는 데 실패하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="300"/>
+        <location filename="src/launcher/LaunchController.cpp" line="299"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>런처를 인스턴스화하지 못하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="367"/>
+        <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1의 프로파일러 확인이 실패함: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="380"/>
+        <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>&amp;Launch</source>
         <translation>실행 (&amp;L)</translation>
     </message>
@@ -4355,7 +4355,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">프로파일러를 시작할 수 없었습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="373"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -4364,7 +4364,7 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="377"/>
         <source>Waiting.</source>
         <translation>대기중.</translation>
     </message>
@@ -4373,27 +4373,27 @@ Do you want to play the demo?</source>
         <translation type="vanished">실행</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="386"/>
+        <location filename="src/launcher/LaunchController.cpp" line="385"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>프로파일러를 시작할 수 없었습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="387"/>
+        <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="414"/>
+        <location filename="src/launcher/LaunchController.cpp" line="413"/>
         <source>Abort</source>
         <translation>강제 종료</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="427"/>
+        <location filename="src/launcher/LaunchController.cpp" line="426"/>
         <source>Kill Minecraft?</source>
         <translation>마인크래프트를 강제 종료할까요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="428"/>
+        <location filename="src/launcher/LaunchController.cpp" line="427"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>경고: 이는 인스턴스가 손상되게 할 수 있으며, 마인크래프트가 어떤 이유에서인지 응답하지 않을 때에만 사용되어야 합니다</translation>
     </message>
