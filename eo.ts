@@ -3504,7 +3504,7 @@ Bonvolu reprovi.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -9148,7 +9148,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provizanto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
@@ -10258,7 +10258,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Moviĝi Supren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
@@ -10268,7 +10268,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Moviĝi Malsupren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
