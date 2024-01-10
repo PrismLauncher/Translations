@@ -6584,7 +6584,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
         <source>No changelog available for this version!</source>
-        <translation>此版本沒有可用的更新日誌！</translation>
+        <translation>這個版本沒有可用的更新日誌！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="201"/>
@@ -9619,7 +9619,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="175"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation>此版本的「minimumLauncherVersion」值（%1）比 %3 所支援的還要高（%2）。有可能無法正常運作！</translation>
+        <translation>這個版本的「minimumLauncherVersion」值（%1）比 %3 所支援的還要高（%2）。有可能無法正常運作！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="293"/>
@@ -11674,7 +11674,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation>跳過此版本</translation>
+        <translation>跳過這個版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
@@ -12406,12 +12406,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>Filesystem path to this version</source>
-        <translation>此版本在檔案系統中的路徑</translation>
+        <translation>這個版本在檔案系統中的路徑</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>Release date of this version</source>
-        <translation>此版本的發布日期</translation>
+        <translation>這個版本的發布日期</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="158"/>
