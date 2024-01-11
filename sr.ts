@@ -2242,7 +2242,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slaži po verziji igrice</translation>
     </message>
 </context>
 <context>
@@ -2260,7 +2260,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pretraži</translation>
     </message>
 </context>
 <context>
@@ -2403,13 +2403,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="493"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Blokirane modifikacije pronađene</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="494"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sledeći fajlovi nisu mogući skinuti na druge launcher-e.&lt;br/&gt;Morate da ih samostalno skinete i dodate u instanc.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
@@ -2539,7 +2539,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pretraži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
@@ -2563,7 +2563,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slaži po popularnosti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
@@ -3442,7 +3442,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Profiler prekinut</translation>
     </message>
 </context>
 <context>
@@ -3455,7 +3455,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Profiler prekinut</translation>
     </message>
 </context>
 <context>
@@ -4275,7 +4275,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slaži po verziji igrice</translation>
     </message>
 </context>
 <context>
@@ -4358,7 +4358,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="29"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pretraži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="42"/>
@@ -5985,7 +5985,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="103"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepoznato</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="116"/>
@@ -6638,7 +6638,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pretraži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
@@ -8296,7 +8296,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slaži po popularnosti</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
@@ -8328,7 +8328,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slaži po verziji igrice</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
@@ -8841,7 +8841,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pretraži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
@@ -9541,7 +9541,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pretraži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
@@ -10310,7 +10310,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pretraži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
