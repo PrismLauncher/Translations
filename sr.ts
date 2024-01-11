@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
-        <translation>APIs</translation>
+        <translation>API-ovi</translation>
     </message>
 </context>
 <context>
@@ -369,7 +369,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Одсутан</translation>
+        <translation>Odsutan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
@@ -567,7 +567,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="103"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished">Додај &amp; Отсутан</translation>
+        <translation>Dodaj i Odsutan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
@@ -713,7 +713,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Непознато стање задатка налога: %1</translation>
+        <translation>Nepoznato stanje zadatka naloga: %1</translation>
     </message>
 </context>
 <context>
@@ -789,12 +789,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1354"/>
         <source>Aborted</source>
-        <translation type="unfinished">Прекинут</translation>
+        <translation>Prekinut</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1764"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished">Пронађени су стари подаци са %1, али већ имате постојеће податке за %2. Нажалост, мораћете сами да мигрирате. Да ли желите да вас подсети на миграцију података на чекању следећи пут када покренете %2?</translation>
+        <translation>Pronađeni su stari podaci sa %1, ali već imate postojeće podatke za %2. Nažalost, moraćete sami da migrirate. Da li želite da vas podseti na migraciju podataka na čekanju sledeći put kada pokrenete %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1768"/>
@@ -817,12 +817,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished">Ажурирање индекса средстава...</translation>
+        <translation>Ažuriranje indeksa sredstava...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation type="unfinished">Индекс средстава за %1</translation>
+        <translation>Indeks sredstava za %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="43"/>
@@ -833,25 +833,25 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
         <source>Failed to read the assets index!</source>
-        <translation type="unfinished">Читање индекса средстава није успело!</translation>
+        <translation>Čitanje indeksa sredstava nije uspelo!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="unfinished">Преузимање датотека средстава од Мојанг-а...</translation>
+        <translation>Preuzimanje datoteka sredstava od Mojang-a...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="92"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Ne uspešno skidanje u asset indeks:
+        <translation>Ne uspešno skidanje u indeks sredstava:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Ne uspešno skidanje asseta:
+        <translation>Ne uspešno skidanje sredstava:
 %1</translation>
     </message>
 </context>
@@ -867,7 +867,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Slaži po imenu</translation>
+        <translation>Slaži po imenu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
@@ -948,7 +948,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="64"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Pretraži i filtriraj ...</translation>
+        <translation>Pretraži i filtriraj ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
@@ -977,17 +977,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Nema verzija koje su trenutno dostupne za Majnkraft %1</translation>
+        <translation>Nema verzija koje su trenutno dostupne za Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Nema verzija koje su trenutno dostupne</translation>
+        <translation>Nema verzija koje su trenutno dostupne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Nismo mogli da učitamo ili preuzmemo spisak verzija!</translation>
+        <translation>Nismo mogli da učitamo ili preuzmemo spisak verzija!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -1134,7 +1134,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="172"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Aborted</source>
-        <translation type="unfinished">Прекинут</translation>
+        <translation>Prekinut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
@@ -1221,12 +1221,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi sve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogućavati ovo će ostaviti učitavač modifikacija (npr: Fabrik, Quilt, itd.) ali briše datoteku sa modifikacijama i njihove konfiguracije.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1478,7 +1478,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="263"/>
         <source>Refresh</source>
-        <translation type="unfinished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
@@ -1533,7 +1533,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Nema verzija koje su trenutno dostupne za Majnkraft %1</translation>
+        <translation>Nema verzija koje su trenutno dostupne za Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -1557,7 +1557,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">Прекинут</translation>
+        <translation>Prekinut</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1688,7 +1688,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
@@ -1783,7 +1783,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
@@ -1811,7 +1811,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Подешавања</translation>
+        <translation>Podešavanja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -1857,7 +1857,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
@@ -1998,7 +1998,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="117"/>
         <source>Context menu</source>
-        <translation type="unfinished">Садржај</translation>
+        <translation>Sadržaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="201"/>
@@ -2106,7 +2106,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -2205,7 +2205,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
         <source>Aborted</source>
-        <translation type="unfinished">Прекинут</translation>
+        <translation>Prekinut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
@@ -2237,12 +2237,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Slaži po imenu</translation>
+        <translation>Slaži po imenu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Slaži po verziji igrice</translation>
+        <translation>Slaži po verziji igrice</translation>
     </message>
 </context>
 <context>
@@ -2255,12 +2255,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Pretraži i filtriraj ...</translation>
+        <translation>Pretraži i filtriraj ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <source>Search</source>
-        <translation type="unfinished">Pretraži</translation>
+        <translation>Pretraži</translation>
     </message>
 </context>
 <context>
@@ -2340,7 +2340,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="328"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Није могуће разумети манифест пакета
+        <translation>Nije moguće razumeti manifest paketa
 </translation>
     </message>
     <message>
@@ -2361,17 +2361,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Добијање индекса локалних метаподатака није успело за 1%</translation>
+        <translation>Dobijanje indeksa lokalnih metapodataka nije uspelo za 1%</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="299"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Проналажење верзије за %1 лодера није успело</translation>
+        <translation>Pronalaženje verzije za %1 lodera nije uspelo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Није постављена верзија за учитавање модпацкa!</translation>
+        <translation>Nije postavljena verzija za učitavanje modifikacijonalnog paketa!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
@@ -2403,13 +2403,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="493"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blokirane modifikacije pronađene</translation>
+        <translation>Blokirane modifikacije pronađene</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="494"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Sledeći fajlovi nisu mogući skinuti na druge launcher-e.&lt;br/&gt;Morate da ih samostalno skinete i dodate u instanc.</translation>
+        <translation>Sledeći fajlovi nisu mogući skinuti na druge launcher-e.&lt;br/&gt;Morate da ih samostalno skinete i dodate u instanc.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
@@ -2419,7 +2419,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="582"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 од укупно %2 завршено</translation>
+        <translation>%1 od ukupno %2 završeno</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="596"/>
@@ -2453,7 +2453,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="588"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Преузимање модова...</translation>
+        <translation>Preuzimanje modifikacija...</translation>
     </message>
 </context>
 <context>
@@ -2534,12 +2534,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Verzija izabrana:</translation>
+        <translation>Verzija izabrana:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished">Pretraži</translation>
+        <translation>Pretraži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
@@ -2551,7 +2551,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Pretraži i filtriraj ...</translation>
+        <translation>Pretraži i filtriraj ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
@@ -2563,7 +2563,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Slaži po popularnosti</translation>
+        <translation>Slaži po popularnosti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
@@ -2575,7 +2575,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Slaži po imenu</translation>
+        <translation>Slaži po imenu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -2598,7 +2598,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
@@ -2820,7 +2820,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
@@ -2928,7 +2928,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="43"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Nema verzija koje su trenutno dostupne za Majnkraft %1</translation>
+        <translation>Nema verzija koje su trenutno dostupne za Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3237,7 +3237,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="373"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="590"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Остало</translation>
+        <translation>Razno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="488"/>
@@ -3324,7 +3324,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
         <source>Settings</source>
-        <translation type="unfinished">Подешавања</translation>
+        <translation>Podešavanja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="342"/>
@@ -3419,7 +3419,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <source>Close</source>
-        <translation type="unfinished">Zatvori</translation>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
@@ -3442,7 +3442,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiler prekinut</translation>
+        <translation>Profiler prekinut</translation>
     </message>
 </context>
 <context>
@@ -3455,7 +3455,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiler prekinut</translation>
+        <translation>Profiler prekinut</translation>
     </message>
 </context>
 <context>
@@ -3891,7 +3891,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="413"/>
@@ -4002,7 +4002,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Остало</translation>
+        <translation>Razno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
@@ -4269,13 +4269,13 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Slaži po imenu</translation>
+        <translation>Slaži po imenu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Slaži po verziji igrice</translation>
+        <translation>Slaži po verziji igrice</translation>
     </message>
 </context>
 <context>
@@ -4334,7 +4334,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="135"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Инсталирање модпацк-а</translation>
+        <translation>Instaliranje modifikacijalnog paketa</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
@@ -4353,12 +4353,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Pretraži i filtriraj ...</translation>
+        <translation>Pretraži i filtriraj ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="29"/>
         <source>Search</source>
-        <translation type="unfinished">Pretraži</translation>
+        <translation>Pretraži</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="42"/>
@@ -4388,12 +4388,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="142"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Verzija izabrana:</translation>
+        <translation>Verzija izabrana:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="207"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="212"/>
@@ -4467,7 +4467,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation type="unfinished">Прекинут</translation>
+        <translation>Prekinut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -5084,7 +5084,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
         <source>Accounts</source>
-        <translation type="unfinished">Nalozi</translation>
+        <translation>Nalozi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="282"/>
@@ -5479,7 +5479,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1018"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="640"/>
@@ -5554,7 +5554,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="195"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="199"/>
@@ -5612,7 +5612,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="142"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="161"/>
         <source>Aborted</source>
-        <translation type="unfinished">Прекинут</translation>
+        <translation>Prekinut</translation>
     </message>
 </context>
 <context>
@@ -5698,7 +5698,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="20"/>
         <source>Aborted</source>
-        <translation type="unfinished">Прекинут</translation>
+        <translation>Prekinut</translation>
     </message>
 </context>
 <context>
@@ -5845,7 +5845,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Остало</translation>
+        <translation>Razno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
@@ -5985,7 +5985,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="103"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished">Nepoznato</translation>
+        <translation>Nepoznato</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="116"/>
@@ -6008,7 +6008,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -6149,7 +6149,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="284"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
@@ -6162,7 +6162,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="288"/>
         <source>Aborted</source>
-        <translation type="unfinished">Прекинут</translation>
+        <translation>Prekinut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
@@ -6319,7 +6319,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="402"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
@@ -6454,7 +6454,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="360"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
