@@ -795,9 +795,9 @@ for details on the last update attempt.</source>
         <translation>Un tentativo di aggiornamento è fallito
 
 Per favore assicurati che l&apos;installazione avvenga nell&apos;ordine corretto prima di procedere.
-Controlla  il log di aggiornamento di Prism Launcher qui:·
+Controlla il log di aggiornamento di Prism Launcher qui:·
 %1
-per dettagli  sull&apos;ultimo tentativo di aggiornamento.</translation>
+per dettagli sull&apos;ultimo tentativo di aggiornamento.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="958"/>
@@ -1739,7 +1739,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cancella</translation>
     </message>
 </context>
 <context>
@@ -2204,7 +2204,8 @@ Sei sicuro di volerlo fare?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se disabiliti questa risorsa mentre il gioco è in esecuzione, il gioco potrebbe crashare.
+Sei sicuro di volerlo fare?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
@@ -4655,7 +4656,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Gatto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
@@ -4665,12 +4666,12 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacità</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
