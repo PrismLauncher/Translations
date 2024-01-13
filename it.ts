@@ -766,7 +766,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa installazione ha un file di blocco di aggiornamento presente a: %1
+
+orario: %2
+Aggiornando da versione %3 a %4
+Percorso di installazione: %5
+Percorso data: %6
+Questo probabilmente significa che l&apos;aggiornamento è fallito. Prima di procedere, controlla che l&apos;installazione funzioni.
+Controlla il log d&apos;aggiornamene di Prism Launcher a:
+%7
+per dettagli sull&apos;ultimo tentativo di aggiornamento.
+
+Per rimuovere questo blocco e procedere selezione &quot;Ignora&quot; di seguito.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="925"/>
