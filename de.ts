@@ -8947,7 +8947,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation>Lege einen eigenen Pfad für das Applikations-Stammverzeichnis fest (nutze &apos;.\&apos; für das aktuelle Verzeichnis).</translation>
+        <translation>Lege einen eigenen Pfad für das Applikations-Stammverzeichnis fest (nutze &apos;.&apos; für das aktuelle Verzeichnis).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
