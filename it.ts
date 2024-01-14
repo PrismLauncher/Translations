@@ -235,7 +235,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Identificate delle mod bloccate</translation>
+        <translation>Identificate delle mod bloccate</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
@@ -1709,7 +1709,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Modulo</translation>
+        <translation>Modulo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
@@ -1724,7 +1724,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
         <source>Value</source>
-        <translation type="unfinished">Valore</translation>
+        <translation>Valore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
@@ -2846,7 +2846,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
         <source>Error</source>
-        <translation type="unfinished">Errore</translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
@@ -4205,7 +4205,7 @@ Per favore seleziona una delle seguenti o cerca l&apos;eseguibile di Java.</tran
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Per giocare a Minecraft, è necessario che sia connesso almeno un account Microsoft che abbia possesso del gioco. Vuoi aprire il gestore degli account per aggiungerne uno adesso?</translation>
+        <translation>Per giocare a Minecraft, è necessario che sia connesso almeno un account Microsoft che abbia possesso del gioco. Vuoi aprire il gestore degli account per aggiungerne uno adesso?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -7388,7 +7388,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornare mod mentre il gioco è in esecuzione può causare la duplicazione di mod e il gioco potrebbe crashare.
+I vecchi file potrebbero non essere cancellati mentre sono in uso
+Sei sicuro che vuoi fare questo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
@@ -7431,7 +7433,8 @@ Sei sicuro?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se rimuovi mod mentre il gioco è in esecuzione potrebbe crashare il gioco.
+Sei sicuro di volerlo fare?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
@@ -7691,7 +7694,7 @@ Aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo tipo di versione: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
@@ -8093,7 +8096,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Questo progetto è stato archiviato. Non riceverà nessun aggiornamento futuro, a meno che l&apos;autore decide di disarchiviare il progetto.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="276"/>
@@ -8404,22 +8407,22 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona mod opzionali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona tutto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
         <source>Deselect All</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseleziona tutto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le mod non selezionate saranno disabilitate.</translation>
     </message>
 </context>
 <context>
@@ -8734,13 +8737,14 @@ Messaggio d&apos;errore: %3</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="118"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="139"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Controllo aggiornamenti fallito</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="119"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvio non riuscito dopo 5 secondi
+Ragione: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="140"/>
@@ -8752,44 +8756,46 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun aggiornamento disponibile</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>La versione in uso è l&apos;ultima.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore nel controllo dell&apos;aggiornamento</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="177"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>C&apos;è stato un errore a controllare l&apos;aggiornamento.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="204"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore d&apos;aggiornamento sconosciuto</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="205"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Il programma d&apos;aggiornamento è uscito con un errore sconosciuto.
+Exit code: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="207"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>StdOut: %1
+StdErr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non sono disponibili nuovi aggiornamenti.</translation>
     </message>
 </context>
 <context>
@@ -8797,103 +8803,103 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa un percorso personalizzato come root dell&apos;applicazione (usa &apos;.&apos; per la directory corrente).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>directory</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizzare questa versione come versione del launcher installato. (fornita perché stdout non può essere catturato in modo affidabile su Windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione del launcher installata</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>nome versione</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>Update from the specified repo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna dalla repository specificata.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>link repository GitHub</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlla solo se un aggiornamento è necessario. Exit status è 100 quando vero, 0 se falso (o non 0 se c&apos;è stato un errore).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Consentire l&apos;aggiornamento a versioni pre-release</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forza un aggiornamento, anche se non è necessario.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elenca tutte le risorse disponibili.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="235"/>
         <source>Log debug to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registra il debug nella console.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona la versione da installare con l&apos;interfaccia grafica.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permetti al programma di aggiornamento di eseguire il downgrade a versioni precedenti.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>MacOs non supportato</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Il programma di aggiornamento non supporta installazioni su MacOs</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="254"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Installazione non supportata</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;Updater viene eseguito come AppImage non configurata correttamente? (manca la variabile d&apos;ambiente $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il programma di aggiornamento non riesce a trovare l&apos;eseguibile principale.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="368"/>
         <source>The launcher data folder is not writable!</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartella data del launcher non è scrivibile!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="369"/>
@@ -8903,33 +8909,38 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il programma di aggiornamento non poteva creare il log file - la cartella data non è scrivibile.
+
+Assicuratevi di avere i permessi di scrittura per la cartella data.
+(%1)
+
+Il programma di aggiornamento non può continuare finché non risolvi questo problema.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornare flatpack non è supportato</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Azione al di fuori di cercare se un aggiornamento è disponibile non è supportato quando si esegue la version flatpack di Prism Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Updating Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornare non è supportato</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="591"/>
         <source>Updating non-portable linux installations is not supported. Please use your system package manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornare versioni linux non portatili non è supportato. Utilizzare il gestore di pacchetti del sistema</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="641"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1090"/>
         <source>Reading manifest from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettura del manifesto da %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="653"/>
