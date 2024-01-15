@@ -315,7 +315,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation>Permesilo</translation>
+        <translation>Licenco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
@@ -807,7 +807,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1354"/>
         <source>Aborted</source>
-        <translation>Abortita</translation>
+        <translation>Ĉesigita</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1764"/>
@@ -846,7 +846,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="43"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Aborted</source>
-        <translation>Abortita</translation>
+        <translation>Ĉesigita</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
@@ -1948,7 +1948,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="101"/>
         <source>Add</source>
-        <translation type="unfinished">Aldoni modifojn</translation>
+        <translation>Aldoni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
@@ -5839,7 +5839,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift-O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
@@ -5849,7 +5849,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="262"/>
@@ -8674,7 +8674,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="118"/>
@@ -9447,7 +9447,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliĝi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
