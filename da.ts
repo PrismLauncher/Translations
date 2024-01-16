@@ -793,7 +793,7 @@ for details.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering fuldført</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
