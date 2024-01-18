@@ -732,12 +732,12 @@ OSと%1をアップデートしてください。</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="756"/>
+        <location filename="src/launcher/Application.cpp" line="759"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="908"/>
+        <location filename="src/launcher/Application.cpp" line="911"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -764,12 +764,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 このロックを削除して、先へ進むには &quot;無視&quot; ボタンを選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="925"/>
+        <location filename="src/launcher/Application.cpp" line="928"/>
         <source>Update In Progress</source>
         <translation>アップデート中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="950"/>
+        <location filename="src/launcher/Application.cpp" line="953"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -784,12 +784,12 @@ for details on the last update attempt.</source>
 前回のアップデートの詳細です。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="958"/>
+        <location filename="src/launcher/Application.cpp" line="961"/>
         <source>Update Failed</source>
         <translation>アップデート失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="983"/>
+        <location filename="src/launcher/Application.cpp" line="986"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -803,12 +803,12 @@ for details.</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="991"/>
+        <location filename="src/launcher/Application.cpp" line="994"/>
         <source>Update Succeeded</source>
         <translation>アップデート成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1022"/>
+        <location filename="src/launcher/Application.cpp" line="1025"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -817,32 +817,32 @@ Minecraft のバージョンによっては起動しない場合があります�
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1024"/>
+        <location filename="src/launcher/Application.cpp" line="1027"/>
         <source>Incompatible system configuration</source>
         <translation>システム構成に互換性がありません</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1354"/>
+        <location filename="src/launcher/Application.cpp" line="1357"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1764"/>
+        <location filename="src/launcher/Application.cpp" line="1767"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 からの古いデータが見つかりましたが、%2 用のデータが既に存在しています。手動で移行する必要があります。次回 %2 を起動する際に保留中のデータ移行について通知しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1768"/>
+        <location filename="src/launcher/Application.cpp" line="1771"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>あなたは以前%1を利用していたようです。データを%2の新しい場所に移行しますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1774"/>
+        <location filename="src/launcher/Application.cpp" line="1777"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>あなたは%2以前に%1を利用していたようです。データを%3の新しい場所に移行しますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1817"/>
+        <location filename="src/launcher/Application.cpp" line="1820"/>
         <source>Migration failed! Reason: %1</source>
         <translation>次の理由で移行に失敗しました: %1</translation>
     </message>
@@ -2370,12 +2370,12 @@ Please try again.</source>
 <context>
     <name>FTBImportAPP::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="112"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="114"/>
         <source>Sort by Name</source>
         <translation>名前順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="113"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
         <source>Sort by Game Version</source>
         <translation>ゲームバージョン順</translation>
     </message>
@@ -2388,21 +2388,32 @@ Please try again.</source>
         <translation>FTB Appからインポート</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="56"/>
         <source>Search and filter...</source>
         <translation type="unfinished">検索とフィルター...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="66"/>
         <source>Search</source>
         <translation>検索</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="73"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
+        <source>Select FTBApp instances directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
+        <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>FTBImportAPP::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="81"/>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="97"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="99"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -7298,7 +7309,7 @@ Are you sure you want to do this?</source>
         <translation>このmodに依存するmod:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="449"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="452"/>
         <source>Changelog of the latest version</source>
         <translation>最新バージョンの更新内容</translation>
     </message>
@@ -10031,54 +10042,59 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>戻る</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="42"/>
         <source>Filename: %1</source>
         <translation>ファイル名: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="49"/>
         <source>This download will be placed in: %1</source>
         <translation>このダウンロードは、以下の場所に置かれます：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="56"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation>このファイルは、おそらくローダーが必要とするために、デフォルトとは異なるフォルダーの場所にダウンロードされます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="60"/>
         <source>Provider: %1</source>
         <translation type="unfinished">プロバイダ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="67"/>
         <source>Required by: %1</source>
         <translation>このmodに依存するmod: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="69"/>
         <source>Required by:</source>
         <translation>このmodに依存するmod:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="81"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="84"/>
         <source>Version Type: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
         <source>Confirm %1 selection</source>
         <translation>%1 の選択を確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="108"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="111"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>以下の%1をダウンロードしようとしています:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>チェックが付いた%1だけがダウンロードされます！</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
+        <source>Toggle Dependencies</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
