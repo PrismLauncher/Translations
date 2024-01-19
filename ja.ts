@@ -390,13 +390,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">オフライン</translation>
+        <translation>オフライン</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">不明</translation>
+        <translation>不明</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
@@ -438,7 +438,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">不明</translation>
+        <translation>不明</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
@@ -1209,7 +1209,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>一つまたは複数のサブタスクが失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
@@ -1529,7 +1529,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
@@ -1875,7 +1875,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished">Modrinth Packをエクスポート</translation>
+        <translation>Modrinthパックをエクスポート</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
@@ -1901,7 +1901,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
         <source>Task aborted</source>
-        <translation type="unfinished">タスク中断</translation>
+        <translation>タスク中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
@@ -2007,7 +2007,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">%1 をエクスポート</translation>
+        <translation>%1 をエクスポート</translation>
     </message>
 </context>
 <context>
@@ -2157,7 +2157,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>削除の確認</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
@@ -2169,13 +2169,14 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>無効化の確認</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲーム実行中にリソースを無効にすると、ゲームがクラッシュする可能性があります。
+本当に無効化しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
@@ -2196,7 +2197,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">参照</translation>
+        <translation>参照</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2259,7 +2260,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
@@ -2390,7 +2391,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="56"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">検索とフィルター...</translation>
+        <translation>検索とフィルター…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="66"/>
@@ -2401,12 +2402,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="73"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>FTBApp起動構成フォルダーを選択</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>※FTB起動構成がデフォルトの場所にない場合は、検索の横にあるボタンで選択してください。</translation>
     </message>
 </context>
 <context>
@@ -2515,17 +2516,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">これらのローカルメタデータインデックスが取得できませんでした: %1</translation>
+        <translation>%1 のローカルメタデータインデックスが取得できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="299"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1ローダーのバージョンを見つけられませんでした</translation>
+        <translation>ローダーバージョン &quot;%1&quot; を見つけられませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Modパックのローダーのバージョンが設定されていません!</translation>
+        <translation>Modパックのローダーバージョンが設定されていません！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
@@ -3420,7 +3421,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
         <source>Minimum memory allocation:</source>
-        <translation>最少メモリ割り当て：</translation>
+        <translation>最少割り当て：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="174"/>
@@ -3440,7 +3441,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
         <source>Maximum memory allocation:</source>
-        <translation>最大メモリ割り当て：</translation>
+        <translation>最大割り当て：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
@@ -3450,7 +3451,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
         <source>PermGen:</source>
-        <translation type="unfinished">PermGenメモリサイズ:</translation>
+        <translation>PermGenメモリサイズ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
@@ -3663,7 +3664,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="342"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="349"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">%1 ライブラリのパス</translation>
+        <translation>ライブラリファイルのパス %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="364"/>
@@ -3688,7 +3689,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>最大メモリ割り当て量が最小メモリ割り当て量を下回っています</translation>
+        <translation>メモリの最大割り当て量が最小割り当て量を下回っています</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3697,12 +3698,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="514"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>最大メモリ割り当てがあなたのコンピューターのメモリ容量を超えています。</translation>
+        <translation>最大メモリ割り当て量がシステムメモリ容量を超えています。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="517"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>最大メモリ割り当てがあなたのコンピューターのメモリ容量をひっ迫しています。</translation>
+        <translation>最大メモリ割り当て量がシステムメモリ容量をひっ迫しています。</translation>
     </message>
 </context>
 <context>
@@ -3718,12 +3719,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Welcome!</source>
-        <translation type="unfinished">ようこそ！</translation>
+        <translation>ようこそ！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="486"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished">&quot;起動構成を追加&quot; を押して始めよう！</translation>
+        <translation>&quot;起動構成を追加&quot;を押しましょう！</translation>
     </message>
 </context>
 <context>
@@ -3741,17 +3742,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">起動(&amp;L)</translation>
+        <translation>起動(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">強制終了(&amp;K)</translation>
+        <translation>強制終了(&amp;K)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -3835,28 +3836,28 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>最少メモリ割り当て(&amp;M):</translation>
+        <translation>最少割り当て(&amp;M):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>最大メモリ割り当て(&amp;X):</translation>
+        <translation>最大割り当て(&amp;X):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished">PermGenメモリサイズ(&amp;P):</translation>
+        <translation>PermGenサイズ割り当て(&amp;P):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraftが開始するときに使用される最少メモリの値です。</translation>
+        <translation>Minecraft起動時に使用されるメモリの量です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Javaクラスのロードに使われる使用可能なメモリの値です。</translation>
+        <translation>Javaクラスのロードに使われるメモリの量です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
@@ -3894,7 +3895,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
         <source>Browse</source>
-        <translation type="unfinished">参照</translation>
+        <translation>参照</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
@@ -3935,17 +3936,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="194"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>最大メモリ割り当てがあなたのコンピューターのメモリ容量を超えています。</translation>
+        <translation>最大メモリ割り当て量がシステムメモリ容量を超えています。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="197"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>最大メモリ割り当てがあなたのコンピューターのメモリ容量をひっ迫しています。</translation>
+        <translation>最大メモリ割り当て量がシステムメモリ容量をひっ迫しています。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="200"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">メモリ最大割り当て量がメモリ最小割り当て量を下回っています</translation>
+        <translation>メモリの最大割り当て量が最小割り当て量を下回っています</translation>
     </message>
 </context>
 <context>
@@ -3983,17 +3984,17 @@ Javaバージョンは設定でいつでも変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraftが使用する最大メモリの値です。</translation>
+        <translation>Minecraftに使用されるメモリの最大量です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="401"/>
         <source>Minimum memory allocation:</source>
-        <translation>最少メモリ割り当て：</translation>
+        <translation>最少割り当て：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="402"/>
         <source>Maximum memory allocation:</source>
-        <translation>最大メモリ割り当て：</translation>
+        <translation>最大割り当て：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="403"/>
@@ -4013,17 +4014,17 @@ Javaバージョンは設定でいつでも変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="414"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>最大メモリ割り当てがあなたのコンピューターのメモリ容量を超えています。</translation>
+        <translation>最大メモリ割り当て量がシステムメモリ容量を超えています。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="417"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>最大メモリ割り当てがあなたのコンピューターのメモリ容量をひっ迫しています。</translation>
+        <translation>最大メモリ割り当て量がシステムメモリ容量をひっ迫しています。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">メモリ最大割り当て量がメモリ最小割り当て量を下回っています</translation>
+        <translation>メモリの最大割り当て量が最小割り当て量を下回っています</translation>
     </message>
 </context>
 <context>
@@ -4304,8 +4305,9 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation>%1行を超えたため、ゲームログの監視を停止しました。
-異常な速度でログを出力し、ハードドライブの容量を圧迫するmodがあるため、修正する必要があるかもしれません！</translation>
+        <translation>ログの長さが%1行を超えたため、ゲームログの表示を停止しました。
+ゲームはまだファイルにログを保存しているため、ストレージの空き容量が足りなくなり、ゲームが起動出来なくなる可能性があります。
+異常な速度でログを出力しているmodを修正する必要があるかもしれません。</translation>
     </message>
 </context>
 <context>
@@ -4454,7 +4456,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します&#x3000;(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
+        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します　(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
