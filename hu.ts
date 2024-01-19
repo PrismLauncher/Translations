@@ -9795,12 +9795,12 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <translation>Nincs(enek) szerző(k)</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="8"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="10"/>
         <source>Change instance name</source>
         <translation>Példány nevének módosítása</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="9"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="11"/>
         <source>The instance&apos;s name seems to include the old version. Would you like to update it?
 
 Old name: %1
@@ -9811,12 +9811,12 @@ Régi név: %1
 Új név: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="24"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="26"/>
         <source>Similar modpack was found!</source>
         <translation>Hasonló modpackot találtunk!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="25"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="27"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
@@ -9825,19 +9825,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági másolatot készített a fontos példányadatokról, mert a világok megsérülhetnek, és bizonyos konfigurációk elveszhetnek (a csomag felülbírálása miatt).</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="31"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>Update existing instance</source>
         <translation>Meglévő példány frissítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="32"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="34"/>
         <source>Create new instance</source>
         <translation>Új példány létrehozása</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>Cancel</source>
-        <translation>Mégsem</translation>
+        <translation type="vanished">Mégsem</translation>
     </message>
     <message>
         <source>Simple (Colored Icons)</source>

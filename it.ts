@@ -9801,12 +9801,12 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
         <translation>Nessun autore(i)</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="8"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="10"/>
         <source>Change instance name</source>
         <translation>Cambia nome dell&apos;istanza</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="9"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="11"/>
         <source>The instance&apos;s name seems to include the old version. Would you like to update it?
 
 Old name: %1
@@ -9817,12 +9817,12 @@ Vecchio nome: %1
 Nuovo nome: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="24"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="26"/>
         <source>Similar modpack was found!</source>
         <translation>È stato trovato un modpack simile!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="25"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="27"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
@@ -9831,19 +9831,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza prima di aggiornare, siccome i mondi potrebbero divenire corrotti e alcune configurazioni potrebbero venire perse (per via di sovrascrizione dei pacchetti).</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="31"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>Update existing instance</source>
         <translation>Aggiorna instanza esistente</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="32"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="34"/>
         <source>Create new instance</source>
         <translation>Crea nuova istanza</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>Cancel</source>
-        <translation>Annulla</translation>
+        <translation type="vanished">Annulla</translation>
     </message>
     <message>
         <source>Simple (Colored Icons)</source>

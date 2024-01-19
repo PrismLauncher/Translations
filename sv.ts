@@ -9702,12 +9702,12 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
         <translation>Inga författare</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="8"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="10"/>
         <source>Change instance name</source>
         <translation>Ändra instansnamnet</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="9"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="11"/>
         <source>The instance&apos;s name seems to include the old version. Would you like to update it?
 
 Old name: %1
@@ -9718,12 +9718,12 @@ Gammalt namn: %1
 Nytt namn: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="24"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="26"/>
         <source>Similar modpack was found!</source>
         <translation>Liknande modpaket hittades!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="25"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="27"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
@@ -9732,19 +9732,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata innan du uppdaterar, eftersom världar kan skadas och en viss konfiguration kan gå förlorad (på grund av överskridande av paketen).</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="31"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>Update existing instance</source>
         <translation>Uppdatera befintlig instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="32"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="34"/>
         <source>Create new instance</source>
         <translation>Skapa en ny instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>Cancel</source>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
     <message>
         <source>Simple (Colored Icons)</source>

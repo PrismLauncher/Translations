@@ -9073,12 +9073,12 @@ Acest mesaj va fi afișat până ștergi acest argument din argumentele JVM-ului
         <translation>Nu există autor(i)</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="8"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="10"/>
         <source>Change instance name</source>
         <translation>Schimbă numele instanței</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="9"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="11"/>
         <source>The instance&apos;s name seems to include the old version. Would you like to update it?
 
 Old name: %1
@@ -9089,12 +9089,12 @@ Numele vechi: %1
 Numele nou: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="24"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="26"/>
         <source>Similar modpack was found!</source>
         <translation>Un pachet de moduri similar a fost găsit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="25"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="27"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
@@ -9103,19 +9103,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 NOTIȚĂ: Asigură-te că ai făcut o copie de rezervă a datelor instanțelor importante ție înainte de actualizare, deoarece lumile pot fi corupte și unele configurații pot fi pierdute (din cauza unor suprascrieri ale pachetului).</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="31"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>Update existing instance</source>
         <translation>Actualizează o instanță existentă</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="32"/>
+        <location filename="src/launcher/InstanceTask.cpp" line="34"/>
         <source>Create new instance</source>
         <translation>Creează o instanță nouă</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceTask.cpp" line="33"/>
         <source>Cancel</source>
-        <translation>Anulează</translation>
+        <translation type="vanished">Anulează</translation>
     </message>
     <message>
         <source>Simple (Colored Icons)</source>
