@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished">&amp;Servicio Pastebin</translation>
+        <translation>Servicio &amp;Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -2443,12 +2443,12 @@ Por favor, inténtelo de nuevo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="73"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el directorio de instancias FTBApp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Si sus instancias de FTB no se encuentran en la ubicación predeterminada, selecciónela mediante el botón situado junto a la búsqueda.</translation>
     </message>
 </context>
 <context>
@@ -3767,7 +3767,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula usos de antiguos servicios en línea que ya no funcionan.&lt;/p&gt;&lt;p&gt;Esto permite actualmente utilizar skins modernas.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula usos de antiguos servicios en línea que ya no funcionan.&lt;/p&gt;&lt;p&gt;Las correcciones actuales incluyen: skin y compatibilidad con el modo online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
@@ -4710,22 +4710,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Gato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Establezca la opacidad del gato. 0% es totalmente transparente y 100% es totalmente opaco.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacidad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
@@ -6624,7 +6624,7 @@ Esto es permanente y borrará completamente la instancia.
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Esto es un modpack local.
+        <translation>Este es un modpack local.
 Sólo puede actualizarse mediante un archivo con formato %1
 </translation>
     </message>
@@ -6857,7 +6857,7 @@ Sólo puede actualizarse mediante un archivo con formato %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula usos de antiguos servicios en línea que ya no funcionan.&lt;/p&gt;&lt;p&gt;Esto permite actualmente utilizar skins modernas.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula usos de antiguos servicios en línea que ya no funcionan.&lt;/p&gt;&lt;p&gt;Las correcciones actuales incluyen: skin y compatibilidad con el modo online.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
@@ -7898,7 +7898,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>¡Los mods desactivados no se actualizarán, para evitar problemas de duplicación de mods!</translation>
+        <translation>¡No se actualizarán los mods deshabilitados, para prevenir mods duplicados!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="87"/>
@@ -8183,7 +8183,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Este proyecto ha sido archivado. No recibirá más actualizaciones a menos que el autor decida des-archivarlo.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="276"/>
@@ -10298,7 +10298,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="204"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Este proyecto ha sido archivado. No recibirá más actualizaciones a menos que el autor decida des-archivarlo.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="209"/>
@@ -10715,7 +10715,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar dependencias</translation>
     </message>
 </context>
 <context>
