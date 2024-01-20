@@ -2260,7 +2260,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
@@ -4456,7 +4456,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します&#x3000;(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
+        <translation>有効化されると、リソースの検索の際にダウンロードフォルダの子フォルダも再帰的に検索します　(例えば手動でダウンロードしたmodをインストールする際など)。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -4492,22 +4492,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>猫</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>猫の不透明度を設定します。0%は完全に透明で、100%は完全に不透明です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>不透明度</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
@@ -5501,7 +5501,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>ステータスバー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
@@ -5546,32 +5546,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィジェットのテーマ(&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルブラウザでウィジェットのテーマフォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>アイコンのテーマ(&amp;c)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルブラウザでアイコンのテーマフォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="781"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>猫パック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルブラウザで猫パックフォルダを開きます。</translation>
     </message>
     <message>
         <source>View &amp;Widget Themes Folder</source>
@@ -5703,12 +5703,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>インスタンス(&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルブラウザでインスタンスフォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
@@ -5723,22 +5723,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>インスタンスのアイコン</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルブラウザでインスタンスのアイコンフォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>ログ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルブラウザでログフォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
@@ -7053,7 +7053,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>アップデートを確定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
@@ -8342,7 +8342,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいアップデートはありません。</translation>
     </message>
 </context>
 <context>
@@ -8395,7 +8395,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>必要がなくても強制的に更新します。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
@@ -8410,7 +8410,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>GUIでインストールするバージョンを指定します。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
@@ -8499,12 +8499,12 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="663"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="670"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1からインストールしています</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="675"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2から%1をインストールしています</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="679"/>
