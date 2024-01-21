@@ -1871,7 +1871,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="62"/>
         <source>1.0.0</source>
-        <translation type="unfinished">1.0.0</translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <source>Files</source>
