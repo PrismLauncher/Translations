@@ -750,7 +750,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta instalação tem um ficheiro de bloqueio de atualização presente em: %1
+
+Carimbo de data/hora: %2
+Atualização da versão %3 para %4
+Caminho de instalação de destino: %5
+Caminho de dados: %6
+Isto significa provavelmente que uma tentativa de atualização falhou. Por favor, certifique-se de que sua instalação está em ordem de funcionamento antes de prosseguir.
+Verifique o log do atualizador do lançador de prisma em: 
+%7
+para obter detalhes sobre a última tentativa de atualização.
+
+Para eliminar este bloqueio e prosseguir, seleccione &quot;Ignorar&quot; abaixo.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="928"/>
@@ -1918,7 +1929,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Definições</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -2151,24 +2162,26 @@ Tens a certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar Apagar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se você remover este recurso enquanto o jogo estiver em execução, pode causar a interrupção do jogo.
+Você tem certeza de que deseja fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar a desativação</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se você remover este recurso enquanto o jogo estiver em execução, pode causar a interrupção do jogo.
+Você tem certeza de que deseja fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
@@ -2394,12 +2407,12 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="73"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar o diretório das instâncias FTBApp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Observação: Se suas instâncias do FTB não estiverem na localização padrão, selecione-as usando o botão ao lado da busca.</translation>
     </message>
 </context>
 <context>
@@ -2620,7 +2633,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="539"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha o arquivo de atualização</translation>
     </message>
 </context>
 <context>
@@ -2660,7 +2673,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">À procura de ficheiros...</translation>
+        <translation>Procurando por arquivos...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
@@ -2691,7 +2704,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Adicionando ficheiros...</translation>
+        <translation>Adicionando arquivos...</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -2919,7 +2932,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro de rede. Não foi possível carregar as dependências do projeto: %1</translation>
     </message>
 </context>
 <context>
