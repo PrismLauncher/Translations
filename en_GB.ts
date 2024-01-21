@@ -6177,7 +6177,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="549"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation>Delete group &apos;%1&apos;</translation>
+        <translation>&amp;Delete group</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
