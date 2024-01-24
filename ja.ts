@@ -7592,22 +7592,21 @@ Please update %1!</source>
 <context>
     <name>ModrinthPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>注意: Modrinthのmodpackはアルファ版機能です。荒削りのところがあったり、機能しない可能性があります！ご注意ください。</translation>
+        <translation type="vanished">注意: Modrinthのmodpackはアルファ版機能です。荒削りのところがあったり、機能しない可能性があります！ご注意ください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="69"/>
         <source>Search and filter ...</source>
         <translation>検索とフィルタ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Search</source>
         <translation>検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="52"/>
         <source>Version selected:</source>
         <translation>選択されたバージョン:</translation>
     </message>

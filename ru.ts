@@ -8193,17 +8193,16 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Примечание: сборки Modrinth всё ещё находятся в альфе. Некоторые вещи могут криво работать или не работать вообще! Используйте с осторожностью.</translation>
+        <translation type="vanished">Примечание: сборки Modrinth всё ещё находятся в альфе. Некоторые вещи могут криво работать или не работать вообще! Используйте с осторожностью.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="69"/>
         <source>Search and filter ...</source>
         <translation>Поиск и фильтрация…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Search</source>
         <translation>Найти</translation>
     </message>
@@ -8213,7 +8212,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">Поиск и фильтрация...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="52"/>
         <source>Version selected:</source>
         <translation>Версия:</translation>
     </message>

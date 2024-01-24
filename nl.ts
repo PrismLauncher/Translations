@@ -7960,17 +7960,16 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
 <context>
     <name>ModrinthPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Let op: Modrinth modpacks zijn nog in alpha fase. Sommige zaken werken misschien niet helemaal soepel of werken helemaal niet! Wees dus voorzichtig.</translation>
+        <translation type="vanished">Let op: Modrinth modpacks zijn nog in alpha fase. Sommige zaken werken misschien niet helemaal soepel of werken helemaal niet! Wees dus voorzichtig.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="69"/>
         <source>Search and filter ...</source>
         <translation>Zoeken en filteren ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Search</source>
         <translation>Zoeken</translation>
     </message>
@@ -7980,7 +7979,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <translation type="obsolete">Zoeken en filteren...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="52"/>
         <source>Version selected:</source>
         <translation>Geselecteerde versie:</translation>
     </message>

@@ -8127,17 +8127,16 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
 <context>
     <name>ModrinthPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Note&#xa0;: Les modpacks Modrinth sont encore en phase alpha. Il se peut que certaines choses ne soient pas parfaites, ou ne fonctionnent pas du tout&#xa0;! Utilisez-les avec prudence.</translation>
+        <translation type="vanished">Note&#xa0;: Les modpacks Modrinth sont encore en phase alpha. Il se peut que certaines choses ne soient pas parfaites, ou ne fonctionnent pas du tout&#xa0;! Utilisez-les avec prudence.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="69"/>
         <source>Search and filter ...</source>
         <translation>Rechercher et filtrer ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Search</source>
         <translation>Rechercher</translation>
     </message>
@@ -8147,7 +8146,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <translation type="obsolete">Rechercher et filtrer...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="52"/>
         <source>Version selected:</source>
         <translation>Version sélectionnée&#xa0;:</translation>
     </message>

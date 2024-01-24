@@ -8015,17 +8015,16 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>참고: Modrinth 모드팩은 아직 알파 단계입니다. 일부는 미완성이거나 작동하지 않을 수 있습니다! 주의해서 사용하세요.</translation>
+        <translation type="vanished">참고: Modrinth 모드팩은 아직 알파 단계입니다. 일부는 미완성이거나 작동하지 않을 수 있습니다! 주의해서 사용하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="69"/>
         <source>Search and filter ...</source>
         <translation>검색 및 필터...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Search</source>
         <translation>검색</translation>
     </message>
@@ -8035,7 +8034,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="obsolete">검색 및 필터...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="52"/>
         <source>Version selected:</source>
         <translation>선택된 버전:</translation>
     </message>

@@ -7955,22 +7955,21 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Примітка: Модпаки Modrinth досі знаходяться в альфа-стадії. Окремі речі можуть бути невідполірованими, або навіть не працювати! Користуйтесь ними з обережністю.</translation>
+        <translation type="vanished">Примітка: Модпаки Modrinth досі знаходяться в альфа-стадії. Окремі речі можуть бути невідполірованими, або навіть не працювати! Користуйтесь ними з обережністю.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="69"/>
         <source>Search and filter ...</source>
         <translation>Пошук і фільтр...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Search</source>
         <translation>Пошук</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="52"/>
         <source>Version selected:</source>
         <translation>Вибрана версія:</translation>
     </message>

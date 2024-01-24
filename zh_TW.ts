@@ -8120,17 +8120,16 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>註：Modrinth 模組包功能仍處於 Alpha 階段。一些功能可能還有些小缺點甚至是完全不起作用！請謹慎使用。</translation>
+        <translation type="vanished">註：Modrinth 模組包功能仍處於 Alpha 階段。一些功能可能還有些小缺點甚至是完全不起作用！請謹慎使用。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="69"/>
         <source>Search and filter ...</source>
         <translation>搜尋及篩選…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Search</source>
         <translation>搜尋</translation>
     </message>
@@ -8140,7 +8139,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="obsolete">搜尋及篩選…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="52"/>
         <source>Version selected:</source>
         <translation>選擇版本：</translation>
     </message>

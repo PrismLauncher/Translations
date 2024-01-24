@@ -7454,22 +7454,21 @@ Te rugăm actualizează %1!</translation>
 <context>
     <name>ModrinthPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Notiță: Pachetele de moduri Modrinth sunt încă într-o stare de testare. Unele lucruri s-ar putea să nu meargă exact cum trebuie, sau să nu meargă deloc! Folosiți cu grijă.</translation>
+        <translation type="vanished">Notiță: Pachetele de moduri Modrinth sunt încă într-o stare de testare. Unele lucruri s-ar putea să nu meargă exact cum trebuie, sau să nu meargă deloc! Folosiți cu grijă.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="69"/>
         <source>Search and filter ...</source>
         <translation>Caută și filtrează ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Search</source>
         <translation>Căutare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="52"/>
         <source>Version selected:</source>
         <translation>Versiune selectată:</translation>
     </message>

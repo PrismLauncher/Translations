@@ -7609,22 +7609,21 @@ Si us plau, actualitza %1!</translation>
         <translation type="obsolete">Cercar i filtrar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Nota: Els paquets de mods de Modrinth encara estan en fase d&apos;alfa. Pots trobar alguns problemes o poden fallar totalment. Utilitza-ho amb prudència.</translation>
+        <translation type="vanished">Nota: Els paquets de mods de Modrinth encara estan en fase d&apos;alfa. Pots trobar alguns problemes o poden fallar totalment. Utilitza-ho amb prudència.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="69"/>
         <source>Search and filter ...</source>
         <translation>Cerca i filtra...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Search</source>
         <translation>Cercar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="52"/>
         <source>Version selected:</source>
         <translation>Versió seleccionada:</translation>
     </message>
