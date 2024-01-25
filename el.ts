@@ -8727,16 +8727,16 @@ Are you sure?</source>
         <translation>Εξέταση Java πέτυχε!&lt;br /&gt;Αναφέρθηκε η πλατφόρμα: %1&lt;br /&gt;Αναφέρθηκε η έκδοση Java: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>Δοκιμή Java επιτυχής</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Σφάλμα δοκιμής Java</translation>
     </message>
@@ -8978,8 +8978,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Μή έγκυρη διαδρομή για JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>Η διαδρομή δεν υπάρχει</translation>
     </message>
@@ -9128,8 +9128,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Ταξινόμηση κατά δημοτικότητα</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Ταξινόμηση κατά τελευτ. ενημ</translation>
     </message>
@@ -9144,8 +9144,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Ταξινόμηση κατά δημιουργό</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
