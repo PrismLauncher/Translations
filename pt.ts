@@ -4578,7 +4578,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="405"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Mostrar a consola enquanto o jogo estiver a ser &amp;executado?</translation>
+        <translation>Mostrar o console enquanto o jogo estiver sendo executado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="412"/>
@@ -4590,7 +4590,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Mostrar consola quando o jogo &amp;bloquear?</translation>
+        <translation>Mostrar console quando o jogo crashar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="429"/>
