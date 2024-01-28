@@ -9761,13 +9761,13 @@ Please let us know why and how this happened.</source>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation>%1 小時 %2 分</translation>
+        <translation>%1 小時 %2 分鐘</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="39"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation>%1 天 %2 小時 %3 分</translation>
+        <translation>%1 天 %2 小時 %3 分鐘</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
