@@ -1211,7 +1211,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
@@ -1641,7 +1641,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
@@ -5054,7 +5054,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Преименуј</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="372"/>
@@ -5613,7 +5613,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="65"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
 </context>
 <context>
@@ -5885,7 +5885,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="58"/>
         <source>Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
@@ -6014,7 +6014,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -6798,7 +6798,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
@@ -7105,7 +7105,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="571"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="573"/>
@@ -7708,7 +7708,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"/>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="42"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
@@ -8679,7 +8679,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
@@ -8771,7 +8771,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="53"/>
@@ -8938,7 +8938,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Преименуј</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
@@ -9111,7 +9111,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="295"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="297"/>
@@ -9576,7 +9576,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Име</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
