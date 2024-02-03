@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>ملاحظة: ستريد على الارجح تغيير او ازالة الرابط الأساسي بعد تغيير نوع خدمة الطبع</translation>
+        <translation>ملاحظة: ستريد على الارجح تغيير او ازالة الرابط الأساسي بعد تغيير نوع خدمة الطبع.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -45,7 +45,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="284"/>
         <source>(Default)</source>
-        <translation>(افتراضي)</translation>
+        <translation>(الإفتراضي)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
