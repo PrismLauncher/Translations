@@ -5303,7 +5303,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Kérjük, jelentkezzen be a megnyitott böngészőben. Ha nem nyílt meg a böngésző, nyissa meg a %1 linket, és írja be a(z) &lt;b&gt;%2&lt;/b&gt; kódot a bejelentkezéshez.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Kérjük jelentkezzenbe a nyitott böngészőben. Ha nincs böngésző megnyitva, kérjük, nyissa meg %1-et egy böngészőben, és tegye be a &lt;b&gt;%2&lt;/b&gt; kódot a bejelentkezéshez.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
