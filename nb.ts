@@ -232,7 +232,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>De følgene filene er ikke tilgjengelig til nedlastning i tredjeparts oppstartere.&lt;br/&gt;Du må manuelt laste dem ned og legge dem til instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -677,7 +677,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="59"/>
         <source>Sending request to auth servers...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sender forespørsel til autentiserings-serverne...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
@@ -687,7 +687,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mislyktes i å kontakte autentiserings-serveren.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
