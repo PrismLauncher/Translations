@@ -1547,22 +1547,22 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="230"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="240"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
@@ -1572,12 +1572,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="121"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Không có phiên bản nào của Minecraft đã được chọn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="127"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có mod loader nào đã được chọn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
@@ -1697,12 +1697,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hình thức</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Môi trường số</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1727,7 +1727,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>%Khoảng trống</translation>
     </message>
 </context>
 <context>
@@ -1735,7 +1735,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Môi trường số</translation>
     </message>
 </context>
 <context>
@@ -1803,12 +1803,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Phần mô tả</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Sơ lược</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
@@ -1819,22 +1819,22 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Phiên bản</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Lựa chọn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%Tệp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Đánh dấu tệp không khả dụng là không bắt buộc</translation>
     </message>
     <message>
         <source>Version</source>
@@ -1843,22 +1843,22 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="62"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Xuất gói Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Xuất gói CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
         <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Tác giả</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
@@ -1874,12 +1874,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kế hoạch bị huỷ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kế hoạch đã bị huỷ bởi người dùng.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="153"/>
@@ -1892,37 +1892,37 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Xuất gói đến ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cài đặt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gạch xuống</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Văn bản thô</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
@@ -1932,12 +1932,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bản mẫu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="96"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Thông tin không cần thiết</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
@@ -1949,28 +1949,28 @@ Một số phiên bản Minecraft có thể không khởi động.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="130"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Các tác giả</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="156"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Định dạng</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="166"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kết quả</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="195"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cái này phụ thuộc vào mod siêu dữ liệu. Để chắc chắn rằng nó khả dụng, chạy bản cập nhật vào thực thể. Tải bản cập nhật không quan trọng.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
@@ -2074,12 +2074,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Thăm trang mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đi đến trang chủ mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="117"/>
@@ -2122,34 +2122,36 @@ Bạn đã chắc chắn muốn xoá thư mục?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Xác nhận xoá</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nếu như bạn loại bỏ tài nguyên này khi trò chơi đang chạy nó có thể làm hỏng trò chơi của bạn.
+Bạn có chắc bạn muốn làm điều này?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Xác nhận tắt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nếu như bạn tắt tài nguyên này khi trò chơi đang chạy nó có thể làm hỏng trò chơi của bạn.
+Bạn có chắc bạn muốn làm điều này?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (%1 đã tải, %2 đã chọn)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="327"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 đã tải)</translation>
     </message>
 </context>
 <context>
@@ -2349,7 +2351,7 @@ Vui lòng thử lại.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">FTB Ứng dụng nhập</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="56"/>
@@ -2365,7 +2367,7 @@ Vui lòng thử lại.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="73"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn FTBApp thư mực trường hợp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
@@ -2915,7 +2917,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đã xảy ra lỗi mạng. Không thể tải các phần phụ thuộc của dự án:%1</translation>
     </message>
 </context>
 <context>
@@ -3020,7 +3022,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- CurseForge modpacks</translation>
+        <translation>- CurseForge modpacks (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -3059,7 +3061,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modpack %1 đã bị chặn với bên thứ ba! Vui lòng tải xuống theo cách thủ công.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
