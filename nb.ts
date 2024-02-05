@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>Base &amp;URL</translation>
+        <translation>Basis &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Laster ned mods...</translation>
+        <translation>Laster ned mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
@@ -373,13 +373,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Frakoblet</translation>
+        <translation>Frakoblet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Ukjent</translation>
+        <translation>Ukjent</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
@@ -622,7 +622,7 @@ Hvis du er ny her, kan du velge &quot;Legg til Microsoft&quot; knappen for å ko
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Du må legge til</translation>
+        <translation>Du må legge til en Microsoft-konto som har Minecraft før du kan legge til en Frakoblet-konto.&lt;br&gt;&lt;br&gt;Hvis du ikke har tilgang til kontoen din, kan du kontakte Microsoft for Brukerstøtte.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -649,7 +649,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="159"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Vennligst oppgi ønsket brukernavn for å opprette din lokale konto.</translation>
+        <translation>Vennligst oppgi ønsket brukernavn for å opprette din Frakoblet-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
@@ -692,7 +692,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Klient-ID har blitt forandret. Ny økt må startes.</translation>
+        <translation>Klient-ID har blitt forandret. Ny økt må startes.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
@@ -757,7 +757,7 @@ For å slette denne låsen og fortsette velger du &quot;Ignorer&quot; nedenfor.<
     <message>
         <location filename="src/launcher/Application.cpp" line="928"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdatering pågår</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="953"/>
@@ -767,12 +767,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Et oppdateringsforsøk mislyktes
+
+Kontroller at installasjonen er i orden før du fortsetter.
+Sjekk Prism Launcher-oppdateringsloggen på: 
+%1
+for detaljer om det siste oppdateringsforsøket.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="961"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdatering Mislyktest</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="986"/>
@@ -782,12 +787,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdatering Vellykket
+
+Du kjører nå %1 .
+Sjekk Prism-Launcher oppdateringsverktøy loggen på: 
+%1
+for detaljer.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="994"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdatering vellykket</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1025"/>
@@ -809,7 +819,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1767"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished">Eldre data fra %1 ble funnet, men du har allerede eksisterende data for %2. Det er desverre nødvendig at du migrerer. Ønsker du en påminnelse om datamigreringen neste gang du starter 2%</translation>
+        <translation>Gamle data fra %1 ble funnet, men du har allerede eksisterende data for %2. Du må dessverre migrere selv. Vil du bli påminnet om den pågående datamigreringen neste gang du starter 2%?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1771"/>
@@ -1533,7 +1543,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Ingen versjon er tilgjengelig for Minecraft %1 på dette tidspunkt.</translation>
+        <translation>Ingen versjoner er for øyeblikket tilgjengelige for Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3230,7 +3240,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
         <source>Java insta&amp;llation</source>
-        <translation>Java insta&amp;llation</translation>
+        <translation>Java-insta&amp;llation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
@@ -3320,7 +3330,7 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="277"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Start Minecraft i maksimert modus?</translation>
+        <translation>Start Minecraft Maksimert</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="286"/>
@@ -3341,7 +3351,7 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="349"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Vis konsoll mens spillet kjører?</translation>
+        <translation>Vis konsoll mens spillet kjører</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="356"/>
