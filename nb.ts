@@ -677,7 +677,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="59"/>
         <source>Sending request to auth servers...</source>
-        <translation>Sender forespørsel til autentiserings-serverne...</translation>
+        <translation>Sender forespørsel til autentiserings-sørverne...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
@@ -687,7 +687,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Mislyktes i å kontakte autentiserings-serveren.</translation>
+        <translation>Mislyktes i å kontakte autentiserings-sørveren.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
