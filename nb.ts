@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjenester</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -367,7 +367,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
@@ -432,7 +432,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontotype (MSA eller Frakoblet)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -622,7 +622,7 @@ Hvis du er ny her, kan du velge &quot;Legg til Microsoft&quot; knappen for å ko
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du må legge til</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -654,17 +654,17 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern konto?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil fjerne denne kontoen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -697,7 +697,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Møtte på en feil ved autentisering.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -717,7 +717,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Ukjent kontostatus: %1</translation>
+        <translation>Ukjent konto oppgave status: %1</translation>
     </message>
 </context>
 <context>
@@ -741,7 +741,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne installasjonen har en oppdaterings lås fil på: %1
+
+Tidsstempel: %2
+Oppdaterer fra versjonen %3 til %4
+Målinstallasjonsbane: %5
+Dataspor: %6
+Dette betyr sannsynligvis at et oppdateringsforsøk mislyktes. Kontroller at installasjonen er i orden før du fortsetter.
+Sjekk Prism Launcher-oppdateringsloggen på: 
+%7
+for detaljer om det siste oppdateringsforsøket.
+
+For å slette denne låsen og fortsette velger du &quot;Ignorer&quot; nedenfor.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="928"/>
