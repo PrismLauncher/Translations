@@ -71,7 +71,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
         <source>(None)</source>
-        <translation>(intet)</translation>
+        <translation>(Tom)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
