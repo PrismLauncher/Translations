@@ -988,7 +988,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Ingen versjon er tilgjengelig for Minecraft %1 på dette tidspunkt.</translation>
+        <translation>Ingen versjon er tilgjengelig for Minecraft %1 på dette tidspunkt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
@@ -1072,7 +1072,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Sjekksum: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
@@ -3041,7 +3041,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="43"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Ingen versjon er tilgjengelig for Minecraft %1 akkurat nå.</translation>
+        <translation>Ingen versjon er tilgjengelig for Minecraft %1 på dette tidspunkt.</translation>
     </message>
 </context>
 <context>
