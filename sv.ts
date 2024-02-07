@@ -9664,8 +9664,8 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
         <translation>Okänd formatversion!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Sökvägen är tom</translation>
     </message>
@@ -9858,8 +9858,8 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <translation>Sortera efter popularitet</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Sortera efter senast uppdaterad</translation>
     </message>
@@ -9874,8 +9874,8 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <translation>Sortera efter skapare</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Sortera efter nedladdningar</translation>
     </message>

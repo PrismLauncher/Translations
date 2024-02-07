@@ -9264,8 +9264,8 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
         <translation>Format de versió no reconegut!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Ruta buida</translation>
     </message>
@@ -9433,8 +9433,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Ordenar per popularitat</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Ordenar per última actualització</translation>
     </message>
@@ -9449,8 +9449,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Ordenar per autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished">Ordena per nombre de descàrregues</translation>
     </message>

@@ -9033,8 +9033,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Tuntematon formaattiversio!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Tyhjä polku</translation>
     </message>
@@ -9178,8 +9178,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Järjestä suosion mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Järjestä viimeksi päivitetyn mukaan</translation>
     </message>
@@ -9194,8 +9194,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Järjestä tekijän mukaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished">Järjestä latausten mukaan</translation>
     </message>

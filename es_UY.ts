@@ -9163,8 +9163,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>¡Versión de formato desconocida!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Ruta vacía</translation>
     </message>
@@ -9326,8 +9326,8 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <translation type="unfinished">Ordenar por popularidad</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Ordenar por última actualización</translation>
     </message>
@@ -9342,8 +9342,8 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <translation type="unfinished">Ordenar por autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished">Ordenar por descargas</translation>
     </message>
