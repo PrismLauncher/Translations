@@ -9886,8 +9886,8 @@ This message will be displayed until you remove this from the JVM arguments.</tr
         <translation>Unknown format version!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Empty path</translation>
     </message>
@@ -10080,8 +10080,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Sort by Popularity</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Last Updated</source>
         <translation>Sort by Last Updated</translation>
     </message>
@@ -10096,8 +10096,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Sort by Author</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Downloads</source>
         <translation>Sort by Downloads</translation>
     </message>

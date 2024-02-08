@@ -8967,8 +8967,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Άγνωστη έκδοση μορφής!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Κενή διαδρομή</translation>
     </message>
@@ -9128,8 +9128,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Ταξινόμηση κατά δημοτικότητα</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Ταξινόμηση κατά τελευτ. ενημ</translation>
     </message>
@@ -9144,8 +9144,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Ταξινόμηση κατά δημιουργό</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>

@@ -3754,7 +3754,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ако е активирано, програмата за стартиране няма да проверява дали дадена инстанция е съвместима с избраната версия на Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
@@ -3833,7 +3833,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="402"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Максимално разпределение на паметта:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="403"/>
@@ -6142,7 +6142,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Активиране на онлайн поправки (експериментално)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
@@ -6174,7 +6174,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Производителност</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="285"/>
@@ -6204,7 +6204,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="308"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Използвайте дискретен графичен процесор</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -6954,7 +6954,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Деативираните модивикации няма да бътат обновявани, за да се предодвратят проблеми с тяхното дубликиране!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="87"/>
@@ -6964,7 +6964,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="102"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не беше намерена валидна версия за тази модивикация. Вероятно не е наличен за текущата версия на играта / модул за зареждане.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="132"/>
@@ -6982,23 +6982,24 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> .(версия %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="140"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Няма индексен файл.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не успяхме да намерим подходящ индекс файл за по-старата версия. Това може да доведе до дублиране на някои от файловете. Желаете ли да продължите?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="185"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Папката за заместване, не можа да бъде преименувана:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="198"/>
@@ -7047,7 +7048,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (Текущ)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
@@ -7057,7 +7058,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="373"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изберете обновяващ файл</translation>
     </message>
 </context>
 <context>
@@ -7065,22 +7066,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="54"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Търсене на файлове...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="76"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неуспешно търсене на файлове</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="92"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Намиране на файлови хешове...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Намиране на версии за хешове...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
@@ -7090,7 +7091,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Добавяне на файлове...</translation>
     </message>
 </context>
 <context>
@@ -7130,7 +7131,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сортиране по последно обновени</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="187"/>
@@ -7151,7 +7152,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="289"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Външни връзки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="293"/>
@@ -7182,7 +7183,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сортиране по общо изтегляния</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
@@ -8656,8 +8657,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Неизвестен формат на версията!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Празна пътека</translation>
     </message>
@@ -8789,7 +8790,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сортиране по особеност</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
@@ -8797,10 +8798,10 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Сортирай по популярност</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сортиране по последно обновени</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
@@ -8810,11 +8811,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сортиране по създател</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9041,7 +9042,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Външни връзки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="226"/>
