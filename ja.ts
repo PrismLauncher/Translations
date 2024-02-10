@@ -6970,7 +6970,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したMod（未選択の場合は全て）のアップデートと依存関係を確認します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -7065,7 +7065,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ゲーム実行中にModを更新すると、Modの重複やクラッシュを引き起こす可能性があります。
+古いファイルは使用中のため削除されない可能性があります。
+本当にこの操作を実行しますか。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
@@ -11246,7 +11248,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation>バージョンが現在使用できません。</translation>
+        <translation>現在利用可能なバージョンがありません。</translation>
     </message>
 </context>
 <context>
