@@ -2448,7 +2448,7 @@ Por favor, tente de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Nota: Se as suas instâncias FTB não estão na localização predefinida, selecione-a utilizando o botão próximo à pesquisa.</translation>
+        <translation>Nota: Se suas instâncias FTB não estiverem no local padrão, selecione-as usando o botão ao lado de pesquisar.</translation>
     </message>
 </context>
 <context>
@@ -3792,7 +3792,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula os usos de serviços online antigos que não estão mais em funcionamento.&lt;/p&gt;&lt;p&gt;As correções atuais incluem: suporte ao modo online e à skins&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula o uso de serviços on-line antigos que não estão mais em operação.&lt;/p&gt;&lt;p&gt;As correções atuais incluem: suporte para skin e modo on-line.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
@@ -6882,7 +6882,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula os usos de serviços online antigos que não estão mais em funcionamento.&lt;/p&gt;&lt;p&gt;As correções atuais incluem: suporte ao modo online e à skins&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula o uso de serviços on-line antigos que não estão mais em operação.&lt;/p&gt;&lt;p&gt;As correções atuais incluem: suporte para skin e modo on-line.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
@@ -10269,7 +10269,7 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <source>A network error occurred. Could not load project versions:%1</source>
-        <translation>Houve um erro de conexão. Não foi possível carregar as versões do projeto:%1</translation>
+        <translation>Ocorreu um erro de rede. Não foi possível carregar as versões do projeto:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
@@ -10758,7 +10758,7 @@ Aviso: Este recurso tem links físicos para outro lugar. Sua edição também al
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation>Ativar dependências</translation>
+        <translation>Alternar dependências</translation>
     </message>
 </context>
 <context>
