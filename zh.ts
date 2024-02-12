@@ -11673,7 +11673,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Instance update failed because: %1
 
 </source>
-        <translation>实例更新失败，因为：%1。
+        <translation>实例更新失败，因为：%1
 
 </translation>
     </message>
