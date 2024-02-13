@@ -35,7 +35,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>注：更改 Pastebin 服务类型后通常需要修改或清除其根网址。</translation>
+        <translation>注：更改 Pastebin 服务类型后通常需要修改（或清除）根网址。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注：如果微软身份验证已成功，通常无需设置这一项。</translation>
+        <translation>注：如果已成功通过微软身份验证，通常无需设置这一项。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -73,7 +73,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问您的私有数据时才必须设置此项。访问&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;官方文档&lt;/a&gt;以了解更多信息。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时才需要设置此项。详见&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;官方文档&lt;/a&gt;。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="329"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>在此处输入自定义用户代理（UA）。此处的 $LAUNCHER_VER 将会被替换为启动器的版本号。</translation>
+        <translation>在此处输入自定义用户代理（UA）。可用 $LAUNCHER_VER 替代启动器的版本号。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -113,7 +113,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>您可以将此设置为第三方元数据服务器来使用修改过的库或其他资源。</translation>
+        <translation>可以将此设置为第三方元数据服务器来使用修改过的库或其他资源。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -139,7 +139,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
-        <translation>API 接口</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -174,7 +174,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation>未知的模组类型：%1</translation>
+        <translation>未知的 Mod 类型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
@@ -184,7 +184,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="388"/>
         <source>No loader version set for modpack!</source>
-        <translation>没有设置整合包的模组加载器版本！</translation>
+        <translation>没有设置整合包的 Mod 加载器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
@@ -214,17 +214,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
         <source>Selecting optional mods...</source>
-        <translation>正在选择可选模组……</translation>
+        <translation>正在选择可选 Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
         <source>Downloading mods...</source>
-        <translation>正在下载模组……</translation>
+        <translation>正在下载 Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Mod download</source>
-        <translation>下载模组</translation>
+        <translation>下载 Mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -239,7 +239,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation>发现被阻止的模组</translation>
+        <translation>发现被阻止的 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
@@ -254,12 +254,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
         <source>Failed to extract mods...</source>
-        <translation>模组解压失败……</translation>
+        <translation>Mod 解压失败……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="937"/>
         <source>Extracting mods...</source>
-        <translation>正在解压模组……</translation>
+        <translation>正在解压 Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1008"/>
@@ -937,7 +937,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>选择要安装的模组</translation>
+        <translation>选择要安装的 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -947,7 +947,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>选择推荐项</translation>
+        <translation>选择推荐 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
@@ -957,7 +957,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>全部清除</translation>
+        <translation>全不选</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
@@ -980,7 +980,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>您确定要启用这个模组吗？</translation>
+        <translation>您确定要启用该 Mod 吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
@@ -993,7 +993,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="86"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>警告：这是一个未完成的功能，可能会使您导入的整合包出现问题。</translation>
+        <translation>警告：该功能仍未完成，导入的整合包出现的问题可能由于该功能的漏洞。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
@@ -1090,12 +1090,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="167"/>
         <source>All mods found</source>
-        <translation>找到的所有模组</translation>
+        <translation>找到的所有 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
         <source>Please download the missing mods.</source>
-        <translation>请下载缺失的模组。</translation>
+        <translation>请下载缺失的 Mod。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
@@ -1119,7 +1119,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>选择下载模组的目录</translation>
+        <translation>选择下载 Mod 的目录</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
@@ -1138,7 +1138,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您设置的“全局模组文件夹”和“默认下载文件夹”会自动检测您下载到那的模组并自动复制到各个实例。&lt;/p&gt;&lt;p&gt;或者，您可以将下载好的模组拖到此对话框中。如果您没有将模组下载到设定的默认位置，也可以现在添加一个默认文件夹。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启动器会自动在“全局 Mod 文件夹”和“默认下载文件夹”检测新 Mod 并复制到各个实例。&lt;/p&gt;&lt;p&gt;您也可以将下载好的 Mod 拖到此对话框中。如果您没有将 Mod 下载到现有的默认位置，也可以再添加一个默认文件夹。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1172,12 +1172,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>选择模组托管平台</translation>
+        <translation>选择 Mod 托管平台</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation>跳过这个模组</translation>
+        <translation>跳过该 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
@@ -1299,7 +1299,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>禁用此功能将仍然保留模组加载器（如 Fabric 、Quilt 等），但会删除模组文件夹及模组配置文件。</translation>
+        <translation>禁用此功能将仍然保留 Mod 加载器（如 Fabric 、Quilt 等），但会删除 Mod 文件夹及配置文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1309,7 +1309,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation>复制模组</translation>
+        <translation>复制 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
@@ -1458,7 +1458,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="79"/>
         <source>Core mods</source>
-        <translation>核心模组</translation>
+        <translation>核心 Mod</translation>
     </message>
 </context>
 <context>
@@ -1535,12 +1535,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation>Beta 版</translation>
+        <translation>Beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation>Alpha 版</translation>
+        <translation>Alpha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
@@ -1556,7 +1556,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation>模组加载器</translation>
+        <translation>Mod 加载器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
@@ -1601,7 +1601,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="127"/>
         <source>No mod loader is selected.</source>
-        <translation>未选择模组加载器。</translation>
+        <translation>未选择 Mod 加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
@@ -1678,12 +1678,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation>正在检查模组是否有元数据……</translation>
+        <translation>正在检查 Mod 是否有元数据……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>正在向 %1 获取模组元数据信息……</translation>
+        <translation>正在向 %1 获取 Mod 元数据信息……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
@@ -1960,7 +1960,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation>将包导出到模组列表</translation>
+        <translation>将包导出到 Mod 列表</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -2038,7 +2038,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="195"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>这取决于这些模组的元数据。如果要保证其可用，可以该实例中运行更新，而不需要将更新安装到实例中。</translation>
+        <translation>这取决于这些 Mod 的元数据。如果要保证其可用，可以该实例中运行更新，而不需要将更新安装到实例中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
@@ -2142,12 +2142,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
         <source>Visit mod&apos;s page</source>
-        <translation>访问模组页面</translation>
+        <translation>访问 Mod 页面</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
         <source>Go to mods home page</source>
-        <translation>前往模组主页</translation>
+        <translation>前往 Mod 主页</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2479,7 +2479,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="31"/>
         <source>Resolving mod IDs...</source>
-        <translation>正在解析模组 ID……</translation>
+        <translation>正在解析 Mod ID……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
@@ -2496,12 +2496,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="123"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>准备从 CurseForge 获取模组……</translation>
+        <translation>准备从 CurseForge 获取 Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>为避免模组重复的问题，被停用的模组将不会被更新！</translation>
+        <translation>为避免 Mod 重复的问题，被停用的 Mod 将不会被更新！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="132"/>
@@ -2517,13 +2517,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未找到该模组的有效版本。可能由于模组没有适配此游戏版本或模组加载器。</translation>
+        <translation>未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="154"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>模组有可用的更新，但在 CurseForge 上禁止了第三方启动器的下载。</translation>
+        <translation>Mod 有可用的更新，但禁止了第三方启动器从 CurseForge 上下载。</translation>
     </message>
 </context>
 <context>
@@ -2588,7 +2588,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>No loader version set for modpack!</source>
-        <translation>没有设置整合包的模组加载器版本！</translation>
+        <translation>没有设置整合包的 Mod 加载器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
@@ -2605,7 +2605,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="372"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>清单中包含未知的模组加载器： %1</translation>
+        <translation>清单中包含未知的 Mod 加载器： %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="386"/>
@@ -2620,13 +2620,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="440"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>无法解析模组 ID：
+        <translation>无法解析 Mod ID：
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="493"/>
         <source>Blocked mods found</source>
-        <translation>找到被屏蔽的模组</translation>
+        <translation>找到被屏蔽的 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="494"/>
@@ -2637,7 +2637,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
         <source>Mod Download Flame</source>
-        <translation>模组下载 Flame</translation>
+        <translation>Mod 下载 Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="582"/>
@@ -2647,12 +2647,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="596"/>
         <source>Copying Blocked Mods...</source>
-        <translation>正在复制被屏蔽的模组……</translation>
+        <translation>正在复制被屏蔽的 Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="609"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>正在复制被屏蔽的模组（%1/%2）</translation>
+        <translation>正在复制被屏蔽的 Mod（%1/%2）</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -2676,7 +2676,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="588"/>
         <source>Downloading mods...</source>
-        <translation>正在下载模组……</translation>
+        <translation>正在下载 Mod……</translation>
     </message>
 </context>
 <context>
@@ -2684,7 +2684,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="413"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;您好！ &lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎为空。这是因为旧版本启动器中存在错误。 &lt;br/&gt;如果没有此信息，我们将无法执行正确的 API 请求。 &lt;br/&gt;&lt;br/&gt;所以为了使此功能正常工作， 您需要用内置下载器重新下载整合包。 &lt;br/&gt;&lt;br/&gt;下载器会要求您更新此实例，所以您不必担心会丢失此实例！ &lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;您好！ &lt;/h1&gt;&lt;h4&gt;由于旧版本启动器中存在的漏洞，您的 Pack ID 为空。 &lt;br/&gt;而执行正确的 API 请求需要此信息。 &lt;br/&gt;&lt;br/&gt;为了使该功能正常工作， 您需要用内置下载器重新下载整合包。 &lt;br/&gt;&lt;br/&gt;下载器会从让您该实例进行更新，所以不必担心丢失该实例！ &lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="475"/>
@@ -2813,7 +2813,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>注意：CurseForge 允许创作者阻止从 Prism Launcher 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些模组才能安装整合包。</translation>
+        <translation>注意：CurseForge 允许创作者阻止从 Prism Launcher 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些 Mod 才能安装整合包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -3000,13 +3000,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation>获取前置</translation>
+        <translation>获取前置 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation>发生网络错误。无法加载项目的前置：%1</translation>
+        <translation>发生网络错误。无法加载前置 Mod：%1</translation>
     </message>
 </context>
 <context>
@@ -3116,7 +3116,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth 整合包（.zip 及 .mrpack）</translation>
+        <translation>- Modrinth 整合包（.zip 或 .mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -3271,7 +3271,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
         <source>Install Loader</source>
-        <translation>安装模组加载器</translation>
+        <translation>安装 Mod 加载器</translation>
     </message>
 </context>
 <context>
@@ -3743,12 +3743,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="543"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive 的 GameMode，可能会提高游戏性能。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive&apos;s GameMode，可能会提高游戏性能。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
         <source>Enable Feral GameMode</source>
-        <translation>启用 Feral GameMode</translation>
+        <translation>启用 Feral Interactive&apos;s GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
@@ -3825,7 +3825,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="364"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>无法在您的系统上找到 Feral Interactive 的 GameMode。</translation>
+        <translation>无法在您的系统上找到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="369"/>
@@ -4460,7 +4460,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>已停止监视游戏日志，因为日志长度超过 %1 行。
-您可能必须修复您的模组，因为游戏仍在写入游戏日志，并且可能以惊人的速度浪费硬盘空间！</translation>
+您可能必须修复您的 Mod，因为游戏仍在写入游戏日志，并且可能以惊人的速度浪费硬盘空间！</translation>
     </message>
 </context>
 <context>
@@ -4529,7 +4529,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>&amp;Mods:</source>
-        <translation>模组(&amp;M)：</translation>
+        <translation>Mod(&amp;M)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
@@ -4589,25 +4589,25 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Mods</source>
-        <translation>模组</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>停用模组托管平台（如 Modrinth 和 CurseForge）提供的模组元数据。</translation>
+        <translation>停用 Mod 托管平台（如 Modrinth 和 CurseForge）提供的 Mod 元数据。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>停用模组元数据</translation>
+        <translation>停用 Mod 元数据</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;： 禁用模组元数据可能也会禁用一些方便的功能，例如模组更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;： 禁用 Mod 元数据可能也会禁用一些方便的功能，例如 Mod 更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Breeze Light</source>
@@ -4670,7 +4670,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>启用后，在查找资源时除了搜索下载文件夹本身，还会搜索其子文件夹（例如：在寻找 CurseForge 上被屏蔽的模组时）。</translation>
+        <translation>启用后，在查找资源时除了搜索下载文件夹本身，还会搜索其子文件夹（例如：在寻找 CurseForge 上被屏蔽的 Mod 时）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -4681,12 +4681,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>禁用自动检测、安装和更新前置模组。</translation>
+        <translation>禁用自动检测、安装和更新前置 Mod。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation>禁用自动管理前置模组</translation>
+        <translation>禁用自动管理前置 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -4833,7 +4833,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="157"/>
         <source>Mods Folder</source>
-        <translation>模组文件夹</translation>
+        <translation>Mod 文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
@@ -5192,13 +5192,13 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="44"/>
         <source>Updating index for mod:
 %1</source>
-        <translation>更新模组索引中：
+        <translation>更新 Mod 索引中：
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation>无效的 Metadata</translation>
+        <translation>元数据无效</translation>
     </message>
 </context>
 <context>
@@ -5455,7 +5455,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>在文件管理器中打开公共模组文件夹。</translation>
+        <translation>在文件管理器中打开公共 Mod 文件夹。</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -5715,7 +5715,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation>共享模组(&amp;C)</translation>
+        <translation>公共 Mod(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
@@ -5849,7 +5849,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="500"/>
         <source>Mod List</source>
-        <translation>模组列表</translation>
+        <translation>Mod 列表</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
@@ -6044,7 +6044,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>修改实例的设置、模组和版本。</translation>
+        <translation>修改实例的设置、Mod 和版本。</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -6264,7 +6264,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>这个整合包，模组或资源包 %1 将第三方禁用下载！请手动下载。</translation>
+        <translation>整合包、Mod 或资源包 %1 禁用了第三方下载！请手动下载。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1012"/>
@@ -6625,7 +6625,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>这是本地的模组包。
+        <translation>这是本地整合包。
 只能使用 %1 格式文件更新
 </translation>
     </message>
@@ -6729,7 +6729,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Launch &amp;Demo</source>
-        <translation>启动演示版(&amp;D)</translation>
+        <translation>启动演示模式(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
@@ -6900,12 +6900,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="285"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive 的 GameMode，可能会提高游戏性能。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive&apos;s GameMode，可能会提高游戏性能。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="288"/>
         <source>Enable Feral GameMode</source>
-        <translation>启用 Feral GameMode</translation>
+        <translation>启用 Feral Interactive&apos;s GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="295"/>
@@ -7009,7 +7009,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>无法在您的系统上找到 Feral Interactive 的 GameMode。</translation>
+        <translation>无法在您的系统上找到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="166"/>
@@ -7140,12 +7140,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="58"/>
         <source>Strict match (= %1)</source>
-        <translation>严格匹配 (= %1)</translation>
+        <translation>严格匹配（= %1）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="63"/>
         <source>Major version match (= %1.%2.x)</source>
-        <translation>主要版本匹配 (= %1.%2.x)</translation>
+        <translation>主要版本匹配（= %1.%2.x）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="65"/>
@@ -7182,7 +7182,7 @@ This can be updated only using a file in %1 format
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：此资源使用符号链接链接到其他资源，编辑它原资源也会改变。
+警告：此资源使用符号链接链接到其他资源，编辑时原资源也会改变。
 规范路径：%1</translation>
     </message>
     <message>
@@ -7190,7 +7190,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此资源使用硬链接链接到其他地方，编辑它原资源也会改变。</translation>
+警告：此资源使用硬链接链接到其他地方，编辑时原资源也会改变。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -7209,7 +7209,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Provider</source>
-        <translation>提供者</translation>
+        <translation>托管平台</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -7229,27 +7229,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
         <source>Is the mod enabled?</source>
-        <translation>此模组是否启用?</translation>
+        <translation>此 Mod 是否启用。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="172"/>
         <source>The name of the mod.</source>
-        <translation>模组的名称。</translation>
+        <translation>Mod 的名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="174"/>
         <source>The version of the mod.</source>
-        <translation>模组的版本。</translation>
+        <translation>Mod 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="176"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>该模组最后一次更改（或添加）的准确时间。</translation>
+        <translation>该 Mod 最后一次更改（或添加）的准确时间。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="178"/>
         <source>Where the mod was downloaded from.</source>
-        <translation>模组下载处。</translation>
+        <translation>Mod 下载处。</translation>
     </message>
 </context>
 <context>
@@ -7309,12 +7309,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Download mods</source>
-        <translation>下载模组</translation>
+        <translation>下载 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Download mods from online mod platforms</source>
-        <translation>从在线模组平台下载模组</translation>
+        <translation>从 Mod 托管平台下载 Mod</translation>
     </message>
     <message>
         <source>Add .jar</source>
@@ -7341,7 +7341,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="81"/>
         <source>Add a locally downloaded file</source>
-        <translation>添加本地下载好的文件</translation>
+        <translation>添加本地文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
@@ -7353,17 +7353,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="116"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>尝试检查并更新所有选中的模组（默认检查并更新所有模组）</translation>
+        <translation>尝试检查并更新所有选中的 Mod（默认全选）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Verify Dependencies</source>
-        <translation>检验前置模组</translation>
+        <translation>检验前置 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>尝试更新并检查选定的模组（默认全选）是否缺少前置模组</translation>
+        <translation>尝试更新并检查选定的 Mod（默认全选）是否缺少前置 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -7374,27 +7374,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="120"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
         <source>Go to mod&apos;s home page</source>
-        <translation>前往模组主页</translation>
+        <translation>前往 Mod 主页</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation>删除模组的元数据</translation>
+        <translation>删除 Mod 元数据</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="135"/>
         <source>Visit mod&apos;s page</source>
-        <translation>访问模组页面</translation>
+        <translation>访问 Mod 页面</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="139"/>
         <source>Visit mods&apos; pages</source>
-        <translation>访问模组页面</translation>
+        <translation>访问 Mod 页面</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="140"/>
         <source>Go to the pages of the selected mods</source>
-        <translation>前往已选模组页面</translation>
+        <translation>前往已选 Mod 页面</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -7413,7 +7413,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="235"/>
         <source>Please install a mod loader first!</source>
-        <translation>请先安装一个模组加载器！</translation>
+        <translation>请先安装一个 Mod 加载器！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
@@ -7426,7 +7426,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="288"/>
         <source>Download stopped by user.</source>
-        <translation>下载被用户停止。</translation>
+        <translation>下载被用户终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
@@ -7443,7 +7443,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation>当元数据被禁用时，模组更新不可用！</translation>
+        <translation>当元数据被禁用时， Mod 更新不可用！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
@@ -7458,20 +7458,20 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>在游戏运行时更新模组，可能会导致模组重复或游戏崩溃。
-由于游戏正在使用旧版本的模组，他们可能不会被删除。
+        <translation>在游戏运行时更新 Mod，可能会导致 Mod 重复或游戏崩溃。
+由于游戏正在使用旧版本的 Mod，他们可能不会被删除。
 
 您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
         <source>The mod updater was aborted!</source>
-        <translation>模组更新已终止！</translation>
+        <translation>Mod 更新已终止！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="274"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>选中模组均为最新版本！ :)</translation>
+        <translation>选中 Mod 均为最新版本！:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="277"/>
@@ -7487,7 +7487,7 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="363"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>您将要删除 %1 个模组的元数据。
+        <translation>您将要删除 %1 个 Mod 的元数据。
 您确定吗？</translation>
     </message>
     <message>
@@ -7504,7 +7504,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>在游戏运行时删除模组，游戏可能会崩溃。
+        <translation>在游戏运行时删除 Mod 可能导致崩溃。
 
 您确定吗？</translation>
     </message>
@@ -7512,7 +7512,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation>所有模组均已是最新版本！:)</translation>
+        <translation>所有 Mod 均已是最新版本！:)</translation>
     </message>
     <message>
         <source>selected</source>
@@ -7521,7 +7521,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="52"/>
         <source>Mods</source>
-        <translation>模组</translation>
+        <translation>Mod</translation>
     </message>
 </context>
 <context>
@@ -7534,7 +7534,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>无法移除旧的 Jar 文件：%1</translation>
+        <translation>无法移除旧的 .jar 文件：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
@@ -7637,32 +7637,32 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="44"/>
         <source>Confirm mods to update</source>
-        <translation>确认所要更新的模组</translation>
+        <translation>确认所要更新的 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>您即将更新以下模组：</translation>
+        <translation>以下 Mod 即将更新：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
         <source>Only mods with a check will be updated!</source>
-        <translation>只有检查更新的模组会被更新！</translation>
+        <translation>只有检查过的 Mod 会更新！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="74"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>模组名称：%1&lt;br&gt;文件名：%2&lt;br&gt;原因：%3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Mod 名称：%1&lt;br/&gt;文件名：%2&lt;br/&gt;原因：%3&lt;br/&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
         <source>Metadata generation failed</source>
-        <translation>Metadata 生成失败</translation>
+        <translation>元数据生成失败</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>无法为以下模组生成Metadata：&lt;br&gt;您想在不包含这些模组的情況下继续吗？</translation>
+        <translation>无法为以下 Mod 生成元数据：&lt;br&gt;您想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="92"/>
@@ -7694,12 +7694,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
         <source>Checking for updates...</source>
-        <translation>检查更新中……</translation>
+        <translation>正在检查更新……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="169"/>
         <source>Mod name: %1</source>
-        <translation>模组名称：%1</translation>
+        <translation>Mod 名称：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="171"/>
@@ -7715,17 +7715,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
         <source>Checking for dependencies...</source>
-        <translation>正在检查前置……</translation>
+        <translation>正在检查前置 Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="303"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>模组 “%1” 还没有元数据。我们需要生成相关信息用于检查模组更新。因此，请选择一个模组托管平台，并使用它来检查此模组的更新。</translation>
+        <translation>Mod “%1” 还没有元数据。我们需要生成相关信息用于检查 Mod 更新。因此，请选择一个 Mod 托管平台，并使用它来检查此 Mod 的更新。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="406"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>在所选模组托管平台上找不到有效版本</translation>
+        <translation>在所选 Mod 托管平台上找不到有效版本</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -7743,12 +7743,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>无法获取以下模组更新：&lt;br&gt;您想在不包含这些模组的情況下继续吗？</translation>
+        <translation>无法获取以下 Mod 更新：&lt;br&gt;您想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="260"/>
         <source>Looking for metadata</source>
-        <translation>正在查找 Metadata</translation>
+        <translation>正在查找元数据</translation>
     </message>
     <message>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
@@ -7757,7 +7757,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="359"/>
         <source>Generating metadata...</source>
-        <translation>生成 Metadata 中……</translation>
+        <translation>生成元数据中……</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -7766,7 +7766,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="420"/>
         <source>Provider: %1</source>
-        <translation>模组托管平台：%1</translation>
+        <translation>Mod 托管平台：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
@@ -7791,12 +7791,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
         <source>Required by: %1</source>
-        <translation>%1 的前置</translation>
+        <translation>%1 的前置 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="438"/>
         <source>Required by:</source>
-        <translation>后置：</translation>
+        <translation>为以下 Mod 的前置：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="452"/>
@@ -7915,12 +7915,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation>正在为 Modrinth 准备模组……</translation>
+        <translation>正在从 Modrinth 准备 Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>为避免模组重复的问题，被停用的模组将不会被更新！</translation>
+        <translation>为避免 Mod 重复的问题，被停用的 Mod 将不会被更新！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="87"/>
@@ -7930,12 +7930,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="102"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未找到该模组的有效版本。可能由于模组没有适配此游戏版本或模组加载器。</translation>
+        <translation>未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="132"/>
         <source>Mod has an empty download URL</source>
-        <translation>模组的下载链接为空</translation>
+        <translation>Mod 的下载链接为空</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="176"/>
@@ -7948,7 +7948,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
         <source> (version %1)</source>
-        <translation> （版本 %1）</translation>
+        <translation> （%1 版本）</translation>
     </message>
     <message>
         <source>Similar modpack was found!</source>
@@ -8005,12 +8005,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
         <source>Mod Download Modrinth</source>
-        <translation>模组下载 Modrinth</translation>
+        <translation>从 Modrinth 下载 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="244"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation>其中一个文件具有通向任意位置的路径 (%1)。不允许此操作，因为有安全风险。</translation>
+        <translation>其中一个文件具有通向任意位置的路径（%1）。此操作因为有安全风险不被允许。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="277"/>
@@ -8020,7 +8020,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="282"/>
         <source>Downloading mods...</source>
-        <translation>正在下载模组……</translation>
+        <translation>正在下载 Mod……</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -8053,7 +8053,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
         <source>Fetching changelogs...</source>
-        <translation>正在获取变更日志……</translation>
+        <translation>正在获取更新日志……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="373"/>
@@ -8178,13 +8178,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>按最后更新时间排序</translation>
+        <translation>按更新时间排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation>按最新排序</translation>
+        <translation>按发布时间排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
@@ -8439,7 +8439,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="92"/>
         <source>Nilmods</source>
-        <translation>NilLoader 模组</translation>
+        <translation>NilLoader  Mod</translation>
     </message>
 </context>
 <context>
@@ -8514,7 +8514,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation>选择可选模组</translation>
+        <translation>选择可选 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
@@ -8529,7 +8529,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation>未选中的模组会被禁用。</translation>
+        <translation>未选中的 Mod 会被禁用。</translation>
     </message>
 </context>
 <context>
@@ -10052,7 +10052,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>mod</source>
-        <translation>模组</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
@@ -10138,7 +10138,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="104"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>模组</translation>
+        <translation>Mod</translation>
     </message>
 </context>
 <context>
@@ -10147,13 +10147,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation>模组</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation>模组</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
@@ -10249,7 +10249,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation>发生网络错误。无法加载模组。</translation>
+        <translation>发生网络错误。无法加载 Mod 。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
@@ -10687,7 +10687,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="60"/>
         <source>Provider: %1</source>
-        <translation>模组托管平台：%1</translation>
+        <translation>Mod 托管平台：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="67"/>
@@ -10722,7 +10722,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation>切换前置模组</translation>
+        <translation>切换前置 Mod</translation>
     </message>
 </context>
 <context>
@@ -12001,12 +12001,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Add to Minecraft.jar</source>
-        <translation>安装模组到 Minecraft.jar 中</translation>
+        <translation>安装 Mod 到 Minecraft.jar 中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>将一个模组安装到 Minecraft.jar 文件中。</translation>
+        <translation>将一个 Mod 安装到 Minecraft.jar 文件中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
@@ -12098,12 +12098,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation>安装模组加载器</translation>
+        <translation>安装 Mod 加载器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Install a mod loader.</source>
-        <translation>安装一个模组加载器。</translation>
+        <translation>安装一个 Mod 加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
@@ -12219,12 +12219,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Select jar mods</source>
-        <translation>选择 Jar 模组</translation>
+        <translation>选择 Jar  Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>需要添加到 Minecraft.jar 中的模组(*.zip *.jar)</translation>
+        <translation>需要添加到 Minecraft.jar 中的 Mod (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
