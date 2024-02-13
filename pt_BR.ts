@@ -9912,8 +9912,8 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <translation>Versão de formato desconhecida!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>O caminho está vazio</translation>
     </message>
@@ -9923,8 +9923,8 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <translation>O caminho da JVisualVM é inválido</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <source>Path does not exist</source>
         <translation>O caminho não existe</translation>
     </message>

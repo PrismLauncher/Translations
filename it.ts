@@ -9763,8 +9763,8 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
         <translation>Formato versione sconosciuto!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Percorso vuoto</translation>
     </message>
@@ -9774,8 +9774,8 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
         <translation>Percorso invalido per JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <source>Path does not exist</source>
         <translation>Le chemin n&apos;existe pasIl percorso non esiste</translation>
     </message>

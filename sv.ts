@@ -9664,8 +9664,8 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
         <translation>Okänd formatversion!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Sökvägen är tom</translation>
     </message>
@@ -9675,8 +9675,8 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
         <translation>Ingen giltig installation av JVisualVM hittades på sökvägen</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <source>Path does not exist</source>
         <translation>Sökvägen existerar inte</translation>
     </message>

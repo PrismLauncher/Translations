@@ -8956,8 +8956,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>فرمت نسخه ناشناخته!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>مسیر خالی</translation>
     </message>
@@ -8967,8 +8967,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>مسیر نامعتبر برای JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <source>Path does not exist</source>
         <translation>مسیر وجود ندارد</translation>
     </message>
