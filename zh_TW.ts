@@ -10208,35 +10208,43 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="451"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <source>A network error occurred. Could not load project versions:%1</source>
-        <translation>發生網路錯誤。無法載入專案版本：%1</translation>
+        <translation type="vanished">發生網路錯誤。無法載入專案版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
         <source>A network error occurred. Could not load project info:%1</source>
-        <translation>發生網路問題。無法載入專案資訊：%1</translation>
+        <translation type="vanished">發生網路問題。無法載入專案資訊：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
+        <source>A network error occurred. Could not load project versions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
+        <source>A network error occurred. Could not load project info: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
         <translation>由於未知原因，這個請求已被中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>發生網路錯誤。無法載入模組。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>API 版本過於老舊！

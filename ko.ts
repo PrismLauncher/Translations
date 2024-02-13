@@ -10099,35 +10099,43 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="451"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <source>A network error occurred. Could not load project versions:%1</source>
-        <translation>네트워크 오류가 발생했습니다. 프로젝트 버전을 불러올 수 없습니다:%1</translation>
+        <translation type="vanished">네트워크 오류가 발생했습니다. 프로젝트 버전을 불러올 수 없습니다:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
         <source>A network error occurred. Could not load project info:%1</source>
-        <translation>네트워크 오류가 발생했습니다. 프로젝트 정보를 불러올 수 없습니다:%1</translation>
+        <translation type="vanished">네트워크 오류가 발생했습니다. 프로젝트 정보를 불러올 수 없습니다:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
+        <source>A network error occurred. Could not load project versions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
+        <source>A network error occurred. Could not load project info: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
         <translation>알 수 없는 이유로 요청이 중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>네트워크 오류가 발생했습니다. 모드를 불러올 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>API 버전이 오래됐습니다!

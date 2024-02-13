@@ -9543,35 +9543,43 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="451"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <source>A network error occurred. Could not load project versions:%1</source>
-        <translation>Terjadi sebuah kesalahan jaringan. Tidak dapat memuat versi-versi proyek:%1</translation>
+        <translation type="vanished">Terjadi sebuah kesalahan jaringan. Tidak dapat memuat versi-versi proyek:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
         <source>A network error occurred. Could not load project info:%1</source>
-        <translation>Sebuah kesalahan jaringan telah terjadi. Tidak dapat memuat informasi proyek: %1</translation>
+        <translation type="vanished">Sebuah kesalahan jaringan telah terjadi. Tidak dapat memuat informasi proyek: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
+        <source>A network error occurred. Could not load project versions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
+        <source>A network error occurred. Could not load project info: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
         <translation>Permintaan dihentikan untuk alasan yang tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Sebuah kesalahan jaringan telah terjadi. Tidak dapat memuat mod-mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>Versi API terlalu lama!

@@ -10195,35 +10195,43 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="451"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <source>A network error occurred. Could not load project versions:%1</source>
-        <translation>Vyskytla se chyba sítě. Nepodařilo se načíst verze projektu:%1</translation>
+        <translation type="vanished">Vyskytla se chyba sítě. Nepodařilo se načíst verze projektu:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
         <source>A network error occurred. Could not load project info:%1</source>
-        <translation>Vyskytla se chyba sítě. Nepodařilo se načíst informace o projektu:%1</translation>
+        <translation type="vanished">Vyskytla se chyba sítě. Nepodařilo se načíst informace o projektu:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
+        <source>A network error occurred. Could not load project versions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
+        <source>A network error occurred. Could not load project info: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
         <translation>Žádost byla z neznámých důvodů zrušena</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Chyba sítě. Nepodařilo se načíst mody.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>Stará verze API!

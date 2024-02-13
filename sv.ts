@@ -10012,35 +10012,43 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="451"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <source>A network error occurred. Could not load project versions:%1</source>
-        <translation>Ett nätverksfel uppstod. Kunde inte ladda projektversionen:%1</translation>
+        <translation type="vanished">Ett nätverksfel uppstod. Kunde inte ladda projektversionen:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="235"/>
         <source>A network error occurred. Could not load project info:%1</source>
-        <translation>Ett nätverksfel uppstod. Kunde inte ladda projektinformation: %1</translation>
+        <translation type="vanished">Ett nätverksfel uppstod. Kunde inte ladda projektinformation: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
+        <source>A network error occurred. Could not load project versions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
+        <source>A network error occurred. Could not load project info: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
         <translation>Begäran avbröts av okänd anledning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="447"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Ett nätverksfel inträffade. Kunde inte ladda in mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>API-versionen är för gammal!
