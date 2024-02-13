@@ -1138,7 +1138,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启动器会自动在“全局 Mod 文件夹”和“默认下载文件夹”检测新 Mod 并复制到各个实例。&lt;/p&gt;&lt;p&gt;您也可以将下载好的 Mod 拖到此对话框中。如果您没有将 Mod 下载到现有的默认位置，也可以再添加一个默认文件夹。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启动器会自动在“公共 Mod 文件夹”和“默认下载文件夹”检测新 Mod 并复制到各个实例。&lt;/p&gt;&lt;p&gt;您也可以将下载好的 Mod 拖到此对话框中。如果您没有将 Mod 下载到现有的默认位置，也可以再添加一个默认文件夹。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1299,7 +1299,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>禁用此功能将仍然保留 Mod 加载器（如 Fabric 、Quilt 等），但会删除 Mod 文件夹及配置文件。</translation>
+        <translation>禁用此功能将仍然保留 Mod 加载器（如 Forge、Fabric、Quilt 等），但会删除 Mod 文件夹及配置文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -8439,7 +8439,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="92"/>
         <source>Nilmods</source>
-        <translation>NilLoader  Mod</translation>
+        <translation>Nilmod</translation>
     </message>
 </context>
 <context>
@@ -12219,7 +12219,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Select jar mods</source>
-        <translation>选择 Jar  Mod</translation>
+        <translation>选择 .jar 格式 Mod 文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
