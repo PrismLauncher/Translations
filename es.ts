@@ -10233,12 +10233,12 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha producido un error de red. No se pudieron cargar las versiones del proyecto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha producido un error de red. No se pudieron cargar las versiones del proyecto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
