@@ -396,7 +396,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation>微软账号</translation>
+        <translation>Microsoft 账户</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
@@ -455,7 +455,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>账号类型（微软账号或离线用户）</translation>
+        <translation>账号类型（Microsoft 账户或离线账户）</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -586,13 +586,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>添加微软账号(&amp;A)</translation>
+        <translation>添加 Microsoft 账户(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="103"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>添加离线用户(&amp;O)</translation>
+        <translation>添加离线账户(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
@@ -623,7 +623,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>欢迎！
-如果您是首次来到这里，可以单击“添加微软账号”按钮来链接您的微软账号。</translation>
+如果您是首次来到这里，可以单击“添加 Microsoft 账户”按钮来链接您的 Microsoft 账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
@@ -643,7 +643,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您必须先添加一个拥有 Minecraft 的微软账号，才能添加其他离线用户。&lt;br&gt;&lt;br&gt;如果您遗失了您的账号，可以联系微软以获得支持。</translation>
+        <translation>您必须先添加一个拥有 Minecraft 的 Microsoft 账户，才能添加其他离线账户。&lt;br&gt;&lt;br&gt;如果您遗失了您的账号，可以联系微软以获得支持。</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -678,7 +678,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="159"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>请输入您要添加的离线用户的用户名。</translation>
+        <translation>请输入您要添加的离线账户的用户名。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
@@ -993,7 +993,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="86"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>警告：该功能仍未完成，导入的整合包出现的问题可能由于该功能的漏洞。</translation>
+        <translation>警告：该功能仍未完成，导入的整合包可能由于该功能的漏洞出现问题。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
@@ -1129,7 +1129,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;哈希值：%3 %4&lt;/p&gt; &lt;br/&gt;</translation>
+        <translation>%1：&lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;哈希值：%3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <source>All mods found ✔</source>
@@ -3111,7 +3111,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- CurseForge 整合包（ZIP / curseforge:// URL）</translation>
+        <translation>- CurseForge 整合包（.zip 压缩文件 / curseforge:// URL）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -3132,7 +3132,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>本地文件或直达下载的链接（即直接指向文件而非下载页面）:</translation>
+        <translation>本地文件或直达下载的链接（即直接指向文件而非下载页面）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
@@ -4255,7 +4255,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation>在游玩 Minecraft 之前，您至少需要链接一个拥有 Minecraft 的微软账号。你想现在打开账号管理添加账号吗？</translation>
+        <translation>在游玩 Minecraft 之前，您至少需要链接一个拥有 Minecraft 的 Microsoft 账户。你想现在打开账号管理添加账号吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -5349,7 +5349,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation>添加微软账号</translation>
+        <translation>添加 Microsoft 账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
@@ -5372,7 +5372,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="70"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>正在使用微软账号登录。</translation>
+        <translation>正在使用 Microsoft 账户登录。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="94"/>
@@ -5387,7 +5387,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="138"/>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation>微软账号认证因网络错误终止。</translation>
+        <translation>Microsoft 账户认证因网络错误终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="143"/>
@@ -6259,7 +6259,7 @@ Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
         <translation>启动器无法在没有正版账号的情况下下载 Minecraft 或更新实例。
-请添加一个微软账号。</translation>
+请添加一个 Microsoft 账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
@@ -8501,12 +8501,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="10"/>
         <source>Creating offline account.</source>
-        <translation>正在创建离线用户。</translation>
+        <translation>正在创建离线账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="20"/>
         <source>Created offline account.</source>
-        <translation>离线用户已成功创建。</translation>
+        <translation>离线账户已成功创建。</translation>
     </message>
 </context>
 <context>
@@ -9925,8 +9925,8 @@ Old name: %1
 New name: %2</source>
         <translation>该实例的名称似乎包含旧版本。 您想更新它吗？
 
-旧名称: %1
-新名称: %2</translation>
+旧名称：%1
+新名称：%2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="26"/>
@@ -10246,7 +10246,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation>发生网络错误。无法加载项目信息: %1</translation>
+        <translation>发生网络错误。无法加载项目信息：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
@@ -11403,14 +11403,14 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="144"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation>无法解析 &quot;version.json&quot;:
+        <translation>无法解析 &quot;version.json&quot;：
 缺少 inheritsFrom</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="181"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation>无法解析 &quot;version.json&quot;:
+        <translation>无法解析 &quot;version.json&quot;：
 </translation>
     </message>
 </context>
@@ -12296,7 +12296,7 @@ Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
         <translation>不允许在没有正版账号的情况下下载 Minecraft 或更新实例。
-请添加一个已购买 Minecraft 的微软账号。</translation>
+请添加一个已购买 Minecraft 的 Microsoft 账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="542"/>
@@ -12832,7 +12832,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>此微软账号没有 Xbox Live 档案。请先在 %1 购买游戏。</translation>
+        <translation>此 Microsoft 账户没有 Xbox Live 档案。请先在 %1 购买游戏。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
@@ -12844,9 +12844,9 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>此微软账号拥有者为未成年用户，且该账号尚未绑定到一个家庭。
+        <translation>此 Microsoft 账户拥有者为未成年用户，且该账号尚未绑定到一个家庭。
 
-请根据 %1 设置您的帐号。</translation>
+请根据 %1 设置您的账号。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="134"/>
