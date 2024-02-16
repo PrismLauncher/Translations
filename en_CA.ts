@@ -2131,7 +2131,7 @@ Are you sure?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished">If you remove this resource while the game is running it may crash your game.
+        <translation>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</translation>
     </message>
     <message>
@@ -2143,7 +2143,7 @@ Are you sure you want to do this?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished">If you disable this resource while the game is running it may crash your game.
+        <translation>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</translation>
     </message>
     <message>
@@ -2879,7 +2879,7 @@ Please try again.</translation>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished">A network error occurred. Could not load project dependencies:%1</translation>
+        <translation>A network error occurred. Could not load project dependencies:%1</translation>
     </message>
 </context>
 <context>
@@ -3361,7 +3361,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="426"/>
         <source>Environment variables</source>
-        <translation type="unfinished">Environment variables</translation>
+        <translation>Environment variables</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="436"/>
@@ -3466,7 +3466,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
@@ -4214,7 +4214,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished">Disable the automatic detection, installation, and updating of mod dependencies.</translation>
+        <translation>Disable the automatic detection, installation, and updating of mod dependencies.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
@@ -4292,27 +4292,27 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished">Disable automatic mod dependency management</translation>
+        <translation>Disable automatic mod dependency management</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>Cat</source>
-        <translation type="unfinished">Cat</translation>
+        <translation>Cat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished">Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</translation>
+        <translation>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
@@ -4462,7 +4462,7 @@ Granting %1 access to it via Flatseal is recommended.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished">Legacy launcher library could not be found. Please check your installation.</translation>
+        <translation>Legacy launcher library could not be found. Please check your installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
@@ -4881,7 +4881,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -5083,7 +5083,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
-        <translation type="unfinished">Status Bar</translation>
+        <translation>Status Bar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="318"/>
@@ -5094,42 +5094,42 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished">&amp;Instances</translation>
+        <translation>&amp;Instances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished">Open the instances folder in a file browser.</translation>
+        <translation>Open the instances folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished">Launcher &amp;Root</translation>
+        <translation>Launcher &amp;Root</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished">&amp;Central Mods</translation>
+        <translation>&amp;Central Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
         <source>Instance Icons</source>
-        <translation type="unfinished">Instance Icons</translation>
+        <translation>Instance Icons</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished">Open the instance icons folder in a file browser.</translation>
+        <translation>Open the instance icons folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>Logs</source>
-        <translation type="unfinished">Logs</translation>
+        <translation>Logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished">Open the logs folder in a file browser.</translation>
+        <translation>Open the logs folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="688"/>
@@ -5144,32 +5144,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished">&amp;Widget Themes</translation>
+        <translation>&amp;Widget Themes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished">Open the widget themes folder in a file browser.</translation>
+        <translation>Open the widget themes folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished">I&amp;con Theme</translation>
+        <translation>I&amp;con Theme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished">Open the icon theme folder in a file browser.</translation>
+        <translation>Open the icon theme folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="781"/>
         <source>Cat Packs</source>
-        <translation type="unfinished">Cat Packs</translation>
+        <translation>Cat Packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished">Open the cat packs folder in a file browser.</translation>
+        <translation>Open the cat packs folder in a file browser.</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -5555,7 +5555,7 @@ Please add your Mojang or Microsoft account.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished">The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</translation>
+        <translation>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1012"/>
@@ -5731,12 +5731,12 @@ Do you wish to proceed?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished">&amp;Rename group</translation>
+        <translation>&amp;Rename group</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1166"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished">Are you sure you want to delete the group &apos;%1&apos;?</translation>
+        <translation>Are you sure you want to delete the group &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1176"/>
@@ -7190,7 +7190,7 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="276"/>
@@ -7297,7 +7297,7 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="67"/>
         <source>Requesting %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Requesting %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
@@ -7499,12 +7499,12 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Optional Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Select All</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
@@ -8036,76 +8036,77 @@ The updater cannot continue until you fix this problem.</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="679"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed copy %1 to %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="694"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1167"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>File doesn&apos;t exist, ignoring: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="707"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>There were errors installing the update.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="711"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Update succeed.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>No Valid Release Assets</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="869"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Github release %1 has no valid assets for this platform: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 portable: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>yes</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>no</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>No version selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No version selected.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>No version was selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No version was selected.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
         <source>Failed to Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to Download</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to download the selected asset.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="988"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Update already in progress
+</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="990"/>
@@ -8121,137 +8122,150 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>This installation has a update lock file present at: %1
+
+Timestamp: %2
+Updating from version %3 to %4
+Target install path: %5
+Data Path: %6
+This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
+Check the Prism Launcher updater log at: 
+%7
+for details on the last update attempt.
+
+To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Update Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>The update attempt was aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Updating from %1 to %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1031"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Updating portable install at %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1034"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Running installer file at %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Process start result: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>Backing up install</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1071"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Starting new updater at &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1073"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to launch &apos;%1&apos; %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1124"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Backing up:
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1142"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Backing up install at %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
         <source>Backing up and then removing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Backing up and then removing %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to backup %1 to %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1154"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to remove %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1189"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Extracted the following to &quot;%1&quot;:
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1191"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1193"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to extract %1 to %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
+        <translation>Running: `%1 %2`</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1204"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to launcher child process &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1206"/>
         <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed extract archive</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Child process &quot;%1 %2&quot; failed.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
         <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to extract archive</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1220"/>
         <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unknown archive format for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to Check Version</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to launcher child launcher process to read version.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Child launcher process failed.</translation>
     </message>
 </context>
 <context>
@@ -9004,7 +9018,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>An auto-updater for Prism Launcher</translation>
     </message>
 </context>
 <context>
@@ -9108,18 +9122,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A network error occurred. Could not load project versions: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A network error occurred. Could not load project info: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>The request was aborted for an unknown reason</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
@@ -9180,7 +9194,7 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="204"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="209"/>
@@ -9348,13 +9362,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm toggle</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>If you enable/disable this resource while the game is running it may crash your game.
+Are you sure you want to do this?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="495"/>
@@ -9556,7 +9571,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="84"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Version Type: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
@@ -9576,7 +9591,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Toggle Dependencies</translation>
     </message>
 </context>
 <context>
@@ -9676,7 +9691,7 @@ Are you sure?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Screenshots upload aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
@@ -9749,12 +9764,12 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Published Date</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="118"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Select a version to install.</translation>
     </message>
 </context>
 <context>
@@ -9762,12 +9777,12 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Release to Install</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Please select the release you wish to update to.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
@@ -9777,14 +9792,16 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Published Date</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="46"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Select a version to install.
+
+Currently installed version: %1</translation>
     </message>
 </context>
 <context>
@@ -10374,17 +10391,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="60"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>View icon themes folder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="79"/>
         <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Widgets</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="104"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>View widget themes folder.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
@@ -10400,7 +10417,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="154"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>View cat packs folder.</translation>
     </message>
 </context>
 <context>
@@ -10487,43 +10504,43 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Update Available</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>A new version is available!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Version %1 is now available - you have %2 . Would you like to download it now?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Release Notes:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Skip This Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Remind Me Later</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Install Update</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>A new version of %1 is available!</translation>
     </message>
 </context>
 <context>
@@ -10811,12 +10828,12 @@ Please switch to one of the following Java versions for this instance:</translat
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Change Version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
         <source>Change version of the selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Change version of the selected component.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
@@ -10826,7 +10843,7 @@ Please switch to one of the following Java versions for this instance:</translat
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
         <source>Make the selected component apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Make the selected component apply sooner.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
@@ -10836,27 +10853,27 @@ Please switch to one of the following Java versions for this instance:</translat
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
         <source>Make the selected component apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Make the selected component apply later.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Remove selected component from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove selected component from the instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Customize selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Customize selected component.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
         <source>Edit selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit selected component.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
         <source>Revert the selected component to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Revert the selected component to default.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
@@ -10866,22 +10883,22 @@ Please switch to one of the following Java versions for this instance:</translat
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Install a mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Install a mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
         <source>Add an empty custom component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add an empty custom component.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Reload all components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reload all components.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Download all</source>
-        <translation type="unfinished"></translation>
+        <translation>Download all</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
