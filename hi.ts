@@ -2258,12 +2258,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="299"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 लोडर के लिए संस्करण ढूँढने में विफल</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modpack  के लिए कोई लोडर संस्करण सेट नहीं है!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
