@@ -7,18 +7,18 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;पेस्टबिन सेवा</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>पेस्ट सेवा &amp;प्रकार</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>आधार &amp;यूआरएल</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -34,7 +34,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;माइक्रोसॉफ्ट प्रमाणीकरण</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -45,7 +45,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="284"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(डिफ़ॉल्ट)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;मोड्रिंथ एपीआई</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(कुछ नहीं)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
@@ -91,7 +91,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>मेटा और डेटा सर्वर</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge कोर एपीआई</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
@@ -147,32 +147,32 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="152"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; v%2 के लिए स्थानीय मेटाडेटा अनुक्रमणिका प्राप्त करने में विफल रहा</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>असमर्थित संस्थापन मोड</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>मौजूदा फ़ाइलों को हटा रहे हैं..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>अज्ञात mod प्रकार: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 लोडर के लिए संस्करण ढूँढने में विफल</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="388"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack  के लिए कोई लोडर संस्करण सेट नहीं है!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
