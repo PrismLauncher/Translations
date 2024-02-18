@@ -2492,12 +2492,12 @@ Bandykite dar kartą.</translation>
         <translation>Trūksta nurodyto nepaisymo aplanko (%1). Galbūt modpack jau buvo naudojamas anksčiau?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="372"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Nežinoma modifikavimo programa apraše: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="386"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Importuojant paketą iš Minecraft versijos buvo pašalinti paslaptingi taškai.</translation>
     </message>
@@ -2506,40 +2506,40 @@ Bandykite dar kartą.</translation>
         <translation type="vanished">Nepavyko susieti rekomenduojamos Forge versijos Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="440"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="442"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Nepavyko išspręsti mod ID:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="493"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="495"/>
         <source>Blocked mods found</source>
         <translation>Rasta užblokuotų modifikacijų</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="494"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
         <source>Mod Download Flame</source>
         <translation>Mod Parsisiųsti Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="582"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 iš %2 baigtas</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="596"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="598"/>
         <source>Copying Blocked Mods...</source>
         <translation>Kopijuojamos užblokuotos modifikacijos...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="609"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="611"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Kopijuojamos užblokuotos modifikacijos (% 1 iš % 2 atlikta)</translation>
     </message>
@@ -2548,22 +2548,22 @@ Bandykite dar kartą.</translation>
         <translation type="obsolete">Atsisiųsti modifikaciją</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="548"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="550"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Šį &apos;aplanką&apos; gali reikėti išskleisti: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="562"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="564"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Modifikacijų paketų įdėjimas į modpacks neįdiegtas, nieko neatsisiųsta: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="567"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Neatpažintas / netvarkomas paketo tipas, skirtas: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="588"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="590"/>
         <source>Downloading mods...</source>
         <translation>Atsisiunčiamos modifikacijos...</translation>
     </message>
