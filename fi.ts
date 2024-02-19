@@ -373,7 +373,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Ei nettiyhteyttä</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -384,19 +384,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Ei nettiyhteyttä</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Tuntematon</translation>
+        <translation>Tuntematon</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
@@ -443,7 +443,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilin tyyppi (MSA tai Offline)</translation>
     </message>
     <message>
         <source>N/A</source>
