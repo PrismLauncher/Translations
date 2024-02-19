@@ -6446,7 +6446,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1774"/>
         <source>Total playtime: %1</source>
-        <translation>총 플레이시간: %1</translation>
+        <translation>총 플레이 시간: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="834"/>
@@ -6695,7 +6695,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="994"/>
         <source>, last played on %1 for %2</source>
-        <translation>, %2 에 대해 %1 에서 마지막으로 재생됨</translation>
+        <translation>, 마지막으로 %1에 %2 동안 플레이함</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -6708,7 +6708,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
         <source>, total played for %1</source>
-        <translation>, 총 %1동안 플레이 함</translation>
+        <translation>, 총 %1 동안 플레이함</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1006"/>
@@ -10978,7 +10978,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="48"/>
         <source>Shader packs</source>
-        <translation>쉐이더 팩</translation>
+        <translation>셰이더 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="52"/>
