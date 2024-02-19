@@ -702,7 +702,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
         <source>Failed to delete current skin!</source>
-        <translation>Не удалось удалить текущий скин</translation>
+        <translation>Не удалось удалить текущий скин!</translation>
     </message>
 </context>
 <context>
@@ -6512,7 +6512,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1185"/>
         <source>Group already exists. :/</source>
-        <translation>Группа уже существует.</translation>
+        <translation>Группа уже существует. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
@@ -10332,7 +10332,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation>Произошла ошибка сети. Не удалось загрузить версии проекта: %1</translation>
+        <translation>Произошла ошибка сети. Не удалось загрузить информацию о проекте: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
