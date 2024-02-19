@@ -10116,12 +10116,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크 오류가 발생하였습니다. 프로젝트 버전을 불러올 수 없습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크 오류가 발생하였습니다. 프로젝트 정보를 불러올 수 없습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
