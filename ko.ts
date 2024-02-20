@@ -3242,7 +3242,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <source>LiteLoader</source>
-        <translation>라이트로더</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
@@ -3756,12 +3756,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
         <source>Show time spent playing this instance</source>
-        <translation>인스턴스에서 플레이 한 시간 보기</translation>
+        <translation>인스턴스에서 플레이한 시간 보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="643"/>
         <source>Record time spent playing this instance</source>
-        <translation>인스턴스에서 플레이 한 시간 기록</translation>
+        <translation>인스턴스에서 플레이한 시간 기록</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
@@ -4251,12 +4251,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="185"/>
         <source>Choose your offline mode player name.</source>
-        <translation>오프라인 모드에서의 플레이어 이름을 고르세요.</translation>
+        <translation>오프라인 모드에서의 플레이어 이름을 고르십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>Choose your demo mode player name.</source>
-        <translation>데모 모드 플레이어의 이름을 정하세요.</translation>
+        <translation>데모 모드에서의 플레이어 이름을 고르십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="212"/>
