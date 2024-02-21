@@ -736,12 +736,12 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="759"/>
+        <location filename="src/launcher/Application.cpp" line="760"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="912"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -768,12 +768,12 @@ a legutóbbi frissítési kísérlet részleteiért.
 A zárolás törléséhez és a folytatáshoz válassza az alábbi &quot;Ignore&quot; (figyelmen kívül hagyás) lehetőséget.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="928"/>
+        <location filename="src/launcher/Application.cpp" line="929"/>
         <source>Update In Progress</source>
         <translation>Frissítés folyamatban</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="953"/>
+        <location filename="src/launcher/Application.cpp" line="954"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -788,12 +788,12 @@ Tekintse meg a Prism Launcher frissítési naplóját itt:&#xa0;
 hogy részletes leírást kapjon az utolsó frissítési próbálkozásról.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="961"/>
+        <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update Failed</source>
         <translation>Sikertelen Frissítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="986"/>
+        <location filename="src/launcher/Application.cpp" line="987"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -808,12 +808,12 @@ Tekintse meg a Prism Launcher frissítési naplóját itt:&#xa0;
 további részletekért.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="994"/>
+        <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update Succeeded</source>
         <translation>Sikeres Frissítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1025"/>
+        <location filename="src/launcher/Application.cpp" line="1026"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -822,32 +822,32 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1027"/>
+        <location filename="src/launcher/Application.cpp" line="1028"/>
         <source>Incompatible system configuration</source>
         <translation>Nem kompatibilis rendszerkonfiguráció</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1357"/>
+        <location filename="src/launcher/Application.cpp" line="1358"/>
         <source>Aborted</source>
         <translation>Megszakítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1767"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Régi adatok találhatók a(z) %1 példányból, de már vannak adatok a(z) %2 példányhoz. Sajnos magának kell migrálnia. Szeretne emlékeztetőt kapni a függőben lévő adatmigrációról, amikor legközelebb elindítja a(z) %2 példányt?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1771"/>
+        <location filename="src/launcher/Application.cpp" line="1772"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Úgy tűnik, korábban használta a(z) %1. Szeretné áttelepíteni adatait a(z) %2 új helyre?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1777"/>
+        <location filename="src/launcher/Application.cpp" line="1778"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Úgy tűnik, korábban használta a(z) %1-et %2-n. Szeretné áttelepíteni adatait a %3 új helyére?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1820"/>
+        <location filename="src/launcher/Application.cpp" line="1821"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Áttelepítés nem sikerült! Ok: %1</translation>
     </message>
@@ -3671,18 +3671,18 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation type="vanished">A Quilt loader beacon kikapcsolása a havi aktív felhasználók számolásának leállításához</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="688"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="698"/>
         <source>Override default account</source>
         <translation>Alapértelmezett fiók felülírása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="708"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="718"/>
         <source>Account:</source>
         <translation>Fiók:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="373"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="590"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="600"/>
         <source>Miscellaneous</source>
         <translation>Egyéb</translation>
     </message>
@@ -3728,43 +3728,53 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Diszkrét GPU használata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="596"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="573"/>
+        <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
+        <source>Use Zink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="606"/>
         <source>Legacy settings</source>
         <translation>Legacy beállítások</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="618"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Szimulálja a régi, már nem létező szolgáltatások működését.&lt;/p&gt;&lt;p&gt;Jelenleg ez lehetővé teszi a modern skin-ek használatát.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="621"/>
         <source>Enable online fixes (experimental)</source>
         <translation>Online javítások engedélyezése (kísérleti)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="624"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
         <source>Override global game time settings</source>
         <translation>Globális játékidő-beállítások felülírása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
         <source>Show time spent playing this instance</source>
         <translation>Példánnyal eltöltött idő megjelenítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="643"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
         <source>Record time spent playing this instance</source>
         <translation>Példánnyal eltöltött idő mentése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a server to join on launch</source>
         <translation>Indításkor csatlakozzon egy szerverhez</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="673"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="683"/>
         <source>Server address:</source>
         <translation>Szerver címe:</translation>
     </message>
@@ -3774,33 +3784,33 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="342"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="345"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="352"/>
         <source>Path to %1 library file</source>
         <translation>A(z) %1 könyvtárfájl elérési útja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="368"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>A Feral Interactive GameMode-ja nem található meg a rendszereden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>A MangoHud nem található meg a rendszereden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
         <source>Select a Java version</source>
         <translation>Java verzió választása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="417"/>
         <source>Find Java executable</source>
         <translation>Java futtatható keresése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="524"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>A maximális memóriafoglalás kisebb, mint a minimális érték</translation>
     </message>
@@ -3809,12 +3819,12 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation type="vanished">Nincs alapértelmezett fiók</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="514"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="518"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>A maximális memóriafoglalás meghaladja a rendszermemória kapacitását.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="517"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="521"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>A maximális memóriafoglalás megközelíti a rendszermemória kapacitását.</translation>
     </message>
@@ -6630,47 +6640,47 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
         <source>&amp;Launch</source>
         <translation>&amp;Indítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Launch &amp;Offline</source>
         <translation>Indítás &amp;Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Launch &amp;Demo</source>
         <translation>&amp;Demo indítása</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="262"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="263"/>
         <source>Profilers</source>
         <translation>Profilerek</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="273"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Ne legyen profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="915"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="910"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="918"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -6679,22 +6689,22 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="920"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="978"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="986"/>
         <source>broken</source>
         <translation>törött</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="989"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="997"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="994"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>, last played on %1 for %2</source>
         <translation>, utoljára játszva ekkor: %1, ennyit: %2</translation>
     </message>
@@ -6707,12 +6717,12 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
         <translation type="vanished">, legutóbbi játékidő: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1009"/>
         <source>, total played for %1</source>
         <translation>, játékidő a példányon: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1006"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1014"/>
         <source>, has crashed.</source>
         <translation>, összeomlott.</translation>
     </message>
@@ -6846,6 +6856,16 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
         <translation>Különálló GPU használata</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
+        <source>Use Zink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
         <translation>Játékidő</translation>
@@ -6913,24 +6933,24 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
         <translation></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="146"/>
         <source>Path to %1 library file</source>
         <translation>A(z) %1 könyvtárfájl elérési útja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="149"/>
         <source>Auto detected path: %1</source>
         <translation>Automatikusan észlelt elérési út: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>A Feral Interactive GameMode-ja nem található meg a rendszeren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>A MangoHud nem található meg a rendszereden.</translation>
     </message>

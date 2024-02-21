@@ -719,12 +719,12 @@ Se eres novo/a aquí, podes seleccionar o botón &quot;Engadir Microsoft&quot; p
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="759"/>
+        <location filename="src/launcher/Application.cpp" line="760"/>
         <source>Settings</source>
         <translation type="unfinished">Configuración</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="912"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -751,12 +751,12 @@ para detalles no último intento de actualización.
 Para borrar este bloqueo e proceder selecciona &quot;Ignorar&quot; abaixo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="928"/>
+        <location filename="src/launcher/Application.cpp" line="929"/>
         <source>Update In Progress</source>
         <translation>Actualización en curso</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="953"/>
+        <location filename="src/launcher/Application.cpp" line="954"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -771,12 +771,12 @@ Mire o log do actualizador de Prism Launcher en
 para detalles no último intento de actualización.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="961"/>
+        <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update Failed</source>
         <translation>Actualización Fallou</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="986"/>
+        <location filename="src/launcher/Application.cpp" line="987"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -791,12 +791,12 @@ Mire o log do actualizador de Prism Launcher en
 para detalles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="994"/>
+        <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update Succeeded</source>
         <translation>Actualización Completada</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1025"/>
+        <location filename="src/launcher/Application.cpp" line="1026"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -805,32 +805,32 @@ Algunhas versións de Minecraft pode que non se executen.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1027"/>
+        <location filename="src/launcher/Application.cpp" line="1028"/>
         <source>Incompatible system configuration</source>
         <translation>Configuración de systema incompatible</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1357"/>
+        <location filename="src/launcher/Application.cpp" line="1358"/>
         <source>Aborted</source>
         <translation>Abortado</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1767"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Información antiga de %1 foi atopada, pero xa tes información existente para %2. Tristemente, terás que migrar ti mesmo. Queres ser recordado da migración de información pendente a próxima vez que abras %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1771"/>
+        <location filename="src/launcher/Application.cpp" line="1772"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Parece que xa usaches %1 antes. Queres migrar a túa información á nova localización %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1777"/>
+        <location filename="src/launcher/Application.cpp" line="1778"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Parece que usaches %1 en %2 antes. Queres migrar a túa información á nova localización de %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1820"/>
+        <location filename="src/launcher/Application.cpp" line="1821"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migración falida! Razón: %1</translation>
     </message>
@@ -3469,18 +3469,18 @@ Por favor volvao a intentar.</translation>
         <translation>Usar o OpenAL instalado no sistema</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="688"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="698"/>
         <source>Override default account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="708"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="718"/>
         <source>Account:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="373"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="590"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="600"/>
         <source>Miscellaneous</source>
         <translation type="unfinished">Miscelánea</translation>
     </message>
@@ -3526,43 +3526,53 @@ Por favor volvao a intentar.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="596"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="573"/>
+        <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
+        <source>Use Zink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="606"/>
         <source>Legacy settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="618"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="621"/>
         <source>Enable online fixes (experimental)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="624"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
         <source>Override global game time settings</source>
         <translation>Sobrescribir as preferencias globais do tempo de xogo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
         <source>Show time spent playing this instance</source>
         <translation>Amosar tempo xogado nesta instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="643"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
         <source>Record time spent playing this instance</source>
         <translation>Gardar tempo xogado nesta instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a server to join on launch</source>
         <translation>Indicar servidor para unirse asi que inicie o xogo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="673"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="683"/>
         <source>Server address:</source>
         <translation>Dirección do servidor:</translation>
     </message>
@@ -3572,43 +3582,43 @@ Por favor volvao a intentar.</translation>
         <translation>Configuración</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="342"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="345"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="352"/>
         <source>Path to %1 library file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="368"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
         <source>MangoHud could not be found on your system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
         <source>Select a Java version</source>
         <translation>Escoller versión de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="417"/>
         <source>Find Java executable</source>
         <translation>Atopar executable de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="514"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="518"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="517"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="521"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="524"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6146,47 +6156,47 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
         <source>&amp;Launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Launch &amp;Offline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Ctrl+Shift+O</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Launch &amp;Demo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
         <source>Ctrl+Alt+O</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="262"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="263"/>
         <source>Profilers</source>
         <translation type="unfinished">Analizadores</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="273"/>
         <source>&amp;No Profiler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="915"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESIÓN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="910"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="918"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TESTEMUÑA DE ACCESO&gt;</translation>
     </message>
@@ -6195,22 +6205,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;TESTEMUÑA DO CLIENTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="920"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;IDENTIFICADOR DO PERFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="978"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="986"/>
         <source>broken</source>
         <translation>roto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="989"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="997"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="994"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>, last played on %1 for %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6223,12 +6233,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">, anteriormente xogárase durante %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1009"/>
         <source>, total played for %1</source>
         <translation>, en total xogado %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1006"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1014"/>
         <source>, has crashed.</source>
         <translation>, quebrou.</translation>
     </message>
@@ -6355,6 +6365,16 @@ This can be updated only using a file in %1 format
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
+        <source>Use Zink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
         <translation>Tempo xogado</translation>
@@ -6417,24 +6437,24 @@ This can be updated only using a file in %1 format
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="146"/>
         <source>Path to %1 library file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="149"/>
         <source>Auto detected path: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
         <source>MangoHud could not be found on your system.</source>
         <translation type="unfinished"></translation>
     </message>

@@ -740,12 +740,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="759"/>
+        <location filename="src/launcher/Application.cpp" line="760"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="911"/>
+        <location filename="src/launcher/Application.cpp" line="912"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -772,12 +772,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 要刪除此鎖定並繼續，請點選下方的「忽略」。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="928"/>
+        <location filename="src/launcher/Application.cpp" line="929"/>
         <source>Update In Progress</source>
         <translation>更新進行中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="953"/>
+        <location filename="src/launcher/Application.cpp" line="954"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -792,12 +792,12 @@ for details on the last update attempt.</source>
 以取得有關上次更新嘗試的詳細資訊。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="961"/>
+        <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update Failed</source>
         <translation>更新失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="986"/>
+        <location filename="src/launcher/Application.cpp" line="987"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -812,12 +812,12 @@ for details.</source>
 以取得詳細資訊。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="994"/>
+        <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update Succeeded</source>
         <translation>更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1025"/>
+        <location filename="src/launcher/Application.cpp" line="1026"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -826,32 +826,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1027"/>
+        <location filename="src/launcher/Application.cpp" line="1028"/>
         <source>Incompatible system configuration</source>
         <translation>系統設定不相容</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1357"/>
+        <location filename="src/launcher/Application.cpp" line="1358"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1767"/>
+        <location filename="src/launcher/Application.cpp" line="1768"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>已找到來自 %1 的舊資料，但你已有 %2 的現有資料。遺憾的是，您將需要自己遷移。下次啟動 %2 時是否要提醒資料遷移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1771"/>
+        <location filename="src/launcher/Application.cpp" line="1772"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>看起來您以前使用過 %1。是否要將資料遷移到 %2 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1777"/>
+        <location filename="src/launcher/Application.cpp" line="1778"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>看起來您以前在 %2 上使用過 %1。是否要將資料遷移到 %3 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1820"/>
+        <location filename="src/launcher/Application.cpp" line="1821"/>
         <source>Migration failed! Reason: %1</source>
         <translation>遷移失敗！原因：%1</translation>
     </message>
@@ -3705,18 +3705,18 @@ Proceed with caution!</source>
         <translation type="vanished">停用 Quilt 載入器為計算月活躍使用者發出的遙測資料</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="688"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="698"/>
         <source>Override default account</source>
         <translation>覆蓋預設帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="708"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="718"/>
         <source>Account:</source>
         <translation>帳號：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="373"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="590"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="600"/>
         <source>Miscellaneous</source>
         <translation>其他</translation>
     </message>
@@ -3762,43 +3762,53 @@ Proceed with caution!</source>
         <translation>使用獨立顯示卡</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="596"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="573"/>
+        <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
+        <source>Use Zink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="606"/>
         <source>Legacy settings</source>
         <translation>舊版設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="608"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="618"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates 使用了不再維護的舊線上服務。&lt;/p&gt;&lt;p&gt;目前修復包含：外觀和線上模式支援&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="611"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="621"/>
         <source>Enable online fixes (experimental)</source>
         <translation>啟用線上修復（實驗性）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="624"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
         <source>Override global game time settings</source>
         <translation>遊戲時長</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="636"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
         <source>Show time spent playing this instance</source>
         <translation>顯示本實例遊玩時數</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="643"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
         <source>Record time spent playing this instance</source>
         <translation>紀錄本實例遊玩時數</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a server to join on launch</source>
         <translation>啟動遊戲後直接加入伺服器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="673"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="683"/>
         <source>Server address:</source>
         <translation>伺服器位址：</translation>
     </message>
@@ -3808,33 +3818,33 @@ Proceed with caution!</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="342"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="345"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="352"/>
         <source>Path to %1 library file</source>
         <translation>%1 函式庫檔案的路徑</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="368"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>在您的系統上找不到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>無法在此裝置上找到 MangoHud。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
         <source>Select a Java version</source>
         <translation>選擇 Java 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="417"/>
         <source>Find Java executable</source>
         <translation>尋找 Java 執行檔</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="524"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>您分配的最大記憶體小於最小記憶體容量</translation>
     </message>
@@ -3843,12 +3853,12 @@ Proceed with caution!</source>
         <translation type="vanished">沒有預設帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="514"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="518"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>您分配的最大記憶體超過系統記憶體容量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="517"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="521"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>您分配的最大記憶體接近系統記憶體容量。</translation>
     </message>
@@ -6694,47 +6704,47 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
         <source>&amp;Launch</source>
         <translation>啟動 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Launch &amp;Offline</source>
         <translation>離線啟動 (&amp;O)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Launch &amp;Demo</source>
         <translation>啟動試玩版 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="262"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="263"/>
         <source>Profilers</source>
         <translation>分析器</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="273"/>
         <source>&amp;No Profiler</source>
         <translation>無分析器 (&amp;N)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="915"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="910"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="918"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;存取權杖&gt;</translation>
     </message>
@@ -6743,22 +6753,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;用戶端權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="920"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;設定檔 ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="978"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="986"/>
         <source>broken</source>
         <translation>損壞</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="989"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="997"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="994"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>, last played on %1 for %2</source>
         <translation>，最後遊玩時間為 %1，持續了 %2</translation>
     </message>
@@ -6771,12 +6781,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">，上次已遊玩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1009"/>
         <source>, total played for %1</source>
         <translation>，總共遊玩了 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1006"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1014"/>
         <source>, has crashed.</source>
         <translation>，程式已崩潰。</translation>
     </message>
@@ -6910,6 +6920,16 @@ This can be updated only using a file in %1 format
         <translation>使用獨立顯示卡</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
+        <source>Use Zink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Game time</source>
         <translation>遊戲時間</translation>
@@ -6977,24 +6997,24 @@ This can be updated only using a file in %1 format
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="138"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="146"/>
         <source>Path to %1 library file</source>
         <translation>%1 函式庫檔案的路徑</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="141"/>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="149"/>
         <source>Auto detected path: %1</source>
         <translation>自動偵測路徑：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>在你的系統上找不到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>無法於此裝置上找到 MangoHud。</translation>
     </message>
