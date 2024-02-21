@@ -284,7 +284,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC là một launcher mà khiến cho việc quản lí Minecraft dễ dàng hơn bằng cách tạo ra nhiều phiên bản Minecraft khác nhau.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Prism Launcher là một launcher để giúp quản lí Minecraft dễ dàng hơn bằng cách tạo ra nhiều phiên bản Minecraft khác nhau.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -1874,12 +1874,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Kế hoạch bị huỷ</translation>
+        <translation>Tác vụ bị gián đoạn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Kế hoạch đã bị huỷ bởi người dùng.</translation>
+        <translation>Tác vụ đã bị gián đoạn bởi người dùng.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="153"/>
@@ -1907,7 +1907,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished">Gạch xuống</translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
@@ -2372,7 +2372,7 @@ Vui lòng thử lại.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lưu ý: Nếu thực thể FTB không nằm ở đường dẫn mặc định, nhấn nút bên cạnh tìm kiếm để chọn đường dẫn.</translation>
     </message>
 </context>
 <context>
@@ -2381,7 +2381,7 @@ Vui lòng thử lại.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="83"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="99"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2389,7 +2389,7 @@ Vui lòng thử lại.</translation>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang chép các tệp tin...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
@@ -2607,7 +2607,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="413"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Chú ý!&lt;/h1&gt;&lt;h4&gt; Pack ID của bạn hiện đang bị thiếu. Đây là một lỗi trong các phiên bản khởi chạy cũ.&lt;br/&gt; Chúng tôi cần thông tin này để yêu cầu các API cần thiết.&lt;br/&gt;&lt;br/&gt;Vì vậy, bạn sẽ cần tải lại gói mod bằng trình tải tích hợp sẵn để cho tính năng này hoạt động. &lt;br/&gt;&lt;br/&gt;Đừng lo, quá trình này sẽ yêu cầu bạn cập nhật thực thể này, cho nên nó sẽ không bị mất!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="475"/>
@@ -2617,7 +2617,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="539"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn tập tin cập nhật</translation>
     </message>
 </context>
 <context>
@@ -2674,22 +2674,22 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang tìm các tập tin...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>Không tìm được các tập tin</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang tìm các giá trị băm của tập tin...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang tìm các phiên phản của những giá trị băm...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
@@ -2700,12 +2700,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang tìm thông tin dự án từ CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang thêm tập tin...</translation>
     </message>
 </context>
 <context>
@@ -2911,7 +2911,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tải các mod cần thiết</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
@@ -3066,7 +3066,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Đường dẫn này là một modpack không hợp lệ!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
@@ -3094,22 +3094,22 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn thực thể để nhập vào</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn thực thể để cài gói tài nguyên.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn thực thể mà bạn muốn nhập %1 vào.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tập tin: %1</translation>
     </message>
 </context>
 <context>
@@ -3129,7 +3129,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="138"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Báo cáo vấn đề tới: </translation>
     </message>
 </context>
 <context>
@@ -3137,37 +3137,37 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Làm mới</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Cài Mod Loader</translation>
     </message>
 </context>
 <context>
@@ -3201,12 +3201,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
-        <translation>Sao chép phiên bản không thành công.</translation>
+        <translation>Sao chép thư mục instance không thành công.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Sao chép phiên bản đã bị hủy.</translation>
+        <translation>Quá trình sao chép thư mục instance đã bị hủy.</translation>
     </message>
 </context>
 <context>
@@ -3219,7 +3219,8 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã có lỗi xảy ra trong lúc tạo phiên bản mới:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="32"/>
@@ -3265,7 +3266,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Kho lưu trữ không chứa modpack đã cho.</translation>
+        <translation>Kho lưu trữ không chứa một modpack với định dạng phù hợp.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="205"/>
@@ -3275,7 +3276,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="227"/>
         <source>Could not fix permissions for %1</source>
-        <translation>Không thể sửa quyền hạn cho %1</translation>
+        <translation>Không thể sửa quyền truy cập cho %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -3427,7 +3428,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="64"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Nếu bật, PolyMC sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
+        <translation>Nếu bật, Prism Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
@@ -3472,7 +3473,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
         <source>PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">PermGen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
@@ -3498,7 +3499,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="277"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Khởi động Minecraft tối đa cửa sổ</translation>
+        <translation>Tối đa cửa sổ Minecraft khi khởi chạy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="286"/>
@@ -3536,12 +3537,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="385"/>
         <source>Close the launcher after game window opens</source>
-        <translation>Đóng PolyMC sau khi cửa sổ game mở</translation>
+        <translation>Đóng Prism Launcher sau khi mở cửa sổ trò chơi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="392"/>
         <source>Quit the launcher after game window closes</source>
-        <translation>Thoát PolyMC sau khi cửa sổ game đóng</translation>
+        <translation>Thoát Prism Launcher sau khi đóng cửa sổ trò chơi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="416"/>
@@ -3561,7 +3562,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="445"/>
         <source>Native libraries</source>
-        <translation>Thư viện native</translation>
+        <translation>Thư viện gốc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="464"/>
@@ -3581,7 +3582,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="688"/>
         <source>Override default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Ghi đè tài khoản mặc định</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="708"/>
@@ -3710,7 +3711,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="520"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Dung lượng bộ nhớ tối đa bạn đặc hiện đang nhỏ hơn giá trị tối thiểu</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3719,12 +3720,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="514"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Bộ nhớ tối đa mà bạn đặt vượt quá dung lượng bộ nhớ hệ thống của bạn.</translation>
+        <translation>Dung lượng bộ nhớ tối đa mà bạn đặt vượt quá dung lượng bộ nhớ hệ thống của bạn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="517"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dung lượng phân bố tối đa của bộ nhớ sắp bằng dung lượng bộ nhớ hệ thống.</translation>
     </message>
 </context>
 <context>
@@ -3740,12 +3741,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Chào mừng!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="486"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấn &quot;Phiên Bản Mới&quot; để bắt đầu.</translation>
     </message>
 </context>
 <context>
