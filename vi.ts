@@ -3756,7 +3756,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="486"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Nhấn &quot;Add Instance&quot; để bắt đầu.</translation>
+        <translation>Nhấn &quot;Tạo phiên bản mới&quot; để bắt đầu.</translation>
     </message>
 </context>
 <context>
@@ -5273,7 +5273,7 @@ Lý do:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation>Thêm phiên bản mới.</translation>
+        <translation>Tạo một phiên bản mới.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -5416,12 +5416,12 @@ Lý do:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="431"/>
         <source>Dele&amp;te</source>
-        <translation>Xóa(&amp;t)</translation>
+        <translation>Xóa (&amp;t)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
         <source>Cop&amp;y...</source>
-        <translation>Sao chép(&amp;y)...</translation>
+        <translation>Sao chép (&amp;y)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -5446,18 +5446,18 @@ Lý do:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Thêm phiên bản mới(&amp;e)...</translation>
+        <translation>Tạo phiên bản mới... (&amp;e)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation>Thư mục(&amp;o)</translation>
+        <translation>Thư mục (&amp;o)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="318"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>Cài đặt(&amp;n)...</translation>
+        <translation>Cài đặt (&amp;n)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="282"/>
@@ -5860,7 +5860,7 @@ Bạn có chắc không?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="422"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>Mở thư mục phiên bản root đã lựa chọn ở trong tệp trình duyệt.</translation>
+        <translation>Mở thư mục root của phiên bản đang chọn.</translation>
     </message>
     <message>
         <source>Export Instance</source>
