@@ -3850,7 +3850,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>환영합니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="486"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>시작하려면 &quot;인스턴스 추가&quot;를 클릭하세요.</translation>
     </message>

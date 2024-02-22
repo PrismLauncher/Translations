@@ -3714,7 +3714,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <translation>¡Bienvenido!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="486"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>Clickee &quot;Añadir instancia&quot; para empezar.</translation>
     </message>

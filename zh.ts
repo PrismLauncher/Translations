@@ -3888,7 +3888,7 @@ Proceed with caution!</source>
         <translation>欢迎！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="486"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>从点击“添加实例”开始。</translation>
     </message>

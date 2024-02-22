@@ -3575,7 +3575,7 @@ Please try again.</translation>
         <translation>Welcome!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="486"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>Click &quot;Add Instance&quot; to get started.</translation>
     </message>

@@ -3717,7 +3717,7 @@ Coba ulang lagi.</translation>
         <translation>Selamat Datang!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="486"/>
+        <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
         <translation>Klik &quot;Tambahkan Instansi&quot; untuk memulai.</translation>
     </message>
