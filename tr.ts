@@ -1910,12 +1910,12 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation>Modrinth paketini dışa aktar</translation>
+        <translation>Modrinth Paketini Dışa Aktar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
         <source>Export CurseForge Pack</source>
-        <translation>CurseForge paketini dışa aktar</translation>
+        <translation>CurseForge Paketini Dışa Aktar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
@@ -4372,7 +4372,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation>%1 için profilci denetimi başarısız oldu: %2</translation>
+        <translation>%1 profilleyici kontrolü başarısız: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
@@ -4657,7 +4657,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Mod bağımlılıklarının otomatik olarak algılanmasını, yüklenmesini ve güncellenmesini devre dışı bırak.</translation>
+        <translation>Uzantı bağımlılıklarının otomatik tespitini, yüklenmesini ve güncellenmesini devre dışı bırak.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="195"/>
