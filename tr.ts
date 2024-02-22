@@ -2408,12 +2408,12 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="114"/>
         <source>Sort by Name</source>
-        <translation>İsme Göre Sırala</translation>
+        <translation>İsme göre sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
         <source>Sort by Game Version</source>
-        <translation>Oyun Sürümüne Göre Sırala</translation>
+        <translation>Oyun sürümüne göre sırala</translation>
     </message>
 </context>
 <context>
