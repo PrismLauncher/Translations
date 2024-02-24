@@ -446,7 +446,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>ประเภทบัญชี (ไมโครซอฟต์ หรือออฟไลน์)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -613,7 +613,8 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="61"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>ยินดีต้อนรับ!
+หากคุณเพิ่งเข้ามาใหม่ คุณสามารถเลือกปุ่ม &quot;เพิ่ม ไมโครซอฟต์&quot; เพื่อเชื่อมโยงบัญชี ไมโครซอฟต์ ของคุณได้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
@@ -633,7 +634,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณต้องเพิ่มบัญชี ไมโครซอฟต์ ที่เป็นเจ้าของ Minecraft ก่อนจึงจะสามารถเพิ่มบัญชีออฟไลน์ได้&lt;br&gt;&lt;br&gt;หากคุณทำบัญชีหาย คุณสามารถติดต่อ Microsoft เพื่อขอรับการสนับสนุนได้</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -665,12 +666,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดบัญชี?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณต้องการลบบัญชีนี้จริง ๆ หรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -752,12 +753,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>การติดตั้งนี้มีไฟล์ล็อคการอัปเดตอยู่ที่: %1
+
+การประทับเวลา: %2
+กำลังอัปเดตจากเวอร์ชัน %3 เป็น %4
+เส้นทางการติดตั้งเป้าหมาย: %5
+เส้นทางข้อมูล: %6
+ซึ่งอาจหมายความว่าการพยายามอัปเดตล้มเหลว โปรดตรวจสอบให้แน่ใจว่าการติดตั้งของคุณอยู่ในสภาพใช้งานได้ก่อนดำเนินการต่อ
+ตรวจสอบบันทึกการอัพเดต Prism Launcher ได้ที่:
+%7
+สำหรับรายละเอียดเกี่ยวกับความพยายามในการอัปเดตครั้งล่าสุด
+
+หากต้องการลบการล็อคนี้และดำเนินการต่อ ให้เลือก &quot;เพิกเฉย&quot; ด้านล่าง</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="929"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>อยู่ระหว่างการปรับปรุง</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="954"/>
@@ -767,12 +779,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>ความพยายามในการอัปเดตล้มเหลว
+
+โปรดตรวจสอบให้แน่ใจว่าการติดตั้งของคุณอยู่ในสภาพใช้งานได้ก่อนดำเนินการต่อ
+ตรวจสอบบันทึกการอัพเดต Prism Launcher ได้ที่:
+%1
+สำหรับรายละเอียดเกี่ยวกับความพยายามในการอัปเดตครั้งล่าสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>การอัพเดทล้มเหลว</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="987"/>
@@ -782,12 +799,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตสำเร็จแล้ว
+
+ขณะนี้คุณกำลังเรียกใช้ %1
+ตรวจสอบบันทึกการอัพเดต Prism Launcher ได้ที่:
+%1
+เพื่อดูรายละเอียด</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>อัปเดตสำเร็จแล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1026"/>
