@@ -651,12 +651,12 @@
             "untranslated" : 0
         },
         "zh_TW" : {
-            "file" : "4d8d1ded3fc657b62fae9cdbf6d4e1f27dc9b14d.class",
-            "sha1" : "4d8d1ded3fc657b62fae9cdbf6d4e1f27dc9b14d",
-            "size" : 190122,
-            "translated" : 1861,
+            "file" : "778c27f1309142d038b9b291f81e9c32969712bc.class",
+            "sha1" : "778c27f1309142d038b9b291f81e9c32969712bc",
+            "size" : 190630,
+            "translated" : 1863,
             "fuzzy" : 0,
-            "untranslated" : 4
+            "untranslated" : 2
         }
     }
 }
