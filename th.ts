@@ -1047,7 +1047,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="53"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังทำงาน...</translation>
     </message>
 </context>
 <context>
@@ -1077,22 +1077,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; พบที่ %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="53"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดที่หายไป</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มโฟลเดอร์ดาวน์โหลด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกไดเร็กทอรีที่คุณดาวน์โหลดม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
@@ -1102,17 +1102,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;แฮช: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;โฟลเดอร์ Global Mods ที่กำหนดค่าไว้และโฟลเดอร์ดาวน์โหลดเริ่มต้นของคุณจะถูกตรวจสอบโดยอัตโนมัติสำหรับ Mods ที่ดาวน์โหลด และจะถูกคัดลอกไปยังอินสแตนซ์หากพบ&lt;/p&gt;&lt;p&gt;คุณสามารถเลือกได้ อาจลากและวาง mods ที่ดาวน์โหลดมาลงในกล่องโต้ตอบนี้หรือเพิ่มโฟลเดอร์เพื่อดูหากคุณไม่ได้ดาวน์โหลด mods ไปยังตำแหน่งเริ่มต้น&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์ที่ดู:</translation>
     </message>
 </context>
 <context>
@@ -1133,7 +1133,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="71"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบไลบรารีตัวตรวจสอบ Java กรุณาตรวจสอบการติดตั้งของคุณ</translation>
     </message>
 </context>
 <context>
@@ -1141,7 +1141,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกผู้ให้บริการม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -1166,7 +1166,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>พยายามใช้ผู้ให้บริการรายอื่นโดยอัตโนมัติหากผู้ให้บริการที่เลือกล้มเหลว</translation>
     </message>
 </context>
 <context>
@@ -1210,7 +1210,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="95"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถยกเลิกงานที่กำลังทำงานอยู่ทั้งหมด</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
