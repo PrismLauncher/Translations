@@ -1610,7 +1610,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
@@ -1690,7 +1690,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
@@ -1718,7 +1718,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">सेटिंग्स</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -1905,7 +1905,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="117"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">संदर्भ मेनू</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="201"/>
@@ -2013,7 +2013,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -2144,12 +2144,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="114"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">नाम के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Game Version के अनुसार क्रमबद्ध करें</translation>
     </message>
 </context>
 <context>
@@ -2321,13 +2321,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="495"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">अवरोधित (Blocked) मॉड्स पाए गए</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
@@ -2337,7 +2337,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 में से %2 पूर्ण हुए</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="598"/>
@@ -2367,7 +2367,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="590"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
     </message>
 </context>
 <context>
@@ -2461,7 +2461,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">लोकप्रियता के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
@@ -2473,7 +2473,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">नाम के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -2496,7 +2496,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
@@ -2692,7 +2692,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
@@ -2768,7 +2768,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;ताज़ा करें</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
@@ -3253,7 +3253,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">सेटिंग्स</translation>
     </message>
 </context>
 <context>
@@ -3307,7 +3307,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">बंद करें</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
@@ -3753,7 +3753,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="413"/>
@@ -4153,13 +4153,13 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">नाम के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Game Version के अनुसार क्रमबद्ध करें</translation>
     </message>
 </context>
 <context>
@@ -4218,7 +4218,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="135"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">modpack इंस्टॉल किया जा रहा है</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
@@ -4277,7 +4277,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="207"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="212"/>
@@ -4952,7 +4952,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">खाते</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="282"/>
@@ -5073,7 +5073,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1018"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="838"/>
@@ -5436,7 +5436,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="195"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="199"/>
@@ -5877,7 +5877,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="103"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">अज्ञात</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="116"/>
@@ -6031,7 +6031,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="284"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
@@ -6199,7 +6199,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="402"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
@@ -6317,7 +6317,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="360"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
@@ -6407,12 +6407,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="277"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 में से %2 पूर्ण हुए</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="282"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="377"/>
@@ -6505,7 +6505,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="187"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
@@ -6692,7 +6692,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">बंद करें</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -6755,7 +6755,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">उपयोगकर्ता नाम</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -6862,7 +6862,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="211"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="250"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="139"/>
@@ -7629,7 +7629,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">प्रकार</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
@@ -8132,7 +8132,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">लोकप्रियता के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
@@ -8143,7 +8143,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">नाम के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
@@ -8164,7 +8164,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Game Version के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
@@ -8256,7 +8256,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="138"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
@@ -8293,7 +8293,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
@@ -8649,7 +8649,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="78"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="82"/>
@@ -8783,7 +8783,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">संदर्भ मेनू</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="366"/>
@@ -9029,7 +9029,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="572"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">संदर्भ मेनू</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="703"/>
@@ -9065,7 +9065,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;ताज़ा करें</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -9093,7 +9093,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="70"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
@@ -9388,7 +9388,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
@@ -9470,7 +9470,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="80"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="84"/>
@@ -9870,7 +9870,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">संदर्भ मेनू</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
@@ -9900,7 +9900,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="359"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="405"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
@@ -10042,7 +10042,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">प्रकार</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
@@ -10125,7 +10125,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="97"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;ताज़ा करें</translation>
     </message>
 </context>
 <context>
@@ -10138,7 +10138,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">त्रुटि</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
@@ -10307,7 +10307,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="140"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">संदर्भ मेनू</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
