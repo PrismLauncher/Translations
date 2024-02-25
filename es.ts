@@ -6634,8 +6634,8 @@ Esto es permanente y borrará completamente la instancia.
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>Esto es un paquete de modificaciones local.
-Solo puede actualizarse mediante un archivo con el formato %1.
+        <translation>Este es un modpack local.
+Solo puede actualizarse mediante un archivo con formato %1
 </translation>
     </message>
     <message>
