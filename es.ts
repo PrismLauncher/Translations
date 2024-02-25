@@ -3766,7 +3766,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa el programa Zink.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="606"/>
@@ -6944,7 +6944,7 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa el programa Ziñk.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
