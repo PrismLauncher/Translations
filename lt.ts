@@ -443,7 +443,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paskyros tipas (MSA arba neprisijungęs)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -610,7 +610,8 @@ Jeigu jūs naujas čia, jūs galite paspausti &quot;Add&quot; mygtuką norint pr
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="61"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sveiki!
+Jeigu esate čia pirmą kartą, galite pasirinkti &quot;Pridėti Microsoft&quot; mygtuką, kad prijungti savo Microsoft paskyrą.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
@@ -630,7 +631,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Turite pridėti Microsoft paskyrą kuriai priklauso Minecraft prieš galint pridėti neprijungtą paskyrą.&lt;br&gt;&lt;br&gt;Jeigu praradote prieigą prie savo paskyros galite kreiptis į Microsoft dėl pagalbos.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -662,12 +663,12 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pašalinti paskyrą?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar tikrai norite pašalinti šią paskyrą?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -749,12 +750,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šiame diegime yra atnaujinimo užrakto failas, esantis adresu: %1
+
+Laiko žyma: %2
+Atnaujinama iš %3 versijos į %4
+Tikslinis diegimo kelias: %5
+Duomenų kelias: %6
+Tai greičiausiai reiškia, kad bandymas atnaujinti nepavyko. Prieš tęsdami įsitikinkite, kad įrenginys veikia.
+Patikrinkite Prism Launcher atnaujinimo žurnalą adresu:
+%7
+Norėdami gauti daugiau informacijos apie paskutinį bandymą atnaujinti.
+
+Norėdami ištrinti šį užraktą ir tęsti, toliau pasirinkite „Ignoruoti“.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="929"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykdomas atnaujinimas</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="954"/>
@@ -764,12 +776,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandymas atnaujinti nepavyko
+
+Prieš tęsdami įsitikinkite, kad įrenginys veikia.
+Patikrinkite Prism Launcher atnaujinimo žurnalą adresu:
+%1
+Norėdami gauti daugiau informacijos apie paskutinį bandymą atnaujinti.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Atnaujinimas nepavyko</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="987"/>
@@ -779,7 +796,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atnaujinimas pavyko
+
+Dabar naudojate %1 .
+Patikrinkite Prism Launcher atnaujinimo žurnalą adresu:
+%1
+dėl detalių.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="995"/>
