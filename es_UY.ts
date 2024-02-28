@@ -6549,7 +6549,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usa Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
