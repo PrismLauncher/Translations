@@ -8207,7 +8207,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="89"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comprobando actualizaciones...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="118"/>
@@ -9506,7 +9506,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comprobando dependencias...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -9555,7 +9555,8 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">¡La versión de API es muy antigua!
+¡Por favor actualiza %1!</translation>
     </message>
 </context>
 <context>
@@ -9907,7 +9908,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="82"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descarga detenida por el usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="88"/>
@@ -9963,17 +9964,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="60"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proveedor: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="67"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Requerido por: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="69"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Requerido por:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="84"/>
@@ -10359,7 +10360,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descarga detenida por el usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="80"/>
@@ -10779,7 +10780,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="84"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descarga detenida por el usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="90"/>
