@@ -2551,7 +2551,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Los siguientes archivos no pueden ser descargados desde launchers de terceros.&lt;br/&gt;Vas a tener que descargarlos manualmente y añadirlos a la instancia.</translation>
+        <translation>Los siguientes archivos no pueden ser descargados desde launchers de terceros.&lt;br/&gt;Descargarlos manualmente y añádelos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
