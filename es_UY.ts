@@ -3899,7 +3899,7 @@ Nota: Si no se encuentra un controlador Vulkan, el rendimiento por software ser�
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Si está habilitado, el lanzador no verificará si una instancia es compatible con la versión de Java seleccionada.</translation>
+        <translation>Si se activa, el lanzador no revisará si una instancia es compatible con la versión seleccionada de Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
