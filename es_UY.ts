@@ -3740,7 +3740,7 @@ Nota: Si no se encuentra un controlador Vulkan, el rendimiento por software ser�
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Matar</translation>
+        <translation>&amp;Forzar Cierre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
@@ -5396,7 +5396,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="354"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Matar</translation>
+        <translation>&amp;Forzar Cierre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
@@ -8207,19 +8207,20 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="89"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Comprobando actualizaciones...</translation>
+        <translation>Comprobando actualizaciones...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="118"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="139"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al verificar actualizaciones</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="119"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Error al iniciar después de 5 segundos
+Razón: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="140"/>
@@ -8231,12 +8232,12 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay actualizaciones disponibles</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya tienes la última versión</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
