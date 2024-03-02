@@ -3578,7 +3578,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
         <source>Enable Feral GameMode</source>
-        <translation>Activar Feral GameMode</translation>
+        <translation>Habilitar Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
@@ -3666,7 +3666,7 @@ Nota: Si no se encuentra un controlador Vulkan, el rendimiento por software ser√
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="368"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>El Modo de Juego Interactivo Feral no pudo ser encontrado en t√∫ sistema.</translation>
+        <translation>No se ha podido encontrar GameMode de Feral Interactive en tu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
