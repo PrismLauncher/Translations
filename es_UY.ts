@@ -2720,7 +2720,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Nota: CurseForge permite a los creadores bloquear el acceso a herramientas de terceros como Prism Launcher. Por ello, es posible que tengas que descargar manualmente algunos mods para poder instalar un modpack.</translation>
+        <translation>Nota: CurseForge permite a los creadores bloquear el acceso a herramientas de terceros como Prism Launcher. Como tal, es posible que deba descargar manualmente algunos mods para poder instalar un modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
