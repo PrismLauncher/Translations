@@ -3671,7 +3671,7 @@ Nota: Si no se encuentra un controlador Vulkan, el rendimiento por software ser√
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>No se pudo encontrar MangoHud en su sistema.</translation>
+        <translation>MangoHud no puede ser encontrado en t√∫ sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
