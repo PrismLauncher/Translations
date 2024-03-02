@@ -3221,7 +3221,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="32"/>
         <source>Error while creating new instance.</source>
-        <translation>Error cuando se creaba una nueva instancia.</translation>
+        <translation>Error creando una nueva instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="43"/>
@@ -3691,7 +3691,7 @@ Nota: Si no se encuentra un controlador Vulkan, el rendimiento por software ser�
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="521"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Tú memoria maxima asignada está demasiado cerca de la capacidad de memoria de tu sistema.</translation>
+        <translation>Su asignación de memoria máxima del juego se acerca a la capacidad máxima de su dispositivo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="524"/>
