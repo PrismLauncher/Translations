@@ -3501,12 +3501,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="385"/>
         <source>Close the launcher after game window opens</source>
-        <translation>Cerrar el lanzador luego de que la ventana del juego se abra</translation>
+        <translation>Cerrar el launcher después de que la ventana del juego se abra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="392"/>
         <source>Quit the launcher after game window closes</source>
-        <translation>Salir del lanzador luego de que la ventana del juego se cierre</translation>
+        <translation>Salir del launcher después de que la ventana del juego se cierre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="416"/>
