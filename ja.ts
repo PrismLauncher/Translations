@@ -2539,7 +2539,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="345"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>指定された上書きフォルダ(%1)がありません。このmodpackが以前に使われていた可能性があります</translation>
+        <translation>指定された上書きフォルダ(%1)がありません。このmodpackを以前に使用しませんでしたか？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
