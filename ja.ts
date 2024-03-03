@@ -5344,7 +5344,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="240"/>
         <source>More news...</source>
-        <translation>その他のニュース...</translation>
+        <translation>他のお知らせ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="243"/>
