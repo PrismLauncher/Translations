@@ -2549,7 +2549,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>パックのインポート中にMinecraftバージョン名末尾のドットが取り除かれました。</translation>
+        <translation>パックのインポート中にMinecraftバージョンからドットが削除されました。</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
