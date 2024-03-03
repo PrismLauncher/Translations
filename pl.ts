@@ -11220,7 +11220,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="90"/>
         <source>Abort</source>
-        <translation>Przerwano</translation>
+        <translation>Przerwaj</translation>
     </message>
 </context>
 <context>
@@ -11643,7 +11643,7 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="100"/>
         <source>Abort</source>
-        <translation>Przerwano</translation>
+        <translation>Przerwaj</translation>
     </message>
 </context>
 <context>
