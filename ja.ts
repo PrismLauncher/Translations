@@ -8241,7 +8241,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation>メモリ開放によるピクセルマップキャッシュミスの発生が速すぎたため、次の数の大きさまでキャッシュサイズが増加しました</translation>
+        <translation>メモリ開放によるピクセルマップキャッシュミスの発生が速すぎたため、次の大きさまでキャッシュサイズが増加しました</translation>
     </message>
 </context>
 <context>
@@ -8362,7 +8362,8 @@ Exit Code: %1</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="207"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>標準出力（StdOut）： %1
+標準エラー出力（StdErr）： %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
@@ -8517,13 +8518,14 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="653"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>マニフェストが空です。%1の内容を元に最適な内容を生成しています</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation type="unfinished"></translation>
+        <translation>以下を%1にインストールしています：
+・%2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="663"/>
@@ -8686,7 +8688,8 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1124"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>バックアップ中：
+・%1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
