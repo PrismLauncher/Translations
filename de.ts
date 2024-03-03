@@ -3900,7 +3900,7 @@ Achtung beim Fortfahren!</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte Staging-Ordner nicht anlegen</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
