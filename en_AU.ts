@@ -361,13 +361,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Unknown</translation>
+        <translation>Unknown</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
@@ -2747,7 +2747,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
@@ -2879,7 +2879,7 @@ Please try again.</translation>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished">A network error occurred. Could not load project dependencies:%1</translation>
+        <translation>A network error occurred. Could not load project dependencies:%1</translation>
     </message>
 </context>
 <context>
@@ -3498,12 +3498,12 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="573"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</translation>
+        <translation>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
         <source>Use Zink</source>
-        <translation type="unfinished">Use Zink</translation>
+        <translation>Use Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="606"/>
@@ -3514,7 +3514,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="618"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="621"/>
@@ -4410,22 +4410,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>Cat</source>
-        <translation type="unfinished">Cat</translation>
+        <translation>Cat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished">Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</translation>
+        <translation>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
@@ -5208,7 +5208,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
-        <translation type="unfinished">Status Bar</translation>
+        <translation>Status Bar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="318"/>
@@ -5219,42 +5219,42 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished">&amp;Instances</translation>
+        <translation>&amp;Instances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished">Open the instances folder in a file browser.</translation>
+        <translation>Open the instances folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished">Launcher &amp;Root</translation>
+        <translation>Launcher &amp;Root</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished">&amp;Central Mods</translation>
+        <translation>&amp;Central Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
         <source>Instance Icons</source>
-        <translation type="unfinished">Instance Icons</translation>
+        <translation>Instance Icons</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished">Open the instance icons folder in a file browser.</translation>
+        <translation>Open the instance icons folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>Logs</source>
-        <translation type="unfinished">Logs</translation>
+        <translation>Logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished">Open the logs folder in a file browser.</translation>
+        <translation>Open the logs folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="688"/>
@@ -5269,32 +5269,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished">&amp;Widget Themes</translation>
+        <translation>&amp;Widget Themes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished">Open the widget themes folder in a file browser.</translation>
+        <translation>Open the widget themes folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished">I&amp;con Theme</translation>
+        <translation>I&amp;con Theme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished">Open the icon theme folder in a file browser.</translation>
+        <translation>Open the icon theme folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="781"/>
         <source>Cat Packs</source>
-        <translation type="unfinished">Cat Packs</translation>
+        <translation>Cat Packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished">Open the cat packs folder in a file browser.</translation>
+        <translation>Open the cat packs folder in a file browser.</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -6062,7 +6062,7 @@ Do you wish to proceed?</numerusform>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation type="unfinished">This is a local modpack.
+        <translation>This is a local modpack.
 This can be updated only using a file in %1 format
 </translation>
     </message>
@@ -6284,7 +6284,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
@@ -6356,12 +6356,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
         <source>Use Zink</source>
-        <translation type="unfinished">Use Zink</translation>
+        <translation>Use Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -6690,7 +6690,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <source>Check for Updates</source>
-        <translation type="unfinished">Check for Updates</translation>
+        <translation>Check for Updates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="96"/>
@@ -6702,17 +6702,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">Verify Dependencies</translation>
+        <translation>Verify Dependencies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="unfinished">Try to update and check for missing dependencies all selected mods (all mods if none are selected)</translation>
+        <translation>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Reset update metadata</source>
-        <translation type="unfinished">Reset update metadata</translation>
+        <translation>Reset update metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="120"/>
@@ -6792,7 +6792,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirm Update</translation>
+        <translation>Confirm Update</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
@@ -6841,7 +6841,7 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Confirm Delete</translation>
+        <translation>Confirm Delete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
@@ -7438,7 +7438,7 @@ Please update %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="187"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
@@ -7448,7 +7448,7 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="276"/>
@@ -9454,18 +9454,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished">A network error occurred. Could not load project versions: %1</translation>
+        <translation>A network error occurred. Could not load project versions: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished">A network error occurred. Could not load project info: %1</translation>
+        <translation>A network error occurred. Could not load project info: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished">The request was aborted for an unknown reason</translation>
+        <translation>The request was aborted for an unknown reason</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
@@ -9526,7 +9526,7 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="204"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="209"/>
@@ -9694,7 +9694,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Confirm toggle</translation>
+        <translation>Confirm toggle</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
@@ -9935,7 +9935,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished">Toggle Dependencies</translation>
+        <translation>Toggle Dependencies</translation>
     </message>
 </context>
 <context>
@@ -10621,7 +10621,7 @@ inheritsFrom is missing</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
