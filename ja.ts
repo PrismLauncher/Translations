@@ -8840,7 +8840,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
         <source>Unhandled profile name status: %1</source>
-        <translation>未処理のアカウントネームの状態: %1</translation>
+        <translation>未処理のプロフィール名の状態: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
