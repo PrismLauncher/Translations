@@ -5302,7 +5302,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="676"/>
         <source>View information about %1.</source>
-        <translation>%1に関する情報を見る</translation>
+        <translation>%1に関する情報を見る。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
@@ -5621,7 +5621,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="652"/>
         <source>Open %1 Matrix space.</source>
-        <translation>%1のマトリックススペースを開く</translation>
+        <translation>%1のマトリックススペースを開く。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="703"/>
@@ -6864,7 +6864,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
         <source>Is the mod enabled?</source>
-        <translation>Modの有効 / 無効</translation>
+        <translation>Modが有効か？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="172"/>
@@ -8241,7 +8241,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished">メモリ開放によるピクセルマップキャッシュミスの発生が速すぎたため、次の数字の大きさまでキャッシュサイズが増加しました。</translation>
+        <translation>メモリ開放によるピクセルマップキャッシュミスの発生が速すぎたため、次の数の大きさまでキャッシュサイズが増加しました</translation>
     </message>
 </context>
 <context>
