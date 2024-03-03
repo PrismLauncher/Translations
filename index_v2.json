@@ -154,14 +154,6 @@
             "fuzzy" : 0,
             "untranslated" : 0
         },
-        "en_US" : {
-            "file" : "d408334a5dab426dc15d5d3f6babfbca8aea6f87.class",
-            "sha1" : "d408334a5dab426dc15d5d3f6babfbca8aea6f87",
-            "size" : 30,
-            "translated" : 0,
-            "fuzzy" : 0,
-            "untranslated" : 1866
-        },
         "eo" : {
             "file" : "aa0ada15ec5f3fdaafaf6e02a707ca7bea0d01ae.class",
             "sha1" : "aa0ada15ec5f3fdaafaf6e02a707ca7bea0d01ae",
