@@ -232,7 +232,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Järgnevad failid ei ole kolmanda osapoole käivitajatele allalaaditavad.&lt;br/&gt;Sa pead need käsitsi alla laadima ning eksemplari lisama.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -384,19 +384,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Võrgust väljas</translation>
+        <translation>Võrguta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Tundmatu</translation>
+        <translation>Tundmatu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
@@ -443,7 +443,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto tüüp (MSA või võrguta)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -2134,7 +2134,7 @@ Kas oled kindel?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinnita kustutamist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
@@ -2145,7 +2145,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="278"/>
         <source>Confirm disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinnita keelamist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
@@ -2377,7 +2377,7 @@ Palun proovi uuesti.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="73"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali FTBApp eksemplaride kaust</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
@@ -2791,7 +2791,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
         <source>Error</source>
-        <translation type="unfinished">Viga</translation>
+        <translation>Viga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
@@ -3594,7 +3594,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="543"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba Feral Interactive&apos;i GameMode, et potentsiaalselt mängimisjõudlust parendada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
@@ -3604,7 +3604,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba MangoHud&apos;i täpsem jõudluse ülekate.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="556"/>
@@ -3629,12 +3629,12 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasuta Zinki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="606"/>
         <source>Legacy settings</source>
-        <translation type="unfinished">Pärandseaded</translation>
+        <translation>Pärandseaded</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="618"/>
@@ -4556,12 +4556,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Läbipaistmatus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
@@ -5512,7 +5512,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Olekuriba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
@@ -5527,17 +5527,17 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Käivitaja &amp;juurkaust</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kesksed modid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksemplariikoonid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
@@ -5567,7 +5567,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vidinateemad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
@@ -6092,7 +6092,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1318"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 edukalt PATH-i lisatud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
@@ -6102,7 +6102,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 PATH-i lisamine ebaõnnestus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1323"/>
@@ -6205,12 +6205,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1176"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimeta grupp ümber</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1185"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppi ei saa ümber nimetada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1185"/>
@@ -6522,7 +6522,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, viimati mängitud %1 %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -6607,7 +6607,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Luba võrguparandused (katsetusjärgus)</translation>
+        <translation>Luba võrguparandused (katsetusjärgus)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
@@ -6679,7 +6679,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasuta Zinki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -6752,7 +6752,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="139"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="146"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">%1 teegi failitee</translation>
+        <translation>%1 teegi failitee</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
@@ -7111,7 +7111,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinnita kustutamist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
@@ -7167,7 +7167,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinnita uuendamist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
@@ -7464,7 +7464,7 @@ Palun uuenda %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uus versiooniliik: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
@@ -7824,7 +7824,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="187"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="242"/>
         <source>Error</source>
-        <translation type="unfinished">Viga</translation>
+        <translation>Viga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
@@ -8149,7 +8149,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali valikulised modid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
@@ -8546,7 +8546,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>kaust</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
@@ -8561,7 +8561,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>versiooninimi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
@@ -8571,7 +8571,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHubi hoidla URL</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
@@ -8622,7 +8622,7 @@ StdErr: %2</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="254"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Mittetoetatud paigaldus</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
@@ -8716,7 +8716,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="711"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uuendus õnnestus.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
