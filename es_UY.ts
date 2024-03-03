@@ -1794,33 +1794,33 @@ Algunas versiones de Minecraft podrían no iniciar.
         <translation>&amp;Descripción</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>&amp;Summary</source>
         <translation>&amp;Sumario</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
         <translation>&amp;Nombre</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Version</source>
         <translation>&amp;Versión</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="89"/>
         <source>&amp;Options</source>
         <translation>&amp;Opciones</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
         <source>&amp;Files</source>
         <translation>&amp;Archivos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
         <source>&amp;Mark disabled files as optional</source>
         <translation>%Marcar archivos desactivados como opcionales</translation>
     </message>
@@ -1829,7 +1829,7 @@ Algunas versiones de Minecraft podrían no iniciar.
         <translation type="obsolete">Versión</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="62"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>1.0.0</source>
         <translation>1.0.0</translation>
     </message>
@@ -1839,38 +1839,38 @@ Algunas versiones de Minecraft podrían no iniciar.
         <translation>Exportar paquete de Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="56"/>
         <source>Export CurseForge Pack</source>
         <translation>Exportar Paquete de CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="73"/>
         <source>&amp;Author</source>
         <translation>&amp;Autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="138"/>
         <source>Export %1</source>
         <translation type="unfinished">Exportar %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>Task aborted</source>
         <translation>Tarea abortada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>The task has been aborted by the user.</source>
         <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="153"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
@@ -3337,7 +3337,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="184"/>
+        <location filename="src/launcher/InstanceList.cpp" line="185"/>
         <source>%1 Instance</source>
         <translation>Instancia %1</translation>
     </message>
@@ -3702,7 +3702,12 @@ Nota: Si no se encuentra un controlador Vulkan, el rendimiento por software ser�
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="897"/>
+        <location filename="src/launcher/InstanceList.cpp" line="890"/>
+        <source>Could not create staging folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceList.cpp" line="908"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Error al confirmar la instancia, incluso después de varios reintentos. Algo lo está bloqueando.</translation>
     </message>

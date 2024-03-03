@@ -1842,33 +1842,33 @@ Some versions of Minecraft may not launch.
         <translation>Опис</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>&amp;Summary</source>
         <translation>&amp;Підсумок</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
         <translation>&amp;Назва</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Version</source>
         <translation>&amp;Версія</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="89"/>
         <source>&amp;Options</source>
         <translation>&amp;Налаштування</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
         <source>&amp;Files</source>
         <translation>&amp;Файли</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
         <source>&amp;Mark disabled files as optional</source>
         <translation>&amp;Позначити вимкнені файли як необов’язкові</translation>
     </message>
@@ -1877,7 +1877,7 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">Версія</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="62"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>1.0.0</source>
         <translation>1.0.0</translation>
     </message>
@@ -1891,38 +1891,38 @@ Some versions of Minecraft may not launch.
         <translation>Експорт збірки Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="56"/>
         <source>Export CurseForge Pack</source>
         <translation>Експорт збірки CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="73"/>
         <source>&amp;Author</source>
         <translation>&amp;Автор</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="138"/>
         <source>Export %1</source>
         <translation>Експортування %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>Task aborted</source>
         <translation>Процес перервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>The task has been aborted by the user.</source>
         <translation>Процес було перервано користувачем.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="153"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>Abort</source>
         <translation>Перервати</translation>
     </message>
@@ -3426,7 +3426,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="184"/>
+        <location filename="src/launcher/InstanceList.cpp" line="185"/>
         <source>%1 Instance</source>
         <translation>Збірка %1</translation>
     </message>
@@ -3806,7 +3806,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="897"/>
+        <location filename="src/launcher/InstanceList.cpp" line="890"/>
+        <source>Could not create staging folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceList.cpp" line="908"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Не вдалося створити збірку навіть після декількох спроб. Щось заважає.</translation>
     </message>

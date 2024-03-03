@@ -1814,33 +1814,33 @@ Some versions of Minecraft may not launch.
         <translation>&amp;Kirjeldus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>&amp;Summary</source>
         <translation>&amp;Kokkuvõte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
         <translation>&amp;Nimi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Version</source>
         <translation>&amp;Versioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="72"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="89"/>
         <source>&amp;Options</source>
         <translation>&amp;Valikud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
         <source>&amp;Files</source>
         <translation>&amp;Failid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
         <source>&amp;Mark disabled files as optional</source>
         <translation>&amp;Märgista keelatud failid valikuliseks</translation>
     </message>
@@ -1849,7 +1849,7 @@ Some versions of Minecraft may not launch.
         <translation type="vanished">Versioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="62"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>1.0.0</source>
         <translation>1.0.0</translation>
     </message>
@@ -1863,38 +1863,38 @@ Some versions of Minecraft may not launch.
         <translation>Ekspordi Modrinthi pakk</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="56"/>
         <source>Export CurseForge Pack</source>
         <translation>Ekspordi CurseForge apkk</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="53"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="73"/>
         <source>&amp;Author</source>
         <translation>&amp;Autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="120"/>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="138"/>
         <source>Export %1</source>
         <translation>Ekspordi %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Error</source>
         <translation>Viga</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>Task aborted</source>
         <translation>Tegevus tühistatud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>The task has been aborted by the user.</source>
         <translation>Tegevus on kasutaja poolt tühistatud.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="153"/>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>Abort</source>
         <translation>Katkesta</translation>
     </message>
@@ -3346,7 +3346,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="184"/>
+        <location filename="src/launcher/InstanceList.cpp" line="185"/>
         <source>%1 Instance</source>
         <translation>%1 eksemplar</translation>
     </message>
@@ -3726,7 +3726,12 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="897"/>
+        <location filename="src/launcher/InstanceList.cpp" line="890"/>
+        <source>Could not create staging folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceList.cpp" line="908"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation type="unfinished"></translation>
     </message>
