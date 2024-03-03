@@ -2549,7 +2549,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>パックのインポート中にMinecraftバージョンからドットが削除されました。</translation>
+        <translation>パックのインポート中にMinecraftバージョンからドットを削除しました。</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3735,7 +3735,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>&quot;起動構成を追加&quot;を押して開始してください。</translation>
+        <translation>「起動構成を追加」を押して開始してください。</translation>
     </message>
 </context>
 <context>
