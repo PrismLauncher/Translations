@@ -3826,7 +3826,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa staging mapp</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
