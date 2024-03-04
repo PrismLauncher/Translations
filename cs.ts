@@ -3858,7 +3858,7 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vytvořit vývojovou složku</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
