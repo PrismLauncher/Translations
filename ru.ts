@@ -3908,7 +3908,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось создать промежуточную папку</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
