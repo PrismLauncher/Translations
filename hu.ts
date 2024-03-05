@@ -3834,7 +3834,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült létrehozni az átmeneti mappát</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
