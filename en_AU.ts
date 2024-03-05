@@ -3602,7 +3602,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not create staging folder</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
@@ -6807,7 +6807,7 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished">Updating mods while the game is running may cause mod duplication and game crashes.
+        <translation>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</translation>
     </message>
@@ -6852,7 +6852,7 @@ Are you sure?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished">If you remove mods while the game is running it may crash your game.
+        <translation>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</translation>
     </message>
     <message>
@@ -9705,7 +9705,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished">If you enable/disable this resource while the game is running it may crash your game.
+        <translation>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</translation>
     </message>
     <message>
