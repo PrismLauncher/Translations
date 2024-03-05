@@ -9239,7 +9239,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
         <source>%1 (in use)</source>
-        <translation>%1 (이미 사용중)</translation>
+        <translation>%1 (이미 사용 중)</translation>
     </message>
 </context>
 <context>
@@ -9459,7 +9459,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="137"/>
         <source>%1 (in use)</source>
-        <translation>%1 (이미 사용중)</translation>
+        <translation>%1 (이미 사용 중)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
