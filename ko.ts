@@ -3839,7 +3839,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>스테이징 폴더를 만들 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
