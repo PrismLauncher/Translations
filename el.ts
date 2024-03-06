@@ -3022,13 +3022,18 @@ Please try again.</source>
         <translation>Ακύρωση</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="204"/>
+        <source>Supported files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="207"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="208"/>
         <source>Choose modpack</source>
         <translation>Επιλέξτε modpack</translation>
     </message>
@@ -5007,8 +5012,8 @@ Reason:
         <translation>Κάτω</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <source>Minecraft Log</source>
         <translation>Αρχείο καταγραφής Minecraft</translation>
     </message>
@@ -9003,8 +9008,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Μή έγκυρη διαδρομή για JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>Η διαδρομή δεν υπάρχει</translation>
     </message>
