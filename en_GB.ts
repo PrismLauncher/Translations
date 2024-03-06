@@ -3890,7 +3890,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not create staging folder</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
