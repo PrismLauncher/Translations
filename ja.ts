@@ -7076,7 +7076,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished">メタデータが無効になっているModのアップデートは利用できません！</translation>
+        <translation>メタデータが無効になっているModのアップデートは利用できません！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
