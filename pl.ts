@@ -3196,7 +3196,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="204"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsługiwane pliki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="207"/>
