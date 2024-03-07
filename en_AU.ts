@@ -3032,7 +3032,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="204"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>Supported files</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="207"/>
