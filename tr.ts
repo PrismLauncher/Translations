@@ -3153,7 +3153,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="204"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>Desteklenen dosyalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="207"/>
@@ -3852,7 +3852,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşama klasörü oluşturulamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
@@ -8231,7 +8231,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="67"/>
         <source>Requesting %1</source>
-        <translation>1% talep ediliyor</translation>
+        <translation>%1 talep ediliyor</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
