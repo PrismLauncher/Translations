@@ -3889,7 +3889,7 @@ Procéder avec prudence!</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de créer un dossier de transit</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
