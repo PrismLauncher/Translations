@@ -1216,17 +1216,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>检测到了冲突的前置！</translation>
+        <translation>检测到了冲突的前置 Mod！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>实例包含冲突的前置。</translation>
+        <translation>实例包含冲突的前置 Mod。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="455"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>实例在加载/检查启动时发现了未解决的前置。</translation>
+        <translation>实例在启动前加载/检查时发现了未安装的前置 Mod。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
@@ -7388,12 +7388,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Verify Dependencies</source>
-        <translation>检验前置 Mod</translation>
+        <translation>同时更新前置 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>尝试更新并检查选定的 Mod（默认全选）是否缺少前置 Mod</translation>
+        <translation>尝试检查并更新选定的 Mod（默认全选）是否缺少前置 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -7826,7 +7826,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="438"/>
         <source>Required by:</source>
-        <translation>为以下 Mod 的前置：</translation>
+        <translation>为以下 Mod 的前置 Mod：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="452"/>
@@ -10236,7 +10236,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
         <source>Checking for dependencies...</source>
-        <translation>正在检查前置……</translation>
+        <translation>正在检查前置 Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -10730,7 +10730,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="67"/>
         <source>Required by: %1</source>
-        <translation>%1 的前置</translation>
+        <translation>%1 的前置 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="69"/>
