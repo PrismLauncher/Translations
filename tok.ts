@@ -280,7 +280,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="321"/>
         <source>Close</source>
-        <translation>o weka</translation>
+        <translation>o pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
@@ -378,7 +378,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation>sona jan</translation>
+        <translation>nimi pi sijelo jan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
@@ -388,7 +388,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Status</source>
-        <translation>pali jan</translation>
+        <translation>pona jan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
@@ -522,12 +522,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation>selo weka</translation>
+        <translation>weka selo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Failed to delete current skin!</source>
-        <translation>ken ala weka e selo pi tenpo ni!</translation>
+        <translation>mi weka ala e selo ni!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
@@ -619,7 +619,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1288"/>
         <source>Aborted</source>
-        <translation>weka</translation>
+        <translation>pini</translation>
     </message>
 </context>
 <context>
@@ -638,7 +638,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation>weka</translation>
+        <translation>pini</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -876,7 +876,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation>weka</translation>
+        <translation>pini</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1362,7 +1362,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation>weka</translation>
+        <translation>pini</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
@@ -2311,7 +2311,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <source>Close</source>
-        <translation>o weka</translation>
+        <translation>o pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="153"/>
@@ -2641,7 +2641,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="243"/>
         <source>Cancel</source>
-        <translation>o weka</translation>
+        <translation>o pini</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
@@ -2730,7 +2730,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="452"/>
         <source>Abort</source>
-        <translation>o weka</translation>
+        <translation>o pini</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="468"/>
@@ -2848,7 +2848,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="206"/>
         <source>User Interface</source>
-        <translation>lukin ilo</translation>
+        <translation>selo ilo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
@@ -2869,7 +2869,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
         <source>Theme</source>
-        <translation>lukin</translation>
+        <translation>selo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
@@ -3235,7 +3235,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="399"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>sina wile weka ala weka e ijo %1?</translation>
+        <translation>sina wile a weka e ijo %1 anu seme?</translation>
     </message>
 </context>
 <context>
@@ -3267,7 +3267,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation>weka</translation>
+        <translation>pini</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -3536,7 +3536,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>o open e lipu Wesi pi ilo Prism Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
@@ -3599,7 +3599,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>nasin musi... (&amp;N)</translation>
+        <translation>nasin... (&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
@@ -3985,7 +3985,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1660"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
         <source>Abort</source>
-        <translation>o weka</translation>
+        <translation>o pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
@@ -4099,7 +4099,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="373"/>
         <source>Open %1 Discord guild.</source>
-        <translation>o open e kulupu Discord pi %1.</translation>
+        <translation>o open e ma Siko pi ilo %1.</translation>
     </message>
 </context>
 <context>
@@ -4123,7 +4123,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation>weka</translation>
+        <translation>pini</translation>
     </message>
 </context>
 <context>
@@ -4723,7 +4723,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="345"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>kulupu Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>ma Siko: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5085,7 +5085,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>kulupu Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>ma Siko: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
