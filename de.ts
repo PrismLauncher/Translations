@@ -116,7 +116,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished">Services</translation>
+        <translation>Dienste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
