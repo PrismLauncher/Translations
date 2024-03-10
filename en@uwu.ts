@@ -18,17 +18,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>Bwase &amp;UWW</translation>
+        <translation>Bwase &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nyote: you pwobabwy wobabwy want to change ow cweaw the Base UwURL aftew changing the pwaste swervice type.</translation>
+        <translation>Nyote: u pwobabwy wobabwy want to change ow queer the Base UwURL aftew changing the pwaste swervice type.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>APWI Kweys</translation>
+        <translation>API Kweys</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Nyote: you pwobabwy wobabwy don&apos;t nyeed to set this if logging in via Micwosoft Authenticwation awweady wowks.</translation>
+        <translation>Nyote: u pwobabwy wobabwy don&apos;t nyeed to set this if logging in via Micwosoft Authenticwation awweady wowrks,,,,</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
