@@ -2316,7 +2316,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="153"/>
         <source>Kill</source>
-        <translation>o moli</translation>
+        <translation>o pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="155"/>
@@ -2540,7 +2540,8 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ilo Java pona li weka tan ilo sina
+o luka e ilo wan tan lipu anpa. ken ante la sina alasa e ilo Java ante</translation>
     </message>
 </context>
 <context>
@@ -2556,7 +2557,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>sina lukin ala lukin e toki sina? pona toki sina li ike anu seme?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;o toki ante wan kepeken mi!&lt;/a&gt;</translation>
+        <translation>sina lukin ala e toki sina anu seme? pona toki li ike anu seme?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;o pali toki kepeken ni!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -2569,7 +2570,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="47"/>
         <source>Select the language to use in %1</source>
-        <translation>o wile e toki kepeken ni: %1</translation>
+        <translation>o luka e toki sina</translation>
     </message>
 </context>
 <context>
@@ -2734,7 +2735,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="468"/>
         <source>Kill Minecraft?</source>
-        <translation>sina wile ala wile moli e musi Manka?</translation>
+        <translation>sina wile pini e musi Manka anu seme?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="469"/>
@@ -3381,7 +3382,7 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>sina moli e musi.</translation>
+        <translation>sina pini e musi.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="124"/>
@@ -3468,7 +3469,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>Kill the running instance</source>
-        <translation>o moli e ijo musi lon</translation>
+        <translation>o pini e ijo musi lon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1228"/>
@@ -3546,7 +3547,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="467"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="881"/>
         <source>Help</source>
-        <translation>ni li seme?</translation>
+        <translation>&quot;ni li seme a?&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="468"/>
@@ -3576,7 +3577,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
         <source>&amp;Kill</source>
-        <translation>o moli (&amp;K)</translation>
+        <translation>o pini (&amp;K)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
@@ -7281,7 +7282,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>ilo</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
