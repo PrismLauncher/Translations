@@ -1190,7 +1190,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>o open e poki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
@@ -1205,7 +1205,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished">o alasa e sin &amp;musi</translation>
+        <translation>o alasa e sin musi (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
@@ -1756,7 +1756,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>o alasa...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
@@ -2118,17 +2118,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
         <source>Start Minecraft maximized?</source>
-        <translation>musi Manka li kama open la ona o suli anu seme?</translation>
+        <translation>musi Manka o suli a lon open anu seme?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>sewi en anpa o weka seme (&amp;H) (px):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="275"/>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>poka tu ante o &amp;weka seme (px):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="319"/>
@@ -2296,7 +2296,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="84"/>
         <source>Help</source>
-        <translation>pona</translation>
+        <translation>&quot;nasin li seme?&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
@@ -2321,7 +2321,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="155"/>
         <source>Kill the running instance</source>
-        <translation>o milo e ijo musi lon</translation>
+        <translation>o pini e musi lon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
@@ -2397,7 +2397,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="93"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>musi Manka li suli ni lon open.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
@@ -2407,7 +2407,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="150"/>
         <source>Java Runtime</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ilo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
@@ -3301,7 +3301,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
         <source>Wrap lines</source>
-        <translation>toki o ken ala ken lon linja tu anu linja mute</translation>
+        <translation>toki li ken lon linja tu anu linja mute</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -3331,7 +3331,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
         <source>Clear</source>
-        <translation type="unfinished">o weka</translation>
+        <translation>o weka e toki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="125"/>
@@ -3599,7 +3599,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>nasin... (&amp;N)</translation>
+        <translation>&amp;nasin...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
@@ -4187,7 +4187,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="48"/>
         <source>Window Size</source>
-        <translation type="unfinished"></translation>
+        <translation>suli pi musi Manka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
@@ -4923,7 +4923,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="223"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mi kama e namako...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="225"/>
@@ -5673,7 +5673,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
-        <translation>pona (&amp;D)</translation>
+        <translation>nasin open (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
@@ -5983,7 +5983,7 @@ Please let us know why and how this happened.</source>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="100"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>kepeken toki pona tawa ni</translation>
+        <translation>jan ni kin li pona a:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="122"/>
@@ -6172,7 +6172,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="54"/>
         <source>Resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>selo musi</translation>
     </message>
 </context>
 <context>
@@ -7168,7 +7168,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Change %1 version</source>
-        <translation>o ante e nanpa pi %1</translation>
+        <translation>o ante e nanpa pi ijo %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
@@ -7337,7 +7337,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="199"/>
         <source>Recommended</source>
-        <translation>pona</translation>
+        <translation>nasin pona</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
@@ -7427,12 +7427,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="65"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>pali ken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="97"/>
         <source>Add</source>
-        <translation>o pali</translation>
+        <translation>o pana e ma tawa mi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="102"/>
@@ -7447,12 +7447,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>o weka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
         <source>MCEdit</source>
-        <translation>ilo MCEdit</translation>
+        <translation>o ilo MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
