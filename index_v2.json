@@ -27,12 +27,12 @@
             "untranslated" : 1829
         },
         "be" : {
-            "file" : "dbb7ca9fa2413a96afcfc46f0c27460a04caa978.class",
-            "sha1" : "dbb7ca9fa2413a96afcfc46f0c27460a04caa978",
-            "size" : 65994,
-            "translated" : 362,
+            "file" : "98327ce0e6e63eba32e42391cc5e9f443cfa463d.class",
+            "sha1" : "98327ce0e6e63eba32e42391cc5e9f443cfa463d",
+            "size" : 66043,
+            "translated" : 363,
             "fuzzy" : 162,
-            "untranslated" : 1343
+            "untranslated" : 1342
         },
         "bg" : {
             "file" : "8f120d00ff917e05fd6b372f42ae0d33e7e8dad2.class",
@@ -75,12 +75,12 @@
             "untranslated" : 1720
         },
         "da" : {
-            "file" : "e5dd7e503d7a071c5df9f2feab0025e22b7e444c.class",
-            "sha1" : "e5dd7e503d7a071c5df9f2feab0025e22b7e444c",
-            "size" : 113469,
-            "translated" : 801,
-            "fuzzy" : 55,
-            "untranslated" : 1011
+            "file" : "0184931490bfbf2debba7eabd20aac289624d76a.class",
+            "sha1" : "0184931490bfbf2debba7eabd20aac289624d76a",
+            "size" : 118007,
+            "translated" : 819,
+            "fuzzy" : 51,
+            "untranslated" : 997
         },
         "de" : {
             "file" : "aa9b3c65b1550ce52a3a3b798f11dd5b0df79cb6.class",
@@ -91,12 +91,12 @@
             "untranslated" : 0
         },
         "de_CH" : {
-            "file" : "3c223b15f72e9cdb3676794f748a12d2df86c732.class",
-            "sha1" : "3c223b15f72e9cdb3676794f748a12d2df86c732",
-            "size" : 97724,
+            "file" : "219faad1a42ec693902fdf6199afb810b2c3712d.class",
+            "sha1" : "219faad1a42ec693902fdf6199afb810b2c3712d",
+            "size" : 97828,
             "translated" : 596,
-            "fuzzy" : 188,
-            "untranslated" : 1083
+            "fuzzy" : 189,
+            "untranslated" : 1082
         },
         "el" : {
             "file" : "4a4cc052074d4b64aa93eae170d18147cd9d2010.class",
