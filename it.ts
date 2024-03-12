@@ -2436,7 +2436,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: se le istanze di FTB non si trovano nella posizione predefinita, selezionatela utilizzando il pulsante accanto alla ricerca.</translation>
     </message>
 </context>
 <context>
@@ -3843,7 +3843,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare la cartella di staging</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
