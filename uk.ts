@@ -2415,7 +2415,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="73"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть каталог екземплярів FTBApp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
@@ -3135,7 +3135,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="204"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтримувані файли</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="207"/>
@@ -3714,7 +3714,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="606"/>
@@ -3813,7 +3813,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося створити проміжну папку</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
@@ -5629,7 +5629,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Центральні модифікації</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
@@ -6843,7 +6843,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -8360,12 +8360,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
         <source>Deselect All</source>
-        <translation type="unfinished">Відмінити виділення всього</translation>
+        <translation>Зніміть виділення з усіх</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невідмічені моди будуть вимкнені.</translation>
     </message>
 </context>
 <context>
@@ -8700,27 +8700,27 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає Доступного Оновлення</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
         <source>You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви використовуєте останню версію.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="176"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка перевірки оновлення</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="177"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виникла помилка під час перевірки оновлення.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="204"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Невідома помилка оновлення</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="205"/>
@@ -8737,7 +8737,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="301"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Наразі немає нових оновлень.</translation>
     </message>
 </context>
 <context>
@@ -8745,12 +8745,12 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте власний шлях як корінь програми (використовуйте &apos;.&apos; для поточного каталогу).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>каталог</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
@@ -8760,12 +8760,12 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>встановлена версія лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>назва версії</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
@@ -8775,27 +8775,27 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>URL-адреса сховища github</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>Тільки перевірте, чи потрібне оновлення. Статус виходу 100, якщо істина, 0, якщо невірно (або не 0, якщо була помилка).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволити оновлення до попередніх версій</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Примусово виконати оновлення, навіть якщо воно не потрібне.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Список доступних релізів.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="235"/>
@@ -8805,28 +8805,28 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть версію для встановлення за допомогою графічного інтерфейсу.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозвольте програмі оновлення повернутися до попередніх версій.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>MacOS не підтримується</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Програма оновлення не підтримує встановлення на MacOS</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="254"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
         <source>Unsupported Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Непідтримуване встановлення</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
@@ -8836,7 +8836,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Програма оновлення не може знайти основний виконуваний файл.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="368"/>
@@ -8856,22 +8856,22 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення flatpack не підтримується</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дії, що виходять за рамки перевірки наявності оновлення, не підтримуються під час запуску flatpak-версії Prism Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Updating Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення Не Підтримується</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="591"/>
         <source>Updating non-portable linux installations is not supported. Please use your system package manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення непортабельних інсталяцій linux не підтримується. Будь ласка, скористайтеся вашим системним менеджером пакунків</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="641"/>
