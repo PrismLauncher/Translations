@@ -8903,8 +8903,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Unbekannte Format-Version!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Leerer Pfad</translation>
     </message>
@@ -8914,8 +8914,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Ungültiger Pfad zur JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <source>Path does not exist</source>
         <translation>Pfad existiert nicht</translation>
     </message>

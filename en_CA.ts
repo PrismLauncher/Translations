@@ -8499,8 +8499,8 @@ Choose your name carefully:</translation>
         <translation>Path is empty</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
         <source>Path does not exist</source>
         <translation>Path does not exist</translation>
     </message>
@@ -8510,8 +8510,8 @@ Choose your name carefully:</translation>
         <translation>Path does not seem to be a MCEdit path</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Empty path</translation>
     </message>
