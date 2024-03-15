@@ -5776,7 +5776,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation>Otwórz folder z ikonami instancji w przeglądarce plików.</translation>
+        <translation>Otwórz folder ikon instancji w przeglądarce plików.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
