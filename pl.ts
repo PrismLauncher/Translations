@@ -3805,12 +3805,12 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="573"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj Zink, sterownika dla OpenGL Mesa, który jest kompatybilny z Vulkan. Wydajność może zależeć od danej sytuacji. Uwaga: Jeśli oprogramowanie nie znajdzie sterownika Vulkan, renderowanie oprogramowania zostanie użyte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="606"/>
@@ -3909,7 +3909,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można było stworzyć folderu przejściowego</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
@@ -6995,12 +6995,12 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Użyj Zink, sterownika dla OpenGL Mesa, który jest kompatybilny z Vulkan. Wydajność może zależeć od danej sytuacji. Uwaga: Jeśli oprogramowanie nie znajdzie sterownika Vulkan, renderowanie oprogramowania zostanie użyte.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
