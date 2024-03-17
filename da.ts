@@ -1515,7 +1515,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="263"/>
         <source>Refresh</source>
-        <translation>Opdater</translation>
+        <translation>Opdatér</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
