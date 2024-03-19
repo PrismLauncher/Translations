@@ -650,17 +650,17 @@ Ef þú ert nýr hér geturðu valið hnappinn „Bæta við Microsoft“ til a�
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Villa kom upp við auðkenningu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mistókst að auðkenna. Þingið er útrunnið.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mistókst að auðkenna. Reikningurinn er ekki lengur til.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
@@ -670,7 +670,7 @@ Ef þú ert nýr hér geturðu valið hnappinn „Bæta við Microsoft“ til a�
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Óþekkt verkefnastaða reiknings: %1</translation>
     </message>
 </context>
 <context>
@@ -694,12 +694,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Þessi uppsetning er með uppfærslulásskrá til staðar á: %1
+
+Tímastimpill: %2
+Uppfærir úr útgáfu %3 í %4
+Markuppsetningarslóð: %5
+Gagnaslóð: %6
+Þetta þýðir líklega að uppfærslutilraun mistókst. Gakktu úr skugga um að uppsetningin þín sé í lagi áður en þú heldur áfram.
+Athugaðu uppfærsluskrá Prism Launcher á:
+%7
+fyrir upplýsingar um síðustu uppfærslutilraun.
+
+Til að eyða þessum lás og halda áfram skaltu velja &quot;Hunsa&quot; fyrir neðan.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="929"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppfærsla Í Gangi</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="954"/>
@@ -709,12 +720,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppfærslutilraun mistókst
+
+Gakktu úr skugga um að uppsetningin þín sé í lagi áður en þú heldur áfram.
+Athugaðu uppfærsluskrá Prism Launcher á:
+%1
+fyrir upplýsingar um síðustu uppfærslutilraun.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppfærsla Mistókst</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="987"/>
@@ -724,12 +740,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppfærsla tókst
+
+Þú ert núna að keyra % 1 .
+Athugaðu uppfærsluskrá Prism Launcher á:
+%1
+fyrir nánari upplýsingar.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppfærsla Tókst</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1026"/>
