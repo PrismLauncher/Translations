@@ -10629,7 +10629,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
         <source>Confirm %1 selection</source>
-        <translation>Conferma %1 selezione</translation>
+        <translation>Conferma selezione di: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="111"/>
@@ -10639,7 +10639,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>Solo %1 con un controllo può essere scaricato!</translation>
+        <translation>Solamente le risorse %1 selezionate saranno scaricate!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
