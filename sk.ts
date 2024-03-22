@@ -2051,7 +2051,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať &amp;Aktualizácie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2116,7 +2116,7 @@ Ste si istí?</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished">Ak odstránite tento zdroj, zatiaľ čo hra beží, môže zrútiť hru.
+        <translation>Ak tento zdroj odstránite počas hry, môže dôjsť k pádu hry.
 Ste si istí, že to chcete urobiť?</translation>
     </message>
     <message>
@@ -2134,7 +2134,7 @@ Ste si istí, že to chcete urobiť?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="325"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"> (%1 inštalované, %2 vybrané)</translation>
+        <translation> (%1 nainštalované, %2 vybrané)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="327"/>
@@ -2529,17 +2529,17 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">Dokončené %1 z %2</translation>
+        <translation>%1 z %2 dokončené</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="598"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovanie Zablokovaných Módov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="611"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovanie Zablokovaných Módov (%1 z %2 dokončené)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="550"/>
@@ -2567,17 +2567,17 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="413"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Ahoj!&lt;/h1&gt;&lt;h4&gt;Vyzerá to tak, že ID Vášho balíčku je nulová. Toto je spôsobené chybou v starších verziách launcheru.&lt;br/&gt;Naneštastie, bez tejto informácie nemôžeme vykonať správne API požiadavky.&lt;br/&gt;&lt;br/&gt;Aby táto funkcia fungovala, budete potrebovať znovu stiahnuť modpack zo vstavaného sťahovača modpackov.&lt;br/&gt;&lt;br/&gt;Nebojte sa, opýta sa Vás či chcete túto inštanciu radšej aktualizovať, aby ste ju nestratili!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="475"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Aktuálne)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="539"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte súbor aktualizácie</translation>
     </message>
 </context>
 <context>
@@ -2621,38 +2621,38 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hľadanie súborov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa vyhľadať súbory</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hľadanie hashov súborov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hľadanie verzíi hashov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Spracovanie API odpovede z CurseForge pre &apos;%1&apos;...</translation>
+        <translation>Spracovanie API odpovede z CurseForge pre &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hľadanie informácii o projekte z CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridávanie súborov...</translation>
     </message>
 </context>
 <context>
@@ -2671,13 +2671,13 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Poznámka: CurseForge dovoľuje tvorcom blokovať prístup ku nástrojom tretích strán ako Prism Launcher. Kvôli tomu možno budete musieť manuálne stiahnuť módy aby ste nainštalovali modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Hľadať a filtrovať ...</translation>
+        <translation>Hľadať a filtrovať...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -2687,48 +2687,48 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Zoradiť podľa odporúčaných</translation>
+        <translation>Zoradiť podľa odporúčaných</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Triediť podľa obľúbenosti</translation>
+        <translation>Zoradiť podľa obľúbenosti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Zoradiť podľa poslednej aktualizácie</translation>
+        <translation>Zoradiť podľa poslednej aktualizácie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Zoradiť podľa názvu</translation>
+        <translation>Zoradiť podľa názvu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">Triediť podľa autora</translation>
+        <translation>Zoradiť podľa autora</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">Zoradiť podľa počtu stiahnutí</translation>
+        <translation>Zoradiť podľa počtu stiahnutí</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="192"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="210"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie je dostupná žiadna verzia!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
@@ -2738,22 +2738,22 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="281"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Externé odkazy:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="285"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Problémy: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="289"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdrojový kód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -2762,7 +2762,7 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="50"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Zlyhalo vytvorenie adresára pre binárne súbory Minecraftu.</translation>
+        <translation>Nepodarilo sa vytvoriť adresár pre binárne súbory Minecraftu.</translation>
     </message>
 </context>
 <context>
@@ -2858,13 +2858,13 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Získať závislosti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nastala sieťová chyba. Nepodarilo sa načítať závislosti projektu:%1</translation>
     </message>
 </context>
 <context>
@@ -2963,29 +2963,29 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasledujúce typy súborov sú implementované (zároveň pre miestne súbory a adresy URL):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- Modpacky CurseForge (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modpacky Modrinth (ZIP a mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- Exportované inštancie Prism Launcheru, PolyMC alebo MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modpacky Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -2996,24 +2996,24 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importovať zo zipu</translation>
+        <translation>Importovať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="148"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento modpack %1 je blokováný pre tretie strany! Prosím, stiahnite ho manuálne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="165"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>Táto URL adresa nie je platný modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
