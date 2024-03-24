@@ -355,7 +355,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSP</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
@@ -776,12 +776,14 @@ za detalje.</translation>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Vaša /tmp mapa je trenutno montirana sa &apos;noexec&apos; zastavom uključenom.
+Neke verzije Minecraft-a se neće moći pokrenuti.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1028"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nekompatibilna konfiguracija sustava</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1358"/>
