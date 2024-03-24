@@ -291,12 +291,12 @@
             "untranslated" : 1521
         },
         "hr" : {
-            "file" : "4d89e7cb727d4f75635dd6f27be039075e2a77f4.class",
-            "sha1" : "4d89e7cb727d4f75635dd6f27be039075e2a77f4",
-            "size" : 70694,
-            "translated" : 531,
+            "file" : "87d524a02268943ef4f37c4746ef5b8180d66c07.class",
+            "sha1" : "87d524a02268943ef4f37c4746ef5b8180d66c07",
+            "size" : 71282,
+            "translated" : 534,
             "fuzzy" : 66,
-            "untranslated" : 1270
+            "untranslated" : 1267
         },
         "hu" : {
             "file" : "935644be5d9fc9d3759ad4a50d4d5a1e290cc59c.class",
@@ -555,12 +555,12 @@
             "untranslated" : 1824
         },
         "sk" : {
-            "file" : "811a6c771b3e29c68a3a5a2e7ec329f79c0eaeff.class",
-            "sha1" : "811a6c771b3e29c68a3a5a2e7ec329f79c0eaeff",
-            "size" : 152901,
+            "file" : "99c87a8ff10f2655e5651746685df91ab0a5d282.class",
+            "sha1" : "99c87a8ff10f2655e5651746685df91ab0a5d282",
+            "size" : 155934,
             "translated" : 1004,
-            "fuzzy" : 145,
-            "untranslated" : 718
+            "fuzzy" : 162,
+            "untranslated" : 701
         },
         "sl" : {
             "file" : "a27c6b2f890f4efed470a25feb8376d9a3a71fcf.class",
@@ -635,12 +635,12 @@
             "untranslated" : 100
         },
         "vi" : {
-            "file" : "39eae992df5712f0c0830472ced8274a65e2c014.class",
-            "sha1" : "39eae992df5712f0c0830472ced8274a65e2c014",
-            "size" : 193601,
-            "translated" : 1208,
+            "file" : "1664605d94de3c94cdd119cb3dc4afefc0401813.class",
+            "sha1" : "1664605d94de3c94cdd119cb3dc4afefc0401813",
+            "size" : 193837,
+            "translated" : 1210,
             "fuzzy" : 204,
-            "untranslated" : 455
+            "untranslated" : 453
         },
         "zh" : {
             "file" : "c9a5f1f41a9a2c10bfa6ef48f57d70becdfa5d0e.class",
