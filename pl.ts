@@ -3909,7 +3909,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished">Nie można było stworzyć folderu przejściowego</translation>
+        <translation>Nie można utworzyć folderu przejściowego</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
