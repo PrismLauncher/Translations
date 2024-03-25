@@ -6575,7 +6575,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Folosiți Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
