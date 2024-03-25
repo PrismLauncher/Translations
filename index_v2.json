@@ -458,6 +458,14 @@
             "fuzzy" : 2,
             "untranslated" : 1098
         },
+        "nan_Hant" : {
+            "file" : "75011591e9e37d64a6e481365f27af98ea6da145.class",
+            "sha1" : "75011591e9e37d64a6e481365f27af98ea6da145",
+            "size" : 29,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 1867
+        },
         "nb" : {
             "file" : "c995524b7c0b3e7be992533a14b4128998ec08d8.class",
             "sha1" : "c995524b7c0b3e7be992533a14b4128998ec08d8",
