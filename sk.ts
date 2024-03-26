@@ -2524,7 +2524,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnutie Módu Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
@@ -3018,18 +3018,18 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>Abort</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="204"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>Podporované súbory</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="207"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Balíček Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="208"/>
@@ -3046,22 +3046,22 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte inštanciu, do ktorej chcete importovať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte inštanciu, do ktorej si prajete importovať tento balíček modifikácií.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte inštanciu, do ktorej si prajete importovať toto %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Súbor: %1</translation>
     </message>
 </context>
 <context>
@@ -3076,12 +3076,12 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="131"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="138"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Chyby hláste tu: </translation>
     </message>
 </context>
 <context>
@@ -3089,37 +3089,37 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Obnoviť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
         <source>Install Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Nainštalovať Loader</translation>
     </message>
 </context>
 <context>
@@ -3127,7 +3127,7 @@ Prosím skúste to znova.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="43"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Žiadne verzie nie sú momentálne dostupné pre Minecraft %1</translation>
+        <translation>Momentálne nie sú dostupné žiadne verzie pre Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3171,17 +3171,18 @@ Prosím skúste to znova.</translation>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba pri vytváraní novej inštancie:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="32"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba pri vytváraní novej inštancie.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="43"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstraňovanie starých konfliktných súborov...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="52"/>
@@ -3972,7 +3973,7 @@ Verziu Javy dokážete kedykoľvek zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="420"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Vaše maximálne pridelenie pamäti je menšie ako minimálna hodnota</translation>
+        <translation>Vaše maximálne pridelenie pamäti je menšie ako minimálna hodnota</translation>
     </message>
 </context>
 <context>
@@ -3988,8 +3989,8 @@ Verziu Javy dokážete kedykoľvek zmeniť v nastaveniach.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">Nemáte funkčné nastavenia Javy alebo toto nastavenie chýba
-Prosim zvoľte si jedno z nasledujúcich alebo vyhľadajte spustiteľnú Javu.</translation>
+        <translation>Nemáte funkčné nastavenia Javy, alebo toto nastavenie zmizlo
+Zvoľte si prosím jedno z nasledujúcich alebo vyhľadajte spustiteľný súbor Javy.</translation>
     </message>
 </context>
 <context>
@@ -4010,7 +4011,7 @@ Prosim zvoľte si jedno z nasledujúcich alebo vyhľadajte spustiteľnú Javu.</
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Použiť jazyk systému</translation>
     </message>
 </context>
 <context>
@@ -4036,7 +4037,7 @@ Prosim zvoľte si jedno z nasledujúcich alebo vyhľadajte spustiteľnú Javu.</
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Boli zadané nesprávne Java arumenty. Najprv to prosím opravte.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="90"/>
@@ -4047,7 +4048,7 @@ Prosim zvoľte si jedno z nasledujúcich alebo vyhľadajte spustiteľnú Javu.</
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Ak chcete hrať Minecraft, musíte byť prihlásený v PolyMC aspoň pod jedným účtom Mojang alebo Minecraft. Želáte si otvoriť správcu účtov a pridať svoj účet?</translation>
+        <translation>Ak chcete hrať Minecraft, musíte byť prihlásený s aspoň jedeným Microsoft účtom, ktorý vlastní Minecraft. Želáte si otvoriť správcu účtov a pridať svoj účet?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -4066,12 +4067,12 @@ Prosim zvoľte si jedno z nasledujúcich alebo vyhľadajte spustiteľnú Javu.</
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="155"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokračovať v spúštaní?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="156"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyzerá to tak, že sa nám nepodarilo spustiť hru po %1 pokusoch. Chcete pokračovať v spúštaní?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="192"/>
@@ -4086,7 +4087,7 @@ Prosim zvoľte si jedno z nasledujúcich alebo vyhľadajte spustiteľnú Javu.</
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="187"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvolte si meno hráča v demo režime.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="212"/>
@@ -4096,7 +4097,7 @@ Prosim zvoľte si jedno z nasledujúcich alebo vyhľadajte spustiteľnú Javu.</
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hrať demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="224"/>
@@ -4104,22 +4105,25 @@ Prosim zvoľte si jedno z nasledujúcich alebo vyhľadajte spustiteľnú Javu.</
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento účet nevlastní Minecraft.
+Ak chcete hrať hru, musíte si ju zakúpiť.
+
+Chcete si zahrať demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="227"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Hrať Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="228"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="237"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustenie zrušené - účet nevlastní Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
@@ -4139,12 +4143,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="266"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifikácia launchera sa zmenila. Prosím, odstráňte tento účet a pridajte ho znova.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifikácia launchera sa zmenila</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="274"/>
@@ -4154,7 +4158,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="276"/>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>Účet je preč</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="283"/>
@@ -4181,12 +4185,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="366"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola profileru pre %1 zlyhala: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Spustiť</translation>
+        <translation>&amp;Spustiť</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -4250,7 +4254,8 @@ Maly by ste opraviť svoje módy, pretože hra stále zaznamenáva log do súbor
         <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovanie protokolu hry bolo zastavené, lebo dĺžka záznamu prekročila %1 riadkov.
+Možno budete musieť opraviť Vaše módy, pretože hra stále zaznamenáva do súborov a pravdepodobne alarmujúco plytvá miestom na pevnom disku!</translation>
     </message>
 </context>
 <context>
@@ -4917,7 +4922,7 @@ Tento problém musíte vyriešiť manuálne.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation type="unfinished">Prerušené</translation>
+        <translation>Prerušené</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -6207,7 +6212,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="207"/>
         <source>Abort</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="215"/>
@@ -9299,7 +9304,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
         <source>Abort</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
@@ -9706,7 +9711,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="98"/>
         <source>Abort</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
 </context>
 <context>
@@ -9876,7 +9881,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="387"/>
         <source>Abort</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
@@ -10561,7 +10566,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="100"/>
         <source>Abort</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
 </context>
 <context>
