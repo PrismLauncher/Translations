@@ -506,14 +506,6 @@
             "fuzzy" : 0,
             "untranslated" : 0
         },
-        "sco" : {
-            "file" : "6c7d714b082791ff51980f95a388e43e5c5b8273.class",
-            "sha1" : "6c7d714b082791ff51980f95a388e43e5c5b8273",
-            "size" : 24,
-            "translated" : 0,
-            "fuzzy" : 0,
-            "untranslated" : 1867
-        },
         "si" : {
             "file" : "06a2055b34ffe199813e764b80513121a3057a0f.class",
             "sha1" : "06a2055b34ffe199813e764b80513121a3057a0f",
