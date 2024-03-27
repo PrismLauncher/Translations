@@ -482,14 +482,6 @@
             "fuzzy" : 0,
             "untranslated" : 2
         },
-        "qu" : {
-            "file" : "373982fa808dcd9778f6c5ea7c1c1c946df7a0ef.class",
-            "sha1" : "373982fa808dcd9778f6c5ea7c1c1c946df7a0ef",
-            "size" : 30,
-            "translated" : 0,
-            "fuzzy" : 0,
-            "untranslated" : 1867
-        },
         "qya" : {
             "file" : "25af744e2e7199005e0d5f4b261748f5446a0c91.class",
             "sha1" : "25af744e2e7199005e0d5f4b261748f5446a0c91",
