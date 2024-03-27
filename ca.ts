@@ -492,7 +492,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>Type</source>
-        <translation>Tipus</translation>
+        <translation>Mena</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -572,7 +572,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="93"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation>Elimina l&apos;Skin activa i torna a la per defecte</translation>
+        <translation>Esborra l&apos;aspect actiu i torna al predeterminat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
@@ -677,7 +677,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
         <source>Skin Delete</source>
-        <translation>Eliminar Skin</translation>
+        <translation>Esborrar Aspecte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -754,7 +754,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquesta instal·lació té un fitxer de bloqueig d&apos;actualització localitzat a: %1
+
+Marca de temps: %2
+Actualitzant des de la versió %3 a la %4
+Instal·lació objectiu path: %5
+Dades Path: %6
+Això preferentment vol dir que un intent d&apos;actualització ha fallat. Si us plau, assegura&apos;t que la teva instal·lació està en ordre abans de procedir
+Dona una ullada al registre d&apos;actualitzador de Prism Launcher a:·
+%7
+Per obtenir detalls sobre l&apos;últim intent d&apos;actualització.
+
+Per esborrar aquest bloqueig i procedir, selecciona &quot;Ignora&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="929"/>
@@ -769,12 +780,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un intent d&apos;actualització ha fallat
+
+Si us plau assegura&apos;t que la teva instal·lació està en ordre abans de procedir
+Dona una ullada al registre d&apos;actualitzador de Prism Launcher a:·
+%1
+Per a obtenir més informació sobre l&apos;últim intent d&apos;actualització.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualització fallida</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="987"/>
@@ -784,12 +800,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha actualitzat amb èxit
+
+Ara estàs utilitzant la versió %1.
+Dona una ullada al registre d&apos;actualitzador de Prism Launcher a:·
+%1
+per a obtenir els detalls d&apos;aquest.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzat amb èxit</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1026"/>
@@ -1062,7 +1083,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="53"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrir restant</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
