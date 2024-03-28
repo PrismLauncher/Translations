@@ -7679,7 +7679,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
@@ -10590,7 +10590,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
@@ -12766,27 +12766,27 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 Microsoft 계정으로 플레이하려면 나이를 인증해야 합니다. %1에 로그인하여 나이를 인증하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 Microsoft 계정의 플레이 시간 제한에 도달했습니다. 이 Microsoft 계정의 로그인이 차단되었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 Microsoft 계정은 Xbox 커뮤니티 표준을 위반하여 차단되었으며 사용할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 Microsoft 계정은 현재 제한되었으며 보호자가 온라인 플레이를 허용하지 않았습니다. %1에 로그인하여 보호자에게 허용해 달라고 요청하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 Microsoft 계정은 Xbox의 이용약관을 수락하지 않았습니다. 로그인하여 수락하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
