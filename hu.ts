@@ -7681,7 +7681,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
@@ -10596,7 +10596,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
@@ -12754,27 +12754,27 @@ Kérjük, állítsa be fiókját a %1 szerint.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ehhez a Microsoft-fiókhoz életkor igazolása szükséges a játékhoz. Kérjük, jelentkezzen be ide: %1, hogy igazolja életkorát.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a Microsoft-fiók elérte a játékidő korlátját. Ennek a Microsoft-fióknak a bejelentkezési lehetősége le van tiltva.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezt a Microsoft-fiókot az Xbox egy vagy több közösségi szabvány megsértése miatt tiltotta le, ezért nem használható.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a Microsoft-fiók jelenleg korlátozott, és gyámja nem adott engedélyt az online játékra. Jelentkezzen be ide: %1, és kérje meg gyámját, hogy módosítsa az engedélyeit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a Microsoft-fiók nem fogadta el az Xbox szolgáltatási feltételeit. Kérjük, jelentkezzen be és fogadja el őket.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
