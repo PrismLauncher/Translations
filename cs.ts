@@ -732,12 +732,12 @@ Prosím aktualizujte váš operační systém a %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="760"/>
+        <location filename="src/launcher/Application.cpp" line="764"/>
         <source>Settings</source>
         <translation>Nastavení</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="912"/>
+        <location filename="src/launcher/Application.cpp" line="916"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -764,12 +764,12 @@ pro podrobnosti o posledním pokusu o aktualizaci.
 Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“ níže.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="929"/>
+        <location filename="src/launcher/Application.cpp" line="933"/>
         <source>Update In Progress</source>
         <translation>Probíhá aktualizace</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="954"/>
+        <location filename="src/launcher/Application.cpp" line="958"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -784,12 +784,12 @@ Zkontrolujte protokol aktualizačního programu Prism Launcher zde:
 pro podrobnosti o posledním pokusu o aktualizaci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="962"/>
+        <location filename="src/launcher/Application.cpp" line="966"/>
         <source>Update Failed</source>
         <translation>Aktualizace selhala</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="987"/>
+        <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -803,12 +803,12 @@ Pro podrobnosti se můžete podívat na protokol aktualizačního programu zde:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="995"/>
+        <location filename="src/launcher/Application.cpp" line="999"/>
         <source>Update Succeeded</source>
         <translation>Úspěšně aktualizováno</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1026"/>
+        <location filename="src/launcher/Application.cpp" line="1030"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -817,32 +817,32 @@ Některé verze Minecraftu se nemusí spustit.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1028"/>
+        <location filename="src/launcher/Application.cpp" line="1032"/>
         <source>Incompatible system configuration</source>
         <translation>Nekompatibilní konfigurace systémmu</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1358"/>
+        <location filename="src/launcher/Application.cpp" line="1362"/>
         <source>Aborted</source>
         <translation>Přerušeno</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1768"/>
+        <location filename="src/launcher/Application.cpp" line="1772"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Byla nalezena stará data z %1, ale pro %2 již máte existující data. Bohužel budete muset provést migraci sami. Chcete být při příštím spuštění %2 upozorněni na probíhající migraci dat?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1772"/>
+        <location filename="src/launcher/Application.cpp" line="1776"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Vypadá to, že jste již dříve použili %1. Chcete svá data přenést do nového umístění %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1778"/>
+        <location filename="src/launcher/Application.cpp" line="1782"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Vypadá to, že jste již dříve použili %1 na %2. Chcete svá data přenést do nového umístění %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1821"/>
+        <location filename="src/launcher/Application.cpp" line="1825"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrace se nezdařila! Důvod: %1</translation>
     </message>
@@ -10162,12 +10162,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>No valid version found!</source>
         <translation>Nebyla nalezena platná verze!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
         <source>Cannot select invalid version :(</source>
         <translation>Nelze vybrat neplatnou verzi :(</translation>
     </message>

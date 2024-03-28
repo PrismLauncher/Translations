@@ -752,12 +752,12 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="760"/>
+        <location filename="src/launcher/Application.cpp" line="764"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="912"/>
+        <location filename="src/launcher/Application.cpp" line="916"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -784,12 +784,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 点击下面的“忽略”按钮以删除此锁定文件并继续。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="929"/>
+        <location filename="src/launcher/Application.cpp" line="933"/>
         <source>Update In Progress</source>
         <translation>更新中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="954"/>
+        <location filename="src/launcher/Application.cpp" line="958"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -804,12 +804,12 @@ for details on the last update attempt.</source>
 了解上次更新的详情。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="962"/>
+        <location filename="src/launcher/Application.cpp" line="966"/>
         <source>Update Failed</source>
         <translation>更新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="987"/>
+        <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -824,12 +824,12 @@ for details.</source>
 查看详情。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="995"/>
+        <location filename="src/launcher/Application.cpp" line="999"/>
         <source>Update Succeeded</source>
         <translation>更新成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1026"/>
+        <location filename="src/launcher/Application.cpp" line="1030"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -838,32 +838,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1028"/>
+        <location filename="src/launcher/Application.cpp" line="1032"/>
         <source>Incompatible system configuration</source>
         <translation>系统配置不兼容</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1358"/>
+        <location filename="src/launcher/Application.cpp" line="1362"/>
         <source>Aborted</source>
         <translation>已终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1768"/>
+        <location filename="src/launcher/Application.cpp" line="1772"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>找到了来自 %1 的旧数据，但因在 %2 还有现存数据，因此您只能自行迁移旧数据。是否需要在下次启动 %2 时再次提醒需要进行数据迁移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1772"/>
+        <location filename="src/launcher/Application.cpp" line="1776"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>您似乎曾经使用过 %1。是否需要将您那时的数据迁移到 %2 使用的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1778"/>
+        <location filename="src/launcher/Application.cpp" line="1782"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>您似乎曾经在 %2 上用过 %1。是否需要将您那时的数据迁移到 %3 使用的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1821"/>
+        <location filename="src/launcher/Application.cpp" line="1825"/>
         <source>Migration failed! Reason: %1</source>
         <translation>迁移失败！原因：%1</translation>
     </message>
@@ -10191,12 +10191,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>No valid version found!</source>
         <translation>未找到有效版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
         <source>Cannot select invalid version :(</source>
         <translation>不能选择无效的版本（ノへ￣、）</translation>
     </message>

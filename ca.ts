@@ -736,12 +736,12 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="760"/>
+        <location filename="src/launcher/Application.cpp" line="764"/>
         <source>Settings</source>
         <translation>Opcions</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="912"/>
+        <location filename="src/launcher/Application.cpp" line="916"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -768,12 +768,12 @@ Per obtenir detalls sobre l&apos;últim intent d&apos;actualització.
 Per esborrar aquest bloqueig i procedir, selecciona &quot;Ignora&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="929"/>
+        <location filename="src/launcher/Application.cpp" line="933"/>
         <source>Update In Progress</source>
         <translation>Actualització en curs</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="954"/>
+        <location filename="src/launcher/Application.cpp" line="958"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -788,12 +788,12 @@ Dona una ullada al registre d&apos;actualitzador de Prism Launcher a:·
 Per a obtenir més informació sobre l&apos;últim intent d&apos;actualització.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="962"/>
+        <location filename="src/launcher/Application.cpp" line="966"/>
         <source>Update Failed</source>
         <translation>Actualització fallida</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="987"/>
+        <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -808,44 +808,44 @@ Dona una ullada al registre d&apos;actualitzador de Prism Launcher a:·
 per a obtenir els detalls d&apos;aquest.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="995"/>
+        <location filename="src/launcher/Application.cpp" line="999"/>
         <source>Update Succeeded</source>
         <translation>Actualitzat amb èxit</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1026"/>
+        <location filename="src/launcher/Application.cpp" line="1030"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1028"/>
+        <location filename="src/launcher/Application.cpp" line="1032"/>
         <source>Incompatible system configuration</source>
         <translation>Configuració del sistema no compatible</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1358"/>
+        <location filename="src/launcher/Application.cpp" line="1362"/>
         <source>Aborted</source>
         <translation>Avortat</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1768"/>
+        <location filename="src/launcher/Application.cpp" line="1772"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>S&apos;ha trobat dades antigues del %1, però ja existeixen dades pel %2. Malauradament, l&apos;haureu de migrar pel vostre compte. Voldries ser recordat de la migració de les teves dades el pròxim cop que iniciïs %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1772"/>
+        <location filename="src/launcher/Application.cpp" line="1776"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Sembla que ja utilitzaves %1 anteriorment. Voleu migrar les dades a la nova ubicació %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1778"/>
+        <location filename="src/launcher/Application.cpp" line="1782"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Sembla que ja has utilitzat %1 a %2 anteriorment. Vols migrar les dades a la nova ubicació %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1821"/>
+        <location filename="src/launcher/Application.cpp" line="1825"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migració fallida! Motiu: %1</translation>
     </message>
@@ -9575,12 +9575,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>No valid version found!</source>
         <translation type="unfinished">No s&apos;han trobat versions vàlides!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished">No es pot seleccionar una versió invàlida :(</translation>
     </message>

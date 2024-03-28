@@ -756,12 +756,12 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="760"/>
+        <location filename="src/launcher/Application.cpp" line="764"/>
         <source>Settings</source>
         <translation>Ustawienia</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="912"/>
+        <location filename="src/launcher/Application.cpp" line="916"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -788,12 +788,12 @@ po więcej informacji przy ostatniej próbie aktualizacji.
 By usunąć tą blokadę i przystąpić naciśnij &quot;Zignoruj&quot; poniżej.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="929"/>
+        <location filename="src/launcher/Application.cpp" line="933"/>
         <source>Update In Progress</source>
         <translation>Aktualizacja w Toku</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="954"/>
+        <location filename="src/launcher/Application.cpp" line="958"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -808,12 +808,12 @@ Sprawdź logi aktualizatora Prism Launcher w:
 po więcej informacji o ostatniej próbie aktualizacji.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="962"/>
+        <location filename="src/launcher/Application.cpp" line="966"/>
         <source>Update Failed</source>
         <translation>Aktualizacja Zawiodła</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="987"/>
+        <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -828,12 +828,12 @@ Sprawdź logi aktualizatora Prism Launcher w:
 po więcej informacji.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="995"/>
+        <location filename="src/launcher/Application.cpp" line="999"/>
         <source>Update Succeeded</source>
         <translation>Aktualizacja się Powiodła</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1026"/>
+        <location filename="src/launcher/Application.cpp" line="1030"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -842,32 +842,32 @@ Niektóre wersje Minecrafta mogą się nie załadować.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1028"/>
+        <location filename="src/launcher/Application.cpp" line="1032"/>
         <source>Incompatible system configuration</source>
         <translation>Niekompatybilna konfiguracja systemu</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1358"/>
+        <location filename="src/launcher/Application.cpp" line="1362"/>
         <source>Aborted</source>
         <translation>Przerwano działanie</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1768"/>
+        <location filename="src/launcher/Application.cpp" line="1772"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Stare dane z %1 zostały znalezione, ale masz już dane z %2. Niestety będziesz musiał wykonać migracje samemu. Czy chcesz zostać powiadomiony o oczekujących migracjach następnym razem gdy uruchomisz %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1772"/>
+        <location filename="src/launcher/Application.cpp" line="1776"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Wygląda na to że wcześniej używałeś&#xa0;%1. Czy chcesz migrować swoje dane do nowej lokalizacji %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1778"/>
+        <location filename="src/launcher/Application.cpp" line="1782"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Wygląda na to że wcześniej używałeś %1 na %2. Czy chcesz migrować swoje dane do nowej lokalizacji %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1821"/>
+        <location filename="src/launcher/Application.cpp" line="1825"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migracja nieudana! Powód: %1</translation>
     </message>
@@ -10257,12 +10257,12 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <translation>modyfikacja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>No valid version found!</source>
         <translation>Nie znaleziono poprawnej wersji!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
         <source>Cannot select invalid version :(</source>
         <translation>Nie można wybrać niepoprawnej wersji :(</translation>
     </message>
