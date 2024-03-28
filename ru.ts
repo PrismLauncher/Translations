@@ -3034,7 +3034,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Получить зависимости</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="188"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Из-за ошибки сети не удалось загрузить зависимости проекта:%1</translation>
@@ -7753,9 +7753,9 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="111"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="195"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="332"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="402"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="338"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="408"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -7768,7 +7768,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="122"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="358"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Abort</source>
         <translation>Отмена</translation>
     </message>
@@ -7799,14 +7799,19 @@ Please update %1!</source>
         <translation>Проверка наличия зависимостей…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="303"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="309"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Мод «%1» ещё не имеет метаданные. Нам нужно сгенерировать их, чтобы отслеживать релевантную информацию об обновлении этого мода. Чтобы это сделать, пожалуйста выберите поставщика модов, которого мы используем для проверки обновлений мода.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="406"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="412"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Не удаётся найти актуальную версию у выбранного(-ых) поставщика(-ов) модификаций</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -7827,7 +7832,7 @@ Please update %1!</source>
         <translation>Не удалось проверить или получить обновления для следующих модов:&lt;br&gt;Вы хотите продолжить без них?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="260"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="266"/>
         <source>Looking for metadata</source>
         <translation>Ищу метаданные</translation>
     </message>
@@ -7836,7 +7841,7 @@ Please update %1!</source>
         <translation type="vanished">У этого мода (%1) пока что нет метаданных. Нам нужно создать их для получения актуальной информации, как обновлять этот под. Чтобы сделать это, пожалуйста, выберите поставщика модов, где мы можем искать обновления для %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="359"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
         <source>Generating metadata...</source>
         <translation>Генерирование метаданных…</translation>
     </message>
@@ -7845,42 +7850,42 @@ Please update %1!</source>
         <translation type="vanished">Не удалось найти допустимую вевсию в выбранном(ых) поставщике(ах) модов</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="420"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
         <source>Provider: %1</source>
         <translation>Поставщик: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="432"/>
         <source>Old version: %1</source>
         <translation>Старая версия: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="432"/>
         <source>Not installed</source>
         <translation>Не установлен</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="426"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="435"/>
         <source>New version: %1</source>
         <translation>Новая версия: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="439"/>
         <source>New Version Type: %1</source>
         <translation>Тип новой версии: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="445"/>
         <source>Required by: %1</source>
         <translation>Требуется: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="438"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="447"/>
         <source>Required by:</source>
         <translation>Требуется:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="452"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="461"/>
         <source>Changelog of the latest version</source>
         <translation>Список изменений последней версии</translation>
     </message>
@@ -10794,52 +10799,57 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="42"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
         <source>Filename: %1</source>
         <translation>Имя файла: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This download will be placed in: %1</source>
         <translation>Эта загрузка будет расположена в: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation>Этот файл будет загружен папку, которая не является папкой по умолчанию, возможно по требованию загрузчика.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="60"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="63"/>
         <source>Provider: %1</source>
         <translation>Источник: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="67"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="70"/>
         <source>Required by: %1</source>
         <translation>Требуется: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="69"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
         <source>Required by:</source>
         <translation>Требуется:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="84"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="87"/>
         <source>Version Type: %1</source>
         <translation>Тип версии: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
         <source>Confirm %1 selection</source>
         <translation>Подтвердите выбор %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="111"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="114"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>Вы собираетесь скачать %1:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>Только отмеченные %1 будут загружены!</translation>
     </message>

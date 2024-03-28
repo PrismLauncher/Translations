@@ -3003,7 +3003,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>获取前置 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="186"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="188"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>发生网络错误。无法加载前置 Mod：%1</translation>
@@ -7702,9 +7702,9 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="111"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="195"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="332"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="402"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="338"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="408"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -7717,7 +7717,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="122"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="358"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Abort</source>
         <translation>终止</translation>
     </message>
@@ -7748,14 +7748,19 @@ Please update %1!</source>
         <translation>正在检查前置 Mod……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="303"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="309"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Mod “%1” 还没有元数据。我们需要生成相关信息用于检查 Mod 更新。因此，请选择一个 Mod 托管平台，并使用它来检查此 Mod 的更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="406"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="412"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>在所选 Mod 托管平台上找不到有效版本</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -7776,7 +7781,7 @@ Please update %1!</source>
         <translation>无法获取以下 Mod 更新：&lt;br&gt;您想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="260"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="266"/>
         <source>Looking for metadata</source>
         <translation>正在查找元数据</translation>
     </message>
@@ -7785,7 +7790,7 @@ Please update %1!</source>
         <translation type="vanished">Mod（%1）还没有Metadata。我们需要创建一份Metadata，以保留如何更新此Mod的相关信息。请先选择一个Mod托管平台，我们将通过此平台查询 %1 是否有可用更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="359"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
         <source>Generating metadata...</source>
         <translation>生成元数据中……</translation>
     </message>
@@ -7794,42 +7799,42 @@ Please update %1!</source>
         <translation type="vanished">无法在所选择的Mod托管平台上找到可用的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="420"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
         <source>Provider: %1</source>
         <translation>Mod 托管平台：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="432"/>
         <source>Old version: %1</source>
         <translation>旧版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="432"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="426"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="435"/>
         <source>New version: %1</source>
         <translation>新版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="439"/>
         <source>New Version Type: %1</source>
         <translation>新版本类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="445"/>
         <source>Required by: %1</source>
         <translation>%1 的前置 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="438"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="447"/>
         <source>Required by:</source>
         <translation>为以下 Mod 的前置 Mod：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="452"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="461"/>
         <source>Changelog of the latest version</source>
         <translation>最新版本的更新日志</translation>
     </message>
@@ -10708,52 +10713,57 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>返回</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="42"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
         <source>Filename: %1</source>
         <translation>文件名：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This download will be placed in: %1</source>
         <translation>此下载将放置在：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation>该文件将下载到与默认位置不同的文件夹，可能是因为其加载器需要这样做。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="60"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="63"/>
         <source>Provider: %1</source>
         <translation>Mod 托管平台：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="67"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="70"/>
         <source>Required by: %1</source>
         <translation>%1 的前置 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="69"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="72"/>
         <source>Required by:</source>
         <translation>后置：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="84"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="87"/>
         <source>Version Type: %1</source>
         <translation>版本类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
         <source>Confirm %1 selection</source>
         <translation>确认选择 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="111"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="114"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>您将要下载以下 %1：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>只会下载勾选的 %1！</translation>
     </message>
