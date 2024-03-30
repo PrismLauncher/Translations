@@ -1341,12 +1341,12 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ref-tenglar eru ekki studdir á %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>Á Windows geta táknrænir tenglar þurft leyfi stjórnanda til að búa til.</translation>
     </message>
 </context>
 <context>
@@ -1354,7 +1354,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="79"/>
         <source>Core mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjarna mods</translation>
     </message>
 </context>
 <context>
@@ -1362,7 +1362,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="15"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Gat ekki búið til aðalleikjamöppuna</translation>
     </message>
 </context>
 <context>
@@ -1371,7 +1371,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sérsniðnar skipanir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
@@ -1903,7 +1903,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="109"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjarlægðu valið atriði</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2269,7 +2269,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Er að afrita stillingar...</translation>
     </message>
 </context>
 <context>
@@ -3063,17 +3063,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="29"/>
         <source>Open Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Opnaðu Alþjóðlegarstillingar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stillingarnar hér eru hnekkjanir fyrir alþjóðlegarstillingar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
         <source>Java insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Java upps&amp;etning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
