@@ -7723,7 +7723,7 @@ Lütfen %1 programını güncelleyin!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod, zaten yüklenmiş olabileceğinden ötürü devre dışı bırakıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
@@ -10625,7 +10625,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod, zaten yüklenmiş olabileceğinden ötürü devre dışı bırakıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
@@ -12801,27 +12801,27 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft hesabı, oynayabilmek için yaş kanıtı gerektiriyor. Lütfen yaş kanıtı sunabilmek için %1&apos;e giriş yapın.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft hesabı, oynama süresi sınırına ulaştı. Bu Microsoft hesabının giriş yapması engellendi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft hesabı, bir veya birden fazla Xbox için Topluluk Standartları ihlalinde bulunduğundan ötürü Xbox tarafından yasaklandı ve kullanılamıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft hesabı, şu anda kısıtlı ve veliniz çevrim içi oynayabilmeniz için size izin vermedi. %1&apos;e giriş yapın ve velinizin izinlerinizi değiştirmesini sağlayın.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Microsoft hesabı, Xbox Hizmet Şartları&apos;nı kabul etmedi. Lütfen giriş yapın ve hizmet şartlarını kabul edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
