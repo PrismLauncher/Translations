@@ -12076,7 +12076,7 @@ Lütfen bu profil için burdaki Java sürümlerinden birini seçin:</translation
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Download all</source>
-        <translation>Hepsini indir</translation>
+        <translation>Her şeyi indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
