@@ -8177,7 +8177,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
-        <translation>%1/%2 feladat megkísérlése</translation>
+        <translation>%1. feladat megkísérlése a(z) %2 feladatból</translation>
     </message>
 </context>
 <context>
@@ -8260,7 +8260,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="135"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>%1 feladat(ok) végrehajtása (%2/%3 kész)</translation>
+        <translation>%1 feladat végrehajtása (%2/%3 kész)</translation>
     </message>
 </context>
 <context>
@@ -10881,7 +10881,7 @@ Jelenleg telepített verzió: %1</translation>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation>%1/%2 feladat végrehajtása</translation>
+        <translation>%1. feladat végrehajtása a(z) %2 feladatból</translation>
     </message>
 </context>
 <context>
