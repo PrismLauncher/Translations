@@ -12888,7 +12888,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished">Esta cuenta de Microsoft ha alcanzado su límite de tiempo de juego. No será posible iniciar sesión con esta cuenta</translation>
+        <translation>Esta cuenta de Microsoft ha alcanzado su límite de tiempo de juego. No será posible iniciar sesión con esta cuenta.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
@@ -12903,7 +12903,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta cuenta de Microsoft no ha aceptado los Términos de Servicio de Xbox. Por favor, inicie sesión y acéptelos.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
