@@ -4556,17 +4556,17 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="312"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir a opacidade do gato. 0% é totalmente transparente e 100% é totalmente opaco.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacidade</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
@@ -4724,7 +4724,7 @@ Garantindo %1 acesso a essa pasta por via de Flatseal é recomendado.</translati
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>A biblioteca do Legacy Launcher não pôde ser encontrada. Por favor verifique sua instalação.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
@@ -5204,7 +5204,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="111"/>
         <source>&lt;p&gt;Please login in the opened browser. If no browser was opened, please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Por favor faça login no navegador que abriu. Se nenhum navegador for aberto, acesse %1 em um navegador e insira o código &lt;b&gt;%2&lt;/b&gt; para proceder com o login.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="116"/>
@@ -5567,7 +5567,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de Status</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
@@ -5617,27 +5617,27 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra a pasta de temas de widget em um gestor de arquivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema de Í&amp;cones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra a pasta de temas de ícone em um gestor de arquivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="781"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacotes de Gatos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra a pasta de pacotes de gatos em um gestor de arquivos.</translation>
     </message>
     <message>
         <source>View &amp;Widget Themes Folder</source>
@@ -5761,27 +5761,27 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Instâncias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir a pasta de instâncias em um gestor de arquivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Raíz do Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods Centrais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ícones da Instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
@@ -6195,32 +6195,32 @@ Queres proceder na mesma?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
         <source>&amp;Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Renomear grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1166"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tem certeza que deseja apagar o grupo &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1176"/>
         <source>Rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1185"/>
         <source>Cannot rename group</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível renomear o grupo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1185"/>
         <source>Cannot set empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível definir nomes vazios.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1185"/>
         <source>Group already exists. :/</source>
-        <translation type="unfinished"></translation>
+        <translation>O grupo já existe. :/</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
@@ -6336,7 +6336,7 @@ Queres proceder na mesma?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar do arquivo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
@@ -6358,7 +6358,9 @@ Queres proceder na mesma?</numerusform>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Este é um modpack local.
+Ele somente poderá ser atualizado usando um arquivo no formato %1
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="152"/>
@@ -6589,12 +6591,12 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Emula os usos de serviços on-line antigos que não estão mais operando.&lt;/p&gt;&lt;p&gt; As correções atuais incluem: suporte à skins e ao modo on-line.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar correções on-line (experimental)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
@@ -6661,7 +6663,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Usar o Zink, um driver de OpenGL Mesa que implementa o OpenGL em cima do Vulkan. A performance deve variar dependendo da situação. Nota: Se nenhum driver Vulkan compatível for encontrado, a renderização por software será usada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
@@ -7050,7 +7052,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar por Atualizações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="96"/>
