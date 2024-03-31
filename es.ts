@@ -7774,7 +7774,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>El Mod ha sido deshabilitado, debido a que ya se encuentra instalado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
@@ -10707,7 +10707,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>El Mod ha sido deshabilitado, debido a que ya se encuentra instalado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
@@ -12883,7 +12883,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished">Esta cuenta de Microsoft necesita una prueba de edad para jugar. Por favor, inicia sesión en %1 para proporcionar una prueba de edad.</translation>
+        <translation>Esta cuenta de Microsoft necesita que verifique su edad para jugar. Por favor, inicia sesión en %1 para verificar su edad.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
@@ -12898,7 +12898,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta cuenta de Microsoft se encuentra restringida, y su tutor no ha permitido el juego multijugador. Inicia sesión en %1 y pide a tu tutor cambiar los permisos.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
