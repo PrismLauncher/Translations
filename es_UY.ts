@@ -6747,7 +6747,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Any version</source>
-        <translation type="unfinished"></translation>
+        <translation>Cualquier versión</translation>
     </message>
 </context>
 <context>
@@ -6798,22 +6798,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Proovedor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima Modificación</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
@@ -6898,12 +6898,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar mods desde plataformas de mods en línea</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -6917,12 +6917,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="80"/>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir archivo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="81"/>
         <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir un archivo ya descargado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="95"/>
@@ -6944,7 +6944,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="101"/>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>Trata de actualizar y checar las dependencias faltantes de los mods seleccionados (todos los mods si ninguno esta seleccionado)</translation>
+        <translation>Trate de actualizar y verificar las dependencias faltantes de los mods seleccionados (seleccione todos los mods si ninguno esta seleccionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
@@ -6955,27 +6955,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="120"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
         <source>Go to mod&apos;s home page</source>
-        <translation>Ir a la pagina de inicio del mod</translation>
+        <translation>Ir a la pagina web del mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation>Remover metadatos del mod</translation>
+        <translation>Eliminar los metadatos del mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="135"/>
         <source>Visit mod&apos;s page</source>
-        <translation>Visitar pagina del mod</translation>
+        <translation>Visitar la pagina del mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="139"/>
         <source>Visit mods&apos; pages</source>
-        <translation type="unfinished">Visita la página del mod</translation>
+        <translation>Visita las páginas del mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="140"/>
         <source>Go to the pages of the selected mods</source>
-        <translation>Ir a las páginas de los mods seleccionados</translation>
+        <translation>Ir a las páginas web de los mods seleccionados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
@@ -6986,8 +6986,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>SI remueves los mods mientras el juego esta corriendo, puedes crashear el juego
-¿Estás seguro?</translation>
+        <translation>SI eliminas los mods mientras el juego se está ejecutando, este puede cerrarse.
+¿Desea continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
@@ -7015,7 +7015,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="288"/>
         <source>Download stopped by user.</source>
-        <translation>Descarga detenida por el usuario.</translation>
+        <translation>Descarga interrumpida por el usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="211"/>
@@ -7032,7 +7032,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation>¡Las actualizaciones de mods no están disponibles cuando la metadata esta deshabilitada!</translation>
+        <translation>¡Las actualizaciones de mods no están disponibles cuando los metadatos están deshabilitados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="244"/>
@@ -7047,9 +7047,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>Actualizar los mods cuando el juego esta corriendo puede causar la duplicación de mods y que el juego crashee.
+        <translation>Actualizar los mods mientras el juego se está ejecutando puede causar la duplicación de estos, y que el juego se cierre.
 Los archivos antiguos no serán eliminados si están en uso.
-¿Estás seguro?</translation>
+¿Desea continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
@@ -7059,7 +7059,7 @@ Los archivos antiguos no serán eliminados si están en uso.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="274"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>¡Todos los mods seleccionados están actualizados! :)</translation>
+        <translation>¡Todos los mods seleccionados se encuentran actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="277"/>
@@ -7075,8 +7075,8 @@ Los archivos antiguos no serán eliminados si están en uso.
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="363"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>Estas apunto de eliminar los metadatos de %1 mods.
-¿Estás seguro?</translation>
+        <translation>Esta a punto de eliminar los metadatos de %1 mods.
+¿Desea continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="269"/>
@@ -7087,7 +7087,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="272"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation>Todos los mods están actualizados! :)</translation>
+        <translation>¡Todos los mods están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="52"/>
