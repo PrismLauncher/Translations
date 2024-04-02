@@ -3927,7 +3927,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Kliknij &quot;Dodaj Instancje&quot; by zacząć.</translation>
+        <translation>Kliknij &quot;Dodaj Instalację&quot; aby zacząć.</translation>
     </message>
 </context>
 <context>
@@ -5487,7 +5487,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation>Dodaj nowa instancję.</translation>
+        <translation>Dodaj nowa instalację.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -5684,7 +5684,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Dodaj Instancj&amp;ę...</translation>
+        <translation>Dodaj Instalacj&amp;ę...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
@@ -7819,7 +7819,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modyfikacja została wyłączona, ponieważ może być już zainstalowana.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
@@ -10781,7 +10781,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod został wyłączony, ponieważ może być już zainstalowany.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
@@ -12953,27 +12953,27 @@ Skonfiguruj swoje konto zgodnie z %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>To konto Microsoft wymaga potwierdzenia wieku do gry. Zaloguj się do %1, aby potwierdzić wiek.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>To konto Microsoft osiągnęło limit czasu gry. Logowanie na to konto Microsoft zostało zablokowane.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>To konto Microsoft zostało zablokowane przez Xbox za naruszenie jednego lub więcej zasad społeczności Xbox i nie można z niego korzystać.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>To konto Microsoft jest obecnie ograniczone, a Twój opiekun nie udzielił Ci uprawnień do gry online. Zaloguj się do %1 i poproś opiekuna o zmianę uprawnień.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>To konto Microsoft nie zaakceptowało Warunków korzystania z usługi Xbox. Zaloguj się i zaakceptuj je.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
