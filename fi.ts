@@ -610,7 +610,8 @@ Jos olet uusi täällä, voit klikata &quot;Lisää&quot;-painiketta lisätäkse
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="61"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tervetuloa!
+Jos olet uusi täällä, voit painaa &quot;Lisää Microsoft&quot; -nappia lisätäkseksi Microsoft-käyttäjäsi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
@@ -630,7 +631,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinun täytyy lisätä Microsoft-käyttäjä joka omistaa Minecraftin ennen kuin voit lisätä offline-käyttäjän.&lt;br&gt;&lt;br&gt;Jos et pääse käyttäjällesi, voit ottaa Microsoftiin yhteyttä asiasta.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -667,7 +668,7 @@ Päivitä sekä käyttöjärjestelmä että %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti poistaa tämän käyttäjän?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
@@ -754,7 +755,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="933"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitys Meneillään</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="958"/>
