@@ -4638,7 +4638,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Deaktiviere die Verwendung von von Mod-Anbietern (z.B. Modrinth oder CurseForge) für Mods bereitgestellten Metadaten.</translation>
+        <translation>Deaktiviere die Verwendung von Metadaten, die durch Mod-Anbieter (z.B. Modrinth oder CurseForge) für Mods bereitgestellt werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
@@ -7772,7 +7772,7 @@ Bitte aktualisiere %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Modifikation wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
+        <translation>Mod wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
     </message>
     <message>
         <source>Possible solution: </source>
