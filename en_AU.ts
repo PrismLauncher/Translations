@@ -8807,8 +8807,8 @@ Please let us know why and how this happened.</translation>
         <translation>Path does not seem to be a MCEdit path</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Empty path</translation>
     </message>
@@ -9302,8 +9302,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Sort by Popularity</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Sort by Last Updated</translation>
     </message>
@@ -9318,8 +9318,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Sort by Author</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Sort by Downloads</translation>
     </message>
