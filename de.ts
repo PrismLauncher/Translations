@@ -10766,7 +10766,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
+        <translation>Modifikation wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
