@@ -5782,7 +5782,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
         <source>I&amp;con Theme</source>
-        <translation>Thèmes d&apos;i&amp;con</translation>
+        <translation>Thèmes d’i&amp;cônes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
