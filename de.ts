@@ -12947,7 +12947,7 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Microsoft Konto hat das Limit der Spielzeit erreicht. Das Anmelden des Microsoft Kontos wurde blockiert.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
