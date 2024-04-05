@@ -10766,7 +10766,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Modifikation wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
+        <translation>Mod wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
@@ -12957,12 +12957,12 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Microsoft Konto ist momentan beschränkt und dein Vormund hat dir nicht erlaubt, online zu Spielen. Melde dich bei %1 an, und lasse deinen Vormund deine Berechtigungen ändern.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Microsoft Konto hat die Nutzungsbedingungen von Xbox nicht akzeptiert. Bitte melde dich an und akzeptiere die Nutzungsbedingungen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
