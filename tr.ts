@@ -2352,7 +2352,7 @@ Bunu yapmak istediğinize emin misiniz?</translation>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="87"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>&apos;%1&apos; jar dosyası, &apos;%2&apos; hedefine çıkartılamadı</translation>
     </message>
@@ -4862,30 +4862,30 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
 <context>
     <name>LauncherPartLaunch</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="99"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="73"/>
         <source>Launcher library could not be found. Please check your installation.</source>
         <translation>Başlatıcı kütüphanesi bulunamadı. Lütfen kurulumunuzu kontrol edin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
         <translation>Klasik başlatıcı kütüphanesi bulunamadı. Lütfen kurulumunuzu kontrol edin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Wrapper komutu &quot;%1&quot; bulunamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="199"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="164"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Minecraft başlatılamadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="207"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="219"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
         <source>Game crashed.</source>
         <translation>Oyun çöktü.</translation>
     </message>
@@ -5309,27 +5309,27 @@ Sebep:
 <context>
     <name>MMCZip::ExportToZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="444"/>
+        <location filename="src/launcher/MMCZip.cpp" line="449"/>
         <source>Folder doesn&apos;t exist</source>
         <translation>Klasör mevcut değil</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="447"/>
+        <location filename="src/launcher/MMCZip.cpp" line="452"/>
         <source>Could not create file</source>
         <translation>Dosya oluşturulamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="455"/>
+        <location filename="src/launcher/MMCZip.cpp" line="460"/>
         <source>Could not create:</source>
         <translation>Oluşturulamadı:</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="476"/>
+        <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not read and compress %1</source>
         <translation>Okunamadı ve sıkıştırılamadı %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="482"/>
+        <location filename="src/launcher/MMCZip.cpp" line="487"/>
         <source>A zip error occurred</source>
         <translation>Bir sıkıştırma hatası oluştu</translation>
     </message>
@@ -9821,8 +9821,8 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
         <translation>Bilinmeyen format sürümü!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Boş dizin yolu</translation>
     </message>
@@ -10015,8 +10015,8 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
         <translation>Popülerliğe göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Son güncellenene göre sırala</translation>
     </message>
@@ -10031,8 +10031,8 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
         <translation>Yapımcıya göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>İndirilmeye Göre Sırala</translation>
     </message>

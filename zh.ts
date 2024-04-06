@@ -2358,7 +2358,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="87"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>无法解压原 Jar 文件 “%1” 到目标位置 “%2”</translation>
     </message>
@@ -4891,30 +4891,30 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 <context>
     <name>LauncherPartLaunch</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="99"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="73"/>
         <source>Launcher library could not be found. Please check your installation.</source>
         <translation>找不到启动所需的运行库。请检查您是否有相应的运行库文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
         <translation>找不到旧版启动器库。请检查您是否正确安装启动器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>找不到 wrapper 命令”%1“。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="199"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="164"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>无法启动 Minecraft！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="207"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="219"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
         <source>Game crashed.</source>
         <translation>游戏已崩溃。</translation>
     </message>
@@ -5338,27 +5338,27 @@ Reason:
 <context>
     <name>MMCZip::ExportToZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="444"/>
+        <location filename="src/launcher/MMCZip.cpp" line="449"/>
         <source>Folder doesn&apos;t exist</source>
         <translation>文件夹不存在</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="447"/>
+        <location filename="src/launcher/MMCZip.cpp" line="452"/>
         <source>Could not create file</source>
         <translation>无法创建文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="455"/>
+        <location filename="src/launcher/MMCZip.cpp" line="460"/>
         <source>Could not create:</source>
         <translation>无法创建：</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="476"/>
+        <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not read and compress %1</source>
         <translation>无法读取和压缩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="482"/>
+        <location filename="src/launcher/MMCZip.cpp" line="487"/>
         <source>A zip error occurred</source>
         <translation>尝试用 ZIP 解压文件时出现错误</translation>
     </message>
@@ -9910,8 +9910,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>未知格式版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>空路径</translation>
     </message>
@@ -10104,8 +10104,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>按热门度排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>按最后更新时间排序</translation>
     </message>
@@ -10120,8 +10120,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>按作者排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>按下载量排序</translation>
     </message>

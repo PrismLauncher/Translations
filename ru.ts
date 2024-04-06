@@ -2362,7 +2362,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="87"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>Не удалось распаковать нативный jar-файл «%1» в указанное место «%2»</translation>
     </message>
@@ -4931,30 +4931,30 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 <context>
     <name>LauncherPartLaunch</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="99"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="73"/>
         <source>Launcher library could not be found. Please check your installation.</source>
         <translation>Библиотека лаунчера не найдена. Пожалуйста, проверьте вашу установку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
         <translation>Не удалось найти библиотеку лаунчера старых версий. Пожалуйста, проверьте целостность установки.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Не удалось найти команду обёртки «%1».</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="199"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="164"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Не удалось запустить Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="207"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="219"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
         <source>Game crashed.</source>
         <translation>Игра вылетела.</translation>
     </message>
@@ -5378,27 +5378,27 @@ Reason:
 <context>
     <name>MMCZip::ExportToZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="444"/>
+        <location filename="src/launcher/MMCZip.cpp" line="449"/>
         <source>Folder doesn&apos;t exist</source>
         <translation>Папка не существует</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="447"/>
+        <location filename="src/launcher/MMCZip.cpp" line="452"/>
         <source>Could not create file</source>
         <translation>Не удалось создать файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="455"/>
+        <location filename="src/launcher/MMCZip.cpp" line="460"/>
         <source>Could not create:</source>
         <translation>Не удалось создать:</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="476"/>
+        <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not read and compress %1</source>
         <translation>Не удалось прочитать и сжать %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="482"/>
+        <location filename="src/launcher/MMCZip.cpp" line="487"/>
         <source>A zip error occurred</source>
         <translation>Произошла zip ошибка</translation>
     </message>
@@ -9997,8 +9997,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Неизвестная версия формата!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Пустой путь</translation>
     </message>
@@ -10191,8 +10191,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Упорядочить по популярности</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Упорядочить по дате обновления</translation>
     </message>
@@ -10207,8 +10207,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Упорядочить по автору</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Упорядочить по количеству загрузок</translation>
     </message>

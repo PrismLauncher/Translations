@@ -2330,7 +2330,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="87"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>Kunde inte extrahera lokal JAR &apos;%1&apos; till destinationen &apos;%2&apos;</translation>
     </message>
@@ -4847,30 +4847,30 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
 <context>
     <name>LauncherPartLaunch</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="99"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="73"/>
         <source>Launcher library could not be found. Please check your installation.</source>
         <translation>Launcher-biblioteket kunde inte hittas. Vänligen kontrollera din installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="112"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
         <translation>Legacy launcher-bibliotek kunde inte hittas. Vänligen kontrollera din installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Wrapper-kommando &quot;%1&quot; hittades inte.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="199"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="164"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Kunde inte starta Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="207"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="219"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
         <source>Game crashed.</source>
         <translation>Spelet kraschade.</translation>
     </message>
@@ -5291,27 +5291,27 @@ Anledning:
 <context>
     <name>MMCZip::ExportToZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="444"/>
+        <location filename="src/launcher/MMCZip.cpp" line="449"/>
         <source>Folder doesn&apos;t exist</source>
         <translation>Mapp finns inte</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="447"/>
+        <location filename="src/launcher/MMCZip.cpp" line="452"/>
         <source>Could not create file</source>
         <translation>Kunde inte skapa fil</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="455"/>
+        <location filename="src/launcher/MMCZip.cpp" line="460"/>
         <source>Could not create:</source>
         <translation>Kunde inte skapa:</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="476"/>
+        <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not read and compress %1</source>
         <translation>Kunde inte läsa och komprimera %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="482"/>
+        <location filename="src/launcher/MMCZip.cpp" line="487"/>
         <source>A zip error occurred</source>
         <translation>Ett zip-fel har uppstått</translation>
     </message>
@@ -9699,8 +9699,8 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
         <translation>Okänd formatversion!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Sökvägen är tom</translation>
     </message>
@@ -9893,8 +9893,8 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <translation>Sortera efter popularitet</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Sortera efter senast uppdaterad</translation>
     </message>
@@ -9909,8 +9909,8 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <translation>Sortera efter skapare</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Sortera efter nedladdningar</translation>
     </message>
