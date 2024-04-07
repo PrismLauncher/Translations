@@ -12701,7 +12701,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation>%1 서비스에 액세스할 수 있는 권한을 얻는 중.</translation>
+        <translation>%1 서비스의 액세스 권한을 얻는 중.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="64"/>
