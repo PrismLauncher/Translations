@@ -76,7 +76,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <source>Miscellaneous</source>
-        <translation>Misceláneo</translation>
+        <translation>Misceláneos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="320"/>
@@ -1852,7 +1852,7 @@ Algunas versiones de Minecraft podrían no iniciar.
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="138"/>
         <source>Export %1</source>
-        <translation type="unfinished">Exportar %1</translation>
+        <translation>Exportar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -3608,8 +3608,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="573"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Usa Zink, un driver de Mesa OpenGl que implementa OpenGL sobre Vulkan. El Rendimiento puede variar dependiendo de la situación.
-Nota: Si no se encuentra un controlador Vulkan, el rendimiento por software será usado</translation>
+        <translation>Usa Zink, un controlador OpenGL de Mesa que implementa OpenGL sobre Vulkan. El rendimiento puede variar dependiendo de la situación. Nota: Si no se encuentra un controlador Vulkan adecuado, se utilizará el rendimiento por software.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
@@ -5507,7 +5506,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="661"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>Subreddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="673"/>
@@ -6662,7 +6661,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="62"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>La adquisición del perfil de Minecraft Java falló: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -6727,7 +6726,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation type="unfinished"></translation>
+        <translation>no se pudo obtener índice de versión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="58"/>
@@ -6773,13 +6772,16 @@ Este puede ser actualizado usando solo un archivo con el formato %1
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si se edita, también se editará el original.
+Ruta canónica: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="122"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advertencia: Este recurso está enlazado desde otro sitio. Si se edita, también se editará el original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -7390,7 +7392,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="87"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizando la respuesta de la API de Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="102"/>
