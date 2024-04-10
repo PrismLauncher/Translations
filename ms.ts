@@ -2779,7 +2779,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="64"/>
         <source>Remove Icon</source>
-        <translation>Hapus Ikon</translation>
+        <translation>Alih Keluar Ikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
