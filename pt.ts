@@ -11053,7 +11053,7 @@ Aviso: Este recurso está ligado por ligação rígida a partir de outro local. 
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="104"/>
         <source>View widget themes folder.</source>
-        <translation>Abrir a pasta de temas dos componentes,</translation>
+        <translation>Abrir a pasta de temas dos componentes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
