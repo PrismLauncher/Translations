@@ -3639,7 +3639,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="573"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar o Zink, um driver de OpenGL Mesa que implementa o OpenGL em cima do Vulkan. A performance deve variar dependendo da situação. Nota: Se nenhum driver Vulkan compatível for encontrado, a renderização por software será usada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
