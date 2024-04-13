@@ -5662,7 +5662,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>Abrir a pasta raiz do Launcher no explorador de ficheiros</translation>
+        <translation>Abrir a pasta raiz do Launcher no explorador de ficheiros.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="625"/>
