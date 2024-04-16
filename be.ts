@@ -7,13 +7,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Сэрвіс &amp;Pastebin</translation>
+        <translation>&amp;Сэрвіс Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Сэрвіс &amp;Устаўкі</translation>
+        <translation>Сэрвіс устаўкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -23,12 +23,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Заўвага: магчыма, вы пажадаеце зьмяніць альбо ачысьціць URL пасьля зьмены сэрвіса ўстаўкі.</translation>
+        <translation>Заўвага: магчыма, вы пажадаеце змяніць альбо ачысціць URL пасля змены сэрвіса ўстаўкі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>API Ключы</translation>
+        <translation>Ключы API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -39,13 +39,13 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Заўвага: напэўна, вам не патрэбна зьмяняць гэта, калі ўваход у акаўнт Microsoft ужо працуе.</translation>
+        <translation>Заўвага: напэўна, вам не патрэбна змяняць гэта, калі ўваход у ўліковы запіс Microsoft ужо працуе.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="284"/>
         <source>(Default)</source>
-        <translation>(Па змаўчаньні)</translation>
+        <translation>(Па ўмаўчанні)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
@@ -56,12 +56,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation>API &amp;Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Заўвага: вам патрэбна зьмяняць гэта толькі каб атрымаць доступ да прыватных даных. Прачытайце &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;дакументацыю&lt;/a&gt; каб даведацца больш.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Заўвага: вам патрэбна змяняць гэта толькі каб атрымаць доступ да прыватных даных. Прачытайце &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;дакументацыю&lt;/a&gt; каб даведацца больш.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -91,7 +91,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Сэр&amp;вер метаданых</translation>
+        <translation>Сер&amp;вер метаданых</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -101,22 +101,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Вы можаце напісаць іншы сэрвер метаданых для выкарыстаньня патчаныя бібліятэкі альбо іншыя хакі.</translation>
+        <translation>Вы можаце напісаць іншы сервер метаданых для выкарыстання выпраўленыя бібліятэкі альбо іншыя хакі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Напішыце асобную URL для мета тут</translation>
+        <translation>Напішыце асобны URL для метаданых тут.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation>&amp;CurseForge API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Заўвага: напэўна, вам не патрэбна зьмяняць гэта, калі CurseForge ужо працуе.</translation>
+        <translation>Заўвага: напэўна, вам не патрэбна змяняць гэта, калі CurseForge ужо працуе.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation>Непадтрымліваемы рэжым усталёўкі</translation>
+        <translation>Непадтрымліваемы рэжым устаноўкі</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
@@ -162,57 +162,57 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation>Незразумелы тып мадыфікацыі: %1</translation>
+        <translation>Незразумелы тып мода: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Не атрымалася знайсьці версію для %1 лоадэра</translation>
+        <translation>Не атрымалася знайсці версію для загрузчыка %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="388"/>
         <source>No loader version set for modpack!</source>
-        <translation>Для модпака ня задана версія загрузчыка!</translation>
+        <translation>Для зборкі не выбрана версія загрузчыка!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Невядомы альбо непадтрымліваемы рэжым спампаваньня: %1</translation>
+        <translation>Невядомы альбо непадтрымліваемы рэжым спампоўвання: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
         <source>Downloading configs...</source>
-        <translation>Спампуюцца конфігі...</translation>
+        <translation>Спампоўваюцца канфігі...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="632"/>
         <source>Config download</source>
-        <translation>Спампаваньне налад</translation>
+        <translation>Спампоўванне налад</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="674"/>
         <source>Extracting configs...</source>
-        <translation>Выманьне налад...</translation>
+        <translation>Распакоўка налад...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="680"/>
         <source>Failed to open pack configs %1!</source>
-        <translation type="unfinished">Не атрымалася адкрыць налады версіі %1!</translation>
+        <translation>Не атрымалася адкрыць налады версіі %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
         <source>Selecting optional mods...</source>
-        <translation>Выбар неабавязковых мадыфікацый...</translation>
+        <translation>Выбар неабавязковых модаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
         <source>Downloading mods...</source>
-        <translation>Спампуюцца мадыфікацыі...</translation>
+        <translation>Спампоўваюцца моды...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Mod download</source>
-        <translation>Спампаваць мадыфікацыю</translation>
+        <translation>Спампаваць мод</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -222,17 +222,17 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="747"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
         <source>Unknown download type: %1</source>
-        <translation>Нязразумелы тып спампоўкі: %1</translation>
+        <translation>Незразумелы тып спампоўкі: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Знойдзены заблакаваныя мады</translation>
+        <translation>Знойдзены заблакіраваныя моды</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Наступныя файлы недасяжны для спампоўцы ў невядомых лаўнчарах.&lt;br/&gt;Вам патрэбна спампаваць іх уручную і дадаць іх да рахунка.</translation>
+        <translation>Наступныя файлы недаступны для спампоўцы ў невядомых лаўнчарах.&lt;br/&gt;Вам патрэбна спампаваць іх уручную і дадаць іх да рахунка.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -242,17 +242,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
         <source>Failed to extract mods...</source>
-        <translation>Не атрымалася выняць мадыфікацыі...</translation>
+        <translation>Не атрымалася распакаваць моды...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="937"/>
         <source>Extracting mods...</source>
-        <translation>Разкрыване мадыфікацый...</translation>
+        <translation>Выманне модаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1008"/>
         <source>Installing modpack</source>
-        <translation>Усталяваньне модпака</translation>
+        <translation>Устаноўка зборкі</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
@@ -262,12 +262,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
         <source>Unknown loader type: </source>
-        <translation>Незразумелы тып загрузчыка </translation>
+        <translation>Незразумелы тып загрузчыка: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1055"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Не атрымалася стварыць кампанент версіі</translation>
+        <translation>Памылка стварэння кампанент зборкі</translation>
     </message>
 </context>
 <context>
@@ -275,12 +275,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation>Аб праграме</translation>
+        <translation>Пра Prism Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Кастамны лаўнчар які робіць змяненне Майнкрафта легчэй пазваляе табе маць некалькі зборак Майнкрафта разам.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Карыстальніцкі лаўнчар які робіць змяненне Майнкрафта лягчэй дазваляючы табе мець некалькі зборак Майнкрафта разам.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -291,7 +291,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Дата Стварэння:</translation>
+        <translation>Дата стварэння:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -316,7 +316,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation>Аб Qt</translation>
+        <translation>Пра Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
@@ -326,7 +326,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="139"/>
         <source>About %1</source>
-        <translation>Дзесьці каля %1</translation>
+        <translation>Каля %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="155"/>
@@ -361,25 +361,25 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Оффлайн</translation>
+        <translation>Афлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Невядомы</translation>
+        <translation>Невядомы</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Неправераны</translation>
+        <translation>Неправерана</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Оффлайн</translation>
+        <translation>Афлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
@@ -403,13 +403,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>Пратэрмінавана</translation>
+        <translation>Пратэрмінаваны</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="319"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Страчан</translation>
+        <translation>Страчаны</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
@@ -420,7 +420,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>Тып акаўнта (MSA ці афлайн)</translation>
+        <translation>Тып уліковага запісу (MSA ці афлайн)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -440,7 +440,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
         <source>Username</source>
-        <translation>Імя юзера</translation>
+        <translation>Імя карыстальніка</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
@@ -464,12 +464,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Імя карыстача Minecraft зьвязана з вашым уліковым запісам.</translation>
+        <translation>Імя карыстальніка Minecraft завязана з вашым уліковым запісам.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>User name of the account.</source>
-        <translation>Імя карыстача ўліковага запісу.</translation>
+        <translation>Імя карыстальніка ўліковага запісу.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -478,7 +478,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Current status of the account.</source>
-        <translation>Статус акаунта зараз.</translation>
+        <translation>Бягучы статус уліковага запісу.</translation>
     </message>
     <message>
         <source>Can this account migrate to a Microsoft account?</source>
@@ -503,19 +503,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="67"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Выдалі&amp;ць</translation>
+        <translation>Выдаліць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="72"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>&amp;Зрабіць значэньням па змаўчаньні</translation>
+        <translation>Выкарыстоўваць па змаўчанні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="80"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Няма значэньня па змаўчаньні</translation>
+        <translation>Няма значэння па змаўчанні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="85"/>
@@ -527,18 +527,18 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="90"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation>&amp;Выдаліць Скін</translation>
+        <translation>&amp;Выдаліць скін</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="93"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation>Выдаліць скін і вярнуцца да звычайнага</translation>
+        <translation>Выдаліць скін і вярнуцца да прадвызначанага</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;Дадаць Майкрасофт</translation>
+        <translation>&amp;Увайсці праз Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
@@ -564,32 +564,32 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Вітаем!
-Калі вы тут упершыню, націсніце кнопку &quot;Увайсці праз Microsoft&quot;, каб прывязаць свой акаўнт Microsoft.</translation>
+Калі вы тут упершыню, націсніце кнопку &quot;Увайсці праз Microsoft&quot;, каб прывязаць свой уліковы запіс Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="110"/>
         <source>Context menu</source>
-        <translation>Кантэкст меню</translation>
+        <translation>Кантэкстнае меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="138"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Напішыце, калі ласка, пошту і пароль вашага ўліковага запісу Mojang каб дадаць акаунт.</translation>
+        <translation>Напішыце, калі ласка, пошту і пароль вашага ўліковага запісу Mojang каб дадаць уліковы запіс.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Вы павінны дадаць акаўнт Microsoft, на якім ёсць Minecraft да таго, як дадаваць па-засеткавы акаўнт.&lt;br&gt;&lt;br&gt;Калі вы страцілі свой акаўнт, звярніцеся да падтрымкі Microsoft.</translation>
+        <translation>Вы павінны дадаць уліковы запіс Microsoft, на якім ёсць Minecraft да таго, як дадаваць па-за сеткавы ўліковы запіс.&lt;br&gt;&lt;br&gt;Калі вы страцілі свой уліковы запіс, звярніцеся да падтрымкі Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Remove account?</source>
-        <translation>Выдаліць акаўнт?</translation>
+        <translation>Выдаліць уліковы запіс?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Do you really want to delete this account?</source>
-        <translation>Вы сапраўды хаціце выдаліць гэты акаўнт?</translation>
+        <translation>Вы сапраўды хаціце выдаліць гэты ўліковы запіс?</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -607,23 +607,23 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
         <source>Skin Delete</source>
-        <translation>Выдаліць Скін</translation>
+        <translation>Выдаліць скін</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="260"/>
         <source>Failed to delete current skin!</source>
-        <translation>Не атрымалася выдаліць ваш скін!</translation>
+        <translation>Не атрымалася выдаліць бягучы скін!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
         <source>Accounts</source>
-        <translation>Акаунты</translation>
+        <translation>Уліковыя запісы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="103"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Дадаць &amp;Па-за сеткай</translation>
+        <translation>Дадаць &amp;па-за сеткай</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="151"/>
@@ -637,7 +637,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="159"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Калі ласка, напішыце імя карыстача, каб дадаць уліковы запіс па-за сеткай.</translation>
+        <translation>Калі ласка, напішыце імя карыстальніка, каб дадаць уліковы запіс па-за сеткай.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
@@ -650,17 +650,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="59"/>
         <source>Sending request to auth servers...</source>
-        <translation>Адпраўленьне запыту на сэрвера аўтарызацыі...</translation>
+        <translation>Адпраўленне запыту на сервера аўтарызацыі...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Authentication task succeeded.</source>
-        <translation>Аўтэнтыфікацыя выканана пасьпяхова.</translation>
+        <translation>Аўтэнтыфікацыя выканана паспяхова.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Не атрымалась далучыцца да сэрвера аўтэнтыфікацыі.</translation>
+        <translation>Не атрымалася далучыцца да сервера аўтэнтыфікацыі.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
@@ -670,12 +670,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>Не атрымалася прайсьці аўтэнтыфікацыю. Сесія пратэрмінавана.</translation>
+        <translation>Не атрымалася прайсці аўтэнтыфікацыю. Сесія пратэрмінавана.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Не атрымалася прайсьці аўтэнтыфікацыю. Уліковы запіс больш не існуе.</translation>
+        <translation>Не атрымалася прайсці аўтэнтыфікацыю. Уліковы запіс больш не існуе.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
@@ -690,7 +690,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>Client ID зьмяніўся. Неабходна стварыць новую сэсію.</translation>
+        <translation>Client ID зменены. Неабходна стварыць новую сесію.</translation>
     </message>
 </context>
 <context>
@@ -714,15 +714,15 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>У гэтай усталёўкі есць файл абнаўлення ў %1
+        <translation>У гэтай устаноўкі ёсць файл абнаўлення ў %1
 
 Час: %2
 Пры абнаўленні з версіі %3 да %4
-Шлях усталёўкі: %5
+Шлях устаноўкі: %5
 Шлях даных: %6
-Хутчэй за ўсё, гэта азначае няўдалую спробу абнаўлення. Калі ласка, пераканайцеся, што ваша усталёўка працуе нармальна, перад тым, як працягнуць.
+Хутчэй за ўсё, гэта азначае няўдалую спробу абнаўлення. Калі ласка, пераканайцеся, што ваша ўстаноўка працуе нармальна, перад тым, як працягнуць.
 
-Падрабязнасці пра гэту спробу абнаўлення знаходзяцца ў журнале усталёўкі ў:
+Падрабязнасці пра гэту спробу абнаўлення знаходзяцца ў журнале ўстаноўкі ў:
 %7
 
 Націсніце «Ігнараваць» ніжэй, каб выдаліць гэты файл абнаўлення і працягнуць.</translation>
@@ -758,8 +758,9 @@ for details.</source>
         <translation>Паспяховае абнаўленне
 
 Цяпер вы выкарыстоўваеце %1.
-Праверце журнал абнаўленняў Prism Launcher для падрабязнасцей:
-%1.</translation>
+Праверце журнал абнаўленняў Prism Launcher:
+%1.
+для падрабязнасцей.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="999"/>
@@ -783,22 +784,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1362"/>
         <source>Aborted</source>
-        <translation>Спынено</translation>
+        <translation>Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1772"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Былі знойдзены старыя даныя з %1, але ў вас ужо ёсьць даныя для %2. На жаль, вам трэба будзе зрабіць перанос даных самастойна. Нагадаць вам аб пераносе, калі вы запусьціце %2 наступны раз?</translation>
+        <translation>Былі знойдзены старыя даныя з %1, але ў вас ужо ёсць даныя для %2. На жаль, вам трэба будзе зрабіць перанос даных самастойна. Нагадаць вам аб пераносе, калі вы запусціце %2 наступны раз?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1776"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>Здаецца, вы выкарыстоўвалі %1 раней. Вы жадаеце перанесьці свае даныя ў новае месца %2?</translation>
+        <translation>Здаецца, вы выкарыстоўвалі %1 раней. Вы жадаеце перанесці свае даныя ў новае месца %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1782"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Здаецца, вы выкарыстоўвалі %1 у %2 раней. Вы жадаеце перанесьці даныя ў новае месца %3?</translation>
+        <translation>Здаецца, вы выкарыстоўвалі %1 у %2 раней. Вы жадаеце перанесці даныя ў новае месца %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1825"/>
@@ -811,7 +812,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Абнаўленьне індэкса рэсурсаў...</translation>
+        <translation>Абнаўленне індэкса рэсурсаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
@@ -822,7 +823,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="43"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Aborted</source>
-        <translation>Спынено</translation>
+        <translation>Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
@@ -832,7 +833,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Атрыманьне файлаў рэсурсаў з Mojang...</translation>
+        <translation>Атрыманне файлаў рэсурсаў з Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="92"/>
@@ -855,7 +856,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Сартаваць па папулярнасьці</translation>
+        <translation>Сартаваць па папулярнасці</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
@@ -880,37 +881,37 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation>Усталяваць</translation>
+        <translation>Устанавіць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Выбраць прапануемыя</translation>
+        <translation>Выбраць прапанаваныя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished">Выкарыстаць адкрыты код</translation>
+        <translation>Выкарыстоўваць «Адкрыты код»</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Ачысьціць усё</translation>
+        <translation>Ачысціць усё</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Select a share code</source>
-        <translation type="unfinished">Увядзіце адкрыты код</translation>
+        <translation>Увядзіце адкрыты код</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Share code:</source>
-        <translation type="unfinished">Код:</translation>
+        <translation>Код агульнага доступу:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="352"/>
         <source>No share code specified!</source>
-        <translation type="unfinished">Код не пазначаны!</translation>
+        <translation>Код агульнага доступу не пазначаны!</translation>
     </message>
 </context>
 <context>
@@ -918,7 +919,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Сапраўды ўключыць гэтую мадыфікацыю?</translation>
+        <translation>Сапраўды ўключыць гэты мод?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
@@ -931,7 +932,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="86"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Увага: функцыя дагэтуль у распрацоўцы. Калі ў вас узніклі праблемы з імпартаваным модпакам, гэта можа быць памылка.</translation>
+        <translation>Увага: функцыя дагэтуль у распрацоўцы. Калі ў вас узніклі праблемы з імпартаванай зборкай, гэта можа быць памылка.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
@@ -955,7 +956,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Зараз няма даступный версій для Minecraft %1</translation>
+        <translation>Зараз няма даступных версій для Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
@@ -970,7 +971,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
         <source>Installing</source>
-        <translation>Усталяваньне</translation>
+        <translation>Устаноўка</translation>
     </message>
 </context>
 <context>
@@ -988,7 +989,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="53"/>
         <source>Working...</source>
-        <translation>Працуе...</translation>
+        <translation>Апрацоўка...</translation>
     </message>
 </context>
 <context>
@@ -1004,12 +1005,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="167"/>
         <source>All mods found</source>
-        <translation>Знойдзены ўсе мадыфікацыі</translation>
+        <translation>Знойдзены ўсе моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
         <source>Please download the missing mods.</source>
-        <translation>Калі ласка, спампуйце адсутныя мадыфікацыі.</translation>
+        <translation>Калі ласка, спампуйце адсутныя моды.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
@@ -1029,12 +1030,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Выберыце каталог, у які вы спампавалі мадыфікацыі</translation>
+        <translation>Выберыце каталог, у які вы спампавалі моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Ня знойдзена &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Не знойдзена &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
@@ -1044,7 +1045,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Наладжаная вамі папка глабальных мадыфікацый і папка спамповак па змаўчанні аўтаматычна правяраюцца на наяўнасць спампаваных мадыфікацый. Калі там будуць знойдзены мадыфікацыі, яны будуць скапіяваны ў версію.&lt;/p&gt;&lt;p&gt;Дадаткова вы можаце перацягнуць спампаваныя мадыфікацыі ў гэтае акно, або дадаць папку для прагляду, калі вы спампуеце мадыфікацыі ня ў месца па змаўчанні.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Наладжаная вамі папка глабальных мадыфікацый і папка спамповак па змаўчанні аўтаматычна правяраюцца на наяўнасць спампаваных мадыфікацый. Калі там будуць знойдзены моды, яны будуць скапіяваны ў версію.&lt;/p&gt;&lt;p&gt;Дадаткова вы можаце перацягнуць спампаваныя моды ў гэтае акно, або дадаць папку для прагляду, калі вы спампуеце моды не ў месца па змаўчанні.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1057,7 +1058,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="52"/>
         <source>Equipping cape</source>
-        <translation>Апранаем плашч</translation>
+        <translation>Надзяваем плашч</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="72"/>
@@ -1070,7 +1071,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="71"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Не атрымалася знайсьці бібліятэку праверкі Java. Калі ласка, праверце вашую ўсталёўку.</translation>
+        <translation>Не атрымалася знайсці бібліятэку праверкі Java. Калі ласка, праверце вашую ўстаноўку.</translation>
     </message>
 </context>
 <context>
@@ -1078,27 +1079,27 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Выберыце крыніцу мадыфікацый</translation>
+        <translation>Выберыце крыніцу модаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation>Прапусьціць гэтую мадыфікацыю</translation>
+        <translation>Прапусціць гэты мод</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation>Прапусьціць усё</translation>
+        <translation>Прапусціць усё</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation>Пацьвердзіць для ўсіх</translation>
+        <translation>Пацвердзіць для ўсіх</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation>Пацьвердзіць</translation>
+        <translation>Пацвердзіць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
@@ -1112,33 +1113,33 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="172"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Aborted</source>
-        <translation>Спынено</translation>
+        <translation>Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>Некаторыя задачы па загрузцы метаданых кампанента ня выкананы.</translation>
+        <translation>Некаторыя задачы па загрузцы метаданых кампанента не выкананы.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Выяўлены супярэчлівыя патрабаваньні падчас праверкі залежнасьцей!</translation>
+        <translation>Выяўлены супярэчлівыя патрабаванні падчас праверкі залежнасьцей!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Версія мае супярэчлівыя залежнасьці.</translation>
+        <translation>Версія мае супярэчлівыя залежнасці.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="455"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Версія мае нявырашальныя залежнасьці падчас загрузкі/праверкі запуску.</translation>
+        <translation>Версія мае невырашальныя залежнасці падчас загрузкі/праверкі запуску.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>Збой задачы абнаўленьня метаданых кампанента падчас спампоўкі з аддалёнага сэрвера:
+        <translation>Збой задачы абнаўлення метаданых кампанента падчас спампоўкі з дыстанцыйнага сервера:
 %1</translation>
     </message>
 </context>
@@ -1157,7 +1158,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>Выкананьне %1 задання(ў) (%2 з %3 выканана)</translation>
+        <translation>Выкананне %1 задання(ў) (%2 з %3 выканана)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="280"/>
@@ -1167,17 +1168,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="282"/>
         <source>Waiting for a task to start...</source>
-        <translation>Чаканьне запуску заданьня...</translation>
+        <translation>Чаканне запуску задання...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="284"/>
         <source>Executing 1 task:</source>
-        <translation>Выкананьне 1 задачы:</translation>
+        <translation>Выкананне 1 задачы:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="286"/>
         <source>Task finished.</source>
-        <translation>Заданьне выканана.</translation>
+        <translation>Заданне выканана.</translation>
     </message>
 </context>
 <context>
@@ -1190,7 +1191,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation>Імя</translation>
+        <translation>Назва</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
@@ -1205,17 +1206,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Адключэньне захавае загрузчык модаў (напр: Fabric, Quilt і г.д.), але выдаліць папку мадыфікацый і іх налад.</translation>
+        <translation>Адключэнне захавае загрузчык модаў (напр: Fabric, Quilt і г.д.), але выдаліць папку мадыфікацый і іх налад.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Налады капіяваньня версіі</translation>
+        <translation>Налады капіявання версіі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation>Скапіяваць мадыфікацыі</translation>
+        <translation>Скапіяваць моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
@@ -1230,52 +1231,52 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation>Скапіяваць сьветы</translation>
+        <translation>Скапіяваць светы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation>Дадатковыя налады капіяваньня</translation>
+        <translation>Дадатковыя налады капіявання</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>Выкарыстаць сымбалічныя або жорсткія спасылкі замест капіяваньня файлаў.</translation>
+        <translation>Выкарыстаць сімвалічныя або жорсткія спасылкі замест капіявання файлаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>Налады сымбалічнай і жорсткай спасылак</translation>
+        <translation>Налады сімвалічных і жорсткіх спасылак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation>Спасылкі падтрымліваюцца ў большасьці файлавых сістэм, акрамя FAT</translation>
+        <translation>Спасылкі падтрымліваюцца ў большасці файлавых сістэм, акрамя FAT</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation>Зьвязаць кожны рэсурс паасобку, замест таго, каб зьвязаць усе папкі адразу</translation>
+        <translation>Звязаць кожны рэсурс паасобку, замест таго, каб звязаць усе папкі адразу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation>Зьвязаць файлы рэкурсіўна</translation>
+        <translation>Звязаць файлы рэкурсіўна</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Калі выбрана налада &quot;капіяваць сьветы&quot;, даныя сьветаў будуць скапіяваны, а не зьвязаны, і, такім чынам, яны ня будуць агульнымі для розных версій.</translation>
+        <translation>Калі выбрана налада &quot;капіяваць светы&quot;, даныя светаў будуць скапіяваны, а не звязаны, і, такім чынам, яны не будуць агульнымі для розных версій.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation>Ня зьвязваць сьветы</translation>
+        <translation>Не звязваць светы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation>Выкарыстаць жорсткія спасылкі замест капіяваньня файлаў.</translation>
+        <translation>Выкарыстаць жорсткія спасылкі замест капіявання файлаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
@@ -1286,12 +1287,12 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation>Выкарыстаць сымбалічныя спасылкі замест капіяваньня файлаў.</translation>
+        <translation>Выкарыстаць сімвалічныя спасылкі замест капіявання файлаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation>Выкарыстаць сымбалічныя спасылкі</translation>
+        <translation>Выкарыстаць сімвалічныя спасылкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
@@ -1301,12 +1302,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>Файлы, кланаваныя з дапамогай reflinks, не займаюць дадатковага месца, пакуль ня будуць зьменены.</translation>
+        <translation>Файлы, кланіраваныя з дапамогай reflinks, не займаюць дадатковага месца, пакуль не будуць зменены.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation>Кланаваць замест капіяваньня</translation>
+        <translation>Кланіраваць замест капіявання</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
@@ -1316,12 +1317,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>Скапіяваць шэйдары</translation>
+        <translation>Скапіяваць шэйдэры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation>Скапіяваць сэрверы</translation>
+        <translation>Скапіяваць серверы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
@@ -1341,7 +1342,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
         <source>No group</source>
-        <translation>Няма группы</translation>
+        <translation>Няма групы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
@@ -1356,7 +1357,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>На Windows для стварэньня сымбалічных патрэбны права адміністратара.</translation>
+        <translation>На Windows для стварэння сімвалічных спасылак патрэбны права адміністратара.</translation>
     </message>
 </context>
 <context>
@@ -1364,7 +1365,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="79"/>
         <source>Core mods</source>
-        <translation>Асноўныя мадыфікацыі</translation>
+        <translation>Асноўныя моды</translation>
     </message>
 </context>
 <context>
@@ -1387,7 +1388,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Каманда пасьля &amp;выхаду:</translation>
+        <translation>Каманда пасля &amp;выхаду:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
@@ -1413,7 +1414,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="52"/>
         <source>Custom Commands</source>
-        <translation>Уласныя каманды</translation>
+        <translation>Карыстальніцкія каманды</translation>
     </message>
 </context>
 <context>
@@ -1431,22 +1432,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
         <source>Snapshots</source>
-        <translation>Хуткія здымкі</translation>
+        <translation>Снапошты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation>Старыя Здымкі</translation>
+        <translation>Старыя снапшоты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation>Бэты</translation>
+        <translation>Бэта версіі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation>Альфы</translation>
+        <translation>Альфа версіі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
@@ -1462,7 +1463,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation>Загрузчык мадыфікацый</translation>
+        <translation>Загрузчык модаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
@@ -1497,17 +1498,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation>Уласный</translation>
+        <translation>Карыстальніцкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="121"/>
         <source>No Minecraft version is selected.</source>
-        <translation>Версія MInecraft ня выбрана.</translation>
+        <translation>Версія Minecraft не выбрана.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="127"/>
         <source>No mod loader is selected.</source>
-        <translation>Загрузчык модаў ня выбраны.</translation>
+        <translation>Загрузчык модаў не выбраны.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="158"/>
@@ -1520,12 +1521,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation>Сканаваньне файлаў...</translation>
+        <translation>Сканіраванне файлаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
         <source>Failed to scan source path.</source>
-        <translation>Не атрымалася сканаваць шлях.</translation>
+        <translation>Не атрымалася сканіраваць шлях.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
@@ -1536,12 +1537,12 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation>Спынено</translation>
+        <translation>Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation>Некаторыя сьцежкі не могуць быць скапіяваны!</translation>
+        <translation>Некаторыя шляхі не могуць быць скапіяваны!</translation>
     </message>
 </context>
 <context>
@@ -1554,12 +1555,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="33"/>
         <source>Email</source>
-        <translation>Емэйл</translation>
+        <translation>Электронная пошта</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="43"/>
         <source>Password</source>
-        <translation>Гасла</translation>
+        <translation>Пароль</translation>
     </message>
 </context>
 <context>
@@ -1567,17 +1568,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation>Бачым ці моды маюць метадату...</translation>
+        <translation>Правяраем, ці маюць моды метаданыя...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>Запрашаем метадату інфармацыі з %1...</translation>
+        <translation>Запытваем інфармацыю метаданых з %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>Запрашаем метадату інфармацыі з %1 для &apos;%2&apos;...</translation>
+        <translation>Запытваем інфармацыі метаданых пра &apos;%2&apos; з %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="246"/>
@@ -1589,7 +1590,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="402"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="469"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Аналізуем адзказ API ад CurseForge для &apos;%1&apos;...</translation>
+        <translation>Аналізуем адказ API ад CurseForge для &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1597,12 +1598,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="16"/>
         <source>Determining game ownership.</source>
-        <translation>Рашаем уладанне гульні.</translation>
+        <translation>Правяраем уладанне гульнёй.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
-        <translation>Атрымалі правы</translation>
+        <translation>Правы атрыманы</translation>
     </message>
 </context>
 <context>
@@ -1620,7 +1621,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
         <source>Name</source>
-        <translation type="unfinished">Імя</translation>
+        <translation>Назва</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
@@ -1630,12 +1631,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Дадаць</translation>
+        <translation>&amp;Дадаць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Выдаліць</translation>
+        <translation>&amp;Выдаліць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
@@ -1656,7 +1657,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>Экспартаваць Рахунак</translation>
+        <translation>Экспартаваць зборку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
@@ -1672,12 +1673,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <source>Unable to export instance</source>
-        <translation>Не атрымалася экспартаваць рахунак</translation>
+        <translation>Не атрымалася экспартаваць зборку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation>Аборт</translation>
+        <translation>Спыніць</translation>
     </message>
 </context>
 <context>
@@ -1708,7 +1709,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation>&amp;Апісаньне</translation>
+        <translation>&amp;Апісанне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
@@ -1719,7 +1720,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;Імя</translation>
+        <translation>&amp;Назва</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
@@ -1739,7 +1740,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation>&amp;Азначыць</translation>
+        <translation>&amp;Пазначыць адключаныя файлы як неабавязковыя</translation>
     </message>
     <message>
         <source>Version</source>
@@ -1778,17 +1779,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>Task aborted</source>
-        <translation>Заданьне адхіліна</translation>
+        <translation>Заданне спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Заданьне было адхіліна карыстальнікам.</translation>
+        <translation>Заданне было спынена карыстальнікам.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
@@ -1801,12 +1802,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation>Экспарт Пак да МодЛіста</translation>
+        <translation>Экспарт зборкі ў ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Налады</translation>
+        <translation>Налады</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -1816,12 +1817,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation>Зніжка</translation>
+        <translation>Разметка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation>Роўнытэкст</translation>
+        <translation>Звычайны тэкст</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
@@ -1836,17 +1837,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation>Заказны</translation>
+        <translation>Карыстальніцкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation>Шаблён</translation>
+        <translation>Шаблон</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="96"/>
         <source>Optional Info</source>
-        <translation>Апцыянальная Інфа</translation>
+        <translation>Апцыянальная інфармацыя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
@@ -1874,12 +1875,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="166"/>
         <source>Result</source>
-        <translation>Рэзультат</translation>
+        <translation>Вынік</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="195"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>Гэта залежыць на метадату мадоў. Каб быць упэўнены, што гэта даступна, запусьціце абнову рахунка. Усталяванне абноў не абавязкова.</translation>
+        <translation>Гэта залежыць ад метаданых модаў. Каб пераканацца ў даступнасці, запусціце абнаўленне зборкі. Усталяванне абнаўленняў не абавязкова.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
@@ -1897,12 +1898,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation>Фільтар:</translation>
+        <translation>Фільтр:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="77"/>
         <source>Actions</source>
-        <translation>Учынкі</translation>
+        <translation>Дзеянні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
@@ -1922,17 +1923,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="109"/>
         <source>Remove selected item</source>
-        <translation>Выдаліць абраны прадмет</translation>
+        <translation>Выдаліць абраны элемент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished">&amp;Уключыць</translation>
+        <translation>&amp;Уключыць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
         <source>Enable selected item</source>
-        <translation type="unfinished">Уключыць абраны прадмет</translation>
+        <translation>Уключыць абраны элемент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -1942,22 +1943,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Disable selected item</source>
-        <translation>Адключыць абраны прадмет</translation>
+        <translation>Адключыць абраны элемент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>View &amp;Configs</source>
-        <translation>Выгляд &amp;Канфігі</translation>
+        <translation>Праглядзець &amp;канфігі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>Адкрыйце папку &apos;config&apos; ў сістэмнам менеджаре файлаў.</translation>
+        <translation>Адкрыйце папку &apos;config&apos; у сістэмным менеджары файлаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="138"/>
         <source>View &amp;Folder</source>
-        <translation>Выгляд &amp;Папка</translation>
+        <translation>Праглядзець &amp;папку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="146"/>
@@ -1972,34 +1973,34 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Check for &amp;Updates</source>
-        <translation>Паглядзець для &amp;Абноў</translation>
+        <translation>Праверыць &amp;абнаўленні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Паспрабуйце забачыць ці абноўце ўсе абраныя рэсурсы (усе рэсурсы есьлі нічога не было выбрана)</translation>
+        <translation>Паспрабуйце праверыць ці абнавіце ўсе абраныя рэсурсы (усе рэсурсы калі нічога не было абрана)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
         <source>Visit mod&apos;s page</source>
-        <translation>Наведайце старонку мода</translation>
+        <translation>Перайсці на старонку мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
         <source>Go to mods home page</source>
-        <translation>Рухайцеся да хатняй старонкі мадоў</translation>
+        <translation>Перайсці на галоўную старонку модаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="117"/>
         <source>Context menu</source>
-        <translation type="unfinished">Кантэкст меню</translation>
+        <translation>Кантэкстнае меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="201"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation>Выбярыце %1</translation>
+        <translation>Выберыце %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="231"/>
@@ -2007,10 +2008,10 @@ Some versions of Minecraft may not launch.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">Вы аб выдаленьні %1 прадметаў.
-Гэта можа быць назаўсёды і яны могуць страчаны з папцы.
+        <translation>Вы хаціце выдаліць %1 элементаў.
+Гэта назаўсёды і яны могуць быць страчаны з папкі.
 
-Вы ўпэйнены?</translation>
+Вы ўпэўнены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="236"/>
@@ -2018,15 +2019,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished">Вы аб выдаленьні папцы &quot;%1&quot;.
-Гэта можа быць назаўсёды і будзе страчаны з бацькоўскай папцы
+        <translation>Вы хаціце выдаліць папку &quot;%1&quot;.
+Гэта назаўсёды і яна знікне з бацькоўскай папцы.
 
 Вы ўпэўнены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="243"/>
         <source>Confirm Removal</source>
-        <translation>Пацьвердзіць Выдаленьне</translation>
+        <translation>Пацвердзіць выдаленне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
@@ -2083,7 +2084,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Знешнія Рэдактары (пакіньце пустым, каб выкарыстоўваўся сістэмны рэдактар)</translation>
+        <translation>Знешнія рэдактары (пакіньце пустым, каб выкарыстоўваўся сістэмны рэдактар)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
@@ -2094,12 +2095,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
         <source>External Tools</source>
-        <translation>Знешнія Інструменты</translation>
+        <translation>Знешнія інструменты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="102"/>
         <source>JProfiler Folder</source>
-        <translation>JProfiler Папка</translation>
+        <translation>Папка JProfiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -2116,7 +2117,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="120"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation>Памылка пры правярэньні усталявання JProfiler
+        <translation>Памылка пры праверцы ўстаноўкі JProfiler:
 %1</translation>
     </message>
     <message>
@@ -2129,63 +2130,63 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="122"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation>JProfiler становішча здаваецца ОК</translation>
+        <translation>Устаноўка JProfiler выглядае ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM Executable</translation>
+        <translation>Выканаўчы файл JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="149"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Памылка пры поглядзе на ўсталяваньне JVisualVM
+        <translation>Памылка пры праверцы ўстаноўкі JVisualVM:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="151"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVM становішча здаецца ОК</translation>
+        <translation>Устаноўка JVisualVM выглядае ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="161"/>
         <source>MCEdit Application</source>
-        <translation>MCEdit Праграма</translation>
+        <translation>Праграма MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="163"/>
         <source>MCEdit Folder</source>
-        <translation>MCEdit Папка</translation>
+        <translation>Папка MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation>Памылка пры поглядзе ўсталяваньня MCEdit
+        <translation>Памылка пры праверцы ўстаноўкі MCEdit:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="184"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation>Сэтап MCEdit здаецца ОК</translation>
+        <translation>Устаноўка MCEdit выглядае ОК</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="190"/>
         <source>JSON Editor</source>
-        <translation>JSON Рэдактар</translation>
+        <translation>Рэдактар JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>Invalid</source>
-        <translation>Ня працуе</translation>
+        <translation>Не дзейны</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation>Выбраны файл здаецца можа быць выкананы</translation>
+        <translation>Выбраны файл, здаецца, можа быць выканаўчым</translation>
     </message>
 </context>
 <context>
@@ -2193,7 +2194,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="87"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Ня можа адкрыць ураджэнны jar &apos;%1&apos; да месца прызначэньня &apos;%2&apos;</translation>
+        <translation>Не атрымалася адкрыць натыўны jar &apos;%1&apos; да месца прызначэння &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -2201,32 +2202,32 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>Праверка для FML бібліятэк...</translation>
+        <translation>Праверка FML бібліятэк...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>Спампуюцца FML бібліятэкі...</translation>
+        <translation>Спампоўка FML бібліятэк...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
         <source>Aborted</source>
-        <translation>Сарвана</translation>
+        <translation>Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Капіюцца FML бібліятэкі ў рахунак...</translation>
+        <translation>Капіяванне FML бібліятэк у зборку...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Ня атрымалася стварыць FML бібліятэку папка ўнутры рахунка.</translation>
+        <translation>Не атрымалася стварыць папку FML бібліятэк унутры зборкі.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Ня атрымалася капіяваць Forge/FML library: %1.</translation>
+        <translation>Не атрымалася капіяваць Forge/FML бібліятэку: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="114"/>
@@ -2235,7 +2236,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>Ня атрымалася спампаваць наступныя файлы:
+        <translation>Не атрымалася спампаваць наступныя файлы:
 %1
 
 Прычына:%2
@@ -2260,28 +2261,28 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.h" line="44"/>
         <source>FTB App Import</source>
-        <translation>FTB Імпорт Праграмы</translation>
+        <translation>Імпарт з FTB App</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="56"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Пошук і фільтр...</translation>
+        <translation>Пошук і фільтр...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="66"/>
         <source>Search</source>
-        <translation type="unfinished">Пошук</translation>
+        <translation>Пошук</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="73"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation>Абраць папку ўсталёвак FTBApp</translation>
+        <translation>Абраць папку зборак FTBApp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Заўвага: калі вашы ўсталёўкі FTB знаходзяцца не па змаўчанні, выберыце іх з дапамогай кнопкі каля пошуку.</translation>
+        <translation>Заўвага: калі вашы зборкі FTB знаходзяцца не па змаўчанні, выберыце іх з дапамогай кнопкі каля пошуку.</translation>
     </message>
 </context>
 <context>
@@ -2290,7 +2291,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="83"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="99"/>
         <source>Minecraft %1</source>
-        <translation>Майнкрафт %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2298,12 +2299,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation type="unfinished">Капіюцца файлы...</translation>
+        <translation>Капіяванне файлаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation type="unfinished">Капіюцца налады...</translation>
+        <translation>Капіяванне налад...</translation>
     </message>
 </context>
 <context>
@@ -2311,12 +2312,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="31"/>
         <source>Resolving mod IDs...</source>
-        <translation>Вырашоўваецца IDs мода...</translation>
+        <translation>Выпраўленне ID мода...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
         <source>Invalid data returned from the API.</source>
-        <translation>Ня верная дата павярнулася з API.</translation>
+        <translation>Няверныя даныя павярнуліся з API.</translation>
     </message>
 </context>
 <context>
@@ -2324,28 +2325,28 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="123"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Рыхтуем мады для CurseForge...</translation>
+        <translation>Рыхтуем моды для CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Выключаны мады ня будуць абноўлены, каб прадухіліць падвойваньне мода праблемы!</translation>
+        <translation>Выключаны моды не будуць абноўлены, каб прадухіліць падвойванне модаў!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="132"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Атрымліваем адказ API з CurseForge на &apos;%1&apos;...</translation>
+        <translation>Атрымліваем адказ API з CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Аналізуем адказ API з CurseForge бо &apos;%1&apos;...</translation>
+        <translation>Аналізуем адказ API з CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Не знойдзена аніводнай дапушчальнай версіі для гэтага мода. Хутчэе за ўсё ён недаступен для бягучай версіі гульні / загрузчыка мадоў.</translation>
+        <translation>Не знойдзена аніводнай дапушчальнай версіі для гэтага мода. Хутчэй за ўсё ён недаступны для бягучай версіі гульні/загрузчыка модаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="154"/>
@@ -2377,62 +2378,62 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="242"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Мы не знайшлі індэксны файл які падыходзіць для старай версіі. Гэта можа выклікаць да дуплікацыі некаторых файлаў. Вы жадаеце працягнуць?</translation>
+        <translation>Мы не знайшлі індэксны файл які падыходзіць для старой версіі. Гэта можа выклікаць да дуплікацыі некаторых файлаў. Вы жадаеце працягнуць?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Не ўдалося атрымаць лакальны індэкс метаданых для %1</translation>
+        <translation>Не атрымалася атрымаць лакальны індэкс метаданых для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="299"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Не атрымалася знайсьці версію для %1 лоадэра</translation>
+        <translation>Не атрымалася знайсці версію для загрузчыка %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Для модпака не ўстаноўлена версія загрузчыка!</translation>
+        <translation>Для зборкі не ўстаноўлена версія загрузчыка!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>Не атрымалася пераіменаваць папку перавызначэнняў:
+        <translation>Не атрымалася перайменаваць папку перавызначэнняў:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="345"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>Адсутнічае папка перавызначэнняў (%1). Можа модпак выкарыстоўваўся дагэтуль?</translation>
+        <translation>Адсутнічае папка перавызначэнняў (%1). Можа зборка выкарыстоўвалася дагэтуль?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Невядомы загрузчык мадоў у маніфэсце: %1</translation>
+        <translation>Невядомы загрузчык модаў у маніфэсце: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>Таямнічы канчатковыя кропкі былі выдалены з версіі Майнкрафта падчас імпарта пакета.</translation>
+        <translation>Таемныя канчатковыя кропкі былі выдалены з версіі Minecraft падчас імпарту пакета.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="442"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>Не ўдалося вырашыць канфлікт ID мадоў: %1
+        <translation>Не ўдалося вырашыць канфлікт ID модаў: %1
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="495"/>
         <source>Blocked mods found</source>
-        <translation>Знойдзены заблакаваныя мады</translation>
+        <translation>Знойдзены заблакіраваныя моды</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Наступныя файлы недасяжны для спампоўцы ў невядомых лаўнчарах.&lt;br/&gt;Вам патрэбна спампаваць іх уручную і дадаць іх да рахунка.</translation>
+        <translation>Наступныя файлы недаступны для спампоўцы ў пабочных лаўнчарах.&lt;br/&gt;Вам патрэбна спампаваць іх уручную і дадаць іх да рахунка.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
@@ -2442,17 +2443,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 з %2 гатова</translation>
+        <translation>%1 з %2 гатова</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="598"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Капіяванне заблакаваных мадоў...</translation>
+        <translation>Капіяванне заблакіраваных модаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="611"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Капіяванне заблакаваных мадоў (%1 з %2 выкананы)</translation>
+        <translation>Капіяванне заблакіраваных модаў (%1 з %2 выкананы)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="550"/>
@@ -2462,17 +2463,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="564"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation>Змяшчэнне модпака ў модпаку не рэалізавана, нічога не было спампована: %1</translation>
+        <translation>Змяшчэнне зборкі ў зборцы не рэалізавана, нічога не спампавалася: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation>Нераспазнаны/ненастроены PackageType для: %1</translation>
+        <translation>Нераспазнаны/не наладжаны PackageType для: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="590"/>
         <source>Downloading mods...</source>
-        <translation>Спампуюцца мадыфікацыі...</translation>
+        <translation>Спампоўваюцца моды...</translation>
     </message>
 </context>
 <context>
@@ -2519,7 +2520,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Аналізуем адзказ API ад CurseForge для &apos;%1&apos;...</translation>
+        <translation>Аналізуем адказ API ад CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
@@ -2537,24 +2538,24 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Выбраная версія:</translation>
+        <translation>Выбраная версія:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished">Пошук</translation>
+        <translation>Пошук</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Заўвага: CurseForge дазваляе аўтарам блакіраваць доступ для пабочных праграм, як Prism Launcher. З-за гэтага, вам можа спатрэбіцца спампаваць некаторыя моды самастойна, каб ўстанавіць зборку.</translation>
+        <translation>Заўвага: CurseForge дазваляе аўтарам блакіраваць доступ для пабочных праграм, як Prism Launcher. З-за гэтага, вам можа спатрэбіцца спампаваць некаторыя моды самастойна, каб устанавіць зборку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Пошук і фільтр...</translation>
+        <translation>Пошук і фільтр...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
@@ -2566,7 +2567,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Сартаваць па папулярнасьці</translation>
+        <translation>Сартаваць па папулярнасці</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
@@ -2578,7 +2579,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Сартаваць па назве</translation>
+        <translation>Сартаваць па назве</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -2601,7 +2602,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
@@ -2684,12 +2685,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="102"/>
         <source>Unknown (%1)</source>
-        <translation>Нвядомы (%1)</translation>
+        <translation>Невядомы (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="104"/>
         <source>Undefined</source>
-        <translation>Невызначаны</translation>
+        <translation>Нявызначаны</translation>
     </message>
 </context>
 <context>
@@ -2780,7 +2781,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Экспартаваныя зборкі Prism Launcher, PolyMC ці MultiMC</translation>
+        <translation>- Экспартаваныя зборкі Prism Launcher, PolyMC ці MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -2797,7 +2798,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="151"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
@@ -2817,7 +2818,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="208"/>
         <source>Supported files</source>
-        <translation>Падтрымліваюцца файлы</translation>
+        <translation>Файлы, што падтрымліваюцца</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="211"/>
@@ -2878,37 +2879,37 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Абнавіць</translation>
+        <translation>&amp;Абнавіць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
         <source>Install Loader</source>
-        <translation>Усталяваць загрузчык</translation>
+        <translation>Устанавіць загрузчык</translation>
     </message>
 </context>
 <context>
@@ -2916,7 +2917,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="43"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Зараз няма даступный версій для Minecraft %1</translation>
+        <translation>Зараз няма даступных версій для Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2972,7 +2973,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="52"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>Не атрымалася выдаліць старыя канфлітктныя файлы.</translation>
+        <translation>Не атрымалася выдаліць старыя канфліктныя файлы.</translation>
     </message>
 </context>
 <context>
@@ -2981,7 +2982,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Спампаванне зборкі:
+        <translation>Спампоўка зборкі:
 %1</translation>
     </message>
     <message>
@@ -3047,7 +3048,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
         <source>Java insta&amp;llation</source>
-        <translation>Усталёўка Java</translation>
+        <translation>Устаноўка Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
@@ -3082,7 +3083,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="174"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Максімальна дазволеная колькасць аб&apos;ёма памяці Minecraft.</translation>
+        <translation>Максімальна дазволеная колькасць аб&apos;ёму памяці Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="152"/>
@@ -3102,7 +3103,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
         <source>Browse</source>
-        <translation type="unfinished">Агляд</translation>
+        <translation>Агляд</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
@@ -3227,7 +3228,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="373"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="600"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Рознае</translation>
+        <translation>Рознае</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="488"/>
@@ -3319,7 +3320,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="683"/>
         <source>Server address:</source>
-        <translation>Адрас сэрвера:</translation>
+        <translation>Адрас сервера:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="345"/>
@@ -3365,7 +3366,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
         <source>Settings</source>
-        <translation type="unfinished">Налады</translation>
+        <translation>Налады</translation>
     </message>
 </context>
 <context>
@@ -3424,7 +3425,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>Закрыць</translation>
     </message>
     <message>
         <source>Kill</source>
@@ -3433,7 +3434,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation>Спыніць версію</translation>
+        <translation>Спыніць зборку</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -3442,7 +3443,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation>Запусьціць версію</translation>
+        <translation>Запусціць версію</translation>
     </message>
 </context>
 <context>
@@ -3455,7 +3456,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Прафайлер спынены</translation>
+        <translation>Прафайлер спынены</translation>
     </message>
 </context>
 <context>
@@ -3468,7 +3469,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Прафайлер спынены</translation>
+        <translation>Прафайлер спынены</translation>
     </message>
 </context>
 <context>
@@ -3484,12 +3485,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="45"/>
         <source>Memory</source>
-        <translation type="unfinished">Памяць</translation>
+        <translation>Памяць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Максімальна дазволеная колькасць аб&apos;ёма памяці Minecraft.</translation>
+        <translation>Максімальна дазволеная колькасць аб&apos;ёму памяці Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
@@ -3511,7 +3512,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Аб&apos;ём памяці з якім запускаецца Minecraft.</translation>
+        <translation>Аб&apos;ём памяці з якім запускаецца Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
@@ -3549,7 +3550,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
         <source>Browse</source>
-        <translation type="unfinished">Агляд</translation>
+        <translation>Агляд</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
@@ -3564,7 +3565,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Калі ўключана, лаўнчар не будзе правяраць сумяшчальнасць зборкі з абранай версіяй Java.</translation>
+        <translation>Калі ўключана, лаўнчар не будзе правяраць сумяшчальнасць зборкі з абранай версіяй Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
@@ -3628,17 +3629,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="399"/>
         <source>Memory</source>
-        <translation type="unfinished">Памяць</translation>
+        <translation>Памяць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Максімальна дазволеная колькасць аб&apos;ёма памяці Minecraft.</translation>
+        <translation>Максімальна дазволеная колькасць аб&apos;ёму памяці Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="401"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Мінімальны аб&apos;ём выдзеленай памяці:</translation>
+        <translation>Мінімальны аб&apos;ём выдзеленай памяці:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="402"/>
@@ -3648,7 +3649,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="403"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Аб&apos;ём памяці з якім запускаецца Minecraft.</translation>
+        <translation>Аб&apos;ём памяці з якім запускаецца Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="404"/>
@@ -3658,7 +3659,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="405"/>
         <source>Browse</source>
-        <translation type="unfinished">Агляд</translation>
+        <translation>Агляд</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="414"/>
@@ -3882,7 +3883,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="413"/>
@@ -3923,7 +3924,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Каб гуляць у Майнкрафт вам трэба маць хоць адзін Майкрасофт або Моянг акаунт залагінуты. Моянг акаунты могуць быць карыстаны толькі офлайн. Ці хаціце вы адчыніць акаунт мэнэджар каб дадаць акаунт зараз?</translation>
+        <translation>Каб гуляць у Minecraft вам трэба мець хоць адзін уліковы запіс Microsoft, на якім ёсць Minecraft. Вы хаціце адчыніць менеджар уліковых запісаў каб дадаць уліковы запіс зараз?</translation>
     </message>
 </context>
 <context>
@@ -4049,7 +4050,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="129"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="136"/>
         <source>Browse</source>
-        <translation type="unfinished">Агляд</translation>
+        <translation>Агляд</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
@@ -4078,7 +4079,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="205"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Рознае</translation>
+        <translation>Рознае</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="211"/>
@@ -4282,13 +4283,13 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Сартаваць па назве</translation>
+        <translation>Сартаваць па назве</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Сартаваць па версіі гульні</translation>
+        <translation>Сартаваць па версіі гульні</translation>
     </message>
 </context>
 <context>
@@ -4337,7 +4338,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Распакоўка зборкі</translation>
+        <translation>Распакоўка зборкі</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
@@ -4347,7 +4348,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="135"/>
         <source>Installing modpack</source>
-        <translation>Усталяваньне модпака</translation>
+        <translation>Усталяванне зборкі</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
@@ -4366,12 +4367,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Пошук і фільтр...</translation>
+        <translation>Пошук і фільтр...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="29"/>
         <source>Search</source>
-        <translation type="unfinished">Пошук</translation>
+        <translation>Пошук</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="42"/>
@@ -4401,22 +4402,22 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="142"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Выбраная версія:</translation>
+        <translation>Выбраная версія:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="207"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="212"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Заданьне адхіліна</translation>
+        <translation>Заданне спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="212"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Заданьне было адхіліна карыстальнікам.</translation>
+        <translation>Заданне было спынена карыстальнікам.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="222"/>
@@ -4480,7 +4481,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation type="unfinished">Спынено</translation>
+        <translation>Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -4723,7 +4724,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation>Стварыць новы рахунак.</translation>
+        <translation>Стварыць новую зборку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
@@ -5096,7 +5097,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
         <source>Accounts</source>
-        <translation type="unfinished">Акаунты</translation>
+        <translation>Уліковыя запісы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="282"/>
@@ -5158,7 +5159,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="509"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1592"/>
         <source>Create Shortcut</source>
-        <translation>Стварыць Ярлык</translation>
+        <translation>Стварыць ярлык</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="512"/>
@@ -5217,7 +5218,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="985"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1018"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="838"/>
@@ -5227,12 +5228,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Заданьне адхіліна</translation>
+        <translation>Заданне спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Заданьне было адхіліна карыстальнікам.</translation>
+        <translation>Заданне было спынена карыстальнікам.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="846"/>
@@ -5248,8 +5249,8 @@ Reason:
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">Лаўнчар ня можа спампаваць Майнкрафт або абнаўленьні пакуль вы маеце прынамсі адзін акаўнт даданы.
-Калі ласка дадайце Моянг або Майнкрафт акаўнт.</translation>
+        <translation>Лаўнчар не можа спампаваць Minecraft ці абнаўляць зборкі, пакуль вы не маеце прынамсі адзін уліковы запіс.
+Калі ласка дадайце ўліковы запіс Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
@@ -5259,7 +5260,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1012"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Атрыманне зборкі</translation>
+        <translation>Атрыманне зборкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1154"/>
@@ -5582,7 +5583,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="195"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="199"/>
@@ -5592,12 +5593,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="202"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Заданьне адхіліна</translation>
+        <translation>Заданне спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="202"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Заданьне было адхіліна карыстальнікам.</translation>
+        <translation>Заданне спынена карыстальнікам.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="207"/>
@@ -5630,7 +5631,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="65"/>
         <source>Name</source>
-        <translation type="unfinished">Імя</translation>
+        <translation>Назва</translation>
     </message>
 </context>
 <context>
@@ -5640,7 +5641,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="142"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="161"/>
         <source>Aborted</source>
-        <translation type="unfinished">Спынено</translation>
+        <translation>Спынена</translation>
     </message>
 </context>
 <context>
@@ -5703,7 +5704,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Майнкрафт %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1006"/>
@@ -5726,7 +5727,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="20"/>
         <source>Aborted</source>
-        <translation type="unfinished">Спынено</translation>
+        <translation>Спынена</translation>
     </message>
 </context>
 <context>
@@ -5900,7 +5901,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Рознае</translation>
+        <translation>Рознае</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
@@ -6023,7 +6024,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="103"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished">Невядомы</translation>
+        <translation>Невядомы</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="116"/>
@@ -6041,12 +6042,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Name</source>
-        <translation type="unfinished">Імя</translation>
+        <translation>Назва</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
         <source>Version</source>
-        <translation type="unfinished">Версія</translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="66"/>
@@ -6147,7 +6148,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="135"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Наведайце старонку мода</translation>
+        <translation>Наведайце старонку мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="139"/>
@@ -6162,7 +6163,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Пацвердзіце выдаленне</translation>
+        <translation>Пацвердзіце выдаленне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
@@ -6177,7 +6178,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="284"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
@@ -6190,7 +6191,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="288"/>
         <source>Aborted</source>
-        <translation type="unfinished">Спынено</translation>
+        <translation>Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
@@ -6248,7 +6249,7 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="362"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Пацьвердзіць Выдаленьне</translation>
+        <translation>Пацвердзіце выдаленне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="363"/>
@@ -6345,7 +6346,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="408"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
@@ -6468,7 +6469,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="360"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
@@ -6493,7 +6494,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished">Выключаны мады ня будуць абноўлены, каб прадухіліць падвойваньне мода праблемы!</translation>
+        <translation>Выключаныя моды не будуць абноўлены, каб прадухіліць падвойванне модаў!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="87"/>
@@ -6503,7 +6504,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="102"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Не знойдзена аніводнай дапушчальнай версіі для гэтага мода. Хутчэе за ўсё ён недаступен для бягучай версіі гульні / загрузчыка мадоў.</translation>
+        <translation>Не знойдзена аніводнай дапушчальнай версіі для гэтага мода. Хутчэй за ўсё ён недаступны для бягучай версіі гульні / загрузчыка модаў.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="132"/>
@@ -6521,23 +6522,23 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (версія %1)</translation>
+        <translation> (версія %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="140"/>
         <source>No index file.</source>
-        <translation type="unfinished">Няма індэкснага файла.</translation>
+        <translation>Няма індэкснага файла.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Мы не знайшлі індэксны файл які падыходзіць для старай версіі. Гэта можа выклікаць да дуплікацыі некаторых файлаў. Вы жадаеце працягнуць?</translation>
+        <translation>Мы не знайшлі індэксны файл які падыходзіць для старой версіі. Гэта можа выклікаць да дуплікацыі некаторых файлаў. Вы жадаеце працягнуць?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="185"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Не атрымалася пераіменаваць папку перавызначэнняў:
+        <translation>Не атрымалася перайменаваць папку перавызначэнняў:
 </translation>
     </message>
     <message>
@@ -6559,12 +6560,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="277"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 з %2 гатова</translation>
+        <translation>%1 з %2 гатова</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="282"/>
         <source>Downloading mods...</source>
-        <translation>Спампуюцца мадыфікацыі...</translation>
+        <translation>Спампоўваюцца моды...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="377"/>
@@ -6583,7 +6584,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Бягучая)</translation>
+        <translation>%1 (Бягучая)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
@@ -6593,7 +6594,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="373"/>
         <source>Choose update file</source>
-        <translation type="unfinished">Выберыце файл абнаўлення</translation>
+        <translation>Выберыце файл абнаўлення</translation>
     </message>
 </context>
 <context>
@@ -6601,22 +6602,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="54"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Пошук файлаў...</translation>
+        <translation>Пошук файлаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="76"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Не атрымалася знайсці файлы</translation>
+        <translation>Не атрымалася знайсці файлы</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="92"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Пошук хэшаў файлаў...</translation>
+        <translation>Пошук хэшаў файлаў...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Пошук версій для хэшэй...</translation>
+        <translation>Пошук версій для хэшэй...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
@@ -6626,7 +6627,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Дадаванне файлаў...</translation>
+        <translation>Дадаванне файлаў...</translation>
     </message>
 </context>
 <context>
@@ -6640,7 +6641,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Сартаваць па колькасці спамповак</translation>
+        <translation>Сартаваць па колькасці спамповак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
@@ -6651,18 +6652,18 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Сартаваць па апошняму абнаўленню</translation>
+        <translation>Сартаваць па апошняму абнаўленню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="188"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="243"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="268"/>
         <source> by </source>
-        <translation type="unfinished"> ад </translation>
+        <translation> ад </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="272"/>
@@ -6677,22 +6678,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="290"/>
         <source>External links:</source>
-        <translation type="unfinished">Знешнія спасылкі:</translation>
+        <translation>Знешнія спасылкі:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="294"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Праблемы: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Праблемы: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="298"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Зыходны код: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Зыходны код: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="300"/>
@@ -6713,12 +6714,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Search</source>
-        <translation type="unfinished">Пошук</translation>
+        <translation>Пошук</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="52"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Выбраная версія:</translation>
+        <translation>Выбраная версія:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="64"/>
@@ -6780,7 +6781,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="135"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Выкананьне %1 задання(ў) (%2 з %3 выканана)</translation>
+        <translation>Выкананне %1 задання(ў) (%2 з %3 выканана)</translation>
     </message>
 </context>
 <context>
@@ -6793,7 +6794,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation type="unfinished">Імя</translation>
+        <translation>Назва</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
@@ -6812,17 +6813,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished">&amp;Група:</translation>
+        <translation>&amp;Група:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Назва:</translation>
+        <translation>&amp;Назва:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="88"/>
         <source>No group</source>
-        <translation type="unfinished">Няма группы</translation>
+        <translation>Няма групы</translation>
     </message>
 </context>
 <context>
@@ -6844,7 +6845,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished">Блізка</translation>
+        <translation>Закрыць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -6907,7 +6908,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished">Імя юзера</translation>
+        <translation>Імя карыстальніка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -7014,7 +7015,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="211"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="250"/>
         <source>Error</source>
-        <translation type="unfinished">Памылка</translation>
+        <translation>Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="139"/>
@@ -7087,17 +7088,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="344"/>
         <source>Aborted</source>
-        <translation type="unfinished">Спынено</translation>
+        <translation>Спынена</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="571"/>
         <source>Name</source>
-        <translation type="unfinished">Імя</translation>
+        <translation>Назва</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="573"/>
         <source>Version</source>
-        <translation type="unfinished">Версія</translation>
+        <translation>Версія</translation>
     </message>
 </context>
 <context>
@@ -7141,7 +7142,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
@@ -7695,7 +7696,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="40"/>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="42"/>
         <source>Name</source>
-        <translation type="unfinished">Імя</translation>
+        <translation>Назва</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="49"/>
@@ -7753,7 +7754,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Пачакайце калі ласка...</translation>
+        <translation>Пачакайце калі ласка...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -7781,7 +7782,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
         <source>Type</source>
-        <translation type="unfinished">Тып</translation>
+        <translation>Тып</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
@@ -8179,7 +8180,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Не атрымалася знайсьці бібліятэку праверкі Java. Калі ласка, праверце вашую ўсталёўку.</translation>
+        <translation>Не атрымалася знайсці бібліятэку праверкі Java. Калі ласка, праверце вашу ўстаноўку.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="57"/>
