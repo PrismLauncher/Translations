@@ -4780,7 +4780,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="712"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Папкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="715"/>
@@ -4810,7 +4810,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Дапамога</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
@@ -4840,12 +4840,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="354"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Спыніць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Запусціць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
@@ -5087,7 +5087,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
@@ -5670,7 +5670,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Запусціць</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
@@ -5789,18 +5789,18 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="203"/>
         <source>Legacy settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Састарэлыя налады</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Эмуліраваць старыя, болей недаступныя анлайн-сэрвісы.&lt;/p&gt;&lt;p&gt;З бягучых змен: падтрымка скіноў і анлайн-рэжыму.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уключыць анлайн-выпраўленні (эксперыментальнае)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
@@ -5816,7 +5816,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="235"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шлях да бібліятэкі &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
@@ -5827,42 +5827,42 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="252"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шлях да бібліятэкі &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прадукцыйнасць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="285"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Уключыць Feral Interactive&apos;s GameMode, каб патэнцыйна палепшыць прадукцыйнасць&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="288"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уключыць Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="295"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Уключыць оверлэй прадукцыйнасці MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="298"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уключыць MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="305"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выкарыстоўваць дыскрэтную відэакарту замест асноўнай.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="308"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выкарыстоўваць дыскрэтную відэакарту</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
@@ -5872,7 +5872,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
         <source>Use Zink</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выкарыстоўваць Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -5940,7 +5940,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="139"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="146"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Шлях да файлу бібліятэкі %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
@@ -5951,12 +5951,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Feral Interactive&apos;s GameMode не знойдзены ў сістэме.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MangoHud не знойдзены ў сістэме.</translation>
     </message>
 </context>
 <context>
@@ -6302,7 +6302,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="52"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Моды</translation>
     </message>
 </context>
 <context>
@@ -9761,7 +9761,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="391"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мова</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
@@ -10093,7 +10093,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не атрымалася загрузіць профіль зборкі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="278"/>
