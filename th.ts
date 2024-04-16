@@ -821,7 +821,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1032"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>การกำหนดค่าระบบที่เข้ากันไม่ได้</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1362"/>
@@ -11020,51 +11020,55 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="116"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชี Microsoft นี้ไม่มีโปรไฟล์ XBox Live ซื้อเกมบน %1 ก่อน</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="122"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox Live ไม่สามารถใช้งานได้ในประเทศของคุณ คุณถูกบล็อก</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="128"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชี Microsoft นี้มีอายุต่ำกว่าเกณฑ์และไม่ได้เชื่อมโยงกับครอบครัว
+
+โปรดตั้งค่าบัญชีของคุณตาม %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชี Microsoft นี้ต้องมีหลักฐานยืนยันอายุจึงจะเล่นได้ กรุณาเข้าสู่ระบบ %1 เพื่อแสดงหลักฐานอายุ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชี Microsoft นี้ถึงเวลาเล่นถึงขีดจำกัดแล้ว บัญชี Microsoft นี้ถูกบล็อกไม่ให้เข้าสู่ระบบ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="144"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชี Microsoft นี้ถูกแบนโดย Xbox เนื่องจากละเมิดมาตรฐานชุมชนสำหรับ Xbox อย่างน้อยหนึ่งรายการ และไม่สามารถใช้งานได้</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>ขณะนี้บัญชี Microsoft นี้ถูกจำกัด และผู้ปกครองของคุณไม่ได้อนุญาตให้คุณเล่นออนไลน์ เข้าสู่ระบบ %1 และให้ผู้ปกครองของคุณเปลี่ยนการอนุญาตของคุณ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชี Microsoft นี้ไม่ยอมรับข้อกำหนดในการให้บริการของ Xbox กรุณาเข้าสู่ระบบและยอมรับ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="162"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>การรับรองความถูกต้อง XSTS สิ้นสุดลงโดยมีข้อผิดพลาดที่ไม่รู้จัก:
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -11072,13 +11076,13 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="17"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังดึงข้อมูลโปรไฟล์ Xbox</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="60"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเรียกข้อมูลโปรไฟล์ Xbox: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="67"/>
@@ -11091,23 +11095,23 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="15"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้าสู่ระบบในฐานะผู้ใช้ Xbox</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>การเข้าสู่ระบบผู้ใช้ XBox ล้มเหลว: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ไม่สามารถเข้าใจการตอบสนองการรับรองความถูกต้องของผู้ใช้ XBox</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>มีโทเค็นผู้ใช้ Xbox</translation>
     </message>
 </context>
 </TS>
