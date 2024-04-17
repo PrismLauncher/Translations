@@ -4806,8 +4806,8 @@ Reason:
         <translation>Bottom</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Minecraft Log</translation>
     </message>
@@ -8647,16 +8647,16 @@ Choose your name carefully:</translation>
         <translation>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>Java test failure</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>Java test success</translation>
     </message>
@@ -8994,8 +8994,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Sort by Popularity</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Last Updated</source>
         <translation>Sort by Last Updated</translation>
     </message>
@@ -9010,8 +9010,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Sort by Author</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Downloads</source>
         <translation>Sort by Downloads</translation>
     </message>
