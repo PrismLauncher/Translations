@@ -4571,28 +4571,28 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="125"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="132"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайсці</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Пракруціць да канца</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Уніз</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Логі Minecraft</translation>
     </message>
 </context>
 <context>
@@ -4601,29 +4601,29 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="95"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Працэс завяршыўся з кодам %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="100"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Працэс нечакана спыніўся.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="102"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Працэс нечакана спыніўся з кодам %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Працэс быў скончаны карыстальнікам.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
         <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не атрымалася запусціць працэс.</translation>
     </message>
 </context>
 <context>
@@ -4642,17 +4642,17 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="449"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Папкі не існуе</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="452"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма стварыць файл</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="460"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма стварыць:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="481"/>
@@ -4735,12 +4735,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="345"/>
         <source>Launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запусціць выбраную зборку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Галоўная панэль інструментаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
@@ -4750,37 +4750,37 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="587"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць асноўную папку модаў у файлавым менеджары.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="204"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Уліковыя запісы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Рэдагаваць...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="419"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Папка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="461"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>Э&amp;кспарт...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="431"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдалі&amp;ць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="712"/>
         <source>Folders</source>
-        <translation type="unfinished">Папкі</translation>
+        <translation>Папкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="715"/>
@@ -4790,7 +4790,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="321"/>
         <source>Change settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Змяніць налады.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="628"/>
@@ -4800,7 +4800,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="664"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць Reddit %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="676"/>
@@ -4810,233 +4810,233 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
         <source>Help</source>
-        <translation type="unfinished">Дапамога</translation>
+        <translation>Дапамога</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="727"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Атрымаць дапамогу з %1 ці Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="306"/>
         <source>Check for new updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Праверка абнаўленняў для %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="258"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation type="unfinished"></translation>
+        <translation>Гэта пушысты котка :3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Панэль зборкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="392"/>
         <source>Change Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Змяніць іконку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="354"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Спыніць</translation>
+        <translation>&amp;Спыніць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Запусціць</translation>
+        <translation>&amp;Запусціць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадаць зборк&amp;у...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>П&amp;апкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Панэль статусу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="318"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Нала&amp;ды...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Зборкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць папку зборак у файлавым менеджары.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка &amp;лаўнчара</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Папка модаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Іконкі зборак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="599"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць папку іконак зборак у файлавым менеджары.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Логі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць папку логаў у файлавым менеджары.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="688"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ачысціць кэш метаданых</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Ачысціць кэшыраваныя метаданыя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Тэмы віджэтаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="760"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць папку тэм віджэтаў у файлавым менеджары.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Н&amp;абор іконак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць папку тэм іконак у файлавым менеджары.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="781"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Наборы котак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="784"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць папку з катамі ў файлавым менеджары.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="649"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Прастор Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="637"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discord сервер</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="661"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="673"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Пра%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="303"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Абнавіць...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="255"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Мяў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="333"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Кіраванне ўліковымі запісамі...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Файл</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выгляд</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="209"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Дапамога</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Спыніць бягучую ўстаноўку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="464"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспартаваць абраную ўстаноўку ў галоўныя фарматы.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="473"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="482"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="491"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="500"/>
         <source>Mod List</source>
-        <translation type="unfinished"></translation>
+        <translation>Спіс модаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыць &amp;акно</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="548"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыць бягучае акно</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
@@ -5062,27 +5062,27 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="745"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Даведка %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="748"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць вікі %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="395"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Змяніць іконку абранай зборкі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Перайменаваць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="372"/>
         <source>Rename the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перайменаваць абраную зборку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
@@ -5092,27 +5092,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="381"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Змяніць групу...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="387"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="255"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="452"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="736"/>
@@ -5123,43 +5123,43 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="282"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Адмяніць выдаленне мінулай зборкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Рэдагаваць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Змяніць налады, моды і версію зборкі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="434"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Выдаліць абраную зборку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="384"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Змяніць групу абранай зборкі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Устанавіць па &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="274"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Замацаваць панэль інструментаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Тэмы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="422"/>
@@ -5169,7 +5169,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Капіява&amp;ць...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
@@ -5197,39 +5197,39 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Агульны час гульні: 0с</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="535"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Стварыць зборку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="549"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;выдаліць групу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="521"/>
         <source>No accounts added!</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма дададзеных уліковых запісаў!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="533"/>
         <source>No Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма ўліковага запісу па змаўчанні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="536"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="834"/>
@@ -5514,27 +5514,27 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="240"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Больш навін...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="243"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць блог распрацоўкі, каб атрымаць больш навін пра %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка навін...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="790"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма даступных навін.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="640"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць Discord сервер %1.</translation>
     </message>
 </context>
 <context>
@@ -5542,42 +5542,42 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Інфармацыя пра зборку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва зборкі:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Бягучая версія:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Інфармацыя пра крыніцу:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Абнавіць да версіі:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Збор версій...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
         <source>Update from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Абнавіць з файла</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="180"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Спіс змен</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="186"/>
