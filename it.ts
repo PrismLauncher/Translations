@@ -5736,7 +5736,7 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="769"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema I%con</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="772"/>
@@ -7747,7 +7747,7 @@ Aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="445"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Richiesto da: %1</translation>
+        <translation>Richiesto da: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="447"/>
