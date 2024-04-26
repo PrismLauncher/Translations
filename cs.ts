@@ -7473,7 +7473,7 @@ Opravdu to chcete udělat?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="265"/>
         <source>The mod updater was aborted!</source>
-        <translation>Aktualizace modu byla přerušena!</translation>
+        <translation>Aktualizace modů byla přerušena!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="274"/>
