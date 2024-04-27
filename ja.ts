@@ -3087,7 +3087,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="208"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">サポートされているファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="211"/>
