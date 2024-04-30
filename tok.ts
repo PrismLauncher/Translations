@@ -821,12 +821,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation>sina kama jo e len monsi</translation>
+        <translation>sina kama jo e len lipu monsi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
         <source>Removing cape</source>
-        <translation>sina weka e len monsi</translation>
+        <translation>sina weka e len lipu monsi</translation>
     </message>
 </context>
 <context>
