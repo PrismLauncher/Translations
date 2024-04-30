@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished">ni la kepeken e kulupu Makoso pi sijelo linluwi. </translation>
+        <translation>ni la kepeken e kulupu Makoso pi sijelo linluwi. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
