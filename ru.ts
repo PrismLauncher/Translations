@@ -178,7 +178,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation>Неизвестный тип модификации: %1</translation>
+        <translation>Неизвестный тип мода: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
@@ -10058,7 +10058,7 @@ New name: %2</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Одна или несколько из ваших установок игры имеют одну и ту же сборку модификаций%1. Вы желаете создать отдельную установку или обновить существующую?
+        <translation>Одна или несколько из ваших установок игры имеют одну и ту же сборку модов%1. Вы хотите создать отдельную установку или обновить существующую?
 
 ПРИМЕЧАНИЕ: Убедитесь, что вы сделали резервную копию важной для вас установки игры перед обновлением, так как миры имеют свойство повреждаться и можно потерять некоторые настройки (из-за перезаписей сборок).</translation>
     </message>
@@ -10172,7 +10172,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>mod</source>
-        <translation>модификация</translation>
+        <translation>мод</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
@@ -10239,7 +10239,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>пакетная программа MKLINK для Windows для использования с Prism Launcher</translation>
+        <translation>bat-скрипт MKLINK для Windows, который будет использоваться с Prism Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="164"/>
@@ -10258,7 +10258,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="104"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>модификаций</translation>
+        <translation>модов</translation>
     </message>
 </context>
 <context>
@@ -10267,23 +10267,23 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation>модификации</translation>
+        <translation>моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation>модификация</translation>
+        <translation>мод</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>No valid version found!</source>
-        <translation>Подходящей версии не найдено!</translation>
+        <translation>Подходящая версия не найдена!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
         <source>Cannot select invalid version :(</source>
-        <translation>Вы не можете выбрать неподходящую версию :(</translation>
+        <translation>Нельзя выбрать неподходящую версию :(</translation>
     </message>
 </context>
 <context>
@@ -10296,7 +10296,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
         <source>Ctrl+Return</source>
-        <translation>Ctrl + Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="118"/>
