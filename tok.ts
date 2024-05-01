@@ -196,7 +196,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="753"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>sona ala e nasin: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="868"/>
@@ -216,17 +216,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="964"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation>ken ala lon e ijo pi tomo lipu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="988"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
+        <translation>mi sona ala e nasin ilo: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>ken ala lon e ijo lon poki namako</translation>
     </message>
 </context>
 <context>
@@ -244,7 +244,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
         <source>Platform:</source>
-        <translation type="unfinished">ilo:</translation>
+        <translation>ilo anpa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
@@ -290,7 +290,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="146"/>
         <source>Platform</source>
-        <translation type="unfinished">ilo</translation>
+        <translation>ilo anpa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
