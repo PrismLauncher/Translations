@@ -760,7 +760,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>alasa en lukin kipisi...</translation>
+        <translation>o alasa lawa...</translation>
     </message>
 </context>
 <context>
