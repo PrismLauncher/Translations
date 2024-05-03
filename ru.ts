@@ -243,7 +243,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation>Найдены заблокированные модификации</translation>
+        <translation>Найдены заблокированные моды</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
@@ -984,7 +984,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Вы уверены, что хотите включить этот мод?</translation>
+        <translation>Вы точно хотите включить этот мод?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
@@ -1176,7 +1176,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Выберите поставщик модов</translation>
+        <translation>Выберите поставщика модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -2150,7 +2150,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
         <source>Go to mods home page</source>
-        <translation>Перейти на домашнюю страницу мода</translation>
+        <translation type="unfinished">Перейти на домашнюю страницу мода</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2481,7 +2481,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="31"/>
         <source>Resolving mod IDs...</source>
-        <translation>Исправление идентификаторов мода…</translation>
+        <translation>Получение идентификаторов модов…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
@@ -5768,12 +5768,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
         <source>Launcher &amp;Root</source>
-        <translation>Ключевая папка лаунчера</translation>
+        <translation>Корневая папка лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="584"/>
         <source>&amp;Central Mods</source>
-        <translation>&amp;Папка с модификациями</translation>
+        <translation>&amp;Основная папка модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
@@ -5788,12 +5788,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="608"/>
         <source>Logs</source>
-        <translation>Журнал</translation>
+        <translation>Журналы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="611"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation>Открыть папку журнала в файловом менеджере.</translation>
+        <translation>Открыть папку журналов в файловом менеджере.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="661"/>
@@ -7842,7 +7842,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
         <source>Generating metadata...</source>
-        <translation>Генерирование метаданных…</translation>
+        <translation>Генерация метаданных…</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -9710,7 +9710,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="92"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;Ссылка загруженного журнала&lt;/a&gt; была помещена в буфер обмена.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Ссылка на загруженный журнал&lt;/a&gt; была помещена в буфер обмена.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
@@ -12394,7 +12394,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="326"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>Не удалось импортировать некоторые компоненты. Проверьте журнал для подробной информации</translation>
+        <translation>Не удалось импортировать некоторые компоненты. Просмотрите журналы, чтобы узнать подробности</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
