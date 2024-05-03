@@ -76,7 +76,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
         <source>Miscellaneous</source>
-        <translation>Mixture of ye&apos; olde treasure</translation>
+        <translation>Sink me! Ye treasure can&apos;t go &apos;n any ship!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
@@ -131,7 +131,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="118"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Arren&apos;t makin&apos; heads of yerr pack manifest
+        <translation>Ye couldn&apos;t recognize pack manifest:
 </translation>
     </message>
     <message>
@@ -157,7 +157,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
         <source>Unknown mod type: %1</source>
-        <translation>No mod type known to i: %1</translation>
+        <translation>Unrecognizable mod model: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="376"/>
