@@ -248,7 +248,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Эти файлы недоступны для сторонних лаунчеров.&lt;br/&gt;Вам придётся скачать и добавить их в сборку вручную.</translation>
+        <translation>Эти файлы недоступны для сторонних лаунчеров.&lt;br/&gt;Вам придётся скачать и добавить их в установку игры вручную.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Неофициальный лаунчер, облегчающий управление Minecraft, позволяя иметь сразу несколько экземпляров игры одновременно.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Неофициальный лаунчер, облегчающий управление Minecraft, позволяя иметь сразу несколько установок игры одновременно.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -1099,7 +1099,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
         <source>Please download the missing mods.</source>
-        <translation>Пожалуйста, установите отсутствующие моды.</translation>
+        <translation>Пожалуйста, скачайте отсутствующие моды.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
@@ -1123,7 +1123,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Выберите каталог, в который вы скачали моды</translation>
+        <translation>Выберите папку, в которую вы скачали моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
@@ -1142,7 +1142,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выбранная вами глобальная папка модов и папка загрузок по умолчанию автоматически проверяются на наличие загруженных модов, и они будут скопированы в сборку при наличии.&lt;/p&gt;&lt;p&gt;При желании вы можете перетащить загруженные моды в это диалоговое окно или добавить папку для просмотра, если вы не загружали моды в папку по умолчанию&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выбранные вами глобальные папки модов и загрузок по умолчанию проверяются на наличие модов и, если они там есть, они будут скопированы в установку игры.&lt;/p&gt;&lt;p&gt;При желании вы можете перетащить скачанные моды в это диалоговое окно или добавить папку, чтобы посмотреть, не скачивали ли вы моды в папку по умолчанию.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1225,12 +1225,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Сборка имеет конфликтующие зависимости.</translation>
+        <translation>Установка игры имеет конфликтующие зависимости.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="455"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Сборка имеет неудовлетворённые зависимости при загрузке/проверке запуска.</translation>
+        <translation>Установка игры имеет неудовлетворённые зависимости при загрузке/проверке запуска.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
@@ -1283,7 +1283,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Копирование сборки</translation>
+        <translation>Копирование установки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1303,12 +1303,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Отключение оставит загрузчик модов (например, Fabric, Quilt и т.д.), но удалит папку с модами и их настройки.</translation>
+        <translation>При отлючении, не будет затрагивать загрузчик модов (например, Fabric, Quilt и т. д.), но удалит папку с модами и их настройки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Настройки копирования сборки</translation>
+        <translation>Настройки копирования установки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1462,7 +1462,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="79"/>
         <source>Core mods</source>
-        <translation>Моды ядра</translation>
+        <translation>Ядра модов</translation>
     </message>
 </context>
 <context>
@@ -1770,7 +1770,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>Экспортировать сборку</translation>
+        <translation>Экспортировать установку игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
@@ -1794,7 +1794,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <source>Unable to export instance</source>
-        <translation>Не удалось экспортировать сборку</translation>
+        <translation>Не удалось экспортировать установку игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
@@ -2041,7 +2041,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="195"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>Это зависит от метаданных модов. Чтобы убедиться в их наличии, запустите обновление сборки. Установка обновлений не обязательна.</translation>
+        <translation>Это зависит от метаданных модов. Чтобы убедиться в их наличии, запустите обновление установки игры. Установка обновлений необязательна.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
@@ -2145,12 +2145,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
         <source>Visit mod&apos;s page</source>
-        <translation>Перейти на страницу мода</translation>
+        <translation>Посетить страницу мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
         <source>Go to mods home page</source>
-        <translation type="unfinished">Перейти на домашнюю страницу мода</translation>
+        <translation>Перейти на главную страницу модов</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2386,12 +2386,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Копирование библиотек FML в каталог сборки…</translation>
+        <translation>Копирование библиотек FML в каталог установки игры…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Не удалось создать папку библиотек FML в каталоге сборки.</translation>
+        <translation>Не удалось создать папку библиотек FML в каталоге установки игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
@@ -2519,7 +2519,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Не найдена подходящая версия этого мода. Вероятно, он недоступен для текущей версии игры или загрузчика модов.</translation>
+        <translation>Подходящая версия этого мода не найдена. Вероятно, он недоступен для этой версии игры или загрузчика модов.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="154"/>
@@ -2622,7 +2622,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="442"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>Не удалось решить конфликт ID модов: %1
+        <translation>Не удалось решить конфликт идентификаторов модов: %1
 </translation>
     </message>
     <message>
@@ -2634,7 +2634,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Эти файлы недоступны для сторонних лаунчеров.&lt;br/&gt;Вам придётся скачать и добавить их в сборку вручную.</translation>
+        <translation>Эти файлы недоступны для сторонних лаунчеров.&lt;br/&gt;Вам придётся скачать и добавить их в установку игры вручную.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
@@ -2678,7 +2678,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="590"/>
         <source>Downloading mods...</source>
-        <translation>Загрузка модов…</translation>
+        <translation>Скачивание модов…</translation>
     </message>
 </context>
 <context>
@@ -2686,7 +2686,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="413"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Привет!&lt;/h1&gt;&lt;h4&gt;Похоже, ваш Pack ID недействителен. Это связано с ошибкой в старых версиях лаунчера.&lt;br/&gt;К сожалению, без этой информации выполнять правильные запросы к API невозможно.&lt;br/&gt;&lt;br/&gt;Чтобы эта функция работала, вам нужно будет повторно загрузить сборку из встроенного загрузчика.&lt;br/&gt;&lt;br/&gt;Не волнуйтесь, вместо этого вам будет предложено обновить эту сборку, чтобы вы не потеряли эту сборку!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Привет!&lt;/h1&gt;&lt;h4&gt;Похоже, идентификатор вашего набора недействителен. Это связано с ошибкой в старых версиях лаунчера.&lt;br/&gt;К сожалению, без этой информации выполнять правильные запросы к API невозможно.&lt;br/&gt;&lt;br/&gt;Чтобы эта функция работала, вам нужно будет повторно скачать сборку из встроенного загрузчика.&lt;br/&gt;&lt;br/&gt;Не волнуйтесь, вам будет предложено обновить эту установку игры, чтобы вы не потеряли её!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="475"/>
@@ -3141,7 +3141,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- Сборки Curseforge (ZIP / curseforge:// URL)</translation>
+        <translation>- Сборки CurseForge (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -3184,12 +3184,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Сборка %1 заблокирована для третьих лиц! Пожалуйста, скачайте вручную.</translation>
+        <translation>Автор сборки %1 заблокировал её скачивание со сторонних сервисов! Пожалуйста, скачайте её вручную.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="169"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>Эта URL не правильная сборка!</translation>
+        <translation>Эта ссылка — недействительная сборка!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="173"/>
@@ -3222,12 +3222,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>Выберите сборку, в которую импортировать</translation>
+        <translation>Выберите установку игры, в которую импортировать</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Выберите сборку, в которую вы хотите импортировать этот набор ресурсов.</translation>
+        <translation>Выберите установку игры, в которую вы хотите импортировать этот набор ресурсов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -3399,7 +3399,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="147"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Не удалось открыть прилагаемый zip-файл сборки.</translation>
+        <translation>Не удалось открыть прилагаемый ZIP-файл сборки.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
@@ -3528,7 +3528,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="185"/>
         <source>%1 Instance</source>
-        <translation>Сборка %1</translation>
+        <translation>Установка игры %1</translation>
     </message>
 </context>
 <context>
@@ -3544,7 +3544,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="54"/>
         <source>Edit Instance (%1)</source>
-        <translation>Редактировать сборку (%1)</translation>
+        <translation>Редактировать установку игры (%1)</translation>
     </message>
     <message>
         <source>Loader mods</source>
@@ -3585,7 +3585,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="64"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Если включено, лаунчер не будет проверять совместимость сборки с выбранной версией Java.</translation>
+        <translation>Если включено, лаунчер не будет проверять совместимость установки игры с выбранной версией Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
@@ -3839,12 +3839,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
         <source>Show time spent playing this instance</source>
-        <translation>Показывать время, проведённое в этой сборке</translation>
+        <translation>Показывать время, проведённое в этой установке игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
         <source>Record time spent playing this instance</source>
-        <translation>Записывать время, проведённое в этой сборке</translation>
+        <translation>Записывать время, проведённое в этой установке игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
@@ -3917,7 +3917,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>Не удалось создать сборку после нескольких попыток. Что-то мешает.</translation>
+        <translation>Не удалось создать установку игры после нескольких попыток. Что-то мешает.</translation>
     </message>
 </context>
 <context>
@@ -3930,7 +3930,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Нажмите «Добавить сборку», чтобы начать.</translation>
+        <translation>Нажмите «Добавить установку игры», чтобы начать.</translation>
     </message>
 </context>
 <context>
@@ -3980,7 +3980,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation>Остановить сборку</translation>
+        <translation>Закрыть работающую установку игры</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -3989,7 +3989,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation>Запустить выбранную сборку</translation>
+        <translation>Запустить выбранную установку игры</translation>
     </message>
 </context>
 <context>
@@ -4116,7 +4116,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Если включено, лаунчер не будет проверять совместимость сборки с выбранной версией Java.</translation>
+        <translation>Если включено, лаунчер не будет проверять совместимость установки игры с выбранной версией Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
@@ -4289,7 +4289,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
-        <translation>Не указана сборка!</translation>
+        <translation>Не указана установка игры!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="73"/>
@@ -4432,7 +4432,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="292"/>
         <location filename="src/launcher/LaunchController.cpp" line="293"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>Не удалось загрузить профиль сборки.</translation>
+        <translation>Не удалось загрузить профиль установки игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="299"/>
@@ -4509,8 +4509,8 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="210"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation>Остановлено наблюдение журнала игры, потому что его длина превысила %1 строк.
-Возможно, вам нужно исправить моды, потому что игра всё ещё записывает в журналы и, вероятно, тратит место на диске с огромной скоростью!</translation>
+        <translation>Ведение журнала приостановлено, так как он превысил %1 строк.
+Возможно, дело в установленных в сборке модах, потому что игра всё ещё продолжает делать записи в журнал с неимоверной скоростью, тратя свободное место на вашем диске!</translation>
     </message>
 </context>
 <context>
@@ -4645,7 +4645,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>Отключить использование метаданных, предоставляемых поставщиками модов (например, Modrinth или Curseforge) для модов.</translation>
+        <translation>Отключить использование метаданных, предоставляемых поставщиками модов (например, Modrinth или CurseForge) для модов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
@@ -4720,7 +4720,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>Когда включено, при поиске ресурсов (например при поиске заблокированных модов на CurseForge) дополнительно будут включены подпапки из папки загрузок.</translation>
+        <translation>Когда включено, при поиске ресурсов (например, при поиске заблокированных модов на CurseForge) дополнительно будут включены подпапки из папки загрузок.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -4847,12 +4847,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="103"/>
         <source>Instance Folder</source>
-        <translation>Папка сборки</translation>
+        <translation>Папка установки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="111"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Вы пытаетесь указать папку сборки, путь к которой содержит по крайней мере один символ «!». Это может вызвать проблемы с Java, и ваши сборки (возможно) не запустятся!</translation>
+        <translation>Вы пытаетесь указать папку установки игры, путь к которой содержит по крайней мере один символ «!». Это может вызвать проблемы с Java, и ваши сборки (возможно) не запустятся!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
@@ -4869,7 +4869,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>Вы пытаетесь указать папку сборки, которая была временно предоставлена через Flatpak.
+        <translation>Вы пытаетесь указать папку установки игры, которая была временно предоставлена через Flatpak.
 Это может вызвать проблемы. После перезапуска лаунчер может сломаться, так как у него больше не будет доступа к этой папке.
 
 Рекомендуется предоставить доступ %1 к ней через Flatseal.</translation>
@@ -5209,7 +5209,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation>Библиотеки для сборки %1</translation>
+        <translation>Библиотеки для установки игры %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
@@ -5480,7 +5480,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="345"/>
         <source>Launch the selected instance.</source>
-        <translation>Запустить выбранную сборку.</translation>
+        <translation>Запустить выбранную установку игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
@@ -5494,7 +5494,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
         <source>Add a new instance.</source>
-        <translation>Добавить новую сборку.</translation>
+        <translation>Добавить новую установку игры.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -5527,7 +5527,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="715"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Откройте одну из папок, совместно используемых сборками.</translation>
+        <translation>Откройте одну из папок, совместно используемых установками игр.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -5630,7 +5630,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
         <source>Kill the running instance.</source>
-        <translation>Остановить запущенную сборку.</translation>
+        <translation>Остановить запущенную установку игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
@@ -5666,12 +5666,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="512"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Создаёт ярлык на рабочем столе для запуска выбранной сборки.</translation>
+        <translation>Создаёт ярлык на рабочем столе для запуска выбранной установки игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation>Панель сборки</translation>
+        <translation>Панель установки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="392"/>
@@ -5707,7 +5707,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="282"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>Отменить удаление предыдущей сборки</translation>
+        <translation>Отменить удаление предыдущей установки игры</translation>
     </message>
     <message>
         <source>View &amp;Instance Folder</source>
@@ -5758,7 +5758,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
         <source>&amp;Instances</source>
-        <translation>&amp;Сборки</translation>
+        <translation>&amp;Установки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
