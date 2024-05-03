@@ -691,7 +691,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Fetchin&apos; ye assets files from Mojang...</translation>
+        <translation>Plunderin&apos; the booty from Mojang&apos;s coffers...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
