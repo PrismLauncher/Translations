@@ -162,7 +162,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="376"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Ye version for %1 loader cannot be found &apos;ere</translation>
+        <translation>Blimey! Couldn&apos;t find target for %1 loader</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
@@ -242,7 +242,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
         <source>Unknown loader type: </source>
-        <translation>Confused on yerr loader type: </translation>
+        <translation>Unknown cannon type: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
@@ -4773,7 +4773,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
         <source>Version</source>
-        <translation>Varrsion</translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"/>
