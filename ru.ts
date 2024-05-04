@@ -10239,7 +10239,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>BAT-скрипт MKLINK для Windows, который будет использоваться с Prism Launcher</translation>
+        <translation>bat-скрипт MKLINK для Windows, который будет использоваться с Prism Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="164"/>
