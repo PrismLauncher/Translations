@@ -6732,7 +6732,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1018"/>
         <source>, has crashed.</source>
-        <translation>, 는 튕겼습니다.</translation>
+        <translation>, 충돌함.</translation>
     </message>
 </context>
 <context>
