@@ -1088,27 +1088,27 @@ Algumas versões do Minecraft podem não iniciar.
         <translation type="vanished">Abrir Tudo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="167"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
         <translation>Todos os mods foram encontrados</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
         <translation>Por favor, faça o download dos mods ausentes.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Achado no %1 &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="53"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Open Missing</source>
         <translation>Abrir os que faltam</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="57"/>
         <source>Add Download Folder</source>
         <translation>Adicione a Pasta de Download</translation>
     </message>
@@ -1117,17 +1117,17 @@ Algumas versões do Minecraft podem não iniciar.
         <translation type="vanished">Sua pasta configurada de mods globais e downloads padrões são automaticamente checadas pelos mods baixados que serão copiados para a instância se encontrados.&lt;br/&gt;Opcionalmente, você pode arrastar e soltar os mods baixados neste diálogo ou adicionar uma pasta para ser monitorada se você não baixou os mods para uma localização padrão.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
         <translation>Selecione a pasta onde você baixou os mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Não encontrado &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
@@ -2638,17 +2638,17 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <translation>Mod Download Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="589"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 de %2 completo(s)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="598"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="603"/>
         <source>Copying Blocked Mods...</source>
         <translation>Copiando mods bloqueados...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="611"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="616"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Copiando mods bloqueados (%1 de %2 completados)</translation>
     </message>
@@ -2657,22 +2657,22 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <translation type="vanished">Download do mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="550"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="555"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Talvez essa &quot;pasta&quot; precise ser extraída: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="564"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>O agrupamento de modpacks em outros ainda não foi implementado, nada foi baixado: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="574"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>PackageType não reconhecido/processado para: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="590"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
         <source>Downloading mods...</source>
         <translation>Baixando mods...</translation>
     </message>
@@ -8050,17 +8050,17 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <translation>Baixar Mod no Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="246"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="250"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>Um dos arquivos tem um caminho que leva a um local arbitrário (%1). Isso é um risco de segurança e não é permitido.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="279"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="283"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 de %2 completo</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="284"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="288"/>
         <source>Downloading mods...</source>
         <translation>Baixando mods...</translation>
     </message>
@@ -8073,12 +8073,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <translation type="vanished">Um ou mais mods deste modpack são opcionais. Eles serão baixados, mas desativados por padrão!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="379"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="383"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>O URL de download para %1 não é um URL corretamente formatado</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="432"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="436"/>
         <source>Could not understand pack index:
 </source>
         <translation>Não foi possível entender o índice do pack:
@@ -8359,24 +8359,24 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <translation>Solicitando %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="145"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
         <source>unknown</source>
         <translation>desconhecido</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="154"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
@@ -9978,7 +9978,7 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <translation>O caminho não parece ser do MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="57"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
         <source>No author(s)</source>
         <translation>Nenhum autor(es)</translation>
     </message>

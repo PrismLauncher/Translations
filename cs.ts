@@ -1067,27 +1067,27 @@ Některé verze Minecraftu se nemusí spustit.
         <translation type="vanished">Otevřít vše</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="167"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
         <translation>Nalezeny všechny mody</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
         <translation>Stáhněte si prosím chybějící mody.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Nalezeno v %1 &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="53"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Open Missing</source>
         <translation>Otevřít chybějící</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="57"/>
         <source>Add Download Folder</source>
         <translation>Přidat složku stahování</translation>
     </message>
@@ -1096,17 +1096,17 @@ Některé verze Minecraftu se nemusí spustit.
         <translation type="vanished">Nakonfigurovaná globální složka módů a výchozí složka pro stahování jsou automaticky kontrolovány, zda neobsahují stažené módy, a pokud jsou nalezeny, zkopírují se do instance.&lt;br/&gt;Volitelně můžete stažené módy přetáhnout na toto dialogové okno nebo přidat složku ke sledování, pokud jste módy nestáhli do výchozího umístění.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
         <translation>Vyberte adresář, do kterého jste stáhli své mody</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Nenalezeno &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
@@ -2617,17 +2617,17 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>Stažení modu Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="584"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="589"/>
         <source>%1 out of %2 complete</source>
         <translation>Dokončeno %1 z %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="598"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="603"/>
         <source>Copying Blocked Mods...</source>
         <translation>Kopírování blokovaných modů...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="611"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="616"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Kopírování blokovaných modů (hotovo %1 z %2)</translation>
     </message>
@@ -2636,22 +2636,22 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation type="vanished">Stáhnout mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="550"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="555"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Tato &apos;složka&apos; může vyžadovat extrahování: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="564"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Vkládání modpacků do modpacků není implementováno, nic nebylo staženo: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="574"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Nerozpoznaný/nepodporovaný typ balíčku pro: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="590"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
         <source>Downloading mods...</source>
         <translation>Stahování modů...</translation>
     </message>
@@ -8018,17 +8018,17 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>Stažení modu Modrinth</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="246"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="250"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>Jeden ze souborů má cestu, která vede do libovolného umístění (%1). To představuje bezpečnostní riziko a není to povoleno.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="279"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="283"/>
         <source>%1 out of %2 complete</source>
         <translation>Dokončeno %1 z %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="284"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="288"/>
         <source>Downloading mods...</source>
         <translation>Stahování modů...</translation>
     </message>
@@ -8041,12 +8041,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation type="vanished">Jeden nebo více modů v tomto modpacku jsou volitelné. Budou staženy, ale ve výchozím nastavení budou deaktivovány!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="379"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="383"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>Adresa URL pro stažení %1 není správně formátovaná</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="432"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="436"/>
         <source>Could not understand pack index:
 </source>
         <translation>Nerozumím indexu balíčku:
@@ -8299,24 +8299,24 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>Žádám o %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="142"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="145"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="146"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
         <source>unknown</source>
         <translation>neznámý</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="148"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="154"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
@@ -9913,7 +9913,7 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
         <translation>Cesta se nezdá být cesta MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="57"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
         <source>No author(s)</source>
         <translation>Žádný autor</translation>
     </message>
