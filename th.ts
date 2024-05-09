@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>บริการ &amp;Pastebin</translation>
+        <translation>&amp;บริการPastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,33 +21,33 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Type บริการการวาง</translation>
+        <translation>บริการPaste &amp;ประเภท</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>&amp;URL เริ่มต้น</translation>
+        <translation>ฐาน &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>หมายเหตุ: ควรเปลี่ยนหรือเคลียร์ URL ตั้งต้นเมื่อได้ก็ตามที่เปลี่ยนชนิดบริการการวาง</translation>
+        <translation>หมายเหตุ: คุณอาจต้องการเปลี่ยนหรือล้าง URL ฐานหลังจากเปลี่ยนประเภทบริการวาง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>รหัส API</translation>
+        <translation>คีย์ API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoft Authentication</translation>
+        <translation>&amp;การรับรองความถูกต้องของ Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>หมายเหตุ: ไม่จำเป็นต้องตั้งค่าส่วนนี้หาก Microsoft Authentication ที่ใช้สำหรับการเข้าสู่ระบบใช้งานได้อยู่แล้ว</translation>
+        <translation>หมายเหตุ: คุณอาจไม่จำเป็นต้องตั้งค่านี้หากการเข้าสู่ระบบผ่าน Microsoft Authentication ใช้งานได้แล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -59,22 +59,22 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>ป้อน ID ไคลเอนต์ที่กำหนดเองสำหรับ Microsoft Authentication ที่นี่</translation>
+        <translation>ป้อนรหัสไคลเอ็นต์ที่กำหนดเองสำหรับ Microsoft Authentication ที่นี่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>รหัส API ของ Modrinth</translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณแค่ปรับสิ่งนี้เพื่อเข้าถึงข้อมูลส่วนตัว อ่านข้อมูลเพิ่มเติมได้ทาง&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;เอกสารอ้างอิง&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณเพียงต้องตั้งค่านี้เพื่อเข้าถึงข้อมูลส่วนตัว อ่าน&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;เอกสารประกอบ&lt;/a&gt;เพื่อดูข้อมูลเพิ่มเติม&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>กรอกโทเคน API แบบกำหนดเองสำหรับ Modrinth ที่นี่</translation>
+        <translation>ป้อนโทเค็น API ที่กำหนดเองสำหรับ Modrinth ที่นี่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -94,12 +94,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="329"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>ป้อนตัวแทนผู้ใช้ที่กำหนดเองที่นี่ สตริงพิเศษ $LAUNCHER_VAR จะถูกแทนที่ด้วยเวอร์ชันของ launcher</translation>
+        <translation>ป้อนตัวแทนผู้ใช้ที่กำหนดเองที่นี่ สตริงพิเศษ $LAUNCHER_VER จะถูกแทนที่ด้วยเวอร์ชันของตัวเรียกใช้งาน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>ข้อมูล&amp;เมตาของเซิร์ฟเวอร์</translation>
+        <translation>เมตา&amp;เซิร์ฟเวอร์ข้อมูล</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -109,17 +109,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>สามารถตั้งค่าเป็นข้อมูลเมตาของเซิร์ฟเวอร์ภายนอกเพื่อใช้ไลบรารีที่ถูกแก้ไขหรือแฮ็คต่าง ๆ</translation>
+        <translation>คุณสามารถตั้งค่านี้ให้กับเซิร์ฟเวอร์ข้อมูลเมตาของบุคคลที่สามเพื่อใช้ไลบรารีที่มีแพตช์หรือแฮ็กอื่นๆ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>ป้อน URL ข้อมูลเมตาที่นี่</translation>
+        <translation>ป้อน URL ที่กำหนดเองสำหรับเมตาที่นี่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>API หลักของ &amp;CurseForge</translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
@@ -130,7 +130,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>ป้อนรหัส API สำหรับ CurseForge ที่นี่</translation>
+        <translation>ป้อนคีย์ API ที่กำหนดเองสำหรับ CurseForge ที่นี่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
@@ -144,7 +144,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="120"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>ไม่สามารถเข้าใจแพ็ครายการ:
+        <translation>ไม่เข้าใจรายการแพ็ค:
 </translation>
     </message>
     <message>
