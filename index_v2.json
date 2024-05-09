@@ -555,9 +555,9 @@
             "untranslated" : 0
         },
         "th" : {
-            "file" : "d68f0b6e3c6c96e36ad5c87937c4b62545a72d5e.class",
-            "sha1" : "d68f0b6e3c6c96e36ad5c87937c4b62545a72d5e",
-            "size" : 60975,
+            "file" : "71f3077727e4fb915e786abba783cfe19b3d0e6b.class",
+            "sha1" : "71f3077727e4fb915e786abba783cfe19b3d0e6b",
+            "size" : 60999,
             "translated" : 348,
             "fuzzy" : 142,
             "untranslated" : 1383
