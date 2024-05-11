@@ -8796,7 +8796,8 @@ Ragione: %1.</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="140"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornatore ha fallito di chiudere 60 secondi
+Motivo: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="165"/>
@@ -9003,12 +9004,12 @@ Il programma di aggiornamento non può continuare finché non risolvi questo pro
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="663"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="670"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Installando dal %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="675"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Installando %1 dal %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="679"/>
@@ -9019,17 +9020,17 @@ Il programma di aggiornamento non può continuare finché non risolvi questo pro
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="694"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1167"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>File non esiste, ignorando: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="707"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>C&apos;erano degli errori nel installare l&apos;aggiornamento.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="711"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aggiornamento successo.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
@@ -9044,29 +9045,29 @@ Il programma di aggiornamento non può continuare finché non risolvi questo pro
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 portabile: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>si</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>no</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>No version selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna versione selezionata.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>No version was selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna versione era selezionata.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
