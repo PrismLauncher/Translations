@@ -3726,7 +3726,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ステージングフォルダを作成できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
