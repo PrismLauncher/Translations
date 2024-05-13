@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Bemærk: det er bedst at ændre eller rydde basis-URL&apos;en efter at have ændret indsæt-tjenestetypen.</translation>
+        <translation>Bemærk: du bør nok ændre eller rydde basis-URL&apos;en, når du har ændret indsæt-tjenestetypen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Bemærk: du behøver sandsynligvis ikke at indstille dette, hvis login via Microsoft Authentication allerede fungerer.</translation>
+        <translation>Bemærk: du behøver nok ikke at indstille dette, hvis login via Microsoft Authentication allerede fungerer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -51,27 +51,27 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Indtast et brugerdefineret klient-id til Microsoft Authentication her.</translation>
+        <translation>Indtast et tilpasset klient-ID til Microsoft Authentication her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>Modrinth API</translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bemærk, at du blot behøver indstille dette til at have adgang til private data. Læs &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentationen&lt;/a&gt; for yderligere information</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bemærk: du behøver blot at indstille dette for at tilgå private data. Læs &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentationen&lt;/a&gt; for mere information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Indtast en brugerdefineret API token til Modrinth her.</translation>
+        <translation>Indtast en tilpasset API token til Modrinth her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
         <source>(None)</source>
-        <translation>(Tom)</translation>
+        <translation>(Ingen)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="329"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Indtast en brugerdefineret Bruger Agent her. Den specielle streng $LAUNCHER_VER vil blive erstattet med versionen af launcheren.</translation>
+        <translation>Indtast en tilpasset Bruger Agent her. Den specielle streng $LAUNCHER_VER bliver erstattet med launcherens version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -106,7 +106,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Indtast en brugerdefineret URL for meta her.</translation>
+        <translation>Indtast en tilpasset URL for meta her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -116,13 +116,13 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Bemærk: Du behøver sandsynligvis ikke at indstille dette, hvis CurseForge allerede fungerer.</translation>
+        <translation>Bemærk: Du behøver nok ikke at indstille dette, hvis CurseForge allerede fungerer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Indtast en brugerdefineret API-nøgle til CurseForge her.</translation>
+        <translation>Indtast en tilpasset API Nøgle til CurseForge her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation>Ikke-understøttet installerings måde</translation>
+        <translation>Ikke-understøttet installationstilstand</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
@@ -177,12 +177,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Ukendt eller ikke understøttet downloadtype: %1</translation>
+        <translation>Ukendt eller ikke-understøttet downloadtype: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
         <source>Downloading configs...</source>
-        <translation>Downloader konfigurationer...</translation>
+        <translation>Henter konfigurationer...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="632"/>
@@ -232,17 +232,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>De følgende filer er ikke tilgængelige</translation>
+        <translation>Følgende filer er ikke tilgængelige til hentning i tredjeparts launchers.&lt;br/&gt;Du skal hente dem manuelt og føje dem til instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 ud af %2 færdiggjort</translation>
+        <translation>%1 ud af %2 fuldført</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
         <source>Failed to extract mods...</source>
-        <translation>Mislykkedes at udpakke mods...</translation>
+        <translation>Kunne ikke udpakke mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="937"/>
@@ -280,7 +280,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;En brugerdefineret launcher, der gør det nemmere at administrere Minecraft ved at give dig mulighed for at have flere instanser af Minecraft på én gang.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;En tilpasset launcher, der gør det nemmere at håndtere Minecraft ved at lade dig have flere instanser af Minecraft på én gang.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -295,7 +295,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Builddato:</translation>
+        <translation>Build dato:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -340,7 +340,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="165"/>
         <source>Build date: %1</source>
-        <translation>Builddato: %1</translation>
+        <translation>Build dato: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -426,7 +426,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="316"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>Ikke aktiveret</translation>
+        <translation>Deaktiveret</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="319"/>
@@ -502,7 +502,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft brugernavn associeret med kontoen.</translation>
+        <translation>Minecraft-brugernavn knyttet til kontoen.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -511,7 +511,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>User name of the account.</source>
-        <translation>Brugernavn på kontoen.</translation>
+        <translation>Kontoens brugernavn.</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -545,25 +545,25 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="72"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>Sæt som standard</translation>
+        <translation>&amp;Sæt som Standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="80"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Ingen standard</translation>
+        <translation>&amp;Ingen Standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="85"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation>&amp;Upload skin</translation>
+        <translation>&amp;Upload Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="90"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation>Slet Skin</translation>
+        <translation>&amp;Slet Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="93"/>
@@ -574,7 +574,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Tilføj Microsoft</translation>
+        <translation>&amp;Tilføj Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="103"/>
@@ -586,7 +586,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Genindlæs</translation>
+        <translation>&amp;Genindlæs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="111"/>
@@ -611,7 +611,7 @@ Hvis du er ny her, kan du klikke på &quot;Tilføj&quot;-knappen for at tilføje
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Velkommen!
-Hvis du er ny her, kan du vælge &quot;Tilføj Microsoft&quot;-knappen, for at tilknytte din Microsoft konto.</translation>
+Hvis du er ny her, kan du vælge &quot;Tilføj Microsoft&quot;-knappen for at tilknytte din Microsoft-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
