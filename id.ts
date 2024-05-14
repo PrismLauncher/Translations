@@ -28,7 +28,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>Kunci API</translation>
+        <translation>Token API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Catatan: Anda mungkin tidak perlu mengatur file ini jika masuk melalui Autentikasi Microsoft sudah berfungsi.</translation>
+        <translation>Catatan: Anda mungkin tidak perlu mengatur ini jika masuk melalui Autentikasi Microsoft sudah berfungsi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -187,7 +187,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="632"/>
         <source>Config download</source>
-        <translation>Konfigurasi unduhan</translation>
+        <translation>Pengunduhan konfigurasi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="674"/>
@@ -202,7 +202,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
         <source>Selecting optional mods...</source>
-        <translation>Memilih mod-mod pilihan...</translation>
+        <translation>Memilih mod-mod opsional...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
@@ -212,7 +212,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Mod download</source>
-        <translation>Unduh Mod</translation>
+        <translation>Unduhan Mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -586,7 +586,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Sega&amp;rkan</translation>
+        <translation>Muat ulang (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="111"/>
@@ -611,12 +611,12 @@ Jika anda baru disini, anda dapat menekan tombol &quot;Tambah Microsoft&quot; at
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Selamat datang!
-Jika Anda baru, Anda dapat mengeklik tombol &quot;Tambahkan Microsoft&quot; untuk menyambungkan akun Microsoft Anda.</translation>
+Jika Anda pertama kali di sini, Anda dapat mengeklik tombol &quot;Tambahkan Microsoft&quot; untuk menyambungkan akun Microsoft Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="94"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Tidak ada ID klien Microsoft Authenticator yang disetel.</translation>
+        <translation>Tidak ada ID klien Autentikasi Microsoft yang disetel.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="110"/>
@@ -626,12 +626,12 @@ Jika Anda baru, Anda dapat mengeklik tombol &quot;Tambahkan Microsoft&quot; untu
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="138"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Masukkan email akun Mojang dan kata sandi untuk menambah akun anda.</translation>
+        <translation>Masukkan email akun Mojang dan kata sandi untuk menambahkan akun Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="152"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Anda harus menambahkan akun Microsoft yang memiliki Minecraft sebelum Anda dapat menambahkan akun luring. &lt;br&gt;&lt;br&gt;Silakan menghubungi pusat bantuan Microsoft jika Anda kehilangan akun Anda.</translation>
+        <translation>Anda harus menambahkan akun Microsoft yang memiliki Minecraft sebelum Anda dapat menambahkan akun luring. &lt;br&gt;&lt;br&gt;Silakan hubungi pusat bantuan Microsoft jika Anda kehilangan akun Anda.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -658,7 +658,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="159"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Dimohon untuk memasukan nama pengguna yang diinginkan untuk menambahkan akun offline anda.</translation>
+        <translation>Masukkan nama pengguna yang diinginkan untuk menambahkan akun offline Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
@@ -686,7 +686,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="59"/>
         <source>Sending request to auth servers...</source>
-        <translation>Mengirim permintaan ke server pengautentikasi...</translation>
+        <translation>Mengirim permintaan ke server autentikasi...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
@@ -696,7 +696,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Gagal untuk menghubungi server autentikasi.</translation>
+        <translation>Gagal menghubungi server autentikasi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
@@ -726,7 +726,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
         <source>Unknown account task state: %1</source>
-        <translation>Status tugas akun tidak diketahui: %1</translation>
+        <translation>Status tugas akun yang tidak diketahui: %1</translation>
     </message>
 </context>
 <context>
@@ -830,7 +830,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/Application.cpp" line="1773"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Data lama dari %1 telah ditemukan, tetapi Anda punya data yang sudah ada untuk %2. Sayangnya, Anda harus bermigrasi sendiri. Apakah Anda ingin diingatkan tentang data migrasi yang tertunda saat Anda membuka ulang %2?</translation>
+        <translation>Data lama dari %1 telah ditemukan, tetapi Anda memiliki data yang sudah ada untuk %2. Sayangnya Anda harus memigrasikan secara manual. Apakah Anda ingin diingatkan tentang ini saat Anda membuka ulang %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1777"/>
@@ -853,7 +853,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Memperbarui aset indeks...</translation>
+        <translation>Memperbarui indeks aset...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
@@ -1267,7 +1267,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Menonaktifkan ini akan tetap mempertahankan pemuat mod (contoh: Fabric, Quilt, etc.) tetapi akan menghapus folder mod dan konfigurasinya.</translation>
+        <translation>Menonaktifkan akan tetap mempertahankan pemuat mod (contoh: Fabric, Quilt, etc.) tetapi akan menghapus folder mod dan konfigurasinya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -12121,7 +12121,7 @@ Mohon atur akun anda menurut %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="135"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation>Pembuktian umur dibutuhkan oleh akun Microsoft ini untuk bermain. Mohon masuk ke %1 untuk menyediakan bukti.</translation>
+        <translation>Akun Microsoft ini memerlukan bukti umur untuk dipakai. Mohon masuk ke %1 untuk menyediakan bukti.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="140"/>
