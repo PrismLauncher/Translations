@@ -784,7 +784,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Et opdaterings forsøg fejlede
+
+Forsikre dig at din installation er funktionsdygtig før du fortsætter.
+Check Prism Launcer updateringsloggen på:
+
+For flere detalier på sidste opdaterings forsøg.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="967"/>
