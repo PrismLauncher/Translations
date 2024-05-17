@@ -396,7 +396,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">غير معروف</translation>
+        <translation>غير معروف</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
@@ -1484,12 +1484,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Betas</source>
-        <translation type="unfinished">نسخ تقريبية (بيتا)</translation>
+        <translation>نسخ تقريبية (بيتا)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Alphas</source>
-        <translation type="unfinished">نسخ أولية (ألفا)</translation>
+        <translation>نسخ أولية (ألفا)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
@@ -11289,7 +11289,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished">البحث</translation>
+        <translation>البحث</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
@@ -11309,7 +11309,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>تخصيص إجراءات شريط الأدوات</translation>
     </message>
 </context>
 <context>
@@ -11317,13 +11317,14 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="200"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العالم مرتبط رمزيا من مكان آخر.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+هذا العالم مرتبط بشدة في مكان آخر.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="222"/>
@@ -11334,7 +11335,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذير: هذا العالم مرتبط بشدة بمكان آخر. سيؤدي تحريره أيضا إلى تغيير الأصل.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
@@ -11355,13 +11356,13 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="274"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>معلومات</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
@@ -11418,7 +11419,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Delete</source>
-        <translation type="unfinished">حذف</translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
@@ -11487,7 +11488,7 @@ Do you want to continue?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح مجلد حزم بيانات العالم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="275"/>
@@ -11543,7 +11544,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="192"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد الحذف</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="193"/>
@@ -11567,7 +11568,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تسمية العالم</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
@@ -11697,23 +11698,23 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="15"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول كمستخدم Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت مصادقة مستخدم XBox:1%</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر فهم استجابة مصادقة مستخدم XBox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>حصلت على رمز مستخدم Xbox</translation>
     </message>
 </context>
 </TS>
