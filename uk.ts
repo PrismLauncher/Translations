@@ -8479,7 +8479,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation>Невідмічені моди будуть вимкнені.</translation>
+        <translation>Не позначені модифікації буде вимкнено.</translation>
     </message>
 </context>
 <context>
@@ -8872,7 +8872,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте цю версію як версію встановленої програми запуску. (надано, оскільки stdout не може бути надійно перехоплено на вікнах)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
@@ -8892,7 +8892,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation>URL-адреса сховища github</translation>
+        <translation>посилання на репозиторію github</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
