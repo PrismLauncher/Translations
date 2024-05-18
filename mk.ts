@@ -7018,12 +7018,12 @@ Please update %1!</source>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="110"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="114"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="136"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="140"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation type="unfinished">Се извршува %1 задача(и) (%2 од %3 се завршени)</translation>
     </message>

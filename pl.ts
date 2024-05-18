@@ -8528,12 +8528,12 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="110"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="114"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Nie udało się anulować wszystkich zadań w NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="136"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="140"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Wykonywanie %1 zadań (%2 z %3 zostały wykonane)</translation>
     </message>

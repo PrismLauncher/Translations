@@ -8354,12 +8354,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="110"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="114"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>NetJob의 모든 작업을 중단하는 데 실패했습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="136"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="140"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1개의 작업 실행 중 (%3 중 %2 완료)</translation>
     </message>

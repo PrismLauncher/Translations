@@ -8456,12 +8456,12 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="110"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="114"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>¡No se pudo abortar todas las tareas en el NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="136"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="140"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Ejecutando %1 tarea(s) (%2 de %3 están terminados)</translation>
     </message>

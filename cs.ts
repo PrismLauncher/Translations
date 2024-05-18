@@ -8450,12 +8450,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="110"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="114"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Nepodařilo se přerušit všechny úlohy v NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="136"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="140"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Vykonávání %1 úloh(y) (dokončeno %2 z %3)</translation>
     </message>

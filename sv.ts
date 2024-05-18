@@ -8281,12 +8281,12 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="110"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="114"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Kunde inte avbryta alla arbetsuppgifter i NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="136"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="140"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Utför %1 uppgift(er) (%2 av %3 är klara)</translation>
     </message>
