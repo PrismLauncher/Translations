@@ -2480,7 +2480,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="92"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Примітка: Якщо ваші FTB збірки не знаходяться в розташуванні за замовчуванням, виберіть їх за допомогою кнопки поруч з пошуком.</translation>
     </message>
 </context>
 <context>
