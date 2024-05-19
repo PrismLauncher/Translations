@@ -626,27 +626,27 @@ Svůj účet Microsoft můžete přidat tlačítkem „Přidat Microsoft“.</tr
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="139"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat účet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jak se chcete přihlásit?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
         <source>Legacy</source>
-        <translation type="unfinished">Starší verze</translation>
+        <translation>Původní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
         <source>Recommended</source>
-        <translation type="unfinished">Doporučeno</translation>
+        <translation>Doporučené</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
@@ -1065,7 +1065,7 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Čekám...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
@@ -1075,42 +1075,42 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="98"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Ověření bylo úspěšné.</translation>
+        <translation>Ověření bylo úspěšné.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="104"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Nepodařilo se kontaktovat ověřovací server.</translation>
+        <translation>Nepodařilo se kontaktovat ověřovací server.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="111"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">ID klienta se změnilo. Je třeba vytvořit novou relaci.</translation>
+        <translation>ID klienta se změnilo. Je třeba vytvořit novou relaci.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="118"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Během autentikace došlo k chybě.</translation>
+        <translation>Během ověřování došlo k chybě.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="125"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Chyba při autentikaci. Relace vypršela.</translation>
+        <translation>Chyba při ověřování. Relace vypršela.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="132"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Ověření se nezdařilo. Tento účet již neexistuje.</translation>
+        <translation>Ověření se nezdařilo. Tento účet již neexistuje.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="139"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Netnámý stav úlohu účtu: %1</translation>
+        <translation>Neznámý stav úlohy účtu: %1</translation>
     </message>
 </context>
 <context>
@@ -3041,7 +3041,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spuštěn proces: %1</translation>
     </message>
 </context>
 <context>
@@ -5418,37 +5418,37 @@ Důvod:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="53"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Přihlašování pomocí účtu Microsoft (kód zařízení).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="115"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověření zařízení selhalo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se získat ověření zařízení</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověření zařízení selhalo: chybí požadovaná pole</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="152"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Úloha přerušena</translation>
+        <translation>Úloha přerušena</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="254"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Přístup k zařízení selhal: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="269"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Mám</translation>
     </message>
 </context>
 <context>
@@ -5461,7 +5461,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="89"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -5470,7 +5470,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="131"/>
         <source>Browser opened to complete the login process.&lt;br /&gt;&lt;br /&gt;If your browser hasn&apos;t opened, please manually open the below link in your browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Přihlášení dokončete v otevřeném prohlížeči.&lt;br /&gt;&lt;br /&gt;Pokud prohlížeč nebyl otevřen, otevřete prosím ručně odkaz níže ve vašem prohlížeči:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="157"/>
