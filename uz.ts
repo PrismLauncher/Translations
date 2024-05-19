@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Microsoft Autentifikatsiya uchun maxsus client IDni shu yerga kiriting.</translation>
+        <translation>Microsoft Autentifikatsiya uchun boshqacha client IDni shu yerga kiriting.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -61,73 +61,73 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;E&apos;tibor bering: buni faqatgina shaxsiy ma&apos;lumotlardan foydalanish uchun qo&apos;shishingiz kerak.Ko&apos;proq ma&apos;lumot uchun &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentatsiyani&lt;/a&gt; o&apos;qing.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;E&apos;tibor bering: buni faqatgina shaxsiy ma&apos;lumotlardan foydalanish uchun qo&apos;shishingiz kerak. Ko&apos;proq ma&apos;lumot uchun &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentatsiyani&lt;/a&gt; o&apos;qing.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth uchun boshqacha API kalitni shu yerga kiriting.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Yo&apos;q)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshqa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="320"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="329"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshqacha User Agentni shu yerga kiriting. Maxsus bo&apos;lgan $LAUNCHER_VER ning o&apos;rniga launcherning versiyasi joylanadi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta&amp;data Serveri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Servislar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;zgartirilgan kutubxonalar uchun yoki boshqa o&apos;zgartirilgan narsalar uchun bunga uchunchi shaxs metadata serverini kiritishingiz mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta uchun boshqacha URLni shu yerga kiriting.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge Markaziy API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>E&apos;tibor bering: agar CurseForge ishlayotgan bo&apos;lsa, buni o&apos;zgartishingiz shart emas bo&apos;lsa kerak.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge uchun boshqacha API kalitni shu yerga kiriting.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>APIlar</translation>
     </message>
 </context>
 <context>
@@ -136,27 +136,28 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="120"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Paket manifestini tushunib bo&apos;lmadi.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="342"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="152"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Qo&apos;llab-quvvatlanmagan o&apos;rnatish usuli</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bor bo&apos;lgan fayllar o&apos;chirilyapti...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
@@ -270,78 +271,78 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Dastur haqida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Minecraftni boshqarish oson bo&apos;lishi uchun bir vaqtda bir nechta Minecraft nusxalarini saqlay oladigan maxsus launcher.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Platforma:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Yig&apos;ish Sanasi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Mualliflar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Litsenziya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Haqida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Yopish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="139"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 haqida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="155"/>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Platforma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="160"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="165"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yig&apos;ish sanasi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="170"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal</translation>
     </message>
 </context>
 <context>
@@ -350,113 +351,113 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Belgilanmagan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Offlayn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tayyor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ishlayapti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Xatolik bor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Muddati o&apos;tgan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="319"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>O&apos;chgan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Noaniq</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkaunt turi (MSA yoki Offlayn)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Foydalanuvchi nomi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Offlayn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Noaniq</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkaunt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkaunt bilan bog&apos;liq Minecraft foydalanuvchi nomi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkauntning foydalanuvchi ismi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkauntning hozirgi xolati.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="316"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Faol emas</translation>
     </message>
 </context>
 <context>
@@ -465,145 +466,146 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="67"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;O&apos;chirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="72"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Asosiy qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="80"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;sosiy o&apos;chirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="85"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Skin y&amp;uklash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="90"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Skin o&apos;ch&amp;irish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="93"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozirgi faol skinni o&apos;chirish va boshlang&apos;ichga qaytish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="98"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Microsoft qo&apos;shish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="108"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qayta yuklash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="111"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkaunt kalitlarini qayta yuklash</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="62"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xush kelibsiz!
+Agar bu yerda yangi bo&apos;lsangiz, Microsoft Akkauntingizni bog&apos;lash uchun &quot;Add Microsoft&quot; tugmasini bosishingiz mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="111"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontekst menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="139"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkaunt qo&apos;shish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkauntga qanday kirmoqchisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy (Eski)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Masalahat qilinadigan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkauntingizni qo&apos;shish uchun Mojang akkauntingizni elektron pochta manzili va parolini kiriting.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="164"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offlayn akkaunt qo&apos;shishdan avval siz Minecraftga egalik qiluvchi akkunt qo&apos;shishingiz shart.&lt;br&gt;&lt;br&gt;Agar akkauntingizni yo&apos;qotgan bo&apos;lsangiz Microsoftga yordam uchun murojat qilishingiz mumkin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="183"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkaunt o&apos;chirilsinmi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="183"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haqiqatdan ham akkauntni o&apos;chirishga aminmisiz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="272"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin O&apos;chirish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="272"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>Skinni o&apos;chirish muvaffaqiyatsiz bo&apos;ldi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkauntlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="103"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Offlayn qo&apos;shish</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Xatolik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="171"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offlayn akkaunt qo&apos;shish uchun istalgan foydalanuvchi ismini kiriting.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="95"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Autentifikatsiya klient ID qo&apos;yilmagan.</translation>
     </message>
 </context>
 <context>
@@ -611,7 +613,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/Application.cpp" line="766"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sozlamalar</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="919"/>
@@ -627,12 +629,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu o&apos;rnatish jarayonida quyidagi joyda yangilanish qulf-fayli mavjud: %1
+
+Vaqt: %2
+Versiyadan %3 dan %4 ga yangilishi
+O&apos;rnatish joyi: %5
+Ma&apos;lumotlar joyi: %6
+Bu yangilanish urinishi muvaffaqiyatsiz bo&apos;lganligini anglatsa kerak. Davom etishdan oldin dastur ishlash holatini tekshiring.
+
+So&apos;nggi yangilanish urinishning tafsilotlari uchun Prism Launcher yangilovchining jurnalini tekshiring:
+%7
+
+Ushbu qulf-faylni o&apos;chirish va davom etish uchun quyida &quot;E&apos;tibor bermaslik&quot;ni tanlang.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="936"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanish Davom Etmoqda</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="961"/>
@@ -642,12 +655,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanish urinishi muvaffaqiyatsiz bo&apos;ldi
+
+Iltimos davom etishdan oldin dastur ishlash holatini tekshiring.
+
+So&apos;nggi yangilanish urinishning tafsilotlari uchun Prism Launcher yangilovchining jurnalini tekshiring:
+%7</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="969"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanish muvaffaqiyatsiz</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="994"/>
@@ -657,29 +675,36 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanish muvaffaqiyatli
+
+Siz endi %1 dan foydalanyapsiz.
+
+So&apos;nggi yangilanish urinishning tafsilotlari uchun Prism Launcher yangilovchining jurnalini tekshiring:
+%7</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1002"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangilanish muvaffaqiyatli</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1033"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Sizning /tmp papkangiz hozirda &apos;noexec&apos; bayrog&apos;i bilan mount qilingan.
+Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1035"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Mos kelmaydigan tizim konfiguratsiyasi</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1365"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>To&apos;xtatildi</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1775"/>
