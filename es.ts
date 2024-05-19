@@ -646,12 +646,12 @@ Si eres nuevo aquí, puedes seleccionar el botón &quot;Añadir Microsoft&quot; 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="139"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir cuenta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Cómo quieres iniciar sesión?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
