@@ -642,7 +642,7 @@ Jeżeli dopiero zaczynasz korzystać, użyj przycisku „Dodaj Microsoft”, aby
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="139"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj konto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
@@ -1786,7 +1786,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Zmienne Środowiskowe</translation>
+        <translation>&amp;Zmienne środowiskowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1819,7 +1819,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
-        <translation>Zmienne Środowiskowe</translation>
+        <translation>Zmienne środowiskowe</translation>
     </message>
 </context>
 <context>
