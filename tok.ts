@@ -498,7 +498,7 @@ sina sin tawa ilo ni la, o luka e nena &quot;Add&quot; o kama pana e sona sina o
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
-        <translation type="unfinished">lipu pi sona wile li sona ni</translation>
+        <translation>lipu lili poka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
