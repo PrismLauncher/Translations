@@ -65,7 +65,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished">ni la kepeken sijelo linluwi sin. toki namako la $LAUNCHER_VER li ante e ilo open nanpa.</translation>
+        <translation>o pana e sijelo linluwi sin. nanpa pi ilo open li ante e nimi namako $LAUNCHER_VER.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
