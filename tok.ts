@@ -504,12 +504,12 @@ sina sin tawa ilo ni la, o luka e nena &quot;Add&quot; o kama pana e sona sina o
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation type="unfinished">o pana e nimi toki sina pi kulupu Mojan e nimi open sina pi kulupu Mojan tawa sona jan sina.</translation>
+        <translation>kulupu Mojan la sona jan sina la o pana e nimi toki sina e nimi open sina.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation type="unfinished">mi ken kepeken ala e nimi toki pi kulupu Mojan</translation>
+        <translation>mi ken ala kepeken e sona jan pi kulupu Makoso</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -938,7 +938,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="90"/>
         <source>&amp;Group</source>
-        <translation type="unfinished">kulupu (&amp;G):</translation>
+        <translation>kulupu (&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="115"/>
