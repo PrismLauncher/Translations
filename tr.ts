@@ -5412,17 +5412,17 @@ Sebep:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="115"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cihaz doğrulanması başarılamadı: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Cihaz doğrulanması alınamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Cihaz doğrulanması başarısız: gereken alanlar boş</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="152"/>
@@ -5432,12 +5432,12 @@ Sebep:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="254"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cihaza erişim başarısız: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="269"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alındı</translation>
     </message>
 </context>
 <context>
