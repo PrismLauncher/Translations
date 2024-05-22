@@ -5985,7 +5985,7 @@ Esto será permanente y borrará la instancia por completo.
         <location filename="src/launcher/ui/MainWindow.cpp" line="550"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation>&amp;Eliminar grupo</translation>
+        <translation type="unfinished">&amp;Eliminar grupo</translation>
     </message>
     <message>
         <source>Profilers</source>
@@ -6127,7 +6127,7 @@ Por favor, añada una cuenta Microsoft.</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>La siguiente instancia podría hacer referencia a archivos de esta instancia:
 
 %1
@@ -6139,7 +6139,7 @@ Eliminarla puede romper la otra
 
 %1
 
-Eliminarlas puede romper la otra
+Eliminarlas puede romper las otras
 
 ¿Quieres continuar?</numerusform>
         </translation>
