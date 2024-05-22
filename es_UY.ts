@@ -5985,7 +5985,7 @@ Esto será permanente y borrará la instancia por completo.
         <location filename="src/launcher/ui/MainWindow.cpp" line="550"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Eliminar grupo &apos;%1&apos;</translation>
+        <translation>&amp;Eliminar grupo</translation>
     </message>
     <message>
         <source>Profilers</source>
