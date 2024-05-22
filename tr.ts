@@ -5407,7 +5407,7 @@ Sebep:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="53"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished">Microsoft hesabıyla giriş yapılıyor(Cihaz kodu)</translation>
+        <translation>Microsoft hesabıyla giriş yapılıyor(cihaz kodu).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="115"/>
@@ -5459,7 +5459,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="131"/>
         <source>Browser opened to complete the login process.&lt;br /&gt;&lt;br /&gt;If your browser hasn&apos;t opened, please manually open the below link in your browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş işlemi tamamlanmak için tarayıcınız açıldı.&lt;br /&gt;&lt;br /&gt;Eğer tarayıcınız açılmadıysa, manuel olarak bu linki tarayıcınızda açınız:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="157"/>
