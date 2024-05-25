@@ -6043,7 +6043,7 @@ Raison&#xa0;:
         <location filename="src/launcher/ui/MainWindow.ui" line="745"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;Aide</translation>
+        <translation>&amp;Aide %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="748"/>
