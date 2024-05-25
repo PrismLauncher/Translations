@@ -656,7 +656,7 @@ Si eres nuevo aquí, puedes seleccionar el botón &quot;Añadir Microsoft&quot; 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Legado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
@@ -1094,7 +1094,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
@@ -3062,7 +3062,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Proceso iniciado: %1</translation>
     </message>
 </context>
 <context>
@@ -5434,22 +5434,22 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="53"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando sesión con cuenta de Microsoft (código del dispositivo).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="115"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorización del dispositivo fallida: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo al obtener la autorización del dispositivo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo de autorización del dispositivo: faltan campos obligatorios</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="152"/>
@@ -5459,12 +5459,12 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="254"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo de acceso al dispositivo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="269"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtuvo</translation>
     </message>
 </context>
 <context>
@@ -5486,7 +5486,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="131"/>
         <source>Browser opened to complete the login process.&lt;br /&gt;&lt;br /&gt;If your browser hasn&apos;t opened, please manually open the below link in your browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha abierto el navegador para completar el inicio de sesión.&lt;br /&gt;&lt;br /&gt;Si el navegador no se ha abierto, porfavor abra el link que se encuentra debajo en el navegador de forma manual:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="157"/>
