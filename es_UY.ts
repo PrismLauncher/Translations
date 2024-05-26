@@ -5668,7 +5668,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="333"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>&amp;Manejar cuentas...</translation>
+        <translation>&amp;Administrar cuentas...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="274"/>
