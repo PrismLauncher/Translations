@@ -6714,7 +6714,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="163"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Cerrar el launcher cuando la ventana del juego se abra</translation>
+        <translation>&amp;Cerrar el launcher después de que la ventana de juego se abra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
