@@ -617,12 +617,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="139"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавяне на профил</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation>Как искате да влезете?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
@@ -632,12 +632,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Препоръчва се</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
@@ -1040,7 +1040,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Очакване...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
@@ -2338,7 +2338,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно създаване на папка с FML библиотека в екземпляра.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
@@ -2537,7 +2537,8 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="442"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се разреши IDs на Mod:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="495"/>
@@ -2553,7 +2554,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod Изтегляне на пламък</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="589"/>
@@ -2582,12 +2583,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Влагането на modpacks в modpacks не е реализирано, нищо не е изтеглено: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="574"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Неразпознат/необработен PackageType за: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
@@ -2600,7 +2601,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="413"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Здравейте!&lt;/h1&gt;&lt;h4&gt;Изглежда, че вашият ID на пакета е нулев. Това се дължи на грешка в по-стари версии на стартовия панел.&lt;br/&gt;За съжаление, не можем да направим правилните заявки за API без тази информация.&lt;br/&gt;&lt;br/&gt;Така че, за да работи тази функция, ще трябва да изтеглите отново modpack от вградената програма за изтегляне.&lt;br/&gt;&lt;br/&gt;Не се притеснявайте обаче, вместо това ще ви помоли да актуализирате този екземпляр, така че няма да го загубите!&lt; /h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="475"/>
