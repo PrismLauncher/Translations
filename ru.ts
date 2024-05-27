@@ -5476,7 +5476,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="53"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation>Вход через Майкрософт аккаунт(код с устройства.</translation>
+        <translation type="unfinished">Вход через внешнюю учётную запись Microsoft (код устройства).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="115"/>
