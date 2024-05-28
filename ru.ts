@@ -657,12 +657,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
         <source>Recommended</source>
-        <translation type="unfinished">Рекомендованная</translation>
+        <translation>Рекомендованный</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
@@ -1100,32 +1100,32 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="98"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Аутентификация прошла успешно.</translation>
+        <translation>Аутентификация прошла успешно.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="104"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Не удалось подключиться к серверу аутентификации.</translation>
+        <translation>Не удалось подключиться к серверу аутентификации.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="111"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Client ID был изменён. Необходимо создать новую сессию.</translation>
+        <translation>Client ID был изменён. Необходимо создать новую сессию.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="118"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Произошла ошибка во время аутентификации.</translation>
+        <translation>Произошла ошибка во время аутентификации.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="125"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Не удалось аутентифицироваться. Срок действия сессии истек.</translation>
+        <translation>Не удалось аутентифицироваться. Срок действия сессии истек.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="132"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Ошибка аутентификации. Учётная запись больше не существует.</translation>
+        <translation>Ошибка аутентификации. Учётная запись больше не существует.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="139"/>
@@ -1135,7 +1135,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Неизвестное состояние запроса на учётную запись: %1</translation>
+        <translation>Неизвестное состояние запроса на учётную запись: %1</translation>
     </message>
 </context>
 <context>
@@ -5476,7 +5476,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="53"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished">Вход через внешнюю учётную запись Microsoft (код устройства).</translation>
+        <translation>Вход через  учётную запись Microsoft (код устройства).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="115"/>
@@ -5501,7 +5501,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="254"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка доступа к устройству: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="269"/>
@@ -5519,7 +5519,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="89"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
