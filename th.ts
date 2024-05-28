@@ -381,7 +381,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">ออฟไลน์</translation>
+        <translation>ออฟไลน์</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
@@ -441,7 +441,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">ไม่ทราบ/ไม่รู้จัก</translation>
+        <translation>ไม่ทราบ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
@@ -629,12 +629,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="139"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มบัญชี</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณต้องการเข้าสู่ระบบด้วยวิธีใด?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
@@ -644,12 +644,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>แนะนำ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
@@ -914,19 +914,19 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">เรียงตามความนิยม</translation>
+        <translation>เรียงตามความนิยม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">เรียงตามชื่อ</translation>
+        <translation>เรียงตามชื่อ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">เรียงตามเวอร์ชันเกม</translation>
+        <translation>เรียงตามเวอร์ชันเกม</translation>
     </message>
 </context>
 <context>
@@ -1006,7 +1006,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search</source>
-        <translation type="unfinished">ค้นหา</translation>
+        <translation>ค้นหา</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -1030,17 +1030,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">ขณะนี้ไม่มีเวอร์ชันสำหรับ Minecraft %1</translation>
+        <translation>ขณะนี้ไม่มีเวอร์ชันสำหรับ Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">ขณะนี้ยังไม่มีเวอร์ชันที่พร้อมใช้งาน</translation>
+        <translation>ขณะนี้ยังไม่มีเวอร์ชันที่พร้อมใช้งาน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">ไม่สามารถโหลดหรือดาวน์โหลดรายการเวอร์ชันได้!</translation>
+        <translation>ไม่สามารถโหลดหรือดาวน์โหลดรายการเวอร์ชันได้!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -1063,7 +1063,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังรอ...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
@@ -1073,42 +1073,42 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="98"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">การเข้าสู่ระบบสำเร็จ</translation>
+        <translation>การตรวจสอบสำเร็จ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="104"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">ไม่สามารถติดต่อเซิร์ฟเวอร์การตรวจสอบสิทธิ์</translation>
+        <translation>ไม่สามารถติดต่อเซิร์ฟเวอร์ตรวจสอบได้</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="111"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">เนื่องจากมีการเปลี่ยนแปลงของไอดีไคลเอนต์ จึงต้องมีการสร้างเซสชันใหม่ขึ้น</translation>
+        <translation>มีการเปลี่ยนแปลงไคลเอนต์ไอดีเกิดขึ้น จึงต้องมีการสร้างเซสชันใหม่</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="118"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">พบข้อผิดพลาดระหว่างการตรวจสอบสิทธิ์</translation>
+        <translation>พบข้อผิดพลาดระหว่างการตรวจสอบ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="125"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">การตรวจสอบสิทธิ์ผิดพลาด เซสชันดังกล่าวหมดอายุแล้ว</translation>
+        <translation>การตรวจสอบผิดพลาด เซสชั่นหมดอายุ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="132"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">ไม่สามารถตรวจสอบสิทธิ์ บัญชีนี้ไม่มีอยู่แล้ว</translation>
+        <translation>ไม่สามารถตรวจสอบ บัญชีนี้จะไม่มีอยู่อีกแล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="139"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">ไม่ทราบสถานะการทำงานของบัญชี: %1</translation>
+        <translation>ไม่ทราบสถานะการทำงานของบัญชี: %1</translation>
     </message>
 </context>
 <context>
@@ -1207,7 +1207,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished">ข้าม mod นี้</translation>
+        <translation>ข้าม mod นี้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
