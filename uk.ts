@@ -5361,7 +5361,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="254"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не вдалося отримати доступ до пристрою: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="269"/>
@@ -5388,7 +5388,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="131"/>
         <source>Browser opened to complete the login process.&lt;br /&gt;&lt;br /&gt;If your browser hasn&apos;t opened, please manually open the below link in your browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Браузер відкрився для завершення процесу входу.&lt;br /&gt;&lt;br /&gt;Якщо ваш браузер не відкрився, будь ласка, відкрийте вручну посилання нижче у вашому браузері:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="157"/>
@@ -8722,12 +8722,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>пропуски кешу пікселів при виселенні відбувалися надто швидко, нічого не роблячи, коли розмір кешу досягав граничного значення</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation>пропуски кешу пікселів при виселенні відбувалися занадто швидко, збільшуючи розмір кешу до</translation>
     </message>
 </context>
 <context>
@@ -8917,7 +8917,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="235"/>
         <source>Log debug to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Записувати відладочні повідомлення в консоль.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
@@ -8948,7 +8948,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення запускається як неправильно сконфігурований AppImage? (відсутня змінна оточення $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
@@ -8958,7 +8958,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="368"/>
         <source>The launcher data folder is not writable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка з даними запуску не доступна для запису!</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="369"/>
@@ -8968,7 +8968,12 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Програма оновлення не змогла створити файл журналу - тека даних закрита для запису.
+
+Переконайтеся, що у вас є права на запис до теки даних.
+(%1)
+
+Програма оновлення не зможе продовжити роботу, доки ви не розв&apos;яжете цю проблему.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
@@ -8994,12 +8999,12 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="641"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1090"/>
         <source>Reading manifest from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Читання маніфесту з %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="653"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Маніфест порожній, робиться спроба вгадати вміст директорії %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
@@ -9011,33 +9016,33 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="663"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="670"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановлення з %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="675"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановлення %1 з %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="679"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося скопіювати %1 до %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="694"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1167"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл не існує, ігнорування: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="707"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виникли помилки при встановленні оновлення.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="711"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення пройшло успішно.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
@@ -9047,7 +9052,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="869"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Випуск Github %1 не має дійсних ресурсів для цієї платформи: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
@@ -9058,39 +9063,40 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>так</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>ні</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>No version selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Версію не вибрано.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>No version was selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не було обрано жодної версії.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
         <source>Failed to Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося завантажити</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося завантажити вибраний ресурс.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="988"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення вже виконується
+</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="990"/>
@@ -9106,64 +9112,76 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ця інсталяція має файл блокування оновлень за адресою: %1
+
+Мітка часу: %2
+Оновлення з версії %3 до %4
+Цільовий шлях встановлення: %5
+Шлях до даних: %6
+Це, ймовірно, означає, що попередня спроба оновлення була невдалою. Будь ласка, переконайтеся, що ваша інсталяція в робочому стані, перш ніж продовжити.
+Перевірте журнал оновлення Prism Launcher за адресою: 
+%7
+для отримання інформації про останню спробу оновлення.
+
+Щоб перезаписати це блокування і продовжити оновлення, виберіть «Ігнорувати» нижче.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення скасовано</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Спроба оновлення була перервана</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
         <source>Updating from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення з %1 на %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1031"/>
         <source>Updating portable install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення портативної інсталяції в %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1034"/>
         <source>Running installer file at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск файлу інсталятора в %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
         <source>Process start result: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат запуску процесу: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
         <source>Backing up install</source>
-        <translation type="unfinished"></translation>
+        <translation>Створення резервної копії інсталяції</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1071"/>
         <source>Starting new updater at &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск нового оновлення в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1073"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося запустити &apos;%1&apos; %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1124"/>
         <source>Backing up:
   %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск резервної копії:
+  %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1135"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1142"/>
         <source>Backing up install at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Резервне копіювання інсталяції на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1147"/>
@@ -9173,70 +9191,71 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
         <source>Failed to backup %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося створити резервну копію %1 до %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1154"/>
         <source>Failed to remove %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося видалити %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1189"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Витягнуто наступне до &quot;%1&quot;:
+  %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1191"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1193"/>
         <source>Failed to extract %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося витягти %1 до %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <source>Running: `%1 %2`</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск: `%1 %2`</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1204"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося запустити дочірній процес &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1206"/>
         <source>Failed extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося розпакувати архів</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дочірній процес «%1 %2» завершився невдало.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
         <source>Failed to extract archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося розпакувати архів</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1220"/>
         <source>Unknown archive format for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Невідомий формат архіву для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Failed to Check Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося перевірити версію</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1235"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося запустити дочірній процес для зчитування версії.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1239"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Процес запуску дочірнього процесу не вдався.</translation>
     </message>
 </context>
 <context>
@@ -10061,7 +10080,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматичний оновлювач для Prism Launcher</translation>
     </message>
 </context>
 <context>
@@ -10165,18 +10184,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Виникла помилка мережі. Не вдалося завантажити версії проєкту: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Виникла помилка мережі. Не вдалося завантажити інформацію про проєкт: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Запит було скасовано з невідомої причини</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
@@ -10411,7 +10430,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="470"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Якщо ви ввімкнете/вимкнете цей ресурс під час гри, це може призвести до аварійного завершення гри.
+Ви впевнені, що хочете це зробити?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="500"/>
@@ -10638,7 +10658,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="87"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип версії: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="112"/>
@@ -10769,13 +10789,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="387"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Перервати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження скріншотів перервано</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
@@ -10839,12 +10859,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата публікації</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="118"/>
         <source>Select a version to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть версію для встановлення.</translation>
     </message>
 </context>
 <context>
@@ -10857,7 +10877,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, виберіть випуск, до якого ви бажаєте оновитися.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
@@ -10867,14 +10887,16 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
         <source>Published Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата публікації</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="46"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть версію для встановлення.
+
+Наразі встановлена версія: %1</translation>
     </message>
 </context>
 <context>
@@ -11504,17 +11526,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="60"/>
         <source>View icon themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути папку тем піктограм.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="79"/>
         <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Віджети</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="104"/>
         <source>View widget themes folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути папку тем віджетів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
@@ -11530,7 +11552,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="154"/>
         <source>View cat packs folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути папку з наборами котів.</translation>
     </message>
 </context>
 <context>
@@ -11617,43 +11639,43 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="14"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступне оновлення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="73"/>
         <source>A new version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступна нова версія!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія %1 тепер доступна - у вас %2. Бажаєте завантажити її зараз?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
         <source>Release Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Примітки до випуску:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="109"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустити цю версію</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Нагадати пізніше</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити оновлення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступна нова версія %1!</translation>
     </message>
 </context>
 <context>
@@ -11982,12 +12004,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити версію</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
         <source>Change version of the selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити версію вибраного компонента.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
@@ -11997,7 +12019,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
         <source>Make the selected component apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробіть так, щоб вибраний компонент застосовувався раніше.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
@@ -12007,12 +12029,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
         <source>Make the selected component apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробіть так, щоб вибраний компонент був застосований пізніше.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Remove selected component from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити вибраний компонент з екземпляра.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
@@ -12027,7 +12049,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
         <source>Revert the selected component to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Відновити значення вибраного компонента за замовчуванням.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
@@ -12037,22 +12059,22 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Install a mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановіть завантажувач модифікацій.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
         <source>Add an empty custom component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати порожній користувацький компонент.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Reload all components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновити всі компоненти.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Download all</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити все</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
@@ -12779,27 +12801,27 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="134"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей обліковий запис Microsoft вимагає підтвердження повноліття для гри. Будь ласка, увійдіть до %1, щоб підтвердити свій вік.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="139"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для цього облікового запису Microsoft вичерпано ліміт ігрового часу. Цей обліковий запис Microsoft заблоковано для входу.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей обліковий запис Microsoft було заблоковано Xbox за порушення одного або кількох стандартів спільноти Xbox і він не може бути використаний.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="149"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей обліковий запис Microsoft наразі обмежено, і ваш опікун не надав вам дозволу грати в Інтернеті. Увійдіть до %1 і попросіть опікуна змінити ваші дозволи.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="156"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей обліковий запис Microsoft не прийняв Умови використання Xbox. Будь ласка, увійдіть і прийміть їх.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="161"/>
