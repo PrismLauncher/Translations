@@ -555,12 +555,12 @@
             "untranslated" : 0
         },
         "th" : {
-            "file" : "a83d4d8ff3f387dc7e76b5a23b62488bfdc8fe49.class",
-            "sha1" : "a83d4d8ff3f387dc7e76b5a23b62488bfdc8fe49",
-            "size" : 61199,
-            "translated" : 339,
-            "fuzzy" : 154,
-            "untranslated" : 1389
+            "file" : "633d5e40940ea256a5f23a147bab73c3050ca870.class",
+            "sha1" : "633d5e40940ea256a5f23a147bab73c3050ca870",
+            "size" : 61435,
+            "translated" : 362,
+            "fuzzy" : 135,
+            "untranslated" : 1385
         },
         "tok" : {
             "file" : "6dd3323f44c43448bd63fea76d05a41ba9e38175.class",
