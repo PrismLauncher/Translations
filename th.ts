@@ -1631,7 +1631,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="155"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">ขณะนี้ไม่มีเวอร์ชันสำหรับ Minecraft %1</translation>
+        <translation>ขณะนี้ไม่มีเวอร์ชั่นที่ใช้ได้สำหรับ Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -1748,12 +1748,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
         <source>Name</source>
-        <translation type="unfinished">ชื่อ</translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
         <source>Value</source>
-        <translation type="unfinished">ค่า</translation>
+        <translation>ค่า</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
@@ -1847,7 +1847,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation type="unfinished">ชื่อ</translation>
+        <translation>&amp;Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
@@ -1897,7 +1897,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="138"/>
         <source>Export %1</source>
-        <translation type="unfinished">ส่งออก %1</translation>
+        <translation>ส่งออก %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -1930,7 +1930,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">การตั้งค่า</translation>
+        <translation>การตั้งค่า</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -1976,7 +1976,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <source>Version</source>
-        <translation type="unfinished">เวอร์ชัน</translation>
+        <translation>เวอร์ชั่น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
@@ -2013,7 +2013,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="168"/>
         <source>Export %1</source>
-        <translation type="unfinished">ส่งออก %1</translation>
+        <translation>ส่งออก %1</translation>
     </message>
 </context>
 <context>
@@ -2036,7 +2036,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="101"/>
         <source>Add</source>
-        <translation type="unfinished">เพิ่ม</translation>
+        <translation>เพิ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="106"/>
@@ -2187,7 +2187,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">เรียกดู</translation>
+        <translation>เรียกดู</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2205,7 +2205,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">โปรแกรมแก้ไขข้อความ:</translation>
+        <translation>&amp;Text Editor:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
@@ -2368,7 +2368,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="115"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">เรียงตามเวอร์ชันเกม</translation>
+        <translation>เรียงตามเวอร์ชั่นเกม</translation>
     </message>
 </context>
 <context>
