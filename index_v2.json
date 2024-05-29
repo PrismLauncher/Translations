@@ -499,11 +499,11 @@
             "untranslated" : 32
         },
         "ru" : {
-            "file" : "1a301e4a001a217474d9803654c47262d3a36ed3.class",
-            "sha1" : "1a301e4a001a217474d9803654c47262d3a36ed3",
-            "size" : 275627,
-            "translated" : 1882,
-            "fuzzy" : 0,
+            "file" : "9a20221161ff67825add47761bae4871a061b1da.class",
+            "sha1" : "9a20221161ff67825add47761bae4871a061b1da",
+            "size" : 275483,
+            "translated" : 1871,
+            "fuzzy" : 11,
             "untranslated" : 0
         },
         "si" : {
