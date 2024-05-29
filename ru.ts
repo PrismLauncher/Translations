@@ -7680,7 +7680,7 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="363"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>Вы собираетес удалить метаданные модификации %1
+        <translation type="unfinished">Вы собираетесь удалить метаданные %1 модов.
 Вы уверены?</translation>
     </message>
     <message>
@@ -7917,7 +7917,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="412"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Не удаётся найти актуальную версию у выбранного(-ых) поставщика(-ов) модификаций</translation>
+        <translation type="unfinished">Не удалось найти допустимую версию у выбранного(-ых) поставщика(-ов) модов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
@@ -8138,7 +8138,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="132"/>
         <source>Mod has an empty download URL</source>
-        <translation>У модификации нет ссылки для скачивания</translation>
+        <translation type="unfinished">У мода нет ссылки для скачивания</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="176"/>
@@ -10168,7 +10168,7 @@ New name: %2</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Одна или несколько из ваших установок игры имеют одну и ту же сборку модификаций%1. Вы хотите создать отдельную установку или обновить существующую?
+        <translation type="unfinished">Одна или несколько из ваших установок игры имеют одну и ту же сборку модов%1. Вы хотите создать отдельную установку или обновить существующую?
 
 ПРИМЕЧАНИЕ: Убедитесь, что вы сделали резервную копию важной для вас установки игры перед обновлением, так как миры имеют свойство повреждаться и можно потерять некоторые настройки (из-за перезаписей сборок).</translation>
     </message>
@@ -10368,7 +10368,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="104"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>модификаций</translation>
+        <translation type="unfinished">модов</translation>
     </message>
 </context>
 <context>
@@ -10377,13 +10377,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation>модификации</translation>
+        <translation type="unfinished">моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation>модификация</translation>
+        <translation type="unfinished">мод</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
@@ -10487,7 +10487,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation>Произошла сетевая ошибка. Не удалось загрузить модификации.</translation>
+        <translation type="unfinished">Произошла сетевая ошибка. Не удалось загрузить моды.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
@@ -12353,7 +12353,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Install a mod loader.</source>
-        <translation>Установить модифицированный загрузчик.</translation>
+        <translation type="unfinished">Установить загрузчик модов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
@@ -12469,12 +12469,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Select jar mods</source>
-        <translation>Выберите jar-файлы модификаций</translation>
+        <translation type="unfinished">Выберите моды формата JAR</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>Модификации Minecraft.jar (*.zip *.jar)</translation>
+        <translation type="unfinished">Моды Minecraft.jar (*.zip, *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
