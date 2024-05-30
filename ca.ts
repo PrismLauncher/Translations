@@ -630,7 +630,7 @@ Si n&apos;ets un nou usuari, pots seleccionar el botó &quot;Afegeix Compte de M
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="139"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix compte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
