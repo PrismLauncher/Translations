@@ -656,12 +656,12 @@ Si eres nuevo aquí, puedes seleccionar el botón &quot;Añadir Microsoft&quot; 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
         <source>Legacy</source>
-        <translation>Legado</translation>
+        <translation>Estable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
         <source>Recommended</source>
-        <translation type="unfinished">Recomendado</translation>
+        <translation>Recomendable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
