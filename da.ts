@@ -626,12 +626,12 @@ Hvis du er ny her, kan du vælge &quot;Tilføj Microsoft&quot;-knappen for at ti
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="139"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj konto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvordan vil du logge ind?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
