@@ -344,22 +344,22 @@
         <translation>Schließen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
         <source>About %1</source>
         <translation>Über %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="155"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Platform</source>
         <translation>Plattform</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Commit: %1</source>
         <translation>Änderung: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="165"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
         <source>Build date: %1</source>
         <translation>Build-Datum: %1</translation>
     </message>
@@ -368,7 +368,7 @@
         <translation type="vanished">Build-Nummer</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="171"/>
         <source>Channel</source>
         <translation>Kanal</translation>
     </message>
@@ -2120,7 +2120,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <translation>Kopieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="162"/>
         <source>Export %1</source>
         <translation>%1 exportieren</translation>
     </message>
@@ -2765,17 +2765,17 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Hallo du da!&lt;/h1&gt;&lt;h4&gt; Es scheint, als ob deine Pack ID null ist. Dies liegt an einem Fehler in älteren Versionen des Launchers.&lt;br/&gt;Leider können wir ohne diese Informationen keine korrekten API-Anfragen stellen,.&lt;br/&gt;&lt;br/&gt;Damit diese Funktion funktioniert, müsst ihr das Modpack über den integrierten Downloader erneut herunterladen.&lt;br/&gt;&lt;br/&gt;Aber keine Sorge, er wird dich bitten, stattdessen diese Instanz zu aktualisieren, so dass du diese Instanz nicht verlieren wirst!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="475"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
         <source>%1 (Current)</source>
         <translation>%1 (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="539"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>Choose update file</source>
         <translation>Wähle Update-Datei</translation>
     </message>
@@ -2937,74 +2937,74 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
         <translation>Nach Vorgestellt sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
         <translation>Nach Beliebtheit sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>Nach zuletzt aktualisiert sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>Nach Name sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
         <translation>Nach Autor sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
         <translation>Nach Gesamt-Downloads sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="192"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="211"/>
         <source>No version is available!</source>
         <translation>Keine Version vorhanden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="199"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="277"/>
         <source> by </source>
         <translation> von </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="282"/>
         <source>External links:</source>
         <translation>Externe Links:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="286"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="288"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="290"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Quellcode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -5167,49 +5167,49 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
         <translation type="vanished">FTB Legacy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
         <translation>Aufgabe abgebrochen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
         <translation>Die Aufgabe wurde vom Benutzer abgebrochen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
         <source>FTB private packs</source>
         <translation>Private FTB Modpacks</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>Fehler beim Herunterladen der Paketinformationen für Code %1.
 Möchtest du diesen nun entfernen?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Add FTB pack</source>
         <translation>FTB Modpack hinzufügen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Enter pack code:</source>
         <translation>Modpack-Code eingeben:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Remove pack</source>
         <translation>Modpack entfernen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Are you sure you want to remove pack %1?</source>
         <translation>Bist du sicher das du das Modpack %1 entfernen möchten?</translation>
     </message>
@@ -6794,7 +6794,7 @@ Bist du dir sicher?</translation>
         <translation>Seite neu laden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="146"/>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
@@ -6803,52 +6803,52 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation>Webseite: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Versions ID: %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="196"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"/>
         <source>Warnings</source>
         <translation>Warnungen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>Task aborted</source>
         <translation>Aufgabe abgebrochen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>The task has been aborted by the user.</source>
         <translation>Die Aufgabe wurde vom Benutzer abgebrochen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
         <source>Abort</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
         <source>Update pack</source>
         <translation>Update Pack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
         <source>Failed to search for available versions.</source>
         <translation>Die Suche nach verfügbaren Versionen ist fehlgeschlagen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>Die Abfrage der Änderungs-Daten für dieses Modpack ist fehlgeschlagen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
         <source>Cannot update!</source>
         <translation>Aktualisierung nicht möglich!</translation>
     </message>
@@ -7803,100 +7803,100 @@ Bitte aktualisiere %1!</translation>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="44"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="45"/>
         <source>Confirm mods to update</source>
         <translation>Zu aktualisierende Mods bestätigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
         <source>You&apos;re about to update the following mods:</source>
         <translation>Die folgenden Mods werden aktualisiert:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="57"/>
         <source>Only mods with a check will be updated!</source>
         <translation>Nur ausgewählte Mods werden aktualisiert!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="74"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Mod-Name: %1&lt;br&gt;Dateiname: %2&lt;br&gt;Grund: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
         <translation>Erzeugung der Metadaten ist fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="79"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Es konnten keine Metadaten für die folgenden Mods generiert werden:&lt;br&gt;Möchtest du ohne diese Mods fortfahren?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="93"/>
         <source>Checking for updates</source>
         <translation>Suche nach Updates</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="111"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="195"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="338"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="408"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="196"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="339"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="409"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="200"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="117"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="201"/>
         <source>Warnings</source>
         <translation>Warnungen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="122"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
         <source>Abort</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="124"/>
         <source>Checking for updates...</source>
         <translation>Such nach Updates...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="169"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Mod name: %1</source>
         <translation>Mod-Name: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="172"/>
         <source>Reason: %1</source>
         <translation>Grund: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="174"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="175"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>Mögliche Lösung: Manuelles Abrufen der neuesten Version:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
         <source>Checking for dependencies...</source>
         <translation>Prüfe auf mögliche Dependencies...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="309"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="310"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Die Mod &apos;%1&apos; hat noch keine Metadaten. Wir müssen diese erstellen, um relevante Informationen über die Aktualisierung der Mod zu erhalten. Wähle dazu bitte einen Mod-Anbieter aus, mit dem wir nach Updates für sie suchen können.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="412"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Konnte keine gültige Version auf dem/den ausgewählten Mod-Anbieter(n) finden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="424"/>
         <source>Mod was disabled as it may be already instaled.</source>
         <translation>Mod wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
     </message>
@@ -7909,17 +7909,17 @@ Bitte aktualisiere %1!</translation>
         <translation type="vanished">Neuste Version manuell herunterladen:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
         <source>Failed to check for updates</source>
         <translation>Konnte nicht nach Updates suchen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="181"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Die folgenden Mods konnten nicht auf Updates überprüft oder abgerufen werden:&lt;br&gt;Möchtest du ohne diese Mods fortfahren?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="266"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="267"/>
         <source>Looking for metadata</source>
         <translation>Suche nach Metadaten</translation>
     </message>
@@ -7928,7 +7928,7 @@ Bitte aktualisiere %1!</translation>
         <translation type="vanished">Diese Mod (%1) hat noch keine Metadaten. Wir müssen diese erstellen, um relevante Informationen, wie bspw. diese Mod aktualisiert werden kann, zu pflegen. Wähle dazu bitte einen Mod-Anbieter aus, bei dem wir nach Updates für %1 suchen können.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
         <source>Generating metadata...</source>
         <translation>Erzeuge Metadaten...</translation>
     </message>
@@ -7937,42 +7937,42 @@ Bitte aktualisiere %1!</translation>
         <translation type="vanished">Es wurde keine gültige Version bei dem/den ausgewählten Mod-Anbieter(n) gefunden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Provider: %1</source>
         <translation>Anbieter: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="432"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
         <source>Old version: %1</source>
         <translation>Alte Version: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="432"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
         <source>Not installed</source>
         <translation>Nicht installiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="435"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
         <source>New version: %1</source>
         <translation>Neue Version: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="439"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="440"/>
         <source>New Version Type: %1</source>
         <translation>Neuer Versionstyp: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="445"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
         <source>Required by: %1</source>
         <translation>Benötigt von: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="447"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="448"/>
         <source>Required by:</source>
         <translation>Benötigt von:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="461"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="462"/>
         <source>Changelog of the latest version</source>
         <translation>Changelog der neuesten Version</translation>
     </message>
@@ -8229,17 +8229,17 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished"> (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="305"/>
         <source>%1 (Current)</source>
         <translation>%1 (Aktuell)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>Fetching changelogs...</source>
         <translation>Änderungsprotokolle abrufen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Choose update file</source>
         <translation>Wähle Update-Datei</translation>
     </message>
@@ -8347,7 +8347,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Mod zum Herunterladen auswählen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation>Nach Relevanz sortieren</translation>
@@ -8357,70 +8357,70 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Nach Downloads sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
         <source>Sort by Follows</source>
         <translation>Nach Follows sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>Nach zuletzt aktualisiert sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation>Nach Erscheinung sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
         <source>Sort by Total Downloads</source>
         <translation>Nach Anzahl Downloads sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="188"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="268"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
         <source> by </source>
         <translation> von </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Dieses Projekt wurde archiviert. Es wird keine weiteren Updates erhalten, außer der Autor entscheidet sich, es zu de-archivieren.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
         <source>Donate information: </source>
         <translation>Informationen zu Spenden: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
         <source>External links:</source>
         <translation>Externe Links:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="295"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="297"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="299"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Quellcode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="300"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -9742,13 +9742,13 @@ Wähle deinen Namen sorgfältig:</translation>
         <translation type="vanished">MultiMC-Entwickler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>Website</source>
         <translation>Webseite</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="74"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="93"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="94"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
@@ -9761,7 +9761,7 @@ Wähle deinen Namen sorgfältig:</translation>
         <translation type="vanished">%1 Mitwirkende</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>Mit Dank an</translation>
@@ -10504,74 +10504,74 @@ Bitte aktualisiere %1!</translation>
 <context>
     <name>ResourceDownload::ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
         <translation>Suche nach %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="253"/>
         <source>Select %1 for download</source>
         <translation>%1 zum Herunterladen auswählen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="200"/>
         <source> by </source>
         <translation> von </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Dieses Projekt wurde archiviert. Es wird keine weiteren Updates erhalten, außer der Autor entscheidet sich, es zu de-archivieren.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
         <source>Donate information: </source>
         <translation>Informationen zu Spenden: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
         <source>External links:</source>
         <translation>Externe Links:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="227"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="229"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="231"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Quellcode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="232"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="254"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="255"/>
         <source>Deselect %1 for download</source>
         <translation>Abwählen von %1 zum Herunterladen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
         <source>No valid version found.</source>
         <translation>Keine gültige Version gefunden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="283"/>
         <source>Cannot select invalid version :(</source>
         <translation>Ungültige Version kann nicht ausgewählt werden :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="299"/>
         <source>Loading versions...</source>
         <translation>Lade Versionen...</translation>
     </message>
@@ -11119,17 +11119,17 @@ Bist Du Dir sicher?</translation>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="116"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="116"/>
         <source>Published Date</source>
         <translation>Veröffentlichungsdatum</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="118"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="119"/>
         <source>Select a version to install.</source>
         <translation>Wähle eine Version zur Installation.</translation>
     </message>
@@ -11147,17 +11147,17 @@ Bist Du Dir sicher?</translation>
         <translation>Bitte wähle die Version/den Release, auf die/den du updaten möchtest.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="44"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="44"/>
         <source>Published Date</source>
         <translation>Veröffentlichungsdatum</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="46"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="47"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
@@ -11648,13 +11648,13 @@ inheritsFrom nicht gefunden</translation>
         <translation>Suchen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="265"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="266"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="232"/>
         <source> by </source>
         <translation> von </translation>
     </message>
@@ -11915,7 +11915,7 @@ Warnung: Diese Ressource ist anderswo fest verknüpft. Durch die Bearbeitung wir
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
         <translation>Version%1 ist nun verfügbar - installiert ist %2. Möchtest du die neue Version jetzt herunterladen?</translation>
     </message>
@@ -11940,7 +11940,7 @@ Warnung: Diese Ressource ist anderswo fest verknüpft. Durch die Bearbeitung wir
         <translation>Update installieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"/>
         <source>A new version of %1 is available!</source>
         <translation>Eine neue Version von %1 ist verfügbar!</translation>
     </message>

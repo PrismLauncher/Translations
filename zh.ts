@@ -336,22 +336,22 @@
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
         <source>About %1</source>
         <translation>关于 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="155"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Platform</source>
         <translation>平台</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Commit: %1</source>
         <translation>提交：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="165"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
         <source>Build date: %1</source>
         <translation>构建日期：%1</translation>
     </message>
@@ -360,7 +360,7 @@
         <translation type="vanished">内部版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="171"/>
         <source>Channel</source>
         <translation>通道</translation>
     </message>
@@ -2112,7 +2112,7 @@ Some versions of Minecraft may not launch.
         <translation>复制</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="162"/>
         <source>Export %1</source>
         <translation>导出 %1</translation>
     </message>
@@ -2757,17 +2757,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;您好！ &lt;/h1&gt;&lt;h4&gt;由于旧版本启动器中存在的漏洞，您的 Pack ID 为空。 &lt;br/&gt;而执行正确的 API 请求需要此信息。 &lt;br/&gt;&lt;br/&gt;为了使该功能正常工作， 您需要用内置下载器重新下载整合包。 &lt;br/&gt;&lt;br/&gt;下载器会从让您该实例进行更新，所以不必担心丢失该实例！ &lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="475"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
         <source>%1 (Current)</source>
         <translation>%1（当前）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="539"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>Choose update file</source>
         <translation>选择更新文件</translation>
     </message>
@@ -2901,74 +2901,74 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
         <translation>按精选内容排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
         <translation>按热度排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>按最后更新时间排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>按名称排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
         <translation>按作者排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
         <translation>按总下载量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="192"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="211"/>
         <source>No version is available!</source>
         <translation>没有可用的版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="199"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="277"/>
         <source> by </source>
         <translation> 作者 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="282"/>
         <source>External links:</source>
         <translation>外部链接：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="286"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>问题：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="287"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="288"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="290"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -5139,49 +5139,49 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="vanished">FTB（旧版）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
         <translation>任务已终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
         <translation>任务已被用户终止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
         <source>FTB private packs</source>
         <translation>FTB 私人包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>无法下载代码为 %1 的整合包信息。
 要立即将它移除吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Add FTB pack</source>
         <translation>添加 FTB 整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Enter pack code:</source>
         <translation>输入整合包代码：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Remove pack</source>
         <translation>移除整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Are you sure you want to remove pack %1?</source>
         <translation>是否确定要删除包 %1 ？</translation>
     </message>
@@ -6767,7 +6767,7 @@ Are you sure?</source>
         <translation>重新加载页面</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="146"/>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
@@ -6776,52 +6776,52 @@ This can be updated only using a file in %1 format
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="153"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation>网站：&lt;a href=%1&gt;%2&lt;/a&gt;    |    整合包 ID：%3    |    版本 ID：%4</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="196"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>Task aborted</source>
         <translation>任务已终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>The task has been aborted by the user.</source>
         <translation>任务已被用户终止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
         <source>Abort</source>
         <translation>终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
         <source>Update pack</source>
         <translation>更新整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="227"/>
         <source>Failed to search for available versions.</source>
         <translation>搜索可用版本失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>无法获取此整合包的更新日志数据。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
         <source>Cannot update!</source>
         <translation>无法更新！</translation>
     </message>
@@ -7790,100 +7790,100 @@ Please update %1!</source>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="44"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="45"/>
         <source>Confirm mods to update</source>
         <translation>确认所要更新的 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
         <source>You&apos;re about to update the following mods:</source>
         <translation>以下 Mod 即将更新：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="57"/>
         <source>Only mods with a check will be updated!</source>
         <translation>只有检查过的 Mod 会更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="74"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Mod 名称：%1&lt;br/&gt;文件名：%2&lt;br/&gt;原因：%3&lt;br/&gt;&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
         <translation>元数据生成失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="79"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>无法为以下 Mod 生成元数据：&lt;br&gt;您想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="93"/>
         <source>Checking for updates</source>
         <translation>正在检查更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="111"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="195"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="338"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="408"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="196"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="339"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="409"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="200"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="117"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="201"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="122"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
         <source>Abort</source>
         <translation>终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="124"/>
         <source>Checking for updates...</source>
         <translation>正在检查更新……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="169"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Mod name: %1</source>
         <translation>Mod 名称：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="172"/>
         <source>Reason: %1</source>
         <translation>原因：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="174"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="175"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>可能的解决方案：手动获取最新版本：&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
         <source>Checking for dependencies...</source>
         <translation>正在检查前置 Mod……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="309"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="310"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Mod “%1” 还没有元数据。我们需要生成相关信息用于检查 Mod 更新。因此，请选择一个 Mod 托管平台，并使用它来检查此 Mod 的更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="412"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>在所选 Mod 托管平台上找不到有效版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="423"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="424"/>
         <source>Mod was disabled as it may be already instaled.</source>
         <translation>可能有相同版本已被安装，故此模组被禁用。</translation>
     </message>
@@ -7896,17 +7896,17 @@ Please update %1!</source>
         <translation type="vanished">手动获取最新版本：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="179"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
         <source>Failed to check for updates</source>
         <translation>检查更新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="181"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>无法获取以下 Mod 更新：&lt;br&gt;您想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="266"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="267"/>
         <source>Looking for metadata</source>
         <translation>正在查找元数据</translation>
     </message>
@@ -7915,7 +7915,7 @@ Please update %1!</source>
         <translation type="vanished">Mod（%1）还没有Metadata。我们需要创建一份Metadata，以保留如何更新此Mod的相关信息。请先选择一个Mod托管平台，我们将通过此平台查询 %1 是否有可用更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
         <source>Generating metadata...</source>
         <translation>生成元数据中……</translation>
     </message>
@@ -7924,42 +7924,42 @@ Please update %1!</source>
         <translation type="vanished">无法在所选择的Mod托管平台上找到可用的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Provider: %1</source>
         <translation>Mod 托管平台：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="432"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
         <source>Old version: %1</source>
         <translation>旧版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="432"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="435"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
         <source>New version: %1</source>
         <translation>新版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="439"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="440"/>
         <source>New Version Type: %1</source>
         <translation>新版本类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="445"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
         <source>Required by: %1</source>
         <translation>%1 的前置 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="447"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="448"/>
         <source>Required by:</source>
         <translation>为以下 Mod 的前置 Mod：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="461"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="462"/>
         <source>Changelog of the latest version</source>
         <translation>最新版本的更新日志</translation>
     </message>
@@ -8206,17 +8206,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="305"/>
         <source>%1 (Current)</source>
         <translation>%1（当前）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>Fetching changelogs...</source>
         <translation>正在获取更新日志……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Choose update file</source>
         <translation>选择更新文件</translation>
     </message>
@@ -8320,7 +8320,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="obsolete">搜索和过滤……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation>按相关度排序</translation>
@@ -8330,70 +8330,70 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">按下载量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
         <source>Sort by Follows</source>
         <translation>按关注数排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>按更新时间排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation>按发布时间排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
         <source>Sort by Total Downloads</source>
         <translation>按总下载量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="188"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="243"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="268"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
         <source> by </source>
         <translation> 作者 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;该项目已归档。它将不会收到任何进一步的更新，除非作者决定取消归档该项目。&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
         <source>Donate information: </source>
         <translation>赞助信息： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
         <source>External links:</source>
         <translation>外部链接：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="295"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>问题： &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="297"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="299"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="300"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -9690,13 +9690,13 @@ Choose your name carefully:</source>
         <translation type="obsolete">开发人员</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="55"/>
         <source>Website</source>
         <translation>网站</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="74"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="93"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="94"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
@@ -9709,7 +9709,7 @@ Choose your name carefully:</source>
         <translation type="vanished">%1 贡献者</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>感谢</translation>
@@ -10452,74 +10452,74 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
         <translation>搜索%1……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="253"/>
         <source>Select %1 for download</source>
         <translation>选择要下载的%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="200"/>
         <source> by </source>
         <translation> 作者 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;该项目已归档。它将不会收到任何进一步的更新，除非作者决定取消归档该项目。&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
         <source>Donate information: </source>
         <translation>赞助信息： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
         <source>External links:</source>
         <translation>外部链接：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="227"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>问题：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="229"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="231"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="232"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="254"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="255"/>
         <source>Deselect %1 for download</source>
         <translation>取消选择要下载的%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
         <source>No valid version found.</source>
         <translation>未找到有效版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="283"/>
         <source>Cannot select invalid version :(</source>
         <translation>不能选择无效的版本（ノへ￣、）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="299"/>
         <source>Loading versions...</source>
         <translation>正在加载版本……</translation>
     </message>
@@ -11067,17 +11067,17 @@ Are you sure?</source>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="116"/>
         <source>Version</source>
         <translation>版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="115"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="116"/>
         <source>Published Date</source>
         <translation>发布日期</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="118"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="119"/>
         <source>Select a version to install.</source>
         <translation>选择要安装的版本。</translation>
     </message>
@@ -11095,17 +11095,17 @@ Are you sure?</source>
         <translation>请选择要更新到的发行版。</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="44"/>
         <source>Version</source>
         <translation>版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="43"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="44"/>
         <source>Published Date</source>
         <translation>发布日期</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="46"/>
+        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="47"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
@@ -11596,13 +11596,13 @@ inheritsFrom is missing</source>
         <translation>搜索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="265"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="266"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="232"/>
         <source> by </source>
         <translation> 作者 </translation>
     </message>
@@ -11863,7 +11863,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="42"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
         <translation>版本 %1 现在可用——您正在使用 %2 。你想现在下载吗？</translation>
     </message>
@@ -11888,7 +11888,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>安装更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="40"/>
+        <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"/>
         <source>A new version of %1 is available!</source>
         <translation>有新版本的 %1 可用！</translation>
     </message>
