@@ -1115,7 +1115,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Ukendt kontoopgavetilstand: %1</translation>
+        <translation>Ukendt kontoopgavetilstand: %1</translation>
     </message>
 </context>
 <context>
@@ -1150,7 +1150,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Åben Manglende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="57"/>
@@ -1160,7 +1160,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Vælg den placering hvor du downloadede modsene</translation>
+        <translation>Vælg den mappe hvor du har dine downloadede mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
@@ -1175,7 +1175,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Din konfigurerede globale mods-mappe og standardmappen til downloads bliver automatisk tjekket for downloadede mods, og de vil blive kopieret til instansen hvis de findes.&lt;/p&gt;&lt;p&gt;Alternativt kan du trække og slippe de downloadede mods over i denne boks eller tilføje en mappe for at se efter om du ikke downloadede modsende til en standardplacering.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Din konfigurerede globale mods-mappe og standardmappen til downloads bliver automatisk tjekket for downloadede mods, og de vil blive kopieret til instansen hvis de findes.&lt;/p&gt;&lt;p&gt;Alternativt kan du trække og slippe de downloadede mods over i denne boks eller tilføj en mappe til at blive gemmesøge, hvis du ikke downloader mods til en standardplacering.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1234,7 +1234,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Forsøg at automatiskt benytte andre leverandører om den udvalgte mislykkes</translation>
+        <translation>Forsøg at automatiskt benytte andre leverandører, hvis den udvalgte mislykkes</translation>
     </message>
 </context>
 <context>
