@@ -11486,7 +11486,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="182"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anbefalet</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="186"/>
