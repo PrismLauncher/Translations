@@ -837,7 +837,9 @@ for detaljer.</translation>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Dit /tmp directory er nuværende monteret med &apos;noexec&apos; flaget slået til.
+Nogle versioner af Minecraft starter muligvis ikke.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1035"/>
@@ -1068,7 +1070,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Venter...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
@@ -1088,7 +1090,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="111"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Klient ID er ændret. Ny session behøver oprettes.</translation>
+        <translation>Klient ID er ændret. Ny session behøver oprettelse.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="118"/>
