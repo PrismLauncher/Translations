@@ -603,11 +603,11 @@
             "untranslated" : 61
         },
         "zh" : {
-            "file" : "94913cf557c9359a7654b635db53865fda7d4aa3.class",
-            "sha1" : "94913cf557c9359a7654b635db53865fda7d4aa3",
-            "size" : 193584,
-            "translated" : 1868,
-            "fuzzy" : 13,
+            "file" : "8f1a93fd7c1cf3756eaba065203877a2dbac5df0.class",
+            "sha1" : "8f1a93fd7c1cf3756eaba065203877a2dbac5df0",
+            "size" : 193578,
+            "translated" : 1870,
+            "fuzzy" : 11,
             "untranslated" : 3
         },
         "zh_TW" : {
