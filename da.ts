@@ -641,7 +641,7 @@ Hvis du er ny her, kan du vælge &quot;Tilføj Microsoft&quot;-knappen for at ti
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Anbefalet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
@@ -820,7 +820,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering lykkedes
+
+Du kører nu %1 .
+tjek Prism Launcherens-opdateringsloggen ved:
+%1
+for detaljer.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1002"/>
