@@ -643,12 +643,12 @@ Se você é novo aqui, pode selecionar o botão “Adicionar Microsoft” para v
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation>Como você deseja iniciar a sessão?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="142"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Legado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="143"/>
@@ -1086,7 +1086,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
@@ -1096,12 +1096,12 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="98"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Tarefa de autenticação sucedida.</translation>
+        <translation>Tarefa de autenticação bem-sucedida.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="104"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Falha ao se comunicar com o servidor de autenticação.</translation>
+        <translation>Falha ao contatar o servidor de autenticação.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="111"/>
@@ -4532,7 +4532,7 @@ Você gostaria de jogar o demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="376"/>
         <source>Waiting.</source>
-        <translation>Aguardando.</translation>
+        <translation>Esperando.</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -8109,7 +8109,7 @@ Por favor, atualize o %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="176"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>Aguardando a resposta da API do Modrinth...</translation>
+        <translation>Esperando a resposta da API do Modrinth...</translation>
     </message>
 </context>
 <context>
