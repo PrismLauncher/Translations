@@ -1104,42 +1104,42 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="98"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Autentificación completada.</translation>
+        <translation>La tarea de autenticación se ha realizado correctamente.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="104"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Error al contactar con el servidor de autentificación.</translation>
+        <translation>No se ha podido contactar con el servidor de autenticación.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="111"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">El ID de cliente ha cambiado. Se debe crear una nueva sesión.</translation>
+        <translation>El ID de cliente ha cambiado. Es necesario crear una nueva sesión.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="118"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Se ha encontrado un error durante la autentificación.</translation>
+        <translation>Se ha producido un error durante la autenticación.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="125"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Error al autentificar. La sesión ha expirado.</translation>
+        <translation>No se ha podido autenticar. La sesión ha expirado.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="132"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Error al autentificar. La cuenta ya no existe.</translation>
+        <translation>No se ha podido autenticar. La cuenta ya no existe.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="139"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Estado de tarea de cuenta desconocido: %1</translation>
+        <translation>Estado de la tarea de cuenta desconocido: %1</translation>
     </message>
 </context>
 <context>
@@ -5470,7 +5470,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="152"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tarea abortada</translation>
+        <translation>Tarea cancelada</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="254"/>
@@ -5493,7 +5493,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="89"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
