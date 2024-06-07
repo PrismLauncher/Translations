@@ -252,7 +252,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="971"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
+        <translation>无效之载器类： </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="985"/>
