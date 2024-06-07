@@ -5438,32 +5438,32 @@ Důvod:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="545"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se spočítat soubory v archivu</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="548"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozbalování prázdných archivů je zvláštní...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="552"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se najít první soubor v souboru zip</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="592"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozbalování archivu %1 bylo zrušeno, protože se nachází mimo cílovou cestu %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="598"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se rozbalit soubor %1 do %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="612"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Nepodařilo se opravit povolení pro %1</translation>
+        <translation>Nepodařilo se opravit oprávnění pro %1</translation>
     </message>
 </context>
 <context>
@@ -10301,7 +10301,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="346"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Nepodařilo se opravit povolení pro %1</translation>
+        <translation>Nepodařilo se opravit oprávnění pro %1</translation>
     </message>
 </context>
 <context>
