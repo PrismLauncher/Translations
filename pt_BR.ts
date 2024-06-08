@@ -1106,17 +1106,17 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="111"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">O ID do cliente foi mudado. Uma nova sessão tem de ser criada.</translation>
+        <translation>O ID do cliente mudou. Uma nova sessão deve ser criada.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="118"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Erro encontrado durante a autenticação.</translation>
+        <translation>Erro encontrado durante a autenticação.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="125"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Falha ao autenticar. A sessão expirou.</translation>
+        <translation>Falha ao autenticar. A sessão expirou.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="132"/>
