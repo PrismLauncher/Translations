@@ -1558,7 +1558,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation>Попередні збірки</translation>
+        <translation>Снапшоти</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
