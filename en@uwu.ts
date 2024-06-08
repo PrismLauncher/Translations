@@ -8359,7 +8359,7 @@ Awe u sure??</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
         <source>Java agents (*.jar)</source>
-        <translation>Jawa agents (*.jaw)</translation>
+        <translation>Jawa agents (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="460"/>
