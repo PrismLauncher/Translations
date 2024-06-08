@@ -51,12 +51,12 @@
             "untranslated" : 1256
         },
         "cs" : {
-            "file" : "83f2d21263666aa8fed647b0245b219980985b85.class",
-            "sha1" : "83f2d21263666aa8fed647b0245b219980985b85",
-            "size" : 270379,
-            "translated" : 1884,
-            "fuzzy" : 2,
-            "untranslated" : 5
+            "file" : "f7120fa3ad7d6b4a88a81a72cd1f49bf7d0028ea.class",
+            "sha1" : "f7120fa3ad7d6b4a88a81a72cd1f49bf7d0028ea",
+            "size" : 271353,
+            "translated" : 1891,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "cy" : {
             "file" : "f032aefa32702c9579a277dd1f7c85f35882e4c8.class",
@@ -163,12 +163,12 @@
             "untranslated" : 6
         },
         "es_UY" : {
-            "file" : "f8593e8e16e36a799c1e1fa6e8a788d4a9ff0f3f.class",
-            "sha1" : "f8593e8e16e36a799c1e1fa6e8a788d4a9ff0f3f",
-            "size" : 240169,
-            "translated" : 1479,
+            "file" : "9bf2a4b9155ac9c70221863d273fd19346623640.class",
+            "sha1" : "9bf2a4b9155ac9c70221863d273fd19346623640",
+            "size" : 241003,
+            "translated" : 1485,
             "fuzzy" : 129,
-            "untranslated" : 283
+            "untranslated" : 277
         },
         "et" : {
             "file" : "c59004b132436029ea255494dc7abdbec2946c6d.class",
