@@ -666,7 +666,7 @@ Si eres nuevo aquí, puedes seleccionar el botón &quot;Añadir Microsoft&quot; 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="144"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="150"/>
@@ -3450,7 +3450,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Intentando determinar el tipo de instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
@@ -5469,17 +5469,17 @@ Motivo:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="592"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>La extracción de %1 fue cancelada, ya que estaba fuera del objetivo path %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="598"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido extraer el archivo %1 hacia %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="612"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">No se han podido corregir los permisos para %1</translation>
+        <translation>No se han podido corregir los permisos para %1</translation>
     </message>
 </context>
 <context>
@@ -10322,7 +10322,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="346"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">No se han podido corregir los permisos para %1</translation>
+        <translation>No se han podido corregir los permisos para %1</translation>
     </message>
 </context>
 <context>
@@ -11807,7 +11807,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="189"/>
         <source>Refresh all</source>
-        <translation type="unfinished"></translation>
+        <translation>Refrescar todo</translation>
     </message>
 </context>
 <context>
