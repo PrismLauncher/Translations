@@ -3479,7 +3479,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Попытка определения типа установки</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
@@ -5496,32 +5496,32 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="545"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось посчитать файлы в архиве</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="548"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Распаковка пустых архивов выглядит странно...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="552"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось найти первый файл в архиве</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="592"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Извлечение %1 было отменено, потому что он уже находился по пути извлечения %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="598"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось извлечь файл %1 по пути %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="612"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Не удалось исправить разрешения для %1</translation>
+        <translation>Не удалось исправить разрешения для %1</translation>
     </message>
 </context>
 <context>
@@ -10416,7 +10416,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="346"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Не удалось исправить разрешения для %1</translation>
+        <translation>Не удалось исправить разрешения для %1</translation>
     </message>
 </context>
 <context>
