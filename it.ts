@@ -8872,7 +8872,7 @@ Messaggio d&apos;errore: %3</translation>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>La cache pixmap manca per via dello sfratto troppo veloce, visto che il limite del cache è stato raggiunto non viene fatto nulla.</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
