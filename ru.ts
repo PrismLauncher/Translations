@@ -632,7 +632,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="95"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>ID клиента аутентификации Microsoft не установлен.</translation>
+        <translation>Вы не указали идентификатор клиента для аутентификации в Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="111"/>
@@ -2302,12 +2302,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="326"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> (%1 установлен, %2 выбран)</translation>
+        <translation> (%1 установлен(о), %2 выбран(о))</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="328"/>
         <source> (%1 installed)</source>
-        <translation> (%1 установлен)</translation>
+        <translation> (%1 установлен(о))</translation>
     </message>
 </context>
 <context>
@@ -3818,12 +3818,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="474"/>
         <source>Use system installation of GLFW</source>
-        <translation>Использовать установленную в системе GLFW</translation>
+        <translation>Использовать GLFW, установленную в системе</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
         <source>Use system installation of OpenAL</source>
-        <translation>Использовать установленную в системе OpenAL</translation>
+        <translation>Использовать OpenAL, установленную в системе</translation>
     </message>
     <message>
         <source>Mod loader settings</source>
@@ -4027,7 +4027,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation>Окно консоли для </translation>
+        <translation>Окно консоли </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
@@ -7974,7 +7974,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="424"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Мод был отключен, т.к. возможно он уже установлен.</translation>
+        <translation>Мод был отключён, так как возможно он уже установлен.</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -10967,7 +10967,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Мод был отключен, т.к. возможно он уже установлен.</translation>
+        <translation>Мод был отключён, так как возможно он уже был установлен.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
