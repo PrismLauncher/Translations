@@ -2571,7 +2571,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="495"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tika atrastas bloķētas modifikācijas</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
