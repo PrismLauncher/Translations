@@ -570,12 +570,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Atur Skin (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Atur Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -3345,7 +3345,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Mencoba menentukan tipe instansi</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
@@ -4438,12 +4438,12 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="66"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Interval pembaruan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Atur ke 0 untuk hanya memeriksa ketika aplikasi dibuka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
@@ -4589,7 +4589,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skin:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="242"/>
@@ -4751,7 +4751,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="318"/>
@@ -5253,27 +5253,27 @@ Alasan:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="543"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menghitung berkas-berkas dalam arsip</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="546"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengekstraksi arsip kosong terasa janggal...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="550"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mencari berkas pertama dalam zip</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="590"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekstraksi %1 dibatalkan, karena secara efektif di luar alamat target %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="596"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengekstraksi berkas %1 ke %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="610"/>
@@ -5916,7 +5916,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="588"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
