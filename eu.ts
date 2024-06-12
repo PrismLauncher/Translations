@@ -66,12 +66,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sartu hemen Modrinth-entzat egokitutako API token-a.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(bat ere ez)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
@@ -91,22 +91,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta&amp;data Zerbitzaria</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Zerbitzuak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hirugarrengo baten metadatu zerbitzari bati ezarri diezaiokezu hau, liburutegi eguneratuak edo beste hack batzuk erabiltzeko.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sartu hemen meta-rentzat pertsonalizatutako URL bat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
