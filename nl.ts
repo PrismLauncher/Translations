@@ -9142,7 +9142,7 @@ Het updateprogramma kan niet doorgaan totdat je dit probleem hebt opgelost.</tra
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="689"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1162"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1161"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
         <translation>Bestand bestaat niet, negeren: %1</translation>
     </message>
@@ -9283,89 +9283,89 @@ Selecteer hieronder &quot;Negeren&quot; om deze vergrendeling te overschrijven e
         <translation>Starten van &apos;%1&apos; %2 mislukt</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1119"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1118"/>
         <source>Backing up:
   %1</source>
         <translation>Een back-up maken van:
   %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1130"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1137"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1129"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1136"/>
         <source>Backing up install at %1</source>
         <translation>Back-up maken van installatie op %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1142"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1141"/>
         <source>Backing up and then removing %1</source>
         <translation>Een back-up maken en dan %1 verwijderen</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1146"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1145"/>
         <source>Failed to backup %1 to %2</source>
         <translation>Mislukt om back-up %1 naar %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1149"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1148"/>
         <source>Failed to remove %1</source>
         <translation>Verwijderen van %1 mislukt</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1184"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1183"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>Het volgende uitgepakt naar &quot;%1&quot;:
   %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1186"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1188"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1185"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1187"/>
         <source>Failed to extract %1 to %2</source>
         <translation>Uitpakken van %1 naar %2 mislukt</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1195"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1194"/>
         <source>Running: `%1 %2`</source>
         <translation>Uitvoeren: `%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1199"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1198"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
         <translation>Kindproces &quot;%1 %2&quot; kon niet worden gestart.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1201"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <source>Failed extract archive</source>
         <translation>Mislukt om archief uit te pakken</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1208"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1207"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>Kindproces &quot;%1 %2&quot; mislukt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1210"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1209"/>
         <source>Failed to extract archive</source>
         <translation>Mislukt om archief uit te pakken</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1214"/>
         <source>Unknown archive format for %1</source>
         <translation>Onbekend archiefformaat voor %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1230"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1234"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1229"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1233"/>
         <source>Failed to Check Version</source>
         <translation>Versiecontrole mislukt</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1230"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1229"/>
         <source>Failed to launcher child launcher process to read version.</source>
         <translation>Mislukt om child launcher proces te starten om versie te lezen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1234"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1233"/>
         <source>Child launcher process failed.</source>
         <translation>Lanceerproces kind mislukt.</translation>
     </message>
@@ -11718,7 +11718,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="129"/>
         <source>Unable to open &quot;version.json&quot;!</source>
         <translation>Kan &quot;version.json&quot; niet openen!</translation>
     </message>
@@ -11729,29 +11729,28 @@ Are you sure?</source>
         <translation>Kon &quot;version.json&quot; niet in &quot;bin/modpack.jar&quot; vinden, maar minecraft versie is onbekend</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="99"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="101"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
         <translation>Kan &quot;forgeversion.properties&quot; niet openen</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="115"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
         <translation>Ongeldige &quot;forgeversion.properties&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="134"/>
         <source>Unable to find a &quot;version.json&quot;!</source>
-        <translation>Kan geen &quot;version.json&quot; vinden!</translation>
+        <translation type="vanished">Kan geen &quot;version.json&quot; vinden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="144"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="148"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
         <translation>Kon &quot;version.json&quot; niet begrijpen:
 inheritsFrom ontbreekt</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="200"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="204"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
         <translation>Kon &quot;version.json&quot; niet begrijpen:

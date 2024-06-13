@@ -9293,7 +9293,7 @@ Aktualizační program nebude pokračovat, dokud tento problém neopravíte.</tr
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="689"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1162"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1161"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
         <translation>Soubor neexistuje, ignoruji: %1</translation>
     </message>
@@ -9434,89 +9434,89 @@ Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“
         <translation>Nepodařilo se spustit „%1“ %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1119"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1118"/>
         <source>Backing up:
   %1</source>
         <translation>Zálohování:
   %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1130"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1137"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1129"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1136"/>
         <source>Backing up install at %1</source>
         <translation>Zálohování instalace v %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1142"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1141"/>
         <source>Backing up and then removing %1</source>
         <translation>Zálohování a odstraňování %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1146"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1145"/>
         <source>Failed to backup %1 to %2</source>
         <translation>Nepodařilo se zálohovat %1 do %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1149"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1148"/>
         <source>Failed to remove %1</source>
         <translation>Nepodařilo se odebrat %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1184"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1183"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>Extrahováno následující do „%1“:
   %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1186"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1188"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1185"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1187"/>
         <source>Failed to extract %1 to %2</source>
         <translation>Nepodařilo se extrahovat %1 do %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1195"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1194"/>
         <source>Running: `%1 %2`</source>
         <translation>Spouštění: `%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1199"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1198"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
         <translation>Nepodařilo se spustit podřazený proces launcheru „%1 %2“.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1201"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <source>Failed extract archive</source>
         <translation>Extrakce archivu selhala</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1208"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1207"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>Podřazený proces „%1 %2“ selhal.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1210"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1209"/>
         <source>Failed to extract archive</source>
         <translation>Nepodařilo se extrahovat archiv</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1214"/>
         <source>Unknown archive format for %1</source>
         <translation>Neznámý formát archivu pro %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1230"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1234"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1229"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1233"/>
         <source>Failed to Check Version</source>
         <translation>Nepodařilo se zkontrolovat verzi</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1230"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1229"/>
         <source>Failed to launcher child launcher process to read version.</source>
         <translation>Podřazenému procesu launcheru se nepodařilo přečíst verzi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1234"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1233"/>
         <source>Child launcher process failed.</source>
         <translation>Podřazený proces launcheru selhal.</translation>
     </message>
@@ -11881,7 +11881,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="129"/>
         <source>Unable to open &quot;version.json&quot;!</source>
         <translation>Nelze otevřít &quot;version.json&quot;!</translation>
     </message>
@@ -11892,29 +11892,28 @@ Jste si jisti?</translation>
         <translation>Nepodařilo se najít soubor &quot;version.json&quot; unvnitř &quot;bin/modpack.jar&quot;, ale verze Minecraftu je neznámá</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="99"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="101"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
         <translation>Nelze otevřít &quot;forgeversion.properties&quot;</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="115"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
         <translation>Neplatné &quot;forgeversion.properties&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="134"/>
         <source>Unable to find a &quot;version.json&quot;!</source>
-        <translation>Nepodařilo se najít &quot;version.json&quot;!</translation>
+        <translation type="vanished">Nepodařilo se najít &quot;version.json&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="144"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="148"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
         <translation>Nepodařilo se pochopit &quot;version.json&quot;:
 chybí inheritsFrom</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="200"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="204"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
         <translation>Nepodařilo se pochopit &quot;version.json&quot;:
