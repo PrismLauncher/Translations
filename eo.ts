@@ -71,7 +71,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
         <source>(None)</source>
-        <translation type="unfinished">(Nenio)</translation>
+        <translation>(Nenio)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished">Servoj</translation>
+        <translation>Servoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -227,17 +227,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blokitaj modoj trovitaj</translation>
+        <translation>Blokitaj modoj trovitaj</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>La jenaj dosieroj ne estas disponeblaj por elŝuti en triaj lanĉiloj, &lt;br/&gt; Vi devos elŝuti ilin permane kaj aldoni ilin al la petskribo.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 el %2 kompleta</translation>
+        <translation>%1 el %2 kompleta</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
@@ -390,7 +390,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Eksterreta</translation>
+        <translation>Eksterreta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
@@ -438,12 +438,12 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Nekonata</translation>
+        <translation>Nekonata</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de la konta (MSA aŭ ElReta)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -570,12 +570,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Manaĝo Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manaĝo Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -633,27 +633,27 @@ Se vi estas nova, vi povas premi la butonon &quot;Aldoni Microsoft&quot; por lig
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="134"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldoni konton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="135"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kiel vi volas ensaluti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heredaĵo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="138"/>
         <source>Recommended</source>
-        <translation type="unfinished">Rekomendita</translation>
+        <translation>Rekomendita</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="139"/>
         <source>Cancel</source>
-        <translation type="unfinished">Nuligi</translation>
+        <translation>Nuligi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
@@ -663,7 +663,7 @@ Se vi estas nova, vi povas premi la butonon &quot;Aldoni Microsoft&quot; por lig
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="159"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vi devas aldoni Microsoft-konton kiu posedas Minecraft antaŭ ol vi povas aldoni offline konto.&lt;br&gt; Se vi perdis vian konton vi povas kontakti Microsoft por subteno.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -700,7 +700,7 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="178"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ĉu vi vere deziras forigi ĉi tiun konton?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -771,12 +771,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ĉi tiu instalaĵo havas ĝisdatigan seruran dosieran donacon ĉe: %1
+
+Timestamp: %2
+Ĝisdatiganta de versio %3 al %4
+Celo instalas vojon: %5
+Datuma Vojo: %6
+Tio ĉi probable signifas ke ĝisdatiga provo malsukcesita. Bonvolu certigi vian instalaĵon estas en laboranta ordon antaŭ procedanta.
+Kontrolas la Prismon Launcher updater ŝtipo ĉe: 
+%7
+por detaloj sur la lasta ĝisdatiga provo.
+
+Forigi ĉi tiun seruron kaj procedi elektitan &quot;Ignoras&quot; malsupre.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="932"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĝisdatigo En Progreso</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="957"/>
