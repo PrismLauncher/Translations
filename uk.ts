@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Сервіс &amp;Pastebin</translation>
+        <translation>&amp;Сервіс Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
@@ -1085,22 +1085,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="104"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Не вдалося зв&apos;язатися з сервером автентифікації.</translation>
+        <translation>Не вдалося зв&apos;язатися з сервером автентифікації.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="111"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">ID клієнта змінено. Необхідно створити новий сеанс.</translation>
+        <translation>ID клієнта змінено. Необхідно створити новий сеанс.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="118"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Трапилась помилка під час автентифікації.</translation>
+        <translation>Трапилась помилка під час автентифікації.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="125"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Не вдалося виконати автентифікацію. Термін дії сесії закінчився.</translation>
+        <translation>Не вдалося виконати автентифікацію. Термін дії сесії закінчився.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="132"/>
@@ -1110,12 +1110,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="139"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Невідомий стан облікового запису: %1</translation>
+        <translation>Невідомий стан облікового запису: %1</translation>
     </message>
 </context>
 <context>
@@ -4696,7 +4696,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
         <source>h</source>
-        <translation type="unfinished">год</translation>
+        <translation>год</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
@@ -5398,7 +5398,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="590"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished">Розпаковку %1 було скасовано, оскільки він фактично знаходився за межами цільового шляху %2</translation>
+        <translation>Розпаковку %1 було скасовано, оскільки вона фактично знаходилася за межами цільового шляху %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="596"/>
@@ -5408,7 +5408,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="610"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Не вдалося вирішити дозволи для %1</translation>
+        <translation>Не вдалося виправити права доступу для %1</translation>
     </message>
 </context>
 <context>
@@ -5436,12 +5436,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="152"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Процес перервано</translation>
+        <translation>Процес скасовано</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="254"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished">Не вдалося отримати доступ до пристрою: %1</translation>
+        <translation>Не вдалося отримати доступ до пристрою: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="269"/>
@@ -5459,7 +5459,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="89"/>
         <source>Cancel</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -7339,7 +7339,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Size</source>
-        <translation type="unfinished">Розмір</translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="177"/>
@@ -10183,7 +10183,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Не вдалося вирішити дозволи для %1</translation>
+        <translation>Не вдалося виправити права доступу для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -10369,7 +10369,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Цей проєкт було заархівовано. Він не буде отримувати оновлення, допоки автор вирішить розархівувати проєкт.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Цей проєкт було заархівовано. Він не буде отримувати оновлення допоки автор не вирішить розархівувати проєкт.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
@@ -10533,7 +10533,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="200"/>
         <source>Size</source>
-        <translation type="unfinished">Розмір</translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -10604,7 +10604,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Size</source>
-        <translation type="unfinished">Розмір</translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
@@ -10756,7 +10756,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Мод було вимкнено, оскільки він може бути вже встановлений.</translation>
+        <translation>Мод було вимкнено, оскільки він може бути вже встановлений.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
@@ -11270,7 +11270,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="241"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="255"/>
         <source>Skin Upload</source>
-        <translation type="unfinished">Скін вивантажено</translation>
+        <translation>Завантаження скіну</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="40"/>
@@ -11290,12 +11290,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="66"/>
         <source>Cape</source>
-        <translation type="unfinished">Плащ</translation>
+        <translation>Плащ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="107"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Відкрити теку</translation>
+        <translation>Відкрити теку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="114"/>
@@ -11320,7 +11320,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="164"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">Ви&amp;далити скін</translation>
+        <translation>&amp;Видалити скін</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
@@ -11350,7 +11350,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="141"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">Оберіть текстуру скіна</translation>
+        <translation>Оберіть текстуру скіна</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="144"/>
@@ -11360,7 +11360,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="162"/>
         <source>No Cape</source>
-        <translation type="unfinished">Без плаща</translation>
+        <translation>Без плаща</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="169"/>
@@ -11375,12 +11375,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="241"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">Файлу скіну не існує!</translation>
+        <translation>Файл скіну не існує!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="255"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">Не вдалося відвантажити скін!</translation>
+        <translation>Не вдалося завантажити скін!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="266"/>
@@ -11390,17 +11390,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Skin Delete</source>
-        <translation type="unfinished">Видалити скiн</translation>
+        <translation>Видалити скiн</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Не вдалося видалити поточний скін!</translation>
+        <translation>Не вдалося видалити поточний скін!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
         <source>Context menu</source>
-        <translation type="unfinished">Контекстне меню</translation>
+        <translation>Контекстне меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
@@ -11415,7 +11415,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="327"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Підтвердити видалення</translation>
+        <translation>Підтвердити видалення</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
@@ -11473,7 +11473,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="445"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
         <source>failed to parse get user UUID response</source>
-        <translation type="unfinished"></translation>
+        <translation>не вдалося запарсити UUID користувача</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="454"/>
@@ -11483,7 +11483,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="468"/>
         <source>failed to parse get user profile response</source>
-        <translation type="unfinished"></translation>
+        <translation>не вдалося запарсити профіль користувача</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="485"/>
@@ -11828,7 +11828,7 @@ inheritsFrom відсутній</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Size</source>
-        <translation type="unfinished">Розмір</translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="90"/>
