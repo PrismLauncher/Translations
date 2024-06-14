@@ -1080,7 +1080,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="98"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Завдання аутентифікації виконано успішно.</translation>
+        <translation>Автентифікація успішна.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="104"/>
@@ -9155,7 +9155,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="866"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 портативний: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="866"/>
@@ -10173,7 +10173,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="167"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Негрупований</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
@@ -10542,7 +10542,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="472"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити перемикання</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="473"/>
@@ -10811,7 +10811,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемикання залежностей</translation>
     </message>
 </context>
 <context>
@@ -11005,7 +11005,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть Випуск для Встановлення</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
@@ -12442,7 +12442,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Customize selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштувати вибраний компонент.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
