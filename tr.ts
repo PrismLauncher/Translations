@@ -4343,7 +4343,7 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
         <translation>Hangi hesabı kullanmak istersiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="188"/>
         <source>No account selected for launch.</source>
         <translation>Başlatmak için hiçbir profil seçilmedi.</translation>
     </message>
@@ -4352,42 +4352,42 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
         <translation type="vanished">Hesabınızla şu an giriş yapılmamış. Lütfen giriş yapmak için parolanızı tekrar girin.&lt;br /&gt; &lt;br /&gt;Bu parola değişikliğinden kaynaklı olabilir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="154"/>
+        <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>Continue launch?</source>
         <translation>Başlatmaya devam et?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="155"/>
+        <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Görünüşe göre %1 denemeden sonra başlatamadık. Denemeye devam etmek ister misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="191"/>
+        <location filename="src/launcher/LaunchController.cpp" line="157"/>
         <source>Player name</source>
         <translation>Oyuncu ismi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="184"/>
+        <location filename="src/launcher/LaunchController.cpp" line="150"/>
         <source>Choose your offline mode player name.</source>
         <translation>Çevrimdışı oyuncu adınızı seçin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="186"/>
+        <location filename="src/launcher/LaunchController.cpp" line="152"/>
         <source>Choose your demo mode player name.</source>
         <translation>Demo modu oyuncu ismi seç.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="211"/>
+        <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Received undetermined session status during login.</source>
         <translation>Giriş sırasında belirsiz oturum durumu görüldü.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="134"/>
         <source>Play demo?</source>
         <translation>Deneme sürümü çalıştırılsın mı?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <location filename="src/launcher/LaunchController.cpp" line="136"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -4398,84 +4398,84 @@ Oyunu oynamak için onu satın almış olmalısınız.
 Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="226"/>
+        <location filename="src/launcher/LaunchController.cpp" line="139"/>
         <source>Play Demo</source>
         <translation>Deneme Sürümünü Oyna</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="227"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="236"/>
+        <location filename="src/launcher/LaunchController.cpp" line="265"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Başlatma iptal edildi - hesapta Minecraft mevcut değil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <location filename="src/launcher/LaunchController.cpp" line="280"/>
         <source>Play Offline</source>
         <translation>Çevrım Dışı Oyna</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="258"/>
+        <location filename="src/launcher/LaunchController.cpp" line="287"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>Hesabın süresi geçmiş ve yeniden elle giriş yapılması gerekiyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="259"/>
+        <location filename="src/launcher/LaunchController.cpp" line="288"/>
         <source>Account refresh failed</source>
         <translation>Hesap yenilemesi başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="265"/>
+        <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>Başlatıcının istemci tanılaması değişti. Lütfen bu hesabı kaldırıp yeniden ekleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="266"/>
+        <location filename="src/launcher/LaunchController.cpp" line="295"/>
         <source>Client identification changed</source>
         <translation>İstemci tanılama değişti</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="273"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Bu hesap artık sunucularda yok. Belki taşınmış olabilir. Böyle bir durumda lütfen taşımış olduğunuz hesabın bilgileriyle yeni hesap ekleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="275"/>
+        <location filename="src/launcher/LaunchController.cpp" line="304"/>
         <source>Account gone</source>
         <translation>Hesap yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="282"/>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
         <source>Failed to launch.</source>
         <translation>Başlatılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
+        <location filename="src/launcher/LaunchController.cpp" line="320"/>
+        <location filename="src/launcher/LaunchController.cpp" line="394"/>
         <source>Error!</source>
         <translation>Hata!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
-        <location filename="src/launcher/LaunchController.cpp" line="292"/>
+        <location filename="src/launcher/LaunchController.cpp" line="320"/>
+        <location filename="src/launcher/LaunchController.cpp" line="321"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Profil dosyası yüklenemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="298"/>
+        <location filename="src/launcher/LaunchController.cpp" line="327"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Bir başlatıcı örneklendirilemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
+        <location filename="src/launcher/LaunchController.cpp" line="394"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>%1 profilleyici kontrolü başarısız: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="407"/>
         <source>&amp;Launch</source>
         <translation>&amp;Başlat</translation>
     </message>
@@ -4484,7 +4484,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation type="vanished">Profilleyici başlatılamadı: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="401"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -4493,7 +4493,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="376"/>
+        <location filename="src/launcher/LaunchController.cpp" line="405"/>
         <source>Waiting.</source>
         <translation>Bekleniyor.</translation>
     </message>
@@ -4502,27 +4502,27 @@ Deneme sürümünü oynamak ister misiniz?</translation>
         <translation type="vanished">Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="413"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Profilleyici başlatılamadı: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="385"/>
+        <location filename="src/launcher/LaunchController.cpp" line="414"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="412"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="425"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>Kill Minecraft?</source>
         <translation>Minecraft&apos;ı durdur?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="426"/>
+        <location filename="src/launcher/LaunchController.cpp" line="455"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Bu işlem, profilin bozulmasına neden olabilir ve sadece Minecraft herhangi bir sebepten dolayı donduğunda kullanılmalıdır</translation>
     </message>
@@ -5864,7 +5864,7 @@ Sebep:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="501"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Create Shortcut</source>
         <translation>Kısayol oluştur</translation>
     </message>
@@ -6329,7 +6329,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1692"/>
         <source>No instance selected</source>
         <translation>Hiçbir profil seçilmedi</translation>
     </message>
@@ -6425,44 +6425,42 @@ Sebep:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="844"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="883"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="995"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1021"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="888"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation>En az bir hesap eklemediğiniz sürece başlatıcı Minecraft&apos;ı indiremez veya profillerini güncelleyemez.
+        <translation type="vanished">En az bir hesap eklemediğiniz sürece başlatıcı Minecraft&apos;ı indiremez veya profillerini güncelleyemez.
 Lütfen bir Microsoft hesabı ekleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="960"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Mod paketi, mod veya kaynak %1 üçüncü taraflar için engellendi! Lütfen manuel olarak indirin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
         <source>Modpack download</source>
         <translation>Mod paketi indir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Group name</source>
         <translation>Grup adı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1174"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Enter a new group name.</source>
         <translation>Yeni grup adı girin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1140"/>
         <source>Delete group</source>
         <translation>Grubu sil</translation>
     </message>
@@ -6471,42 +6469,42 @@ Lütfen bir Microsoft hesabı ekleyin.</translation>
         <translation type="vanished">%1 adlı grubu silmek istediğine emin misin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1261"/>
         <source>Instance not editable</source>
         <translation>Profil düzenlenemez</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Bu profil düzenlenemiyor. Bozuk, geçersiz veya çok eski olabilir. Ayrıntılar için günlükleri kontrol edin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1297"/>
         <source>Successfully added %1 to PATH</source>
         <translation>%1 başarıyla PATH&apos;e eklendi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 başarıyla PATH&apos;inize eklendi. Artık `%2` yazarak başlatabilirsiniz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1325"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1301"/>
         <source>Failed to add %1 to PATH</source>
         <translation>PATH&apos;e %1 eklemesi başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1326"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1302"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>PATH&apos;e %1 eklemeye çalışırken bir hata oluştu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1370"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
         <source>Confirm Deletion</source>
         <translation>Silme İşlemini Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1371"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1347"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -6521,12 +6519,12 @@ Büyük ihtimalle seçtiğin profili sonsuza kadar sileceksin.
 Emin misin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1359"/>
         <source>There are linked instances</source>
         <translation>Bağlı profiller var</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1360"/>
         <source>The following instance(s) might reference files in this instance:
 
 %1
@@ -6563,42 +6561,42 @@ Bu kurulum kalıcı olarak silinecek.
 Emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1554"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1570"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1621"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1626"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1640"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>Create instance shortcut</source>
         <translation>Profil için kısayol oluştur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Masaüstü bulunamadı?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Başlatıcı çıkartıldığı klasörün içersinde olduğundan kısayol oluşturamaz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Masaüstünüzde bu oturumun bir kısayolu oluşturuldu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1640"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Profil kısayolu oluşturma başarısız oldu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1555"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>İstemci yanlış yapılandırılmış bir AppImage üstünde çalışıyor(?). ($APPIMAGE ortam değişkeni kayıp)</translation>
     </message>
@@ -6616,107 +6614,105 @@ Emin misiniz?</translation>
         <translation>&amp;Grubu yeniden adlandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1140"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>&apos;%1&apos; grubunu silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1174"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Rename group</source>
         <translation>Grubu yeniden adlandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
         <source>Cannot rename group</source>
         <translation>Grup yeniden adlandırılamıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
         <source>Cannot set empty name.</source>
         <translation>Boş isim ayarlanamaz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
         <source>Group already exists. :/</source>
         <translation>Grup zaten var. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
         <source>Create instance Application</source>
         <translation>Profil Başvurusu Oluştur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
         <source>Failed to create icon for Application.</source>
         <translation>Uygulama için simge oluşturulamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1570"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1621"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1554"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Kısayol için ikon oluşturulamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>Masaüstü Girdileri (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1626"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
         <source>Not supported on your platform!</source>
         <translation>Platformunuzda desteklenmemekte!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Created a shortcut to this instance!</source>
         <translation>Bu profil için bir kısayol oluşturuldu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1698"/>
         <source>Rename Instance</source>
         <translation>Kurulumu Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1734"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1710"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Kurulum klasörünüz &apos;!&apos; karakterini içeriyor ve Java bu karakter ile ilgili problemleriyle meşhurdur!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>İki seçeneğiniz var: &lt;br/&gt; - ayarlardan kurulum klasörünü değiştir &lt;br/&gt; - %1 kurulumunu başka bir klasöre taşı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Bir sorun var: &lt;br/&gt; - Bu başlatıcı muhtemelen işletim sistemi tarafından hiçbir uyarı yapılmadan silinecek &lt;br/&gt; - başlatıcıyı kapatın ve geçici klasörler haricinde bir yere çıkartın</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Kurulum klasörünüz &apos;Rar$&apos; içeriyor - bu başlatıcı arşivini açmadığınız anlamına geliyor!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1755"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Kurulum klasörünüz geçici bir klasörün içinde: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1769"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1745"/>
         <source>Total playtime: %1</source>
         <translation>Toplam Oynanan Süre: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="832"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="880"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="887"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="969"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="983"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1016"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="945"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="959"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="992"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
@@ -6876,8 +6872,8 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
 <context>
     <name>MinecraftAccount</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="129"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="142"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>

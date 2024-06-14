@@ -4239,7 +4239,7 @@ Hãy chọn một trong những tuỳ chọn sau để tìm tệp Java.</transla
         <translation>Tài khoản nào mà bạn muốn sử dụng?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="188"/>
         <source>No account selected for launch.</source>
         <translation>Không có tài khoản nào được chọn để chạy.</translation>
     </message>
@@ -4248,42 +4248,42 @@ Hãy chọn một trong những tuỳ chọn sau để tìm tệp Java.</transla
         <translation type="vanished">Tài khoản của bạn hiện giờ chưa được đăng nhập. Hãy nhập mật khẩu của bạn để đăng nhập lại. &lt;br /&gt; &lt;br /&gt; Điều này có thể gây nên bởi việc thay đổi mật khẩu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="154"/>
+        <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>Continue launch?</source>
         <translation>Tiếp tục chạy ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="155"/>
+        <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Có vẻ như game không thể khởi động sau %1 lần. Bạn có muốn tiếp tục không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="191"/>
+        <location filename="src/launcher/LaunchController.cpp" line="157"/>
         <source>Player name</source>
         <translation>Tên người chơi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="184"/>
+        <location filename="src/launcher/LaunchController.cpp" line="150"/>
         <source>Choose your offline mode player name.</source>
         <translation>Chọn tên người chơi ngoại tuyến của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="186"/>
+        <location filename="src/launcher/LaunchController.cpp" line="152"/>
         <source>Choose your demo mode player name.</source>
         <translation>Chọn tên người chơi cho chế độ demo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="211"/>
+        <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Received undetermined session status during login.</source>
         <translation>Đã nhận được trạng thái phiên không xác định trong khi đăng nhập.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="134"/>
         <source>Play demo?</source>
         <translation>Chơi chế độ demo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <location filename="src/launcher/LaunchController.cpp" line="136"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -4294,84 +4294,84 @@ Bạn phải mua game này trước để có thể bắt đầu chơi.
 Bạn có muốn chơi bản demo không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="226"/>
+        <location filename="src/launcher/LaunchController.cpp" line="139"/>
         <source>Play Demo</source>
         <translation>Chơi Demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="227"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>Cancel</source>
         <translation>Huỷ</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="236"/>
+        <location filename="src/launcher/LaunchController.cpp" line="265"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Hủy bỏ khởi động - tài khoản không sở hữu Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <location filename="src/launcher/LaunchController.cpp" line="280"/>
         <source>Play Offline</source>
         <translation>Chơi ngoại tuyến</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="258"/>
+        <location filename="src/launcher/LaunchController.cpp" line="287"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>Phiên đăng nhập tài khoản đã hết hạn và cần được đăng nhập lại thủ công.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="259"/>
+        <location filename="src/launcher/LaunchController.cpp" line="288"/>
         <source>Account refresh failed</source>
         <translation>Làm mới tài khoản thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="265"/>
+        <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>Phát hiện thay đổi tài khoản. Hãy gỡ tài khoản hiện tại rồi thêm lại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="266"/>
+        <location filename="src/launcher/LaunchController.cpp" line="295"/>
         <source>Client identification changed</source>
         <translation>Đã thay đổi tài khoản</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="273"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Tài khoản không còn tồn tại trên máy chủ. Nó có thể đã được di chuyển sang tài khoản khác, trong trường hợp đó, vui lòng thêm tài khoản mới mà bạn đã di chuyển tài khoản này vào.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="275"/>
+        <location filename="src/launcher/LaunchController.cpp" line="304"/>
         <source>Account gone</source>
         <translation>Tài khoản đã biến mất</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="282"/>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
         <source>Failed to launch.</source>
         <translation>Thất bại trong việc khởi động.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
+        <location filename="src/launcher/LaunchController.cpp" line="320"/>
+        <location filename="src/launcher/LaunchController.cpp" line="394"/>
         <source>Error!</source>
         <translation>Lỗi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
-        <location filename="src/launcher/LaunchController.cpp" line="292"/>
+        <location filename="src/launcher/LaunchController.cpp" line="320"/>
+        <location filename="src/launcher/LaunchController.cpp" line="321"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Không thể tải lên hồ sơ phiên bản.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="298"/>
+        <location filename="src/launcher/LaunchController.cpp" line="327"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Không thể khởi tạo trình khởi chạy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
+        <location filename="src/launcher/LaunchController.cpp" line="394"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Kiểm tra hồ sơ cho %1 thất bại: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="407"/>
         <source>&amp;Launch</source>
         <translation>&amp;Khởi Chạy</translation>
     </message>
@@ -4380,7 +4380,7 @@ Bạn có muốn chơi bản demo không?</translation>
         <translation type="vanished">Không thể khởi động profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="401"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -4389,7 +4389,7 @@ Bạn có muốn chơi bản demo không?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="376"/>
+        <location filename="src/launcher/LaunchController.cpp" line="405"/>
         <source>Waiting.</source>
         <translation>Đang chờ.</translation>
     </message>
@@ -4398,27 +4398,27 @@ Bạn có muốn chơi bản demo không?</translation>
         <translation type="vanished">Chạy</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="413"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Không thể khởi động profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="385"/>
+        <location filename="src/launcher/LaunchController.cpp" line="414"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="412"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Abort</source>
         <translation>Hủy bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="425"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>Kill Minecraft?</source>
         <translation>Tắt Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="426"/>
+        <location filename="src/launcher/LaunchController.cpp" line="455"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Điều này có thể khiến phiên bản bị hỏng và chỉ nên được sử dụng nếu Minecraft bị đứng hình vì lý do nào đó</translation>
     </message>
@@ -5919,7 +5919,7 @@ Lý do:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="501"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Create Shortcut</source>
         <translation>Tạo Shortcut</translation>
     </message>
@@ -5979,12 +5979,12 @@ Lý do:
         <translation type="vanished">Chơi Ngoại Tuyến</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1370"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
         <source>Confirm Deletion</source>
         <translation>Xác nhận xóa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1371"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1347"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -6103,7 +6103,7 @@ Bạn có chắc không?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1692"/>
         <source>No instance selected</source>
         <translation>Không có phiên bản nào được chọn</translation>
     </message>
@@ -6187,84 +6187,82 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="844"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="883"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="995"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1021"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
         <source>Abort</source>
         <translation type="unfinished">Hủy bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="888"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation>Trương trình không thể tải được Minecraft hoặc cập nhật các phiên bản trước khi bạn đăng nhật vào ít nhất một tài khoản.
+        <translation type="vanished">Trương trình không thể tải được Minecraft hoặc cập nhật các phiên bản trước khi bạn đăng nhật vào ít nhất một tài khoản.
 Xin bạn hãy đăng nhập vào một tài khoản Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="960"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation>Modpack, mod, hoặc tài nguyên %1 đã bị bên thứ ba chặn tải! Xin dùng cách thủ công để tải.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
         <source>Modpack download</source>
         <translation type="unfinished">Tải xuống modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Group name</source>
         <translation>Tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1174"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Enter a new group name.</source>
         <translation>Đặt tên nhóm mới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1140"/>
         <source>Delete group</source>
         <translation>Xóa nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1261"/>
         <source>Instance not editable</source>
         <translation>Không thể chỉnh sửa được phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation>Không chỉnh sửa được phiên bản này. Có thể nó đã bị hỏng, không hợp lệ, hoặc là quá cũ. Kiểm tra log để xem thêm thông tin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1297"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Đã thêm %1 vô PATH thành công</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 đã được ghi vô PATH thành công. Bạn có thể khởi chạy nó bằng cách chạy `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1325"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1301"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Quá trình ghi %1 vô PATH thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1326"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1302"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Đã có lỗi xảy ra trong quá trình ghi %1 vô PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1359"/>
         <source>There are linked instances</source>
         <translation>Có phiên bản được liên kết</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1360"/>
         <source>The following instance(s) might reference files in this instance:
 
 %1
@@ -6283,59 +6281,59 @@ Bạn có muốn tiếp tục?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1554"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1570"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1621"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1626"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1640"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>Create instance shortcut</source>
         <translation>Tạo lối tắt cho phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Không thể tìm desktop?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Launcher nằm trong thư mục đã được giải nén, cho nên không thể tạo lối tắt cho nó.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
         <source>Create instance Application</source>
         <translation>Tạo ứng dụng phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
         <source>Failed to create icon for Application.</source>
         <translation>Tạo biểu tượng cho Ứng Dụng thất bại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Đã tạo lối tắt cho phiên bản này ở ngoài màn hình chính của bạn!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Created a shortcut to this instance!</source>
         <translation>Đã tạo lối tắt đến phiên bản này!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1640"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Tạo lối tắt cho phiên bản thất bại!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1555"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>Launcher đang chạy trên AppImage sai cấu hình? (thiếu biến môi trường $APPIMAGE)</translation>
     </message>
@@ -6345,90 +6343,88 @@ Bạn có muốn tiếp tục?</numerusform>
         <translation>&amp;Đổi tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1140"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation>Bạn có chắc chắn muốn xóa nhóm &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1174"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Rename group</source>
         <translation>Đổi tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
         <source>Cannot rename group</source>
         <translation>Không đổi được tên nhóm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
         <source>Cannot set empty name.</source>
         <translation>Tên không được để trống.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
         <source>Group already exists. :/</source>
         <translation>Nhóm này đã được tạo. :/</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1570"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1621"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1554"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Tạo icon cho lối tắt thất bại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>Mục ngoài Màn Hình Chính (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1626"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
         <source>Not supported on your platform!</source>
         <translation>Không được hỗ trợ trên nền tảng của bạn!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1698"/>
         <source>Rename Instance</source>
         <translation>Đổi tên phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1734"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1710"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Thư mục phiên bản chứa ký tự &apos;!&apos;. Ký tự này thường gây vấn đề trong ngôn ngữ Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Bạn có hai sự lựa chọn: &lt;br/&gt; - thay đổi thư mục của phiên bản trong cài đặt&lt;br/&gt; - Dời phiên bản %1 này sang một thư mục khác</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Có vấn đề: &lt;br/&gt; - Trình khởi chạy rất có thể bị xóa bởi hệ điều hành &lt;br/&gt; - Đóng trình khởi chạy bây giờ và giải nén nó vào một thư mục thật (không phải thư mục tạm)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Thư mục phiên bản có chứa &apos;Rar$&apos; - điều đó có nghĩa là bạn chưa giải nén!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1755"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Thư mục chứa phiên bản hiện đang nằm trong một thư mục tạm: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1769"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1745"/>
         <source>Total playtime: %1</source>
         <translation>Tổng cộng giờ chơi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="832"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="880"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="887"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="969"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="983"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1016"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="945"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="959"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="992"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
@@ -6582,8 +6578,8 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
 <context>
     <name>MinecraftAccount</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="129"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="142"/>
         <source>Aborted</source>
         <translation type="unfinished">Bị gián đoạn</translation>
     </message>

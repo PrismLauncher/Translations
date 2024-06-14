@@ -3972,47 +3972,47 @@ Please select one of the following or browse for a java executable.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="188"/>
         <source>No account selected for launch.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="154"/>
+        <location filename="src/launcher/LaunchController.cpp" line="205"/>
         <source>Continue launch?</source>
         <translation>Daŭrigi lanĉadon?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="155"/>
+        <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="191"/>
+        <location filename="src/launcher/LaunchController.cpp" line="157"/>
         <source>Player name</source>
         <translation>Ludanto nomo</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="184"/>
+        <location filename="src/launcher/LaunchController.cpp" line="150"/>
         <source>Choose your offline mode player name.</source>
         <translation>Elektu via eksterreta ludanta nomo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="186"/>
+        <location filename="src/launcher/LaunchController.cpp" line="152"/>
         <source>Choose your demo mode player name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="211"/>
+        <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Received undetermined session status during login.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="221"/>
+        <location filename="src/launcher/LaunchController.cpp" line="134"/>
         <source>Play demo?</source>
         <translation>Ludi demon?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <location filename="src/launcher/LaunchController.cpp" line="136"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -4020,96 +4020,96 @@ Do you want to play the demo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="226"/>
+        <location filename="src/launcher/LaunchController.cpp" line="139"/>
         <source>Play Demo</source>
         <translation>Ludi demon</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="227"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>Cancel</source>
         <translation>Nuligi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="236"/>
+        <location filename="src/launcher/LaunchController.cpp" line="265"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="251"/>
+        <location filename="src/launcher/LaunchController.cpp" line="280"/>
         <source>Play Offline</source>
         <translation>Ludi eksterrete</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="258"/>
+        <location filename="src/launcher/LaunchController.cpp" line="287"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="259"/>
+        <location filename="src/launcher/LaunchController.cpp" line="288"/>
         <source>Account refresh failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="265"/>
+        <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="266"/>
+        <location filename="src/launcher/LaunchController.cpp" line="295"/>
         <source>Client identification changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="273"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="275"/>
+        <location filename="src/launcher/LaunchController.cpp" line="304"/>
         <source>Account gone</source>
         <translation>Konto foriris</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="282"/>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
         <source>Failed to launch.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
+        <location filename="src/launcher/LaunchController.cpp" line="320"/>
+        <location filename="src/launcher/LaunchController.cpp" line="394"/>
         <source>Error!</source>
         <translation>Eraro!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="291"/>
-        <location filename="src/launcher/LaunchController.cpp" line="292"/>
+        <location filename="src/launcher/LaunchController.cpp" line="320"/>
+        <location filename="src/launcher/LaunchController.cpp" line="321"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="298"/>
+        <location filename="src/launcher/LaunchController.cpp" line="327"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="365"/>
+        <location filename="src/launcher/LaunchController.cpp" line="394"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="378"/>
+        <location filename="src/launcher/LaunchController.cpp" line="407"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lanĉi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="372"/>
+        <location filename="src/launcher/LaunchController.cpp" line="401"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="376"/>
+        <location filename="src/launcher/LaunchController.cpp" line="405"/>
         <source>Waiting.</source>
         <translation>Atendas.</translation>
     </message>
@@ -4118,27 +4118,27 @@ Do you want to play the demo?</source>
         <translation type="vanished">Lanĉi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="384"/>
+        <location filename="src/launcher/LaunchController.cpp" line="413"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="385"/>
+        <location filename="src/launcher/LaunchController.cpp" line="414"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="412"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Abort</source>
         <translation type="unfinished">Aborti</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="425"/>
+        <location filename="src/launcher/LaunchController.cpp" line="454"/>
         <source>Kill Minecraft?</source>
         <translation>Mortigi Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="426"/>
+        <location filename="src/launcher/LaunchController.cpp" line="455"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5492,7 +5492,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="501"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Create Shortcut</source>
         <translation>Krei Simbolan Ligilon</translation>
     </message>
@@ -5512,12 +5512,12 @@ Reason:
         <translation type="vanished">Lanĉi eksterrete</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1370"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
         <source>Confirm Deletion</source>
         <translation>Konfirmi Forigadon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1371"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1347"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -5602,7 +5602,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1692"/>
         <source>No instance selected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5670,83 +5670,74 @@ Are you sure?</oldsource>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="844"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="883"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="995"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1021"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
         <source>Abort</source>
         <translation type="unfinished">Aborti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="888"/>
-        <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add a Microsoft account.</source>
-        <oldsource>The launcher cannot download Minecraft or update instances unless you have at least one account added.
-Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="984"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="960"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="986"/>
         <source>Modpack download</source>
         <translation type="unfinished">Modara elŝutaĵo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>Group name</source>
         <translation>Nomo de grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1174"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Enter a new group name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1140"/>
         <source>Delete group</source>
         <translation>Forigi grupon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1261"/>
         <source>Instance not editable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1262"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1297"/>
         <source>Successfully added %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1322"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1325"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1301"/>
         <source>Failed to add %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1326"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1302"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1359"/>
         <source>There are linked instances</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1384"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1360"/>
         <source>The following instance(s) might reference files in this instance:
 
 %1
@@ -5760,59 +5751,59 @@ Do you wish to proceed?</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1497"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1554"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1570"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1621"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1626"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1640"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>Create instance shortcut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1498"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
         <source>Create instance Application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1535"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1522"/>
         <source>Failed to create icon for Application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Created a shortcut to this instance!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1640"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>Failed to create instance shortcut!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1555"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5822,90 +5813,88 @@ Do you wish to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1140"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1174"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Rename group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
         <source>Cannot rename group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
         <source>Cannot set empty name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
         <source>Group already exists. :/</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1570"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1621"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1554"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1597"/>
         <source>Failed to create icon for shortcut.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1626"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
         <source>Not supported on your platform!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1722"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1698"/>
         <source>Rename Instance</source>
         <translation>Renomi Instancon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1734"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1710"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1749"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1755"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1769"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1745"/>
         <source>Total playtime: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="832"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="880"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="887"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="969"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="983"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1016"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="945"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="959"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="992"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
@@ -6036,8 +6025,8 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftAccount</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="129"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="142"/>
         <source>Aborted</source>
         <translation type="unfinished">Abortita</translation>
     </message>
