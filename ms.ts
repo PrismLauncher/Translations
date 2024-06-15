@@ -539,7 +539,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Menguruskan Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -581,12 +581,12 @@ Jika Anda baru, Anda boleh memilih butang &quot;Tambah Microsoft&quot; untuk men
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="134"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambahkan akaun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="135"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagaimana anda mahu log masuk?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
@@ -1014,7 +1014,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Menanti...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
@@ -1979,7 +1979,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Namafail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
@@ -4818,27 +4818,27 @@ Sebab:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="459"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder tidak wujud</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="462"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dapat mencipta fail</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dapat mencipta:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="491"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dapat membaca dan memampatkan %1</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="497"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Ralat zip berlaku</translation>
     </message>
 </context>
 <context>
