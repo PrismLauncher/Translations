@@ -11789,7 +11789,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="488"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удается найти скин для &apos;%1&apos;.
+из-за: %2</translation>
     </message>
 </context>
 <context>
@@ -12137,7 +12138,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="151"/>
         <source>The size of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер текстур пака.</translation>
     </message>
     <message>
         <source>Is the resource enabled?</source>
