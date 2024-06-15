@@ -2771,7 +2771,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
         <source>%1 (Current)</source>
-        <translation>%1 (текущая)</translation>
+        <translation>%1 (Текущая)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
@@ -8346,7 +8346,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="305"/>
         <source>%1 (Current)</source>
-        <translation>%1 (текущая)</translation>
+        <translation>%1 (Текущая)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
@@ -11650,7 +11650,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="162"/>
         <source>No Cape</source>
-        <translation>Без плаща</translation>
+        <translation>Нет плаща</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="169"/>
@@ -11680,17 +11680,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Skin Delete</source>
-        <translation type="unfinished">Удалить скин</translation>
+        <translation>Удалить скин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Не удалось удалить текущий скин!</translation>
+        <translation>Не удалось удалить текущий скин!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
         <source>Context menu</source>
-        <translation type="unfinished">Контекстное меню</translation>
+        <translation>Контекстное меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
@@ -11711,8 +11711,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Вы собираетесь удалить «%1».
-Вы уверены?</translation>
+        <translation>Вы точно хотите удалить «%1»?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
@@ -12118,7 +12117,7 @@ inheritsFrom отсутствует</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Size</source>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="90"/>
