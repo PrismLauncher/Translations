@@ -11711,8 +11711,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Вы точно хотите удалить «%1».
-Вы уверены?</translation>
+        <translation>Вы точно хотите удалить «%1»?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
