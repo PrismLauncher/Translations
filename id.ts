@@ -9155,7 +9155,7 @@ Pilihlah nama Anda dengan hati-hati:</translation>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>Dengan terimakasih kepada</translation>
+        <translation>Terima kasih kepada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="135"/>
