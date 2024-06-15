@@ -11550,7 +11550,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="282"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось скопировать файл</translation>
     </message>
 </context>
 <context>
@@ -11590,7 +11590,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="114"/>
         <source>Reset Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить скин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="128"/>
@@ -11600,7 +11600,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="135"/>
         <source>Import user</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать пользователя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="142"/>
@@ -11655,7 +11655,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="169"/>
         <source>Download capes</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачанные плащи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="238"/>
@@ -11721,12 +11721,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="349"/>
         <source>Download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать скин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="358"/>
         <source>URL is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта ссылка не содержит подходящий скин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="359"/>
@@ -11746,33 +11746,33 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
         <source>failed to get user UUID</source>
-        <translation type="unfinished"></translation>
+        <translation>не удалось получить UUID пользователя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="431"/>
         <source>failed to get user profile</source>
-        <translation type="unfinished"></translation>
+        <translation>не удалось получить профиль пользователя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="435"/>
         <source>failed to download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>не удалось скачать скин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="445"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
         <source>failed to parse get user UUID response</source>
-        <translation type="unfinished"></translation>
+        <translation>не удалось обработать ответ на запрос UUID пользователя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="454"/>
         <source>user id is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>ID пользователя пуст</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="468"/>
         <source>failed to parse get user profile response</source>
-        <translation type="unfinished"></translation>
+        <translation>не удалось обработать ответ на запрос профиля пользователя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="485"/>
