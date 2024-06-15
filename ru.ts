@@ -11600,7 +11600,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="135"/>
         <source>Import user</source>
-        <translation>Импортировать пользователя</translation>
+        <translation>Импортировать игрока</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="142"/>
@@ -11741,17 +11741,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="406"/>
         <source>Download user skin</source>
-        <translation>Загрузить пользовательский скин</translation>
+        <translation>Скачать скин игрока</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
         <source>failed to get user UUID</source>
-        <translation>не удалось получить UUID пользователя</translation>
+        <translation>не удалось получить UUID игрока</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="431"/>
         <source>failed to get user profile</source>
-        <translation>не удалось получить профиль пользователя</translation>
+        <translation>не удалось получить профиль игрока</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="435"/>
@@ -11762,17 +11762,17 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="445"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
         <source>failed to parse get user UUID response</source>
-        <translation>не удалось обработать ответ на запрос UUID пользователя</translation>
+        <translation>не удалось обработать ответ на запрос UUID игрока</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="454"/>
         <source>user id is empty</source>
-        <translation>ID пользователя пуст</translation>
+        <translation>ID игрока пуст</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="468"/>
         <source>failed to parse get user profile response</source>
-        <translation>не удалось обработать ответ на запрос профиля пользователя</translation>
+        <translation>не удалось обработать ответ на запрос профиля игрока</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="485"/>
@@ -11783,7 +11783,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="487"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
-        <translation>Имя пользователя не найдено</translation>
+        <translation>Игрок не найден</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="488"/>
@@ -12138,7 +12138,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="151"/>
         <source>The size of the texture pack.</source>
-        <translation>Размер текстур пака.</translation>
+        <translation>Размер набора текстур.</translation>
     </message>
     <message>
         <source>Is the resource enabled?</source>
