@@ -2991,12 +2991,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="60"/>
         <source>Get dependencies</source>
         <translation>Obtener dependencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="198"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Ocurrió un error de red. No se pudieron cargar las dependencias del proyecto:%1</translation>
@@ -6915,56 +6915,115 @@ Este puede ser actualizado usando solo un archivo con el formato %1
 <context>
     <name>ModFilterWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation>Versiones de Minecraft</translation>
+        <translation type="vanished">Versiones de Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation>no se pudo obtener índice de versión</translation>
+        <translation type="vanished">no se pudo obtener índice de versión</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="58"/>
         <source>Strict match (= %1)</source>
-        <translation>Coincidencia estricta (= %1)</translation>
+        <translation type="vanished">Coincidencia estricta (= %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="63"/>
         <source>Major version match (= %1.%2.x)</source>
-        <translation>Coincidencia de versión mayor (= %1.%2.x)</translation>
+        <translation type="vanished">Coincidencia de versión mayor (= %1.%2.x)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="65"/>
         <source>Major version match (unsupported)</source>
-        <translation>Coincidencia de versión mayor (no soportada)</translation>
+        <translation type="vanished">Coincidencia de versión mayor (no soportada)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Any version</source>
-        <translation>Cualquier versión</translation>
+        <translation type="vanished">Cualquier versión</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
+        <source>Form</source>
+        <translation type="unfinished">Formulario</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
+        <source>Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
+        <source>Loaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
+        <source>NeoForge</source>
+        <translation type="unfinished">NeoForge</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
+        <source>Forge</source>
+        <translation type="unfinished">Forge</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
+        <source>Fabric</source>
+        <translation type="unfinished">Fabric</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
+        <source>Quilt</source>
+        <translation type="unfinished">Quilt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
+        <source>Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
+        <source>Show all versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
+        <source>Environments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
+        <source>Client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
+        <source>Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
+        <source>Hide installed items</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="97"/>
         <source>Folder</source>
         <translation>Carpeta</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>File</source>
         <translation>Archivo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="111"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation>Desconocido</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="122"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="146"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -6973,7 +7032,7 @@ Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si se
 Ruta canónica: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="152"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -7014,37 +7073,77 @@ Advertencia: Este recurso está enlazado desde otro sitio. Si se edita, también
         <translation>Ultima Modificación</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Size</source>
         <translation>Tamaño</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="177"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Loaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Miecraft Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Release Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
         <source>Is the mod enabled?</source>
         <translation>¿El mod está habilitado?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="207"/>
         <source>The name of the mod.</source>
         <translation>El nombre del mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="209"/>
         <source>The version of the mod.</source>
         <translation>La versión del mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="211"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>La fecha y hora en que se modificó (o agregó) este mod por última vez.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="213"/>
         <source>Where the mod was downloaded from.</source>
         <translation>De dónde se descargó el mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
+        <source>On what environment the mod is running.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
+        <source>The mod loader.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
+        <source>The supported minecraft versions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="221"/>
+        <source>The release type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
         <source>The size of the mod.</source>
         <translation>El tamaño del mod.</translation>
     </message>
@@ -9451,7 +9550,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>La ruta no parece ser una ruta de MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="59"/>
         <source>No author(s)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9572,44 +9671,44 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Featured</source>
         <translation type="unfinished">Ordenar por destacados</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Popularity</source>
         <translation type="unfinished">Ordenar por popularidad</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Ordenar por última actualización</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Name</source>
         <translation type="unfinished">Ordenar por nombre</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Author</source>
         <translation type="unfinished">Ordenar por autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished">Ordenar por descargas</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
         <source>Sort by Category</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <source>Sort by Game Version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9671,67 +9770,57 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
 <context>
     <name>ResourceDownload::ModPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="45"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
-        <source>No valid version found!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
-        <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="70"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
         <source>Review and confirm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
         <source>Ctrl+Return</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="119"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="133"/>
         <source>Confirm %1 to download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="139"/>
         <source>Error</source>
         <translation type="unfinished">Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
         <source>Warnings</source>
         <translation type="unfinished">Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
         <source>Abort</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
         <source>Checking for dependencies...</source>
         <translation type="unfinished">Comprobando dependencias...</translation>
     </message>
@@ -9752,8 +9841,8 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="457"/>
         <source>Error</source>
         <translation type="unfinished">Error</translation>
     </message>
@@ -9774,12 +9863,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"/>
         <source>API version too old!
 Please update %1!</source>
         <translation type="unfinished">¡La versión de API es muy antigua!
@@ -9813,74 +9902,74 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="105"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
         <translation>Buscar %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="101"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="258"/>
         <source>Select %1 for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
         <source> by </source>
         <translation type="unfinished"> por </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="215"/>
         <source>Donate information: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
         <source>External links:</source>
         <translation type="unfinished">Enlaces externos:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="232"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Problemas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="234"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="236"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished">Código fuente: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
         <source>Deselect %1 for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="287"/>
         <source>No valid version found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="288"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="304"/>
         <source>Loading versions...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10033,7 +10122,7 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="553"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="557"/>
         <source>Show / Hide Columns</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10045,22 +10134,22 @@ Are you sure you want to do this?</source>
         <translation type="vanished">¿El paquete de recursos está habilitado?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
         <translation type="unfinished">Habilitar</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
         <translation type="unfinished">Imagen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
         <translation type="unfinished">Ultima Modificación</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
         <translation type="unfinished">Tamaño</translation>
     </message>
@@ -10098,12 +10187,12 @@ Advertencia: Este recurso está enlazado desde otro sitio. Si se edita, también
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
         <translation>Nombre</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10177,17 +10266,16 @@ Advertencia: Este recurso está enlazado desde otro sitio. Si se edita, también
 <context>
     <name>ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+        <translation type="obsolete">Buscar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"/>
         <source>Version selected:</source>
         <translation type="unfinished">Versión seleccionada:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
         <translation type="unfinished"></translation>
     </message>

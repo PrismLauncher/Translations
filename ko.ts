@@ -3071,12 +3071,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="60"/>
         <source>Get dependencies</source>
         <translation>의존성 받기</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="198"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>네트워크 오류가 발생했습니다. 프로젝트 의존성을 불러올 수 없습니다:%1</translation>
@@ -7259,56 +7259,115 @@ This can be updated only using a file in %1 format
 <context>
     <name>ModFilterWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation>마인크래프트 버전</translation>
+        <translation type="vanished">마인크래프트 버전</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation>버전 인덱스를 받아올 수 없음</translation>
+        <translation type="vanished">버전 인덱스를 받아올 수 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="58"/>
         <source>Strict match (= %1)</source>
-        <translation>엄격한 일치 (= %1)</translation>
+        <translation type="vanished">엄격한 일치 (= %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="63"/>
         <source>Major version match (= %1.%2.x)</source>
-        <translation>주 버전 일치 (= %1.%2.x)</translation>
+        <translation type="vanished">주 버전 일치 (= %1.%2.x)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="65"/>
         <source>Major version match (unsupported)</source>
-        <translation>주 버전 일치(지원되지 않음)</translation>
+        <translation type="vanished">주 버전 일치(지원되지 않음)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Any version</source>
-        <translation>모든 버전</translation>
+        <translation type="vanished">모든 버전</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
+        <source>Form</source>
+        <translation type="unfinished">폼</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
+        <source>Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
+        <source>Loaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
+        <source>NeoForge</source>
+        <translation type="unfinished">NeoForge</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
+        <source>Forge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
+        <source>Fabric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
+        <source>Quilt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
+        <source>Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
+        <source>Show all versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
+        <source>Environments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
+        <source>Client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
+        <source>Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
+        <source>Hide installed items</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="97"/>
         <source>Folder</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>File</source>
         <translation>파일</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="111"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="122"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="146"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -7317,7 +7376,7 @@ Canonical Path: %1</source>
 표준 경로: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="152"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -7358,37 +7417,77 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>최근 수정일</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Size</source>
         <translation type="unfinished">크기</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="177"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Loaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Miecraft Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Release Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
         <source>Is the mod enabled?</source>
         <translation>모드가 활성 상태입니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="207"/>
         <source>The name of the mod.</source>
         <translation>모드의 이름입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="209"/>
         <source>The version of the mod.</source>
         <translation>모드의 버전입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="211"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>모드가 마지막으로 수정(또는 추가) 된 날짜와 시간입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="213"/>
         <source>Where the mod was downloaded from.</source>
         <translation>모드가 다운로드된 곳.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
+        <source>On what environment the mod is running.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
+        <source>The mod loader.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
+        <source>The supported minecraft versions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="221"/>
+        <source>The release type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
         <source>The size of the mod.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10021,7 +10120,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>경로가 MCEdit 경로인 것 같지 않습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="59"/>
         <source>No author(s)</source>
         <translation>제작자 없음</translation>
     </message>
@@ -10173,44 +10272,44 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>알 수 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Featured</source>
         <translation>추천순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Popularity</source>
         <translation>인기순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>업데이트순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Name</source>
         <translation>이름순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Author</source>
         <translation>작성자순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>다운로드순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
         <source>Sort by Category</source>
         <translation>카테고리순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <source>Sort by Game Version</source>
         <translation>게임 버전으로 정렬</translation>
     </message>
@@ -10272,67 +10371,65 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ResourceDownload::ModPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="45"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
         <translation>모드</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
         <translation>모드</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>No valid version found!</source>
-        <translation>유효한 버전이 없습니다!</translation>
+        <translation type="vanished">유효한 버전이 없습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
         <source>Cannot select invalid version :(</source>
-        <translation>잘못된 버전을 선택할 수 없습니다 :(</translation>
+        <translation type="vanished">잘못된 버전을 선택할 수 없습니다 :(</translation>
     </message>
 </context>
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="70"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
         <source>Review and confirm</source>
         <translation>검토하고 확정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="119"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation>당신이 선택한 %1을 검토하고 확정할 새 팝업을 엽니다. 단축키: Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="133"/>
         <source>Confirm %1 to download</source>
         <translation>다운로드할 %1 확인하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="139"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
         <source>Warnings</source>
         <translation>경고</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
         <source>Checking for dependencies...</source>
         <translation>의존성 확인 중...</translation>
     </message>
@@ -10353,8 +10450,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="457"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
@@ -10383,12 +10480,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>알 수 없는 이유로 요청이 중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>네트워크 오류가 발생했습니다. 모드를 불러올 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>API 버전이 오래됐습니다!
@@ -10422,74 +10519,74 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="105"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
         <translation>%1 찾아보기...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="101"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="258"/>
         <source>Select %1 for download</source>
         <translation>다운로드에서 %1 선택하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
         <source> by </source>
         <translation> 로 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;이 프로젝트는 보존되었습니다. 작성자가 보존 해제하지 않는 한 더 이상 업데이트되지 않습니다.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="215"/>
         <source>Donate information: </source>
         <translation>후원 정보: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
         <source>External links:</source>
         <translation>외부 링크:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="232"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>이슈: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="234"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>위키: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="236"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>소스 코드: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>디스코드: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
         <source>Deselect %1 for download</source>
         <translation>다운로드에서 %1 선택 해제</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="287"/>
         <source>No valid version found.</source>
         <translation>유효한 버전이 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="288"/>
         <source>Cannot select invalid version :(</source>
         <translation>잘못된 버전을 선택할 수 없습니다 :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="304"/>
         <source>Loading versions...</source>
         <translation>버전 로드 중...</translation>
     </message>
@@ -10647,7 +10744,7 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="553"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="557"/>
         <source>Show / Hide Columns</source>
         <translation>열 보이기 / 숨기기</translation>
     </message>
@@ -10659,22 +10756,22 @@ Are you sure you want to do this?</source>
         <translation type="vanished">리소스 팩이 활성화되어 있습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
         <translation>활성화</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
         <translation>이미지</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
         <translation>최근 수정일</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
         <translation type="unfinished">크기</translation>
     </message>
@@ -10712,12 +10809,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
         <translation>팩 형식</translation>
     </message>
@@ -10791,17 +10888,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation>검색</translation>
+        <translation type="vanished">검색</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"/>
         <source>Version selected:</source>
         <translation>선택된 버전:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
         <translation>필터 옵션</translation>
     </message>

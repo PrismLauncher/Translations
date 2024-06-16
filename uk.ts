@@ -3054,12 +3054,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="60"/>
         <source>Get dependencies</source>
         <translation>Отримання залежностей</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="198"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Сталася помилка мережі. Не можна завантажити залежності проєкта:%1</translation>
@@ -7234,56 +7234,115 @@ This can be updated only using a file in %1 format
 <context>
     <name>ModFilterWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation>Версії Minecraft</translation>
+        <translation type="vanished">Версії Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation>не вдалося отримати індекс версії</translation>
+        <translation type="vanished">не вдалося отримати індекс версії</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="58"/>
         <source>Strict match (= %1)</source>
-        <translation>Строгий збіг (= %1)</translation>
+        <translation type="vanished">Строгий збіг (= %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="63"/>
         <source>Major version match (= %1.%2.x)</source>
-        <translation>Збіг головної версії (= %1.%2.x)</translation>
+        <translation type="vanished">Збіг головної версії (= %1.%2.x)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="65"/>
         <source>Major version match (unsupported)</source>
-        <translation>Збіг головної версії (не підтримується)</translation>
+        <translation type="vanished">Збіг головної версії (не підтримується)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Any version</source>
-        <translation>Будь яка версія</translation>
+        <translation type="vanished">Будь яка версія</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
+        <source>Form</source>
+        <translation type="unfinished">Форма</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
+        <source>Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
+        <source>Loaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
+        <source>NeoForge</source>
+        <translation type="unfinished">NeoForge</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
+        <source>Forge</source>
+        <translation type="unfinished">Forge</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
+        <source>Fabric</source>
+        <translation type="unfinished">Fabric</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
+        <source>Quilt</source>
+        <translation type="unfinished">Quilt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
+        <source>Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
+        <source>Show all versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
+        <source>Environments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
+        <source>Client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
+        <source>Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
+        <source>Hide installed items</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="97"/>
         <source>Folder</source>
         <translation>Тека</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="111"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation>Невідомий</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="122"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="146"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -7292,7 +7351,7 @@ Canonical Path: %1</source>
 Канонічний шлях: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="152"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -7333,37 +7392,77 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>Востаннє змінено</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Size</source>
         <translation>Розмір</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="177"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Loaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Miecraft Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Release Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
         <source>Is the mod enabled?</source>
         <translation>Мод увімкнено?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="207"/>
         <source>The name of the mod.</source>
         <translation>Назва моду.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="209"/>
         <source>The version of the mod.</source>
         <translation>Версія моду.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="211"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Дата і час останньої зміни (або додавання) цього моду.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="213"/>
         <source>Where the mod was downloaded from.</source>
         <translation>Звідки мод був завантажений.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
+        <source>On what environment the mod is running.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
+        <source>The mod loader.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
+        <source>The supported minecraft versions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="221"/>
+        <source>The release type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
         <source>The size of the mod.</source>
         <translation>Розмір мода.</translation>
     </message>
@@ -9954,7 +10053,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Шлях, здається, не є шляхом MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="59"/>
         <source>No author(s)</source>
         <translation>Немає авторa(-ів)</translation>
     </message>
@@ -10106,44 +10205,44 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>невідомий</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Featured</source>
         <translation>Сортувати за рекомендованим</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Popularity</source>
         <translation>Сортувати за популярністю</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Сортувати за останнім оновленням</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Name</source>
         <translation>Сортувати за назвою</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Author</source>
         <translation>Сортувати за автором</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Сортувати за завантаженнями</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
         <source>Sort by Category</source>
         <translation>Сортувати за категоріями</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <source>Sort by Game Version</source>
         <translation>Сортувати за версією гри</translation>
     </message>
@@ -10205,67 +10304,65 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ResourceDownload::ModPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="45"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
         <translation>моди</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
         <translation>мод</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>No valid version found!</source>
-        <translation>Не знайдено жодної версії!</translation>
+        <translation type="vanished">Не знайдено жодної версії!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
         <source>Cannot select invalid version :(</source>
-        <translation>Не вдається вибрати недійсну версію :(</translation>
+        <translation type="vanished">Не вдається вибрати недійсну версію :(</translation>
     </message>
 </context>
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="70"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
         <source>Review and confirm</source>
         <translation>Перевiрити та пiдтвердити</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="119"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation>Відкриває нове вікно для перевірки обраних вами %1 та підтвердження вашого вибору. Скорочення: Ctrl+Enter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="133"/>
         <source>Confirm %1 to download</source>
         <translation>Підтвердити %1 для завантаження</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="139"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
         <source>Warnings</source>
         <translation>Попередження</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
         <source>Abort</source>
         <translation>Перервати</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
         <source>Checking for dependencies...</source>
         <translation>Перевірка залежностей....</translation>
     </message>
@@ -10286,8 +10383,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="457"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -10308,12 +10405,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Запит було скасовано з невідомої причини</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Виникла помилка в мережі. Не вдалося завантажити моди.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>Версія API дуже стара!
@@ -10347,74 +10444,74 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="105"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
         <translation>Пошук %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="101"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="258"/>
         <source>Select %1 for download</source>
         <translation>Вибрати %1 для завантаження</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
         <source> by </source>
         <translation> від </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Цей проєкт було заархівовано. Він не буде отримувати оновлення допоки автор не вирішить розархівувати проєкт.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="215"/>
         <source>Donate information: </source>
         <translation>Пожертва: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
         <source>External links:</source>
         <translation>Зовнішні посилання:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="232"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Проблеми: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="234"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Вікі: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="236"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Вихідний код: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
         <source>Deselect %1 for download</source>
         <translation>Прибрати %1 для завантаження</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="287"/>
         <source>No valid version found.</source>
         <translation>Не знайдено потрібної версії.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="288"/>
         <source>Cannot select invalid version :(</source>
         <translation>Не вдається вибрати недійсну версію :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="304"/>
         <source>Loading versions...</source>
         <translation>Завантаження версій...</translation>
     </message>
@@ -10572,7 +10669,7 @@ Are you sure you want to do this?</source>
         <translation>Розмір ресурсу.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="553"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="557"/>
         <source>Show / Hide Columns</source>
         <translation>Показати / приховати стовпці</translation>
     </message>
@@ -10584,22 +10681,22 @@ Are you sure you want to do this?</source>
         <translation type="vanished">Чи увімкнений пакет ресурсів?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
         <translation>Увімкнути</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
         <translation>Зображення</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
         <translation>Востаннє змінено</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
         <translation>Розмір</translation>
     </message>
@@ -10637,12 +10734,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>Розмір ресурспаку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
         <translation>Назва</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
         <translation>Формат пакету</translation>
     </message>
@@ -10716,17 +10813,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation>Пошук</translation>
+        <translation type="vanished">Пошук</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"/>
         <source>Version selected:</source>
         <translation>Вибрана версія:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
         <translation>Налаштування фільтрів</translation>
     </message>

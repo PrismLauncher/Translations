@@ -3014,12 +3014,12 @@ Vă rugăm să încercați din nou.</translation>
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="60"/>
         <source>Get dependencies</source>
         <translation>Fă rost de dependențe</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="198"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>A apărut o eroare de rețea. Nu s-au putut încărca dependențiile:%1</translation>
@@ -6907,56 +6907,115 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
 <context>
     <name>ModFilterWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation>Versiuni de Minecraft</translation>
+        <translation type="vanished">Versiuni de Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation>obținerea index-ului versiunii a eșuat</translation>
+        <translation type="vanished">obținerea index-ului versiunii a eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="58"/>
         <source>Strict match (= %1)</source>
-        <translation>Potrivire strictă (= %1)</translation>
+        <translation type="vanished">Potrivire strictă (= %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="63"/>
         <source>Major version match (= %1.%2.x)</source>
-        <translation>Potrivire versiune majoră (=%1.%2.x)</translation>
+        <translation type="vanished">Potrivire versiune majoră (=%1.%2.x)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="65"/>
         <source>Major version match (unsupported)</source>
-        <translation>Potrivire versiune majoră (nesuportat)</translation>
+        <translation type="vanished">Potrivire versiune majoră (nesuportat)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Any version</source>
-        <translation>Orice versiune</translation>
+        <translation type="vanished">Orice versiune</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
+        <source>Form</source>
+        <translation type="unfinished">Formă</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
+        <source>Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
+        <source>Loaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
+        <source>NeoForge</source>
+        <translation type="unfinished">NeoForge</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
+        <source>Forge</source>
+        <translation type="unfinished">Forge</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
+        <source>Fabric</source>
+        <translation type="unfinished">Fabric</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
+        <source>Quilt</source>
+        <translation type="unfinished">Quilt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
+        <source>Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
+        <source>Show all versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
+        <source>Environments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
+        <source>Client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
+        <source>Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
+        <source>Hide installed items</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="97"/>
         <source>Folder</source>
         <translation>Dosar</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>File</source>
         <translation>Fișier</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="111"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation>Necunoscut</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="122"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="146"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -6965,7 +7024,7 @@ Avertizare: Această resursă este legată simbolic din altă parte. Editarea ei
 Cale Canonică: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="152"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -7002,37 +7061,77 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <translation>Ultima Modificare</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Size</source>
         <translation type="unfinished">Dimensiune</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="177"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Loaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Miecraft Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
+        <source>Release Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
         <source>Is the mod enabled?</source>
         <translation>Este activat modul?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="207"/>
         <source>The name of the mod.</source>
         <translation>Numele modului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="209"/>
         <source>The version of the mod.</source>
         <translation>Versiunea modului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="211"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Data și timpul la care acest mod a fost schimbat ultima dată (sau adăugat).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="213"/>
         <source>Where the mod was downloaded from.</source>
         <translation>De unde a fost descărcat modul.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
+        <source>On what environment the mod is running.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
+        <source>The mod loader.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
+        <source>The supported minecraft versions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="221"/>
+        <source>The release type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
         <source>The size of the mod.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9314,7 +9413,7 @@ Acest mesaj va fi afișat până ștergi acest argument din argumentele JVM-ului
         <translation>Calea nu pare a fi o cale MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="59"/>
         <source>No author(s)</source>
         <translation>Nu există autor(i)</translation>
     </message>
@@ -9446,44 +9545,44 @@ NOTIȚĂ: Asigură-te că ai făcut o copie de rezervă a datelor instanțelor i
         <translation>necunoscut</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Featured</source>
         <translation>Sortează după Featured</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Popularity</source>
         <translation>Sortează după Popularitate</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Sortează după Ultima Actualizare</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Name</source>
         <translation>Sortează după Nume</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Author</source>
         <translation>Sortează după Autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Sortează după Descărcări</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
         <source>Sort by Category</source>
         <translation>Sortează după Categorie</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <source>Sort by Game Version</source>
         <translation>Sortează după Versiunea Jocului</translation>
     </message>
@@ -9545,67 +9644,65 @@ NOTIȚĂ: Asigură-te că ai făcut o copie de rezervă a datelor instanțelor i
 <context>
     <name>ResourceDownload::ModPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="46"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="45"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
         <translation>Moduri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="48"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
         <translation>mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
         <source>No valid version found!</source>
-        <translation>Nicio versiune validă găsită!</translation>
+        <translation type="vanished">Nicio versiune validă găsită!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
         <source>Cannot select invalid version :(</source>
-        <translation>Nu se poate selecta o versiune invalidă :(</translation>
+        <translation type="vanished">Nu se poate selecta o versiune invalidă :(</translation>
     </message>
 </context>
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="70"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
         <source>Review and confirm</source>
         <translation>Revizuie și confirmă</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="119"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation>Deschide un meniu popup nou pentru a revizui %1 selectate de tine și confirmarea selecției tale. Scurtătură: Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="133"/>
         <source>Confirm %1 to download</source>
         <translation>Confirmă %1 pentru descărcare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="138"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="139"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
         <source>Warnings</source>
         <translation>Avertizări</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
         <source>Abort</source>
         <translation>Renunță</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
         <source>Checking for dependencies...</source>
         <translation>Verificare pentru dependențe...</translation>
     </message>
@@ -9626,8 +9723,8 @@ NOTIȚĂ: Asigură-te că ai făcut o copie de rezervă a datelor instanțelor i
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="457"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
@@ -9652,12 +9749,12 @@ NOTIȚĂ: Asigură-te că ai făcut o copie de rezervă a datelor instanțelor i
         <translation>Cererea a fot anulată dintr-un motiv necunoscut</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>A avut loc o eroare de rețeat. Modurile nu au putut fi încărcate.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>Versiunea API este prea veche!
@@ -9691,74 +9788,74 @@ Te rugăm să o actualizezi %1!</translation>
 <context>
     <name>ResourceDownload::ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="105"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
         <translation>Caută pentru %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="101"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="258"/>
         <source>Select %1 for download</source>
         <translation>Selectează %1 pentru descărcare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
         <source> by </source>
         <translation> de </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation type="unfinished">&lt;b&gt;Acest proeict a fost arhivat. Acesta nu va mai primi actualizări cu excepția cazului în care autorul decide să dearhiveze proiectul.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="215"/>
         <source>Donate information: </source>
         <translation>Donează informații: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
         <source>External links:</source>
         <translation>Link-uri externe:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="232"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="234"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="236"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Cod sursă: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
         <source>Deselect %1 for download</source>
         <translation>Deselectați %1 de la descărcare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="287"/>
         <source>No valid version found.</source>
         <translation>Nicio versiune validă găsită.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="283"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="288"/>
         <source>Cannot select invalid version :(</source>
         <translation>Nu se poate selecta o versiune invalidă :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="304"/>
         <source>Loading versions...</source>
         <translation>Încărcare versiuni...</translation>
     </message>
@@ -9911,7 +10008,7 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="553"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="557"/>
         <source>Show / Hide Columns</source>
         <translation>Arată / Ascunde Coloane</translation>
     </message>
@@ -9919,22 +10016,22 @@ Are you sure you want to do this?</source>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
         <translation>Permite</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
         <translation>Imagine</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
         <translation>Ultima Modificare</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
         <translation type="unfinished">Dimensiune</translation>
     </message>
@@ -9972,12 +10069,12 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
         <translation>Nume</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
         <translation>Formatul Pachetului</translation>
     </message>
@@ -10043,17 +10140,16 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
 <context>
     <name>ResourcePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation>Căutare</translation>
+        <translation type="vanished">Căutare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"/>
         <source>Version selected:</source>
         <translation>Versiunea selectată:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
         <source>Filter options</source>
         <translation>Opțiuni de filtrare</translation>
     </message>
