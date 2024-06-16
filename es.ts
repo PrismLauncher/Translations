@@ -590,12 +590,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gestionar Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestionar Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -1306,7 +1306,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="95"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>Fallo al abortar todas las tareas en curso.</translation>
+        <translation>Error al abortar todas las tareas en curso.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
@@ -4490,7 +4490,7 @@ Necesitas comprar el juego primero para jugarlo.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="394"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation>La comprobación del profiler para %1 ha fallado: %2</translation>
+        <translation>Error en la comprobación del perfil de %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="407"/>
@@ -4811,12 +4811,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
         <source>h</source>
-        <translation type="unfinished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skins:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="242"/>
@@ -4978,7 +4978,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="318"/>
@@ -5481,17 +5481,17 @@ Motivo:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="543"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al enumerar los ficheros del archivo</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="546"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraer archivos vacíos parece extraño...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="550"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al buscar el primer archivo del zip</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="590"/>
@@ -5524,12 +5524,12 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
         <source>Failed to retrieve device authorization</source>
-        <translation>Fallo al obtener la autorización del dispositivo</translation>
+        <translation>Error al obtener la autorización del dispositivo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation>Fallo de autorización del dispositivo: faltan campos obligatorios</translation>
+        <translation>Error de autorización del dispositivo: faltan campos obligatorios</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="152"/>
@@ -5539,7 +5539,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="254"/>
         <source>Device Access failed: %1</source>
-        <translation>Fallo de acceso al dispositivo: %1</translation>
+        <translation>Error de acceso al dispositivo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="269"/>
@@ -5589,7 +5589,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="91"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>Ha fallado la autentificación de usuario de Microsoft: la identificación del cliente ha cambiado.</translation>
+        <translation>Ha fallado la autenticación de usuario de Microsoft - la identificación del cliente ha cambiado.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="67"/>
@@ -5928,12 +5928,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="588"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra la carpeta de skins en un explorador de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="600"/>
@@ -6529,7 +6529,7 @@ Por favor, añade una cuenta Microsoft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1301"/>
         <source>Failed to add %1 to PATH</source>
-        <translation>Fallo al añadir %1 a PATH</translation>
+        <translation>Error al añadir %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1302"/>
@@ -7379,67 +7379,67 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorías</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Loaders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todas las versiones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation>Entornos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar elementos instalados</translation>
     </message>
 </context>
 <context>
@@ -7513,27 +7513,27 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Talla</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Lado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Loaders</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Miecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiones de Miecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de lanzamiento</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
@@ -7563,27 +7563,27 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>En qué entorno se ejecuta el mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>El mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las versiones de Minecraft compatibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="221"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tipo de lanzamiento.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño del mod.</translation>
     </message>
 </context>
 <context>
@@ -8059,7 +8059,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
         <source>Failed to check for updates</source>
-        <translation>Falló al buscar actualizaciones</translation>
+        <translation>Error al buscar actualizaciones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="181"/>
@@ -8568,7 +8568,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="49"/>
         <source>All attempts have failed!</source>
-        <translation>¡Todos los intentos han fallado!</translation>
+        <translation>¡Todos los intentos han fracasado!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
@@ -8707,7 +8707,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
         <location filename="src/launcher/news/NewsChecker.cpp" line="112"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation>Ha fallado la carga de novedades RSS
+        <translation>Error al cargar el canal RSS de noticias:
 %1</translation>
     </message>
 </context>
@@ -9153,7 +9153,7 @@ Mensaje de error: %3</translation>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation>El comando pre-lanzamiento falló con el código %1.
+        <translation>El comando de pre-lanzamiento falló con el código %1.
 
 </translation>
     </message>
@@ -9178,7 +9178,7 @@ Mensaje de error: %3</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="118"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="139"/>
         <source>Update Check Failed</source>
-        <translation>La búsqueda de actualizaciones fallo</translation>
+        <translation>Error de comprobación de actualización</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="119"/>
@@ -9410,7 +9410,7 @@ El actualizador no puede continuar hasta que solucione este problema.</translati
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="674"/>
         <source>Failed copy %1 to %2</source>
-        <translation>Fallo al copiar %1 a %2</translation>
+        <translation>Error al copiar %1 en %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="689"/>
@@ -9468,7 +9468,7 @@ El actualizador no puede continuar hasta que solucione este problema.</translati
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <source>Failed to Download</source>
-        <translation>Fallo al Descargar</translation>
+        <translation>Error al Descargar</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
@@ -9575,7 +9575,7 @@ Para sobrescribir este bloqueo y proceder con esta actualización de todos modos
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1145"/>
         <source>Failed to backup %1 to %2</source>
-        <translation>Fallo en la copia de seguridad de %1 en %2</translation>
+        <translation>Error en la copia de seguridad de %1 en %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1148"/>
@@ -9603,12 +9603,12 @@ Para sobrescribir este bloqueo y proceder con esta actualización de todos modos
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1198"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation>Fallo al lanzar el proceso hijo &quot;%1 %2&quot;.</translation>
+        <translation>Error al lanzar el proceso hijo &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
         <source>Failed extract archive</source>
-        <translation>Fallo al extraer archivo</translation>
+        <translation>Error al extraer archivo</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1207"/>
@@ -9634,7 +9634,7 @@ Para sobrescribir este bloqueo y proceder con esta actualización de todos modos
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1229"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation>Fallo al lanzar el proceso de lanzamiento del niño para leer la versión.</translation>
+        <translation>Error al lanzar el proceso de lanzamiento del niño para leer la versión.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1233"/>
@@ -9909,7 +9909,7 @@ Deberías revisarlo de nuevo en caso de contener datos personales.
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="85"/>
         <source>Upload failed</source>
-        <translation>La subida ha fallado</translation>
+        <translation>Error de carga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="91"/>
@@ -10468,12 +10468,12 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation type="unfinished"></translation>
+        <translation>item</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation type="unfinished"></translation>
+        <translation>items</translation>
     </message>
 </context>
 <context>
@@ -10819,7 +10819,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="200"/>
         <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Talla</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -10858,7 +10858,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="512"/>
         <source>The size of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño del recurso.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="557"/>
@@ -10890,7 +10890,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Talla</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
@@ -10923,7 +10923,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The size of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño del resource pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -11520,32 +11520,32 @@ Esto es permanente y el servidor desaparecerá de su lista para siempre (POR MUC
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="269"/>
         <source>Path is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>La ruta está vacía.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="272"/>
         <source>File doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>El fichero no existe.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="274"/>
         <source>Not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es un archivo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="276"/>
         <source>File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo no se puede leer.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="278"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las imágenes de la skin deben ser archivos PNG de 64x64 o 64x32 píxeles.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="282"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede copiar el archivo</translation>
     </message>
 </context>
 <context>
@@ -11555,236 +11555,238 @@ Esto es permanente y el servidor desaparecerá de su lista para siempre (POR MUC
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="241"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="255"/>
         <source>Skin Upload</source>
-        <translation type="unfinished">Subir Skin</translation>
+        <translation>Cargar Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="40"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="46"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Clásico</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="56"/>
         <source>Slim</source>
-        <translation type="unfinished"></translation>
+        <translation>Slim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="66"/>
         <source>Cape</source>
-        <translation type="unfinished">Capa</translation>
+        <translation>Capa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="107"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Abrir carpeta</translation>
+        <translation>Abrir la carpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="114"/>
         <source>Reset Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="128"/>
         <source>Import URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="135"/>
         <source>Import user</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar usuario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="142"/>
         <source>Import File</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar archivo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="164"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Borrar Skin</translation>
+        <translation>&amp;Eliminar Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>Deletes selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina la skin seleccionada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="175"/>
         <source>&amp;Rename Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Renombrar Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
         <source>Rename selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Renombrar la skin seleccionada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>F2</source>
-        <translation type="unfinished"></translation>
+        <translation>F2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="141"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">Seleccione la textura de la Skin</translation>
+        <translation>Seleccionar textura de la skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="144"/>
         <source>Selected file is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo seleccionado no es una skin válida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="162"/>
         <source>No Cape</source>
-        <translation type="unfinished">Sin capa</translation>
+        <translation>Sin capa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="169"/>
         <source>Download capes</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar capas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="238"/>
         <source>Change skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="241"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">¡El archivo de la Skin no existe!</translation>
+        <translation>¡El archivo Skin no existe!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="255"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">¡Error al subir la Skin!</translation>
+        <translation>¡Error al cargar skin!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="266"/>
         <source>Reset skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Skin Delete</source>
-        <translation type="unfinished">Eliminar Skin</translation>
+        <translation>Eliminar Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">¡No se pudo eliminar la Skin actual!</translation>
+        <translation>¡Error al borrar la skin actual!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menú contextual</translation>
+        <translation>Menú contextual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
         <source>Delete error</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
         <source>Can not delete skin that is in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede eliminar la skin que está en uso.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="327"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar Borrado</translation>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Está a punto de borrar &quot;%1&quot;.
+¿Está seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
         <source>Invalid url</source>
-        <translation type="unfinished"></translation>
+        <translation>URL inválida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="349"/>
         <source>Download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="358"/>
         <source>URL is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>La URL no es una skin válida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="359"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las imágenes de la skin deben ser archivos PNG de 64x64 o 64x32 píxeles.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="360"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido descargar el skin: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="406"/>
         <source>Download user skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar skin del usuario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
         <source>failed to get user UUID</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al obtener el UUID del usuario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="431"/>
         <source>failed to get user profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al obtener el perfil de usuario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="435"/>
         <source>failed to download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>no se puede descargar la skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="445"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
         <source>failed to parse get user UUID response</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al analizar la respuesta UUID del usuario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="454"/>
         <source>user id is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>el id del usuario está vacío</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="468"/>
         <source>failed to parse get user profile response</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al analizar la respuesta del perfil de usuario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="485"/>
         <source>the skin is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>la skin es inválida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="487"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de usuario no encontrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="488"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido encontrar el skin para &apos;%1
+ porque: %2.</translation>
     </message>
 </context>
 <context>
@@ -12111,7 +12113,7 @@ falta inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Talla</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="90"/>
@@ -12132,7 +12134,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="151"/>
         <source>The size of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño del texture pack.</translation>
     </message>
     <message>
         <source>Is the resource enabled?</source>
@@ -13436,7 +13438,7 @@ El mundo puede desaparecer para siempre (POR MUCHO TIEMPO).
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="70"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation>Fallo al obtener autorización para %1 servicios: %2</translation>
+        <translation>Error al obtener autorización para %1 servicios: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="78"/>
@@ -13528,7 +13530,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="53"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="55"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Fallo al recuperar el perfil de Xbox: %1</translation>
+        <translation>Error al recuperar el perfil de Xbox: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -13555,7 +13557,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="58"/>
         <source>XBox user authentication failed: %1</source>
-        <translation>Fallo de autenticación de usuario Xbox: %1</translation>
+        <translation>Error en la autenticación del usuario de Xbox: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="66"/>
