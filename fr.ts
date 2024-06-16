@@ -591,7 +591,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gérer les skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -4977,7 +4977,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dossier des skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="318"/>
@@ -5939,7 +5939,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrir le dossier des skins dans l&apos;explorateur de fichier.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="600"/>
@@ -7394,7 +7394,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Catégories</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
@@ -7424,17 +7424,17 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afficher toutes les versions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Environnements</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
@@ -7444,7 +7444,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Serveur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
@@ -11671,12 +11671,12 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="241"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">Le fichier du skin n&apos;existe pas&#xa0;!</translation>
+        <translation type="unfinished">Le fichier du skin n&apos;existe pas&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="255"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">Le chargement du skin a échoué&#xa0;!</translation>
+        <translation type="unfinished">Le chargement du skin a échoué&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="266"/>
@@ -11691,7 +11691,7 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Le skin actuel n’a pas pu être supprimé&#xa0;!</translation>
+        <translation type="unfinished">Le skin actuel n’a pas pu être supprimé&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
