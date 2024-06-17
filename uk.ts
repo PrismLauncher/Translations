@@ -9380,7 +9380,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1141"/>
         <source>Backing up and then removing %1</source>
-        <translation>Бекап, а після видалення %1</translation>
+        <translation>Створення резервної копії та потім видалення %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1145"/>
