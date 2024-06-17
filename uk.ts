@@ -7260,7 +7260,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -7275,22 +7275,22 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
