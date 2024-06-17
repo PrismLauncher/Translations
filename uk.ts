@@ -7034,7 +7034,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Використовуйте Zink, драйвер Mesa OpenGL, який реалізує OpenGL поверх Vulkan. Продуктивність може змінюватися залежно від ситуації. Примітка: Якщо відповідний драйвер Vulkan не знайдено, буде використано програмний рендеринг.</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Використовуйте Zink, драйвер Mesa OpenGL, який реалізує OpenGL поверх Vulkan. Продуктивність може змінюватися залежно від ситуації. Примітка: Якщо відповідний драйвер Vulkan не знайдено, буде використано програмний рендеринг.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
