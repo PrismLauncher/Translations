@@ -3457,7 +3457,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Détermination du type d&apos;instance</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
@@ -4784,12 +4784,12 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="66"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalle de temps entre les mise à jours</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettez 0 pour seulement vérifier au démarrage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
@@ -4799,7 +4799,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skins:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="200"/>
@@ -4977,7 +4977,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished">Dossier des skins</translation>
+        <translation>Dossier des skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="318"/>
@@ -5491,27 +5491,27 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="543"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;énumérer les fichiers de cette archive</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="546"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraire des archives vides n&apos;est pas très utile...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="550"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;accéder vers le premier fichier de l&apos;archive ZIP</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="590"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;extraction de %1 fut annulée parce qu&apos;il est en dehors du chemin de destination, à savoir %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="596"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;extraire le fichier %1 vers %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="610"/>
@@ -5934,7 +5934,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="588"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
