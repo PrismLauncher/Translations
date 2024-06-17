@@ -3421,7 +3421,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Архів не містить розмізнаний тип мод-паку.</translation>
+        <translation>Архів не містить розпізнаний тип мод-паку.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
