@@ -7573,12 +7573,12 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
-        <source>Miecraft Versions</source>
+        <source>Release Type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
-        <source>Release Type</source>
+        <source>Minecraft Versions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
