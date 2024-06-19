@@ -586,12 +586,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zarządzanie Skinami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzanie Skórkami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -4823,7 +4823,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skórki:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="200"/>
@@ -5001,7 +5001,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder ze skórkami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="318"/>
@@ -5963,12 +5963,12 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="588"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skórki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder ze skórkami w eksploratorze plików.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="600"/>
@@ -11610,7 +11610,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="278"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazy skórek muszą być plikami PNG o wymiarach 64x64 lub 64x32 pikseli.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="282"/>
@@ -11655,7 +11655,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="114"/>
         <source>Reset Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj skina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="128"/>
@@ -11680,7 +11680,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
         <source>Deletes selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwa wybranego skina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
@@ -11690,12 +11690,12 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="175"/>
         <source>&amp;Rename Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zmień nazwę skina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
         <source>Rename selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę wybranego skina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
@@ -11710,7 +11710,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="144"/>
         <source>Selected file is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrany plik nie zawiera poprawnego skina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="162"/>
@@ -11725,7 +11725,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="238"/>
         <source>Change skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień skina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="241"/>
@@ -11740,7 +11740,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="266"/>
         <source>Reset skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj skina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
@@ -11765,7 +11765,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
         <source>Can not delete skin that is in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można usunąć skina, który jest aktualnie w użytku.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="327"/>
@@ -11781,17 +11781,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
         <source>Invalid url</source>
-        <translation type="unfinished"></translation>
+        <translation>Niepoprawny link</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="349"/>
         <source>Download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz skina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="358"/>
         <source>URL is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Pod linkiem nie kryje się poprawny skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="359"/>
