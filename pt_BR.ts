@@ -582,12 +582,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gerenciar skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerenciar skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -2212,12 +2212,12 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar lista de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="182"/>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar metadados do mod para texto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -3105,7 +3105,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Processo iniciado: %1</translation>
     </message>
 </context>
 <context>
@@ -3477,7 +3477,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificando o tipo da instância</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
@@ -3985,7 +3985,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="890"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível criar a pasta temporária</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="908"/>
@@ -4794,12 +4794,12 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="66"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Frequência de atualização</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Defina como 0 para atualização manual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
@@ -4809,7 +4809,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skins:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="200"/>
@@ -4987,7 +4987,7 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta de Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="318"/>
@@ -5501,32 +5501,32 @@ Razão:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="543"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao listar arquivos no arquivo compactado</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="546"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrair arquivos vazios? Não faz muito sentido...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="550"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao acessar o primeiro arquivo no arquivo compactado</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="590"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo %1 não foi extraído por estar fora do caminho de destino %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="596"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível extrair o arquivo %1 para %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="610"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao corrigir permissões do arquivo %1</translation>
     </message>
 </context>
 <context>
@@ -5534,22 +5534,22 @@ Razão:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="53"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrando com a conta da Microsoft (código do dispositivo).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="115"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na autorização do dispositivo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="119"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao obter a autorização do dispositivo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="125"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro na autorização: preencha todos os campos solicitados</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="152"/>
@@ -5559,12 +5559,12 @@ Razão:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="254"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha no acesso ao dispositivo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="269"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Feito</translation>
     </message>
 </context>
 <context>
@@ -5586,7 +5586,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="131"/>
         <source>Browser opened to complete the login process.&lt;br /&gt;&lt;br /&gt;If your browser hasn&apos;t opened, please manually open the below link in your browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>O navegador foi aberto para concluir o processo de login.&lt;br /&gt;&lt;br /&gt;Caso o navegador não tenha aberto, acesse manualmente o link abaixo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="157"/>
@@ -5954,7 +5954,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra a pasta de skins no explorador de arquivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="600"/>
@@ -7409,7 +7409,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
@@ -7439,17 +7439,17 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versões</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todas as versões</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambientes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
@@ -7459,12 +7459,12 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar itens instalados</translation>
     </message>
 </context>
 <context>
