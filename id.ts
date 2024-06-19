@@ -1171,7 +1171,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folder mod global terkonfigurasi dan folder unduhan default Anda diperiksa secara otomatis untuk mod yang diunduh dan akan disalin ke instansi jika ditemukan&lt;/p&gt;&lt;p&gt;Secara optional, Anda bisa menyeret dan melepas mod yang telah diunduh ke dialog ini atau menambahkan folder untuk melihat jika Anda tidak mengunduh mod tersebut di lokasi default.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folder mod global terkonfigurasi dan folder unduhan baku Anda diperiksa secara otomatis untuk mod yang diunduh dan akan disalin ke instansi jika ditemukan&lt;/p&gt;&lt;p&gt;Secara optional, Anda bisa menyeret dan melepas mod yang telah diunduh ke dialog ini atau menambahkan folder untuk melihat jika Anda tidak mengunduh mod tersebut di lokasi baku.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -2471,7 +2471,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Catatan: Jika Instansi FTB Anda tidak dalam lokasi default, pilih menggunakan tombol di sebelah pencarian.</translation>
+        <translation>Catatan: Jika Instansi FTB Anda tidak dalam lokasi baku, pilih menggunakan tombol di sebelah pencarian.</translation>
     </message>
 </context>
 <context>
@@ -3644,7 +3644,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="698"/>
         <source>Override default account</source>
-        <translation>Timpa akun default</translation>
+        <translation>Timpa akun baku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="718"/>
@@ -7123,7 +7123,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi-versi Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
@@ -9252,7 +9252,7 @@ Pilihlah nama Anda dengan hati-hati:</translation>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 Pengembang-pengembang</translation>
+        <translation>Pengembang-pengembang %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
