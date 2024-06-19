@@ -4021,7 +4021,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Нажмите «Добавить установку игры», чтобы начать.</translation>
+        <translation>Нажмите «Добавить сборку», чтобы начать.</translation>
     </message>
 </context>
 <context>
