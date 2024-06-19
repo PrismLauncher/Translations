@@ -1684,29 +1684,29 @@ Some versions of Minecraft may not launch.
 <context>
     <name>EnsureMetadataTask</name>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="86"/>
         <source>Checking if mods have metadata...</source>
         <translation>Modide metaandmete kontrollimine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
         <translation>Metaandmete teabe päring %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>Metaandmete teabe pärimine %1-lt &apos;%2&apos; kohta...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="246"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="333"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>API vastuse analüüsimine Modrinthi jaoks &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="402"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="469"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="400"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="467"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>CurseForge&apos;i API vastuse analüüsimine &apos;%1&apos; jaoks...</translation>
     </message>
@@ -7621,160 +7621,160 @@ Palun uuenda %1!</translation>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="43"/>
         <source>Confirm mods to update</source>
         <translation>Kinnita uuendatavad modid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="54"/>
         <source>You&apos;re about to update the following mods:</source>
         <translation>Hakkad järgnevaid mode uuendama:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="57"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
         <source>Only mods with a check will be updated!</source>
         <translation>Ainult täidetud märkeruuduga modid uuendatakse!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="73"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Modi nimi: %1&lt;br&gt;Failinimi: %2&lt;br&gt;Põhjus: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="76"/>
         <source>Metadata generation failed</source>
         <translation>Metaandmete genereerimine ebaõnnestus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Järgnevate modide jaoks ei saadud metaandmeid genereerida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="93"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="91"/>
         <source>Checking for updates</source>
         <translation>Uuenduste kontrollimine</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="112"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="196"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="339"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="409"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="194"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="337"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="352"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="407"/>
         <source>Error</source>
         <translation>Viga</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="117"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="201"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="199"/>
         <source>Warnings</source>
         <translation>Hoiatused</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>Abort</source>
         <translation>Katkesta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
         <translation>Uuenduste kontrollimine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Mod name: %1</source>
         <translation>Modi nimi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="172"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Reason: %1</source>
         <translation>Põhjus: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="175"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="173"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Checking for dependencies...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="310"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="308"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Modil &quot;%1&quot; puuduvad hetkel metaandmed. Et jälgida selle modi uuendamiseks vajalikku teavet, peame selle genereerima. Selleks vali modipakkuja, mida saame kasutada selle modi uuenduste hankimiseks.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="411"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Sobivat versiooni valitud modipakkuja(te)st ei leitud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Failed to check for updates</source>
         <translation>Uuenduste kontrollimine ebaõnnestus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="179"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Järgnevaid mode ei saanud kontrollida või uuendusteks hankida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="267"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="265"/>
         <source>Looking for metadata</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Generating metadata...</source>
         <translation>Metaandmete genereerimine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="424"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>Mod was disabled as it may be already instaled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Provider: %1</source>
         <translation>Pakkuja: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="431"/>
         <source>Old version: %1</source>
         <translation>Vana versioon: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="431"/>
         <source>Not installed</source>
         <translation>Pole paigaldatud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="434"/>
         <source>New version: %1</source>
         <translation>Uus versioon: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="438"/>
         <source>New Version Type: %1</source>
         <translation>Uus versiooniliik: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="444"/>
         <source>Required by: %1</source>
         <translation>Nõuab: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="448"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
         <source>Required by:</source>
         <translation>Nõuab:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="462"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="460"/>
         <source>Changelog of the latest version</source>
         <translation>Viimatise versiooni muudatuste logi</translation>
     </message>
@@ -7876,32 +7876,32 @@ Palun uuenda %1!</translation>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
         <source>Preparing mods for Modrinth...</source>
         <translation>Modide ettevalmistamine Modrinthi jaoks...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="43"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>Keelatud mode ei uuendata, vältimaks modide duubeldamisvigu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="87"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="131"/>
         <source>Mod has an empty download URL</source>
         <translation>Modil on tühi allalaadimise URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="176"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="175"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Modrinthi rakendusliidese vastuse ootamine...</translation>
     </message>
@@ -8044,32 +8044,32 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="54"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="55"/>
         <source>Searching for files...</source>
         <translation>Failide otsimine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="76"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="77"/>
         <source>Could not search for files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="92"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="93"/>
         <source>Finding file hashes...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="154"/>
         <source>Finding versions for hashes...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="189"/>
         <source>Failed to parse versions response: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="198"/>
         <source>Adding files...</source>
         <translation>Failide lisamine...</translation>
     </message>
@@ -9778,7 +9778,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Failiteelt ei leia MCEditit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="59"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
         <source>No author(s)</source>
         <translation>Autor(id) puuduvad</translation>
     </message>
@@ -10067,27 +10067,27 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"/>
         <source>Confirm %1 to download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="137"/>
         <source>Error</source>
         <translation>Viga</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="142"/>
         <source>Warnings</source>
         <translation>Hoiatused</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="148"/>
         <source>Abort</source>
         <translation>Katkesta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
         <source>Checking for dependencies...</source>
         <translation type="unfinished"></translation>
     </message>

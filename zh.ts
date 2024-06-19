@@ -1740,29 +1740,29 @@ Some versions of Minecraft may not launch.
 <context>
     <name>EnsureMetadataTask</name>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="86"/>
         <source>Checking if mods have metadata...</source>
         <translation>正在检查 Mod 是否有元数据……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
         <translation>正在向 %1 获取 Mod 元数据信息……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>正在向 %1 获取“%2”的元数据信息……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="246"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="333"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>正在处理 Modrinth 对“%1”的 API 响应……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="402"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="469"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="400"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="467"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>正在解析 CurseForge 对“%1”的 API 响应……</translation>
     </message>
@@ -7969,100 +7969,100 @@ Please update %1!</source>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="43"/>
         <source>Confirm mods to update</source>
         <translation>确认所要更新的 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="54"/>
         <source>You&apos;re about to update the following mods:</source>
         <translation>以下 Mod 即将更新：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="57"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
         <source>Only mods with a check will be updated!</source>
         <translation>只有检查过的 Mod 会更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="73"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Mod 名称：%1&lt;br/&gt;文件名：%2&lt;br/&gt;原因：%3&lt;br/&gt;&lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="76"/>
         <source>Metadata generation failed</source>
         <translation>元数据生成失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>无法为以下 Mod 生成元数据：&lt;br&gt;您想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="93"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="91"/>
         <source>Checking for updates</source>
         <translation>正在检查更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="112"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="196"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="339"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="409"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="194"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="337"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="352"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="407"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="117"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="201"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="199"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>Abort</source>
         <translation>终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
         <translation>正在检查更新……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Mod name: %1</source>
         <translation>Mod 名称：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="172"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Reason: %1</source>
         <translation>原因：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="175"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="173"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>可能的解决方案：手动获取最新版本：&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Checking for dependencies...</source>
         <translation>正在检查前置 Mod……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="310"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="308"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Mod “%1” 还没有元数据。我们需要生成相关信息用于检查 Mod 更新。因此，请选择一个 Mod 托管平台，并使用它来检查此 Mod 的更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="411"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>在所选 Mod 托管平台上找不到有效版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="424"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>Mod was disabled as it may be already instaled.</source>
         <translation>可能有相同版本已被安装，故此模组被禁用。</translation>
     </message>
@@ -8075,17 +8075,17 @@ Please update %1!</source>
         <translation type="vanished">手动获取最新版本：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Failed to check for updates</source>
         <translation>检查更新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="179"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>无法获取以下 Mod 更新：&lt;br&gt;您想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="267"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="265"/>
         <source>Looking for metadata</source>
         <translation>正在查找元数据</translation>
     </message>
@@ -8094,7 +8094,7 @@ Please update %1!</source>
         <translation type="vanished">Mod（%1）还没有Metadata。我们需要创建一份Metadata，以保留如何更新此Mod的相关信息。请先选择一个Mod托管平台，我们将通过此平台查询 %1 是否有可用更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Generating metadata...</source>
         <translation>生成元数据中……</translation>
     </message>
@@ -8103,42 +8103,42 @@ Please update %1!</source>
         <translation type="vanished">无法在所选择的Mod托管平台上找到可用的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Provider: %1</source>
         <translation>Mod 托管平台：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="431"/>
         <source>Old version: %1</source>
         <translation>旧版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="431"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="434"/>
         <source>New version: %1</source>
         <translation>新版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="438"/>
         <source>New Version Type: %1</source>
         <translation>新版本类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="444"/>
         <source>Required by: %1</source>
         <translation>%1 的前置 Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="448"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
         <source>Required by:</source>
         <translation>为以下 Mod 的前置 Mod：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="462"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="460"/>
         <source>Changelog of the latest version</source>
         <translation>最新版本的更新日志</translation>
     </message>
@@ -8252,32 +8252,32 @@ Please update %1!</source>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
         <source>Preparing mods for Modrinth...</source>
         <translation>正在从 Modrinth 准备 Mod……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="43"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>为避免 Mod 重复的问题，被停用的 Mod 将不会被更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="87"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>正在分析 Modrinth 的 API 返回数据……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="131"/>
         <source>Mod has an empty download URL</source>
         <translation>Mod 的下载链接为空</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="176"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="175"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>正在等待 Modrinth API 回应……</translation>
     </message>
@@ -8426,32 +8426,32 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="54"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="55"/>
         <source>Searching for files...</source>
         <translation>搜索文件中……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="76"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="77"/>
         <source>Could not search for files</source>
         <translation>无法找到文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="92"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="93"/>
         <source>Finding file hashes...</source>
         <translation>寻找文件哈希......</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="154"/>
         <source>Finding versions for hashes...</source>
         <translation>寻找版本哈希......</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="189"/>
         <source>Failed to parse versions response: %1</source>
         <translation>无法解析版本响应：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="198"/>
         <source>Adding files...</source>
         <translation>新增文件中……</translation>
     </message>
@@ -10244,7 +10244,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>这个路径似乎不是 MCEdit 的路径</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="59"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
         <source>No author(s)</source>
         <translation>无作者</translation>
     </message>
@@ -10533,27 +10533,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>打开一个新的弹窗以查看并确认您选中的%1。快捷键：Ctrl + Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"/>
         <source>Confirm %1 to download</source>
         <translation>确认要下载的 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="137"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="142"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="148"/>
         <source>Abort</source>
         <translation>终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
         <source>Checking for dependencies...</source>
         <translation>正在检查前置 Mod……</translation>
     </message>

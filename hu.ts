@@ -1724,29 +1724,29 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
 <context>
     <name>EnsureMetadataTask</name>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="86"/>
         <source>Checking if mods have metadata...</source>
         <translation>Modok metaadatainak ellenőrzése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
         <translation>Metaadat-információk kérése a következőtől: %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>Metaadat-információk kérése (tőle: %1) a következőhöz: &quot;%2&quot;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="246"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="333"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>API-válasz elemzése a Modrinth-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="402"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="469"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="400"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="467"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
@@ -7875,160 +7875,160 @@ Kérjük, frissítse a következőt: %1!</translation>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="43"/>
         <source>Confirm mods to update</source>
         <translation>A frissítendő modok megerősítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="54"/>
         <source>You&apos;re about to update the following mods:</source>
         <translation>A következő modok frissítésére készül:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="57"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
         <source>Only mods with a check will be updated!</source>
         <translation>Csak a kipipált modok lesznek lefrissítve!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="73"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Mod név: %1&lt;br&gt;Fájlnév: %2&lt;br&gt;Ok: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="76"/>
         <source>Metadata generation failed</source>
         <translation>A metaadatok létrehozása sikertelen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Nem sikerült metaadatokat generálni a következő modokhoz:&lt;br&gt;Szeretné folytatni ezek a modok nélkül?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="93"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="91"/>
         <source>Checking for updates</source>
         <translation>Frissítések keresése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="112"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="196"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="339"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="409"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="194"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="337"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="352"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="407"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="117"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="201"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="199"/>
         <source>Warnings</source>
         <translation>Figyelmeztetések</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
         <translation>Frissítések keresése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Mod name: %1</source>
         <translation>Mod neve: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="172"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Reason: %1</source>
         <translation>Ok: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="175"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="173"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>Lehetséges megoldás: A legújabb verzió kézi beszerzése:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Checking for dependencies...</source>
         <translation>Függőségek keresése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="310"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="308"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>A &quot;%1&quot; mod még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez kérjük, válasszon egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="411"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Nem található érvényes verzió a kiválasztott modszolgáltató(k)on</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Failed to check for updates</source>
         <translation>Nem sikerült ellenőrizni a frissítéseket</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="179"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Nem sikerült ellenőrizni vagy megtalálni a következő modokat a frissítésekhez:&lt;br&gt;Szeretné folytatni a modok nélkül?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="267"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="265"/>
         <source>Looking for metadata</source>
         <translation>Metaadatok keresése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Generating metadata...</source>
         <translation>Metaadatok generálása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="424"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>Mod was disabled as it may be already instaled.</source>
         <translation>A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Provider: %1</source>
         <translation>Szolgáltató: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="431"/>
         <source>Old version: %1</source>
         <translation>Régi verzió: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="431"/>
         <source>Not installed</source>
         <translation>Nincs telepítve</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="434"/>
         <source>New version: %1</source>
         <translation>Új verzió: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="438"/>
         <source>New Version Type: %1</source>
         <translation>Új verzió típusa: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="444"/>
         <source>Required by: %1</source>
         <translation>Szükséges ehhez: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="448"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
         <source>Required by:</source>
         <translation>Szükséges ehhez:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="462"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="460"/>
         <source>Changelog of the latest version</source>
         <translation>Változásnapló a legújabb verzióhoz</translation>
     </message>
@@ -8142,32 +8142,32 @@ Kérjük, frissítse a következőt: %1!</translation>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
         <source>Preparing mods for Modrinth...</source>
         <translation>Modok előkészítése Modrinth-nek...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="43"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>A letiltott modok nem frissülnek, hogy elkerüljük a modduplikációs problémákat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="87"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Modrinth API-válaszának elemzése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nem található érvényes verzió ehhez a modhoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz / mod loaderhez.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="131"/>
         <source>Mod has an empty download URL</source>
         <translation>A modnak üres a letöltési URL-je</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="176"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="175"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Várakozás a Modrinth API-válaszára...</translation>
     </message>
@@ -8320,32 +8320,32 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="54"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="55"/>
         <source>Searching for files...</source>
         <translation>Fájlok keresése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="76"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="77"/>
         <source>Could not search for files</source>
         <translation>Nem sikerült fájlokat keresni</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="92"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="93"/>
         <source>Finding file hashes...</source>
         <translation>Fájl hashek keresése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="154"/>
         <source>Finding versions for hashes...</source>
         <translation>Verziók keresése a hashekhez...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="189"/>
         <source>Failed to parse versions response: %1</source>
         <translation>Nem sikerült elemezni a verziók válaszát: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="198"/>
         <source>Adding files...</source>
         <translation>Fájlok hozzáadása...</translation>
     </message>
@@ -10130,7 +10130,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <translation>Az útvonal nem tűnik MCEdit útvonalnak</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="59"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
         <source>No author(s)</source>
         <translation>Nincs(enek) szerző(k)</translation>
     </message>
@@ -10419,27 +10419,27 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Megnyit egy előugró ablakot a kiválasztott %1 ellenőrzéséhez és a választás megerősítéséhez. Shortcut: Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"/>
         <source>Confirm %1 to download</source>
         <translation>Erősítse meg: %1 a letöltéshez</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="137"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="142"/>
         <source>Warnings</source>
         <translation>Figyelmeztetések</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="148"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
         <source>Checking for dependencies...</source>
         <translation>Függőségek keresése...</translation>
     </message>

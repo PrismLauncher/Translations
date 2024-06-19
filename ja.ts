@@ -1704,29 +1704,29 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>EnsureMetadataTask</name>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="86"/>
         <source>Checking if mods have metadata...</source>
         <translation>modsがメタデータを持っているかを確認しています…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
         <translation>%1 のメタデータ情報をリクエストしています…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>%2 用の %1 のメタデータをリクエストしています…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="246"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="333"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>&apos;%1&apos;に関するModrinthのAPI応答を解析中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="402"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="469"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="400"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="467"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>&apos;%1&apos;に関するCurseForgeのAPI応答を解析中…</translation>
     </message>
@@ -7504,160 +7504,160 @@ Are you sure you want to do this?</source>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="43"/>
         <source>Confirm mods to update</source>
         <translation>アップデートするmodを確認</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="54"/>
         <source>You&apos;re about to update the following mods:</source>
         <translation>以下のmodをアップデートします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="57"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
         <source>Only mods with a check will be updated!</source>
         <translation>チェックされたmodがアップデートされます！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="73"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>modの名前 : %1&lt;br&gt;ファイル名: %2&lt;br&gt;理由 : %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="76"/>
         <source>Metadata generation failed</source>
         <translation>メタデータの生成に失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>以下のmodでメタデータが生成できませんでした: &lt;br&gt;これらのmodを抜いて続行しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="93"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="91"/>
         <source>Checking for updates</source>
         <translation>アップデートを確認中</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="112"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="196"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="339"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="409"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="194"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="337"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="352"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="407"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="117"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="201"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="199"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
         <translation>アップデートを確認中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Mod name: %1</source>
         <translation>Modの名前 : %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="172"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Reason: %1</source>
         <translation>理由: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="175"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="173"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>考えうる解決策: 最新バージョンを手動で取得する:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Checking for dependencies...</source>
         <translation>依存関係を確認しています…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="310"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="308"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>「%1」のメタデータが見つかりません。このmodをアップデートをするために生成する必要があります。使用するmodプロバイダを選択してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="411"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>選択されたmod プロバイダで有効なバージョンが見つけられませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Failed to check for updates</source>
         <translation>アップデートの確認に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="179"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>これらのmodでアップデートの確認または取得ができませんでした。 &lt;br&gt; これらのmodを除いてアップデートしますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="267"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="265"/>
         <source>Looking for metadata</source>
         <translation>メタデータを探しています</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Generating metadata...</source>
         <translation>メタデータを生成中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="424"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>Mod was disabled as it may be already instaled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Provider: %1</source>
         <translation>プロバイダ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="431"/>
         <source>Old version: %1</source>
         <translation>現在のバージョン: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="431"/>
         <source>Not installed</source>
         <translation>インストールされていない</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="434"/>
         <source>New version: %1</source>
         <translation>新しいバージョン: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="438"/>
         <source>New Version Type: %1</source>
         <translation>新しいバージョンタイプ：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="444"/>
         <source>Required by: %1</source>
         <translation>このmodに依存するmod: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="448"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
         <source>Required by:</source>
         <translation>このmodに依存するmod:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="462"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="460"/>
         <source>Changelog of the latest version</source>
         <translation>最新バージョンの更新内容</translation>
     </message>
@@ -7759,32 +7759,32 @@ Please update %1!</source>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
         <source>Preparing mods for Modrinth...</source>
         <translation>Modrinthのmodを準備中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="43"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>modの重複問題を防ぐため、無効化されたmodはアップデートされません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="87"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>ModrinthからのAPI応答を解析中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>現在のゲームのバージョンまたはmodローダーのバージョンでこのmodの有効なバージョンが存在しないか、見つかりませんでした。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="131"/>
         <source>Mod has an empty download URL</source>
         <translation>このmodは空のダウンロードURLを持っています</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="176"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="175"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>ModrinthからのAPI応答を待っています…</translation>
     </message>
@@ -7901,32 +7901,32 @@ Please update %1!</source>
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="54"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="55"/>
         <source>Searching for files...</source>
         <translation>ファイルを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="76"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="77"/>
         <source>Could not search for files</source>
         <translation>ファイルが見つかりませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="92"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="93"/>
         <source>Finding file hashes...</source>
         <translation>ファイルハッシュを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="154"/>
         <source>Finding versions for hashes...</source>
         <translation>ハッシュのバージョンを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="189"/>
         <source>Failed to parse versions response: %1</source>
         <translation type="unfinished">バージョン応答の解析に失敗しました: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="198"/>
         <source>Adding files...</source>
         <translation>ファイルを追加中...</translation>
     </message>
@@ -9654,7 +9654,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>パスはMCEditのパスではないようです</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="59"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
         <source>No author(s)</source>
         <translation>作者なし</translation>
     </message>
@@ -9943,27 +9943,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>選択した%1を確認する画面を開き、確定します。(Ctrl+Return)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"/>
         <source>Confirm %1 to download</source>
         <translation>%1のダウンロードを確定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="137"/>
         <source>Error</source>
         <translation type="unfinished">エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="142"/>
         <source>Warnings</source>
         <translation type="unfinished">警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="148"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
         <source>Checking for dependencies...</source>
         <translation type="unfinished">依存関係をチェックしています...</translation>
     </message>

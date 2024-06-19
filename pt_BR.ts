@@ -1740,29 +1740,29 @@ Algumas versões do Minecraft podem não iniciar.
 <context>
     <name>EnsureMetadataTask</name>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="86"/>
         <source>Checking if mods have metadata...</source>
         <translation>Verificando se os mods têm metadados...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
         <translation>Pedindo informação de metadados a %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>Pedindo informação de metadados de %1 a &apos;%2&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="246"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="333"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>Analisando resposta do API de Modrinth para &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="402"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="469"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="400"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="467"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Analisando resposta do API de CurseForge para &apos;%1&apos;...</translation>
     </message>
@@ -7988,160 +7988,160 @@ Por favor atualize o %1!</translation>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="45"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="43"/>
         <source>Confirm mods to update</source>
         <translation>Confirme os mods para atualizar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="54"/>
         <source>You&apos;re about to update the following mods:</source>
         <translation>Você está prestes a atualizar os seguintes mods:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="57"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
         <source>Only mods with a check will be updated!</source>
         <translation>Apenas mods selecionados serão atualizados!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="73"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Nome do mod: %1&lt;br&gt;Nome do arquivo: %2&lt;br&gt;Razão: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="76"/>
         <source>Metadata generation failed</source>
         <translation>A geração de metadados falhou</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Não se pôde gerar metadados para os seguintes mods:&lt;br&gt;Quer continuar sem esses mods?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="93"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="91"/>
         <source>Checking for updates</source>
         <translation>Verificando por atualizações</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="112"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="196"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="339"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="409"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="194"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="337"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="352"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="407"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="117"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="201"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="199"/>
         <source>Warnings</source>
         <translation>Avisos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="123"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="206"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>Abort</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="122"/>
         <source>Checking for updates...</source>
         <translation>Verificando por atualizações...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Mod name: %1</source>
         <translation>Nome do mod: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="172"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Reason: %1</source>
         <translation>Razão: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="175"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="173"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>Possível solução: Obtendo a versão mais recente manualmente:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Checking for dependencies...</source>
         <translation>Verificando dependências...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="310"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="308"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>O mod &apos;%1&apos; não possui um metadado ainda. Precisamos gera-los para conseguir obter informações importantes sobre como atualizar esse mod. Para isso, por favor selecione um provedor de mod que possamos usar para verificar as atualizações para esse mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="411"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Não foi possível encontrar uma versão válida no(s) provedor(es) de mod selecionado(s)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="180"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Failed to check for updates</source>
         <translation>Falha ao verificar atualizações</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="179"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Não se pôde checar ou obter os seguintes mods para atualizações:&lt;br&gt;Quer continuar sem esses mods?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="267"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="265"/>
         <source>Looking for metadata</source>
         <translation>Procurando por metadados</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Generating metadata...</source>
         <translation>Gerando metadados...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="424"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="422"/>
         <source>Mod was disabled as it may be already instaled.</source>
         <translation>O mod foi desabilitado, pois ele já pode estar instalado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="428"/>
         <source>Provider: %1</source>
         <translation>Provedor: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="431"/>
         <source>Old version: %1</source>
         <translation>Versão antiga: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="431"/>
         <source>Not installed</source>
         <translation>Não instalado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="434"/>
         <source>New version: %1</source>
         <translation>Nova versão: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="438"/>
         <source>New Version Type: %1</source>
         <translation>Novo tipo de versão: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="444"/>
         <source>Required by: %1</source>
         <translation>Requerido por: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="448"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="446"/>
         <source>Required by:</source>
         <translation>Requerido por:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="462"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="460"/>
         <source>Changelog of the latest version</source>
         <translation>Registro de mudanças da versão mais recente</translation>
     </message>
@@ -8261,32 +8261,32 @@ Por favor, atualize o %1!</translation>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
         <source>Preparing mods for Modrinth...</source>
         <translation>Preparando mods para Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="44"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="43"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>Mods desabilitados não serão atualizados, para evitar problemas de duplicação de mods!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="87"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Analisando a resposta da API do Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="102"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Sem versão válida achada para este mod. Provavelmente está indisponível para a versão atual do jogo/carregador de mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="131"/>
         <source>Mod has an empty download URL</source>
         <translation>O mod tem URL de download vazio</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="176"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="175"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Esperando a resposta da API do Modrinth...</translation>
     </message>
@@ -8439,32 +8439,32 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="54"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="55"/>
         <source>Searching for files...</source>
         <translation>Procurando por arquivos...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="76"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="77"/>
         <source>Could not search for files</source>
         <translation>Não foi possível procurar por arquivos</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="92"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="93"/>
         <source>Finding file hashes...</source>
         <translation>Encontrando hashes de arquivo...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="157"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="154"/>
         <source>Finding versions for hashes...</source>
         <translation>Encontrando versões para hashes...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="192"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="189"/>
         <source>Failed to parse versions response: %1</source>
         <translation>Falha ao analisar a resposta das versões: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="201"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="198"/>
         <source>Adding files...</source>
         <translation>Adicionando arquivos...</translation>
     </message>
@@ -10281,7 +10281,7 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <translation>O caminho não parece ser do MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="59"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
         <source>No author(s)</source>
         <translation>Nenhum autor(es)</translation>
     </message>
@@ -10570,27 +10570,27 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
         <translation>Abre um popup para revisar seus %1 selecionados e confirmar suas escolhas. Atalho: Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="131"/>
         <source>Confirm %1 to download</source>
         <translation>Confirmar %1 para serem baixados</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="137"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="142"/>
         <source>Warnings</source>
         <translation>Avisos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="148"/>
         <source>Abort</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="149"/>
         <source>Checking for dependencies...</source>
         <translation>Verificando dependências...</translation>
     </message>
