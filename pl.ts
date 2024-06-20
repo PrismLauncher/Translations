@@ -2093,7 +2093,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
@@ -2108,7 +2108,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>To jest zależne of metadanych modyfikacji. By zapewnić ich obecność zaktualizuj instancje. Instalacja aktualizacji nie jest wymagana.</translation>
+        <translation>To jest zależne od metadanych modyfikacji. By zapewnić ich obecność zaktualizuj instancje. Instalacja aktualizacji nie jest wymagana.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
@@ -2212,12 +2212,12 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyeksportuj listę modów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="182"/>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyeksportuj metadane modyfikacji do tekstu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -3477,7 +3477,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Próbowanie określenia typu instancji</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
@@ -4808,12 +4808,12 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="66"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstęp aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw to na 0 aby sprawdzić tylko podczas uruchomienia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
@@ -5515,27 +5515,27 @@ Powód:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="543"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się wyliczyć plików w archiwum</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="546"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyodrębnianie pustych archiwów wydaje się dziwne...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="550"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się wyszukać pierwszego pliku w pliku zip</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="590"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyodrębnianie %1 zostało anulowane, ponieważ znajdowało się poza docelową ścieżką %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="596"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się wyodrębnić pliku %1 do %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="610"/>
@@ -7425,12 +7425,12 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Z</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
@@ -7485,7 +7485,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj zainstalowane elementy</translation>
     </message>
 </context>
 <context>
@@ -11245,7 +11245,9 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>Czy na pewno chcesz wysłać %1 zrzutów ekranów do %2?
-Dla bezpieczeństwa swoich danych upewnij się dwukrotnie.</translation>
+Dla bezpieczeństwa swoich danych upewnij się dwukrotnie.
+
+Jesteś pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
@@ -11253,8 +11255,10 @@ Dla bezpieczeństwa swoich danych upewnij się dwukrotnie.</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Czy na pewno chcesz wysłać wybrany zrzut ekranu do %1?
-Dla bezpieczeństwa swoich danych upewnij się dwukrotnie.</translation>
+        <translation>Zamierzasz przesłać wybrany zrzut ekranu do %1.
+Powinieneś dokładnie sprawdzić, czy nie zawiera on informacji osobistych.
+
+Czy jesteś pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
