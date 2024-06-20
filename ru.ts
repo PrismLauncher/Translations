@@ -1499,7 +1499,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation>Копировать скриншоты</translation>
+        <translation>Скопировать снимки экрана</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
@@ -4021,7 +4021,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Нажмите «Добавить сборку», чтобы начать.</translation>
+        <translation>Нажмите «Добавить установку игры», чтобы начать.</translation>
     </message>
 </context>
 <context>
@@ -6668,7 +6668,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>Create instance shortcut</source>
-        <translation>Создать ярлык сборки</translation>
+        <translation>Создать ярлык установки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
@@ -6683,12 +6683,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Ярлык сборки создан на вашем рабочем столе!</translation>
+        <translation>Ярлык установки игры создан на вашем рабочем столе!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>Failed to create instance shortcut!</source>
-        <translation>Не удалось создать ярлык сборки!</translation>
+        <translation>Не удалось создать ярлык установки игры!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
@@ -6766,22 +6766,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Created a shortcut to this instance!</source>
-        <translation>Создан ярлык для этой сборки!</translation>
+        <translation>Ярлык этой установки игры создан!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1698"/>
         <source>Rename Instance</source>
-        <translation>Переименовать сборку</translation>
+        <translation>Переименовать установку игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1710"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>Папка вашей сборки содержит знак «!» в своём пути, это приводит к проблемам в Java!</translation>
+        <translation>Папка вашей установки игры содержит знак «!» в своём пути, что приводит к проблемам в Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>У вас есть два варианта: &lt;br/&gt; - изменить папку сборки в настройках &lt;br/&gt; - переместить сборку %1 в другую папку</translation>
+        <translation>У вас есть два варианта: &lt;br/&gt; — изменить папку установки игры в настройках &lt;br/&gt; — переместить эту установку %1 в другую папку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
@@ -6791,12 +6791,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Имя папки вашей сборки содержит «Rar$» - это значит, что вы не распаковали архив с лаунчером!</translation>
+        <translation>Имя папки вашей установки игры содержит «Rar$», что значит, что вы не распаковали архив с лаунчером!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>Папка сборки располагается во временной папке: «%1»!</translation>
+        <translation>Папка вашей установки игры во временной папке: «%1»!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1745"/>
@@ -6988,7 +6988,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Launch &amp;Offline</source>
-        <translation>Запустить &amp;Автономно</translation>
+        <translation>Запустить &amp;автономно</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
@@ -7220,19 +7220,19 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Показывать время, проведённое в сборках</translation>
+        <translation>Показывать время, &amp;проведённое в установках игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Показывать время, проведённое во всех сборках</translation>
+        <translation>Показывать время, проведённое во &amp;всех установках игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="137"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>Записывать время, проведённое в сборках</translation>
+        <translation>&amp;Записывать время, проведённое в установках игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
@@ -7478,7 +7478,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
         <source>Environments</source>
-        <translation>Окружения</translation>
+        <translation>Среды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
@@ -7586,12 +7586,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип выпуска</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Версии Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
@@ -7621,12 +7621,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>В какой среде работает мод.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
         <source>The mod loader.</source>
-        <translation>Загрузчик мода</translation>
+        <translation>Загрузчик модов.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
@@ -8791,7 +8791,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="187"/>
         <source>New Instance</source>
-        <translation>Новая сборка</translation>
+        <translation>Новая установка игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
@@ -8801,7 +8801,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation>Название:</translation>
+        <translation>&amp;Название:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="90"/>
@@ -8894,7 +8894,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/NullInstance.h" line="52"/>
         <source>Unknown instance type</source>
-        <translation>Неизвестный тип сборки</translation>
+        <translation>Неизвестный тип установки игры</translation>
     </message>
 </context>
 <context>
@@ -9750,7 +9750,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation>Использовать по умолчанию только для текущей сборки?</translation>
+        <translation>Использовать по умолчанию только в этой установке игры?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="39"/>
@@ -10342,7 +10342,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="10"/>
         <source>Change instance name</source>
-        <translation>Сменить название сборки</translation>
+        <translation>Переименовать установку игры</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="11"/>
@@ -10350,7 +10350,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation>Название сборки, похоже, включает старую версию. Вы хотите её обновить?
+        <translation>Похоже, что в названии установки игры есть номер старой версии. Хотите обновить его?
 
 Старое название: %1
 Новое название: %2</translation>
@@ -11239,7 +11239,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="69"/>
         <source>Screenshots</source>
-        <translation>Скриншоты</translation>
+        <translation>Снимки экрана</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
@@ -11268,8 +11268,8 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Вы собираетесь загрузить %1 скриншотов в %2.
-Вам следует дважды проверить отсутствие личной информации.
+        <translation>Вы собираетесь загрузить %1 снимка(-ов) в %2.
+Вам следует дважды проверить отсутствие на них личной информации.
 
 Вы уверены?</translation>
     </message>
@@ -11279,8 +11279,8 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Вы собираетесь загрузить выбранный скриншот в %1.
-Вам следует дважды проверить отсутствие личной информации.
+        <translation>Вы собираетесь загрузить выбранный снимок в %1.
+Вам следует дважды проверить отсутствие на нём личной информации.
 
 Вы уверены?</translation>
     </message>
@@ -11289,7 +11289,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="437"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
         <source>Failed to upload screenshots!</source>
-        <translation>Не удалось загрузить скриншоты!</translation>
+        <translation>Не удалось загрузить снимки экрана!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
@@ -11311,7 +11311,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
         <source>Screenshots upload aborted</source>
-        <translation>Загрузка скриншотов отменена</translation>
+        <translation>Загрузка снимков экрана отменена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
@@ -11322,12 +11322,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="413"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;Ссылка на загруженный скриншот&lt;/a&gt; скопирована.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Ссылка на загруженный снимок экрана&lt;/a&gt; скопирована в буфер обмена.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="456"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;Ссылка на загруженный альбом&lt;/a&gt; скопирована.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Ссылка на загруженный альбом&lt;/a&gt; скопирована в буфер обмена.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="504"/>
@@ -11335,8 +11335,8 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Вы собираетесь удалить %1 скриншотов(а).
-Это действие необратимо, и они исчезнут из папки.
+        <translation>Вы собираетесь удалить %1 снимка(-ов).
+Это действие необратимо и они исчезнут из папки.
 
 Вы уверены?</translation>
     </message>
@@ -11346,8 +11346,8 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Вы собираетесь удалить выбранный скриншот.
-Это действие необратимо, и он исчезнет из папки.
+        <translation>Вы собираетесь удалить выбранный снимок.
+Это действие необратимо и он исчезнет из папки.
 
 Вы уверены?</translation>
     </message>
@@ -12019,7 +12019,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="135"/>
         <source>Instance import has been aborted.</source>
-        <translation>Импорт сборки был отменён.</translation>
+        <translation>Импортирование установки игры было отменено.</translation>
     </message>
 </context>
 <context>
@@ -12081,7 +12081,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
         <source>Instance import has been aborted.</source>
-        <translation>Импорт сборки был отменён.</translation>
+        <translation>Импортирование установки игры было отменено.</translation>
     </message>
 </context>
 <context>
@@ -12421,7 +12421,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Instance update failed because: %1
 
 </source>
-        <translation>Не удалось обновить сборку по причине: %1
+        <translation>Не удалось обновить установку игры по причине: %1
 
 </translation>
     </message>
@@ -12511,7 +12511,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="20"/>
         <source>Creating instance from version %1</source>
-        <translation>Создание сборки на основе версии %1</translation>
+        <translation>Создание установки игры на основе версии %1</translation>
     </message>
 </context>
 <context>
@@ -12612,8 +12612,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="65"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation>Эта сборка несовместима с Java %1.
-Переключитесь на одну из следующих версий Java для этой сборки:</translation>
+        <translation>Эта установка игры несовместима с Java %1.
+Переключитесь на одну из следующих версий Java для запуска этой установки игры:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="70"/>
@@ -12623,7 +12623,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Перейдите в раздел настроек «Java», чтобы изменить свою версию Java или отключить проверку совместимости, если вы знаете, что делаете.</translation>
+        <translation>Перейдите в раздел настроек Java установки игры, чтобы изменить свою версию Java или отключить проверку совместимости, если вы знаете, что делаете.</translation>
     </message>
 </context>
 <context>
@@ -12826,7 +12826,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Remove selected component from the instance.</source>
-        <translation>Удалить выбранный компонент из сборки.</translation>
+        <translation>Удалить выбранный компонент из установки игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
@@ -12871,7 +12871,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation>Сразу получить файлы, необходимые для запуска.</translation>
+        <translation>Сразу скачать файлы, необходимые для запуска установки игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
@@ -12881,7 +12881,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>Открыть папку «.minecraft» сборки.</translation>
+        <translation>Открыть папку «.minecraft» установки игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
@@ -12891,7 +12891,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>Открыть папку библиотек сборки.</translation>
+        <translation>Открыть папку локальных библиотек установки игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
@@ -12941,7 +12941,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>Не удалось загрузить профиль сборки.</translation>
+        <translation>Не удалось загрузить профиль установки игры.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="278"/>
@@ -13035,7 +13035,7 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation>Невозможно скачивать Minecraft или обновлять сборки до тех пор, пока не будет добавлена хотя бы одна учётная запись.
+        <translation>Вы не сможете скачать Minecraft или обновлять установки игры, пока у вас не будет добавлена хотя бы одна учётная запись.
 Пожалуйста, добавьте учётную запись Microsoft.</translation>
     </message>
     <message>
@@ -13111,7 +13111,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="482"/>
         <source>Error updating instance</source>
-        <translation>Ошибка обновления сборки</translation>
+        <translation>Ошибка обновления установки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="59"/>
