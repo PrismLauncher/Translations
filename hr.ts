@@ -1965,7 +1965,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Dodaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="101"/>
@@ -2707,7 +2707,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="73"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vrijednost</translation>
     </message>
 </context>
 <context>
@@ -7046,7 +7046,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="90"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez grupe</translation>
     </message>
 </context>
 <context>
