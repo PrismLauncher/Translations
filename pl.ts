@@ -7440,47 +7440,47 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished"></translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wersje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż wszystkie wersje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation>Środowiska</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Klient</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Serwer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
@@ -7559,7 +7559,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Size</source>
-        <translation type="unfinished">Rozmiar</translation>
+        <translation>Rozmiar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
@@ -7574,12 +7574,12 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ Wydania</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wersje Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
@@ -7619,17 +7619,17 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wspierane wersje Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="221"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ wydania.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar modyfikacji.</translation>
     </message>
 </context>
 <context>
