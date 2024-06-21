@@ -551,7 +551,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>Не використовувати за замовчуванням</translation>
+        <translation>Не застосовувати за замовчуванням</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -3421,7 +3421,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Архів не містить розпізнаний тип мод-паку.</translation>
+        <translation>Архів не містить розпізнаний тип збірки.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -6323,7 +6323,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>No Default Account</source>
-        <translation>Немає облікового запису за замовчуванням</translation>
+        <translation>Обліковий запис за замовчуванням відсутній</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
@@ -7448,7 +7448,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
         <source>On what environment the mod is running.</source>
-        <translation>У якому середовищі мод  працює.</translation>
+        <translation>У якому середовищі мод працює.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
