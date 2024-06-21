@@ -9245,7 +9245,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="863"/>
         <source>No Valid Release Assets</source>
-        <translation>Немає дійсних ресурсів для релізу</translation>
+        <translation>Жодних Дійсних Випускних Активів</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="864"/>
