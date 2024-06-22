@@ -43,7 +43,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nota: Probablemente, quieras cambiar la Base URL al cambiar el tipo de servicio de pegado.</translation>
+        <translation>Nota: Probablemente, quieras cambiar la Base URL despues de cambiar el tipo de servicio de pegado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -71,7 +71,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Ingresa un ID de cliente personalizado para la autentificación de Microsoft.</translation>
+        <translation>Ingresa un ID de cliente personalizado para la autentificación de Microsoft aqui.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
