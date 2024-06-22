@@ -118,8 +118,8 @@
             "file" : "efbac495aa70900baf72eca8e62d228b1f3ab355.class",
             "sha1" : "efbac495aa70900baf72eca8e62d228b1f3ab355",
             "size" : 263449,
-            "translated" : 1884,
-            "fuzzy" : 1,
+            "translated" : 1885,
+            "fuzzy" : 0,
             "untranslated" : 62
         },
         "en_CA" : {
@@ -587,9 +587,9 @@
             "untranslated" : 69
         },
         "uk" : {
-            "file" : "710beeb522b2bbda9dd98b273e175d13f4f7ad3d.class",
-            "sha1" : "710beeb522b2bbda9dd98b273e175d13f4f7ad3d",
-            "size" : 282523,
+            "file" : "c08a9fffb4922918b0447d2605d3051ca22da7a7.class",
+            "sha1" : "c08a9fffb4922918b0447d2605d3051ca22da7a7",
+            "size" : 282515,
             "translated" : 1947,
             "fuzzy" : 0,
             "untranslated" : 0
