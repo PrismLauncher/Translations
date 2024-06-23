@@ -578,12 +578,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>管理外觀 (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>管理外觀</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -1088,12 +1088,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="98"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">驗證成功。</translation>
+        <translation>已成功完成驗證工作。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="104"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">無法連線至驗證伺服器。</translation>
+        <translation>無法連線至驗證伺服器。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="111"/>
@@ -1103,7 +1103,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="118"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">在驗證過程中出現錯誤。</translation>
+        <translation>在驗證過程中發生錯誤。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="125"/>
@@ -1118,7 +1118,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="139"/>
         <source>...</source>
-        <translation type="unfinished">…</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="140"/>
@@ -1985,12 +1985,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth 模組包</translation>
+        <translation>Modrinth 模組包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge 模組包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -2117,7 +2117,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
         <source>File</source>
-        <translation type="unfinished">檔案</translation>
+        <translation>檔案</translation>
     </message>
 </context>
 <context>
@@ -2211,12 +2211,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出模組清單</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="182"/>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>將模組後設資料匯出為文字</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -2776,7 +2776,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge 模組包</translation>
     </message>
     <message>
         <source> (Current)</source>
@@ -3089,7 +3089,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已啟動處理程序：%1</translation>
     </message>
 </context>
 <context>
@@ -3461,7 +3461,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>正在嘗試確定實例類型</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
