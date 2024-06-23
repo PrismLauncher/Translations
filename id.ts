@@ -12188,12 +12188,6 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
-        <source>Select components</source>
-        <oldsource>Components (*.json)</oldsource>
-        <translation type="unfinished">Komponen-komponen (*.json)</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Components</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12655,12 +12649,6 @@ Disarankan untuk memasang ulang MCEdit.</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Select a Minecraft world zip</source>
         <translation>Pilih dunia Minecraft yang berbentuk zip</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
-        <source>Select a Minecraft world zip</source>
-        <oldsource>Minecraft World Zip File (*.zip)</oldsource>
-        <translation type="unfinished">File ZIP Dunia Minecraft (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>

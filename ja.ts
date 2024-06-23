@@ -12324,12 +12324,6 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
-        <source>Select components</source>
-        <oldsource>Components (*.json)</oldsource>
-        <translation type="unfinished">コンポーネント (*.json)</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Components</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12805,12 +12799,6 @@ MCEditの再インストールが必要なようです。</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Select a Minecraft world zip</source>
         <translation>Minecraftのワールドを選択</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
-        <source>Select a Minecraft world zip</source>
-        <oldsource>Minecraft World Zip File (*.zip)</oldsource>
-        <translation type="unfinished">Minecraftのワールド (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>

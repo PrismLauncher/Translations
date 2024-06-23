@@ -11040,12 +11040,6 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
-        <source>Select components</source>
-        <oldsource>Components (*.json)</oldsource>
-        <translation type="unfinished">Komponantoj (*.json)</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Components</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11437,12 +11431,6 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
-        <source>Select a Minecraft world zip</source>
-        <oldsource>Minecraft World Zip File (*.zip)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

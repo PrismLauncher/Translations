@@ -12725,12 +12725,6 @@ Detta är permanent och kommer att helt ta bort den anpassade komponenten.
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
-        <source>Select components</source>
-        <oldsource>Components (*.json)</oldsource>
-        <translation type="unfinished">Komponenter (*.json)</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Components</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13206,12 +13200,6 @@ Det kan vara nödvändigt att installera om det.</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Select a Minecraft world zip</source>
         <translation>Välj en Minecraft-värld (ZIP-format)</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
-        <source>Select a Minecraft world zip</source>
-        <oldsource>Minecraft World Zip File (*.zip)</oldsource>
-        <translation type="unfinished">Minecraftvärld (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
