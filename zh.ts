@@ -1999,6 +1999,16 @@ Some versions of Minecraft may not launch.
         <translation>导出 %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
+        <source>Modrinth pack</source>
+        <translation type="unfinished">Modrinth 整合包</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
+        <source>CurseForge pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Error</source>
         <translation>错误</translation>
@@ -2119,6 +2129,11 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="162"/>
         <source>Export %1</source>
         <translation>导出 %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
+        <source>File</source>
+        <translation type="unfinished">文件</translation>
     </message>
 </context>
 <context>
@@ -2773,6 +2788,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>Choose update file</source>
         <translation>选择更新文件</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <source>CurseForge pack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4346,33 +4366,33 @@ Please select one of the following or browse for a java executable.</oldsource>
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="67"/>
+        <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
         <translation>未指定实例！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="72"/>
+        <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>指定的 Java 参数无效，请首先解决此问题。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="89"/>
+        <location filename="src/launcher/LaunchController.cpp" line="90"/>
         <source>No Accounts</source>
         <translation>无账号</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="90"/>
+        <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>在游玩 Minecraft 之前，您至少需要链接一个拥有 Minecraft 的 Microsoft 账户。你想现在打开账号管理添加账号吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="116"/>
+        <location filename="src/launcher/LaunchController.cpp" line="117"/>
         <source>Which account would you like to use?</source>
         <translation>您想使用哪个账号？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="188"/>
+        <location filename="src/launcher/LaunchController.cpp" line="189"/>
         <source>No account selected for launch.</source>
         <translation>没有选中用于启动游戏的账号。</translation>
     </message>
@@ -4381,42 +4401,42 @@ Please select one of the following or browse for a java executable.</oldsource>
         <translation type="vanished">您的账户已登出。请再次输入密码并重新登录。&lt;br /&gt; &lt;br /&gt; 这可能是因为您更改了密码。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="205"/>
+        <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>Continue launch?</source>
         <translation>继续启动？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="206"/>
+        <location filename="src/launcher/LaunchController.cpp" line="207"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>在 %1 次尝试后，我们似乎仍无法启动。您想继续尝试吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="157"/>
+        <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>Player name</source>
         <translation>玩家名称</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="150"/>
+        <location filename="src/launcher/LaunchController.cpp" line="151"/>
         <source>Choose your offline mode player name.</source>
         <translation>选择离线游戏时使用的玩家名。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="152"/>
+        <location filename="src/launcher/LaunchController.cpp" line="153"/>
         <source>Choose your demo mode player name.</source>
         <translation>选择体验模式玩家名。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="250"/>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Received undetermined session status during login.</source>
         <translation>登录时收到了不确定的会话状态。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="134"/>
+        <location filename="src/launcher/LaunchController.cpp" line="135"/>
         <source>Play demo?</source>
         <translation>是否游玩演示模式？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="136"/>
+        <location filename="src/launcher/LaunchController.cpp" line="137"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -4427,84 +4447,84 @@ Do you want to play the demo?</source>
 是否游玩演示模式？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>Play Demo</source>
         <translation>游玩演示</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="140"/>
+        <location filename="src/launcher/LaunchController.cpp" line="141"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="265"/>
+        <location filename="src/launcher/LaunchController.cpp" line="266"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>启动已取消——账号未购买 Minecraft。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="280"/>
+        <location filename="src/launcher/LaunchController.cpp" line="281"/>
         <source>Play Offline</source>
         <translation>离线游戏</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="287"/>
+        <location filename="src/launcher/LaunchController.cpp" line="288"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>账号已过期，需要手动重新登录。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="288"/>
+        <location filename="src/launcher/LaunchController.cpp" line="289"/>
         <source>Account refresh failed</source>
         <translation>账号刷新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
+        <location filename="src/launcher/LaunchController.cpp" line="295"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>启动器的客户端标识已更改。请删除此账号，然后重新添加。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="295"/>
+        <location filename="src/launcher/LaunchController.cpp" line="296"/>
         <source>Client identification changed</source>
         <translation>客户端标识已更改</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>服务器上不再存在该账号。它可能已迁移，在这种情况下，请添加您迁移到的新账号。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="304"/>
+        <location filename="src/launcher/LaunchController.cpp" line="305"/>
         <source>Account gone</source>
         <translation>账号不存在</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <location filename="src/launcher/LaunchController.cpp" line="312"/>
         <source>Failed to launch.</source>
         <translation>启动失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="320"/>
-        <location filename="src/launcher/LaunchController.cpp" line="394"/>
+        <location filename="src/launcher/LaunchController.cpp" line="321"/>
+        <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Error!</source>
         <translation>错误！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="320"/>
         <location filename="src/launcher/LaunchController.cpp" line="321"/>
+        <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>无法加载实例配置文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="327"/>
+        <location filename="src/launcher/LaunchController.cpp" line="328"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>无法实例化一个启动器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="394"/>
+        <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>分析器检查 %1 时发生错误：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="407"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>&amp;Launch</source>
         <translation>启动(&amp;L)</translation>
     </message>
@@ -4513,7 +4533,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">无法启动 Profiler：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="401"/>
+        <location filename="src/launcher/LaunchController.cpp" line="385"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -4522,7 +4542,7 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="405"/>
+        <location filename="src/launcher/LaunchController.cpp" line="389"/>
         <source>Waiting.</source>
         <translation>等待中.</translation>
     </message>
@@ -4531,27 +4551,27 @@ Do you want to play the demo?</source>
         <translation type="vanished">运行</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="413"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>无法启动 Profiler：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="414"/>
+        <location filename="src/launcher/LaunchController.cpp" line="398"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="425"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="438"/>
         <source>Kill Minecraft?</source>
         <translation>强行退出 Minecraft？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="455"/>
+        <location filename="src/launcher/LaunchController.cpp" line="439"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>这可能导致实例出现错误，这应该只在 Minecraft 由于一些原因冻结的时候使用</translation>
     </message>
@@ -6627,6 +6647,11 @@ Are you sure?</source>
         <translation>启动器位于解压出来的文件夹中，无法创建快捷方式。</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <source>Desktop Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>快捷方式已创建！</translation>
@@ -6700,9 +6725,8 @@ Are you sure?</source>
         <translation>无法创建快捷方式的图标。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation>桌面快捷方式 (*.desktop)</translation>
+        <translation type="vanished">桌面快捷方式 (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
@@ -8396,6 +8420,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Choose update file</source>
         <translation>选择更新文件</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <source>Modrinth pack</source>
+        <translation type="unfinished">Modrinth 整合包</translation>
     </message>
 </context>
 <context>
@@ -11563,77 +11592,77 @@ Are you sure?</source>
         <translation>上传皮肤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="40"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="43"/>
         <source>Model</source>
         <translation>模型</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="46"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Classic</source>
         <translation>经典</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="56"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Slim</source>
         <translation>苗条</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="66"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="69"/>
         <source>Cape</source>
         <translation>披风</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="107"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="113"/>
         <source>Open Folder</source>
         <translation>打开文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="114"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="120"/>
         <source>Reset Skin</source>
         <translation>重设皮肤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="128"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="134"/>
         <source>Import URL</source>
         <translation>从 URL 导入</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="135"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="141"/>
         <source>Import user</source>
         <translation>从用户导入</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="142"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="148"/>
         <source>Import File</source>
         <translation>从文件导入</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="164"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>&amp;Delete Skin</source>
         <translation>删除原皮肤(&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Deletes selected skin</source>
         <translation>删除选定的皮肤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="176"/>
         <source>Del</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="175"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>&amp;Rename Skin</source>
         <translation>重命名皮肤(&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>Rename selected skin</source>
         <translation>重命名选定的皮肤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="187"/>
         <source>F2</source>
         <translation>F2</translation>
     </message>
@@ -12872,8 +12901,22 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
+        <source>Minecraft.jar mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
+        <source>Minecraft.jar replacement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
+        <source>Java agents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>需要添加到 Minecraft.jar 中的 Mod (*.zip *.jar)</translation>
+        <translation type="vanished">需要添加到 Minecraft.jar 中的 Mod (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
@@ -12881,9 +12924,8 @@ Are you sure?</source>
         <translation>选择 Jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
         <source>Minecraft.jar replacement (*.jar)</source>
-        <translation>用于替换的 Minecraft.jar 文件（*.jar）</translation>
+        <translation type="vanished">用于替换的 Minecraft.jar 文件（*.jar）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
@@ -12892,8 +12934,14 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
-        <source>Components (*.json)</source>
-        <translation>组件 (*.json)</translation>
+        <source>Select components</source>
+        <oldsource>Components (*.json)</oldsource>
+        <translation type="unfinished">组件 (*.json)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
+        <source>Components</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
@@ -12911,9 +12959,8 @@ Are you sure?</source>
         <translation>选择探针</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
         <source>Java agents (*.jar)</source>
-        <translation>Java 探针(*.jar)</translation>
+        <translation type="vanished">Java 探针(*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="378"/>
@@ -13369,8 +13416,14 @@ It may be necessary to reinstall it.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
-        <source>Minecraft World Zip File (*.zip)</source>
-        <translation>Minecraft 世界 Zip 文件 (*.zip)</translation>
+        <source>Select a Minecraft world zip</source>
+        <oldsource>Minecraft World Zip File (*.zip)</oldsource>
+        <translation type="unfinished">Minecraft 世界 Zip 文件 (*.zip)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
+        <source>Minecraft World Zip File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>

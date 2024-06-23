@@ -1971,6 +1971,16 @@ Vissa versioner av Minecraft kanske inte startar.
         <translation>Exportera %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
+        <source>Modrinth pack</source>
+        <translation type="unfinished">Modrinth-paket</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
+        <source>CurseForge pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Error</source>
         <translation>Fel</translation>
@@ -2091,6 +2101,11 @@ Vissa versioner av Minecraft kanske inte startar.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="162"/>
         <source>Export %1</source>
         <translation>Exportera %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
+        <source>File</source>
+        <translation type="unfinished">Fil</translation>
     </message>
 </context>
 <context>
@@ -2745,6 +2760,11 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>Choose update file</source>
         <translation>Välj uppdateringsfil</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <source>CurseForge pack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4296,33 +4316,33 @@ Vänligen välj en av följande eller sök efter en körbar Java-fil.</translati
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="67"/>
+        <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
         <translation>Ingen instans vald!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="72"/>
+        <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>Ogiltiga Java-argument har angetts. Åtgärda detta först.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="89"/>
+        <location filename="src/launcher/LaunchController.cpp" line="90"/>
         <source>No Accounts</source>
         <translation>Inga konton</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="90"/>
+        <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>För att spela Minecraft måste du ha minst ett Microsoft-konto som äger Minecraft inloggat. Vill du öppna kontohanteraren för att lägga till ett konto nu?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="116"/>
+        <location filename="src/launcher/LaunchController.cpp" line="117"/>
         <source>Which account would you like to use?</source>
         <translation>Vilket konto vill du använda?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="188"/>
+        <location filename="src/launcher/LaunchController.cpp" line="189"/>
         <source>No account selected for launch.</source>
         <translation>Inget konto har valts för start.</translation>
     </message>
@@ -4331,42 +4351,42 @@ Vänligen välj en av följande eller sök efter en körbar Java-fil.</translati
         <translation type="vanished">Ditt konto är inte inloggat just nu. Skriv in ditt lösenord för att logga in igen. &lt;br /&gt;&lt;br /&gt; Detta kan hända om du har nyss ändrat ditt lösenord.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="205"/>
+        <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>Continue launch?</source>
         <translation>Fortsätt starta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="206"/>
+        <location filename="src/launcher/LaunchController.cpp" line="207"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Det verkar som att vi inte kunde starta efter %1 försök. Vill du fortsätta försöka?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="157"/>
+        <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>Player name</source>
         <translation>Spelarnamn</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="150"/>
+        <location filename="src/launcher/LaunchController.cpp" line="151"/>
         <source>Choose your offline mode player name.</source>
         <translation>Välj vilket spelarnamn du vill använda för att spela offline.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="152"/>
+        <location filename="src/launcher/LaunchController.cpp" line="153"/>
         <source>Choose your demo mode player name.</source>
         <translation>Välj spelarnamn för demoläget.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="250"/>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Received undetermined session status during login.</source>
         <translation>Mottog obestämd sessions-status under inloggning.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="134"/>
+        <location filename="src/launcher/LaunchController.cpp" line="135"/>
         <source>Play demo?</source>
         <translation>Spela i demoläge?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="136"/>
+        <location filename="src/launcher/LaunchController.cpp" line="137"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -4377,84 +4397,84 @@ Du måste först köpa spelet för att kunna spela det.
 Vill du spela i demoläget?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>Play Demo</source>
         <translation>Spela demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="140"/>
+        <location filename="src/launcher/LaunchController.cpp" line="141"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="265"/>
+        <location filename="src/launcher/LaunchController.cpp" line="266"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Start avbruten - kontot äger inte Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="280"/>
+        <location filename="src/launcher/LaunchController.cpp" line="281"/>
         <source>Play Offline</source>
         <translation>Spela offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="287"/>
+        <location filename="src/launcher/LaunchController.cpp" line="288"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>Kontots inloggning har löpt ut och måste manuellt loggas in på igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="288"/>
+        <location filename="src/launcher/LaunchController.cpp" line="289"/>
         <source>Account refresh failed</source>
         <translation>Uppdatering av kontot misslyckades</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
+        <location filename="src/launcher/LaunchController.cpp" line="295"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>Launcherns klientidentifiering har ändrats. Vänligen ta bort detta konto och lägg till det igen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="295"/>
+        <location filename="src/launcher/LaunchController.cpp" line="296"/>
         <source>Client identification changed</source>
         <translation>Klientidentifiering har ändrats</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Kontot finns inte längre på servrarna. Det kan ha migrerats. I så fall bör du lägga till kontot du migrerade detta till.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="304"/>
+        <location filename="src/launcher/LaunchController.cpp" line="305"/>
         <source>Account gone</source>
         <translation>Konto borta</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <location filename="src/launcher/LaunchController.cpp" line="312"/>
         <source>Failed to launch.</source>
         <translation>Kunde inte starta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="320"/>
-        <location filename="src/launcher/LaunchController.cpp" line="394"/>
+        <location filename="src/launcher/LaunchController.cpp" line="321"/>
+        <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Error!</source>
         <translation>Fel!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="320"/>
         <location filename="src/launcher/LaunchController.cpp" line="321"/>
+        <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Kunde inte läsa instansens profilinformation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="327"/>
+        <location filename="src/launcher/LaunchController.cpp" line="328"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Kunde inte instansiera launchern.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="394"/>
+        <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Kontroll av prestationsverktyg för %1 misslyckades: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="407"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>&amp;Launch</source>
         <translation>&amp;Starta</translation>
     </message>
@@ -4463,7 +4483,7 @@ Vill du spela i demoläget?</translation>
         <translation type="vanished">Kunde inte starta prestationsverktyget: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="401"/>
+        <location filename="src/launcher/LaunchController.cpp" line="385"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -4472,7 +4492,7 @@ Vill du spela i demoläget?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="405"/>
+        <location filename="src/launcher/LaunchController.cpp" line="389"/>
         <source>Waiting.</source>
         <translation>Väntar.</translation>
     </message>
@@ -4481,27 +4501,27 @@ Vill du spela i demoläget?</translation>
         <translation type="vanished">Starta</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="413"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Kunde inte starta prestationsverktyget: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="414"/>
+        <location filename="src/launcher/LaunchController.cpp" line="398"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="425"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="438"/>
         <source>Kill Minecraft?</source>
         <translation>Tvångsavsluta Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="455"/>
+        <location filename="src/launcher/LaunchController.cpp" line="439"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Detta kan orsaka att instansen blir oanvändbar och ska bara användas om Minecraft är fruset av någon anledning</translation>
     </message>
@@ -6500,6 +6520,11 @@ Vill du fortsätta?</numerusform>
         <translation>Launchern är i mappen som den extraherades från och kan därför inte skapa genvägar.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <source>Desktop Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Skapade en genväg till denna instans på skrivbordet!</translation>
@@ -6583,9 +6608,8 @@ Vill du fortsätta?</numerusform>
         <translation>Kunde inte skapa ikon för genvägen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation>Skrivbordsobjekt (*.desktop)</translation>
+        <translation type="vanished">Skrivbordsobjekt (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
@@ -8213,6 +8237,11 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Choose update file</source>
         <translation>Välj uppdateringsfil</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <source>Modrinth pack</source>
+        <translation type="unfinished">Modrinth-paket</translation>
     </message>
 </context>
 <context>
@@ -11358,77 +11387,77 @@ Detta är permanent och servern kommer att försvinna från din lista för allti
         <translation>Skin uppladdning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="40"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="43"/>
         <source>Model</source>
         <translation>Modell</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="46"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Classic</source>
         <translation>Klassisk</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="56"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Slim</source>
         <translation>Smal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="66"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="69"/>
         <source>Cape</source>
         <translation>Kappa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="107"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="113"/>
         <source>Open Folder</source>
         <translation>Öppna mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="114"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="120"/>
         <source>Reset Skin</source>
         <translation>Återställ skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="128"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="134"/>
         <source>Import URL</source>
         <translation>Import URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="135"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="141"/>
         <source>Import user</source>
         <translation>Importera användare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="142"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="148"/>
         <source>Import File</source>
         <translation>Importera fil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="164"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>&amp;Delete Skin</source>
         <translation>&amp;Radera skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Deletes selected skin</source>
         <translation>Raderar valda skins</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="176"/>
         <source>Del</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="175"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>&amp;Rename Skin</source>
         <translation>&amp;Byt namn på skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>Rename selected skin</source>
         <translation>Byt namn på valt skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="187"/>
         <source>F2</source>
         <translation>F2</translation>
     </message>
@@ -12663,8 +12692,22 @@ Detta är permanent och kommer att helt ta bort den anpassade komponenten.
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
+        <source>Minecraft.jar mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
+        <source>Minecraft.jar replacement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
+        <source>Java agents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>Minecraft.jar-mods (*.zip *.jar)</translation>
+        <translation type="vanished">Minecraft.jar-mods (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
@@ -12672,9 +12715,8 @@ Detta är permanent och kommer att helt ta bort den anpassade komponenten.
         <translation>Välj JAR</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
         <source>Minecraft.jar replacement (*.jar)</source>
-        <translation>Minecraft.jar-ersättning (*.jar)</translation>
+        <translation type="vanished">Minecraft.jar-ersättning (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
@@ -12683,8 +12725,14 @@ Detta är permanent och kommer att helt ta bort den anpassade komponenten.
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
-        <source>Components (*.json)</source>
-        <translation>Komponenter (*.json)</translation>
+        <source>Select components</source>
+        <oldsource>Components (*.json)</oldsource>
+        <translation type="unfinished">Komponenter (*.json)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
+        <source>Components</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
@@ -12702,9 +12750,8 @@ Detta är permanent och kommer att helt ta bort den anpassade komponenten.
         <translation>Välj agenter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
         <source>Java agents (*.jar)</source>
-        <translation>Java-agenter (*.jar)</translation>
+        <translation type="vanished">Java-agenter (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="378"/>
@@ -13162,8 +13209,14 @@ Det kan vara nödvändigt att installera om det.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
-        <source>Minecraft World Zip File (*.zip)</source>
-        <translation>Minecraftvärld (*.zip)</translation>
+        <source>Select a Minecraft world zip</source>
+        <oldsource>Minecraft World Zip File (*.zip)</oldsource>
+        <translation type="unfinished">Minecraftvärld (*.zip)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
+        <source>Minecraft World Zip File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>

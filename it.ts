@@ -1987,6 +1987,16 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
         <translation>Esporta %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
+        <source>Modrinth pack</source>
+        <translation type="unfinished">Pacchetto Modrinth</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
+        <source>CurseForge pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Error</source>
         <translation>Errore</translation>
@@ -2107,6 +2117,11 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="162"/>
         <source>Export %1</source>
         <translation>Esporta %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
+        <source>File</source>
+        <translation type="unfinished">File</translation>
     </message>
 </context>
 <context>
@@ -2761,6 +2776,11 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>Choose update file</source>
         <translation>Scegli file di aggiornamento</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
+        <source>CurseForge pack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4308,33 +4328,33 @@ Per favore seleziona una delle seguenti o cerca l&apos;eseguibile di Java.</tran
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="67"/>
+        <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
         <translation>Nessuna istanza specificata!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="72"/>
+        <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
         <translation>Argomenti Java specificati non validi. Si prega di risolvere prima questo problema.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="89"/>
+        <location filename="src/launcher/LaunchController.cpp" line="90"/>
         <source>No Accounts</source>
         <translation>Nessun Account</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="90"/>
+        <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation>Per giocare a Minecraft, è necessario che sia connesso almeno un account Microsoft che abbia possesso del gioco. Vuoi aprire il gestore degli account per aggiungerne uno adesso?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="116"/>
+        <location filename="src/launcher/LaunchController.cpp" line="117"/>
         <source>Which account would you like to use?</source>
         <translation>Quale account desideri utilizzare?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="188"/>
+        <location filename="src/launcher/LaunchController.cpp" line="189"/>
         <source>No account selected for launch.</source>
         <translation>Nessun account selezionato per l&apos;avvio.</translation>
     </message>
@@ -4343,42 +4363,42 @@ Per favore seleziona una delle seguenti o cerca l&apos;eseguibile di Java.</tran
         <translation type="vanished">Il tuo account non è attualmente connesso. Inserisci la tua password per accedere nuovamente. &lt;br /&gt; &lt;br /&gt; Questo potrebbe essere causato da una modifica della password.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="205"/>
+        <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>Continue launch?</source>
         <translation>Continuare l&apos;avvio?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="206"/>
+        <location filename="src/launcher/LaunchController.cpp" line="207"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>Sembra che non sia stato possibile avviare l&apos;istanza dopo %1 tentativi. Vuoi continuare a provare?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="157"/>
+        <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>Player name</source>
         <translation>Nome giocatore</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="150"/>
+        <location filename="src/launcher/LaunchController.cpp" line="151"/>
         <source>Choose your offline mode player name.</source>
         <translation>Scegli il nome del tuo personaggio offline.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="152"/>
+        <location filename="src/launcher/LaunchController.cpp" line="153"/>
         <source>Choose your demo mode player name.</source>
         <translation>Scegli il nome del tuo personaggio della modalità demo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="250"/>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Received undetermined session status during login.</source>
         <translation>Ricevuto uno stato di sessione indeterminato durante il login.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="134"/>
+        <location filename="src/launcher/LaunchController.cpp" line="135"/>
         <source>Play demo?</source>
         <translation>Giocare alla demo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="136"/>
+        <location filename="src/launcher/LaunchController.cpp" line="137"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -4389,84 +4409,84 @@ Devi prima comprare il gioco per giocarlo.
 Vuoi giocare alla demo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="139"/>
+        <location filename="src/launcher/LaunchController.cpp" line="140"/>
         <source>Play Demo</source>
         <translation>Gioca alla demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="140"/>
+        <location filename="src/launcher/LaunchController.cpp" line="141"/>
         <source>Cancel</source>
         <translation>Annulla</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="265"/>
+        <location filename="src/launcher/LaunchController.cpp" line="266"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>L&apos;avvio é stato annullato - l&apos;account non possiede Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="280"/>
+        <location filename="src/launcher/LaunchController.cpp" line="281"/>
         <source>Play Offline</source>
         <translation>Avvia Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="287"/>
+        <location filename="src/launcher/LaunchController.cpp" line="288"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>L&apos;account è scaduto e deve essere rieseguito l&apos;accesso manualmente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="288"/>
+        <location filename="src/launcher/LaunchController.cpp" line="289"/>
         <source>Account refresh failed</source>
         <translation>Aggiornamento account fallito</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
+        <location filename="src/launcher/LaunchController.cpp" line="295"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>L&apos;identificazione del client del launcher è cambiata. Rimuovi questo account e aggiungilo di nuovo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="295"/>
+        <location filename="src/launcher/LaunchController.cpp" line="296"/>
         <source>Client identification changed</source>
         <translation>Identificazione del cliente modificata</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>L&apos;account non esiste più sui server. Potrebbe essere stato migrato, in questo caso si prega di aggiungere il nuovo account a cui è stato migrato.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="304"/>
+        <location filename="src/launcher/LaunchController.cpp" line="305"/>
         <source>Account gone</source>
         <translation>Account migrato</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="311"/>
+        <location filename="src/launcher/LaunchController.cpp" line="312"/>
         <source>Failed to launch.</source>
         <translation>Impossibile avviare.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="320"/>
-        <location filename="src/launcher/LaunchController.cpp" line="394"/>
+        <location filename="src/launcher/LaunchController.cpp" line="321"/>
+        <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Error!</source>
         <translation>Errore!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="320"/>
         <location filename="src/launcher/LaunchController.cpp" line="321"/>
+        <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Impossibile caricare il profilo dell&apos;istanza.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="327"/>
+        <location filename="src/launcher/LaunchController.cpp" line="328"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Impossibile istanziare un launcher.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="394"/>
+        <location filename="src/launcher/LaunchController.cpp" line="378"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>Il controllo del profiler per %1 non è riuscito: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="407"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>&amp;Launch</source>
         <translation>Avvia</translation>
     </message>
@@ -4475,7 +4495,7 @@ Vuoi giocare alla demo?</translation>
         <translation type="vanished">Impossibile avviare il profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="401"/>
+        <location filename="src/launcher/LaunchController.cpp" line="385"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -4484,7 +4504,7 @@ Vuoi giocare alla demo?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="405"/>
+        <location filename="src/launcher/LaunchController.cpp" line="389"/>
         <source>Waiting.</source>
         <translation>In attesa.</translation>
     </message>
@@ -4493,27 +4513,27 @@ Vuoi giocare alla demo?</translation>
         <translation type="vanished">Avvia</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="413"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Impossibile avviare il profilatore: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="414"/>
+        <location filename="src/launcher/LaunchController.cpp" line="398"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="425"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="454"/>
+        <location filename="src/launcher/LaunchController.cpp" line="438"/>
         <source>Kill Minecraft?</source>
         <translation>Terminare Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="455"/>
+        <location filename="src/launcher/LaunchController.cpp" line="439"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Può corrompere l&apos;istanza e dovrebbe essere usato solo se Minecraft è bloccato per qualche ragione</translation>
     </message>
@@ -6591,6 +6611,11 @@ Sei sicuro?</translation>
         <translation>Il launcher è nella cartella da cui è stato estratto, quindi non è possibile creare collegamenti.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <source>Desktop Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Creato un collegamento di questa istanza sul tuo desktop!</translation>
@@ -6656,9 +6681,8 @@ Sei sicuro?</translation>
         <translation>Impossibile creare un icona per il collegamento.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation>Elementi Desktop (*.desktop)</translation>
+        <translation type="vanished">Elementi Desktop (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
@@ -8312,6 +8336,11 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Choose update file</source>
         <translation>Scegli file di aggiornamento</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
+        <source>Modrinth pack</source>
+        <translation type="unfinished">Pacchetto Modrinth</translation>
     </message>
 </context>
 <context>
@@ -11464,77 +11493,77 @@ Sei sicuro?</translation>
         <translation type="unfinished">Carica skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="40"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="43"/>
         <source>Model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="46"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Classic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="56"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Slim</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="66"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="69"/>
         <source>Cape</source>
         <translation type="unfinished">Mantello</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="107"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="113"/>
         <source>Open Folder</source>
         <translation type="unfinished">Apri cartella</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="114"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="120"/>
         <source>Reset Skin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="128"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="134"/>
         <source>Import URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="135"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="141"/>
         <source>Import user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="142"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="148"/>
         <source>Import File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="164"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>&amp;Delete Skin</source>
         <translation type="unfinished">Elimina skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="167"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Deletes selected skin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="176"/>
         <source>Del</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="175"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>&amp;Rename Skin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="178"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>Rename selected skin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
+        <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="187"/>
         <source>F2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12771,8 +12800,22 @@ Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
+        <source>Minecraft.jar mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
+        <source>Minecraft.jar replacement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
+        <source>Java agents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>Mod per minecraft.jar (*.zip *.jar)</translation>
+        <translation type="vanished">Mod per minecraft.jar (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
@@ -12780,9 +12823,8 @@ Sei sicuro?</translation>
         <translation>Seleziona il jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
         <source>Minecraft.jar replacement (*.jar)</source>
-        <translation>Minecraft.jar sostitutivo (*.jar)</translation>
+        <translation type="vanished">Minecraft.jar sostitutivo (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
@@ -12791,8 +12833,14 @@ Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
-        <source>Components (*.json)</source>
-        <translation>Componenti (*.json)</translation>
+        <source>Select components</source>
+        <oldsource>Components (*.json)</oldsource>
+        <translation type="unfinished">Componenti (*.json)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
+        <source>Components</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
@@ -12810,9 +12858,8 @@ Sei sicuro?</translation>
         <translation>Seleziona agenti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
         <source>Java agents (*.jar)</source>
-        <translation>Agenti Java (*.jar)</translation>
+        <translation type="vanished">Agenti Java (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="378"/>
@@ -13268,8 +13315,14 @@ Potrebbe essere necessario reinstallarlo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
-        <source>Minecraft World Zip File (*.zip)</source>
-        <translation>File zip del mondo (*.zip)</translation>
+        <source>Select a Minecraft world zip</source>
+        <oldsource>Minecraft World Zip File (*.zip)</oldsource>
+        <translation type="unfinished">File zip del mondo (*.zip)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
+        <source>Minecraft World Zip File</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
