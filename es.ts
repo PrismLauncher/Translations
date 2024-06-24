@@ -2001,12 +2001,12 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Pack de Modrinth</translation>
+        <translation>Modrinth Pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge Pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -2792,7 +2792,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge Pack</translation>
     </message>
     <message>
         <source> (Current)</source>
@@ -6653,7 +6653,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Entradas de escritorio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
@@ -7537,12 +7537,12 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Size</source>
-        <translation>Talla</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Side</source>
-        <translation>Lado</translation>
+        <translation>Entorno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
@@ -7556,7 +7556,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Release Type</source>
-        <translation>Tipo de lanzamiento</translation>
+        <translation>Estado del mod</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
@@ -7606,7 +7606,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="221"/>
         <source>The release type.</source>
-        <translation>El tipo de lanzamiento.</translation>
+        <translation>El estado del mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
@@ -8413,7 +8413,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Pack de Modrinth</translation>
+        <translation>Modrinth Pack</translation>
     </message>
 </context>
 <context>
@@ -10852,7 +10852,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="200"/>
         <source>Size</source>
-        <translation>Talla</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -10923,7 +10923,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
-        <translation>Talla</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
@@ -12146,7 +12146,7 @@ falta inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Size</source>
-        <translation>Talla</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="90"/>
@@ -12901,17 +12901,17 @@ Esto es permanente y eliminará por completo el componente personalizado.
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Minecraft.jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minecraft.jar mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft.jar reemplazo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Agentes de Java</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -12934,7 +12934,7 @@ Esto es permanente y eliminará por completo el componente personalizado.
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Componentes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
@@ -13410,7 +13410,7 @@ Es necesario reinstalarlo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Mundo Archivo Zip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
