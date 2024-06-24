@@ -574,12 +574,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Quản lí Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Quản lí Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -1933,12 +1933,12 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth pack</translation>
+        <translation>Gói Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Gói CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -2716,7 +2716,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Gói CurseForge</translation>
     </message>
 </context>
 <context>
@@ -3366,7 +3366,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang cố gắng xác định loại phiên bản</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
