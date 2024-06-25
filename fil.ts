@@ -2587,7 +2587,7 @@ Subukan muli.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pack ng CurseForge</translation>
     </message>
 </context>
 <context>
@@ -2927,7 +2927,7 @@ Subukan muli.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pack ng Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
@@ -3912,7 +3912,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="141"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kanselahin</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="266"/>
@@ -4863,7 +4863,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="89"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kanselahin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="131"/>
@@ -6271,7 +6271,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">File</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="111"/>
@@ -6909,7 +6909,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pack ng Modrinth</translation>
     </message>
 </context>
 <context>
