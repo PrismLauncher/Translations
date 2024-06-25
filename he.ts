@@ -81,7 +81,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="320"/>
         <source>User Agent</source>
-        <translation type="unfinished">סוכן משתמש</translation>
+        <translation>סוכן משתמש</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="329"/>
