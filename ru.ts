@@ -847,11 +847,11 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Успешное обновление!
+        <translation>Обновление успешно
 
 Теперь вы используете %1.
 
-Подробности обновления доступны в журнале установки:
+Подробности об обновлении доступны в журнале установки:
 %1</translation>
     </message>
     <message>
@@ -2011,12 +2011,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Сборка Modrinth</translation>
+        <translation>Сборка Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Сборка CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -2143,7 +2143,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
 </context>
 <context>
@@ -2802,7 +2802,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Сборка CurseForge</translation>
     </message>
 </context>
 <context>
@@ -6709,7 +6709,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярлыки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1608"/>
@@ -8494,7 +8494,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Сборка Modrinth</translation>
+        <translation>Сборка Modrinth</translation>
     </message>
 </context>
 <context>
@@ -13007,17 +13007,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Minecraft.jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Моды Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Замена Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Агенты Java</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -13040,7 +13040,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Компоненты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
@@ -13516,7 +13516,7 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>ZIP-архив игрового мира</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
