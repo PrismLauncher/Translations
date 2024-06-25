@@ -829,9 +829,15 @@ son güncelleme girişimiyle ilgili ayrıntılar için.</translation>
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>Güncelleme başarı ile sonuçlandı
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">Güncelleme başarı ile sonuçlandı
 
 Şimdi şunu çalıştırıyorsunuz: %1.
 Prism Launcher güncelleyici log&apos;una göz atın:
@@ -5021,7 +5027,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation>Oyun çöktü.</translation>
     </message>

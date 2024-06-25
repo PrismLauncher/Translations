@@ -819,9 +819,15 @@ Kiểm tra tệp log để cập nhật Prism Launcher ở:
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>Cập nhật thành công
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">Cập nhật thành công
 
 Bạn đang chạy phiên bản %1.
 Kiểm tra tệp log để cập nhật Prism Launcher ở:
@@ -4881,7 +4887,7 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation>Game đã bị hỏng.</translation>
     </message>

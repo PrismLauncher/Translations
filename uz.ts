@@ -678,9 +678,15 @@ So&apos;nggi yangilanish urinishning tafsilotlari uchun Prism Launcher yangilovc
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>Yangilanish muvaffaqiyatli
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">Yangilanish muvaffaqiyatli
 
 Siz endi %1 dan foydalanyapsiz.
 
@@ -4227,7 +4233,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation type="unfinished"></translation>
     </message>

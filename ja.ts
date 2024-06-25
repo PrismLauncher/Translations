@@ -815,9 +815,15 @@ for details on the last update attempt.</source>
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>アップデートに成功しました。
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">アップデートに成功しました。
 
 現在 %1 を実行しています。
 詳細については :
@@ -4830,7 +4836,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation>ゲームがクラッシュしました。</translation>
     </message>

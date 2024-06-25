@@ -843,9 +843,15 @@ für Details zum letzten Updateversuch.</translation>
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>Update erfolgreich
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">Update erfolgreich
 
 Es ist nun %1 installiert.
 Überprüfe die Log-Datei des Prism-Launcher-Updaters bei:
@@ -5078,7 +5084,7 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation>Das Spiel ist abgestürzt.</translation>
     </message>

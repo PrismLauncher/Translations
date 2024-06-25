@@ -823,9 +823,15 @@ voor details over de laatste bijwerk poging.</translation>
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>Bijwerken gelukt
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">Bijwerken gelukt
 
 U gebruikt nu %1 .
 Controleer de Prism Launcher bijwerk log op 
@@ -4994,7 +5000,7 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation>Spel is gecrashed.</translation>
     </message>

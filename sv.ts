@@ -815,9 +815,15 @@ för detaljer om senaste uppdateringsförsöket.</translation>
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>Uppdateringen lyckades
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">Uppdateringen lyckades
 
 Du har nu %1.
 Kolla igenom Prism Launcherns uppdaterarlogg på:
@@ -5006,7 +5012,7 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation>Spelet kraschade.</translation>
     </message>

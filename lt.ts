@@ -815,9 +815,15 @@ Norėdami gauti daugiau informacijos apie paskutinį bandymą atnaujinti.</trans
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>Atnaujinimas pavyko
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">Atnaujinimas pavyko
 
 Dabar naudojate %1 .
 Patikrinkite Prism Launcher atnaujinimo žurnalą adresu:
@@ -4630,7 +4636,7 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation type="unfinished">Žaidimas nulūžo.</translation>
     </message>

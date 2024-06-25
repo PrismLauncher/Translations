@@ -843,9 +843,15 @@ para más detalles sobre el último intento de actualización.</translation>
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>La actualización se ha realizado correctamente
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">La actualización se ha realizado correctamente
 
 Ahora está ejecutando %1 .
 Compruebe el registro de actualización de Prism Launcher en: 
@@ -5047,7 +5053,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation>El juego ha crasheado.</translation>
     </message>

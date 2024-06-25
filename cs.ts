@@ -815,9 +815,15 @@ pro podrobnosti o posledním pokusu o aktualizaci.</translation>
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>Aktualizace byla úspěšná.
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">Aktualizace byla úspěšná.
 
 Nyní používáte verzi %1 .
 Pro podrobnosti se můžete podívat na protokol aktualizačního programu zde:
@@ -5036,7 +5042,7 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation>Hra spadla.</translation>
     </message>

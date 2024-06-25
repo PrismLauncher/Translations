@@ -819,9 +819,15 @@ hogy részletes leírást kapjon az utolsó frissítési próbálkozásról.</tr
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>Sikeres frissítés
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">Sikeres frissítés
 
 Ön most a(z) %1 verziót futtatja.
 Tekintse meg a Prism Launcher frissítési naplóját itt:&#xa0;
@@ -4998,7 +5004,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation>A játék kicrashelt.</translation>
     </message>

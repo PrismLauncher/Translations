@@ -815,9 +815,15 @@ untuk detail mengenai pembaruan terakhir.</translation>
 
 You are now running %1 .
 Check the Prism Launcher updater log at: 
-%1
+%2
 for details.</source>
-        <translation>Pembaruan berhasil
+        <oldsource>Update succeeded
+
+You are now running %1 .
+Check the Prism Launcher updater log at: 
+%1
+for details.</oldsource>
+        <translation type="unfinished">Pembaruan berhasil
 
 Anda sekarang sedang menggunakan %1.
 Periksa log pembaru Prism Launcher di: 
@@ -4820,7 +4826,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="184"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
         <translation>Game berhenti.</translation>
     </message>
