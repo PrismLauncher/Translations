@@ -2601,7 +2601,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зборка CurseForge</translation>
     </message>
 </context>
 <context>
@@ -10802,7 +10802,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="182"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Рэкамендаваны</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="186"/>
