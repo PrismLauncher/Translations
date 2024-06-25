@@ -843,9 +843,9 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">更新成功
+        <translation>更新成功
 
-您现在正在运行 %1 。
+您现在正在运行 %1。
 请查看 Prism Launcher 更新日志：
 %1
 以了解上次更新的详情。</translation>
