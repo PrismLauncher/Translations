@@ -570,12 +570,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ניהול סקינים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>ניהול סקינים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -633,12 +633,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="134"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>הוסף משתמש</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="135"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation>כיצד תרצה להתחבר?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
@@ -823,11 +823,11 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">העדכון הושלם בהצלחה
+        <translation>העדכון הושלם בהצלחה
 
-אתם עכשיו מריצים %1 .
-בדקו את הלוג של הPrism Launcher update ב 
-%1
+כעת אתה מריץ %1 .
+בדוק את הלוג של מעדכן ה- Prism Laucher ב 
+%2
 לפרטים נוספים.</translation>
     </message>
     <message>
@@ -1072,7 +1072,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>ממתין...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
@@ -1082,32 +1082,32 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="98"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">משימת האימות הושלמה בהצלחה.</translation>
+        <translation>האימות הושלם בהצלחה.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="104"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">לא ניתן היה ליצור קשר עם שרת האימות.</translation>
+        <translation>לא היה ניתן ליצור קשר עם שרת האימות.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="111"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">זיהוי הלקוח השתנה. יש ליצור הפעלה חדשה.</translation>
+        <translation>מספר זיהוי הלקוח השתנה. יש ליצור הפעלה חדשה.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="118"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">התרחשה תקלה בעת האימות.</translation>
+        <translation>התרחשה תקלה בעת עימות המידע.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="125"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">האימות נכשל. תוקף ההפעלה פג.</translation>
+        <translation type="unfinished">האימות כשל. תוקף ההפעלה פג.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="132"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">האימות נכשל. החשבון לא קיים יותר.</translation>
+        <translation>האימות כשל. החשבון לא קיים יותר.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="139"/>
@@ -1291,7 +1291,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="280"/>
         <source>Please wait...</source>
-        <translation type="unfinished">אנא המתן...</translation>
+        <translation>אנא המתן...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="282"/>
@@ -1349,7 +1349,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished">העתק את ההגדרות במשחק כמו FOV, Max Framerate.</translation>
+        <translation>העתק את ההגדרות במשחק כמו FOV, Max Framerate.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
@@ -1389,7 +1389,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">קשר קבצים באופן רקורסיבי</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
