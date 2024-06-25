@@ -823,11 +823,11 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Uppdateringen lyckades
+        <translation>Uppdateringen lyckades
 
-Du har nu %1.
-Kolla igenom Prism Launcherns uppdaterarlogg på:
-%1
+Du kör nu %1.
+Kontrollera Prism Launcher-uppdateringslogg på:
+%2
 för detaljer.</translation>
     </message>
     <message>
