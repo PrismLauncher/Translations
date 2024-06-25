@@ -544,12 +544,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Baguhin ang mga Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Baguhin ang mga Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -591,12 +591,12 @@ Kung bago ka dito, pwede mo pindutin ang &quot;Add Microsoft&quot; para i-link a
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="134"/>
         <source>Add account</source>
-        <translation type="unfinished"></translation>
+        <translation>Magdagdag ng account</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="135"/>
         <source>How do you want to login?</source>
-        <translation type="unfinished"></translation>
+        <translation>Paano mo gusto mag login?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
@@ -611,7 +611,7 @@ Kung bago ka dito, pwede mo pindutin ang &quot;Add Microsoft&quot; para i-link a
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="139"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
@@ -1030,7 +1030,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="88"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Humihintay...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="93"/>
@@ -1065,7 +1065,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="132"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Nabigong patotohanan. Hindi na mahanap ang iyong account.</translation>
+        <translation>Nabigong patotohanan. Hindi na mahanap ang iyong account o wala na ang account mo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="139"/>
@@ -1840,12 +1840,12 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pack ng Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pack ng CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -1942,7 +1942,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangalan ng file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
@@ -1972,7 +1972,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>File</translation>
     </message>
 </context>
 <context>
@@ -2066,12 +2066,12 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>i-export ang modlist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="182"/>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang metadata ng mod sa text</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -2501,18 +2501,19 @@ Subukan muli.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi alam na mod loader sa manifesto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga misteryosong trailing dots na tangal galing sa Minecraft version habang nag i-import ng pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="442"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma resolve o maayos ang ma mod IDs:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="495"/>
@@ -2528,7 +2529,7 @@ Subukan muli.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod Download Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="587"/>
