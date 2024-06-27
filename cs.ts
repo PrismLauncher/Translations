@@ -7731,12 +7731,12 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Change Version</source>
-        <translation type="unfinished">Změnit verzi</translation>
+        <translation>Změnit verzi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Změnit verzi modu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -10524,7 +10524,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="382"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Změnit %1 verzi</translation>
+        <translation>Změnit verzi %1</translation>
     </message>
 </context>
 <context>
@@ -10565,13 +10565,14 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyžadováno potvrzení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrali jste %1 zdrojů
+Opravdu chcete zavřít tuto nabídku?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
@@ -10763,17 +10764,17 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
         <source>Reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Přeinstalovat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Enter</translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
         <source>The resource was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdroj nebyl nalezen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
