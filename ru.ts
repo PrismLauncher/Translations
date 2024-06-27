@@ -3107,7 +3107,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Creative</source>
-        <translation>Творчество</translation>
+        <translation>Творческий</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="95"/>
@@ -7806,12 +7806,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Change Version</source>
-        <translation type="unfinished">Изменить версию</translation>
+        <translation>Изменить версию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить версию мода</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -10639,7 +10639,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="382"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Изменить версию %1</translation>
+        <translation>Изменить версию %1</translation>
     </message>
 </context>
 <context>
@@ -10879,17 +10879,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
         <source>Reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Переустановить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Ввод</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
         <source>The resource was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ресурс не найден</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
