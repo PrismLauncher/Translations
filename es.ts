@@ -851,11 +851,11 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">La actualización se ha realizado correctamente
+        <translation>La actualización se ha realizado correctamente
 
 Ahora está ejecutando %1 .
-Compruebe el registro de actualización de Prism Launcher en: 
-%1
+Comprueba el registro de actualización de Prism Launcher en: 
+%2
 para más detalles.</translation>
     </message>
     <message>
@@ -7753,12 +7753,12 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Change Version</source>
-        <translation type="unfinished">Cambiar Versión</translation>
+        <translation>Cambiar versión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar versión del mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -10545,7 +10545,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="382"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Cambiar versión %1</translation>
+        <translation>Cambiar a la versión %1</translation>
     </message>
 </context>
 <context>
@@ -10586,13 +10586,14 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmación necesaria</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiene %1 recursos seleccionados.
+Está seguro de que desea cerrar este cuadro de diálogo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
@@ -10784,17 +10785,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
         <source>Reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinstalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
         <source>The resource was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró el recurso</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
