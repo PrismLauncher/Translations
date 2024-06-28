@@ -757,7 +757,7 @@ Please update both your operating system and %1.</source>
         <translation>تنظیمات</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="915"/>
+        <location filename="src/launcher/Application.cpp" line="908"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -773,12 +773,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="932"/>
+        <location filename="src/launcher/Application.cpp" line="925"/>
         <source>Update In Progress</source>
         <translation>بروزرسانی درحال انجام</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="957"/>
+        <location filename="src/launcher/Application.cpp" line="950"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -792,12 +792,12 @@ for details on the last update attempt.</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="965"/>
+        <location filename="src/launcher/Application.cpp" line="958"/>
         <source>Update Failed</source>
         <translation>بروزرسانی ناموفق</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="990"/>
+        <location filename="src/launcher/Application.cpp" line="983"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -818,12 +818,12 @@ for details.</oldsource>
 مشاهده کنید.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="998"/>
+        <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update Succeeded</source>
         <translation>بروزرسانی موفق آمیز بود</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1029"/>
+        <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -832,32 +832,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1031"/>
+        <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Incompatible system configuration</source>
         <translation>کانفیگ سیستمی ناسازگار</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1367"/>
+        <location filename="src/launcher/Application.cpp" line="1360"/>
         <source>Aborted</source>
         <translation>لغو شده</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1777"/>
+        <location filename="src/launcher/Application.cpp" line="1770"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>داده های قدیمی از % 1 پیدا شد، اما از قبل داده های موجود برای % 2 دارید. متأسفانه باید خودتان انتقال داده را انجام دهید. آیا می خواهید دفعه بعد که % 2 را شروع می کنید، انتقال داده های معلق به شما یادآوری شود؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1781"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>به نظر می رسد قبلاً از %1 استفاده کرده اید. آیا می خواهید داده های خود را به مکان جدید %2 انتقال دهید؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1787"/>
+        <location filename="src/launcher/Application.cpp" line="1780"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>به نظر می رسد قبلاً از %1 در %2 استفاده کرده اید. آیا می خواهید داده های خود را به مکان جدید %3 انتقال دهید؟</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1830"/>
+        <location filename="src/launcher/Application.cpp" line="1823"/>
         <source>Migration failed! Reason: %1</source>
         <translation>مهاجرت ناموفق بود! دلیل: %1</translation>
     </message>

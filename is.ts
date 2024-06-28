@@ -702,7 +702,7 @@ Ef þú ert nýr hér geturðu valið hnappinn „Bæta við Microsoft“ til a�
         <translation>Stillingar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="915"/>
+        <location filename="src/launcher/Application.cpp" line="908"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -729,12 +729,12 @@ fyrir upplýsingar um síðustu uppfærslutilraun.
 Til að eyða þessum lás og halda áfram skaltu velja &quot;Hunsa&quot; fyrir neðan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="932"/>
+        <location filename="src/launcher/Application.cpp" line="925"/>
         <source>Update In Progress</source>
         <translation>Uppfærsla Í Gangi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="957"/>
+        <location filename="src/launcher/Application.cpp" line="950"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -749,12 +749,12 @@ Athugaðu uppfærsluskrá Prism Launcher á:
 fyrir upplýsingar um síðustu uppfærslutilraun.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="965"/>
+        <location filename="src/launcher/Application.cpp" line="958"/>
         <source>Update Failed</source>
         <translation>Uppfærsla Mistókst</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="990"/>
+        <location filename="src/launcher/Application.cpp" line="983"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -775,12 +775,12 @@ Athugaðu uppfærsluskrá Prism Launcher á:
 fyrir nánari upplýsingar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="998"/>
+        <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update Succeeded</source>
         <translation>Uppfærsla Tókst</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1029"/>
+        <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -789,32 +789,32 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1031"/>
+        <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Incompatible system configuration</source>
         <translation>Ósamrýmanlegurkerfisstilling</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1367"/>
+        <location filename="src/launcher/Application.cpp" line="1360"/>
         <source>Aborted</source>
         <translation>Hætt við</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1777"/>
+        <location filename="src/launcher/Application.cpp" line="1770"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Gömul gögn frá %1 fundust, en þú ert nú þegar með gögn fyrir %2. Því miður þarftu að flytja sjálfur. Viltu vera minntur á gagnaflutninginn sem er í bið næst þegar þú byrjar %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1781"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Það lítur út fyrir að þú hafir notað %1 áður. Viltu flytja gögnin þín á nýja staðsetningu %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1787"/>
+        <location filename="src/launcher/Application.cpp" line="1780"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Það lítur út fyrir að þú hafir notað %1 á %2 áður. Viltu flytja gögnin þín á nýja staðsetningu %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1830"/>
+        <location filename="src/launcher/Application.cpp" line="1823"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Flutningur mistókst! Ástæða: %1</translation>
     </message>

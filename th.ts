@@ -761,7 +761,7 @@ Please update both your operating system and %1.</source>
         <translation>การตั้งค่า</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="915"/>
+        <location filename="src/launcher/Application.cpp" line="908"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -788,12 +788,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 หากต้องการลบการล็อคนี้และดำเนินการต่อ ให้เลือก &quot;เพิกเฉย&quot; ด้านล่าง</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="932"/>
+        <location filename="src/launcher/Application.cpp" line="925"/>
         <source>Update In Progress</source>
         <translation>อยู่ระหว่างการปรับปรุง</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="957"/>
+        <location filename="src/launcher/Application.cpp" line="950"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -808,12 +808,12 @@ for details on the last update attempt.</source>
 สำหรับรายละเอียดเกี่ยวกับความพยายามในการอัปเดตครั้งล่าสุด</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="965"/>
+        <location filename="src/launcher/Application.cpp" line="958"/>
         <source>Update Failed</source>
         <translation>การอัพเดทล้มเหลว</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="990"/>
+        <location filename="src/launcher/Application.cpp" line="983"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -834,44 +834,44 @@ for details.</oldsource>
 เพื่อดูรายละเอียด</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="998"/>
+        <location filename="src/launcher/Application.cpp" line="991"/>
         <source>Update Succeeded</source>
         <translation>อัปเดตสำเร็จแล้ว</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1029"/>
+        <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1031"/>
+        <location filename="src/launcher/Application.cpp" line="1024"/>
         <source>Incompatible system configuration</source>
         <translation>การกำหนดค่าระบบที่เข้ากันไม่ได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1367"/>
+        <location filename="src/launcher/Application.cpp" line="1360"/>
         <source>Aborted</source>
         <translation>ล้มเลิก</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1777"/>
+        <location filename="src/launcher/Application.cpp" line="1770"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>พบข้อมูลเก่าจาก %1 แต่คุณมีข้อมูลดังกล่าวสำหรับ %2 แล้ว น่าเสียดายที่คุณจะต้องทำการโยกย้ายคุณเอง คุณต้องการที่จะให้เตือนการรอการโยกย้ายข้อมูลของคุณหลังจากที่เริ่มเปิด %2 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1781"/>
+        <location filename="src/launcher/Application.cpp" line="1774"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>ดูเหมือนว่าคุณจะเคยใช้ %1 มาก่อนหน้านี้ คุณต้องการที่จะโยกย้ายข้อมูลของคุณเข้ามาอยู่ในตำแหน่งใหม่ของ %2 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1787"/>
+        <location filename="src/launcher/Application.cpp" line="1780"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>ดูเหมือนว่าคุณจะเคยใช้ %1 บน %2 มาก่อนหน้านี้แล้ว คุณต้องการที่จะโยกย้ายข้อมูลของคุณไปยังตำแหน่งใหม่ของ %3 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1830"/>
+        <location filename="src/launcher/Application.cpp" line="1823"/>
         <source>Migration failed! Reason: %1</source>
         <translation>การโยกย้ายข้อมูลผิดพลาด! เหตุผล: %1</translation>
     </message>
