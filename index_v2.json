@@ -131,12 +131,12 @@
             "untranslated" : 13
         },
         "en_GB" : {
-            "file" : "b397065743d90c6651c02011a5d892cf9757506d.class",
-            "sha1" : "b397065743d90c6651c02011a5d892cf9757506d",
-            "size" : 269684,
-            "translated" : 1940,
-            "fuzzy" : 7,
-            "untranslated" : 13
+            "file" : "fa402d45a2be4027cfd7952c394c6d2207671551.class",
+            "sha1" : "fa402d45a2be4027cfd7952c394c6d2207671551",
+            "size" : 271157,
+            "translated" : 1960,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "en_NZ" : {
             "file" : "26806623f92f9da4a58bddcd874a169b28bde0d0.class",
@@ -155,12 +155,12 @@
             "untranslated" : 973
         },
         "es" : {
-            "file" : "62348e94175f858e944158e3080b72cd5557ae2a.class",
-            "sha1" : "62348e94175f858e944158e3080b72cd5557ae2a",
-            "size" : 294174,
-            "translated" : 1951,
-            "fuzzy" : 3,
-            "untranslated" : 6
+            "file" : "0c24936f0a0a808873238cfd09b7ff79d4233e92.class",
+            "sha1" : "0c24936f0a0a808873238cfd09b7ff79d4233e92",
+            "size" : 295055,
+            "translated" : 1960,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "es_UY" : {
             "file" : "21825c0d6d2a674620cd3283dd956c899e53a25c.class",
@@ -283,12 +283,12 @@
             "untranslated" : 1324
         },
         "hu" : {
-            "file" : "1a70906b8e38796d2edc99f291de27da2532b329.class",
-            "sha1" : "1a70906b8e38796d2edc99f291de27da2532b329",
-            "size" : 289092,
-            "translated" : 1950,
-            "fuzzy" : 3,
-            "untranslated" : 7
+            "file" : "12a1db75def3c0be818612bfd63c73f1617d8b2b.class",
+            "sha1" : "12a1db75def3c0be818612bfd63c73f1617d8b2b",
+            "size" : 289425,
+            "translated" : 1956,
+            "fuzzy" : 0,
+            "untranslated" : 4
         },
         "hy" : {
             "file" : "0bb7089dcc7ea376bc765417aecf292ec8a719b9.class",
@@ -363,12 +363,12 @@
             "untranslated" : 1929
         },
         "ko" : {
-            "file" : "5a6fd4ec56ea94288d88207e045736d8dc502f99.class",
-            "sha1" : "5a6fd4ec56ea94288d88207e045736d8dc502f99",
-            "size" : 211672,
-            "translated" : 1836,
-            "fuzzy" : 28,
-            "untranslated" : 96
+            "file" : "9bb1dce9d75a7a203be9fe91d9c66caef5163a36.class",
+            "sha1" : "9bb1dce9d75a7a203be9fe91d9c66caef5163a36",
+            "size" : 217094,
+            "translated" : 1890,
+            "fuzzy" : 41,
+            "untranslated" : 29
         },
         "lb" : {
             "file" : "2890ef1fafb48ad863e17474655a861d6e6af616.class",
@@ -507,12 +507,12 @@
             "untranslated" : 128
         },
         "ru" : {
-            "file" : "97fd71f2086dba7e980a61ae4687df9738a4fb8d.class",
-            "sha1" : "97fd71f2086dba7e980a61ae4687df9738a4fb8d",
-            "size" : 283398,
-            "translated" : 1954,
-            "fuzzy" : 2,
-            "untranslated" : 4
+            "file" : "2e35d7c0d8a0c89c888db5bd3018c2f7e86fe077.class",
+            "sha1" : "2e35d7c0d8a0c89c888db5bd3018c2f7e86fe077",
+            "size" : 283799,
+            "translated" : 1960,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "si" : {
             "file" : "06a2055b34ffe199813e764b80513121a3057a0f.class",
@@ -619,12 +619,12 @@
             "untranslated" : 5
         },
         "zh_TW" : {
-            "file" : "4ab1ca7792938e892379c1ae136869aaecaa8755.class",
-            "sha1" : "4ab1ca7792938e892379c1ae136869aaecaa8755",
-            "size" : 198209,
-            "translated" : 1946,
-            "fuzzy" : 2,
-            "untranslated" : 12
+            "file" : "794f5570a4052dab8e1b47081955c818edfa371f.class",
+            "sha1" : "794f5570a4052dab8e1b47081955c818edfa371f",
+            "size" : 199463,
+            "translated" : 1960,
+            "fuzzy" : 0,
+            "untranslated" : 0
         }
     }
 }
