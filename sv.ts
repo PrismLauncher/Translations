@@ -7597,12 +7597,12 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Change Version</source>
-        <translation type="unfinished">Ändra version</translation>
+        <translation>Ändra version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra mod version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
