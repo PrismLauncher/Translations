@@ -3426,7 +3426,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="42"/>
         <source>Removing old conflicting files...</source>
-        <translation>오래된 충돌 파일 제거중...</translation>
+        <translation>오래된 충돌 파일을 제거하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
@@ -3451,7 +3451,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished">인스턴스 유형 확인 시도 중</translation>
+        <translation>인스턴스 유형을 확인하려고 시도하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
@@ -5461,7 +5461,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="550"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished">zip에서 첫 번째 파일을 찾지 못했습니다</translation>
+        <translation>ZIP에서 첫 번째 파일을 찾지 못했습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="590"/>
@@ -7359,7 +7359,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
         <source>Environments</source>
-        <translation type="unfinished">환경</translation>
+        <translation>환경</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
@@ -7374,7 +7374,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Hide installed items</source>
-        <translation type="unfinished">설치된 항목 숨기기</translation>
+        <translation>설치된 항목 숨기기</translation>
     </message>
 </context>
 <context>
