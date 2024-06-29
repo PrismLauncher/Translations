@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервиси</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -227,12 +227,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Блокирани модови се пронајдени</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Овие фајлови не се достапни за превземање во други лаунчери.&lt;br/&gt;Вие ќе морате мануелно да ги превземете и да ги додадете во инстансата.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -367,19 +367,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MCA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Офлине</translation>
+        <translation>Офлајн</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Непознатo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
@@ -432,7 +432,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип на профилот (МСА или Офлајн)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -453,7 +453,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Непознато</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -561,12 +561,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Управувајте со скиновите</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Управувајте со скиновите</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -608,7 +608,8 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добредојдовте!
+Ако сте нови тука, можете да изберете &quot;Додади Microsoft&quot; копчето за да го поврзете вашиот Microsoft профил.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -627,7 +628,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вие мора да додадете Microsoft профил кој што ја има купено Minecraft пред да можете да додадете офлајн профил.&lt;br&gt;&lt;br&gt;Ако сте го изгубиле профилот можете да ги исконтактирате Microsoft за поддршка.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -659,12 +660,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Отстрани го профилот?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Дали сте сигурни дека сакате да го избришете овој профил?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -735,12 +736,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Оваа инсталација има aжуриран заклучен фалј присутен кај: %1
+
+Временски печат: %2
+Ажурирање од верзија %3 до %4
+Таргетиран пат на инсталација: %5
+Дата Пат: %6
+Ова најверојатно значи дека некое aжурирање не успеало. Ве молиме обидете се дека вашата инсталација е во работна состојба пред да продолжите.
+Проверети ги aжурираните логови на Prism Launcher кај:
+%7
+за детали на најновиот обид на ажурирање.
+
+За да го избришете овој lock и да продолжите изберете &quot;игнорирај&quot; подолу.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="925"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Ажурирањето е во тек</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="949"/>
@@ -755,7 +767,7 @@ for details on the last update attempt.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="957"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ажурирањето е неуспешно</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="981"/>
@@ -776,7 +788,7 @@ for details.</oldsource>
     <message>
         <location filename="src/launcher/Application.cpp" line="989"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Ажурирањето е успешно</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1020"/>
@@ -788,7 +800,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1022"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Некомпатибилна системска конфигурација</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1358"/>
@@ -813,7 +825,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1820"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Миграцијата е неуспешна! Причина: %1</translation>
     </message>
 </context>
 <context>
@@ -997,7 +1009,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Се чека...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
@@ -1077,7 +1089,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Отворете што недостасува</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="57"/>
@@ -1087,7 +1099,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете датотека каде што сте ги симнале модовите</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
@@ -1111,7 +1123,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Датотеки под надзор:</translation>
     </message>
 </context>
 <context>
