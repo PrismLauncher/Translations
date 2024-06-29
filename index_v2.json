@@ -99,12 +99,12 @@
             "untranslated" : 1058
         },
         "en@pirate" : {
-            "file" : "48fd87cdc5bb17faa0b22f2a98c9a67c17d73e57.class",
-            "sha1" : "48fd87cdc5bb17faa0b22f2a98c9a67c17d73e57",
-            "size" : 42453,
-            "translated" : 287,
+            "file" : "76f093e0fa2858a4ca6a034186041d04e8333301.class",
+            "sha1" : "76f093e0fa2858a4ca6a034186041d04e8333301",
+            "size" : 42558,
+            "translated" : 288,
             "fuzzy" : 0,
-            "untranslated" : 1251
+            "untranslated" : 1250
         },
         "en@uwu" : {
             "file" : "8e4a7c81f727790071b28dffb67cd8348815f5b8.class",
