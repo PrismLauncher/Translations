@@ -5619,37 +5619,37 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Пожалуйста, подождите…</translation>
+        <translation>Пожалуйста, подождите…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <source>Status</source>
-        <translation type="unfinished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Войдите в систему с помощью Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="162"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Или</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="273"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>КОД</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="286"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопируйте код в буфер обмена</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="324"/>
         <source>Info</source>
-        <translation type="unfinished">Информация</translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5674,12 +5674,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="149"/>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Откройте %1 или отсканируйте QR и введите приведенный выше код.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Откройте %1 и введите приведенный выше код.</translation>
     </message>
 </context>
 <context>
@@ -5687,7 +5687,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось обновить токен.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
@@ -5702,7 +5702,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Аутентификация пользователя Microsoft не удалась - токен пуст.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
