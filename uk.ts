@@ -747,12 +747,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="762"/>
+        <location filename="src/launcher/Application.cpp" line="767"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="908"/>
+        <location filename="src/launcher/Application.cpp" line="913"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -779,12 +779,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 Щоб зняти це блокування і продовжити, натисніть &quot;Ігнорувати&quot; нижче.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="925"/>
+        <location filename="src/launcher/Application.cpp" line="930"/>
         <source>Update In Progress</source>
         <translation>Оновлення в прогресі</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="949"/>
+        <location filename="src/launcher/Application.cpp" line="954"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -799,12 +799,12 @@ for details on the last update attempt.</source>
 за подробицями про останню спробу оновлення.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="957"/>
+        <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update Failed</source>
         <translation>Не вдалося оновити</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="981"/>
+        <location filename="src/launcher/Application.cpp" line="986"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -825,12 +825,12 @@ for details.</oldsource>
 за подробицями.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="989"/>
+        <location filename="src/launcher/Application.cpp" line="994"/>
         <source>Update Succeeded</source>
         <translation>Оновлення встановлено успішно</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1020"/>
+        <location filename="src/launcher/Application.cpp" line="1025"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -839,32 +839,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1022"/>
+        <location filename="src/launcher/Application.cpp" line="1027"/>
         <source>Incompatible system configuration</source>
         <translation>Несумісні налаштування системи</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1358"/>
+        <location filename="src/launcher/Application.cpp" line="1363"/>
         <source>Aborted</source>
         <translation>Перервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1767"/>
+        <location filename="src/launcher/Application.cpp" line="1772"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Старі дані були знайдені у %1, проте у вас уже є дані у %2. На жаль, вам потрібно провести перенесення даних. Нагадати вам про перенесення коли ви запуститите %2 наступного разу?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1771"/>
+        <location filename="src/launcher/Application.cpp" line="1776"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Схоже, що ви використовували %1 раніше. Чи хочете ви перенести ваші дані до нового місця %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1777"/>
+        <location filename="src/launcher/Application.cpp" line="1782"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Схоже ви вже використовували %1 у %2. Чи хочете ви перенести дані до нового місця %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1820"/>
+        <location filename="src/launcher/Application.cpp" line="1825"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Не вдалося перенести! Причина: %1</translation>
     </message>
@@ -9252,12 +9252,12 @@ StdErr: %2</translation>
         <translation>Програма оновлення не може знайти основний виконуваний файл.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="371"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="381"/>
         <source>The launcher data folder is not writable!</source>
         <translation>Папка з даними запуску не доступна для запису!</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="372"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="382"/>
         <source>The updater couldn&apos;t create a log file - the data folder is not writable.
 
 Make sure you have write permissions to the data folder.
@@ -9272,12 +9272,12 @@ The updater cannot continue until you fix this problem.</source>
 Програма оновлення не зможе продовжити роботу, доки ви не розв&apos;яжете цю проблему.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="580"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Updating flatpack not supported</source>
         <translation>Оновлення flatpack не підтримується</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="580"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
         <translation>Дії, що виходять за рамки перевірки наявності оновлення, не підтримуються під час запуску flatpak-версії Prism Launcher.</translation>
     </message>
@@ -9290,111 +9290,111 @@ The updater cannot continue until you fix this problem.</source>
         <translation type="vanished">Оновлення непортабельних інсталяцій linux не підтримується. Будь ласка, скористайтеся вашим системним менеджером пакунків</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="637"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1090"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="647"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1100"/>
         <source>Reading manifest from %1</source>
         <translation>Читання маніфесту з %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="649"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
         <translation>Маніфест порожній, робиться спроба вгадати вміст директорії %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="655"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="665"/>
         <source>Installing the following to %1 :
  %2</source>
         <translation>Встановлення до %1 :
  %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="659"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="666"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="669"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="676"/>
         <source>Installing from %1</source>
         <translation>Встановлення з %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="671"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="681"/>
         <source>Installing %1 from %2</source>
         <translation>Встановлення %1 з %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="675"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="685"/>
         <source>Failed copy %1 to %2</source>
         <translation>Не вдалося скопіювати %1 до %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="690"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1166"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="700"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1176"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
         <translation>Файл не існує, ігнорування: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="703"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="713"/>
         <source>There were errors installing the update.</source>
         <translation>Виникли помилки при встановленні оновлення.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="707"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="717"/>
         <source>Update succeed.</source>
         <translation>Оновлення пройшло успішно.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="868"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="878"/>
         <source>No Valid Release Assets</source>
         <translation>Жодних Дійсних Випускних Активів</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="869"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
         <translation>Випуск Github %1 не має дійсних ресурсів для цієї платформи: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <source>%1 portable: %2</source>
         <translation>%1 портативний: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
         <source>yes</source>
         <translation>так</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="871"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
         <source>no</source>
         <translation>ні</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
         <source>No version selected.</source>
         <translation>Версію не вибрано.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
         <source>No version was selected.</source>
         <translation>Не було обрано жодної версії.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to Download</source>
         <translation>Не вдалося завантажити</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="886"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to download the selected asset.</source>
         <translation>Не вдалося завантажити вибраний ресурс.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="988"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="998"/>
         <source>Update already in progress
 </source>
         <translation>Оновлення вже виконується
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="990"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1000"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -9421,134 +9421,134 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 Щоб перезаписати це блокування і продовжити оновлення, виберіть «Ігнорувати» нижче.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
         <source>Update Aborted</source>
         <translation>Оновлення скасовано</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
         <source>The update attempt was aborted</source>
         <translation>Спроба оновлення була перервана</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1028"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1038"/>
         <source>Updating from %1 to %2</source>
         <translation>Оновлення з %1 на %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1031"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1041"/>
         <source>Updating portable install at %1</source>
         <translation>Оновлення портативної інсталяції в %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1034"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
         <source>Running installer file at %1</source>
         <translation>Запуск файлу інсталятора в %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1043"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
         <source>Process start result: %1</source>
         <translation>Результат запуску процесу: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1050"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1060"/>
         <source>Backing up install</source>
         <translation>Створення резервної копії інсталяції</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1071"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
         <source>Starting new updater at &apos;%1&apos;</source>
         <translation>Запуск нового оновлення в &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1073"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1083"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
         <translation>Не вдалося запустити &apos;%1&apos; %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1123"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1133"/>
         <source>Backing up:
   %1</source>
         <translation>Запуск резервної копії:
   %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1141"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1144"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
         <source>Backing up install at %1</source>
         <translation>Резервне копіювання інсталяції на %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1146"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1156"/>
         <source>Backing up and then removing %1</source>
         <translation>Створення резервної копії та потім видалення %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1150"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1160"/>
         <source>Failed to backup %1 to %2</source>
         <translation>Не вдалося створити резервну копію %1 до %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1153"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1163"/>
         <source>Failed to remove %1</source>
         <translation>Не вдалося видалити %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1188"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1198"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>Витягнуто наступне до &quot;%1&quot;:
   %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1190"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1192"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1200"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1202"/>
         <source>Failed to extract %1 to %2</source>
         <translation>Не вдалося витягти %1 до %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1199"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1209"/>
         <source>Running: `%1 %2`</source>
         <translation>Запуск: `%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1203"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
         <translation>Не вдалося запустити дочірній процес &quot;%1 %2&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1205"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
         <source>Failed extract archive</source>
         <translation>Не вдалося розпакувати архів</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1212"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1222"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>Дочірній процес «%1 %2» завершився невдало.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1214"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1224"/>
         <source>Failed to extract archive</source>
         <translation>Не вдалося розпакувати архів</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1219"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1229"/>
         <source>Unknown archive format for %1</source>
         <translation>Невідомий формат архіву для %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1234"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1238"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
         <source>Failed to Check Version</source>
         <translation>Не вдалося перевірити версію</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1234"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launcher child launcher process to read version.</source>
         <translation>Не вдалося запустити дочірній процес для зчитування версії.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1238"/>
+        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
         <source>Child launcher process failed.</source>
         <translation>Процес запуску дочірнього процесу не вдався.</translation>
     </message>
