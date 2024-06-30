@@ -4585,7 +4585,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation>起動時のみチェックするには 0 に設定します</translation>
+        <translation>0に設定すると起動時のみのチェックになります</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
@@ -4773,7 +4773,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>スキンのフォルダー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="318"/>
