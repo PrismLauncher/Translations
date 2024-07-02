@@ -45,7 +45,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="284"/>
         <source>(Default)</source>
-        <translation>(Default)</translation>
+        <translation>(Bawaan)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Catatan: Anda hanya perlu mengatur file ini untuk mengakses data pribadi. Baca &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentasi&lt;/a&gt; untuk informasi lebih lanjut.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Catatan: Anda hanya perlu mengatur ini untuk mengakses data pribadi. Baca &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentasi&lt;/a&gt; untuk informasi lebih lanjut.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -96,12 +96,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation>Layanan</translation>
+        <translation>Layanan-layanan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Anda dapat menyetel ini ke server metadata pihak ketiga untuk menggunakan pustaka yang dipatch atau peretasan lainnya.</translation>
+        <translation>Anda dapat mengatur ini ke server metadata pihak ketiga untuk menggunakan pustaka yang ditambal atau peretasan lainnya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation>Mode instalasi tidak didukung</translation>
+        <translation>Mode pemasangan tidak didukung</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
@@ -197,7 +197,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="680"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Gagal membuka konfigurasi pack %1!</translation>
+        <translation>Gagal membuka konfigurasi paket %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
@@ -242,12 +242,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
         <source>Failed to extract mods...</source>
-        <translation>Gagal mengekstrak mods...</translation>
+        <translation>Gagal mengekstraksi mod-mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="937"/>
         <source>Extracting mods...</source>
-        <translation>Mengekstrak mod-mod...</translation>
+        <translation>Mengekstraksi mod-mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1008"/>
@@ -257,7 +257,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
         <source>Failed to create libraries component</source>
-        <translation>Gagal membuat komponen pustaka</translation>
+        <translation>Gagal membuat komponen pustaka-pustaka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
@@ -267,7 +267,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1061"/>
         <source>Failed to create pack component</source>
-        <translation>Gagal untuk membuat komponen paket</translation>
+        <translation>Gagal membuat komponen paket</translation>
     </message>
 </context>
 <context>
@@ -306,7 +306,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>Kredit</translation>
+        <translation>Kredit-kredit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
@@ -373,7 +373,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Tidak Aktif</translation>
+        <translation>Di luar jaringan</translation>
     </message>
     <message>
         <source>Online</source>
@@ -414,7 +414,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Error</translation>
+        <translation>Bermasalah</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
@@ -488,7 +488,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="359"/>
         <source>Type</source>
-        <translation>Tipe</translation>
+        <translation>Jenis</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>
@@ -575,7 +575,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Atur Skin</translation>
+        <translation>Atur Skin-skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -623,7 +623,7 @@ Jika Anda pertama kali di sini, Anda dapat mengeklik tombol &quot;Tambahkan Micr
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Tidak ada ID klien Autentikasi Microsoft yang disetel.</translation>
+        <translation>Tidak ada ID klien Autentikasi Microsoft yang diatur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
@@ -657,7 +657,7 @@ Jika Anda pertama kali di sini, Anda dapat mengeklik tombol &quot;Tambahkan Micr
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Anda harus menambahkan akun Microsoft yang memiliki Minecraft sebelum Anda dapat menambahkan akun luring. &lt;br&gt;&lt;br&gt;Silakan hubungi pusat bantuan Microsoft jika Anda kehilangan akun Anda.</translation>
+        <translation>Anda harus menambahkan akun Microsoft yang memiliki Minecraft sebelum Anda dapat menambahkan akun luring. &lt;br&gt;&lt;br&gt;Silahkan hubungi pusat bantuan Microsoft jika Anda kehilangan akun Anda.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -846,7 +846,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/Application.cpp" line="1364"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1773"/>
@@ -885,7 +885,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="43"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
@@ -1119,7 +1119,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="27"/>
         <source>Profiler aborted</source>
-        <translation>Profiler dihentikan</translation>
+        <translation>Profiler dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -1239,7 +1239,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="172"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
@@ -1662,7 +1662,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1960,12 +1960,12 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>Task aborted</source>
-        <translation>Tugas dihentikan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Tugas telah dihentikan oleh pengguna.</translation>
+        <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
@@ -2417,7 +2417,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
@@ -3316,7 +3316,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="184"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Penyalinan folder instansi telah dihentikan.</translation>
+        <translation>Penyalinan folder instansi telah dibatalkan.</translation>
     </message>
 </context>
 <context>
@@ -3907,7 +3907,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation>Profiler dihentikan</translation>
+        <translation>Profiler dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -3920,7 +3920,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation>Profiler dihentikan</translation>
+        <translation>Profiler dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -4285,7 +4285,7 @@ Apakah Anda ingin memainkan demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>Peluncuran dihentikan - akun tidak memiliki Minecraft.</translation>
+        <translation>Peluncuran dibatalkan - akun tidak memiliki Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="282"/>
@@ -4982,12 +4982,12 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation>Tugas dihentikan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Tugas telah dihentikan oleh pengguna.</translation>
+        <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
@@ -5113,7 +5113,7 @@ Anda harus memperbaiki masalah ini secara manual.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -6235,12 +6235,12 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="840"/>
         <source>Task aborted</source>
-        <translation>Tugas dihentikan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="840"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Tugas telah dihentikan oleh pengguna.</translation>
+        <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="844"/>
@@ -6588,12 +6588,12 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>Task aborted</source>
-        <translation>Tugas dihentikan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Tugas telah dihentikan oleh pengguna.</translation>
+        <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
@@ -6646,7 +6646,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="127"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="142"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -6744,7 +6744,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="20"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -7016,7 +7016,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Dihentikan oleh pengguna.</translation>
+        <translation>Dibatalkan oleh pengguna.</translation>
     </message>
 </context>
 <context>
@@ -7441,14 +7441,14 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="300"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="416"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="300"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="416"/>
         <source>Download stopped by user.</source>
-        <translation>Pengunduhan dihentikan oleh pengguna.</translation>
+        <translation>Pengunduhan dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="223"/>
@@ -8514,7 +8514,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="344"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="571"/>
@@ -9004,12 +9004,12 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
         <source>Update Aborted</source>
-        <translation>Pembaruan Dihentikan</translation>
+        <translation>Pembaruan Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
         <source>The update attempt was aborted</source>
-        <translation>Pembaruan telah dihentikan</translation>
+        <translation>Pembaruan telah dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1038"/>
@@ -10054,7 +10054,7 @@ Apakah Anda yakin ingin menutup dialog ini?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation>Permintaan dihentikan untuk alasan yang tidak diketahui</translation>
+        <translation>Permintaan dibatalkan untuk alasan yang tidak diketahui</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
@@ -10455,12 +10455,12 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="82"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="82"/>
         <source>Download stopped by user.</source>
-        <translation>Pengunduhan dihentikan oleh pengguna.</translation>
+        <translation>Pengunduhan dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="88"/>
@@ -10656,13 +10656,13 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
         <source>Screenshots upload aborted</source>
-        <translation>Pengunggahan tangkapan layar dihentikan</translation>
+        <translation>Pengunggahan tangkapan layar dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Tugas telah dihentikan oleh pengguna.</translation>
+        <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="413"/>
@@ -10932,12 +10932,12 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Download stopped by user.</source>
-        <translation>Pengunduhan dihentikan oleh pengguna.</translation>
+        <translation>Pengunduhan dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="80"/>
@@ -11358,7 +11358,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="135"/>
         <source>Instance import has been aborted.</source>
-        <translation>Proses impor instansi telah dihentikan.</translation>
+        <translation>Proses impor instansi telah dibatalkan.</translation>
     </message>
 </context>
 <context>
@@ -11420,7 +11420,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
         <source>Instance import has been aborted.</source>
-        <translation>Proses impor instansi telah dihentikan.</translation>
+        <translation>Proses impor instansi telah dibatalkan.</translation>
     </message>
 </context>
 <context>
@@ -11620,12 +11620,12 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="84"/>
         <source>Aborted</source>
-        <translation>Dihentikan</translation>
+        <translation>Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="84"/>
         <source>Download stopped by user.</source>
-        <translation>Pengunduhan dihentikan oleh pengguna.</translation>
+        <translation>Pengunduhan dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="90"/>
@@ -11753,7 +11753,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation>Tugas dihentikan.</translation>
+        <translation>Tugas dibatalkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="49"/>
