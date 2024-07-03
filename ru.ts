@@ -4021,12 +4021,12 @@ Proceed with caution!</source>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="890"/>
+        <location filename="src/launcher/InstanceList.cpp" line="906"/>
         <source>Could not create staging folder</source>
         <translation>Не удалось создать промежуточную папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="908"/>
+        <location filename="src/launcher/InstanceList.cpp" line="924"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Не удалось создать установку игры после нескольких попыток. Что-то мешает.</translation>
     </message>

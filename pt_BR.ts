@@ -4003,12 +4003,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="890"/>
+        <location filename="src/launcher/InstanceList.cpp" line="906"/>
         <source>Could not create staging folder</source>
         <translation>Não foi possível criar a pasta temporária</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="908"/>
+        <location filename="src/launcher/InstanceList.cpp" line="924"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Falha ao modificar a instância após várias tentativas. Algo está impedindo o commit.</translation>
     </message>
