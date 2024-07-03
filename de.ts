@@ -5579,7 +5579,7 @@ Grund:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished">Mit Microsoft Account einloggen (Geräte-Code)</translation>
+        <translation>Mit Microsoft Account einloggen (Geräte-Code).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="117"/>
@@ -11737,7 +11737,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="276"/>
         <source>File is not readable.</source>
-        <translation type="unfinished">Datei ist nicht leerbar</translation>
+        <translation>Datei ist nicht lesbar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="278"/>
@@ -11787,7 +11787,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="120"/>
         <source>Reset Skin</source>
-        <translation type="unfinished">Skin zurücksetzen.</translation>
+        <translation>Skin zurücksetzen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="134"/>
