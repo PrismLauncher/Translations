@@ -817,11 +817,11 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Оновлення встановлено успішно
+        <translation>Оновлення встановлено успішно
 
 Зараз ви використовуєте %1 .
 Перевірте журнал оновлень Prism Launcher в: 
-%1
+%2
 за подробицями.</translation>
     </message>
     <message>
@@ -1973,12 +1973,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Збірка Modrinth</translation>
+        <translation>Збірка Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Збірка CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -2105,7 +2105,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
 </context>
 <context>
@@ -2153,7 +2153,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
         <source>&amp;Disable</source>
-        <translation>Ви&amp;мкнути</translation>
+        <translation>&amp;Вимкнути</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
@@ -4762,17 +4762,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="286"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Секунд залишилось до закінчення завершення запитів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="289"/>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Вичерпаний час для HTTP запитів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
         <source>s</source>
-        <translation type="unfinished">с</translation>
+        <translation>с</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="370"/>
@@ -5494,37 +5494,37 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Будь ласка, зачекайте ...</translation>
+        <translation>Будь ласка, зачекайте ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <source>Status</source>
-        <translation type="unfinished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Зареєструватись за допомогою Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="162"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Або</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="273"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>КОД</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="286"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопіювати код до буфера обміну</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="324"/>
         <source>Info</source>
-        <translation type="unfinished">Інформація</translation>
+        <translation>Інформація</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5549,12 +5549,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="149"/>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрийте %1 або проскануйте QR код і введіть вищезазначений код.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрийте %1 або введіть вищезазначений код.</translation>
     </message>
 </context>
 <context>
@@ -5562,7 +5562,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка оновлення токена.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
@@ -5577,7 +5577,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автентифікація користувача Microsoft не вдалася - токен оновлення пустий.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
@@ -7686,12 +7686,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Change Version</source>
-        <translation type="unfinished">Змінити версію</translation>
+        <translation>Змінити версію</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити версію моду</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -8347,7 +8347,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Збірка Modrinth</translation>
+        <translation>Збірка Modrinth</translation>
     </message>
 </context>
 <context>
@@ -10419,7 +10419,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="388"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Змінити версію %1</translation>
+        <translation>Змінити версію %1</translation>
     </message>
 </context>
 <context>
@@ -10460,13 +10460,14 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Потрібне Підтвердження</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви маєте %1 виділених ресурсів.
+Ви впевнені що хочете закрити це вікно?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
@@ -10650,17 +10651,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
         <source>Reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Переустановити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
         <source>The resource was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ресурс не знайдено</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
@@ -12823,17 +12824,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Minecraft.jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft.jar моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Заміна Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Java агентів</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -12856,7 +12857,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Компоненти</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
@@ -13334,7 +13335,7 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>Світ Minecraft Zip Файл</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
