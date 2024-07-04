@@ -831,9 +831,10 @@ Check the Prism Launcher updater log at:
 for details.</oldsource>
         <translation>업데이트 성공
 
-이제 당신은 %1을 실행 중입니다.
-자세한 내용:
-%2에서 Prism Launcher 업데이트 로그를 볼 수 있습니다.</translation>
+이제 %1을 실행 중입니다.
+Prism Launcher 업데이트 로그를:
+%2
+에서 자세히 볼 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="995"/>
@@ -5950,7 +5951,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="588"/>
         <source>&amp;Skins</source>
-        <translation>&amp;Skins</translation>
+        <translation>스킨 (&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
@@ -7871,17 +7872,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>Minecraft.jar을 위한 바이너리 폴더 생성 불가</translation>
+        <translation>Minecraft.jar를 위한 바이너리 폴더 생성 불가</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>오래된 버전의 jar 파일을 삭제하지 못하였습니다 : %1</translation>
+        <translation>오래된 버전의 JAR 파일을 삭제하지 못하였습니다 : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>커스텀 마인크래프트 jar 파일을 생성하는 데에 실패하였습니다.</translation>
+        <translation>커스텀 마인크래프트 JAR 파일을 생성하는 데에 실패하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -9993,7 +9994,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="234"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>메인 jar을 받을 URL을 결정할 수 없었음 - Mojang이 기존에 파일을 제공하던 서버를 내려 더 이상 찾을 수 없습니다.</translation>
+        <translation>메인 JAR을 받을 URL을 결정할 수 없었음 - Mojang이 기존에 파일을 제공하던 서버를 내려 더 이상 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
@@ -12671,17 +12672,17 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Add to Minecraft.jar</source>
-        <translation>마인크래프트 jar에 추가하기</translation>
+        <translation>Minecraft.jar에 추가하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>마인크래프트 jar 파일에 모드를 추가합니다.</translation>
+        <translation>마인크래프트 JAT 파일에 모드를 추가합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Replace Minecraft.jar</source>
-        <translation>마인크래프트 jar 대체하기</translation>
+        <translation>Minecraft.jar 변경하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
@@ -12889,17 +12890,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Select jar mods</source>
-        <translation>Jar 모드 선택</translation>
+        <translation>JAR 모드 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Minecraft.jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft.jar 모드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft.jar 대체 파일</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
@@ -12913,7 +12914,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
         <source>Select jar</source>
-        <translation>Jar 모드 선택</translation>
+        <translation>JAR 모드 선택</translation>
     </message>
     <message>
         <source>Minecraft.jar replacement (*.jar)</source>
