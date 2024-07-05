@@ -154,17 +154,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="342"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>다음의 로컬 메타데이터를 얻는 데에 실패하였습니다: %1</translation>
+        <translation>다음의 로컬 메타데이터를 얻는 데 실패하였습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="152"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>다음의 로컬 메타데이터를 얻는 데에 실패하였습니다: &apos;%1&apos; v%2</translation>
+        <translation>다음의 로컬 메타데이터를 얻는 데 실패하였습니다: &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation>지원하지않는 모드가 있습니다</translation>
+        <translation>지원하지 않는 모드가 있습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
@@ -179,7 +179,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 로더에 대한 버전을 찾는데 실패하였습니다</translation>
+        <translation>%1 로더에 대한 버전을 찾는 데 실패하였습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="388"/>
@@ -209,7 +209,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="680"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>팩 설정 %1을(를) 여는 데에 실패했습니다!</translation>
+        <translation>팩 설정 %1을(를) 여는 데에 실패하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
@@ -777,13 +777,13 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>설치 프로그램이 현재 다음 위치에서 업데이트 잠금 파일을 발견했습니다: %1
+        <translation>설치 프로그램이 현재 다음 위치에서 업데이트 잠금 파일을 발견하였습니다: %1
 
 시간: %2
 %3에서 %4로 업데이트
 설치 경로: %5
 데이터 경로: %6
-이는 보통 업데이트 시도가 실패했음을 의미합니다. 진행하기 전에 설치가 진행 중인지 확인했습니다.
+이는 보통 업데이트 시도가 실패하였음을 의미합니다. 진행하기 전에 설치가 진행 중인지 확인하였습니다.
 마지막 업데이트 시도의 자세한 내용을 확인하려면: 
 %7
 위 위치에서 Prism Launcher 업데이터 로그를 볼 수 있습니다.
@@ -902,7 +902,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
         <source>Failed to read the assets index!</source>
-        <translation>에셋 인덱스를 읽는 데 실패했습니다!</translation>
+        <translation>에셋 인덱스를 읽는 데 실패하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
@@ -913,14 +913,14 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="92"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>에셋 인덱스를 다운로드하는 데 실패했습니다:
+        <translation>에셋 인덱스를 다운로드하는 데 실패하였습니다:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>에셋을 다운로드하는 데 실패했습니다:
+        <translation>에셋을 다운로드하는 데 실패하였습니다:
 %1</translation>
     </message>
 </context>
@@ -1264,7 +1264,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>일부 컴포넌트 메타데이터를 불러오는 데에 실패했습니다.</translation>
+        <translation>일부 구성 요소 메타데이터를 불러오는 데 실패하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
@@ -1285,7 +1285,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>다음 원격 서버에서 다운로드하는 중 컴포넌트 메타데이타 업데이트 작업이 실패했습니다:
+        <translation>다음 원격 서버에서 다운로드하는 중 구성 요소 메타데이터 업데이트 작업이 실패했습니다:
 %1</translation>
     </message>
 </context>
@@ -4799,12 +4799,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="286"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>요청을 종료할 때까지 기다리는 시간(초)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="289"/>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP 요청 제한 시간</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
@@ -4839,13 +4839,13 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="430"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation>메뉴바는 키보드 기반 상호작용에 친화적입니다.</translation>
+        <translation>메뉴 바는 키보드 기반 상호작용에 친화적입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="433"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>툴바를 메뉴바로 변경 (&amp;R)</translation>
+        <translation>도구 모음을 메뉴 바로 변경 (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="457"/>
@@ -5438,22 +5438,22 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="462"/>
         <source>Could not create file</source>
-        <translation>파일을 생성할 수 없습니다</translation>
+        <translation>파일을 생성할 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Could not create:</source>
-        <translation>생성할 수 없습니다:</translation>
+        <translation>생성할 수 없음:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="491"/>
         <source>Could not read and compress %1</source>
-        <translation>%1 을(를) 읽고 압축할 수 없습니다</translation>
+        <translation>%1을(를) 읽고 압축할 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="497"/>
         <source>A zip error occurred</source>
-        <translation>압축 오류가 발생했습니다</translation>
+        <translation>ZIP 오류 발생</translation>
     </message>
 </context>
 <context>
@@ -5461,22 +5461,22 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="543"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>압축된 파일을 열거하는 데 실패함</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="546"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>빈 압축 파일을 압축 해제하는 것이 이상해 보입니다...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="550"/>
         <source>Failed to seek to first file in zip</source>
-        <translation>ZIP에서 첫 번째 파일을 찾지 못했습니다</translation>
+        <translation>ZIP에서 첫 번째 파일을 찾지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="590"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>대상 경로 %2을(를) 사실상 벗어나, %1의 압축 해제가 취소됨</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="596"/>
@@ -5486,7 +5486,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="610"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">%1에 대한 권한 문제를 해결하지 못함</translation>
+        <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
 </context>
 <context>
@@ -5537,12 +5537,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation type="unfinished">잠시만 기다려주세요...</translation>
+        <translation>잠시만 기다려 주세요...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <source>Status</source>
-        <translation type="unfinished">상태</translation>
+        <translation>상태</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -5552,22 +5552,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="162"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>또는</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="273"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>코드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="286"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>코드를 클립보드에 복사하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="324"/>
         <source>Info</source>
-        <translation type="unfinished">정보</translation>
+        <translation>정보</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5592,12 +5592,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="149"/>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을(를) 열거나 QR 코드를 스캔하여 위 코드를 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을(를) 연 다음 위 코드를 입력하십시오.</translation>
     </message>
 </context>
 <context>
@@ -5605,7 +5605,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>토큰을 새로 고치는 데 실패하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
@@ -5620,7 +5620,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft 사용자 인증 실패 - 리프레시 토큰이 비어 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
@@ -5667,7 +5667,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
         <source>Main Toolbar</source>
-        <translation>메인 툴바</translation>
+        <translation>주요 도구 모음</translation>
     </message>
     <message>
         <source>Add Instance</source>
@@ -5774,7 +5774,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="307"/>
         <source>Check for new updates for %1.</source>
-        <translation>새 %1 업데이트가 있는 지 확인합니다.</translation>
+        <translation>새 %1 업데이트가 있는지 확인합니다.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -5792,7 +5792,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation>뉴스 툴바</translation>
+        <translation>뉴스 도구 모음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="241"/>
@@ -5848,7 +5848,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation>인스턴스 툴바</translation>
+        <translation>인스턴스 도구 모음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
@@ -6036,7 +6036,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
         <source>Lock Toolbars</source>
-        <translation>툴바 잠그기</translation>
+        <translation>도구 모음 잠그기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="620"/>
@@ -6641,7 +6641,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished">데스크톱 항목</translation>
+        <translation>바탕 화면 항목</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
@@ -7266,7 +7266,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="53"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="55"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>마인크래프트 자바 프로필 받아오기 실패: %1</translation>
+        <translation>마인크래프트 Java 프로필 받아오기 실패: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -7514,7 +7514,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>환경</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
@@ -7534,7 +7534,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
         <source>Is the mod enabled?</source>
-        <translation>모드가 활성 상태입니까?</translation>
+        <translation>모드의 활성화 여부입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="207"/>
@@ -7549,7 +7549,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="211"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>모드가 마지막으로 수정(또는 추가) 된 날짜와 시간입니다.</translation>
+        <translation>모드가 마지막으로 수정(또는 추가)된 날짜와 시간입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="213"/>
@@ -8676,7 +8676,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <source>Add Empty Component</source>
-        <translation>빈 컴포넌트 추가</translation>
+        <translation>빈 구성 요소 추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
@@ -9979,7 +9979,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="203"/>
         <source>Invalid component file version, expected %1</source>
-        <translation>유효하지 않은 컴포넌트 파일 버전, %1을(를) 예상하였음</translation>
+        <translation>유효하지 않은 구성 요소 파일 버전, %1을(를) 예상하였음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="120"/>
@@ -12252,7 +12252,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="147"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>배경에 있는 고양이는 기본적으로 표시되지 않습니다. 이는 툴바에 있는 고양이 버튼을 누를 때만 보입니다.</translation>
+        <translation>배경에 있는 고양이는 기본적으로 표시되지 않습니다. 이는 도구 모음에 있는 고양이 버튼을 누를 때만 보입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="126"/>
@@ -12285,7 +12285,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>참고: 배경에 있는 고양이는 기본적으로 표시되지 않습니다. 이는 툴바에 있는 고양이 버튼을 누를 때만 보입니다.</translation>
+        <translation>참고: 배경에 있는 고양이는 기본적으로 표시되지 않습니다. 이는 도구 모음에 있는 고양이 버튼을 누를 때만 보입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
@@ -12605,7 +12605,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
         <source>Customize</source>
-        <translation>사용자 설정</translation>
+        <translation>사용자 지정</translation>
     </message>
     <message>
         <source>Customize selected package.</source>
@@ -12754,7 +12754,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Customize selected component.</source>
-        <translation>선택된 항목을 사용자화합니다.</translation>
+        <translation>선택된 항목을 사용자 지정합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
@@ -12819,12 +12819,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
         <source>Import Components</source>
-        <translation>컴포넌트 불러오기</translation>
+        <translation>구성 요소 불러오기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
         <source>Import existing component JSON files.</source>
-        <translation>기존의 컴포넌트 JSON 파일을 불러옵니다.</translation>
+        <translation>기존의 구성 요소 JSON 파일을 불러옵니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
@@ -12905,7 +12905,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
         <source>Java agents</source>
-        <translation type="unfinished">Java 에이전트</translation>
+        <translation>Java 에이전트</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -12923,22 +12923,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Select components</source>
-        <translation>컴포넌트 선택</translation>
+        <translation>구성 요소 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="320"/>
         <source>Components</source>
-        <translation type="unfinished">구성 요소</translation>
+        <translation>구성 요소</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
         <source>Failed to import components</source>
-        <translation>컴포넌트를 불러오지 못함</translation>
+        <translation>구성 요소를 불러오지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="326"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>일부 컴포넌트를 불러오지 못했습니다. 자세한 내용은 로그를 확인하십시오</translation>
+        <translation>일부 구성 요소를 불러오지 못했습니다. 자세한 내용은 로그를 확인하십시오</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
@@ -13185,7 +13185,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="220"/>
         <source>Customize toolbar actions</source>
-        <translation>툴바 액션 사용자화</translation>
+        <translation>도구 모음 동작 사용자 지정</translation>
     </message>
 </context>
 <context>
@@ -13206,7 +13206,7 @@ This world is hard linked elsewhere.</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="222"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>경고: 이 세계는 다른 곳과 상징적으로 연결되어 있습니다. 편집하면 원본도 변경됩니다.
+        <translation>경고: 이 세계는 다른 곳과 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
 표준 경로: %1</translation>
     </message>
     <message>
