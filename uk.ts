@@ -6616,7 +6616,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Настільні записи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
