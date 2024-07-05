@@ -2764,7 +2764,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished">Збірка CurseForge</translation>
+        <translation>Збірка CurseForge</translation>
     </message>
 </context>
 <context>
