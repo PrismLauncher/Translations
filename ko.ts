@@ -184,7 +184,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="388"/>
         <source>No loader version set for modpack!</source>
-        <translation>모드팩 로더 버전이 설정되지 않았습니다!</translation>
+        <translation>모드 팩 로더 버전이 설정되지 않았습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
@@ -264,7 +264,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1008"/>
         <source>Installing modpack</source>
-        <translation>모드팩 설치 중</translation>
+        <translation>모드 팩 설치 중</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
@@ -846,7 +846,7 @@ Prism Launcher 업데이트 로그를:
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation>당신의 /tmp 디렉토리가 &apos;noexec&apos; 플래그가 활성화된 상태로 마운트되었습니다.
+        <translation>당신의 /tmp 디렉터리가 &apos;noexec&apos; 플래그가 활성화된 상태로 마운트되었습니다.
 마인크래프트의 일부 버전이 실행되지 않을 수 있습니다.
 </translation>
     </message>
@@ -1006,7 +1006,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>경고: 이 기능은 아직 개발 중에 있습니다. 읽어들인 모드팩에서 문제가 발생한다면, 버그일 가능성이 높습니다.</translation>
+        <translation>경고: 이 기능은 아직 개발 중입니다. 읽어들인 모드 팩에서 문제가 발생한다면, 버그일 가능성이 높습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1176,7 +1176,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>모드를 다운로드한 디렉토리 선택</translation>
+        <translation>모드를 다운로드한 디렉터리 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
@@ -2525,7 +2525,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation>FTB 앱 인스턴스 디렉토리 선택</translation>
+        <translation>FTB 앱 인스턴스 디렉터리 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
@@ -2669,7 +2669,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>No loader version set for modpack!</source>
-        <translation>모드팩 로더 버전이 설정되지 않았습니다!</translation>
+        <translation>모드 팩 로더 버전이 설정되지 않았습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
@@ -2681,7 +2681,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="345"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>지정된 덮어쓸 폴더 (%1)가 존재하지 않습니다. 이미 모드팩이 쓰였을지도요?</translation>
+        <translation>지정된 덮어쓸 폴더 (%1)가 존재하지 않습니다. 모드 팩이 이미 사용되었을 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
@@ -2747,7 +2747,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="567"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation>중첩된 구조의 모드팩은 아직 구현되지 않았기에, 아무것도 다운로드되지 않았습니다: %1</translation>
+        <translation>중첩된 구조의 모드 팩은 아직 구현되지 않았기에, 아무것도 다운로드되지 않았습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="572"/>
@@ -2765,7 +2765,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;안녕하세요!&lt;/h1&gt;&lt;h4&gt;팩 ID가 비어 있는 것으로 보입니다. 이건 예전 버전의 런처의 버그 때문입니다.&lt;br/&gt;불행히도, 우리는 해당 정보 없이는 올바른 API 요청을 할 수 없습니다.&lt;br/&gt;&lt;br/&gt;그래서, 이 기능이 작동하려면, 모드팩을 내장 다운로더로 다시 다운로드해야 합니다.&lt;br/&gt;&lt;br/&gt;걱정하지 마세요, 인스턴스를 업데이트하는 대신 물을 것이니, 인스턴스를 잃지 않을 것입니다!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;안녕하십니까!&lt;/h1&gt;&lt;h4&gt;팩 ID가 비어 있는 것으로 보입니다. 이것은 이전 버전 런처의 버그 때문입니다.&lt;br/&gt;불행히도, 우리는 해당 정보 없이는 올바른 API 요청을 할 수 없습니다.&lt;br/&gt;&lt;br/&gt;그래서, 이 기능이 작동하려면, 모드 팩을 내장 다운로더로 다시 다운로드해야 합니다.&lt;br/&gt;&lt;br/&gt;걱정하지 마십시오, 인스턴스를 업데이트하는 대신 물을 것이니, 인스턴스를 잃지 않을 것입니다!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
@@ -2898,7 +2898,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>참고: CurseForge는 모드 제작자에게 Prism Launcher와 같은 서드파티 도구에 대한 접근을 차단할 수 있게 할 수 있습니다. 따라서 모드팩을 설치하려면 일부 모드를 수동으로 다운로드해야 할 수 있습니다.</translation>
+        <translation>참고: CurseForge는 모드 제작자에게 Prism Launcher와 같은 서드파티 도구에 대한 접근을 차단할 수 있게 할 수 있습니다. 따라서 모드 팩을 설치하려면 일부 모드를 수동으로 다운로드해야 할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="35"/>
@@ -3204,12 +3204,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- Curseforge 모드팩 (ZIP 혹은 curseforge:// URL)</translation>
+        <translation>- Curseforge 모드 팩 (ZIP 혹은 curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth 모드팩 (ZIP 및 mrpack)</translation>
+        <translation>- Modrinth 모드 팩 (ZIP 및 mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -3220,7 +3220,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technic 모드팩 (ZIP)</translation>
+        <translation>- Technic 모드 팩 (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -3247,12 +3247,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>해당 모드팩 %1은/는 제 3자에게 차단되었습니다! 직접 다운로드해 주세요.</translation>
+        <translation>해당 모드 팩 %1은(는) 제3자에게 차단되었습니다! 직접 다운로드하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>해당 URL은 유효한 모드팩이 아닙니다!</translation>
+        <translation>해당 URL은 유효한 모드 팩이 아닙니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -3273,7 +3273,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="214"/>
         <source>Choose modpack</source>
-        <translation>모드팩 선택</translation>
+        <translation>모드 팩 선택</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -4647,7 +4647,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>최근 실행 순 (&amp;B)</translation>
+        <translation>최근 실행순 (&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
@@ -4769,7 +4769,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
         <source>h</source>
-        <translation type="unfinished">시간</translation>
+        <translation>시간</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
@@ -4784,12 +4784,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>새 모드 팩 인스턴스를 생성할 때, 기존 인스턴스를 업데이트하지 마십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="252"/>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 팩 업데이트 프롬프트 건너뛰기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
@@ -4819,7 +4819,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>s</source>
-        <translation type="unfinished">초</translation>
+        <translation>초</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
@@ -4934,7 +4934,7 @@ This is known to cause problems. After a restart the launcher might break, becau
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation>Flatpak을 통해 임시로 부여된 인스턴스 폴더를 지정하려고 합니다.
-이 행동은 다시 시작 후 런처가 해당 디렉토리에 접근할 수 없어서 런처가 중단될 수 있는 문제가 발생하는 것으로 알려져 있습니다.
+이 행동은 다시 시작 후 런처가 해당 디렉터리에 접근할 수 없어서 런처가 중단될 수 있는 문제가 발생하는 것으로 알려져 있습니다.
 
 Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</translation>
     </message>
@@ -5648,7 +5648,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
         <source>Microsoft user authentication failed.</source>
-        <translation>Microsoft 유저 인증에 실패했습니다.</translation>
+        <translation>Microsoft 사용자 인증에 실패했습니다.</translation>
     </message>
     <message>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
@@ -6359,7 +6359,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="423"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>파일 탐색기로 선택한 인스턴스의 최상위 디렉토리를 엽니다.</translation>
+        <translation>파일 탐색기로 선택한 인스턴스의 최상위 디렉터리를 엽니다.</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -7385,7 +7385,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">폼</translation>
+        <translation>폼</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -9247,12 +9247,12 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation>앱 상위 폴더를 사용자 경로로 사용 (&apos;.&apos;으로 현재 디렉토리 사용).</translation>
+        <translation>앱 상위 폴더를 사용자 경로로 사용 (&apos;.&apos;으로 현재 디렉터리 사용).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>directory</source>
-        <translation>디렉토리</translation>
+        <translation>디렉터리</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
@@ -10433,7 +10433,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <source>Sort by Game Version</source>
-        <translation>게임 버전으로 정렬</translation>
+        <translation>게임 버전순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
@@ -10468,17 +10468,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">%1에 대한 권한 문제를 해결하지 못함</translation>
+        <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation type="unfinished">아이템</translation>
+        <translation>항목</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation type="unfinished">아이템</translation>
+        <translation>항목</translation>
     </message>
 </context>
 <context>
@@ -10492,7 +10492,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="388"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">%1 버전 변경</translation>
+        <translation>%1 버전 변경</translation>
     </message>
 </context>
 <context>
@@ -10523,7 +10523,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="71"/>
         <source>Review and confirm</source>
-        <translation>검토하고 확정</translation>
+        <translation>검토 및 확정</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
@@ -10533,7 +10533,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished">확인 필요</translation>
+        <translation>확인 필요</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
@@ -10727,7 +10727,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="307"/>
         <source>Loading versions...</source>
-        <translation>버전 로드 중...</translation>
+        <translation>버전을 불러오는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
@@ -10737,12 +10737,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
         <source>The resource was not found</source>
-        <translation>리소스팩을 찾을 수 없습니다</translation>
+        <translation>리소스 팩을 찾을 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
@@ -10856,7 +10856,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="200"/>
         <source>Size</source>
-        <translation type="unfinished">크기</translation>
+        <translation>크기</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -10927,7 +10927,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
-        <translation type="unfinished">크기</translation>
+        <translation>크기</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
@@ -11557,7 +11557,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="269"/>
         <source>Path is empty.</source>
-        <translation type="unfinished">경로가 비어 있습니다.</translation>
+        <translation>경로가 비어 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="272"/>
@@ -11582,7 +11582,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="282"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished">파일을 복사할 수 없습니다</translation>
+        <translation>파일을 복사할 수 없음</translation>
     </message>
 </context>
 <context>
@@ -11642,12 +11642,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">스킨 삭제 (&amp;D)</translation>
+        <translation>스킨 삭제 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Deletes selected skin</source>
-        <translation type="unfinished">선택한 스킨을 삭제합니다</translation>
+        <translation>선택한 스킨 삭제</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="176"/>
@@ -11672,22 +11672,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="141"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">스킨 텍스처 선택</translation>
+        <translation>스킨 텍스처 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="144"/>
         <source>Selected file is not a valid skin</source>
-        <translation type="unfinished">선택한 파일은 올바른 스킨이 아닙니다</translation>
+        <translation>선택한 파일이 올바른 스킨이 아님</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="162"/>
         <source>No Cape</source>
-        <translation type="unfinished">망토 없음</translation>
+        <translation>망토 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="169"/>
         <source>Download capes</source>
-        <translation type="unfinished">망토 다운로드</translation>
+        <translation>망토 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="238"/>
@@ -11697,12 +11697,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="241"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">스킨 파일이 존재하지 않습니다!</translation>
+        <translation>스킨 파일이 존재하지 않습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="255"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">스킨 업로드에 실패하였습니다!</translation>
+        <translation>스킨 업로드에 실패하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="266"/>
@@ -11712,17 +11712,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Skin Delete</source>
-        <translation type="unfinished">스킨 삭제</translation>
+        <translation>스킨 삭제</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">현재 스킨 삭제에 실패했습니다!</translation>
+        <translation>현재 스킨 삭제에 실패하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
         <source>Context menu</source>
-        <translation type="unfinished">컨텍스트 메뉴</translation>
+        <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
@@ -11732,19 +11732,19 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
         <source>Can not delete skin that is in use.</source>
-        <translation type="unfinished">사용 중인 스킨을 삭제할 수 없습니다.</translation>
+        <translation>사용 중인 스킨을 삭제할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="327"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">삭제 확인</translation>
+        <translation>삭제 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished">%1을(를) 삭제하려고 합니다.
-삭제 하시겠습니까?</translation>
+        <translation>&quot;%1&quot;을(를) 삭제하려고 합니다.
+삭제하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
@@ -11759,7 +11759,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="358"/>
         <source>URL is not a valid skin</source>
-        <translation>URL이 유효한 스킨이 아닙니다</translation>
+        <translation>URL이 유효한 스킨이 아님</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="359"/>
@@ -11769,7 +11769,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="360"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation>스킨을 다운로드할 수 없습니다: &apos;% 1&apos;.</translation>
+        <translation>스킨을 다운로드할 수 없습니다: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="406"/>
@@ -11779,44 +11779,44 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="424"/>
         <source>failed to get user UUID</source>
-        <translation>사용자 UUID를 가져오지 못했습니다</translation>
+        <translation>사용자 UUID를 가져오지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="431"/>
         <source>failed to get user profile</source>
-        <translation>사용자 프로필을 가져오지 못했습니다</translation>
+        <translation>사용자 프로필을 가져오지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="435"/>
         <source>failed to download skin</source>
-        <translation>스킨을 다운로드하지 못했습니다</translation>
+        <translation>스킨을 다운로드하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="445"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
         <source>failed to parse get user UUID response</source>
-        <translation>사용자 UUID 가져오기 응답을 파싱하지 못했습니다</translation>
+        <translation>사용자 UUID 가져오기 응답을 파싱하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="454"/>
         <source>user id is empty</source>
-        <translation type="unfinished">유저 ID가 비어 있습니다</translation>
+        <translation>사용자 ID가 비어 있음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="468"/>
         <source>failed to parse get user profile response</source>
-        <translation>사용자 프로필 가져오기 응답을 파싱하지 못했습니다</translation>
+        <translation>사용자 프로필 가져오기 응답을 파싱하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="485"/>
         <source>the skin is invalid</source>
-        <translation>유효하지 않은 스킨입니다</translation>
+        <translation>스킨이 유효하지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="487"/>
         <source>Username not found</source>
         <oldsource>Usename not found</oldsource>
-        <translation type="unfinished">사용자 이름을 찾을 수 없습니다</translation>
+        <translation>사용자 이름을 찾을 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="488"/>
@@ -11907,7 +11907,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation>하위 작업 상태 ...</translation>
+        <translation>하위 작업 상태...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
@@ -11921,28 +11921,28 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>모드팩 다운로드 중:
+        <translation>모드 팩을 다운로드하는 중:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
         <source>Modpack download</source>
-        <translation>모드팩 다운로드</translation>
+        <translation>모드 팩 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation>모드팩 추출 중</translation>
+        <translation>모드 팩을 압축 해제하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="71"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>모드팩 압축 파일을 열 수 없음.</translation>
+        <translation>모드 팩 압축 파일을 열 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="99"/>
         <source>Failed to extract modpack</source>
-        <translation>모드팩 추출 실패</translation>
+        <translation>모드 팩 압축 해제 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="120"/>
@@ -11977,7 +11977,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation>모드팩 파일(들) 처리중</translation>
+        <translation>모드 팩 파일을 처리하는 중</translation>
     </message>
     <message>
         <source>Downloading modpack:</source>
@@ -11987,7 +11987,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
         <source>Downloading modpack</source>
-        <translation>모드팩 다운로드 중</translation>
+        <translation>모드 팩을 다운로드하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
@@ -11999,12 +11999,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation>모드팩 추출 중</translation>
+        <translation>모드 팩을 압축 해제하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
         <source>Failed to extract modpack</source>
-        <translation>모드팩 추출 실패</translation>
+        <translation>모드 팩 압축 해제 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
@@ -12125,7 +12125,7 @@ inheritsFrom 누락됨</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="148"/>
         <source>The date and time this texture pack was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>텍스쳐 팩이 마지막으로 수정(또는 추가) 된 날짜와 시간입니다.</translation>
+        <translation>텍스처 팩이 마지막으로 수정(또는 추가)된 날짜와 시간입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
@@ -12150,7 +12150,7 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Size</source>
-        <translation type="unfinished">크기</translation>
+        <translation>크기</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="89"/>
@@ -12171,7 +12171,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="150"/>
         <source>The size of the texture pack.</source>
-        <translation type="unfinished">텍스쳐 팩의 크기.</translation>
+        <translation>텍스처 팩의 크기.</translation>
     </message>
     <message>
         <source>Is the resource enabled?</source>
@@ -13531,7 +13531,7 @@ Are you sure?</source>
 Please set up your account according to %1.</source>
         <translation>이 Microsoft 계정은 미성년자이며 가족 계정과 연결되어 있지 않습니다.
  
-%1에 따라 계정을 설정해주세요.</translation>
+%1에 따라 계정을 설정하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="134"/>
@@ -13596,7 +13596,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation>Xbox 유저로 로그인하는 중.</translation>
+        <translation>Xbox 사용자로 로그인하는 중.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
@@ -13606,12 +13606,12 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="58"/>
         <source>XBox user authentication failed: %1</source>
-        <translation>XBox 유저 인증에 실패했습니다: %1</translation>
+        <translation>XBox 사용자 인증에 실패했습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="66"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>XBox 유저 인증 응답을 이해할 수 없습니다.</translation>
+        <translation>XBox 사용자 인증 응답을 이해할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="70"/>
