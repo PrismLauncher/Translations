@@ -2688,7 +2688,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CurseForge paketas</translation>
     </message>
 </context>
 <context>
@@ -3943,7 +3943,7 @@ Ar norite tęsti be „Java“?
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="401"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minimalus atminties paskyrimas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="402"/>
