@@ -187,12 +187,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Error al encontrar la versión para el cargador %1</translation>
+        <translation>Error al encontrar la versión para el loader %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="388"/>
         <source>No loader version set for modpack!</source>
-        <translation>¡No se ha establecido una versión del cargador para el modpack!</translation>
+        <translation>¡No se ha establecido una versión del loader para el modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
@@ -282,7 +282,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
         <source>Unknown loader type: </source>
-        <translation>Tipo de cargador desconocido: </translation>
+        <translation>Tipo de loader desconocido: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1061"/>
@@ -2610,7 +2610,7 @@ Por favor, inténtelo de nuevo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>No se encontró una versión válida para este mod. Probablemente no esté disponible para la versión actual del juego / cargador de mods.</translation>
+        <translation>No se encontró una versión válida para este mod. Probablemente no esté disponible para la versión actual del juego / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="154"/>
@@ -2698,7 +2698,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Cargador de mods desconocido en el manifiesto: %1</translation>
+        <translation>Mod loader desconocido en el manifiesto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
@@ -4846,12 +4846,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al crear una nueva instancia de modpack, no sugerir actualizar las instancias existentes en su lugar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="252"/>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitir el aviso de actualización de un modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
@@ -4871,17 +4871,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundos de espera hasta que finalicen las solicitudes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de espera para solicitudes HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
@@ -7866,7 +7866,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="247"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="395"/>
         <source>Please install a mod loader first!</source>
-        <translation>¡Primero instala un cargador de mods!</translation>
+        <translation>¡Primero instala un mod loader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
@@ -8371,7 +8371,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="101"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>No se encontró una versión válida para este mod. Probablemente no esté disponible para la versión actual del juego / cargador de mods.</translation>
+        <translation>No se encontró una versión válida para este mod. Probablemente no esté disponible para la versión actual del juego / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="131"/>
@@ -11214,7 +11214,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Este archivo se descargará en una ubicación de carpeta diferente a la predeterminada, posiblemente debido a que su cargador así lo requiera.</translation>
+        <translation>Este archivo se descargará en una ubicación de carpeta diferente a la predeterminada, posiblemente debido a que su loader así lo requiera.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="63"/>
@@ -12905,7 +12905,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Install a mod loader.</source>
-        <translation>Instalar un cargador de mods.</translation>
+        <translation>Instalar un mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
