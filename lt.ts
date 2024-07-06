@@ -1034,7 +1034,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laukiama...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
@@ -1938,7 +1938,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CurseForge paketas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -3363,7 +3363,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Praleisti Java derėjimo patikras</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="112"/>
@@ -3373,7 +3373,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minimalus atminties paskyrimas:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="174"/>
