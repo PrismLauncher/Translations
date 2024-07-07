@@ -4869,12 +4869,12 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przy tworzeniu nowej instancji paczki modyfikacji, nie sugeruj, aby w zamian zaktualizować istniejące instancje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="252"/>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomiń komunikat o aktualizacji paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
@@ -4894,17 +4894,17 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekundy oczekiwania na zakończenie zapytań</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit czasu dla zapytań HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>sek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
@@ -5636,37 +5636,37 @@ Powód:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Proszę czekać...</translation>
+        <translation>Proszę czekać...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaloguj kontem Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="162"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Lub</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="273"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>KOD</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="286"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiuj kod do schowka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="324"/>
         <source>Info</source>
-        <translation type="unfinished">Info</translation>
+        <translation>Informacje</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5691,12 +5691,12 @@ Powód:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="149"/>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz %1 lub zeskanuj kod QR i wprowadź powyższy kod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz %1 i wprowadź powyższy kod.</translation>
     </message>
 </context>
 <context>
@@ -5704,7 +5704,7 @@ Powód:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się odświeżyć token-a.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
@@ -5719,12 +5719,12 @@ Powód:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwierzytelnienie użytkownika Microsoft się nie powiodło - nowy token jest pusty.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
-        <translation>Zdobyto </translation>
+        <translation>Otrzymano </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -6771,7 +6771,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozycje Pulpitu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
@@ -7535,7 +7535,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Program rozruchowy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -7664,12 +7664,12 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Bok</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Program rozruchowy</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
@@ -7709,12 +7709,12 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>W jakim środowisku modyfikacja jest uruchamiana.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Program ładujący modyfikacje.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
@@ -7864,12 +7864,12 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Change Version</source>
-        <translation type="unfinished">Zmień wersję</translation>
+        <translation>Zmień Wersję</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień wersję modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -10683,7 +10683,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="388"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Zmień wersję %1</translation>
+        <translation>Zmień wersję %1</translation>
     </message>
 </context>
 <context>
@@ -10923,17 +10923,17 @@ Zaktualizuj %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
         <source>Reinstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstaluj ponownie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Enter</translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
         <source>The resource was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Zasób nie został znaleziony</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
@@ -11798,7 +11798,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Slim</source>
-        <translation>Slim</translation>
+        <translation>Smukły</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="69"/>
@@ -11934,7 +11934,8 @@ Jesteś tego pewien?</translation>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaraz usuniesz &quot;%1&quot;.
+Jesteś sure(nięty)?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
@@ -11985,7 +11986,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="445"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
         <source>failed to parse get user UUID response</source>
-        <translation type="unfinished"></translation>
+        <translation>nie udało się przetworzyć odpowiedzi UUID użytkownika</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="454"/>
@@ -11995,7 +11996,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="468"/>
         <source>failed to parse get user profile response</source>
-        <translation type="unfinished"></translation>
+        <translation>nie udało się przetworzyć odpowiedzi profilu użytkownika</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="485"/>
@@ -13105,7 +13106,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Agenci Java</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
