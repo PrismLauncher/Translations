@@ -73,12 +73,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: 비공개 데이터에 접근하려면 이것을 설정해야 합니다. 자세한 건 &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;문서&lt;/a&gt;를 참고하세요.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: 비공개 데이터에 접근하려면 이것만 설정해도 됩니다. 자세한 건 &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;문서&lt;/a&gt;를 참고하십시오.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Modrinth의 커스텀 API 토큰을 여기에 입력하세요.</translation>
+        <translation>Modrinth의 커스텀 API 토큰을 여기에 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -154,12 +154,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="342"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>다음의 로컬 메타데이터를 얻는 데 실패하였습니다: %1</translation>
+        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못하였습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="152"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>다음의 로컬 메타데이터를 얻는 데 실패하였습니다: &apos;%1&apos; v%2</translation>
+        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못하였습니다: &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
@@ -179,7 +179,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 로더에 대한 버전을 찾는 데 실패하였습니다</translation>
+        <translation>%1 로더에 대한 버전을 찾지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="388"/>
@@ -209,7 +209,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="680"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>팩 설정 %1을(를) 여는 데에 실패하였습니다!</translation>
+        <translation>팩 설정 %1을(를) 열지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
@@ -254,7 +254,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
         <source>Failed to extract mods...</source>
-        <translation>모드(들) 추출 실패...</translation>
+        <translation>모드 추출 실패...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="937"/>
@@ -269,7 +269,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
         <source>Failed to create libraries component</source>
-        <translation>라이브러리 구성 요소를 만드는데 실패하였습니다</translation>
+        <translation>라이브러리 구성 요소를 만들지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
@@ -279,7 +279,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1061"/>
         <source>Failed to create pack component</source>
-        <translation>팩 구성 요소를 만드는데 실패하였습니다</translation>
+        <translation>팩 구성 요소를 만들지 못함</translation>
     </message>
 </context>
 <context>
@@ -323,7 +323,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation>라이센스</translation>
+        <translation>라이선스</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
@@ -886,12 +886,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>에셋 인덱스 업데이트 중...</translation>
+        <translation>애셋 인덱스를 업데이트하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation>%1의 에셋 인덱스</translation>
+        <translation>%1의 애셋 인덱스</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="43"/>
@@ -902,25 +902,25 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
         <source>Failed to read the assets index!</source>
-        <translation>에셋 인덱스를 읽는 데 실패하였습니다!</translation>
+        <translation>애셋 인덱스를 읽지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Mojang에서 에셋 파일들을 가져오는 중...</translation>
+        <translation>Mojang에서 애셋 파일을 가져오는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="92"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>에셋 인덱스를 다운로드하는 데 실패하였습니다:
+        <translation>애셋 인덱스를 다운로드하지 못함:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>에셋을 다운로드하는 데 실패하였습니다:
+        <translation>애셋을 다운로드하지 못함:
 %1</translation>
     </message>
 </context>
@@ -1011,7 +1011,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
         <source>Version selected:</source>
-        <translation>선택된 버전:</translation>
+        <translation>선택한 버전:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
@@ -1049,12 +1049,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>현재 마인크래프트 %1에 사용가능한 버전이 없습니다</translation>
+        <translation>현재 마인크래프트 %1에 사용할 수 있는 버전이 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation>현재 사용가능한 버전들이 없습니다</translation>
+        <translation>현재 사용할 수 있는 버전이 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
@@ -1097,7 +1097,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>인증 서버에 접속하는 데 실패하였습니다.</translation>
+        <translation>인증 서버에 접속하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
@@ -1264,12 +1264,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>일부 구성 요소 메타데이터를 불러오는 데 실패하였습니다.</translation>
+        <translation>일부 구성 요소 메타데이터를 불러오지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>의존성 검사 확인 중 충돌하는 요구 사항이 확인됐습니다!</translation>
+        <translation>의존성 검사 확인 중 충돌하는 요구 사항이 확인되었습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
@@ -1285,7 +1285,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>다음 원격 서버에서 다운로드하는 중 구성 요소 메타데이터 업데이트 작업이 실패했습니다:
+        <translation>다음 원격 서버에서 다운로드하던 중 구성 요소 메타데이터 업데이트 작업이 실패하였습니다:
 %1</translation>
     </message>
 </context>
@@ -1294,12 +1294,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="95"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>모든 실행 중인 작업을 중단하는 데에 실패했습니다.</translation>
+        <translation>모든 실행 중인 작업을 중단하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="125"/>
         <source>One or more subtasks failed</source>
-        <translation>1개 이상의 서브태스크가 실패함</translation>
+        <translation>하나 이상의 하위 작업이 실패함</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="276"/>
@@ -1309,7 +1309,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="280"/>
         <source>Please wait...</source>
-        <translation>잠시만 기다려주세요...</translation>
+        <translation>잠시 기다려 주십시오...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="282"/>
@@ -1352,7 +1352,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>이 기능을 비활성화하면 모드 로더(예: 패브릭, 퀼트 등)는 계속 유지되지만 모드 폴더와 해당 구성은 지워집니다.</translation>
+        <translation>이 기능을 비활성화하면 모드 로더(예: Fabric, Quilt 등)는 계속 유지되지만 모드 폴더와 해당 구성은 지워집니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1392,7 +1392,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>심볼릭 / 하드 링크 옵션</translation>
+        <translation>심볼릭 및 하드 링크 옵션</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
@@ -1503,7 +1503,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>Windows에선, 심볼릭 링크를 만들려면 관리자 권한이 필요할 수 있습니다.</translation>
+        <translation>Windows에서는, 심볼릭 링크를 만들려면 관리자 권한이 필요할 수 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -1519,7 +1519,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="15"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>주 게임 폴더를 만들 수 없습니다</translation>
+        <translation>주요 게임 폴더를 만들 수 없음</translation>
     </message>
 </context>
 <context>
@@ -2435,7 +2435,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="208"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation>선택된 파일은 실행 가능한 파일이 아닌 듯 합니다</translation>
+        <translation>선택한 파일이 실행 가능한 파일이 아닌 듯함</translation>
     </message>
 </context>
 <context>
@@ -2443,7 +2443,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="87"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>네이티브 JAR &apos;%1&apos;을(를) &apos;%2&apos;로 추출하는 데에 실패하였습니다</translation>
+        <translation>네이티브 JAR &apos;%1&apos;을(를) &apos;%2&apos;로 추출하지 못함</translation>
     </message>
 </context>
 <context>
@@ -2471,7 +2471,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>인스턴스 안에 FML 라이브러리 폴더를 생성하는 데 실패했습니다.</translation>
+        <translation>인스턴스 안에 FML 라이브러리 폴더를 생성하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
@@ -2485,7 +2485,7 @@ Are you sure you want to do this?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation>다음 파일들을 다운로드하는 데 실패했습니다:
+        <translation>다음 파일들을 다운로드하지 못하였습니다:
 %1
 
 원인:%2
@@ -2530,7 +2530,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>참고: 만약 당신의 FTB 인스턴스가 기본 위치에 없다면, 버튼을 이용해 선택하고 다음 버튼을 눌러 검색하세요.</translation>
+        <translation>참고: 만약 당신의 FTB 인스턴스가 기본 위치에 없다면, 버튼을 이용해 선택하고 다음 버튼을 눌러 검색하십시오.</translation>
     </message>
 </context>
 <context>
@@ -2547,12 +2547,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation>파일 복사 중...</translation>
+        <translation>파일을 복사하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation>설정 복사 중...</translation>
+        <translation>설정을 복사하는 중...</translation>
     </message>
 </context>
 <context>
@@ -2560,7 +2560,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="31"/>
         <source>Resolving mod IDs...</source>
-        <translation>모드 ID 처리중...</translation>
+        <translation>모드 ID를 처리하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
@@ -2577,7 +2577,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="123"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>CurseForge 모드 준비 중...</translation>
+        <translation>CurseForge 모드를 준비하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
@@ -2659,12 +2659,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>다음의 로컬 메타데이터를 얻는 데에 실패하였습니다: %1</translation>
+        <translation>다음 로컬 메타데이터를 얻지 못함: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="299"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 로더에 대한 버전을 찾는데 실패하였습니다</translation>
+        <translation>%1 로더에 대한 버전을 찾지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
@@ -3285,17 +3285,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>불러올 인스턴스를 선택하세요</translation>
+        <translation>불러올 인스턴스 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>이 리소스 팩을 불러올 인스턴스를 선택하세요.</translation>
+        <translation>이 리소스 팩을 불러올 인스턴스를 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>%1을 불러올 인스턴스를 선택하세요.</translation>
+        <translation>%1을(를) 불러올 인스턴스를 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -3338,12 +3338,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Forge</source>
-        <translation>포지</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Fabric</source>
-        <translation>패브릭</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
@@ -3392,12 +3392,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="146"/>
         <source>Instance folder copy failed.</source>
-        <translation>인스턴스 폴더 복사에 실패했습니다.</translation>
+        <translation>인스턴스 폴더를 복사하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="184"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>인스턴스 폴더 복사가 중지됐습니다.</translation>
+        <translation>인스턴스 폴더 복사가 중지되었습니다.</translation>
     </message>
 </context>
 <context>
@@ -3608,7 +3608,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
         <source>Java insta&amp;llation</source>
-        <translation>자바 설치본 (&amp;L)</translation>
+        <translation>Java 설치본 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
@@ -3627,12 +3627,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="64"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>이 옵션을 선택하면 런처는 인스턴스가 선택한 자바 버전과 호환되는지 확인하지 않습니다.</translation>
+        <translation>이 옵션을 선택하면 런처는 인스턴스가 선택한 Java 버전과 호환되는지 확인하지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
         <source>Skip Java compatibility checks</source>
-        <translation>자바 호환성 검사 무시</translation>
+        <translation>Java 호환성 검사 무시</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="112"/>
@@ -3657,7 +3657,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="196"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>로드된 자바 클래스를 저장하는 데에 사용 가능한 메모리입니다.</translation>
+        <translation>불러온 Java 클래스를 저장하는 데 사용할 수 있는 메모리입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
@@ -3677,12 +3677,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>참고: 펌젠(Permgen) 은 자바 8 이상일 경우 자동설정됩니다</translation>
+        <translation>참고: Permgen은 Java 8 이상에서 자동으로 설정됩니다</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="237"/>
         <source>Java argumen&amp;ts</source>
-        <translation>자바 명령행 인자 (&amp;T)</translation>
+        <translation>Java 명령행 인자 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="256"/>
@@ -3891,7 +3891,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a server to join on launch</source>
-        <translation>실행 후 바로 접속 할 서버 설정</translation>
+        <translation>실행 후 바로 접속할 서버 설정</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="683"/>
@@ -3922,17 +3922,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
         <source>Select a Java version</source>
-        <translation>자바 버전을 선택하세요</translation>
+        <translation>Java 버전 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="417"/>
         <source>Find Java executable</source>
-        <translation>자바 실행 파일 찾기</translation>
+        <translation>Java 실행 파일 찾기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="524"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>최대 메모리 할당이 최소 값보다 작습니다</translation>
+        <translation>최대 메모리 할당량이 최솟값보다 작음</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -3941,12 +3941,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="518"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량을 초과했습니다.</translation>
+        <translation>최대 메모리 할당량이 시스템의 메모리 수용량을 초과합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="521"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량에 근접했습니다.</translation>
+        <translation>최대 메모리 할당량이 시스템의 메모리 수용량에 근접합니다.</translation>
     </message>
 </context>
 <context>
@@ -3959,7 +3959,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="924"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>여러 번의 시도에도 인스턴스를 수정 할 수 없었습니다. 무엇인가에 의해 막힌 것 같습니다.</translation>
+        <translation>여러 번의 시도에도 인스턴스를 수정할 수 없었습니다. 무언가에 의해 차단된 것 같습니다.</translation>
     </message>
 </context>
 <context>
@@ -3972,7 +3972,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>시작하려면 &quot;인스턴스 추가&quot;를 클릭하세요.</translation>
+        <translation>시작하려면 &quot;인스턴스 추가&quot;를 클릭하십시오.</translation>
     </message>
 </context>
 <context>
@@ -3980,7 +3980,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation>콘솔창 </translation>
+        <translation>콘솔 창 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
@@ -4022,7 +4022,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation>실행중인 인스턴스 강제 종료</translation>
+        <translation>실행 중인 인스턴스 강제 종료</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -4031,7 +4031,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation>선택한 인스턴스를 실행합니다</translation>
+        <translation>선택한 인스턴스 실행</translation>
     </message>
 </context>
 <context>
@@ -4039,7 +4039,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation>다음 포트에서 수신중: %1</translation>
+        <translation>다음 포트에서 수신 중: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
@@ -4065,7 +4065,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="159"/>
         <source>Detecting Java installations...</source>
-        <translation>자바 설치본들을 감지하는 중...</translation>
+        <translation>Java 설치본을 감지하는 중...</translation>
     </message>
 </context>
 <context>
@@ -4105,12 +4105,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>로드된 자바 클래스를 저장하는 데에 사용 가능한 메모리입니다.</translation>
+        <translation>불러온 Java 클래스를 저장하는 데 사용할 수 있는 메모리입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
         <source>Java Runtime</source>
-        <translation>자바 런타임</translation>
+        <translation>Java 런타임</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
@@ -4121,7 +4121,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="255"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>자바 경로 (&amp;J):</translation>
+        <translation>Java 경로 (&amp;J):</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -4153,28 +4153,28 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="286"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation>자바 설치마법사 건너뛰기 (&amp;W)</translation>
+        <translation>Java 설치 마법사 건너뛰기 (&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>이 옵션을 선택하면 런처는 인스턴스가 선택한 자바 버전과 호환되는지 확인하지 않습니다.</translation>
+        <translation>이 옵션을 선택하면 런처는 인스턴스가 선택한 Java 버전과 호환되는지 확인하지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>자바 호환성 검사 무시 (&amp;S)</translation>
+        <translation>Java 호환성 검사 무시 (&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
         <source>Java</source>
-        <translation>자바</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="130"/>
         <source>Select a Java version</source>
-        <translation>자바 버전을 선택하세요</translation>
+        <translation>Java 버전 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="142"/>
@@ -4202,7 +4202,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="159"/>
         <source>No Java version selected</source>
-        <translation>자바 버전이 선택되지 않음</translation>
+        <translation>Java 버전이 선택되지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="160"/>
@@ -4212,11 +4212,11 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>자바 버전을 선택하지 않았거나 작동하지 않는 것을 선택하셨습니다.
-%1는 마인크래프트를 시작할 수 없습니다.
-자바 선택 없이 계속하시겠습니까?
+        <translation>Java 버전을 선택하지 않았거나 작동하지 않는 것을 선택하였습니다.
+%1은(는) 마인크래프트를 시작할 수 없습니다.
+Java를 선택하지 않고 계속하시겠습니까?
 
-자바 버전은 이후 설정에서 수정 가능합니다.
+Java 버전은 이후 설정에서 수정할 수 있습니다.
 </translation>
     </message>
     <message>
@@ -4252,7 +4252,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="404"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>로드된 자바 클래스를 저장하는 데에 사용 가능한 메모리입니다.</translation>
+        <translation>불러온 Java 클래스를 저장하는 데 사용할 수 있는 메모리입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="405"/>
@@ -4280,7 +4280,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
         <source>Java</source>
-        <translation>자바</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="87"/>
@@ -4288,8 +4288,8 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation>실행 가능한 자바가 아직 선택되지 않았거나 설정이 분실되었을 수 있습니다.
-다음 중에 선택하거나 자바 실행파일을 찾아보십시오.</translation>
+        <translation>실행할 수 있는 Java가 아직 선택되지 않았거나 설정이 분실되었을 수 있습니다.
+다음 중에 선택하거나 Java 실행 파일을 찾아 보십시오.</translation>
     </message>
 </context>
 <context>
@@ -4305,7 +4305,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>언어가 지원되지 않거나 번역의 질이 좋지 않나요?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;번역 작업을 도와주세요!&lt;/a&gt;</translation>
+        <translation>언어가 지원되지 않거나 번역의 질이 좋지 않습니까?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;번역 작업을 도와주십시오!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
@@ -4336,7 +4336,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="73"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>잘못된 자바 인수를 지정했습니다. 이 문제를 먼저 고쳐야 합니다.</translation>
+        <translation>잘못된 Java 인수를 지정하였습니다. 이 문제를 먼저 고쳐야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="90"/>
@@ -4437,7 +4437,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="290"/>
         <source>Account refresh failed</source>
-        <translation>계정 리셋 실패</translation>
+        <translation>계정 새로고침 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="296"/>
@@ -4462,7 +4462,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="313"/>
         <source>Failed to launch.</source>
-        <translation>실행에 실패하였습니다.</translation>
+        <translation>실행하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="322"/>
@@ -4474,7 +4474,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <location filename="src/launcher/LaunchController.cpp" line="323"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>인스턴스 프로필을 불러오는 데 실패하였습니다.</translation>
+        <translation>인스턴스 프로필을 불러오지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
@@ -4484,7 +4484,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation>%1의 프로파일러 확인이 실패함: %2</translation>
+        <translation>%1의 프로파일러를 확인하지 못함: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="392"/>
@@ -4916,7 +4916,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="111"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>&apos;!&apos;를 포함하는 경로로 인스턴스 경로를 지정하려 하고 있습니다. 이 경우 자바가 문제를 일으킬 수 있습니다. 인스턴스가 시작하려 하지 않을 수 있습니다!</translation>
+        <translation>&apos;!&apos;를 포함하는 경로로 인스턴스 경로를 지정하려 하고 있습니다. 이 경우 Java가 문제를 일으켜 인스턴스가 시작하지 않을 수 있습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
@@ -5002,7 +5002,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>레거시 런처 라이브러리를 찾을 수 없습니다. 설치를 확인하세요.</translation>
+        <translation>레거시 런처 라이브러리를 찾을 수 없습니다. 설치를 확인하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
@@ -5071,7 +5071,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="124"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>몇개의 팩을 다운로드 하는데 실패했습니다: %1</translation>
+        <translation>몇몇 팩을 다운로드하지 못함: %1</translation>
     </message>
 </context>
 <context>
@@ -5093,7 +5093,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>모드팩 파일 %1을(를) 여는 데에 실패했습니다!</translation>
+        <translation>모드 팩 파일 %1을(를) 열지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="135"/>
@@ -5104,7 +5104,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation>압축 해제된 마인크래프트를 옮기는 데에 실패했습니다!</translation>
+        <translation>압축 해제된 마인크래프트를 옮기지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -5181,7 +5181,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>팩의 정보를 다운로드가 %1 코드를 리턴하며 실패하였습니다.
+        <translation>코드 %1이(가) 반환되어 팩 정보를 다운로드하지 못하였습니다.
 지금 제거하시겠습니까?</translation>
     </message>
     <message>
@@ -5192,7 +5192,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Enter pack code:</source>
-        <translation>팩 코드를 입력해 주세요:</translation>
+        <translation>팩 코드 입력:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
@@ -5287,11 +5287,11 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>로컬에 있어야할 파일들이 실종되었습니다:
+        <translation>로컬에 있어야 할 파일들이 실종되었습니다:
 %1
 
-파일들을 직접 추가하거나, 그 파일을 요구하는 패키지를 삭제하세요.
-수동으로 이 오류를 해결해야합니다.</translation>
+파일들을 직접 추가하거나, 그 파일을 요구하는 패키지를 삭제하십시오.
+수동으로 이 오류를 해결해야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
@@ -5303,8 +5303,8 @@ You&apos;ll have to correct this problem manually.</source>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation>게임 업데이트 실패: 필요한 라이브러리를 가져오는 것이 불가능하였습니다.
-원인:
+        <translation>게임 업데이트 실패: 필요한 라이브러리를 가져올 수 없습니다.
+이유:
 %1</translation>
     </message>
 </context>
@@ -5420,7 +5420,7 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
         <source>The process failed to start.</source>
-        <translation>명령어 시작에 실패했습니다.</translation>
+        <translation>프로세스를 시작하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -5471,7 +5471,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="543"/>
         <source>Failed to enumerate files in archive</source>
-        <translation>압축된 파일을 열거하는 데 실패함</translation>
+        <translation>압축된 파일을 열거하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="546"/>
@@ -5491,7 +5491,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="596"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation>파일을 %1에서 %2(으)로 추출하는 데 실패함</translation>
+        <translation>파일을 %1에서 %2(으)로 추출하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="610"/>
@@ -5514,7 +5514,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="121"/>
         <source>Failed to retrieve device authorization</source>
-        <translation>기기 인증 정보를 받아오는 데 실패함</translation>
+        <translation>기기 인증 정보를 받아오지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="127"/>
@@ -5547,7 +5547,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation>잠시만 기다려 주세요...</translation>
+        <translation>잠시 기다려 주십시오...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -5615,7 +5615,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation>토큰을 새로 고치는 데 실패하였습니다.</translation>
+        <translation>토큰을 새로 고치지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
@@ -5648,7 +5648,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
         <source>Microsoft user authentication failed.</source>
-        <translation>Microsoft 사용자 인증에 실패했습니다.</translation>
+        <translation>Microsoft 사용자 인증에 실패하였습니다.</translation>
     </message>
     <message>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
@@ -6508,7 +6508,7 @@ Microsoft 계정을 추가하세요.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="960"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>이 모드팩, 모드 혹은 리소스 %1은 제 3자에서 차단되었습니다! 직접 다운로드해 주세요.</translation>
+        <translation>이 모드 팩, 모드 또는 리소스 %1이(가) 제3자에서 차단되었습니다! 직접 다운로드하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="994"/>
@@ -6543,7 +6543,7 @@ Microsoft 계정을 추가하세요.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1270"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation>이 인스턴스는 편집할 수 없습니다. 손상되었거나 유효하지 않거나 너무 오래되었을 수 있습니다. 자세한 내용은 로그를 확인하세요.</translation>
+        <translation>이 인스턴스는 편집할 수 없습니다. 손상되었거나 유효하지 않거나 너무 오래되었을 수 있습니다. 자세한 내용은 로그를 확인하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1305"/>
@@ -6558,7 +6558,7 @@ Microsoft 계정을 추가하세요.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1309"/>
         <source>Failed to add %1 to PATH</source>
-        <translation>%1을 PATH에 추가하는 데 실패함</translation>
+        <translation>%1을 PATH에 추가하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
@@ -6661,7 +6661,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
         <source>Failed to create instance shortcut!</source>
-        <translation>인스턴스의 바로 가기를 만드는 데 실패했습니다!</translation>
+        <translation>인스턴스의 바로 가기를 만들지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1539"/>
@@ -6716,7 +6716,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1594"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1605"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation>바로 가기의 아이콘을 만드는 데 실패했습니다.</translation>
+        <translation>바로 가기의 아이콘을 만들지 못하였습니다.</translation>
     </message>
     <message>
         <source>Desktop Entries (*.desktop)</source>
@@ -6740,7 +6740,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1718"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>인스턴스 폴더에 &apos;!&apos;이 포함되어 있습니다. 이 경우 자바에 문제가 생길 수 있습니다!</translation>
+        <translation>인스턴스 폴더에 &apos;!&apos;이 포함되어 있습니다. 이 경우 Java에 문제가 생길 수 있습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
@@ -7892,7 +7892,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>커스텀 마인크래프트 JAR 파일을 생성하는 데에 실패하였습니다.</translation>
+        <translation>사용자 지정 마인크래프트 JAR 파일을 생성하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -8010,7 +8010,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="76"/>
         <source>Metadata generation failed</source>
-        <translation>메타데이터 생성 실패</translation>
+        <translation>메타데이터를 생성하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
@@ -8020,7 +8020,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="91"/>
         <source>Checking for updates</source>
-        <translation>업데이트 확인 중</translation>
+        <translation>업데이트를 확인하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
@@ -8047,7 +8047,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="120"/>
         <source>Checking for updates...</source>
-        <translation>업데이트 확인 중...</translation>
+        <translation>업데이트를 확인하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="166"/>
@@ -8068,7 +8068,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
         <source>Checking for dependencies...</source>
-        <translation>의존성 확인 중...</translation>
+        <translation>의존성을 확인하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="306"/>
@@ -8083,7 +8083,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="176"/>
         <source>Failed to check for updates</source>
-        <translation>업데이트 확인 실패</translation>
+        <translation>업데이트를 확인하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="177"/>
@@ -8093,12 +8093,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="263"/>
         <source>Looking for metadata</source>
-        <translation>메타데이터 찾는 중</translation>
+        <translation>메타데이터를 찾는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="362"/>
         <source>Generating metadata...</source>
-        <translation>메타데이터 생성 중...</translation>
+        <translation>메타데이터를 생성하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="420"/>
@@ -8244,8 +8244,8 @@ Please update %1!</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>API 버전이 오래됐습니다!
-%1을(를) 업데이트하세요!</translation>
+        <translation>API 버전이 오래되었습니다!
+%1을(를) 업데이트하십시오!</translation>
     </message>
 </context>
 <context>
@@ -8673,7 +8673,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="118"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation>NetJob의 모든 작업을 중단하는 데 실패했습니다!</translation>
+        <translation>NetJob의 모든 작업을 중단하지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="144"/>
@@ -9128,7 +9128,7 @@ Error message: %3</source>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation>실행 후 명령어가 실패했습니다. 코드는 %1 입니다.
+        <translation>실행 전 명령어가 코드 %1와 함께 실패하였습니다.
 
 </translation>
     </message>
@@ -9137,7 +9137,7 @@ Error message: %3</source>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation>실행 후 명령어가 성공적으로 실행됬습니다.
+        <translation>실행 후 명령어가 성공적으로 실행되었습니다.
 
 </translation>
     </message>
@@ -9155,7 +9155,7 @@ Error message: %3</source>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation>실행 전 명령어가 코드 %1와 함께 실패했습니다.
+        <translation>실행 전 명령어가 코드 %1와 함께 실패하였습니다.
 
 </translation>
     </message>
@@ -9307,7 +9307,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
         <source>Select the version to install with a GUI.</source>
-        <translation>GUI로 설치하려는 버전을 선택하세요.</translation>
+        <translation>GUI로 설치하려는 버전을 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
@@ -9355,7 +9355,7 @@ Make sure you have write permissions to the data folder.
 The updater cannot continue until you fix this problem.</source>
         <translation>업데이터가 로그 파일을 만들지 못했습니다 - 데이터 폴더에 쓸 수 없습니다.
 
-데이터 폴더에 쓰기 권한이 있는 지 확인하세요.
+데이터 폴더에 쓰기 권한이 있는지 확인하십시오.
 (%1)
 
 이 문제를 수정할 때까지 진행할 수 없습니다.</translation>
@@ -9431,12 +9431,12 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="878"/>
         <source>No Valid Release Assets</source>
-        <translation>유효한 릴리스 에셋 없음</translation>
+        <translation>유효한 릴리스 애셋이 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation>GitHub 릴리스 %1이 이 플랫폼의 유효한 에셋을 가지고 있지 않음: %2</translation>
+        <translation>GitHub 릴리스 %1이(가) 이 플랫폼의 유효한 애셋을 가지고 있지 않음: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
@@ -9473,7 +9473,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to download the selected asset.</source>
-        <translation>선택한 에셋을 다운로드하는데 실패했습니다.</translation>
+        <translation>선택한 애셋을 다운로드하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="998"/>
@@ -9496,13 +9496,13 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation>설치 프로그램이 현재 다음 위치에서 업데이트 잠금 파일을 발견했습니다: %1
+        <translation>설치 프로그램이 현재 다음 위치에서 업데이트 잠금 파일을 발견하였습니다: %1
 
 시간: %2
 %3에서 %4로 업데이트
 설치 경로: %5
 데이터 경로: %6
-이는 보통 업데이트 시도가 실패했음을 의미합니다. 진행하기 전에 설치가 진행 중인지 확인했습니다.
+이는 보통 업데이트 시도가 실패하였음을 의미합니다. 진행하기 전에 설치가 진행 중인지 확인하였습니다.
 마지막 업데이트 시도의 자세한 내용을 확인하려면: 
 %7
 위 위치에서 Prism Launcher 업데이터 로그를 볼 수 있습니다.
@@ -9613,12 +9613,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1222"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>자식 프로세스 &quot;%1 %2&quot;가 실패했습니다.</translation>
+        <translation>자식 프로세스 &quot;%1 %2&quot;가 실패하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1224"/>
         <source>Failed to extract archive</source>
-        <translation>압축 파일을 추출하는 데 실패했습니다</translation>
+        <translation>압축 파일을 추출하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1229"/>
@@ -9634,7 +9634,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation>런처 자식 프로세스가 버전을 읽는 데 실패했습니다.</translation>
+        <translation>런처 자식 프로세스가 버전을 읽지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
@@ -9652,7 +9652,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation>프로필을 선택하세요.</translation>
+        <translation>프로필을 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
@@ -9728,7 +9728,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>잠시만 기다려주세요...</translation>
+        <translation>잠시 기다려 주십시오...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -9785,13 +9785,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation>&amp;SOCKS5</translation>
+        <translation>SOCKS5 (&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation>&amp;HTTP</translation>
+        <translation>HTTP (&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
@@ -9907,7 +9907,7 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>&quot;%1&quot;을 %2로 업로드하려고 합니다.
-개인 정보를 다시 확인하세요.
+개인 정보를 다시 확인하십시오.
 
 확실합니까?</translation>
     </message>
@@ -9935,24 +9935,24 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="281"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation>선택된 자바 실행 파일이 정상적으로 시작되지 않았습니다.&lt;br /&gt;</translation>
+        <translation>선택한 Java 실행 파일이 정상적으로 시작되지 않았습니다.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="291"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation>선택된 자바 실행 파일이 예측되지 않은 다음 결과를 반환하였습니다:&lt;br /&gt;</translation>
+        <translation>선택된 Java 실행 파일이 예기치 않은 다음 결과를 반환하였습니다:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="301"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>자바 테스트 성공!&lt;br /&gt;플랫폼 보고됨: %1&lt;br /&gt;자바 버전 보고됨: %2&lt;br /&gt;</translation>
+        <translation>Java 테스트 성공!&lt;br /&gt;보고된 플랫폼: %1&lt;br /&gt;보고된 Java 버전: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test success</source>
-        <translation>자바 테스트 성공</translation>
+        <translation>Java 테스트 성공</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
@@ -9960,7 +9960,7 @@ Are you sure?</source>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
-        <translation>자바 테스트 실패</translation>
+        <translation>Java 테스트 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="62"/>
@@ -10034,7 +10034,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
         <source>Assets for %1</source>
-        <translation>%1의 에셋</translation>
+        <translation>%1의 애셋</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="79"/>
@@ -10153,8 +10153,8 @@ This message will be displayed until you remove them from the JVM arguments.</so
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>수동으로 JVM 메모리 옵션을 설정하려 했습니다(&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 또는 &quot;-Xms&quot; 사용).
-설정에 메모리 설정을 위한 전용 옵션들이 있습니다. (자바 탭 가장 위쪽의 메모리 그룹).
-수동 설정은 전용 옵션에 의해 재정의 될 것입니다. 이 메시지는 JVM 명령줄 인수에서 메모리 옵션을 지울때까지 표시됩니다.</translation>
+설정에 메모리 설정을 위한 전용 옵션이 있습니다(Java 탭 가장 위쪽의 메모리 그룹).
+수동 설정은 전용 옵션에 의해 재정의됩니다. 이 메시지는 JVM 명령줄 인수에서 메모리 옵션을 지울 때까지 표시됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
@@ -10166,13 +10166,13 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>JVM에 자바 버전 인수를 전달하려고 했습니다(&quot;-version:xxx&quot; 사용). 이것은 안전하지 않으며 허용하지 않습니다.
+        <translation>JVM에 Java 버전 인수를 전달하려고 했습니다(&quot;-version:xxx&quot; 사용). 이것은 안전하지 않으며 허용되지 않습니다.
 이 메시지는 JVM 명령줄 인수를 제거할 때까지 표시됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="69"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>자바 테스트 성공!&lt;br /&gt;플랫폼 보고됨: %1&lt;br /&gt;자바 버전 보고됨: %2&lt;br /&gt;자바 벤더 보고됨: %3&lt;br /&gt;</translation>
+        <translation>Java 테스트 성공!&lt;br /&gt;보고된 플랫폼: %1&lt;br /&gt;보고된 Java 버전: %2&lt;br /&gt;보고된 Java 벤더: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="77"/>
@@ -10183,13 +10183,13 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="87"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>지정된 자바 실행 파일에 제공된 명령행 인수들을 적용하여 실행하지 못하였습니다:&lt;br /&gt;</translation>
+        <translation>지정된 Java 실행 파일에 제공된 명령행 인수들을 적용하여 실행하지 못하였습니다:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="95"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>지정된 자바 바이너리는 작동하지 않습니다.&lt;br /&gt;자동감지 기능을 사용하거나, path 환경 변수에 자바 실행파일 경로를 추가하세요.&lt;br /&gt;</translation>
+        <translation>지정된 Java 바이너리는 작동하지 않습니다.&lt;br /&gt;자동 감지 기능을 사용하거나, path 환경 변수에 Java 실행 파일 경로를 추가하십시오.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
@@ -10627,8 +10627,8 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation>API 버전이 오래됐습니다!
-%1을(를) 업데이트하세요!</translation>
+        <translation>API 버전이 오래되었습니다!
+%1을(를) 업데이트하십시오!</translation>
     </message>
 </context>
 <context>
@@ -10884,18 +10884,18 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="506"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>리소스의 이름.</translation>
+        <translation>리소스의 이름입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="509"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>리소스가 최근 수정(혹은 추가)된 날짜와 시간.</translation>
+        <translation>리소스가 최근 수정(혹은 추가)된 날짜와 시간입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="511"/>
         <source>The size of the resource.</source>
-        <translation>리소스의 크기.</translation>
+        <translation>리소스의 크기입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="556"/>
@@ -10939,7 +10939,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>리소스 팩의 형식 ID, 디자인된 마인크래프트 버전을 표시함.</translation>
+        <translation>리소스 팩의 형식 ID, 디자인된 마인크래프트 버전입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
@@ -11228,7 +11228,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="437"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
         <source>Failed to upload screenshots!</source>
-        <translation>스크린샷을 업로드 하는 데 실패하였습니다!</translation>
+        <translation>스크린샷을 업로드하지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
@@ -11319,7 +11319,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="119"/>
         <source>Select a version to install.</source>
-        <translation>설치할 버전을 선택하세요.</translation>
+        <translation>설치할 버전을 선택하십시오.</translation>
     </message>
 </context>
 <context>
@@ -11332,7 +11332,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation>업데이트하고 싶은 릴리스를 선택하세요.</translation>
+        <translation>업데이트하고 싶은 릴리스를 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="44"/>
@@ -11349,7 +11349,7 @@ Are you sure?</source>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation>설치할 버전을 선택하세요.
+        <translation>설치할 버전을 선택하십시오.
 
 현재 설치된 버전: %1</translation>
     </message>
@@ -11702,7 +11702,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="255"/>
         <source>Failed to upload skin!</source>
-        <translation>스킨 업로드에 실패하였습니다!</translation>
+        <translation>스킨을 업로드하지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="266"/>
@@ -11717,7 +11717,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Failed to delete current skin!</source>
-        <translation>현재 스킨 삭제에 실패하였습니다!</translation>
+        <translation>현재 스킨을 삭제하지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
@@ -12290,7 +12290,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation>사용할 테마를 선택하세요</translation>
+        <translation>사용할 테마 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
@@ -12539,24 +12539,24 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="60"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>자바의 주 버전이 호환되지 않습니다. 작동하지 않을 수도 있습니다.</translation>
+        <translation>Java의 주 버전이 호환되지 않습니다. 작동하지 않을 수도 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="65"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation>이 인스턴스는 자바 버전 %1 과 호환되지 않습니다.
-다음 자바 버전 중 하나로 변경하세요:</translation>
+        <translation>이 인스턴스는 Java 버전 %1와(과) 호환되지 않습니다.
+다음 Java 버전 중 하나로 변경하세요:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="70"/>
         <source>Java version %1</source>
-        <translation>자바 버전 %1</translation>
+        <translation>Java 버전 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>당신이 무엇을 하고 있는지 안다면 인스턴스 자바 설정으로 가서 자바 버전을 변경하거나 자바 호환성 검사를 비활성화할 수 있습니다.</translation>
+        <translation>당신이 무엇을 하고 있는지 안다면 인스턴스 Java 설정으로 가서 Java 버전을 변경하거나 Java 호환성 검사를 비활성화할 수 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -12702,12 +12702,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
         <source>Add Java agents.</source>
-        <translation>자바 에이전트를 추가합니다.</translation>
+        <translation>Java 에이전트를 추가합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
         <source>Add Empty</source>
-        <translation>빈 것 추가</translation>
+        <translation>빈 항목 추가</translation>
     </message>
     <message>
         <source>Add an empty custom package.</source>
@@ -12972,7 +12972,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation>Intermediary mappings 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
+        <translation>Intermediary mappings 버전 목록을 불러오거나 다운로드하지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="406"/>
@@ -12980,8 +12980,8 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation>하나 이상의 계정을 추가하지 않으면 마인크래프트 다운로드 또는 인스턴스 업데이트를 할 수 없습니다.
-Microsoft 계정을 추가하세요.</translation>
+        <translation>하나 이상의 계정을 추가하지 않으면 마인크래프트 다운로드하거나 인스턴스를 업데이트할 수 없습니다.
+Microsoft 계정을 추가하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="542"/>
@@ -13056,7 +13056,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="482"/>
         <source>Error updating instance</source>
-        <translation>인스턴스 업데이트 중 오류</translation>
+        <translation>인스턴스 업데이트 오류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="59"/>
@@ -13114,12 +13114,12 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The version&apos;s branch</source>
-        <translation>버전의 분류</translation>
+        <translation>버전 분류</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>The version&apos;s type</source>
-        <translation>버전의 유형</translation>
+        <translation>버전 유형</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
@@ -13157,7 +13157,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="95"/>
         <source>Choose Version</source>
-        <translation>버전을 선택하세요</translation>
+        <translation>버전 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="96"/>
@@ -13203,14 +13203,14 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="200"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation>이 세계는 다른 세계와 상징적으로 연결되어 있습니다.</translation>
+        <translation>이 세계는 다른 세계와 심볼릭 링크되어 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
-이 세계는 다른 곳과 밀접하게 연결되어 있습니다.</translation>
+이 세계는 다른 세계와 하드 링크되어 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="222"/>
@@ -13222,7 +13222,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>경고: 이 세계는 다른 곳과 연결되어 있습니다. 편집하면 원본도 변경됩니다.</translation>
+        <translation>경고: 이 세계는 다른 세계와 하드 링크되어 있습니다. 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
@@ -13397,13 +13397,13 @@ You can set it up in the global settings.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="302"/>
         <source>MCEdit failed to start!</source>
-        <translation>MCEdit 시작에 실패하였습니다!</translation>
+        <translation>MCEdit을 시작하지 못하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="303"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation>MCEdit 시작에 실패하였습니다.
+        <translation>MCEdit을 시작하지 못하였습니다.
 재설치가 필요할 수도 있습니다.</translation>
     </message>
     <message>
@@ -13453,7 +13453,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
         <source>Enter a new name for the copy.</source>
-        <translation>복사본을 위한 새로운 이름을 입력하세요.</translation>
+        <translation>복사본을 위한 새로운 이름을 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
@@ -13463,7 +13463,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
         <source>Enter a new world name.</source>
-        <translation>새로운 세계 이름을 입력하세요.</translation>
+        <translation>새로운 세계 이름을 입력하십시오.</translation>
     </message>
 </context>
 <context>
@@ -13477,7 +13477,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="63"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>%1 서비스의 권한을 얻는 데 실패하였습니다. 오류 %2.</translation>
+        <translation>%1 서비스의 권한을 얻지 못하였습니다. 오류 %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="66"/>
@@ -13551,7 +13551,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="149"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation>이 Microsoft 계정은 현재 제한되었으며 보호자가 온라인 플레이를 허용하지 않았습니다. %1에 로그인하여 보호자에게 허용해 달라고 요청하세요.</translation>
+        <translation>이 Microsoft 계정은 현재 제한되었으며 보호자가 온라인 플레이를 허용하지 않았습니다. %1에 로그인하여 보호자에게 허용을 요청하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="156"/>
