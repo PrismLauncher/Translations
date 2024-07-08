@@ -4571,7 +4571,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="65"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation>마인크래프트 액세스 토큰 응답을 분석하지 못했습니다.</translation>
+        <translation>마인크래프트 액세스 토큰 응답을 분석하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -7285,12 +7285,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="61"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>마인크래프트 Java 프로필의 응답을 분석할 수 없습니다</translation>
+        <translation>마인크래프트 Java 프로필의 응답을 분석할 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>마인크래프트 Java 프로필을 획득했습니다.</translation>
+        <translation>마인크래프트 Java 프로필을 획득하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -11795,7 +11795,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="445"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="459"/>
         <source>failed to parse get user UUID response</source>
-        <translation>사용자 UUID 가져오기 응답을 파싱하지 못함</translation>
+        <translation>사용자 UUID 가져오기 응답을 분석하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="454"/>
@@ -11805,7 +11805,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="468"/>
         <source>failed to parse get user profile response</source>
-        <translation>사용자 프로필 가져오기 응답을 파싱하지 못함</translation>
+        <translation>사용자 프로필 가져오기 응답을 분석하지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="485"/>
