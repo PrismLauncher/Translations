@@ -4877,12 +4877,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>При создании нового экземпляра модпака не предлагайте вместо этого обновить существующие экземпляры.</translation>
+        <translation>Не предлагать обновить существующие установки при создании новой сборки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="252"/>
         <source>Skip modpack update prompt</source>
-        <translation>Пропустить запрос на обновление модпака</translation>
+        <translation>Пропускать предложения обновить сборку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
