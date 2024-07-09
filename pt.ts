@@ -5430,7 +5430,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, aguarde...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -5440,7 +5440,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sessão com Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="162"/>
@@ -5486,7 +5486,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir %1 e inserir o código acima.</translation>
     </message>
 </context>
 <context>
@@ -7200,7 +7200,7 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
         <source>Show all versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todas as versões</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
@@ -7314,7 +7314,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versões de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
@@ -7364,7 +7364,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>O tamanho do mod.</translation>
     </message>
 </context>
 <context>
@@ -7496,7 +7496,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar a versão do mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -7574,7 +7574,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="256"/>
         <source>Confirm Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar atualização</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
@@ -8140,7 +8140,7 @@ Por favor atualiza %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Este projeto foi arquivado. Não irá receber mais atualizações, exceto se o autor decidir desarquivar o projeto.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
@@ -8454,7 +8454,7 @@ Por favor atualiza %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar tudo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="41"/>
@@ -8779,13 +8779,14 @@ Mensagem de erro: %3</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
         <source>Update Check Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na verificação de atualizações</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha a iniciar após 5 segundos
+Motivo: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
@@ -8797,7 +8798,7 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>No Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem Atualizações Disponíveis</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
