@@ -373,7 +373,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Офлайн</translation>
+        <translation>Офлайн</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
@@ -807,7 +807,7 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Актуализацията бе успешна.
+        <translation>Актуализацията бе успешна.
 
 Вие вече използвате версия %1.
 Проверете записите на актуализатора на Prism Launcher на:
@@ -971,7 +971,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Сигурни ли сте, че искате да включите този мод?</translation>
+        <translation>Сигурни ли сте, че искате да активирате този мод?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
@@ -984,7 +984,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Внимание: Това все още бива разработвано. Ако попаднете на проблеми с внесния пакет с модификации, може да е грешка.</translation>
+        <translation>Внимание: Тази функционалност все още бива разработвана. Ако попаднете на проблеми с инсталирания модпак, възможно е да е програмна грешка.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
