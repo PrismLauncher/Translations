@@ -10023,17 +10023,17 @@ Wybierz ostrożnie swoją nazwę:</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
@@ -10043,27 +10043,27 @@ Wybierz ostrożnie swoją nazwę:</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl widżetu próbujący wyglądać jak motyw win32</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl widżetów inspirowany systemem Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl widżetów QT inspirowany WinUI 3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Domyślny styl widżetów Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Twój bieżący motyw systemu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
