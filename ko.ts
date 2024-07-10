@@ -1722,7 +1722,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="43"/>
         <source>Password</source>
-        <translation>비밀번호</translation>
+        <translation>암호</translation>
     </message>
 </context>
 <context>
@@ -9774,30 +9774,30 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
-        <translation>기본값 (&amp;D)</translation>
+        <translation>기본값(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;None</source>
-        <translation>없음 (&amp;N)</translation>
+        <translation>없음(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation>SOCKS5 (&amp;S)</translation>
+        <translation>SOCKS5(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation>HTTP (&amp;H)</translation>
+        <translation>HTTP(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation>주소와 포트 (&amp;A)</translation>
+        <translation>주소와 포트(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -9808,18 +9808,18 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation>아이디 (&amp;U):</translation>
+        <translation>아이디(&amp;U):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation>비밀번호 (&amp;P):</translation>
+        <translation>암호(&amp;P):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>참고: 프록시 아이디와 비밀번호는 런처의 설정 파일에 평문으로 저장됩니다!</translation>
+        <translation>참고: 프록시 아이디와 암호는 런처의 설정 파일에 평문으로 저장됩니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="57"/>
@@ -9837,17 +9837,17 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
@@ -9857,27 +9857,27 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Win32 테마처럼 보이려는 위젯 스타일</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x에서 영감을 얻은 위젯 스타일</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>WinUI 3에서 영감을 얻은 Qt 위젯 스타일</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 Qt 위젯 스타일</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 시스템 테마</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
