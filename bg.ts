@@ -984,7 +984,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Внимание: Тази функционалност все още бива разработвана. Ако попаднете на проблеми с инсталирания модпак, възможно е да е програмна грешка.</translation>
+        <translation>Внимание: Тази функционалност все още бива разработвана. Ако попаднете на проблеми с инсталирания модпак, възможно е да има програмна грешка.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
