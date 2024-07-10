@@ -844,9 +844,9 @@ for details.</oldsource>
         <translation>Обновление успешно
 
 Теперь вы используете %1.
-
-Подробности об обновлении доступны в журнале установки:
-%1</translation>
+Проверьте журнал установки:
+%2
+чтобы узнать подробности об обновлении</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="996"/>
@@ -10047,17 +10047,17 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
@@ -10067,12 +10067,12 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль виджета пытается выглядеть как ваша тема Windows 32</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль виджета, вдохновленный Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
@@ -10082,12 +10082,12 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль виджета Qt по умолчанию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша текущая тема системы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
