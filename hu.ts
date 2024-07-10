@@ -4822,7 +4822,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation>Másodpercek, amíg várni kell, amíg a kérelmek megszűnnek</translation>
+        <translation>A kérések befejezéséig várandó másodpercek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
