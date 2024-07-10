@@ -5414,8 +5414,8 @@ Sebep:
         <translation>En Alt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Minecraft Sistem Kayıtları</translation>
     </message>
@@ -10285,8 +10285,8 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
         <translation>Bilinmeyen format sürümü!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Boş dizin yolu</translation>
     </message>
@@ -10479,8 +10479,8 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
         <translation>Popülerliğe göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Son güncellenene göre sırala</translation>
     </message>
@@ -10495,8 +10495,8 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
         <translation>Yapımcıya göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>İndirilmeye Göre Sırala</translation>
     </message>

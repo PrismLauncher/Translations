@@ -5388,8 +5388,8 @@ Indok:
         <translation>Alja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Minecraft napló</translation>
     </message>
@@ -10260,8 +10260,8 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <translation>Ismeretlen verzióformátumú!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Üres elérési út</translation>
     </message>
@@ -10454,8 +10454,8 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Népszerűség szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Utolsó frissítés szerinti rendezés</translation>
     </message>
@@ -10470,8 +10470,8 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Alkotó szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Letöltések száma szerinti rendezés</translation>
     </message>
