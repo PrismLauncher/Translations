@@ -6084,7 +6084,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="612"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="615"/>
