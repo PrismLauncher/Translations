@@ -4667,12 +4667,12 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ao criar uma nova instância do modpack, não sugira a atualização das instâncias existentes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="252"/>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar o pedido de atualização do modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
@@ -5412,12 +5412,12 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesso ao dispositivo falhou: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtido</translation>
     </message>
 </context>
 <context>
@@ -5435,7 +5435,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <source>Status</source>
-        <translation type="unfinished">Estado</translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -5445,22 +5445,22 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="162"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>Ou</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="273"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>CÓDIGO</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="286"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar código para a área de transferência</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="324"/>
         <source>Info</source>
-        <translation type="unfinished">Informação</translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5481,7 +5481,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="149"/>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir &amp;1 ou digitalizar o QR e introduzir o código acima.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
@@ -5494,7 +5494,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na atualização do token.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
@@ -5509,12 +5509,12 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticação do utilizador Microsoft falhou - token de atualização está vazio.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
-        <translation>Obteve </translation>
+        <translation>Obtido </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -6064,12 +6064,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="588"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir a pasta das skins num navegador de ficheiros.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="600"/>
@@ -6243,13 +6243,13 @@ Tens a certeza que queres proceder?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="533"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Criar instância</translation>
+        <translation>&amp;Criar instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="547"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Apagar grupo &apos;%1&apos;</translation>
+        <translation>&amp;Apagar grupo</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -6343,7 +6343,7 @@ Por favor adiciona a tua conta Mojang ou Microsoft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="994"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Transferência do modpack</translation>
+        <translation>Modpack transferido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
@@ -6466,7 +6466,7 @@ Queres proceder na mesma?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Entradas do Desktop</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
@@ -6739,32 +6739,32 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Iniciar</translation>
+        <translation>&amp;Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished">Iniciar &amp;Offline</translation>
+        <translation>Iniciar &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctrl+Shift+O</translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished">Iniciar &amp;Demonstração</translation>
+        <translation>Iniciar &amp;Demonstração</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished">Ctrl+Alt+O</translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="263"/>
         <source>Profilers</source>
-        <translation type="unfinished">Profilers</translation>
+        <translation>Profilers</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="273"/>
@@ -6877,7 +6877,7 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="203"/>
         <source>Legacy settings</source>
-        <translation type="unfinished">Definições legacy</translation>
+        <translation>Definições herdadas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
@@ -6960,7 +6960,7 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
         <source>Use Zink</source>
-        <translation type="unfinished">Usa o Zink</translation>
+        <translation>Usa o Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -6993,7 +6993,7 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="144"/>
         <source>Show time spent playing in hours</source>
-        <translation type="unfinished">Mostrar tempo de jogo em horas</translation>
+        <translation>Mostrar tempo de jogo em horas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="154"/>
@@ -7039,7 +7039,7 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="149"/>
         <source>Auto detected path: %1</source>
-        <translation type="unfinished">Caminho auto-detetado: %1</translation>
+        <translation>Caminho auto-detetado: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
@@ -7160,42 +7160,42 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregadores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
         <source>Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versões</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="142"/>
@@ -7205,22 +7205,22 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="158"/>
         <source>Environments</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambientes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="170"/>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Hide installed items</source>
-        <translation type="unfinished"></translation>
+        <translation>Esconder itens instalados</translation>
     </message>
 </context>
 <context>
@@ -7279,12 +7279,12 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Enable</source>
-        <translation type="unfinished">Ativar</translation>
+        <translation>Ativar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
         <source>Image</source>
-        <translation type="unfinished">Imagem</translation>
+        <translation>Imagem</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="69"/>
@@ -7294,22 +7294,22 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Size</source>
-        <translation type="unfinished">Tamanho</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Lado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregadores</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Lançamento</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
@@ -7344,22 +7344,22 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
         <source>On what environment the mod is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Em qual ambiente está o mod a funcionar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
         <source>The mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>O carregador do mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>As versões suportadas do minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="221"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>O tipo de lançamento.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
@@ -7491,7 +7491,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Change Version</source>
-        <translation type="unfinished">Mudar Versão</translation>
+        <translation>Mudar Versão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
