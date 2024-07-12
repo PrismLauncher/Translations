@@ -4370,12 +4370,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>When creating a new modpack instance, do not suggest updating existing instances instead.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="252"/>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Skip modpack update prompt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
@@ -9156,17 +9156,17 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
         <source>Windows 9x</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="74"/>
         <source>Windows 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 11</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="76"/>
@@ -9176,27 +9176,27 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget style trying to look like your win32 theme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 9x inspired widget style</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>WinUI 3 inspired Qt widget style</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>The default Qt widget style</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
         <source>Your current system theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Your current system theme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="46"/>
