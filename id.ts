@@ -545,13 +545,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>Jadikan Default (&amp;S)</translation>
+        <translation>Jadikan Bawaan (&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>Kosongkan Default (&amp;N)</translation>
+        <translation>Kosongkan Bawaan (&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
