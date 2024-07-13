@@ -7584,7 +7584,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar mods enquanto o jogo está rodando pode causar duplicação do mod e crashar o jogo.
+Os arquivos antigos não pode ser deletados pois estão em uso.
+Você tem certeza que quer fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="277"/>
