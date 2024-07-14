@@ -1098,7 +1098,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation type="unfinished">Wartet...</translation>
+        <translation>Warte...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
