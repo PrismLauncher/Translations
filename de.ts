@@ -1108,42 +1108,42 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Authentifizierung erfolgreich.</translation>
+        <translation>Authentifizierung erfolgreich.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Fehler bei der Verbindung zum Authentifizierungs-Server.</translation>
+        <translation>Fehler bei der Verbindung zum Authentifizierungs-Server.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Die Client-ID wurde geändert. Eine neue Sitzung muss erstellt werden.</translation>
+        <translation>Die Client-ID wurde geändert. Eine neue Sitzung muss erstellt werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Es ist ein Fehler bei der Authentifizierung aufgetreten.</translation>
+        <translation>Es ist ein Fehler bei der Authentifizierung aufgetreten.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Authentifizierung fehlgeschlagen. Die Sitzung ist abgelaufen.</translation>
+        <translation>Authentifizierung fehlgeschlagen. Die Sitzung ist abgelaufen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Authentifizierung fehlgeschlagen. Das Konto existiert nicht mehr.</translation>
+        <translation>Authentifizierung fehlgeschlagen. Das Konto existiert nicht mehr.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Unbekannter Konto-Aufgabenstatus: %1</translation>
+        <translation>Unbekannter Konto-Aufgabenstatus: %1</translation>
     </message>
 </context>
 <context>
@@ -2009,12 +2009,12 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth Pack</translation>
+        <translation>Modrinth Paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge Paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -2141,7 +2141,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
         <source>File</source>
-        <translation type="unfinished">Datei</translation>
+        <translation>Datei</translation>
     </message>
 </context>
 <context>
@@ -2235,12 +2235,12 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Export modlist</source>
-        <translation type="unfinished">Mod-Liste exportieren</translation>
+        <translation>Mod-Liste exportieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="182"/>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished">Metadaten der Mod in Text exportieren</translation>
+        <translation>Metadaten der Mod in Text exportieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -2800,7 +2800,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge Paket</translation>
     </message>
     <message>
         <source> (Current)</source>
@@ -3133,7 +3133,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished">Prozess gestartet: %1</translation>
+        <translation>Prozess gestartet: %1</translation>
     </message>
 </context>
 <context>
@@ -3505,7 +3505,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished">Versuche die Art der Instanz zu erkennen</translation>
+        <translation>Versuche die Art der Instanz zu erkennen</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
@@ -4840,17 +4840,17 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="66"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisierungs-Intervall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf 0 setzen, um nur beim Start zu überprüfen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
         <source>h</source>
-        <translation type="unfinished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
@@ -4865,12 +4865,12 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim erstellen einer neuen Modpack-Instanz nicht vorschlagen, andere instanzen zu aktualisieren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="252"/>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Überspringe Modpack Aktualisierungsaufforderung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
@@ -4890,17 +4890,17 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekunden, die abgewartet werden sollen bis die Anfragen abgebrochen werden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="299"/>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitüberschreitung für HTTP Anfragen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="306"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
@@ -5042,7 +5042,7 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished">Skinordner</translation>
+        <translation>Skinordner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="322"/>
@@ -5556,32 +5556,32 @@ Grund:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="543"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished">Dateiaufzählung im Archiv fehlgeschlagen</translation>
+        <translation>Dateiaufzählung im Archiv fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="546"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Leere Archive zu extrahieren scheint merkwürdig...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="550"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche nach der ersten Datei im Zip fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="590"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrahieren von %1 fehlgeschlagen, weil es außerhalb vom Ziel-Pfad %2 war</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="596"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished">Extrahierung der Datei von %1 zu %2 fehlgeschlagen</translation>
+        <translation>Extrahierung der Datei %1 nach %2 fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="610"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Berechtigungen für %1 konnten nicht gesetzt werden</translation>
     </message>
 </context>
 <context>
@@ -5594,22 +5594,22 @@ Grund:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished">Geräteautorisierung fehlgeschlagen: %1</translation>
+        <translation>Geräteautorisierung fehlgeschlagen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrufen der Geräte-Authorisierung fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Geräte-Authorisierung fehlgeschlagen: Benötigte Angaben fehlen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Aufgabe abgebrochen</translation>
+        <translation>Aufgabe abgebrochen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
@@ -12120,7 +12120,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation>Sub Task Status...</translation>
+        <translation>Sub-Aufgabenstatus...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
