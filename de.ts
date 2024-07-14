@@ -4845,7 +4845,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation>Auf 0 setzen, um nur beim Start zu überprüfen</translation>
+        <translation>Setze es auf 0 um nur beim Start zu überprüfen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
