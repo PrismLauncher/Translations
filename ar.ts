@@ -570,24 +570,24 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>تعديل الأزياء&amp;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>تعديل الأزياء</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>اضف ميكروسوفت</translation>
+        <translation>&amp;اضف حساب ميكروسوفت</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>إضافة &amp; خارج الخدمة</translation>
+        <translation>اضافة حساب غير متصل بالشبكة (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
@@ -618,7 +618,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>أهلا!
-اذا كنت جديدا هنا، بامكانك ضغط زر &quot;إضافة Microsoft&quot; لربط حساب Microsoft الخاص بك.</translation>
+اذا كنت جديدا هنا، بامكانك ضغط زر &quot;إضافة حساب مايكروسوفت&quot; لإضافة حساب مايكروسوفت الخاص بك.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -822,12 +822,14 @@ for details.</oldsource>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ملف tmp/ الخاص بك مركب مع اشارة `noexec` المٌفعله.
+بعض نسخ ماينكرافت قد لا تعمل.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1029"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات النظام جهازك غير متوافقه</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1365"/>
@@ -1040,7 +1042,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>إنتظار...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
@@ -1060,7 +1062,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">تم تغيير معرف العميل. يجب إنشاء جلسة جديدة.</translation>
+        <translation>تم تغيير معرف العميل (ID). يجب إنشاء جلسة جديدة.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
