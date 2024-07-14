@@ -845,10 +845,10 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Update erfolgreich
+        <translation>Update erfolgreich
 
 Es ist nun %1 installiert.
-Überprüfe die Log-Datei des Prism-Launcher-Updaters bei:
+Überprüfe die Log-Datei des Prism-Launcher-Updaters unter:
 %1
 für Details.</translation>
     </message>
