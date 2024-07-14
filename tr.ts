@@ -7627,17 +7627,17 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
         <source>The supported minecraft versions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desteklenen minecraft sürümleri.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="221"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yayım tipi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
         <source>The size of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modun boyutu.</translation>
     </message>
 </context>
 <context>
@@ -7777,7 +7777,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mod sürümünü değiştir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
@@ -9872,7 +9872,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
