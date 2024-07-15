@@ -1161,7 +1161,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"/>
         <source>Removing cape</source>
-        <translation>إزالة الرأس</translation>
+        <translation>إزالة الرداء</translation>
     </message>
 </context>
 <context>
