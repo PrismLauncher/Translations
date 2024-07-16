@@ -1040,12 +1040,12 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Nabago ang Client ID. Kailangang gumawa ng bagong sesyon.</translation>
+        <translation>Nabago ang Client ID. Kailangang gumawa ng bagong sesyon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">May natagpuang pagkamali habang nagpapatunay.</translation>
+        <translation type="unfinished">May natagpuang error habang pag-awtentika.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
