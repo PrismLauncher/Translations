@@ -10156,7 +10156,7 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
         <translation>Java checker-biblioteket kunde inte hittas. Vänligen kontrollera din installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Nerladdning av metafil %1</translation>
     </message>

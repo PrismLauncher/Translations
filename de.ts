@@ -10415,7 +10415,7 @@ Diese Meldung wird so lange angezeigt, bis Sie dieses Argument aus den JVM-Argum
         <translation>Die Java-Checker-Bibliothek konnte nicht gefunden werden. Bitte überprüfe deine Installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Download der Metadatei %1</translation>
     </message>

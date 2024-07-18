@@ -7921,7 +7921,7 @@ Choose your name carefully:</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation type="unfinished"></translation>
     </message>

@@ -9528,7 +9528,7 @@ Acest mesaj va fi afișat până ștergi acest argument din argumentele JVM-ului
         <translation>Biblioteca de verificare Java nu a putut fi gasită. Vă rugăm verificați instalația.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Descărcarea fișierului meta %1</translation>
     </message>

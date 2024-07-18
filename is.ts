@@ -8665,7 +8665,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation type="unfinished">Java afgreiðslusafn fannst ekki. Vinsamlegast athugaðu uppsetninguna þína.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation type="unfinished"></translation>
     </message>

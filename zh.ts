@@ -10361,7 +10361,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>无法找到 Java 检查库。请检查是否安装了相应运行库。</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>下载元数据文件 %1</translation>
     </message>

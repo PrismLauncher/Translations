@@ -9711,7 +9711,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
         <translation>Pemeriksa Pustaka java tidak dapat ditemukan. Mohon cek pemasangan Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Mengunduh meta file %1</translation>
     </message>

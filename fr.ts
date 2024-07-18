@@ -10367,7 +10367,7 @@ Ce message sera affiché jusqu&apos;à ce que vous supprimiez cet argument de JV
         <translation>La bibliothèque Java checker est introuvable. Veuillez vérifier votre installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Téléchargement du métafichier %1</translation>
     </message>

@@ -9245,7 +9245,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation type="unfinished">تعذر العثور على مكتبة مدقق الجافا. يرجى التحقق من التثبيت الخاص بك.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>التنزيل لملف التعريف %1</translation>
     </message>

@@ -10274,7 +10274,7 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
         <translation>Java denetleyici kütüphane bulunamadı. Lütfen kurulumunuzu kontrol edin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Meta dosyası indirmesi: %1</translation>
     </message>

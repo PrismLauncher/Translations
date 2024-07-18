@@ -9494,7 +9494,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Java checker-bibliotek kunne ikke findes. Kontroller venligst din installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Hentning af metafil %1</translation>
     </message>

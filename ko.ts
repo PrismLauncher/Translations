@@ -10239,7 +10239,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Java 검사기 라이브러리를 찾을 수 없습니다. 설치되어 있는지 확인하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>%1 메타 파일들을 다운로드 하는 중</translation>
     </message>

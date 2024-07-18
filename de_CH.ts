@@ -9300,7 +9300,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation type="unfinished">Java checker library isch nöd gfunde worde. Bitte überprüef dini Installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Download der Metadatei %1</translation>
     </message>

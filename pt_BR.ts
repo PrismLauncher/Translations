@@ -10400,7 +10400,7 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <translation>Não foi possível achar o verificador de Java. Verifique a sua instalação.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Download do arquivo meta %1</translation>
     </message>

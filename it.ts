@@ -10269,7 +10269,7 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
         <translation>Libreria di controllo Java non trovata. Controlla la tua installazione.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Download del file metadata %1</translation>
     </message>

@@ -9799,7 +9799,7 @@ Esta mensagem continuará a aparecer até removeres isto dos argumentos da JVM.<
         <translation>Biblioteca de verificação do Java não foi encontrada. Por favor, verifique sua instalação.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Transferência do arquivo meta %1</translation>
     </message>

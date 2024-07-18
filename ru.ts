@@ -10454,7 +10454,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Не удалось найти библиотеку проверки Java. Пожалуйста, проверьте установку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Получение метафайла: %1</translation>
     </message>

@@ -10170,7 +10170,7 @@ Dit bericht zal worden weergegeven totdat u dit van de JVM-argumenten verwijdert
         <translation>Java verificatie bibliotheek kon niet gevonden worden. Controleer uw installatie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Download van meta-bestand %1</translation>
     </message>

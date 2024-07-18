@@ -9661,7 +9661,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>No se pudo encontrar la biblioteca del comprobador de Java. Por favor, compruebe su instalación.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Descarga del archivo meta %1</translation>
     </message>

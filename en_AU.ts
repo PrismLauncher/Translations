@@ -9204,7 +9204,7 @@ You will have to repair %1 manually.
 Please let us know why and how this happened.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Download of meta file %1</translation>
     </message>

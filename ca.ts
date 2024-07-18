@@ -9741,7 +9741,7 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
         <translation type="unfinished">No s&apos;ha pogut trobar la llibreria de comprovació de Java. Si us plau, revisa la teva instal·lació.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Descàrrega de l&apos;arxiu meta %1</translation>
     </message>

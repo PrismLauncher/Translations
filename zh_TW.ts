@@ -10348,7 +10348,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>無法找到 Java 檢查器函式庫。請檢查您的安裝。</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>下載更新檔案 %1</translation>
     </message>

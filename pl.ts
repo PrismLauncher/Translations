@@ -10430,7 +10430,7 @@ Ten komunikat będzie wyświetlany, dopóki nie usuniesz tego argumentu JVM.</tr
         <translation>Nie można znaleźć biblioteki Java Checker. Proszę sprawdzić swoją instalację.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Pobranie pliku meta %1</translation>
     </message>

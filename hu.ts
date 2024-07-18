@@ -10249,7 +10249,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <translation>Java-ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>A(z) %1 metaadat letöltése</translation>
     </message>

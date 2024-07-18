@@ -10339,7 +10339,7 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
         <translation>Knihovna kontroly Java nebyla nalezena. Zkontrolujte prosím svou instalaci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="103"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
         <source>Download of meta file %1</source>
         <translation>Stahování %1 aktualizačních souborů</translation>
     </message>
