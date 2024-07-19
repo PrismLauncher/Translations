@@ -748,12 +748,12 @@ Prosím aktualizujte váš operační systém a %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="769"/>
+        <location filename="src/launcher/Application.cpp" line="770"/>
         <source>Settings</source>
         <translation>Nastavení</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="915"/>
+        <location filename="src/launcher/Application.cpp" line="916"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -780,12 +780,12 @@ pro podrobnosti o posledním pokusu o aktualizaci.
 Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“ níže.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="932"/>
+        <location filename="src/launcher/Application.cpp" line="933"/>
         <source>Update In Progress</source>
         <translation>Probíhá aktualizace</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="956"/>
+        <location filename="src/launcher/Application.cpp" line="957"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -800,12 +800,12 @@ Zkontrolujte protokol aktualizačního programu Prism Launcher zde:
 pro podrobnosti o posledním pokusu o aktualizaci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="964"/>
+        <location filename="src/launcher/Application.cpp" line="965"/>
         <source>Update Failed</source>
         <translation>Aktualizace selhala</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="988"/>
+        <location filename="src/launcher/Application.cpp" line="989"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -825,12 +825,12 @@ Pro podrobnosti se podívejte na protokol aktualizačního systému programu Pri
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="996"/>
+        <location filename="src/launcher/Application.cpp" line="997"/>
         <source>Update Succeeded</source>
         <translation>Úspěšně aktualizováno</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1027"/>
+        <location filename="src/launcher/Application.cpp" line="1028"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -839,32 +839,32 @@ Některé verze Minecraftu se nemusí spustit.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1029"/>
+        <location filename="src/launcher/Application.cpp" line="1030"/>
         <source>Incompatible system configuration</source>
         <translation>Nekompatibilní konfigurace systémmu</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1365"/>
+        <location filename="src/launcher/Application.cpp" line="1366"/>
         <source>Aborted</source>
         <translation>Přerušeno</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1774"/>
+        <location filename="src/launcher/Application.cpp" line="1775"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Byla nalezena stará data z %1, ale pro %2 již máte existující data. Bohužel budete muset provést migraci sami. Chcete být při příštím spuštění %2 upozorněni na probíhající migraci dat?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1778"/>
+        <location filename="src/launcher/Application.cpp" line="1779"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Vypadá to, že jste již dříve použili %1. Chcete svá data přenést do nového umístění %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1784"/>
+        <location filename="src/launcher/Application.cpp" line="1785"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Vypadá to, že jste již dříve použili %1 na %2. Chcete svá data přenést do nového umístění %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1827"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrace se nezdařila! Důvod: %1</translation>
     </message>
@@ -2555,7 +2555,7 @@ Prosím zkus znovu.</translation>
         <translation>Řešení ID modů...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="90"/>
         <source>Invalid data returned from the API.</source>
         <translation>Rozhraní API vrátilo neplatná data.</translation>
     </message>
@@ -2583,17 +2583,17 @@ Prosím zkus znovu.</translation>
         <translation>Získávání odpovědi API z CurseForge pro &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Zpracovávání odpovědi API z CurseForge pro &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="154"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="155"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>Je dostupná nová aktualizace modu, ale nelze ji stáhnout přes CurseForge.</translation>
@@ -3086,12 +3086,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="59"/>
         <source>Get dependencies</source>
         <translation>Získat závislosti</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="198"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="197"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Vyskytla se chyba sítě. Nepodařilo se načíst závislosti projektu:%1</translation>
@@ -4654,28 +4654,28 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <translation type="vanished">Přesunout data PolyMC do nového umístění (PolyMC bude restartován)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="330"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="344"/>
         <source>User Interface</source>
         <translation>Uživatelské rozhraní</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="339"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
         <source>Instance view sorting mode</source>
         <translation>Způsob řazení instancí</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
         <translation>Podle posledního spuštění</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="369"/>
         <source>By &amp;name</source>
         <translation>Podle jména</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="382"/>
         <source>Theme</source>
         <translation>Motiv</translation>
     </message>
@@ -4866,88 +4866,93 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <translation>s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="313"/>
+        <source>Number of manual retries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Cat</source>
         <translation>Kočka</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="386"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
         <translation>Nastavení průhlednosti kočky. Při 0% je plně průhledná, při 100% kompletně neprůhledná.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="403"/>
         <source>Opacity</source>
         <translation>Průhlednost</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="399"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="413"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="448"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="440"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="454"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>Lišta menu je lepší pro interakci pomocí klávesnice.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="443"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="457"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>Nah&amp;radit lištu nástrojů lištou menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="467"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="481"/>
         <source>Console</source>
         <translation>Konzole</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="473"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>Console Settings</source>
         <translation>Možnosti konzole</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="479"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="493"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
         <translation>Zobrazit konzoli během hry</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="486"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="500"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
         <translation>&amp;Automaticky zavřít konzoli po ukončení hry</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="493"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
         <translation>Zobrazit konzoli pokud hra &amp;spadne</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="503"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="517"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>Limit &amp;historie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="509"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="523"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>Zastavit protokolování při přetečení protokolu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="522"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="536"/>
         <source> lines</source>
         <translation> řádků</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="550"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="564"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>Písmo použité pro konzoli</translation>
@@ -5008,17 +5013,17 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
         <translation>Složka skinů</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="324"/>
         <source>[Something/ERROR] A spooky error!</source>
         <translation>[Something/ERROR] Strašidelná chyba 👻!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="331"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="333"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] Neškodná zpráva...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="340"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="342"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Something/WARN] Ne až tak strašidelné varování.</translation>
     </message>
@@ -8070,100 +8075,100 @@ Aktualizujte prosím %1!</translation>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="43"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="44"/>
         <source>Confirm mods to update</source>
         <translation>Potvrdit mody k aktualizaci</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="54"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
         <source>You&apos;re about to update the following mods:</source>
         <translation>Chystáte se aktualizovat následující mody:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
         <source>Only mods with a check will be updated!</source>
         <translation>Budou aktualizovány pouze zaškrtnuté mody!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="73"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="74"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Název modu: %1&lt;br&gt;Název souboru: %2&lt;br&gt;Důvod: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
         <source>Metadata generation failed</source>
         <translation>Generace metadat selhala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Nepodařilo se vygenerovat metadata následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="92"/>
         <source>Checking for updates</source>
         <translation>Kontrola aktualizací</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="192"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="335"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="405"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="193"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="336"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="406"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="113"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="197"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="198"/>
         <source>Warnings</source>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="119"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="202"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
         <source>Checking for updates...</source>
         <translation>Kontrola aktualizací...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
         <source>Mod name: %1</source>
         <translation>Název modu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="169"/>
         <source>Reason: %1</source>
         <translation>Důvod: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="172"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>Možné řešení: ruční získání nejnovější verze:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
         <translation>Kontrola závislostí...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="306"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="307"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Mod &apos;%1&apos; zatím nemá metadata. Musíme je vygenerovat, abychom mohli sledovat relevantní informace o tom, jak tento mod aktualizovat. Za tímto účelem prosím vyberte poskytovatele modů, kterého můžeme použít ke kontrole aktualizací tohoto modu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="409"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="410"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Nepodařilo se najít platnou verzi u vybraných poskytovatelů modů</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="420"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="421"/>
         <source>Mod was disabled as it may be already instaled.</source>
         <translation>Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
     </message>
@@ -8176,17 +8181,17 @@ Aktualizujte prosím %1!</translation>
         <translation type="vanished">Ruční získávání nejnovější verze:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="177"/>
         <source>Failed to check for updates</source>
         <translation>Nepodařilo se zkontrolovat aktualizace</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="177"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Nepodařilo se zkontrolovat nebo získat aktualizace následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="263"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="264"/>
         <source>Looking for metadata</source>
         <translation>Hledání metadat</translation>
     </message>
@@ -8195,7 +8200,7 @@ Aktualizujte prosím %1!</translation>
         <translation type="vanished">Tento mód (%1) nemá ještě stejná metadata. Musíme je nejprve vytvořit, abychom ponechali relevantní informace o tom, jak aktualizovat tento mód. Abyste tak učinili, vyberte poskytovatele módů, na kterém budeme moci vyhledat aktualizace módu %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="362"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>Generating metadata...</source>
         <translation>Generování metadat...</translation>
     </message>
@@ -8204,42 +8209,42 @@ Aktualizujte prosím %1!</translation>
         <translation type="vanished">Nepodařilo se najít platnou verzi vybraných poskytovatelů módů</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="426"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="427"/>
         <source>Provider: %1</source>
         <translation>Poskytovatel: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Old version: %1</source>
         <translation>Stará verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Not installed</source>
         <translation>Nenainstalováno</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="432"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
         <source>New version: %1</source>
         <translation>Nová verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="437"/>
         <source>New Version Type: %1</source>
         <translation>Nový typ verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="442"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="443"/>
         <source>Required by: %1</source>
         <translation>Vyžaduje: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="444"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="445"/>
         <source>Required by:</source>
         <translation>Vyžaduje:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="458"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="459"/>
         <source>Changelog of the latest version</source>
         <translation>Seznam změn nejnovější verze</translation>
     </message>
@@ -8331,18 +8336,18 @@ Aktualizujte prosím %1!</translation>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="360"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="361"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>Chyba sítě. Nepodařilo se načíst modpacky.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="365"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -8353,32 +8358,31 @@ Aktualizujte prosím %1!</translation>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="39"/>
         <source>Preparing mods for Modrinth...</source>
         <translation>Příprava modů pro Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="43"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="46"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>Zakázané mody nebudou aktualizovány pro zabránění problémům s jejich duplikací!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="85"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Zpracovávání odpovědi API z Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="101"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="131"/>
         <source>Mod has an empty download URL</source>
-        <translation>Mod má prázdnou URL stahování</translation>
+        <translation type="vanished">Mod má prázdnou URL stahování</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Čekání na odpověď API z Modrinth...</translation>
     </message>
@@ -8772,12 +8776,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="118"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Nepodařilo se přerušit všechny úlohy v NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="144"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Vykonávání %1 úloh(y) (dokončeno %2 z %3)</translation>
     </message>
@@ -8827,7 +8831,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
 <context>
     <name>NewsChecker</name>
     <message>
-        <location filename="src/launcher/news/NewsChecker.cpp" line="112"/>
+        <location filename="src/launcher/news/NewsChecker.cpp" line="113"/>
         <source>Failed to load news RSS feed:
 %1</source>
         <translation>Nepodařilo se načíst RSS feed novinek:
@@ -9121,17 +9125,17 @@ Jste si jisti?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="344"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="343"/>
         <source>Aborted</source>
         <translation>Přerušeno</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="571"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="570"/>
         <source>Name</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="573"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="572"/>
         <source>Version</source>
         <translation>Verze</translation>
     </message>
@@ -10128,7 +10132,7 @@ Jste si jisti?</translation>
         <translation>Knihovna %1 name je poškozena a nelze ji zpracovat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="202"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Neplatný komponent verze souboru, očekáván %1</translation>
     </message>
@@ -10535,44 +10539,44 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>neznámý</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <source>Sort by Featured</source>
         <translation>Seřadit podle doporučených</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
         <translation>Seřadit podle popularity</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Seřadit podle poslední aktualizace</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Name</source>
         <translation>Seřadit podle názvu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <source>Sort by Author</source>
         <translation>Seřadit podle autora</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Seřadit podle počtu stažení</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Category</source>
         <translation>Seřadit podle kategorie</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
         <translation>Seřadit podle verze hry</translation>
     </message>
@@ -10730,8 +10734,8 @@ Opravdu chcete zavřít tuto nabídku?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="459"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -10760,12 +10764,12 @@ Opravdu chcete zavřít tuto nabídku?</translation>
         <translation>Žádost byla z neznámých důvodů zrušena</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="455"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Chyba sítě. Nepodařilo se načíst mody.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="460"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>Stará verze API!

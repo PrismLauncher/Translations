@@ -748,12 +748,12 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="769"/>
+        <location filename="src/launcher/Application.cpp" line="770"/>
         <source>Settings</source>
         <translation>Pengaturan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="915"/>
+        <location filename="src/launcher/Application.cpp" line="916"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -780,12 +780,12 @@ Untuk detail mengenai pembaruan terakhir.
 Untuk menghapus lock ini dan melanjutkan pilih &quot;Abaikan&quot; di bawah.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="932"/>
+        <location filename="src/launcher/Application.cpp" line="933"/>
         <source>Update In Progress</source>
         <translation>Pembaruan Sedang Berlangsung</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="956"/>
+        <location filename="src/launcher/Application.cpp" line="957"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -800,12 +800,12 @@ Periksa log pembaru Prism Launcher di:
 untuk detail mengenai pembaruan terakhir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="964"/>
+        <location filename="src/launcher/Application.cpp" line="965"/>
         <source>Update Failed</source>
         <translation>Pembaruan Gagal</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="988"/>
+        <location filename="src/launcher/Application.cpp" line="989"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -826,12 +826,12 @@ Periksa log pembaru Prism Launcher di:
 untuk detail.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="996"/>
+        <location filename="src/launcher/Application.cpp" line="997"/>
         <source>Update Succeeded</source>
         <translation>Pembaruan Berhasil</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1027"/>
+        <location filename="src/launcher/Application.cpp" line="1028"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -840,32 +840,32 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1029"/>
+        <location filename="src/launcher/Application.cpp" line="1030"/>
         <source>Incompatible system configuration</source>
         <translation>Konfigurasi sistem tidak kompatibel</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1365"/>
+        <location filename="src/launcher/Application.cpp" line="1366"/>
         <source>Aborted</source>
         <translation>Dibatalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1774"/>
+        <location filename="src/launcher/Application.cpp" line="1775"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Data lama dari %1 telah ditemukan, tetapi Anda memiliki data yang sudah ada untuk %2. Sayangnya Anda harus memigrasikan secara manual. Apakah Anda ingin diingatkan tentang ini saat Anda membuka ulang %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1778"/>
+        <location filename="src/launcher/Application.cpp" line="1779"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Sepertinya Anda sudah menggunakan %1 sebelumnya. Apakah Anda ingin memigrasikan data anda ke lokasi baru %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1784"/>
+        <location filename="src/launcher/Application.cpp" line="1785"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Sepertinya Anda sudah menggunakan %1 dengan %2 sebelumnya. Apakah anda ingin memigrasikan data ke lokasi baru %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1827"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrasi gagal! Alasan: %1</translation>
     </message>
@@ -2520,7 +2520,7 @@ Coba ulang lagi.</translation>
         <translation>Menyelesaikan ID mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="89"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="90"/>
         <source>Invalid data returned from the API.</source>
         <translation>Data tidak sah telah diberikan oleh API.</translation>
     </message>
@@ -2548,17 +2548,17 @@ Coba ulang lagi.</translation>
         <translation>Mendapatkan respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Mengurai respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Tidak ada versi benar yang ditemukan untuk mod ini. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="154"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="155"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>Mod memiliki pembaruan baru yang tersedia, tetapi tidak dapat diunduh menggunakan CurseForge.</translation>
@@ -3015,12 +3015,12 @@ Coba ulang lagi.</translation>
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="59"/>
         <source>Get dependencies</source>
         <translation>Dapatkan ketergantungan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="198"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="197"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Terjadi sebuah kesalahan jaringan. Tidak dapat memuat ketergantungan proyek:%1</translation>
@@ -4510,28 +4510,28 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <translation type="obsolete">...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="330"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="344"/>
         <source>User Interface</source>
         <translation>Antarmuka Pengguna</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="339"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
         <source>Instance view sorting mode</source>
         <translation>Mode pengurutan tampilan instansi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="345"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
         <translation>Dengan terakhir diluncurkan (&amp;B)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="369"/>
         <source>By &amp;name</source>
         <translation>Dengan &amp;nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="382"/>
         <source>Theme</source>
         <translation>Tema</translation>
     </message>
@@ -4658,88 +4658,93 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <translation>detik</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="313"/>
+        <source>Number of manual retries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
         <source>Cat</source>
         <translation>Kucing</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="386"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
         <translation>Atur opasitas kucing. 0% berarti sepenuhnya transparan dan 100% berarti sepenuhnya tidak transparan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="403"/>
         <source>Opacity</source>
         <translation>Opasitas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="399"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="413"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="448"/>
         <source>Tools</source>
         <translation>Alat-alat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="440"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="454"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>Menubar lebih ramah untuk interaksi berbasis keyboard.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="443"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="457"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>Ganti toolba&amp;r dengan menubar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="467"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="481"/>
         <source>Console</source>
         <translation>Konsol</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="473"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
         <source>Console Settings</source>
         <translation>Pengaturan Konsol</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="479"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="493"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
         <translation>Tampilkan konsol ketika pe&amp;rmainan sedang berjalan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="486"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="500"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
         <translation>Tutup konsol sec&amp;ara otomatis ketika keluar permainan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="493"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
         <translation>Tampilkan konsol ketika game berhenti (&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="503"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="517"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>Batas riwayat (&amp;H)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="509"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="523"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>Berhenti membuat log &amp;saat log melewati batas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="522"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="536"/>
         <source> lines</source>
         <translation> baris</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="550"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="564"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>&amp;Font konsol</translation>
@@ -4800,17 +4805,17 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
         <translation>Folder Skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="324"/>
         <source>[Something/ERROR] A spooky error!</source>
         <translation>[Sesuatu/ERROR] Error yang sangat menakutkan!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="331"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="333"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] Pesan yang tidak berbahaya...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="340"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="342"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Sesuatu/PERINGATAN] Peringatan yang tidak terlalu menakutkan.</translation>
     </message>
@@ -7609,160 +7614,160 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="43"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="44"/>
         <source>Confirm mods to update</source>
         <translation>Konfirmasi mod-mod untuk diperbarui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="54"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
         <source>You&apos;re about to update the following mods:</source>
         <translation>Anda akan memperbarui mod-mod berikut:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="56"/>
         <source>Only mods with a check will be updated!</source>
         <translation>Hanya mod-mod dengan centang akan diperbarui!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="73"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="74"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Nama mod: %1&lt;br&gt;Nama berkas: %2&lt;br&gt;Alasan: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="76"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
         <source>Metadata generation failed</source>
         <translation>Pembuatan metadata gagal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Tidak dapat membuat metadata untuk mod-mod berikut:&lt;br&gt;Apakah Anda ingin melanjutkan tanpa mod-mod tersebut?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="92"/>
         <source>Checking for updates</source>
         <translation>Memeriksa untuk pembaruan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="192"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="335"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="405"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="109"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="193"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="336"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="406"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="113"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="197"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="198"/>
         <source>Warnings</source>
         <translation>Peringatan-peringatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="119"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="202"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="362"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
         <source>Checking for updates...</source>
         <translation>Memeriksa untuk perbaruan...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
         <source>Mod name: %1</source>
         <translation>Nama mod: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="169"/>
         <source>Reason: %1</source>
         <translation>Alasan: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="172"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>Solusi memungkinkan: Mendapatkan versi terkini secara manual:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
         <translation>Memeriksa ketergantungan...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="306"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="307"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Mod &apos;%1&apos; belum memiliki metadata. Kami harus membuatnya untuk melacak informasi relevan tentang cara memperbarui mod ini. Untuk melakukan ini, mohon memilih penyedia mod yang kami dapat pakai untuk memeriksa perbaruan untuk mod ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="409"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="410"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Tidak dapat memilih versi sesuai pada penyedia(-penyedia) mod terpilih</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="177"/>
         <source>Failed to check for updates</source>
         <translation>Gagal memeriksa perbaruan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="177"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Tidak dapat memeriksa atau mendapatkan mod-mod berikut untuk pembaharuan:&lt;br&gt;Apakah Anda ingin melanjutkan tanpa mod-mod tersebut?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="263"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="264"/>
         <source>Looking for metadata</source>
         <translation>Mencari metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="362"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>Generating metadata...</source>
         <translation>Membuat metadata...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="420"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="421"/>
         <source>Mod was disabled as it may be already instaled.</source>
         <translation>Mod dinonaktifkan karena mungkin sudah terpasang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="426"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="427"/>
         <source>Provider: %1</source>
         <translation>Penyedia: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Old version: %1</source>
         <translation>Versi lama: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Not installed</source>
         <translation>Tidak terpasang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="432"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
         <source>New version: %1</source>
         <translation>Versi baru: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="436"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="437"/>
         <source>New Version Type: %1</source>
         <translation>Jenis Versi Baru: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="442"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="443"/>
         <source>Required by: %1</source>
         <translation>Dibutuhkan oleh: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="444"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="445"/>
         <source>Required by:</source>
         <translation>Dibutuhkan oleh:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="458"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="459"/>
         <source>Changelog of the latest version</source>
         <translation>Daftar perubahan versi terbaru</translation>
     </message>
@@ -7814,18 +7819,18 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="360"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="361"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>Sebuah kesalahan jaringan terjadi. Tidak dapat memuat modpack-modpack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="365"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -7836,32 +7841,31 @@ Mohon perbarui %1!</translation>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="39"/>
         <source>Preparing mods for Modrinth...</source>
         <translation>Menyiapkan mod-mod untuk Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="43"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="46"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>Mod yang dinonaktifkan tidak akan diperbarui, untuk mencegah masalah duplikasi mod!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="86"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="85"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Mengurai respons API dari Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="101"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Tidak ada versi sesuai yang ditemukan untuk mod ini. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="131"/>
         <source>Mod has an empty download URL</source>
-        <translation>Mod memiliki tautan unduh kosong</translation>
+        <translation type="vanished">Mod memiliki tautan unduh kosong</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="175"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Menunggu respons API dari Modrinth...</translation>
     </message>
@@ -8174,12 +8178,12 @@ Mohon perbarui %1!</translation>
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="118"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="119"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Gagal menghentikan semua tugas dalam NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="144"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Menjalankan %1 tugas (%2 dari %3 selesai)</translation>
     </message>
@@ -8229,7 +8233,7 @@ Mohon perbarui %1!</translation>
 <context>
     <name>NewsChecker</name>
     <message>
-        <location filename="src/launcher/news/NewsChecker.cpp" line="112"/>
+        <location filename="src/launcher/news/NewsChecker.cpp" line="113"/>
         <source>Failed to load news RSS feed:
 %1</source>
         <translation>Gagal memuat feed RSS berita:
@@ -8523,17 +8527,17 @@ Apakah Anda yakin?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="344"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="343"/>
         <source>Aborted</source>
         <translation>Dibatalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="571"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="570"/>
         <source>Name</source>
         <translation>Nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="573"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="572"/>
         <source>Version</source>
         <translation>Versi</translation>
     </message>
@@ -9520,7 +9524,7 @@ Apakah Anda yakin?</translation>
         <translation>Nama perpustakaan %1 rusak dan tidak bisa diproses.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="202"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Versi file komponen tidak valid, diharapkan %1</translation>
     </message>
@@ -9883,44 +9887,44 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
         <translation>tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <source>Sort by Featured</source>
         <translation>Berdasarkan Difiturkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
         <translation>Berdasarkan Popularitas</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>Urutkan Berdasarkan Terakhir Diperbarui</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Name</source>
         <translation>Urutkan Berdasarkan Nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <source>Sort by Author</source>
         <translation>Urutkan Berdasarkan Pembuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation>Berdasarkan Unduhan</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Category</source>
         <translation>Urutkan berdasarkan Kategori</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
         <translation>Berdasarkan Versi Permainan</translation>
     </message>
@@ -10078,8 +10082,8 @@ Apakah Anda yakin ingin menutup dialog ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="212"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="459"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
@@ -10108,12 +10112,12 @@ Apakah Anda yakin ingin menutup dialog ini?</translation>
         <translation>Permintaan dibatalkan untuk alasan yang tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="455"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Sebuah kesalahan jaringan telah terjadi. Tidak dapat memuat mod-mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="458"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="460"/>
         <source>API version too old!
 Please update %1!</source>
         <translation>Versi API terlalu lama!
