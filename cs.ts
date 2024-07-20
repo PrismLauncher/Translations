@@ -4868,7 +4868,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet ručních opakování</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
