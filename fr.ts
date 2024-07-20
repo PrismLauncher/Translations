@@ -4886,7 +4886,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="313"/>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre d&apos;essaie manuelle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
