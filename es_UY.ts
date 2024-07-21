@@ -9832,7 +9832,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">desconocido</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
@@ -10101,12 +10101,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;b&gt;Este projecto ha sido archivado. No recibirá actualizaciones nuevas a menos que el creadeor decida reanudar el proyecto.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="215"/>
         <source>Donate information: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Información de donación: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
@@ -10131,7 +10131,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
@@ -12052,7 +12052,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="115"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cambiar versión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="118"/>
@@ -12548,7 +12548,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="274"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Información</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
