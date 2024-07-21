@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Service &amp;Pastebin</translation>
+        <translation>Service de &amp;Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
@@ -23,12 +23,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Note: c&apos;est probable que vous vouliez changer ou effacer l&apos;URL de base après vous changez le type de service de collage.</translation>
+        <translation>Note : Vous voudrez probablement changer ou effacer l&apos;URL de base après avoir changé le type de service de collage.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>Clés d&apos;interface de programmation</translation>
+        <translation>Clé API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Note: c&apos;est probable qu&apos;il ne soit pas nécessaire de gérer ce paramètre lorsque la connexion avec Microsoft Authentication fonctionne déjà.</translation>
+        <translation>Note : Vous n&apos;avez probablement pas besoin de configurer ceci si la connexion via Microsoft Authentication fonctionne déjà.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -51,23 +51,23 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Saisissez un identifiant de client personnalisé pour Microsoft Authentication ici.</translation>
+        <translation>Entrez un ID client personnalisé pour l&apos;authentification Microsoft ici.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>IPA Modrinth</translation>
+        <translation>API Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: il faut seulement gérer ça pour qu&apos;il puisse accéder aux données privées. Lisez la &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; pour plus d&apos;informations.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note : Vous avez seulement besoin de configurer ceci pour accéder à vos données privées. Consultez la &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; pour davantage d&apos;informations.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Saisissez un jeton d&apos;Interface de Programmation personnalisé pour Modrinth ici.</translation>
+        <translation>Entrez le jeton API personnalisé pour Modrinth ici.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -82,12 +82,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="320"/>
         <source>User Agent</source>
-        <translation>Agent d&apos;utilisateur</translation>
+        <translation>Agent Utilisateur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="329"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Saisissez un agent d&apos;utilisateur personnalisé ici. Le string spécial $LAUNCHER_VER sera remplacé avec la version du launcher.</translation>
+        <translation>Entrez un agent utilisateur personnalisé ici. La chaîne spéciale $LAUNCHER_VER sera remplacée par la version du lanceur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -102,33 +102,33 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Vous pouvez définir ça à un serveur de métadonnées tiers pour utiliser les bibliothèques patchées ou d&apos;autres hacks.</translation>
+        <translation>Tu peux configurer ceci vers un serveur de métadonnées tiers pour utiliser des bibliothèques patchées ou d&apos;autres astuces.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Saisissez une adresse URL personnalisée pour méta ici.</translation>
+        <translation>Entrez une URL personnalisée pour les métadonnées ici.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>IPA de noyau CurseForge</translation>
+        <translation>API principale (Core) de CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Note: c&apos;est probable qu&apos;il ne soit pas nécessaire de gérer ça si CurseForge fonctionne déjà.</translation>
+        <translation>Note : vous n&apos;avez probablement pas besoin de configurer ceci si CurseForge fonctionne déjà.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Saisissez une clé d&apos;IPA personnalisée pour CurseForge ici.</translation>
+        <translation>Saisissez une clé d&apos;API personnalisée pour CurseForge ici.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
-        <translation>IPAs</translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
@@ -143,17 +143,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="342"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Impossible d&apos;obtenir l&apos;index de métadonnées locales pour %1</translation>
+        <translation>Échec de l&apos;obtention de l&apos;index des métadonnées locales pour %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="152"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Impossible d&apos;obtenir l&apos;index de métadonnées locales pour &apos;%1&apos; v%2</translation>
+        <translation>Échec de l&apos;obtention de l&apos;index de métadonnées locales pour &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation>Mode d&apos;installation insupporté</translation>
+        <translation>Mode d&apos;installation non pris en charge</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
@@ -168,37 +168,37 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Impossible de trouver une version pour loader %1</translation>
+        <translation>Impossible de trouver la version pour le chargeur %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="388"/>
         <source>No loader version set for modpack!</source>
-        <translation>Aucune version du loader définie pour le modpack!</translation>
+        <translation>Aucune version de chargeur définie pour le modpack !</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Type de téléchargement inconnu ou insupporté: %1</translation>
+        <translation>Type de téléchargement inconnu ou non pris en charge: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
         <source>Downloading configs...</source>
-        <translation>Téléchargement des configs...</translation>
+        <translation>Téléchargement des configurations...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="632"/>
         <source>Config download</source>
-        <translation>Téléchargement de la config</translation>
+        <translation>Configuration téléchargée</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="674"/>
         <source>Extracting configs...</source>
-        <translation>Extraction des configs...</translation>
+        <translation>Extraction des configurations...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="680"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Échec de l&apos;ouverture du pack des configs %1!</translation>
+        <translation>Échec de l&apos;ouverture du pack de configurations %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Mod download</source>
-        <translation>Téléchargement du mod</translation>
+        <translation>Télécharger mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -233,12 +233,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Les fichiers suivants ne peuvent pas être téléchargés à partir de lanceurs tiers.&lt;br/&gt;Vous devrez les télécharger manuellement et les ajouter à l&apos;instance.</translation>
+        <translation>Les fichiers suivants ne sont pas disponibles pour téléchargement dans les lanceurs tiers.&lt;br/&gt;Vous devrez les télécharger manuellement et les ajouter à l&apos;instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
         <source>%1 out of %2 complete</source>
-        <translation>%1 de %2 est complété</translation>
+        <translation>%1 complété sur %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
@@ -258,17 +258,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
         <source>Failed to create libraries component</source>
-        <translation>Impossible de créer le composant de bibliothèques</translation>
+        <translation>Échec de la création de la composante des bibliothèques</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
         <source>Unknown loader type: </source>
-        <translation>Type de loader inconnu: </translation>
+        <translation>Type de chargeur inconnu : </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1061"/>
         <source>Failed to create pack component</source>
-        <translation>Impossible de créer le composant de pack</translation>
+        <translation>Échec de la création de la composante du pack</translation>
     </message>
 </context>
 <context>
@@ -281,7 +281,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Un launcher personnalisé qui facilite la gestion de Minecraft en vous permettant d&apos;avoir plusieurs instances de Minecraft à la fois.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Un lanceur personnalisé qui facilite la gestion de Minecraft en vous permettant d&apos;avoir plusieurs instances de Minecraft en même temps.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -302,7 +302,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation>Canal:</translation>
+        <translation>Canal :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
@@ -337,12 +337,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Commit: %1</source>
-        <translation>Commit: %1</translation>
+        <translation>Commit : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
         <source>Build date: %1</source>
-        <translation>Date de création: %1</translation>
+        <translation>Date de création : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="171"/>
@@ -374,7 +374,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Fonctionne</translation>
+        <translation>En cours</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
@@ -414,7 +414,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
@@ -483,7 +483,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Aucun défaut</translation>
+        <translation type="unfinished">&amp;Aucun défaut</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -502,12 +502,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gérer les Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Gérer les Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -538,8 +538,8 @@ Si vous êtes nouveau ici, vous pouvez cliquer sur le bouton «&#xa0;Ajouter&#xa
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>Bienvenue!
-Si vous êtes nouveau ici, vous pouvez sélectionner le bouton &quot;Ajouter un compte Microsoft&quot; pour lier votre compte Microsoft.</translation>
+        <translation>Bienvenue !
+Si vous êtes nouveau ici, vous pouvez sélectionner le bouton « Ajouter Microsoft » pour lier votre compte Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
@@ -553,17 +553,17 @@ Si vous êtes nouveau ici, vous pouvez sélectionner le bouton &quot;Ajouter un 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Vous devez ajouter un compte Microsoft qui possède Minecraft avant de pouvoir ajouter un compte hors-ligne.&lt;br&gt;&lt;br&gt;Si vous avez perdu votre compte, vous pouvez contacter Microsoft pour obtenir de l&apos;aide.</translation>
+        <translation>Vous devez ajouter un compte Microsoft qui possède Minecraft avant de pouvoir ajouter un compte hors ligne.&lt;br&gt;&lt;br&gt;Si vous avez perdu votre compte, vous pouvez contacter Microsoft pour obtenir du soutien.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Remove account?</source>
-        <translation>Retirer le compte?</translation>
+        <translation>Retirer le compte ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation>Voulez-vous vraiment supprimer ce compte ?</translation>
+        <translation>Voulez-vous vraiment retirer ce compte ?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -592,7 +592,7 @@ Si vous êtes nouveau ici, vous pouvez sélectionner le bouton &quot;Ajouter un 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Veuillez saisir votre nom d&apos;utilisateur pour ajouter votre compte hors ligne.</translation>
+        <translation>Veuillez saisir votre nom d&apos;utilisateur souhaité pour ajouter un compte hors ligne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -644,7 +644,7 @@ Si vous êtes nouveau ici, vous pouvez sélectionner le bouton &quot;Ajouter un 
     <message>
         <location filename="src/launcher/Application.cpp" line="770"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="916"/>
@@ -660,12 +660,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette installation possède un fichier de verrouillage de mise à jour. Il demeure à l&apos;emplacement : %1
+
+Horodatage : %2
+Mise à jour de la version %3 à %4
+Chemin d&apos;installation cible : %5
+Chemin des données : %6
+Cela signifie probablement qu&apos;une tentative de mise à jour a échoué. Veuillez vous assurer que votre installation est en bon état avant de continuer.
+Consultez le journal de mise à jour du lanceur Prism à l&apos;emplacement suivant :
+%7
+pour davantage de détails sur la dernière tentative de mise à jour.
+
+Pour supprimer ce verrou et continuer, sélectionnez &quot;Ignorer&quot; ci-dessous.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="933"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour en cours</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="957"/>
@@ -675,7 +686,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une tentative de mise à jour a échoué.
+
+Veuillez vous assurer que votre installation est fonctionnelle avant de continuer.
+Vérifiez le journal de mise à jour du lanceur Prism à l&apos;adresse suivante :
+%1
+pour davantage de détails sur la dernière tentative de mise à jour.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="965"/>
@@ -696,7 +712,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour réussie
+
+Vous utilisez maintenant la version %1.
+Vérifiez le journal de mise à jour du lanceur Prism à l&apos;adresse suivante :
+%2
+pour davantage de détails.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="997"/>
@@ -708,12 +729,14 @@ for details.</oldsource>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Votre répertoire /tmp est présentement monté avec l&apos;option &apos;noexec&apos; activée.
+Certaines versions de Minecraft pourraient ne pas se lancer.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1030"/>
         <source>Incompatible system configuration</source>
-        <translation>Configuration système incompatible</translation>
+        <translation>Configuration du système incompatible</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1366"/>
@@ -723,22 +746,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1775"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Des anciennes données de %1 ont été trouvées, mais vous avez déjà des données existantes pour %2. Malheureusement, vous devrez faire la migration vous-même. Se faire rappeler de la migration de données en attente la prochaine fois que vous démarrez %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1779"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il semble que vous avez utilisé %1 auparavant. Voulez-vous migrer vos données vers le nouvel emplacement de %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1785"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il semble que vous avez utilisé %1 sur %2 auparavant. Voulez-vous migrer vos données vers le nouvel emplacement de %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>La migration a échoué ! Raison : %1</translation>
     </message>
 </context>
 <context>
@@ -746,12 +769,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour de l&apos;index des ressources...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
         <source>Asset index for %1</source>
-        <translation type="unfinished">Indexation des assets pour %1</translation>
+        <translation>Indexation des ressources pour %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="43"/>
@@ -762,24 +785,25 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
         <source>Failed to read the assets index!</source>
-        <translation>Échec de lecture de l&apos;index des assets!</translation>
+        <translation>Échec de lecture de l&apos;index des ressources !</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Obtention des fichier d&apos;assets de Mojang...</translation>
+        <translation>Téléchargement des fichiers ressources depuis Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="92"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation type="unfinished">Échec du téléchargement de l&apos;index des assets</translation>
+        <translation>Échec du téléchargement de l&apos;index des ressources :
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Échec du téléchargement des assets:
+        <translation>Échec du téléchargement des ressources:
 %1</translation>
     </message>
 </context>
@@ -801,7 +825,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Trier par Version</translation>
+        <translation>Trier par Version du Jeu</translation>
     </message>
 </context>
 <context>
@@ -809,7 +833,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Cocher les Mods à installer</translation>
+        <translation>Sélectionnez les mods à installer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -819,7 +843,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>Sélectionner les recommandés</translation>
+        <translation>Sélectionner Recommandé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
@@ -829,22 +853,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation>Tout effacer</translation>
+        <translation>Tout Effacer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Select a share code</source>
-        <translation>Sélectionnnez un code de partage</translation>
+        <translation>Sélectionnez un code de partage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Share code:</source>
-        <translation>Code de partage:</translation>
+        <translation>Code de partage :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="352"/>
         <source>No share code specified!</source>
-        <translation>Pas de code de partage spécifié!</translation>
+        <translation>Aucun code de partage spécifié!</translation>
     </message>
 </context>
 <context>
@@ -852,7 +876,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Êtes-vous sûrs de vouloir activer ce mod?</translation>
+        <translation>Êtes-vous certain de vouloir activer ce mod?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
@@ -865,7 +889,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement : Ce travail est encore en cours. Si vous avez des troubles avec le modpack importé, il peut s&apos;agir d&apos;un bogue.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -888,17 +912,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Aucune version diponible pour le moment pour Minecraft %1</translation>
+        <translation>Aucune version n&apos;est présentement disponible pour Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
         <source>No versions are currently available</source>
-        <translation>Aucune version disponible pour le moment</translation>
+        <translation>Aucune version n&apos;est présentement disponible</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de charger ou de télécharger les listes de versions !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="93"/>
@@ -911,7 +935,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="51"/>
         <source>Finished all authentication steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les étapes d&apos;authentification sont terminées</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="56"/>
@@ -921,22 +945,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>En attente...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
         <source>Working...</source>
-        <translation>En cours...</translation>
+        <translation>En traitement...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">La tâche d&apos;authentification a réussi.</translation>
+        <translation>La tâche d&apos;authentification a réussi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Le serveur d&apos;authentification n&apos;a pas été contacté.</translation>
+        <translation>Impossible de joindre le serveur d&apos;authentification.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
