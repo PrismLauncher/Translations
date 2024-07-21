@@ -4654,12 +4654,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation>Segundos a esperar hasta que terminen las solicitudes.</translation>
+        <translation>Segundos a esperar hasta que terminen las solicitudes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="313"/>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de espera para solicitudes HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
@@ -5397,7 +5397,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Espere...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -5407,7 +5407,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesion con Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="162"/>
@@ -5457,7 +5457,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra %1 e introduzca el código anterior.</translation>
     </message>
 </context>
 <context>
@@ -5465,7 +5465,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>No pudo refrescar el token.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
@@ -7057,7 +7057,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargadores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -7186,22 +7186,22 @@ Advertencia: Este recurso está enlazado desde otro sitio. Si se edita, también
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Lado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Loaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargadores</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de release</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiones de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
@@ -7246,7 +7246,7 @@ Advertencia: Este recurso está enlazado desde otro sitio. Si se edita, también
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="221"/>
         <source>The release type.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tipo de release.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="223"/>
@@ -7951,7 +7951,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Paquete de modrinth</translation>
+        <translation>Paquete de Modrinth</translation>
     </message>
 </context>
 <context>
@@ -7990,7 +7990,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="189"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo al analizar la respuesta de la version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="198"/>
@@ -8049,7 +8049,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Este projecto ha sido archivado. No recibirá actualizaciones nuevas a menos que el creadeor decida reanudar el proyecto.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
@@ -8079,7 +8079,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
@@ -8100,7 +8100,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="64"/>
         <source>Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
@@ -8311,12 +8311,12 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usernames que excedan los 16 caracteres no pueden usarse en juegos LAN, o en servidores en modo offline.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir usernames largos</translation>
     </message>
 </context>
 <context>
@@ -8339,7 +8339,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Los mods no comprobados serán deshabilitados.</translation>
     </message>
 </context>
 <context>
@@ -8549,7 +8549,8 @@ Esto puede ser permanente desaparecerá de la carpeta de registros.
         <location filename="src/launcher/net/PasteUpload.cpp" line="219"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Error: %1 regreso un error: %2
+Mensage: %3</translation>
     </message>
 </context>
 <context>
@@ -8562,17 +8563,17 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El servicio de pasta predeterminado ha cambiado a mclo.gs, por favor elija lo que desea hacer con su configuración.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usar nuevo servicio predeterminado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mantener la configuración anterior</translation>
     </message>
 </context>
 <context>
@@ -8580,12 +8581,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="124"/>
         <source>pixmap cache misses by eviction happened too fast, doing nothing as the cache size reached it&apos;s limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Los errores de caché de pixmap por desalojo ocurrieron demasiado rápido y no se hizo nada cuando el tamaño del caché alcanzó su límite</translation>
     </message>
     <message>
         <location filename="src/launcher/MTPixmapCache.h" line="127"/>
         <source>pixmap cache misses by eviction happened too fast, increasing cache size to</source>
-        <translation type="unfinished"></translation>
+        <translation>Los errores de caché de pixmap por desalojo ocurrieron demasiado rápido, aumentando el tamaño del caché a</translation>
     </message>
 </context>
 <context>
@@ -8666,7 +8667,8 @@ Razón: %1</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Actualizador no cerró 60 segundos
+Razón: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
@@ -8682,34 +8684,36 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
         <source>Update Check Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de comprobación de actualización</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hubo un error al ejecutar el cheque de actualización.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
         <source>Unknown Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Error de actualización desconocido</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El actualizador salió con una condición desconocida.
+Código de salida: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Stdout: %1
+Stderr: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>There are no new updates available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No hay nuevas actualizaciones disponibles.</translation>
     </message>
 </context>
 <context>
@@ -8717,77 +8721,77 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilice un camino personalizado como root de aplicación (utiliza &apos;.&apos; para el directorio actual).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="224"/>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>directorio</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilice esta versión como la versión de lanzamiento instalada. (proporcionado porque stdout no puede ser capturado fiablemente en las ventanas)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
         <source>installed launcher version</source>
-        <translation type="unfinished"></translation>
+        <translation>version de launcher instalado</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
         <source>version name</source>
-        <translation type="unfinished"></translation>
+        <translation>nombre de versión</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>Update from the specified repo.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Actualización desde el repositorio especificado.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation type="unfinished"></translation>
+        <translation>url de repositorio GitHub</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo compruebe si se necesita una actualización. Exit status 100 if true, 0 if false (o algo mas que 0 if there was an error).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permitir actualizar las versiones anteriores a la liberación</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forzar una actualización, incluso si uno no es necesario.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
         <source>List available releases.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lista de lanzamientos disponibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="235"/>
         <source>Log debug to console.</source>
-        <translation type="unfinished"></translation>
+        <translation>El registro depurado a la consola.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
         <source>Select the version to install with a GUI.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleccione la versión para instalar con un GUI.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
         <source>Allow the updater to downgrade to previous versions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permitir que el actualizador se reduzca a versiones anteriores.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MacOS no respaldado</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
