@@ -1057,7 +1057,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>mi lukin e ni: ilo namako li jo ala jo e nanpa namako</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
