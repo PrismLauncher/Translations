@@ -1282,7 +1282,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>pona</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
@@ -1299,12 +1299,13 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="168"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>tenpo pi lukin ilo JVisualVM la mi pakala. o lukin:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ilo JProfiler li lukin pona tawa mi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
@@ -1321,12 +1322,13 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>tenpo pi lukin ilo MCEdit la mi pakala. o lukin:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ilo MCEdit li lukin pona tawa mi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
@@ -1336,12 +1338,12 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>ike</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>sina pana e lipu tawa mi la ona li ilo pali ala</translation>
     </message>
 </context>
 <context>
@@ -1349,7 +1351,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>mi ken ala pana e lipu Jar &apos;%1&apos; tawa &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -1357,12 +1359,12 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>mi lukin e lipu pona FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>mi kama jo e lipu pona FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
@@ -1372,17 +1374,17 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>mi pana e lipu pona FML tawa ijo musi...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>mi lon e poki pi lipu musi FML insa ijo musi la mi pakala.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>tenpo pi pana lipu Forge anu lipu FML la mi pakala: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="121"/>
@@ -1391,7 +1393,11 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>mi ken ala kama jo e lipu ni:
+%1
+
+tan ni: %2
+o alasa sin.</translation>
     </message>
 </context>
 <context>
@@ -1399,7 +1405,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="19"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation>mi lukin e nanpa pi ilo namako...</translation>
     </message>
 </context>
 <context>
@@ -1407,18 +1413,18 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>mi pona e ilo namako tawa lipu CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>mi sin ala e ilo namako pini tan ni: mi wile ala tu e ilo namako!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>mi kama jo e nanpa tan ilo API pi ilo CurseForge tawa ni: &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
