@@ -78,7 +78,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Обратите внимание: этот параметр нужно устанавливать только для доступа к приватным данным. Для получения дополнительной информации прочитайте &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;документацию&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Обратите внимание: этот параметр нужен только для доступа к частным данным. Для получения подробностей ознакомьтесь с &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;документацией&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -847,7 +847,7 @@ for details.</oldsource>
 Теперь вы используете %1.
 Проверьте журнал установки:
 %2
-чтобы узнать подробности об обновлении</translation>
+чтобы узнать подробности об обновлении.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="997"/>
@@ -4918,7 +4918,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество повторных попыток вручную</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
@@ -10072,7 +10072,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation>Стиль виджета пытается выглядеть как ваша тема Windows 32</translation>
+        <translation>Стиль виджета пытается соответствовать вашей системной теме win32</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
@@ -10092,7 +10092,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
         <source>Your current system theme</source>
-        <translation>Ваша текущая тема системы</translation>
+        <translation>Ваша текущая системная тема</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
