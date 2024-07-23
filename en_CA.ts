@@ -4411,7 +4411,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Number of manual retries</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="344"/>
