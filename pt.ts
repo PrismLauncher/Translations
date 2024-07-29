@@ -10666,7 +10666,7 @@ Aviso: Este recurso tem um link forte em outro lado. Editá-lo também irá edit
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O mod foi desativado pois pode já estar instalado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
