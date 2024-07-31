@@ -788,7 +788,7 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Ažuriranje uspjelo
+        <translation>Ažuriranje uspjelo
 
 Sada izvodite %1.
 Provjerite dnevnik ažuriranja programa Prism Launcher na:
@@ -1066,7 +1066,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Nepoznato stanje zadatka računa: %1</translation>
+        <translation>Nepoznato stanje zadatka računa: %1</translation>
     </message>
 </context>
 <context>
@@ -1117,7 +1117,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished">%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
@@ -1200,7 +1200,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfliktirajući uvjeti otkriveni tjekom provjere ovisnosti!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
@@ -1298,7 +1298,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished">Kopiraj opcije u igri kao što su FOV, maksimalan „framerate“, itd.</translation>
+        <translation>Kopiraj opcije u igri kao što su FOV, maksimalan „framerate“, itd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
@@ -1308,7 +1308,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj spremljeno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
@@ -1318,27 +1318,27 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi simboličan ili hard link umjesto kopiranja podataka.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbolične i Hard Link Postavke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Poveznice su podržane na svim datotečnim sustavima osim FAT</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished"></translation>
+        <translation>Poveži svaki resurs individualno umjesto povezivanja svih mapa odjednom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Poveži podatke rekurzivno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
@@ -1348,17 +1348,17 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne povezuj spremljeno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi Hard Links umjesto kopiranja podataka.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation type="unfinished">Koristi tvrde linkove</translation>
+        <translation>Koristi Hard Links</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
@@ -1374,7 +1374,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished"></translation>
+        <translation>CoW(Kopiraj-prilikom-Pisanja) Postavke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
@@ -1389,12 +1389,12 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaš datotečni sustav i/ili Operacijski sustav ne podržava reflinkove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj Shader pakete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
@@ -1404,12 +1404,12 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj resursne pakete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadrži vrijeme igranja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
@@ -1424,17 +1424,17 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinkovi su podržani na %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinkovi nisu podržani na %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na Windowsu, simbolični linkovi možda zahtijevanju dozvolu administratora za izradu.</translation>
     </message>
 </context>
 <context>
@@ -1442,7 +1442,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="81"/>
         <source>Core mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Glavne modifikacije</translation>
     </message>
 </context>
 <context>
@@ -1450,7 +1450,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="15"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće izraditi mapu igre</translation>
     </message>
 </context>
 <context>
@@ -1459,19 +1459,19 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Jedinstvene Naredbe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;ost-izlazna komanda:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prije-pokretanja komanda:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
@@ -1483,7 +1483,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Prije-pokretna komanda funkcionira prije paljenja programa i pokreće se naknadni-izlaz komanda nakon zatvaranja. &lt;/p&gt;&lt;p&gt;Obje će raditi u pokretačevoj mapi sa dodatnim varijablama:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST-IME - Ime programa&lt;/li&gt;&lt;li&gt;$INST_ID - ID od programa(ime foldera)&lt;/li&gt;&lt;li&gt;$INST_DIR - putanja programa&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - putanja Minecrafta&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java Binary korištena za pokretanje&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGM - parametri za pokretanje programa(upozorenje: neće raditi ispravno ako argumenti sardržavaju razmake)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper komanda omogućava paljenje programa koristeći dodatan wrapper program(kao &apos;optirun&apos; na Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1491,7 +1491,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="52"/>
         <source>Custom Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedinstvene Komande</translation>
     </message>
 </context>
 <context>
@@ -1504,27 +1504,27 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Izdavanja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshotovi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <source>Experiments</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksperimenti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
@@ -1535,12 +1535,12 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Učitavač modifikacija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ništa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="195"/>
@@ -1555,22 +1555,22 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedinstveno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
