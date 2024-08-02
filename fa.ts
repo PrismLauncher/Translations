@@ -5187,8 +5187,8 @@ Reason:
         <translation>پایین</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="245"/>
         <source>Minecraft Log</source>
         <translation>لاگ ماینکرافت</translation>
     </message>
@@ -9161,16 +9161,16 @@ Are you sure?</source>
         <translation>تست جاوا موفقیت آمیز بود!&lt;br /&gt;پلتفرم گزارش شده: %1&lt;br /&gt;نسخه جاوای گزارش شده: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="79"/>
         <source>Java test success</source>
         <translation>تست جاوا موفق بود</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="310"/>
         <source>Java test failure</source>
         <translation>تست جاوا ناموفق بود</translation>
     </message>
@@ -9562,8 +9562,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>ترتیب براساس محبوبیت</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <source>Sort by Last Updated</source>
         <translation>مرتب سازی بر اساس زمان آخرین به روز رسانی</translation>
     </message>
@@ -9578,8 +9578,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>مرتب‌سازی براساس سازنده</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
