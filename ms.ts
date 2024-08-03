@@ -2467,28 +2467,27 @@ Sila cuba lagi.</translation>
         <translation>Menyediakan mod untuk CurseForge...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Mod yang dilumpuhkan tidak akan dikemas kini, untuk mengelakkan isu pertindihan mod!</translation>
+        <translation type="vanished">Mod yang dilumpuhkan tidak akan dikemas kini, untuk mengelakkan isu pertindihan mod!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>Mendapat respons API daripada CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="139"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Menghuraikan respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Tiada versi yang sah ditemui untuk mod ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod semasa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="155"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>Mod mempunyai kemas kini baharu yang tersedia, tetapi tidak boleh dimuat turun menggunakan CurseForge.</translation>
@@ -7013,22 +7012,21 @@ Sila kemas kini %1!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="46"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished">Mod yang dilumpuhkan tidak akan dikemas kini, untuk mengelakkan isu pertindihan mod!</translation>
+        <translation type="obsolete">Mod yang dilumpuhkan tidak akan dikemas kini, untuk mengelakkan isu pertindihan mod!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="85"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="80"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Tiada versi yang sah ditemui untuk mod ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod semasa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation type="unfinished"></translation>
     </message>

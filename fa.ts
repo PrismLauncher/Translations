@@ -2505,28 +2505,27 @@ Please try again.</source>
         <translation>آماده سازی مود ها برای CurseForge...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>برای جلوگیری از مشکلات تکراری مودهای غیرفعال به روز نمی شوند!</translation>
+        <translation type="vanished">برای جلوگیری از مشکلات تکراری مودهای غیرفعال به روز نمی شوند!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>دریافت پاسخ API از CurseForge برای «%1»...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="139"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>تجزیه پاسخ API از CurseForge برای «%1»...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>هیچ نسخه معتبری برای این مود پیدا نشد. احتمالاً برای نسخه فعلی بازی / بارگذار مود موجود نیست.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="155"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>این مود یک به‌روزرسانی جدید در دسترس دارد، اما با استفاده از CurseForge قابل دانلود نیست.</translation>
@@ -7613,22 +7612,21 @@ Please update %1!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="46"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished">برای جلوگیری از مشکلات تکراری مودهای غیرفعال به روز نمی شوند!</translation>
+        <translation type="obsolete">برای جلوگیری از مشکلات تکراری مودهای غیرفعال به روز نمی شوند!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="85"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="80"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation type="unfinished">هیچ نسخه معتبری برای این مود پیدا نشد. احتمالاً برای نسخه فعلی بازی / بارگذار مود موجود نیست.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation type="unfinished"></translation>
     </message>

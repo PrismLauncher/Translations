@@ -2593,28 +2593,27 @@ Please try again.</source>
         <translation>准备从 CurseForge 获取 Mod……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>为避免 Mod 重复的问题，被停用的 Mod 将不会被更新！</translation>
+        <translation type="vanished">为避免 Mod 重复的问题，被停用的 Mod 将不会被更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>正在获取 CurseForge 对“%1”的 API 响应……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="139"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>正在解析 CurseForge 对“%1”的 API 响应……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="155"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>Mod 有可用的更新，但禁止了第三方启动器从 CurseForge 上下载。</translation>
@@ -8380,17 +8379,16 @@ Please update %1!</source>
         <translation>正在从 Modrinth 准备 Mod……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="46"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>为避免 Mod 重复的问题，被停用的 Mod 将不会被更新！</translation>
+        <translation type="vanished">为避免 Mod 重复的问题，被停用的 Mod 将不会被更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="85"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="80"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>正在分析 Modrinth 的 API 返回数据……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
     </message>
@@ -8399,7 +8397,7 @@ Please update %1!</source>
         <translation type="vanished">Mod 的下载链接为空</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>正在等待 Modrinth API 回应……</translation>
     </message>

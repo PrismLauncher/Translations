@@ -2561,28 +2561,27 @@ Vă rugăm să încercați din nou.</translation>
         <translation>Preparând modurile pentru CurseForge...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Modurile dezactivate nu for fii actualizate, pentru a prevenii problemele cu duplicarea modurilor!</translation>
+        <translation type="vanished">Modurile dezactivate nu for fii actualizate, pentru a prevenii problemele cu duplicarea modurilor!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>Primind un răspund API de la CurseForge de la &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="139"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Analizez răspunsul API primit de la CurseForge pentru &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="155"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>Modul are o versiune nouă disponibilă, dar nu poate fi descărcată folosind CurseForge.</translation>
@@ -7754,17 +7753,16 @@ Te rugăm actualizează %1!</translation>
         <translation>Pregătire moduri pentru Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="46"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Modurile dezactivate nu for fii actualizate, pentru a prevenii problemele cu duplicarea modurilor!</translation>
+        <translation type="vanished">Modurile dezactivate nu for fii actualizate, pentru a prevenii problemele cu duplicarea modurilor!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="85"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="80"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Se analizează răspunsul API de la Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de moduri.</translation>
     </message>
@@ -7773,7 +7771,7 @@ Te rugăm actualizează %1!</translation>
         <translation type="vanished">Modul are un URL de descărcare gol</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Se așteaptă pentru răspunsul API de la Modrinth...</translation>
     </message>
