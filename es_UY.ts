@@ -2508,7 +2508,7 @@ Por favor inténtalo nuevamente.</translation>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="123"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing mods for CurseForge...</source>
         <translation>Preparando mods para CurseForge...</translation>
     </message>
@@ -2517,23 +2517,23 @@ Por favor inténtalo nuevamente.</translation>
         <translation type="vanished">¡Los mods deshabilitados no se actualizarán para evitar problemas de duplicación de mods!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>Obteniendo respuesta API de CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="139"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Analizando la respuesta API de CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>No se encontro una version valida para este mod, Es probable que no sea compatible con la version o el modloader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="151"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>Modificacion con actualizacion disponible, pero no se puede descargar con CurseForge.</translation>
@@ -5290,27 +5290,27 @@ Motivo:
 <context>
     <name>MMCZip::ExportToZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="459"/>
+        <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Folder doesn&apos;t exist</source>
         <translation>La carpeta no existe</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="462"/>
+        <location filename="src/launcher/MMCZip.cpp" line="473"/>
         <source>Could not create file</source>
         <translation>No se pudo crear el archivo</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="470"/>
+        <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not create:</source>
         <translation>No se pudo crear:</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="491"/>
+        <location filename="src/launcher/MMCZip.cpp" line="502"/>
         <source>Could not read and compress %1</source>
         <translation>No se pudo leer y comprimir %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="497"/>
+        <location filename="src/launcher/MMCZip.cpp" line="508"/>
         <source>A zip error occurred</source>
         <translation>Se ha producido un error zip</translation>
     </message>
@@ -5318,32 +5318,33 @@ Motivo:
 <context>
     <name>MMCZip::ExtractZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="543"/>
+        <location filename="src/launcher/MMCZip.cpp" line="554"/>
         <source>Failed to enumerate files in archive</source>
         <translation>Error al enumerar los ficheros en el archivo</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="546"/>
+        <location filename="src/launcher/MMCZip.cpp" line="557"/>
         <source>Extracting empty archives seems odd...</source>
         <translation>Extraer archivos vacíos es extraño...</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="550"/>
+        <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Failed to seek to first file in zip</source>
         <translation>Error al buscar el primer archivo en zip</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="590"/>
+        <location filename="src/launcher/MMCZip.cpp" line="601"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>Se ha cancelado la extracción de %1, porque se encontraba efectivamente fuera de la ruta de destino %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="596"/>
+        <location filename="src/launcher/MMCZip.cpp" line="607"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>Error al extraer el archivo %1 en %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="610"/>
+        <location filename="src/launcher/MMCZip.cpp" line="621"/>
+        <location filename="src/launcher/MMCZip.cpp" line="632"/>
         <source>Could not fix permissions for %1</source>
         <translation type="unfinished">No se pudo corregir los permisos para %1</translation>
     </message>
@@ -5356,32 +5357,32 @@ Motivo:
         <translation>Iniciar sesión con una cuenta de Microsoft(codigo de dispositivo).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <source>Device authorization failed: %1</source>
         <translation>Autorización de dispositivo fallida: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="122"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Fallo al recuperar autenticación del dispositivo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="128"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>Autenticación del dispositivo fallida: faltan campos obligatorios</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="153"/>
         <source>Task aborted</source>
         <translation>Tarea abortada</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="259"/>
         <source>Device Access failed: %1</source>
         <translation>Fallo de acceso al dispositivo: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="274"/>
         <source>Got</source>
         <translation>Obtenido</translation>
     </message>
@@ -8117,29 +8118,29 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="67"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
         <source>Requesting %1</source>
         <translation>Solicitando %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="147"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>unknown</source>
         <translation>desconocido</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="155"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="158"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="156"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
@@ -9906,6 +9907,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
+        <location filename="src/launcher/MMCZip.cpp" line="355"/>
         <source>Could not fix permissions for %1</source>
         <translation type="unfinished">No se pudo corregir los permisos para %1</translation>
     </message>

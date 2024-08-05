@@ -2576,7 +2576,7 @@ Please try again.</source>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="123"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing mods for CurseForge...</source>
         <translation>CurseForge 모드를 준비하는 중...</translation>
     </message>
@@ -2585,23 +2585,23 @@ Please try again.</source>
         <translation type="vanished">모드 복제 문제를 방지하기 위해 비활성화된 모드는 업데이트되지 않습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>CurseForge에서 &apos;%1&apos;에 대한 API 응답을 가져오는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="139"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>CurseForge에서 &apos;%1&apos;에 대한 API 응답을 분석하는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>이 모드에 유효한 버전이 없습니다. 현재 게임 버전/모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="151"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>Mod에 새로운 업데이트가 있지만 CurseForge를 사용하여 다운로드할 수 없습니다.</translation>
@@ -5446,27 +5446,27 @@ Reason:
 <context>
     <name>MMCZip::ExportToZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="459"/>
+        <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Folder doesn&apos;t exist</source>
         <translation>폴더가 존재하지 않음</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="462"/>
+        <location filename="src/launcher/MMCZip.cpp" line="473"/>
         <source>Could not create file</source>
         <translation>파일을 생성할 수 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="470"/>
+        <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not create:</source>
         <translation>생성할 수 없음:</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="491"/>
+        <location filename="src/launcher/MMCZip.cpp" line="502"/>
         <source>Could not read and compress %1</source>
         <translation>%1을(를) 읽고 압축할 수 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="497"/>
+        <location filename="src/launcher/MMCZip.cpp" line="508"/>
         <source>A zip error occurred</source>
         <translation>ZIP 오류 발생</translation>
     </message>
@@ -5474,32 +5474,33 @@ Reason:
 <context>
     <name>MMCZip::ExtractZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="543"/>
+        <location filename="src/launcher/MMCZip.cpp" line="554"/>
         <source>Failed to enumerate files in archive</source>
         <translation>압축된 파일을 열거하지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="546"/>
+        <location filename="src/launcher/MMCZip.cpp" line="557"/>
         <source>Extracting empty archives seems odd...</source>
         <translation>빈 압축 파일을 압축 해제하는 것이 이상해 보입니다...</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="550"/>
+        <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Failed to seek to first file in zip</source>
         <translation>ZIP에서 첫 번째 파일을 찾지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="590"/>
+        <location filename="src/launcher/MMCZip.cpp" line="601"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>대상 경로 %2을(를) 사실상 벗어나, %1의 압축 해제가 취소됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="596"/>
+        <location filename="src/launcher/MMCZip.cpp" line="607"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>파일을 %1에서 %2(으)로 추출하지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="610"/>
+        <location filename="src/launcher/MMCZip.cpp" line="621"/>
+        <location filename="src/launcher/MMCZip.cpp" line="632"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
@@ -5512,32 +5513,32 @@ Reason:
         <translation>Microsoft 계정으로 로그인하기(기기 코드).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <source>Device authorization failed: %1</source>
         <translation>기기 인증 실패: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="122"/>
         <source>Failed to retrieve device authorization</source>
         <translation>기기 인증 정보를 받아오지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="128"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>기기 인증 실패: 필요한 내용이 비어 있음</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="153"/>
         <source>Task aborted</source>
         <translation>작업이 중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="259"/>
         <source>Device Access failed: %1</source>
         <translation>기기 접근 실패: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="274"/>
         <source>Got</source>
         <translation>받아옴</translation>
     </message>
@@ -8630,29 +8631,29 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="67"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
         <source>Requesting %1</source>
         <translation>%1 요청 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="147"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>unknown</source>
         <translation>알 수 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="155"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /s (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="158"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="156"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B/s</translation>
@@ -10510,6 +10511,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
+        <location filename="src/launcher/MMCZip.cpp" line="355"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>

@@ -2572,7 +2572,7 @@ Please try again.</source>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="123"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing mods for CurseForge...</source>
         <translation>正在為 CurseForge 準備模組…</translation>
     </message>
@@ -2581,23 +2581,23 @@ Please try again.</source>
         <translation type="vanished">為避免產生模組檔案問題，被停用的模組將不會被更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>正在為「%1」取得 CurseForge API 回應…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="139"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>正在為「%1」分析 CurseForge 的 API 回應…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>找不到該模組的有效版本。可能在目前的遊戲版本或模組載入器中還不可用。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="151"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>模組有可用的更新，但在 CurseForge 上不開放第三方啟動器存取。</translation>
@@ -5495,27 +5495,27 @@ Reason:
 <context>
     <name>MMCZip::ExportToZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="459"/>
+        <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Folder doesn&apos;t exist</source>
         <translation>資料夾不存在</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="462"/>
+        <location filename="src/launcher/MMCZip.cpp" line="473"/>
         <source>Could not create file</source>
         <translation>無法建立檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="470"/>
+        <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not create:</source>
         <translation>無法建立：</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="491"/>
+        <location filename="src/launcher/MMCZip.cpp" line="502"/>
         <source>Could not read and compress %1</source>
         <translation>無法讀取和壓縮 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="497"/>
+        <location filename="src/launcher/MMCZip.cpp" line="508"/>
         <source>A zip error occurred</source>
         <translation>Zip 壓縮檔發生錯誤</translation>
     </message>
@@ -5523,32 +5523,33 @@ Reason:
 <context>
     <name>MMCZip::ExtractZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="543"/>
+        <location filename="src/launcher/MMCZip.cpp" line="554"/>
         <source>Failed to enumerate files in archive</source>
         <translation>無法列舉封存檔案中的檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="546"/>
+        <location filename="src/launcher/MMCZip.cpp" line="557"/>
         <source>Extracting empty archives seems odd...</source>
         <translation>解壓縮空封存檔案似乎很奇怪...</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="550"/>
+        <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Failed to seek to first file in zip</source>
         <translation>無法定位 Zip 檔中的第一個檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="590"/>
+        <location filename="src/launcher/MMCZip.cpp" line="601"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>解壓縮 %1 已取消，因為它實際上位於目標路徑 %2 之外</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="596"/>
+        <location filename="src/launcher/MMCZip.cpp" line="607"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>無法將檔案 %1 解壓縮到 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="610"/>
+        <location filename="src/launcher/MMCZip.cpp" line="621"/>
+        <location filename="src/launcher/MMCZip.cpp" line="632"/>
         <source>Could not fix permissions for %1</source>
         <translation>無法修復 %1 的權限</translation>
     </message>
@@ -5561,32 +5562,32 @@ Reason:
         <translation>正在使用 Microsoft 帳號登入（裝置代碼）。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <source>Device authorization failed: %1</source>
         <translation>裝置驗證失敗：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="122"/>
         <source>Failed to retrieve device authorization</source>
         <translation>無法取得裝置驗證資訊</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="128"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>裝置授權失敗：缺少必要的欄位</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="153"/>
         <source>Task aborted</source>
         <translation>任務已中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="259"/>
         <source>Device Access failed: %1</source>
         <translation>裝置存取失敗：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="274"/>
         <source>Got</source>
         <translation>已取得</translation>
     </message>
@@ -8739,29 +8740,29 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="67"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
         <source>Requesting %1</source>
         <translation>正在請求 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="147"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="155"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1／每秒（%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="158"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="156"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 B／每秒</translation>
@@ -10619,6 +10620,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
+        <location filename="src/launcher/MMCZip.cpp" line="355"/>
         <source>Could not fix permissions for %1</source>
         <translation>無法修正 %1 的權限</translation>
     </message>

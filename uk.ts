@@ -2560,7 +2560,7 @@ Please try again.</source>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="123"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing mods for CurseForge...</source>
         <translation>Підготовлення модів з CurseForge…</translation>
     </message>
@@ -2569,23 +2569,23 @@ Please try again.</source>
         <translation type="vanished">Вимкнені моди не будуть оновлені, щоб запобігти помилкам дублювання!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>Отримуємо відповідь API від CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="139"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Розбір API відповіді від CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="142"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Не знайдено допустимої версії цього моду. Ймовірно він не доступний для поточної версії гри/завантажувача модів.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="151"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>Доступна нова версія моду, але ЇЇ не можливо завантажити через CurseForge.</translation>
@@ -5403,27 +5403,27 @@ Reason:
 <context>
     <name>MMCZip::ExportToZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="459"/>
+        <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Folder doesn&apos;t exist</source>
         <translation>Теки не існує</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="462"/>
+        <location filename="src/launcher/MMCZip.cpp" line="473"/>
         <source>Could not create file</source>
         <translation>Не вдалося створити файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="470"/>
+        <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not create:</source>
         <translation>Невдалося створити:</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="491"/>
+        <location filename="src/launcher/MMCZip.cpp" line="502"/>
         <source>Could not read and compress %1</source>
         <translation>Не вдалося прочитати та стиснути %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="497"/>
+        <location filename="src/launcher/MMCZip.cpp" line="508"/>
         <source>A zip error occurred</source>
         <translation>Виникла помилка zip</translation>
     </message>
@@ -5431,32 +5431,33 @@ Reason:
 <context>
     <name>MMCZip::ExtractZipTask</name>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="543"/>
+        <location filename="src/launcher/MMCZip.cpp" line="554"/>
         <source>Failed to enumerate files in archive</source>
         <translation>Не вдалося перерахувати файли в архіві</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="546"/>
+        <location filename="src/launcher/MMCZip.cpp" line="557"/>
         <source>Extracting empty archives seems odd...</source>
         <translation>Розпаковування порожніх архівів здається дивним...</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="550"/>
+        <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Failed to seek to first file in zip</source>
         <translation>Не вдалося знайти перший файл в ZIP</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="590"/>
+        <location filename="src/launcher/MMCZip.cpp" line="601"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
         <translation>Розпаковку %1 було скасовано, оскільки вона фактично знаходилася за межами цільового шляху %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="596"/>
+        <location filename="src/launcher/MMCZip.cpp" line="607"/>
         <source>Failed to extract file %1 to %2</source>
         <translation>Не вдалося розпакувати файл %1 до %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCZip.cpp" line="610"/>
+        <location filename="src/launcher/MMCZip.cpp" line="621"/>
+        <location filename="src/launcher/MMCZip.cpp" line="632"/>
         <source>Could not fix permissions for %1</source>
         <translation>Не вдалося виправити права доступу для %1</translation>
     </message>
@@ -5469,32 +5470,32 @@ Reason:
         <translation>Увійдіть за допомогою облікового запису Microsoft (кодом пристрою).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="118"/>
         <source>Device authorization failed: %1</source>
         <translation>Не вдалося авторизувати пристрій: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="122"/>
         <source>Failed to retrieve device authorization</source>
         <translation>Не вдалося отримати дозвіл на використання пристрою</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="128"/>
         <source>Device authorization failed: required fields missing</source>
         <translation>Не вдалося авторизувати пристрій: відсутні обов&apos;язкові поля</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="153"/>
         <source>Task aborted</source>
         <translation>Процес скасовано</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="259"/>
         <source>Device Access failed: %1</source>
         <translation>Не вдалося отримати доступ до пристрою: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="274"/>
         <source>Got</source>
         <translation>Отримав</translation>
     </message>
@@ -8565,29 +8566,29 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Net::NetRequest</name>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="67"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="65"/>
         <source>Requesting %1</source>
         <translation>Вимагає %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="149"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="147"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
         <translation>%1 / %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>unknown</source>
         <translation>невідомий</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="155"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
         <translation>%1 /с (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetRequest.cpp" line="158"/>
+        <location filename="src/launcher/net/NetRequest.cpp" line="156"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation>0 Б/с</translation>
@@ -10447,6 +10448,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
+        <location filename="src/launcher/MMCZip.cpp" line="355"/>
         <source>Could not fix permissions for %1</source>
         <translation>Не вдалося виправити права доступу для %1</translation>
     </message>
