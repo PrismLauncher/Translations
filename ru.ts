@@ -199,7 +199,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
         <source>Downloading configs...</source>
-        <translation>Загрузка настроек…</translation>
+        <translation>Скачивание настроек…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="632"/>
@@ -229,7 +229,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
         <source>Mod download</source>
-        <translation>Загрузка мода</translation>
+        <translation>Обзор модов</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -899,7 +899,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Обновление индекса ресурсов…</translation>
+        <translation>Обновление индекса ассетов…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="27"/>
@@ -920,7 +920,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Получение файлов ресурсов от Mojang…</translation>
+        <translation>Получение файлов ассетов от Mojang…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="92"/>
@@ -1030,7 +1030,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Поиск и фильтрация…</translation>
+        <translation>Поиск и фильтрация</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1095,7 +1095,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation>Ожидание...</translation>
+        <translation>Ожидание…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
@@ -1135,7 +1135,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
@@ -2473,7 +2473,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>Загрузка библиотек FML…</translation>
+        <translation>Скачиванние библиотек FML…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -2532,7 +2532,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation>Поиск и фильтрация…</translation>
+        <translation>Поиск и фильтрация</translation>
     </message>
     <message>
         <source>Search</source>
@@ -2948,7 +2948,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Поиск и фильтрация…</translation>
+        <translation>Поиск и фильтрация</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -4201,7 +4201,7 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="209"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>Автоопределение…</translation>
+        <translation>&amp;Автоопределение</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="222"/>
@@ -5915,7 +5915,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="241"/>
         <source>More news...</source>
-        <translation>Больше новостей…</translation>
+        <translation>Все новости</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="244"/>
@@ -8544,7 +8544,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="286"/>
         <source>Downloading mods...</source>
-        <translation>Загрузка модов…</translation>
+        <translation>Скачивание модов…</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -10081,7 +10081,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation>Стиль виджета Qt, вдохновленный WinUI 3</translation>
+        <translation>Стиль виджета Qt, вдохновлённый WinUI 3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
@@ -10091,7 +10091,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
         <source>Your current system theme</source>
-        <translation>Ваша текущая системная тема</translation>
+        <translation>Текущая тема вашей системы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
