@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>აღსანიშნავია: თქვენ ალბათ გსურთ შეცვალოთ ან წაშალოთ ბაზური URL ჩასმის სერვისის ტიპის შეცვლის შემდეგ.</translation>
+        <translation>შენიშვნა: თქვენ ალბათ გსურთ შეცვალოთ ან წაშალოთ ბაზური URL ჩასმის სერვისის ტიპის შეცვლის შემდეგ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -1605,7 +1605,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
 </context>
 <context>
@@ -1711,7 +1711,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
 </context>
 <context>
@@ -1818,7 +1818,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
         <source>File</source>
-        <translation type="unfinished">ფაილი</translation>
+        <translation>ფაილი</translation>
     </message>
 </context>
 <context>
@@ -2520,7 +2520,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="202"/>
         <source>Error</source>
-        <translation type="unfinished">შეცდომა</translation>
+        <translation>შეცდომა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="280"/>
@@ -2745,7 +2745,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
@@ -3372,7 +3372,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">უარი</translation>
+        <translation>პროფაილერი შეწყვეტილია</translation>
     </message>
 </context>
 <context>
@@ -3385,7 +3385,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">უარი</translation>
+        <translation>პროფაილერი შეწყვეტილია</translation>
     </message>
 </context>
 <context>
@@ -3826,7 +3826,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="426"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="439"/>
@@ -4660,7 +4660,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
-        <translation type="unfinished">ამოცანა შეწყვეტლია</translation>
+        <translation>ამოცანა შეწყვეტილია</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
@@ -4683,12 +4683,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation type="unfinished">გთხოვთ, მოითმინოთ...</translation>
+        <translation>გთხოვთ, მოითმინოთ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <source>Status</source>
-        <translation type="unfinished">სტატუსი</translation>
+        <translation>სტატუსი</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -4713,7 +4713,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="324"/>
         <source>Info</source>
-        <translation type="unfinished">ინფო</translation>
+        <translation>ინფო</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5314,7 +5314,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1005"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="960"/>
@@ -5649,7 +5649,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
@@ -6025,7 +6025,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">ფორმა</translation>
+        <translation>ფორმა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -6050,7 +6050,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">ნაჭერი</translation>
+        <translation>ნაჭერი</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
@@ -6152,7 +6152,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Size</source>
-        <translation type="unfinished">ზომა</translation>
+        <translation>ზომა</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
@@ -6371,7 +6371,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="432"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="251"/>
@@ -6512,7 +6512,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="203"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="362"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
@@ -6805,7 +6805,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="188"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
         <source>Error</source>
-        <translation type="unfinished">შეცდომა</translation>
+        <translation>შეცდომა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
@@ -6945,7 +6945,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation>uid</translation>
+        <translation>UID</translation>
     </message>
 </context>
 <context>
@@ -8445,7 +8445,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>mod</source>
-        <translation>mod</translation>
+        <translation>მოდი</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
@@ -8567,7 +8567,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation>mod</translation>
+        <translation>მოდი</translation>
     </message>
 </context>
 <context>
@@ -8616,7 +8616,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="162"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
@@ -8894,7 +8894,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="200"/>
         <source>Size</source>
-        <translation type="unfinished">ზომა</translation>
+        <translation>ზომა</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="468"/>
@@ -8956,7 +8956,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
-        <translation type="unfinished">ზომა</translation>
+        <translation>ზომა</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
@@ -9054,7 +9054,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="98"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
 </context>
 <context>
@@ -9228,7 +9228,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="387"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
@@ -9502,7 +9502,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="90"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
 </context>
 <context>
@@ -9603,7 +9603,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;სკინის წაშლა</translation>
+        <translation>&amp;სკინის წაშლა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
@@ -9683,7 +9683,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
         <source>Context menu</source>
-        <translation type="unfinished">კონტექსტური მენიუ</translation>
+        <translation>კონტექსტური მენიუ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
@@ -9698,7 +9698,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="327"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">წაშლის დადასტურება</translation>
+        <translation>წაშლის დადასტურება</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
@@ -9970,7 +9970,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished">შეცდომა</translation>
+        <translation>შეცდომა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
@@ -10003,7 +10003,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Size</source>
-        <translation type="unfinished">ზომა</translation>
+        <translation>ზომა</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="89"/>
@@ -10082,7 +10082,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="100"/>
         <source>Abort</source>
-        <translation>გაუქმება</translation>
+        <translation>შეწყვეტა</translation>
     </message>
 </context>
 <context>
