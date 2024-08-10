@@ -4200,7 +4200,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Oleh terakhir dilancarkan (&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="369"/>
@@ -4220,12 +4220,12 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="66"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Selang masa pengemaskinian</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Tetapkan kepada 0 untuk hanya menyemak ketika pelancar dilancarkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
@@ -4283,7 +4283,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="252"/>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Langkau prom pengemaskinian pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
@@ -4303,12 +4303,12 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat untuk menunggu sehingga permintaan dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="313"/>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Masa tamat untuk permintaan HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
@@ -4318,7 +4318,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilangan percubaan semula manual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="394"/>
@@ -4460,7 +4460,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder Kekulit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="324"/>
@@ -4562,7 +4562,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="124"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal memuat turun beberapa senarai pek: %1</translation>
     </message>
 </context>
 <context>
@@ -4570,7 +4570,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
         <source>Downloading zip for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sedang memuat turun zip untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
@@ -4591,12 +4591,12 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Gagal memindahkan Minecraft yang dinyahzip!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiada kaedah pemasangan ditemukan!</translation>
     </message>
 </context>
 <context>
@@ -4694,7 +4694,7 @@ Patutkah ia dikeluarkan sekarang?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sedang memuat turun fail pustaka yang diperlukan...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -4704,7 +4704,7 @@ Patutkah ia dikeluarkan sekarang?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jar null ditentukan di dalam metadata, membatalkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -4740,7 +4740,8 @@ Sebab:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="44"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sedang mengemas kini indeks untuk mod:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="59"/>
@@ -4763,7 +4764,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin keseluruhan log ke papan keratan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
@@ -5781,7 +5782,7 @@ Adakah anda ingin meneruskan?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Desktop Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Entri Desktop</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
@@ -6538,12 +6539,12 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Release Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Jenis Terbitan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Minecraft Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
@@ -8628,7 +8629,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
         <source>Windows Vista</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Vista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="72"/>
@@ -9032,7 +9033,7 @@ CATATAN: Pastikan anda membuat sandaran data pemasangan penting anda sebelum men
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"/>
         <source>Confirmation Needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kepastian Diperlukan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
@@ -10052,22 +10053,22 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="120"/>
         <source>Reset Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Tetap Semula Kekulit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="134"/>
         <source>Import URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Import URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="141"/>
         <source>Import user</source>
-        <translation type="unfinished"></translation>
+        <translation>Import pengguna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="148"/>
         <source>Import File</source>
-        <translation type="unfinished"></translation>
+        <translation>Import Fail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
@@ -10087,7 +10088,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
         <source>&amp;Rename Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Namakan Semula Kekulit (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
@@ -10117,12 +10118,12 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="169"/>
         <source>Download capes</source>
-        <translation type="unfinished"></translation>
+        <translation>Muat turun mantel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="238"/>
         <source>Change skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubah kekulit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="241"/>
@@ -10137,7 +10138,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="266"/>
         <source>Reset skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Tetap Semula Kekulit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
@@ -10157,7 +10158,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
         <source>Delete error</source>
-        <translation type="unfinished"></translation>
+        <translation>Padam ralat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
@@ -10178,12 +10179,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
         <source>Invalid url</source>
-        <translation type="unfinished"></translation>
+        <translation>Pautan tidak sah</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="349"/>
         <source>Download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Muat turun kekulit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="358"/>
@@ -10632,7 +10633,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="189"/>
         <source>Refresh all</source>
-        <translation type="unfinished"></translation>
+        <translation>Segarkan semula semua</translation>
     </message>
 </context>
 <context>
@@ -11074,17 +11075,17 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="300"/>
         <source>Minecraft.jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengganti Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="335"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Agent Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
