@@ -62,7 +62,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: anda hanya perlu menetapkan ini untuk mengakses data peribadi. Baca &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentasi&lt;/a&gt; untuk mendapatkan maklumat lanjut.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: anda hanya perlu menetapkan ini untuk mengakses data peribadi. Baca &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentasi&lt;/a&gt; untuk mendapatkan maklumat lanjut.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -233,7 +233,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Fail berikut tidak tersedia untuk dimuat turun dalam pelancar pihak ketiga.&lt;br/&gt;Anda perlu memuat turunnya secara manual dan menambahkannya ke dalam instance.</translation>
+        <translation>Fail berikut tidak tersedia untuk dimuat turun dalam pelancar pihak ketiga.&lt;br/&gt;Anda perlu memuat turunnya secara manual dan menambahkannya ke dalam pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
@@ -281,7 +281,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sebuah pelancar tersuai yang memudahkan pengurusan Minecraft dengan membolehkan anda mempunyai banyak instance Minecraft sekaligus.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sebuah pelancar tersuai yang memudahkan pengurusan Minecraft dengan membolehkan anda mempunyai banyak pemasangan Minecraft sekaligus.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -535,7 +535,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Urus Kekulit (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
@@ -642,7 +642,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
         <source>Accounts</source>
-        <translation type="unfinished">Akaun</translation>
+        <translation>Akaun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
@@ -782,10 +782,10 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Kemas kini berjaya
+        <translation>Kemas kini berjaya
 
 Anda kini menjalankan %1 .
-Semak log kemas kini Prism Launcher di:
+Semak log pengemas kini Prism Launcher di:
 %1
 untuk butiran.</translation>
     </message>
@@ -1025,42 +1025,42 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Tugas pengesahan berjaya.</translation>
+        <translation>Tugas pengesahan berjaya.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Gagal menghubungi pelayan pengesahan.</translation>
+        <translation>Gagal menghubungi pelayan pengesahan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">ID Pelanggan telah berubah. Sesi baharu perlu dibuat.</translation>
+        <translation>ID Pelanggan telah berubah. Sesi baharu perlu dibuat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Menghadapi ralat semasa pengesahan.</translation>
+        <translation>Menghadapi ralat semasa pengesahan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Gagal untuk mengesahkan. Sesi telah tamat tempoh.</translation>
+        <translation>Gagal untuk mengesahkan. Sesi telah tamat tempoh.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Gagal untuk mengesahkan. Akaun tidak lagi wujud.</translation>
+        <translation>Gagal untuk mengesahkan. Akaun sudah tidak lagi wujud.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Keadaan tugas akaun tidak diketahui: %1</translation>
+        <translation>Keadaan tugas akaun tidak diketahui: %1</translation>
     </message>
 </context>
 <context>
@@ -1116,7 +1116,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folder mod global anda yang dikonfigurasikan dan folder muat turun lalai disemak secara automatik untuk mod yang dimuat turun dan ia akan disalin ke dalam instance jika ditemui.&lt;/p&gt;&lt;p&gt;Secara pilihan, anda boleh seret dan lepaskan mod yang dimuat turun ke dialog ini atau menambah folder untuk melihat jika anda tidak memuat turun mod ke lokasi lalai.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folder mod global anda yang dikonfigurasikan dan folder muat turun lalai disemak secara automatik untuk mod yang dimuat turun dan ia akan disalin ke dalam pemasangan jika ditemui.&lt;/p&gt;&lt;p&gt;Secara pilihan, anda boleh seret dan lepaskan mod yang dimuat turun ke dialog ini atau menambah folder untuk melihat jika anda tidak memuat turun mod ke lokasi lalai.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1199,12 +1199,12 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Instance mempunyai tanggungan yang bertindih.</translation>
+        <translation>Pemasangan mempunyai kebergantungan yang bertindih.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="455"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Instance mengalami pergantungan yang tidak dapat diselesaikan semasa memuatkan/menyemak pelancaran.</translation>
+        <translation>Pemasangan mengalami kebergantungan yang tidak dapat diselesaikan semasa memuat/menyemak pelancaran.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
@@ -1257,7 +1257,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Salin Instance</translation>
+        <translation>Salin Pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1267,7 +1267,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation>&amp;Kumpulan</translation>
+        <translation>Kumpulan (&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
@@ -1282,7 +1282,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation>Pilihan Penyalinan Instance</translation>
+        <translation>Pilihan Penyalinan Pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1337,7 +1337,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Jika &quot;salin simpanan&quot; dipilih data simpanan dunia akan disalin dan bukannya dipautkan dan dengan itu tidak dikongsi antara instance.</translation>
+        <translation>Jika &quot;salin simpanan&quot; dipilih data simpanan dunia akan disalin dan bukannya dipautkan dan dengan itu tidak dikongsi antara pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -1383,7 +1383,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>Sistem fail dan/atau OS anda tidak menyokong pautan semula</translation>
+        <translation>Sistem fail dan/atau OS anda tidak menyokong reflink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1418,17 +1418,17 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="96"/>
         <source>Reflinks are supported on %1</source>
-        <translation>Pautan semula disokong pada %1</translation>
+        <translation>Reflink disokong pada %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="98"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation>Pautan semula tidak disokong pada %1</translation>
+        <translation>Reflink tidak disokong pada %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>Pada Windows, sambungan simbolik mungkin memerlukan kebenaran admin untuk dibuat.</translation>
+        <translation>Pada Windows, sambungan simbolik mungkin memerlukan kebenaran pentadbir untuk dicipta.</translation>
     </message>
 </context>
 <context>
@@ -1477,7 +1477,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Arahan prapelancaran dijalankan sebelum instance dilancarkan dan perintah pascakeluar dijalankan selepas instance keluar.&lt;/p&gt;&lt;p&gt;Kedua-duanya akan dijalankan dalam folder kerja pelancar dengan pemboleh ubah persekitaran tambahan:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nama instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID instance (nama foldernya)&lt;/li&gt;&lt;li&gt;$INST_DIR - laluan mutlak instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - laluan mutlak minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binari java yang digunakan untuk pelancaran&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parameter baris perintah digunakan untuk pelancaran &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Perintah pembalut membenarkan pelancaran menggunakan program pembalut tambahan (seperti &apos;optirun&apos; pada Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Perintah prapelancaran dijalankan sebelum pemasangan dilancarkan dan perintah pascakeluar dijalankan selepas pemasangan ditamatkan.&lt;/p&gt;&lt;p&gt;Kedua-duanya akan dijalankan di dalam folder kerja pelancar dengan pemboleh ubah persekitaran tambahan:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nama pemasangan&lt;/li&gt;&lt;li&gt;$INST_ID - ID pemasangan (nama foldernya)&lt;/li&gt;&lt;li&gt;$INST_DIR - laluan mutlak pemasangan&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - laluan mutlak minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binari java yang digunakan untuk pelancaran&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parameter baris perintah digunakan untuk pelancaran &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Perintah pembalut membenarkan pelancaran menggunakan program pembalut tambahan (seperti &apos;optirun&apos; pada Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1734,7 +1734,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>Eksport Instance</translation>
+        <translation>Eksport Pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
@@ -1750,7 +1750,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
         <source>Unable to export instance</source>
-        <translation>Tidak dapat mengeksport instance</translation>
+        <translation>Tidak dapat mengeksport pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
@@ -1858,7 +1858,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="49"/>
         <source>1.0.0</source>
-        <translation type="unfinished">1.0.0</translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <source>Files</source>
@@ -1883,27 +1883,27 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="138"/>
         <source>Export %1</source>
-        <translation type="unfinished">Eksport %1</translation>
+        <translation>Eksport %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Pek Modrinth</translation>
+        <translation>Pek Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pek CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tugasan dibatalkan</translation>
+        <translation>Tugasan dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="158"/>
@@ -1913,7 +1913,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="164"/>
         <source>Abort</source>
-        <translation type="unfinished">Batalkan</translation>
+        <translation>Batalkan</translation>
     </message>
 </context>
 <context>
@@ -1926,7 +1926,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Tetapan</translation>
+        <translation>Tetapan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
@@ -1956,7 +1956,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished">Tersuai</translation>
+        <translation>Tersuai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
@@ -1972,7 +1972,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="130"/>
         <source>Version</source>
-        <translation type="unfinished">Versi</translation>
+        <translation>Versi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
@@ -2005,22 +2005,22 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>Ini bergantung pada metadata mod. Untuk memastikan ia tersedia, jalankan kemas kini pada instance. Memasang kemas kini tidak diperlukan.</translation>
+        <translation>Ini bergantung pada metadata mod. Untuk memastikan ia tersedia, jalankan kemas kini pada pemasangan. Memasang kemas kini tidak diperlukan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
         <source>Copy</source>
-        <translation type="unfinished">Salin</translation>
+        <translation>Salin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="162"/>
         <source>Export %1</source>
-        <translation type="unfinished">Eksport %1</translation>
+        <translation>Eksport %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
         <source>File</source>
-        <translation type="unfinished">Fail</translation>
+        <translation>Fail</translation>
     </message>
 </context>
 <context>
@@ -2114,12 +2114,12 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport senarai mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="182"/>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport metadata mod kepada tulisan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -2134,7 +2134,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="118"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menu konteks</translation>
+        <translation>Menu konteks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="202"/>
@@ -2212,7 +2212,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation type="unfinished">Gelintar</translation>
+        <translation>Gelintar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2250,7 +2250,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="182"/>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -2357,12 +2357,12 @@ Adakah anda pasti mahu melakukan ini?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Menyalin pustaka FML ke dalam instance...</translation>
+        <translation>Menyalin pustaka FML ke dalam pemasangan...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Gagal membuat folder pustaka FML di dalam instance.</translation>
+        <translation>Gagal membuat folder pustaka FML di dalam pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
@@ -2388,12 +2388,12 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="145"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Isih Mengikut Nama</translation>
+        <translation>Isih Mengikut Nama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="146"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Susun mengikut Versi Permainan</translation>
+        <translation>Isih Mengikut Versi Permainan</translation>
     </message>
 </context>
 <context>
@@ -2406,7 +2406,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Cari dan tapis...</translation>
+        <translation>Cari dan tapis...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -2416,12 +2416,12 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
-        <translation>Pilih direktori instance FTP</translation>
+        <translation>Pilih direktori pemasangan FTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Nota: Jika instance FTB anda tidak berada di lokasi lalai, pilihnya menggunakan butang di sebelah carian.</translation>
+        <translation>Nota: Jika pemasangan FTB anda tidak berada di lokasi lalai, pilihnya menggunakan butang di sebelah carian.</translation>
     </message>
 </context>
 <context>
@@ -2430,7 +2430,7 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="114"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ListModel.cpp" line="130"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2500,7 +2500,7 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="328"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Tidak dapat memahami manifest pek:
+        <translation>Tidak dapat memahami manifest pek:
 </translation>
     </message>
     <message>
@@ -2521,17 +2521,17 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Gagal mendapatkan indeks metadata tempatan untuk %1</translation>
+        <translation>Gagal mendapatkan indeks metadata tempatan untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="299"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Gagal mencari versi untuk pemuat %1</translation>
+        <translation>Gagal mencari versi untuk pemuat %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Tiada versi pemuat ditetapkan untuk modpack!</translation>
+        <translation>Tiada versi pemuat ditetapkan untuk pek mod!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
@@ -2565,13 +2565,13 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="495"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Mod yang sekat ditemui</translation>
+        <translation>Mod yang disekat ditemui</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="496"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Fail berikut tidak tersedia untuk dimuat turun dalam pelancar pihak ketiga.&lt;br/&gt;Anda perlu memuat turunnya secara manual dan menambahkannya ke dalam instance.</translation>
+        <translation>Fail berikut tidak tersedia untuk dimuat turun dalam pelancar pihak ketiga.&lt;br/&gt;Anda perlu memuat turunnya secara manual dan menambahkannya ke dalam pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
@@ -2581,7 +2581,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="587"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 daripada %2 selesai</translation>
+        <translation>%1 daripada %2 selesai</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="601"/>
@@ -2611,7 +2611,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Memuat turun mod...</translation>
+        <translation>Sedang memuat turun mod...</translation>
     </message>
 </context>
 <context>
@@ -2619,7 +2619,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Hai!&lt;/h1&gt;&lt;h4&gt;Nampaknya ID Pek anda adalah null. Ini adalah kerana pepijat dalam versi pelancar yang lebih lama.&lt;br/&gt;Malangnya, kami tidak boleh melakukan permintaan API yang betul tanpa maklumat ini.&lt;br/&gt;&lt;br/&gt;Jadi, untuk membolehkan ciri ini berfungsi, anda perlu memuat turun semula modpack daripada pemuat turun terbina dalam.&lt;br/&gt;&lt;br/&gt;Jangan risau, ia akan meminta anda untuk mengemas kini instance ini, jadi anda tidak akan kehilangan instance ini!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Hai!&lt;/h1&gt;&lt;h4&gt;Nampaknya ID Pek anda adalah null. Ini adalah kerana pepijat dalam versi pelancar yang lebih lama.&lt;br/&gt;Malangnya, kami tidak boleh melakukan permintaan API yang betul tanpa maklumat ini.&lt;br/&gt;&lt;br/&gt;Jadi, untuk membolehkan ciri ini berfungsi, anda perlu memuat turun semula pek mod daripada pemuat turun terbina dalam.&lt;br/&gt;&lt;br/&gt;Jangan risau, ia akan meminta anda untuk mengemas kini pemasangan ini, jadi anda tidak akan kehilangan pemasangan ini!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
@@ -2634,7 +2634,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pek CurseForge</translation>
     </message>
 </context>
 <context>
@@ -2663,7 +2663,7 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="236"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Menghuraikan respons API daripada CurseForge untuk &apos;%1&apos;...</translation>
+        <translation>Sedang menghuraikan respons API daripada CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
@@ -2697,7 +2697,7 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cari dan tapis...</translation>
+        <translation>Cari dan tapis...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
@@ -2709,7 +2709,7 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Isih Mengikut Populariti</translation>
+        <translation>Isih Mengikut Populariti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
@@ -2721,7 +2721,7 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Isih Mengikut Nama</translation>
+        <translation>Isih Mengikut Nama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -2744,7 +2744,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="202"/>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="280"/>
@@ -2840,7 +2840,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Proses dimulakan: %1</translation>
     </message>
 </context>
 <context>
@@ -2931,7 +2931,7 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Instance yang dieksport Prism Launcher, PolyMC atau MultiMC (ZIP)</translation>
+        <translation>- Pemasangan yang dieksport Prism Launcher, PolyMC atau MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -2948,7 +2948,7 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
@@ -2963,7 +2963,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
         <source>Abort</source>
-        <translation type="unfinished">Batalkan</translation>
+        <translation>Batalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
@@ -2993,17 +2993,17 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>Pilih instance untuk diimport ke</translation>
+        <translation>Pilih pemasangan untuk diimport ke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Pilih instance yang anda ingin mengimport pek sumber ini.</translation>
+        <translation>Pilih pemasangan yang anda ingin mengimport pek sumber ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>Pilih instance yang anda ingin mengimport %1 ini.</translation>
+        <translation>Pilih pemasangan yang anda ingin mengimport %1 ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -3029,32 +3029,32 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Segar Semula</translation>
+        <translation>Sega&amp;r Semula</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="137"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="139"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="141"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
@@ -3067,7 +3067,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="43"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Sekarang tiada versi tersedia untuk Minecraft %1</translation>
+        <translation>Tiada versi pada saat ini yang tersedia untuk Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3080,7 +3080,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation>&amp;Kumpulan:</translation>
+        <translation>Kumpulan (&amp;G):</translation>
     </message>
 </context>
 <context>
@@ -3088,17 +3088,17 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="41"/>
         <source>Copying instance %1</source>
-        <translation>Menyalin instance %1</translation>
+        <translation>Sedang menyalin pemasangan %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="146"/>
         <source>Instance folder copy failed.</source>
-        <translation>Salinan folder instance gagal.</translation>
+        <translation>Penyalinan folder pemasangan gagal.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="184"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>Salinan folder instance telah dihentikan.</translation>
+        <translation>Penyalinan folder pemasangan telah dihentikan.</translation>
     </message>
 </context>
 <context>
@@ -3107,18 +3107,18 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="29"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation>Ralat semasa membuat instance baharu:
+        <translation>Ralat semasa membuat pemasangan baharu:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="31"/>
         <source>Error while creating new instance.</source>
-        <translation>Ralat semasa membuat instance baharu.</translation>
+        <translation>Ralat semasa membuat pemasangan baharu.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="42"/>
         <source>Removing old conflicting files...</source>
-        <translation>Mengalih keluar fail lama yang bercanggah...</translation>
+        <translation>Sedang mengalih keluar fail lama yang bercanggah...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
@@ -3132,34 +3132,34 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Memuat turun modpack:
+        <translation>Sedang memuat turun pek mod:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
         <source>Modpack download</source>
-        <translation>Muat turun modpack</translation>
+        <translation>Muat turun pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Sedang mencuba untuk menentukan jenis pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
         <source>Extracting modpack</source>
-        <translation>Mengekstrak modpack</translation>
+        <translation>Sedang mengekstrak pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="155"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Tidak dapat membuka fail zip modpack yang dibekalkan.</translation>
+        <translation>Tidak dapat membuka fail zip pek mod yang dibekalkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Arkib tidak mengandungi jenis modpack yang diiktiraf.</translation>
+        <translation>Arkib tidak mengandungi jenis pek mod yang diiktiraf.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -3176,7 +3176,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="185"/>
         <source>%1 Instance</source>
-        <translation>Instance %1</translation>
+        <translation>Pemasangan %1</translation>
     </message>
 </context>
 <context>
@@ -3184,7 +3184,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="54"/>
         <source>Edit Instance (%1)</source>
-        <translation>Edit Instance (%1)</translation>
+        <translation>Sunting Pemasangan (%1)</translation>
     </message>
 </context>
 <context>
@@ -3202,12 +3202,12 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
         <source>Java insta&amp;llation</source>
-        <translation>Pe&amp;masangan Java</translation>
+        <translation>Pemasangan Java (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Auto-detect...</source>
-        <translation>Auto-mengesan...</translation>
+        <translation>Kesan secara automatik...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -3221,7 +3221,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="64"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Jika didayakan, pelancar tidak akan menyemak sama ada instance itu serasi dengan versi Java yang dipilih.</translation>
+        <translation>Jika didayakan, pelancar tidak akan menyemak sama ada pemasangan itu serasi dengan versi Java yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
@@ -3231,37 +3231,37 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="112"/>
         <source>Memor&amp;y</source>
-        <translation>In&amp;gatan</translation>
+        <translation>Ingatan (&amp;Y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
         <source>Minimum memory allocation:</source>
-        <translation>Peruntukan memori minimum:</translation>
+        <translation>Peruntukan ingatan minimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="174"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Jumlah maksimum memori Minecraft dibenarkan untuk digunakan.</translation>
+        <translation>Jumlah maksimum ingatan yang Minecraft dapat gunakan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="152"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Jumlah memori Minecraft dimulakan dengan.</translation>
+        <translation>Jumlah ingatan yang digunakan untuk memulakan Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="196"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Jumlah memori yang tersedia untuk menyimpan kelas Java yang dimuatkan.</translation>
+        <translation>Jumlah ingatan yang tersedia untuk menyimpan kelas Java yang dimuatkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
         <source>Maximum memory allocation:</source>
-        <translation>Peruntukan memori maksimum:</translation>
+        <translation>Peruntukan ingatan maksimum:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
         <source>Browse</source>
-        <translation type="unfinished">Gelintar</translation>
+        <translation>Gelintar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="124"/>
@@ -3271,12 +3271,12 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Nota: Permgen ditetapkan secara automatik oleh Java 8 dan lebih baru</translation>
+        <translation>Nota: Permgen ditetapkan secara automatik oleh Java 8 dan ke atas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="237"/>
         <source>Java argumen&amp;ts</source>
-        <translation>Ar&amp;gumen Java</translation>
+        <translation>Argumen Java (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="256"/>
@@ -3345,7 +3345,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="426"/>
         <source>Environment variables</source>
-        <translation>Pembolehubah Env</translation>
+        <translation>Pemboleh ubah persekitaran</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="436"/>
@@ -3365,12 +3365,12 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="474"/>
         <source>Use system installation of GLFW</source>
-        <translation>Gunakan pemasangan sistem GLFW</translation>
+        <translation>Gunakan pemasangan GLFW sistem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
         <source>Use system installation of OpenAL</source>
-        <translation>Gunakan pemasangan sistem OpenAL</translation>
+        <translation>Gunakan pemasangan OpenAL sistem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="698"/>
@@ -3407,7 +3407,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="546"/>
         <source>Enable Feral GameMode</source>
-        <translation>Dayakan Mod Permainan Liar</translation>
+        <translation>Dayakan Mod Permainan Feral</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
@@ -3422,7 +3422,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="563"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU diskret daripada GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU diskret dan bukan GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="566"/>
@@ -3432,7 +3432,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="573"/>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation>Gunakan Zink, sebuah driver Mesa OpenGL yang melaksanakan OpenGL di atas Vulkan. Prestasi mungkin berbeza bergantung pada keadaan. Nota: Jika tiada driver Vulkan yang sesuai ditemui, pemaparan perisian akan digunakan.</translation>
+        <translation>Gunakan Zink, sebuah pemacu Mesa OpenGL yang melaksanakan OpenGL di atas Vulkan. Prestasi mungkin berbeza bergantung pada keadaan. Nota: Jika tiada pemacu Vulkan yang sesuai ditemui, pemaparan perisian akan digunakan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="576"/>
@@ -3442,13 +3442,13 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="606"/>
         <source>Legacy settings</source>
-        <translation>Tetapan versi lama</translation>
+        <translation>Tetapan legasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="618"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Meniru penggunaan perkhidmatan dalam talian lama yang tidak lagi beroperasi.&lt;/p&gt;&lt;p&gt;Pembetulan semasa termasuk: sokongan mod kulit dan dalam talian.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Meniru penggunaan perkhidmatan dalam talian lama yang tidak lagi beroperasi.&lt;/p&gt;&lt;p&gt;Pembetulan semasa termasuk: sokongan kekulit dan mod dalam talian.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="621"/>
@@ -3463,17 +3463,17 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="646"/>
         <source>Show time spent playing this instance</source>
-        <translation>Tunjukkan masa yang dihabiskan untuk memainkan instance ini</translation>
+        <translation>Tunjukkan masa yang dihabiskan untuk memainkan pemasangan ini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="653"/>
         <source>Record time spent playing this instance</source>
-        <translation>Catat masa yang dihabiskan untuk memainkan instance ini</translation>
+        <translation>Catat masa yang dihabiskan untuk memainkan pemasangan ini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a server to join on launch</source>
-        <translation>Tetapkan pelayan untuk menyertai semasa pelancaran</translation>
+        <translation>Tetapkan pelayan untuk disertai semasa pelancaran</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="683"/>
@@ -3484,7 +3484,7 @@ Sila cuba lagi.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="345"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="352"/>
         <source>Path to %1 library file</source>
-        <translation>Laluan ke % 1 fail pustaka</translation>
+        <translation>Laluan kepada fail pustaka %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="368"/>
@@ -3509,17 +3509,17 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="518"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Peruntukan memori maksimum anda melebihi kapasiti memori sistem anda.</translation>
+        <translation>Peruntukan ingatan maksimum anda melebihi kapasiti ingatan sistem anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="521"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Peruntukan memori maksimum anda menghampiri kapasiti memori sistem anda.</translation>
+        <translation>Peruntukan ingatan maksimum anda menghampiri kapasiti ingatan sistem anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="524"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>Peruntukan memori maksimum anda adalah lebih kecil daripada nilai minimum</translation>
+        <translation>Peruntukan ingatan maksimum anda adalah lebih kecil daripada nilai minimum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
@@ -3537,7 +3537,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="924"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>Gagal melakukan instance, walaupun selepas beberapa percubaan semula. Ia sedang disekat oleh sesuatu.</translation>
+        <translation>Gagal melakukan pemasangan, walaupun selepas beberapa percubaan semula. Ia sedang disekat oleh sesuatu.</translation>
     </message>
 </context>
 <context>
@@ -3550,7 +3550,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Klik &quot;Tambah Instance&quot; untuk bermula.</translation>
+        <translation>Klik &quot;Tambah Pemasangan&quot; untuk bermula.</translation>
     </message>
 </context>
 <context>
@@ -3568,17 +3568,17 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Lancarkan</translation>
+        <translation>&amp;Lancarkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished">Mati&amp;kan</translation>
+        <translation>Mati&amp;kan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -3600,7 +3600,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation>Matikan instance yang sedang berjalan</translation>
+        <translation>Matikan pemasangan yang sedang berjalan</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -3609,7 +3609,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation>Lancarkan instance</translation>
+        <translation>Lancarkan pemasangan</translation>
     </message>
 </context>
 <context>
@@ -3622,7 +3622,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Pemprofilan dibatalkan</translation>
+        <translation>Pemprofilan dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -3635,7 +3635,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Pemprofilan dibatalkan</translation>
+        <translation>Pemprofilan dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -3716,7 +3716,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="274"/>
         <source>Browse</source>
-        <translation type="unfinished">Gelintar</translation>
+        <translation>Gelintar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="283"/>
@@ -3731,7 +3731,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Jika didayakan, pelancar tidak akan menyemak sama ada instance itu serasi dengan versi Java yang dipilih.</translation>
+        <translation>Jika didayakan, pelancar tidak akan menyemak sama ada pemasangan itu serasi dengan versi Java yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
@@ -3904,7 +3904,7 @@ Sila pilih salah satu daripada yang berikut atau semak imbas untuk executable Ja
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="68"/>
         <source>No instance specified!</source>
-        <translation>Tiada instance dinyatakan!</translation>
+        <translation>Tiada pemasangan dinyatakan!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="73"/>
@@ -4017,12 +4017,12 @@ Adakah anda mahu bermain demo?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="322"/>
         <location filename="src/launcher/LaunchController.cpp" line="323"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>Tidak dapat memuatkan profil instance.</translation>
+        <translation>Tidak dapat memuatkan profil pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation>Tidak dapat memulai instance.</translation>
+        <translation>Tidak dapat memulakan pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="379"/>
@@ -4032,7 +4032,7 @@ Adakah anda mahu bermain demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="392"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Lancarkan</translation>
+        <translation>&amp;Lancarkan</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="386"/>
@@ -4075,7 +4075,7 @@ Adakah anda mahu bermain demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>Ini boleh menyebabkan instance menjadi rosak dan hanya boleh digunakan jika Minecraft menjadi beku atas sebab tertentu</translation>
+        <translation>Ini boleh menyebabkan pemasangan menjadi rosak dan hanya boleh digunakan jika Minecraft menjadi beku atas sebab tertentu</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="296"/>
@@ -4101,7 +4101,7 @@ Adakah anda mahu bermain demo?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Untuk bermain Minecraft, anda mesti mempunyai sekurang-kurangnya satu akaun Microsoft atau Mojang yang dilog masuk. Akaun Mojang hanya boleh digunakan di luar talian. Adakah anda mahu membuka pengurus akaun untuk menambah akaun sekarang?</translation>
+        <translation>Untuk bermain Minecraft, anda mesti mempunyai sekurang-kurangnya satu akaun Microsoft yang dilog masuk. Adakah anda mahu membuka pengurus akaun untuk menambah akaun sekarang?</translation>
     </message>
 </context>
 <context>
@@ -4194,7 +4194,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
         <source>Instance view sorting mode</source>
-        <translation>Mod pengisihan paparan contoh</translation>
+        <translation>Mod pengisihan paparan pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
@@ -4230,7 +4230,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
         <source>h</source>
-        <translation type="unfinished">j</translation>
+        <translation>j</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="100"/>
@@ -4244,12 +4244,12 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="183"/>
         <source>Browse</source>
-        <translation type="unfinished">Gelintar</translation>
+        <translation>Gelintar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="190"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kekulit (&amp;S):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="219"/>
@@ -4278,7 +4278,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apabila membuat pemasangan pek mod baharu, jangan cadangkan mengemas kini pemasangan sedia ada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="252"/>
@@ -4288,7 +4288,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Lain-lain</translation>
+        <translation>Lain-lain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
@@ -4313,7 +4313,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
@@ -4410,17 +4410,17 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="103"/>
         <source>Instance Folder</source>
-        <translation>Folder Instance</translation>
+        <translation>Folder Pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="111"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Anda cuba menentukan folder instance yang laluannya mengandungi sekurang-kurangnya satu &apos;!&apos;. Java diketahui menyebabkan masalah jika itu berlaku, instance anda (mungkin) tidak akan bermula!</translation>
+        <translation>Anda cuba menentukan folder pemasangan yang laluannya mengandungi sekurang-kurangnya satu &apos;!&apos;. Java diketahui menyebabkan masalah jika itu berlaku, pemasangan anda (mungkin) tidak akan bermula!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Adakah anda benar-benar mahu menggunakan laluan ini? Memilih &quot;Tidak&quot; akan menutup ini dan tidak mengubah laluan instance anda.</translation>
+        <translation>Adakah anda benar-benar mahu menggunakan laluan ini? Memilih &quot;Tidak&quot; akan menutup ini dan tidak mengubah laluan pemasangan anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
@@ -4432,7 +4432,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>Anda cuba menentukan folder instance yang diberikan buat sementara waktu melalui Flatpak.
+        <translation>Anda cuba menentukan folder pemasangan yang diberikan buat sementara waktu melalui Flatpak.
 Ini diketahui akan menyebabkan masalah. Selepas memulakan semula pelancar mungkin rosak, kerana ia tidak lagi mempunyai akses kepada direktori itu.
 
 Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
@@ -4511,7 +4511,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
-        <translation type="unfinished">Permainan ranap.</translation>
+        <translation>Permainan telah ranap.</translation>
     </message>
 </context>
 <context>
@@ -4520,13 +4520,13 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Isih Mengikut Nama</translation>
+        <translation>Isih Mengikut Nama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Susun mengikut Versi Permainan</translation>
+        <translation>Susun Mengikut Versi Permainan</translation>
     </message>
 </context>
 <context>
@@ -4604,7 +4604,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Cari dan tapis...</translation>
+        <translation>Cari dan tapis...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -4638,7 +4638,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versi yang dipilih:</translation>
+        <translation>Versi yang dipilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
@@ -4648,12 +4648,12 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tugasan dibatalkan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Tugas telah dihentikan oleh pengguna.</translation>
+        <translation>Tugas telah dihentikan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
@@ -4699,7 +4699,7 @@ Patutkah ia dikeluarkan sekarang?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pustaka untuk instance %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
@@ -4922,7 +4922,7 @@ Sebab:
         <location filename="src/launcher/MMCZip.cpp" line="621"/>
         <location filename="src/launcher/MMCZip.cpp" line="632"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Tidak dapat membetulkan kebenaran untuk %1</translation>
+        <translation>Tidak dapat membetulkan kebenaran untuk %1</translation>
     </message>
 </context>
 <context>
@@ -4950,7 +4950,7 @@ Sebab:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tugasan dibatalkan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
@@ -4960,7 +4960,7 @@ Sebab:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Dapat</translation>
     </message>
 </context>
 <context>
@@ -4973,12 +4973,12 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Sila tunggu...</translation>
+        <translation>Sila tunggu...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
@@ -5003,7 +5003,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="324"/>
         <source>Info</source>
-        <translation type="unfinished">Maklumat</translation>
+        <translation>Maklumat</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5066,7 +5066,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>Launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancarkan pemasangan yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
@@ -5076,7 +5076,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="295"/>
         <source>Add a new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambah pemasangan baharu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="579"/>
@@ -5116,7 +5116,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="719"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka salah satu folder yang dikongsi antara pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="322"/>
@@ -5161,7 +5161,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation>Bar Alat Instance</translation>
+        <translation>Palang Alat Pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
@@ -5202,12 +5202,12 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="552"/>
         <source>&amp;Instances</source>
-        <translation>&amp;Instance</translation>
+        <translation>Pemasangan (&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="555"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder instance di dalam penyemak imbas fail.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
@@ -5222,7 +5222,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="588"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Kekulit (&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
@@ -5232,12 +5232,12 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="600"/>
         <source>Instance Icons</source>
-        <translation>Ikon Instance</translation>
+        <translation>Ikon Pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="603"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder ikon pemasangan dalam penyemak imbas fail.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="612"/>
@@ -5342,12 +5342,12 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="358"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Matikan pemasangan yang sedang berjalan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="465"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport pemasangan yang dipilih kepada format yang disokong.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -5412,7 +5412,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubah ikon untuk pemasangan yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="370"/>
@@ -5422,7 +5422,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="373"/>
         <source>Rename the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namakan semula pemasangan yang dipilih.</translation>
     </message>
     <message>
         <source>Launch &amp;Offline</source>
@@ -5485,18 +5485,18 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="408"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubah tetapan, mod dan versi pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="435"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Padam pemasangan yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubah kumpulan untuk pemasangan yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="704"/>
@@ -5516,7 +5516,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="423"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder akar pemasangan yang dipilih di dalam penyemak imbas fail.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="447"/>
@@ -5526,7 +5526,7 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="450"/>
         <source>Copy the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin pemasangan yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="501"/>
@@ -5537,14 +5537,14 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="504"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mencipta pintasan pada desktop anda untuk melancarkan pemasangan yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1700"/>
         <source>No instance selected</source>
-        <translation>Tiada instance dipilih</translation>
+        <translation>Tiada pemasangan dipilih</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="355"/>
@@ -5555,7 +5555,7 @@ Sebab:
         <location filename="src/launcher/ui/MainWindow.cpp" line="533"/>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Cipta instance</translation>
+        <translation>&amp;Cipta pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="547"/>
@@ -5619,12 +5619,12 @@ Sebab:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="840"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tugasan dibatalkan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="840"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Tugas telah dihentikan oleh pengguna.</translation>
+        <translation>Tugas telah dihentikan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="844"/>
@@ -5649,7 +5649,7 @@ Sila tambah akaun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="994"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Muat turun modpack</translation>
+        <translation>Muat turun pek mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
@@ -5670,12 +5670,12 @@ Sila tambah akaun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1269"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemasangan tidak boleh disunting</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1270"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation>Instance ini tidak boleh disunting. Ia mungkin rosak, tidak sah atau terlalu lama. Semak log untuk butiran.</translation>
+        <translation>Pemasangan ini tidak boleh disunting. Ia mungkin rosak, tidak sah atau terlalu lama. Semak log untuk butiran.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1305"/>
@@ -5713,14 +5713,14 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
         <translation>Anda akan memadamkan &quot;%1&quot;.
-Ini mungkin akan kekal dan akan memadamkan instance itu sepenuhnya.
+Ini mungkin akan kekal dan akan memadamkan pemasangan itu sepenuhnya.
 
 Adakah anda pasti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1367"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Terdapat pemasangan yang dipaut</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1368"/>
@@ -5732,11 +5732,11 @@ Deleting it could break the other instance(s),
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Instance berikut mungkin merujuk fail dalam instance ini:
+            <numerusform>Pemasangan berikut mungkin merujuk fail dalam pemasangan ini:
 
 %1
 
-Memadamnya boleh merosakkan instance yang lain,
+Memadamnya boleh merosakkan pemasangan yang lain,
 
 Adakah anda ingin meneruskan?</numerusform>
         </translation>
@@ -5754,7 +5754,7 @@ Adakah anda ingin meneruskan?</numerusform>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
         <source>Create instance shortcut</source>
-        <translation>Cipta pintasan instance</translation>
+        <translation>Cipta pintasan pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
@@ -5770,7 +5770,7 @@ Adakah anda ingin meneruskan?</numerusform>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1519"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Cipta Aplikasi pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1519"/>
@@ -5786,17 +5786,17 @@ Adakah anda ingin meneruskan?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pintasan ke pemasangan ini telah dicipta pada desktop anda!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pintasan ke pemasangan ini telah dicipta!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mencipta pintasan pemasangan!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1539"/>
@@ -5853,17 +5853,17 @@ Adakah anda ingin meneruskan?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1706"/>
         <source>Rename Instance</source>
-        <translation>Namakan Semula Instance</translation>
+        <translation>Namakan Semula Pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1718"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>Folder instance anda mengandungi &apos;!&apos; dan ini diketahui menyebabkan masalah Java!</translation>
+        <translation>Folder pemasangan anda mengandungi &apos;!&apos; dan ini diketahui menyebabkan masalah Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>Anda kini mempunyai dua pilihan: &lt;br/&gt; - tukar folder instance dalam tetapan &lt;br/&gt; - alihkan pemasangan %1 ini ke folder lain</translation>
+        <translation>Anda kini mempunyai dua pilihan: &lt;br/&gt; - tukar folder pemasangan dalam tetapan &lt;br/&gt; - alihkan pemasangan %1 ini ke folder lain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
@@ -5873,12 +5873,12 @@ Adakah anda ingin meneruskan?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Folder instance anda mengandungi &apos;Rar$&apos; - ini bermakna anda belum mengekstrak arkib pelancar!</translation>
+        <translation>Folder pemasangan anda mengandungi &apos;Rar$&apos; - ini bermakna anda belum mengekstrak arkib pelancar!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1739"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder pemasangan anda adalah dalam folder sementara: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1753"/>
@@ -5995,12 +5995,12 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tugasan dibatalkan</translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Tugas telah dihentikan oleh pengguna.</translation>
+        <translation>Tugas telah dihentikan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
@@ -6050,32 +6050,32 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Lancarkan</translation>
+        <translation>&amp;Lancarkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished">Lancarkan Di &amp;Luar Talian</translation>
+        <translation>Lancarkan Di Luar Talian (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctrl+Shift+O</translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished">Lancarkan &amp;Demo</translation>
+        <translation>Lancarkan &amp;Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished">Ctrl+Alt+O</translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="263"/>
         <source>Profilers</source>
-        <translation type="unfinished">Pemprofil</translation>
+        <translation>Pemprofil</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="273"/>
@@ -6085,12 +6085,12 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
         <source>&lt;SESSION ID&gt;</source>
-        <translation>&lt;SESSION ID&gt;</translation>
+        <translation>&lt;ID SESI&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="922"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
-        <translation>&lt;ACCESS TOKEN&gt;</translation>
+        <translation>&lt;TOKEN AKSES&gt;</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -6099,7 +6099,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="924"/>
         <source>&lt;PROFILE ID&gt;</source>
-        <translation>&lt;PROFILE ID&gt;</translation>
+        <translation>&lt;ID PROFIL&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="990"/>
@@ -6114,12 +6114,12 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1006"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, terakhir dimainkan pada %1 selama %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1013"/>
         <source>, total played for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, waktu bermain keseluruhan %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1018"/>
@@ -6173,18 +6173,18 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="203"/>
         <source>Legacy settings</source>
-        <translation type="unfinished">Tetapan versi lama</translation>
+        <translation>Tetapan legasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;This currently allows modern skins to be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Meniru penggunaan perkhidmatan dalam talian lama yang tidak lagi beroperasi.&lt;/p&gt;&lt;p&gt;Pembetulan semasa termasuk: sokongan mod kulit dan dalam talian.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Meniru penggunaan perkhidmatan dalam talian lama yang tidak lagi beroperasi.&lt;/p&gt;&lt;p&gt;Pembetulan semasa termasuk: sokongan kekulit dan mod dalam talian.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="212"/>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Dayakan pembetulan dalam talian (percubaan)</translation>
+        <translation>Dayakan pembetulan dalam talian (percubaan)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
@@ -6200,7 +6200,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="235"/>
         <source>&amp;GLFW library path</source>
-        <translation type="unfinished">Laluan pustaka &amp;GLFW</translation>
+        <translation>Laluan pustaka &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
@@ -6211,7 +6211,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="252"/>
         <source>&amp;OpenAL library path</source>
-        <translation type="unfinished">Laluan pustaka &amp;OpenAL</translation>
+        <translation>Laluan pustaka &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
@@ -6221,17 +6221,17 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="285"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dayakan Mod Permainan Feral Interactive, untuk berpotensi meningkatkan prestasi permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dayakan Mod Permainan Feral Interactive, untuk berpotensi meningkatkan prestasi permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="288"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Dayakan Mod Permainan Liar</translation>
+        <translation>Dayakan Mod Permainan Feral</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="295"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dayakan tindanan prestasi lanjutan MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dayakan tindanan prestasi lanjutan MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="298"/>
@@ -6241,12 +6241,12 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="305"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU diskret daripada GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU diskret dan bukan GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="308"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Gunakan GPU diskret</translation>
+        <translation>Gunakan GPU diskret</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
@@ -6256,7 +6256,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
         <source>Use Zink</source>
-        <translation type="unfinished">Gunakan Zink</translation>
+        <translation>Gunakan Zink</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -6272,19 +6272,19 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tunjukkan masa yang dihabiskan bermain &amp;pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tunjukkan masa keseluruhan yang dihabiskan bermain semu&amp;a pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="137"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Catatkan masa yang dihabiskan be&amp;rmain pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
@@ -6324,7 +6324,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="139"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="146"/>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Laluan ke % 1 fail pustaka</translation>
+        <translation>Laluan ke fail pustaka %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
@@ -6335,12 +6335,12 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Mod Permainan Feral Interactive tidak ditemui pada sistem anda.</translation>
+        <translation>Mod Permainan Feral Interactive tidak ditemui pada sistem anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud tidak dapat ditemui pada sistem anda.</translation>
+        <translation>MangoHud tidak dapat ditemui pada sistem anda.</translation>
     </message>
 </context>
 <context>
@@ -6377,7 +6377,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation type="unfinished">Dihentikan oleh pengguna.</translation>
+        <translation>Dibatalkan oleh pengguna.</translation>
     </message>
 </context>
 <context>
@@ -6393,7 +6393,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished">Borang</translation>
+        <translation>Borang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="74"/>
@@ -6408,22 +6408,22 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="106"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="113"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
@@ -6523,7 +6523,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Size</source>
-        <translation type="unfinished">Saiz</translation>
+        <translation>Saiz</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
@@ -6649,7 +6649,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Change Version</source>
-        <translation type="unfinished">Ubah Versi</translation>
+        <translation>Ubah Versi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
@@ -6659,7 +6659,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="146"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished">Lawati halaman mod</translation>
+        <translation>Lawati halaman mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
@@ -6674,7 +6674,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Sahkan Hapus</translation>
+        <translation>Sahkan Pemadaman</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="187"/>
@@ -6975,7 +6975,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="445"/>
         <source>Required by:</source>
-        <translation type="unfinished">Diperlukan oleh:</translation>
+        <translation>Diperlukan oleh:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="459"/>
@@ -7037,12 +7037,12 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="63"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (versi %1)</translation>
+        <translation> (versi %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
         <source>No index file.</source>
-        <translation type="unfinished">Tiada fail indeks.</translation>
+        <translation>Tiada fail indeks.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="143"/>
@@ -7053,7 +7053,7 @@ Sila kemas kini %1!</translation>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="187"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Tidak boleh menamakan semula folder ganti:
+        <translation>Tidak dapat menamakan semula folder gantian:
 </translation>
     </message>
     <message>
@@ -7075,12 +7075,12 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="281"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 daripada %2 selesai</translation>
+        <translation>%1 daripada %2 selesai</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="286"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Memuat turun mod...</translation>
+        <translation>Sedang memuat turun mod...</translation>
     </message>
     <message>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
@@ -7103,7 +7103,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="305"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Semasa)</translation>
+        <translation>%1 (Semasa)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
@@ -7113,12 +7113,12 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Choose update file</source>
-        <translation type="unfinished">Pilih fail kemas kini</translation>
+        <translation>Pilih fail kemas kini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Pek Modrinth</translation>
+        <translation>Pek Modrinth</translation>
     </message>
 </context>
 <context>
@@ -7126,22 +7126,22 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="55"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Mencari fail...</translation>
+        <translation>Sedang mencari fail...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="77"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Tidak dapat mencari fail</translation>
+        <translation>Tidak dapat mencari fail</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="93"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Mencari hash fail...</translation>
+        <translation>Sedang mencari hash fail...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="154"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Mencari versi untuk hash...</translation>
+        <translation>Sedang mencari versi untuk hash...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="189"/>
@@ -7165,7 +7165,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Isih mengikut Jumlah Muat Turun</translation>
+        <translation>Isih Mengikut Jumlah Muat Turun</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
@@ -7176,13 +7176,13 @@ Sila kemas kini %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Isih mengikut Kemas Kini Terakhir</translation>
+        <translation>Isih Mengikut Terakhir Dikemas Kini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="188"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
@@ -7202,27 +7202,27 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
         <source>External links:</source>
-        <translation type="unfinished">Pautan eksternal:</translation>
+        <translation>Pautan eksternal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="295"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Masalah: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Masalah: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="297"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="299"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Kod sumber: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Kod sumber: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
@@ -7246,7 +7246,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="59"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versi yang dipilih:</translation>
+        <translation>Versi yang dipilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="64"/>
@@ -7299,7 +7299,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
         <source>unknown</source>
-        <translation type="unfinished">tidak diketahui</translation>
+        <translation>tidak diketahui</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
@@ -7311,7 +7311,7 @@ Sila kemas kini %1!</translation>
         <location filename="src/launcher/net/NetRequest.cpp" line="156"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
 </context>
 <context>
@@ -7331,7 +7331,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="145"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Menjalankan %1 tugasan (%2 dari %3 selesai)</translation>
+        <translation>Menjalankan %1 tugas (%2 dari %3 selesai)</translation>
     </message>
 </context>
 <context>
@@ -7358,12 +7358,12 @@ Sila kemas kini %1!</translation>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="187"/>
         <source>New Instance</source>
-        <translation>Instance Baharu</translation>
+        <translation>Pemasangan Baharu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation>&amp;Kumpulan</translation>
+        <translation>Kumpulan (&amp;G):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
@@ -7373,7 +7373,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="90"/>
         <source>No group</source>
-        <translation type="unfinished">Tiada kumpulan</translation>
+        <translation>Tiada kumpulan</translation>
     </message>
 </context>
 <context>
@@ -7445,7 +7445,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/NullInstance.h" line="52"/>
         <source>Unknown instance type</source>
-        <translation>Jenis instance yang tidak diketahui</translation>
+        <translation>Jenis pemasangan yang tidak diketahui</translation>
     </message>
 </context>
 <context>
@@ -7693,7 +7693,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Borang</translation>
+        <translation>Borang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
@@ -7775,7 +7775,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Sedang menyemak untuk sebarang kemas kini...</translation>
+        <translation>Sedang menyemak untuk sebarang kemas kini...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
@@ -8231,7 +8231,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan sebagai lalai hanya untuk pemasangan ini?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="39"/>
@@ -8297,7 +8297,7 @@ Pilih nama anda dengan teliti:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Sila tunggu...</translation>
+        <translation>Sila tunggu...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -8769,7 +8769,7 @@ Mesej ini akan dipaparkan sehingga anda mengalih keluar ini daripada argumen JVM
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Pemeriksa Pustaka Java tidak dapat ditemui. Sila semak pemasangan anda.</translation>
+        <translation>Pemeriksa pustaka Java tidak dapat ditemui. Sila semak pemasangan anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="58"/>
@@ -8779,7 +8779,7 @@ Mesej ini akan dipaparkan sehingga anda mengalih keluar ini daripada argumen JVM
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="12"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubah nama pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="13"/>
@@ -8787,7 +8787,7 @@ Mesej ini akan dipaparkan sehingga anda mengalih keluar ini daripada argumen JVM
 
 Old name: %1
 New name: %2</source>
-        <translation>Nama instance nampaknya menyertakan versi lama. Adakah anda ingin mengemaskininya?
+        <translation>Nama pemasangan nampaknya menyertakan versi lama. Adakah anda ingin mengemaskininya?
 
 Nama lama: %1
 Nama baharu: %2</translation>
@@ -8802,19 +8802,19 @@ Nama baharu: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Satu atau lebih instance anda adalah daripada modpack yang sama %1. Adakah anda ingin membuat instance yang berasingan atau mengemas kini yang sedia ada?
+        <translation>Satu atau lebih pemasangan anda adalah daripada pek mod yang sama %1. Adakah anda ingin membuat pemasangan yang berasingan atau mengemas kini yang sedia ada?
 
-CATATAN: Pastikan anda membuat sandaran data instance penting anda sebelum mengemas kini, kerana dunia boleh rosak dan beberapa konfigurasi mungkin hilang (disebabkan timpaan pek).</translation>
+CATATAN: Pastikan anda membuat sandaran data pemasangan penting anda sebelum mengemas kini, kerana dunia boleh rosak dan beberapa konfigurasi mungkin hilang (disebabkan timpaan pek).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Kemas kini pemasangan sedia ada</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Cipta pemasangan baharu</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8902,28 +8902,28 @@ CATATAN: Pastikan anda membuat sandaran data instance penting anda sebelum menge
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Isih mengikut Ditampilkan</translation>
+        <translation>Isih Mengikut Diketengahkan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Isih Mengikut Populariti</translation>
+        <translation>Isih Mengikut Populariti</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Isih mengikut Kemas Kini Terakhir</translation>
+        <translation>Isih Mengikut Terakhir Dikemas Kini</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Isih Mengikut Nama</translation>
+        <translation>Isih Mengikut Nama</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">Isih mengikut Pengarang</translation>
+        <translation>Isih Mengikut Pengarang</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
@@ -8939,22 +8939,22 @@ CATATAN: Pastikan anda membuat sandaran data instance penting anda sebelum menge
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Susun mengikut Versi Permainan</translation>
+        <translation>Susun Mengikut Versi Permainan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">Isih Mengikut Perkaitan</translation>
+        <translation>Isih Mengikut Perkaitan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">Isih Mengikut Bilangan Pengikut</translation>
+        <translation>Isih Mengikut Bilangan Pengikut</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished">Isih Mengikut Terbaharu</translation>
+        <translation>Isih Mengikut Terbaharu</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
@@ -8975,17 +8975,17 @@ CATATAN: Pastikan anda membuat sandaran data instance penting anda sebelum menge
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
         <location filename="src/launcher/MMCZip.cpp" line="355"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Tidak dapat membetulkan kebenaran untuk %1</translation>
+        <translation>Tidak dapat membetulkan kebenaran untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation type="unfinished"></translation>
+        <translation>item</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation type="unfinished"></translation>
+        <translation>item</translation>
     </message>
 </context>
 <context>
@@ -9117,7 +9117,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="460"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished">Versi API terlalu lama!
+        <translation>Versi API terlalu lama!
 Sila kemas kini %1!</translation>
     </message>
 </context>
@@ -9172,32 +9172,32 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="215"/>
         <source>Donate information: </source>
-        <translation type="unfinished">Maklumat derma: </translation>
+        <translation>Maklumat derma: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="228"/>
         <source>External links:</source>
-        <translation type="unfinished">Pautan eksternal:</translation>
+        <translation>Pautan eksternal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="232"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Masalah: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Masalah: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="234"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="236"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Kod sumber: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Kod sumber: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="238"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
@@ -9227,7 +9227,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
@@ -9345,7 +9345,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="200"/>
         <source>Size</source>
-        <translation type="unfinished">Saiz</translation>
+        <translation>Saiz</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="468"/>
@@ -9407,7 +9407,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
-        <translation type="unfinished">Saiz</translation>
+        <translation>Saiz</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
@@ -9520,7 +9520,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="69"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versi yang dipilih:</translation>
+        <translation>Versi yang dipilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="19"/>
@@ -9621,12 +9621,12 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation type="unfinished">Lihat Folder</translation>
+        <translation>Lihat Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menu konteks</translation>
+        <translation>Menu konteks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="366"/>
@@ -9671,7 +9671,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="387"/>
         <source>Abort</source>
-        <translation type="unfinished">Batalkan</translation>
+        <translation>Batalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
@@ -9683,7 +9683,7 @@ Adakah anda pasti?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Tugas telah dihentikan oleh pengguna.</translation>
+        <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="413"/>
@@ -9745,7 +9745,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="116"/>
         <source>Version</source>
-        <translation type="unfinished">Versi</translation>
+        <translation>Versi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="116"/>
@@ -9773,7 +9773,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="44"/>
         <source>Version</source>
-        <translation type="unfinished">Versi</translation>
+        <translation>Versi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="44"/>
@@ -9884,7 +9884,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="572"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menu konteks</translation>
+        <translation>Menu konteks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="703"/>
@@ -10022,17 +10022,17 @@ Adakah anda pasti?</translation>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="241"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="255"/>
         <source>Skin Upload</source>
-        <translation type="unfinished">Muat Naik Kekulit</translation>
+        <translation>Muat Naik Kekulit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="43"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="49"/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
@@ -10042,12 +10042,12 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="69"/>
         <source>Cape</source>
-        <translation type="unfinished">Mantel</translation>
+        <translation>Mantel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="113"/>
         <source>Open Folder</source>
-        <translation type="unfinished">Buka Folder</translation>
+        <translation>Buka Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="120"/>
@@ -10072,7 +10072,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Padam Kekulit</translation>
+        <translation>Pa&amp;dam Kekulit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
@@ -10112,7 +10112,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="162"/>
         <source>No Cape</source>
-        <translation type="unfinished">Tiada Mantel</translation>
+        <translation>Tiada Mantel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="169"/>
@@ -10142,17 +10142,17 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Skin Delete</source>
-        <translation type="unfinished">Padam Kekulit</translation>
+        <translation>Padam Kekulit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="270"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Gagal untuk menghapus kulit semasa ini!</translation>
+        <translation>Gagal untuk memadam kekulit semasa ini!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="279"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menu konteks</translation>
+        <translation>Menu konteks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="319"/>
@@ -10167,7 +10167,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="327"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Pastikan Pemadaman</translation>
+        <translation>Pastikan Pemadaman</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
@@ -10306,7 +10306,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Borang</translation>
+        <translation>Borang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
@@ -10351,12 +10351,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="120"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Tidak dapat membetulkan kebenaran untuk %1</translation>
+        <translation>Tidak dapat membetulkan kebenaran untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="135"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengimportan pemasangan telah dibatalkan.</translation>
     </message>
 </context>
 <context>
@@ -10377,7 +10377,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Tidak dapat memahami manifest pek:
+        <translation>Tidak dapat memahami manifest pek:
 </translation>
     </message>
     <message>
@@ -10393,12 +10393,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Tidak dapat membetulkan kebenaran untuk %1</translation>
+        <translation>Tidak dapat membetulkan kebenaran untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengimportan pemasangan telah dibatalkan.</translation>
     </message>
 </context>
 <context>
@@ -10453,13 +10453,13 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versi yang dipilih:</translation>
+        <translation>Versi yang dipilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cari dan tapis...</translation>
+        <translation>Cari dan tapis...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -10469,7 +10469,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="213"/>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="231"/>
@@ -10502,15 +10502,15 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="48"/>
         <source>Size</source>
-        <translation type="unfinished">Saiz</translation>
+        <translation>Saiz</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="89"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Mengeditnya juga akan menukar yang asal.
+        <translation>
+Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Menyuntingnya juga akan menukar yang asal.
 Laluan Sebenar: %1</translation>
     </message>
     <message>
@@ -10706,7 +10706,9 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Pengemaskinian pemasangan gagal kerana: %1
+
+</translation>
     </message>
 </context>
 <context>
@@ -10758,7 +10760,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="20"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sedang mencipta pemasangan dari versi %1</translation>
     </message>
 </context>
 <context>
@@ -10772,8 +10774,8 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="65"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation>Instance ini tidak serasi dengan versi Java %1.
-Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</translation>
+        <translation>Pemasangan ini tidak serasi dengan versi Java %1.
+Sila tukar kepada salah satu daripada versi Java berikut untuk pemasangan ini:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="70"/>
@@ -10783,7 +10785,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Pergi ke tetapan Java instance untuk menukar versi Java anda atau menyahdayakan semakan keserasian Java jika anda tahu apa yang anda lakukan.</translation>
+        <translation>Pergi ke tetapan Java untuk pemasangan untuk menukar versi Java anda atau menyahdayakan semakan keserasian Java jika anda tahu apa yang anda lakukan.</translation>
     </message>
 </context>
 <context>
@@ -10799,12 +10801,12 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"/>
         <source>Filter:</source>
-        <translation type="unfinished">Tapis:</translation>
+        <translation>Tapis:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished">Tindakan</translation>
+        <translation>Tindakan</translation>
     </message>
     <message>
         <source>Change version</source>
@@ -10887,7 +10889,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Reload</source>
-        <translation type="unfinished">Muat semula</translation>
+        <translation>Muat semula</translation>
     </message>
     <message>
         <source>Download All</source>
@@ -10906,7 +10908,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Move Up</source>
-        <translation type="unfinished">Pindah Ke Atas</translation>
+        <translation>Pindah Ke Atas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
@@ -10916,7 +10918,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Move Down</source>
-        <translation type="unfinished">Pindah Ke Bawah</translation>
+        <translation>Pindah Ke Bawah</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
@@ -10926,7 +10928,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Remove selected component from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alih keluar komponen yang dipilih daripada pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
@@ -10946,7 +10948,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation type="unfinished">Pasang Pemuat</translation>
+        <translation>Pasang Pemuat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
@@ -10971,7 +10973,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muat turun fail yang diperlukan untuk melancarkan pemasangan sekarang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
@@ -10981,7 +10983,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder .minecraft pemasangan ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
@@ -10991,7 +10993,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka folder pusataka tempatan pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
@@ -11006,7 +11008,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menu konteks</translation>
+        <translation>Menu konteks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="206"/>
@@ -11036,12 +11038,12 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</tr
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="359"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="405"/>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="259"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished">Tidak dapat memuatkan profil instance.</translation>
+        <translation>Tidak dapat memuatkan profil pemasangan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="278"/>
@@ -11135,13 +11137,13 @@ Adakah anda pasti?</translation>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">Tidak boleh memuat turun Minecraft atau mengemas kini instance melainkan anda mempunyai sekurang-kurangnya satu akaun yang ditambah.
-Sila tambah akaun Mojang atau Minecraft anda.</translation>
+        <translation>Tidak boleh memuat turun Minecraft atau mengemas kini pemasangan melainkan anda mempunyai sekurang-kurangnya satu akaun yang ditambah.
+Sila tambah akaun Microsoft anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="482"/>
         <source>Error updating instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ralat mengemas kini pemasangan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="542"/>
@@ -11159,7 +11161,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="59"/>
         <source>Version</source>
-        <translation type="unfinished">Versi</translation>
+        <translation>Versi</translation>
     </message>
 </context>
 <context>
@@ -11167,12 +11169,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="110"/>
         <source>Version</source>
-        <translation type="unfinished">Versi</translation>
+        <translation>Versi</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="112"/>
         <source>Minecraft</source>
-        <translation type="unfinished">Minecraft</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="114"/>
@@ -11182,7 +11184,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="116"/>
         <source>Type</source>
-        <translation type="unfinished">Jenis</translation>
+        <translation>Jenis</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="118"/>
@@ -11265,7 +11267,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="97"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Segar Semula</translation>
+        <translation>Sega&amp;r Semula</translation>
     </message>
 </context>
 <context>
@@ -11273,12 +11275,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished">Cari</translation>
+        <translation>Cari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
