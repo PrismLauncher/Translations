@@ -10801,7 +10801,7 @@ Czy na pewno chcesz zamknąć to okno?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="162"/>
         <source>Abort</source>
-        <translation>Zaniechaj</translation>
+        <translation>Przerwij</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
