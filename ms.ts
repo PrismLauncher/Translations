@@ -7516,7 +7516,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished">Salin keseluruhan log ke papan keratan</translation>
+        <translation>Salin keseluruhan log ke papan keratan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
