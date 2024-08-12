@@ -62,7 +62,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;הערה: אתה רק צריך להגדיר זאת כדי לגשת לנתונים פרטיים&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt;בישביל יותר מידע.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;הערה: אתה רק צריך להגדיר זאת כדי לגשת לנתונים פרטיים&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt;יותר מידע&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -391,13 +391,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">לא מקוון</translation>
+        <translation>לא מקוון</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">לא ידוע</translation>
+        <translation>לא ידוע</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
@@ -1097,7 +1097,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">האימות כשל. תוקף ההפעלה פג.</translation>
+        <translation>האימות כשל. פג תוקף החיבור.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
@@ -1107,7 +1107,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
@@ -1384,43 +1384,43 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished">קשר קבצים באופן רקורסיבי</translation>
+        <translation>קשר קבצים באופן רקורסיבי</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>אם נבחר &quot;העתק שמירות&quot; נתוני שמירת העולם יועתקו במקום להיות מקושרים ובכך לא ישותפו בין מופעים.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation type="unfinished"></translation>
+        <translation>אל תקשר שמירות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>השתמש בקישור קבצים במקום להעתיק אותם.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation type="unfinished"></translation>
+        <translation>השתמש בקישור קשיח</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>השתמש בקישורים סימבוליים במקום להעתיק קבצים.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation type="unfinished"></translation>
+        <translation>השתמש בקישורים סימבוליים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished"></translation>
+        <translation>אפשרויות העתק-בזמן-שמירה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
@@ -1445,12 +1445,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>העתק שרתים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>העתק חבילות משאבים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -1460,7 +1460,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>העתק צילומי מסך</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="74"/>
@@ -1545,7 +1545,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation type="unfinished">סינון</translation>
+        <translation>סינון</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
@@ -1555,7 +1555,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation type="unfinished">סנאפשוטים</translation>
+        <translation>סנאפשוטים</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -1564,12 +1564,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation type="unfinished">בטא</translation>
+        <translation>בטא</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation type="unfinished">אלפא</translation>
+        <translation>אלפא</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
@@ -1580,7 +1580,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation type="unfinished">טען מחדש</translation>
+        <translation>רענן</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
