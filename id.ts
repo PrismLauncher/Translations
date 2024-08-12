@@ -1393,7 +1393,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Jika &quot;salin simpanan&quot; dipilih data simpanan dunia akan disalin melainkan disambung dan tidak dibagi antara instansi-instansi.</translation>
+        <translation>Jika &quot;salin simpanan&quot; dipilih, data simpanan dunia akan disalin daripada disambung sehingga tidak dibagi antara instansi-instansi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -3664,7 +3664,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="685"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunia pemain tunggal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="698"/>
@@ -3768,7 +3768,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Setel server untuk bergabung setelah peluncuran</translation>
+        <translation>Setel tujuan gabung ketika diluncurkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
@@ -12707,7 +12707,7 @@ Path kanonis: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished">Gabung</translation>
+        <translation>Gabung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
