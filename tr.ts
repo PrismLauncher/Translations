@@ -764,12 +764,12 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="770"/>
+        <location filename="src/launcher/Application.cpp" line="776"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="922"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -794,12 +794,12 @@ Son güncelleme denemesi hakkında ayrıntılar için Prism Launcher güncelleme
 Kilidi silmek ve devam etmek için aşağıdan &quot;Yoksay&quot; seçeneğini seçin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="933"/>
+        <location filename="src/launcher/Application.cpp" line="939"/>
         <source>Update In Progress</source>
         <translation>Güncelleme Sürüyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="957"/>
+        <location filename="src/launcher/Application.cpp" line="963"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -814,12 +814,12 @@ Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin:
 son güncelleme girişimiyle ilgili ayrıntılar için.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="965"/>
+        <location filename="src/launcher/Application.cpp" line="971"/>
         <source>Update Failed</source>
         <translation>Güncelleme Başarısız Oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="989"/>
+        <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -840,12 +840,12 @@ Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin:
 detaylar için.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="997"/>
+        <location filename="src/launcher/Application.cpp" line="1003"/>
         <source>Update Succeeded</source>
         <translation>Güncelleme Başarılı Oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1028"/>
+        <location filename="src/launcher/Application.cpp" line="1034"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -854,32 +854,32 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1030"/>
+        <location filename="src/launcher/Application.cpp" line="1036"/>
         <source>Incompatible system configuration</source>
         <translation>Uyumsuz sistem yapılandırması</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1366"/>
+        <location filename="src/launcher/Application.cpp" line="1373"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1775"/>
+        <location filename="src/launcher/Application.cpp" line="1782"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1&apos;deki eski veri bulundu, ama hâlihazırda %2 için veriye sahipsin. Kendi başına aktarma yapmak zorundasın. %2&apos;yi sıradaki başlatışında bekleyen veri hakkında hatırlatılmak istiyor musun ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1779"/>
+        <location filename="src/launcher/Application.cpp" line="1786"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Görünüşe bakılırsa %1&apos;i daha önce kullanmışsın. Verilerini %2&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1785"/>
+        <location filename="src/launcher/Application.cpp" line="1792"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Görünüşe bakılırsa daha önceden %1&apos;i %2 de kullanmışsın. Yeni verileri %3&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1828"/>
+        <location filename="src/launcher/Application.cpp" line="1835"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Aktarım başarısız! Hatanın sebebi: %1</translation>
     </message>
@@ -3782,6 +3782,11 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>GLFW&apos;nin sistem kurulumunu kullan</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="685"/>
+        <source>Singleplayer world</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
         <source>Use system installation of OpenAL</source>
         <translation>OpenAL&apos;in sistem kurulumunu kullan</translation>
@@ -3898,11 +3903,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
-        <source>Set a server to join on launch</source>
-        <translation>Giriş esnasında katılınacak sunucuyu ayarla</translation>
+        <source>Set a target to join on launch</source>
+        <oldsource>Set a server to join on launch</oldsource>
+        <translation type="unfinished">Giriş esnasında katılınacak sunucuyu ayarla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="683"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
         <source>Server address:</source>
         <translation>Sunucu adresi:</translation>
     </message>
@@ -3912,33 +3918,33 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="345"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
         <source>Path to %1 library file</source>
         <translation>%1 kütüphane dosyasının yolu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="393"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactive&apos;in GameMode&apos;u sisteminizde bulunamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="398"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud sisteminizde bulunamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="443"/>
         <source>Select a Java version</source>
         <translation>Bir Java sürümü seç</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="417"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="460"/>
         <source>Find Java executable</source>
         <translation>Çalıştırılabilir Java&apos;yı bul</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="524"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="567"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Maksimum bellek değeriniz minimum değerden daha küçük</translation>
     </message>
@@ -3947,12 +3953,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">Varsayılan hesap yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="518"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="561"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="521"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="564"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
     </message>
@@ -6987,47 +6993,47 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
         <source>&amp;Launch</source>
         <translation>&amp;Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Launch &amp;Offline</source>
         <translation>Çevrimdışı &amp;Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
         <source>Launch &amp;Demo</source>
         <translation>Demoyu &amp;Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="256"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="263"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="264"/>
         <source>Profilers</source>
         <translation>Profilleyiciler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="274"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Profil Oluşturucu Yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="931"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="922"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="934"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
@@ -7036,22 +7042,22 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
         <translation type="vanished">&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="924"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="936"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="990"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>broken</source>
         <translation>bozuk</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1013"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1006"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1018"/>
         <source>, last played on %1 for %2</source>
         <translation>, en son %2 için %1 de oynandı</translation>
     </message>
@@ -7064,12 +7070,12 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
         <translation type="vanished">, en son %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1013"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>, total played for %1</source>
         <translation>, %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1018"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>, has crashed.</source>
         <translation>, çöktü.</translation>
     </message>
@@ -13365,17 +13371,22 @@ Kanonik Yol: %1</translation>
         <translation>Eylemler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="98"/>
         <source>Add</source>
         <translation>Ekle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="102"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
+        <source>Join</source>
+        <translation type="unfinished">Katıl</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
         <source>Rename</source>
         <translation>Adını Değiştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"/>
         <source>Copy</source>
         <translation>Kopyala</translation>
     </message>
@@ -13384,47 +13395,47 @@ Kanonik Yol: %1</translation>
         <translation type="vanished">Kaldır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
         <source>Delete</source>
         <translation>Sil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
         <source>MCEdit</source>
         <translation>MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="128"/>
         <source>Copy Seed</source>
         <translation>Seedi kopyala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
         <source>Refresh</source>
         <translation>Yenile</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
         <source>View Folder</source>
         <translation>Klasörü Göster</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
         <source>Reset Icon</source>
         <translation>Simgeyi Sıfırla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
         <translation>Bir sonraki yüklemede dünyanın yeniden yaratılması için dünya simgesini kaldır.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Datapacks</source>
         <translation>Veri Paketleri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage datapacks inside the world.</source>
         <translation>Dünyanın içindeki veri paketlerini yönet.</translation>
     </message>
@@ -13434,7 +13445,7 @@ Kanonik Yol: %1</translation>
         <translation>Dünyalar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
         <source>Context menu</source>
         <translation>İçerik menüsü</translation>
     </message>
@@ -13453,68 +13464,68 @@ Dünya sonsuza dek yok olacaktır (ÇOK UZUN BİR ZAMAN).
 Devam etmek istiyor musun?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="226"/>
         <source>Open World Datapacks Folder</source>
         <translation>Dünya Veri Paketleri Klasörünü Aç</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="280"/>
         <source>Open World in MCEdit</source>
         <translation>Dünyayı MCEdit&apos;te Aç</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="300"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit bulunmadı veya kurulmadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="301"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEdit kurulumuna sahip değilsiniz ya da yeri değiştirilmiş.
 Bunu toplu ayarlardan düzenleyebilirsiniz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit başlatılırken bir hata oluştu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="303"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit başlatılamadı.
 Yeniden kurmak sorununuzu çözebilir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Select a Minecraft world zip</source>
         <translation>Bir Minecraft dünya dosyası (zip) seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Minecraft World Zip File</source>
         <translation>Minecraft Dünya Zip Dosyası</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Copy World</source>
         <translation>Dünyayı Kopyala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Minecraft çalışır iken bir dünyayı değiştirmek güvenli olmayabilir.
 Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="192"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
         <translation>Silme İşlemini Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -13525,23 +13536,23 @@ Dünya sonsuza dek yok olabilir (UZUN BİR SÜRE).
 Emin misin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>World name</source>
         <translation>Dünyanın adı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
         <source>Enter a new name for the copy.</source>
         <translation>Kopya için yeni bir isim girin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
         <source>Rename World</source>
         <translation>Dünyayı Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>Enter a new world name.</source>
         <translation>Yeni bir dünya adı gir.</translation>
     </message>

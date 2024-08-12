@@ -772,12 +772,12 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="770"/>
+        <location filename="src/launcher/Application.cpp" line="776"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="922"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -804,12 +804,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 Нажмите «Игнорировать» ниже, чтобы удалить этот файл обновления и продолжить.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="933"/>
+        <location filename="src/launcher/Application.cpp" line="939"/>
         <source>Update In Progress</source>
         <translation>Идёт обновление</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="957"/>
+        <location filename="src/launcher/Application.cpp" line="963"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -824,12 +824,12 @@ for details on the last update attempt.</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="965"/>
+        <location filename="src/launcher/Application.cpp" line="971"/>
         <source>Update Failed</source>
         <translation>Обновление не удалось</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="989"/>
+        <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -850,12 +850,12 @@ for details.</oldsource>
 чтобы узнать подробности об обновлении.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="997"/>
+        <location filename="src/launcher/Application.cpp" line="1003"/>
         <source>Update Succeeded</source>
         <translation>Обновление успешно</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1028"/>
+        <location filename="src/launcher/Application.cpp" line="1034"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -864,32 +864,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1030"/>
+        <location filename="src/launcher/Application.cpp" line="1036"/>
         <source>Incompatible system configuration</source>
         <translation>Несовместимая конфигурация системы</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1366"/>
+        <location filename="src/launcher/Application.cpp" line="1373"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1775"/>
+        <location filename="src/launcher/Application.cpp" line="1782"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Были найдены старые данные от %1, но у вас уже есть существующие данные %2. К сожалению, вам придётся мигрировать вручную. Вы хотите, чтобы при следующем запуске %2 вы получали напоминание об ожидающем переносе данных?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1779"/>
+        <location filename="src/launcher/Application.cpp" line="1786"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Похоже, вы использовали %1 раньше. Вы хотите перенести свои данные в %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1785"/>
+        <location filename="src/launcher/Application.cpp" line="1792"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Похоже, вы использовали %1 на %2 раньше. Вы хотите перенести свои данные в %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1828"/>
+        <location filename="src/launcher/Application.cpp" line="1835"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Миграция не удалась! Причина: %1</translation>
     </message>
@@ -3843,6 +3843,11 @@ Proceed with caution!</source>
         <translation>Использовать GLFW, установленную в системе</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="685"/>
+        <source>Singleplayer world</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
         <source>Use system installation of OpenAL</source>
         <translation>Использовать OpenAL, установленную в системе</translation>
@@ -3959,11 +3964,12 @@ Proceed with caution!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
-        <source>Set a server to join on launch</source>
-        <translation>Подключаться к серверу после запуска</translation>
+        <source>Set a target to join on launch</source>
+        <oldsource>Set a server to join on launch</oldsource>
+        <translation type="unfinished">Подключаться к серверу после запуска</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="683"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
         <source>Server address:</source>
         <translation>Адрес сервера:</translation>
     </message>
@@ -3973,33 +3979,33 @@ Proceed with caution!</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="345"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
         <source>Path to %1 library file</source>
         <translation>Путь к файлу библиотеки %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="393"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactive&apos;s GameMode не найден в системе.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="398"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud не найден в системе.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="443"/>
         <source>Select a Java version</source>
         <translation>Выберите версию Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="417"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="460"/>
         <source>Find Java executable</source>
         <translation>Поиск исполняемого файла Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="524"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="567"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Максимальное выделение памяти меньше минимального значения</translation>
     </message>
@@ -4008,12 +4014,12 @@ Proceed with caution!</source>
         <translation type="vanished">Нет основного аккаунта</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="518"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="561"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Максимальное выделение памяти превышает объём системной памяти.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="521"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="564"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Максимальное выделение памяти приближается к объёму системной памяти.</translation>
     </message>
@@ -7087,47 +7093,47 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
         <source>&amp;Launch</source>
         <translation>&amp;Запустить</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Launch &amp;Offline</source>
         <translation>Запустить &amp;автономно</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
         <source>Launch &amp;Demo</source>
         <translation>Запустить &amp;демо-версию</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="256"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="263"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="264"/>
         <source>Profilers</source>
         <translation>Профилировщики</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="274"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Без профилировщика</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="931"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID СЕССИИ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="922"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="934"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ ДОСТУПА&gt;</translation>
     </message>
@@ -7136,22 +7142,22 @@ This can be updated only using a file in %1 format
         <translation type="vanished">&lt;КЛЮЧ КЛИЕНТА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="924"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="936"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID ПРОФИЛЯ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="990"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>broken</source>
         <translation>повреждённый</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1013"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1006"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1018"/>
         <source>, last played on %1 for %2</source>
         <translation>, в последний раз играли %1 %2</translation>
     </message>
@@ -7164,12 +7170,12 @@ This can be updated only using a file in %1 format
         <translation type="vanished">, %1 за последнее время</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1013"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>, total played for %1</source>
         <translation>, а за всё время %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1018"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>, has crashed.</source>
         <translation>, вылетела.</translation>
     </message>
@@ -13551,17 +13557,22 @@ Canonical Path: %1</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="98"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="102"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
+        <source>Join</source>
+        <translation type="unfinished">Подключиться</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
         <source>Rename</source>
         <translation>Переименовать</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"/>
         <source>Copy</source>
         <translation>Копировать</translation>
     </message>
@@ -13570,47 +13581,47 @@ Canonical Path: %1</source>
         <translation type="vanished">Удалить</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
         <source>MCEdit</source>
         <translation>MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="128"/>
         <source>Copy Seed</source>
         <translation>Копировать сид</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
         <source>Refresh</source>
         <translation>Обновить</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
         <source>View Folder</source>
         <translation>Открыть папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
         <source>Reset Icon</source>
         <translation>Сбросить иконку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
         <translation>Удалить иконку мира, чтобы игра пересоздала её при следующем запуске.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Datapacks</source>
         <translation>Наборы данных</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage datapacks inside the world.</source>
         <translation>Управление наборами данных в мире.</translation>
     </message>
@@ -13620,7 +13631,7 @@ Canonical Path: %1</source>
         <translation>Миры</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
         <source>Context menu</source>
         <translation>Контекстное меню</translation>
     </message>
@@ -13639,68 +13650,68 @@ Do you want to continue?</source>
 Вы ходите продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="226"/>
         <source>Open World Datapacks Folder</source>
         <translation>Открыть папку с наборами данных мира</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="280"/>
         <source>Open World in MCEdit</source>
         <translation>Открыть мир в MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="300"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit не найден или не установлен!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="301"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEdit не установлен или перемещён.
 Вы можете настроить его в глобальных настройках.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
         <source>MCEdit failed to start!</source>
         <translation>Не удалось запустить MCEdit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="303"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>Не удалось запустить MCEdit.
 Возможно, его необходимо переустановить.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Select a Minecraft world zip</source>
         <translation>Выберите zip-архив сохранения Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Minecraft World Zip File</source>
         <translation>ZIP-архив игрового мира</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Copy World</source>
         <translation>Копировать сохранение</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Изменение сохранения во время работы игры небезопасно.
 Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="192"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
         <translation>Подтвердить удаление</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -13711,23 +13722,23 @@ Are you sure?</source>
 Вы уверены?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>World name</source>
         <translation>Название сохранения</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
         <source>Enter a new name for the copy.</source>
         <translation>Введите новое имя для копии.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
         <source>Rename World</source>
         <translation>Переименовать мир</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>Enter a new world name.</source>
         <translation>Введите название нового сохранения.</translation>
     </message>

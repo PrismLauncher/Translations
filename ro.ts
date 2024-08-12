@@ -748,12 +748,12 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="770"/>
+        <location filename="src/launcher/Application.cpp" line="776"/>
         <source>Settings</source>
         <translation>Setări</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="916"/>
+        <location filename="src/launcher/Application.cpp" line="922"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -780,12 +780,12 @@ pentru detalii despre ultima încercare de actualizare.
 Pentru a șterge acest lock și a continua apasa &quot;Ignoră&quot; mai jos.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="933"/>
+        <location filename="src/launcher/Application.cpp" line="939"/>
         <source>Update In Progress</source>
         <translation>Se actualizează</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="957"/>
+        <location filename="src/launcher/Application.cpp" line="963"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -800,12 +800,12 @@ Verificați log-ul actualizatorului Prism Launcher la:
 pentru detalii despre ultima încercare de actualizare.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="965"/>
+        <location filename="src/launcher/Application.cpp" line="971"/>
         <source>Update Failed</source>
         <translation>Actualizarea a Eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="989"/>
+        <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -826,12 +826,12 @@ Verificați log-ul actualizatorului Prism Launcher la:
 pentru detalii.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="997"/>
+        <location filename="src/launcher/Application.cpp" line="1003"/>
         <source>Update Succeeded</source>
         <translation>Actualizarea a Reușit</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1028"/>
+        <location filename="src/launcher/Application.cpp" line="1034"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -840,32 +840,32 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1030"/>
+        <location filename="src/launcher/Application.cpp" line="1036"/>
         <source>Incompatible system configuration</source>
         <translation>Configurație sistem incompatibilă</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1366"/>
+        <location filename="src/launcher/Application.cpp" line="1373"/>
         <source>Aborted</source>
         <translation>Anulat</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1775"/>
+        <location filename="src/launcher/Application.cpp" line="1782"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Date vechi din %1 au fost găsite, doar că există deja date pentru %2. Din păcate va trebui să migrați datele manual. Doriți să vi se aducă aminte de migrația în așteptare următoarea dată când porniți %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1779"/>
+        <location filename="src/launcher/Application.cpp" line="1786"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Se pare că ați folosit deja %1. Doriți să vă migrați datele în locatia nouă %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1785"/>
+        <location filename="src/launcher/Application.cpp" line="1792"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Se pare că ați folosit deja %1 pe %2 înainte. Doriți să vă migrați datele în noua locație a lui %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1828"/>
+        <location filename="src/launcher/Application.cpp" line="1835"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrarea a eșuat! Motiv: %1</translation>
     </message>
@@ -3741,6 +3741,11 @@ Continuați cu prudență!</translation>
         <translation>Utilizați instalarea implicita de OpenAL</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="685"/>
+        <source>Singleplayer world</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="698"/>
         <source>Override default account</source>
         <translation>Suprascrie cont prestabilit</translation>
@@ -3840,11 +3845,12 @@ Continuați cu prudență!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
-        <source>Set a server to join on launch</source>
-        <translation>Setează un server pentru a intra la deschidere</translation>
+        <source>Set a target to join on launch</source>
+        <oldsource>Set a server to join on launch</oldsource>
+        <translation type="unfinished">Setează un server pentru a intra la deschidere</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="683"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
         <source>Server address:</source>
         <translation>Adresă server:</translation>
     </message>
@@ -3854,33 +3860,33 @@ Continuați cu prudență!</translation>
         <translation>Setări</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="345"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
         <source>Path to %1 library file</source>
         <translation>Calea către fișierul bibliotecă %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="393"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>GameMode de la Feral Interactive nu a putut fi găsit în sistemul dumneavoastră.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="398"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud nu a putut fi găsit în sistemul dumneavoastră.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="443"/>
         <source>Select a Java version</source>
         <translation>Selectați o versiune Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="417"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="460"/>
         <source>Find Java executable</source>
         <translation>Găsește executabilul Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="524"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="567"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Memoria maximă alocată este mai mică decât valoarea minimă</translation>
     </message>
@@ -3889,12 +3895,12 @@ Continuați cu prudență!</translation>
         <translation type="vanished">Nu există un cont implicit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="518"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="561"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Memoria dumneavoastră maximă este mai mare decât memoria maximă disponibilă în sistem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="521"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="564"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Memoria dumneavoastră maximă se apropie de memoria maximă disponibilă în sistem.</translation>
     </message>
@@ -6671,77 +6677,77 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="250"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
         <source>&amp;Launch</source>
         <translation>&amp;Lansează</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
         <source>Launch &amp;Offline</source>
         <translation>Lansează &amp;Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="253"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
         <source>Launch &amp;Demo</source>
         <translation>Lansează &amp;Demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="256"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="263"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="264"/>
         <source>Profilers</source>
         <translation>Profilatori</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="274"/>
         <source>&amp;No Profiler</source>
         <translation>&amp;Niciun Profilator</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="931"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESIUNE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="922"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="934"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;JETON ACCES&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="924"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="936"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID PROFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="990"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1002"/>
         <source>broken</source>
         <translation>stricat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1001"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1013"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1006"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1018"/>
         <source>, last played on %1 for %2</source>
         <translation>, ultima dată jucat pe %1 pentru %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1013"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1025"/>
         <source>, total played for %1</source>
         <translation>, total jucat pentru %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1018"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1030"/>
         <source>, has crashed.</source>
         <translation>, a cedat.</translation>
     </message>
@@ -12300,17 +12306,22 @@ Locația canonică: %1</translation>
         <translation>Acțiuni</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="98"/>
         <source>Add</source>
         <translation>Adăugaţi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="102"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
+        <source>Join</source>
+        <translation type="unfinished">Intră</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
         <source>Rename</source>
         <translation>Redenumiţi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"/>
         <source>Copy</source>
         <translation>Copiaţi</translation>
     </message>
@@ -12319,47 +12330,47 @@ Locația canonică: %1</translation>
         <translation type="vanished">Eliminaţi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
         <source>Delete</source>
         <translation>Șterge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
         <source>MCEdit</source>
         <translation>MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="128"/>
         <source>Copy Seed</source>
         <translation>Copiaza Seed-ul</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
         <source>Refresh</source>
         <translation>Actualizare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
         <source>View Folder</source>
         <translation>Vizualizați dosarul</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
         <source>Reset Icon</source>
         <translation>Resetează Iconița</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
         <translation>Șterge iconița lumii pentru a face jocul să o regenereze la următoarea încărcare.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Datapacks</source>
         <translation>Pachete de date</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage datapacks inside the world.</source>
         <translation>Gestionează pachete de date înăuntrul lumii.</translation>
     </message>
@@ -12369,7 +12380,7 @@ Locația canonică: %1</translation>
         <translation>Lumi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
         <source>Context menu</source>
         <translation>Meniu contextual</translation>
     </message>
@@ -12378,68 +12389,68 @@ Locația canonică: %1</translation>
         <translation type="vanished">Sunteți sigur?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="226"/>
         <source>Open World Datapacks Folder</source>
         <translation>Deschide Dosarul de Pachete de Date al Lumii</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="280"/>
         <source>Open World in MCEdit</source>
         <translation>Deschide Lumea în MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="300"/>
         <source>No MCEdit found or set up!</source>
         <translation>Nu a fost găsit MCEdit sau nu este configurat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="301"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>Nu ai configurat MCEdit sau a fost șters.
 Poți să-l configurezi în setările globale.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit nu a putut porni!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="303"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit nu a putut porni.
 Ar putea fi necesar să îl reinstalați.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Select a Minecraft world zip</source>
         <translation>Alegeți un fișier zip ce conține o lume de Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Minecraft World Zip File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Copy World</source>
         <translation>Copiați Lumea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Schimbarea lumii în timp ce rulează Minecraft-ul este posibil nesigur.
 Dorești să continui?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="192"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
         <translation>Confirmă Ștergerea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -12450,23 +12461,23 @@ Lumea ar putea dispărea pentru totdeauna (UN TIMP LUNG).
 Ești sigur(ă)?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>World name</source>
         <translation>Numele lumii</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="388"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
         <source>Enter a new name for the copy.</source>
         <translation>Introdu un nou nume pentru copie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="402"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
         <source>Rename World</source>
         <translation>Redenumiți Lumea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>Enter a new world name.</source>
         <translation>Introdu un nume pentru noua lume.</translation>
     </message>
