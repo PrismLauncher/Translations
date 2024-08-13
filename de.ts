@@ -3854,7 +3854,7 @@ Achtung beim Fortfahren!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="685"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Einzelspieler Welt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="698"/>
@@ -3958,7 +3958,7 @@ Achtung beim Fortfahren!</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Trete diesem Server nach dem Start automatisch bei</translation>
+        <translation>Trete diesem Server nach dem Start automatisch bei</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
