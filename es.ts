@@ -3802,7 +3802,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="685"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundo local</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
@@ -3923,12 +3923,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Establecer un servidor al que unirse al lanzar</translation>
+        <translation>Establecer un objetivo para unirse al lanzar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
         <source>Server address:</source>
-        <translation>Dirección del servidor:</translation>
+        <translation>IP del servidor:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
@@ -7546,7 +7546,7 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="177"/>
         <source>Server</source>
-        <translation>Server</translation>
+        <translation>Servidor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
@@ -9856,7 +9856,7 @@ Elija su nombre cuidadosamente:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="261"/>
         <source>The server returned the following error:</source>
-        <translation>El servidor devolvió el siguiente error:</translation>
+        <translation>El servidor ha devuelto el siguiente error:</translation>
     </message>
 </context>
 <context>
@@ -9933,7 +9933,7 @@ Elija su nombre cuidadosamente:</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation>Dirección y puerto (&amp;A)</translation>
+        <translation>&amp;Dirección y puerto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -11548,7 +11548,7 @@ Versión instalada actualmente: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="297"/>
         <source>Address</source>
-        <translation>Dirección y puerto</translation>
+        <translation>IP del servidor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="299"/>
@@ -11566,7 +11566,7 @@ Versión instalada actualmente: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
         <source>Address</source>
-        <translation>Dirección y puerto</translation>
+        <translation>IP del servidor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
@@ -11639,8 +11639,8 @@ Versión instalada actualmente: %1</translation>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>You are about to remove &quot;%1&quot;.
-Esto es permanente y el servidor desaparecerá de su lista para siempre (POR MUCHO TIEMPO).
+        <translation>Está a punto de eliminar &quot;%1&quot;.
+Esto es permanente y el servidor desaparecerá de su lista para siempre (MUCHO TIEMPO).
 
 ¿Está usted seguro?</translation>
     </message>
@@ -13464,7 +13464,7 @@ Ruta canónica: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished">Unirse</translation>
+        <translation>Unirse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
