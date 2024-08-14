@@ -2384,7 +2384,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="599"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordinates:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="372"/>
