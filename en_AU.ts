@@ -3556,7 +3556,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="685"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Singleplayer world</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="698"/>
@@ -3660,7 +3660,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Set a server to join on launch</translation>
+        <translation>Set a target to join on launch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
@@ -12607,7 +12607,7 @@ Canonical Path: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished">Join</translation>
+        <translation>Join</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
