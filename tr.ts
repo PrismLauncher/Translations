@@ -788,9 +788,11 @@ Zaman Damgası: %2
 Sürüm %3&apos;ten %4&apos;e güncelleniyor
 Hedef kurulum yolu: %5
 Veri Yolu: %6
-Bu muhtemelen bir güncelleme denemesinin başarısız olduğu anlamına gelir. Devam etmeden önce kurulumunuzun çalışır durumda olduğundan emin olun.
-Son güncelleme denemesi hakkında ayrıntılar için Prism Launcher güncelleme günlüğünü kontrol edin:
+Bu muhtemelen bir güncelleme denemesinin başarısız olduğu anlamına geliyor. Lütfen devam etmeden önce kurulumunuzun çalışır durumda olduğundan emin olun.
+Prism Launcher güncelleyici günlüğünü şu konumdan kontrol edin:
 %7
+son güncelleme girişimiyle ilgili ayrıntılar için.
+
 Kilidi silmek ve devam etmek için aşağıdan &quot;Yoksay&quot; seçeneğini seçin.</translation>
     </message>
     <message>
@@ -3784,7 +3786,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="685"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Tek oyunculu dünya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
@@ -3905,7 +3907,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Giriş esnasında katılınacak sunucuyu ayarla</translation>
+        <translation>Başlangıçta katılmak için bir hedef belirleyin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
@@ -13378,7 +13380,7 @@ Kanonik Yol: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished">Katıl</translation>
+        <translation>Katıl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
