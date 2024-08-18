@@ -10956,17 +10956,17 @@ Bitte aktualisiere %1!</translation>
         <translation>Lade Versionen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
         <source>Reinstall</source>
         <translation>Neu installieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
         <source>Ctrl+Return</source>
         <translation>Strg+Eingabe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="481"/>
         <source>The resource was not found</source>
         <translation>Die Ressource wurde nicht gefunden</translation>
     </message>

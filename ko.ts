@@ -10780,17 +10780,17 @@ Please update %1!</source>
         <translation>버전을 불러오는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
         <source>Reinstall</source>
         <translation>재설치</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="481"/>
         <source>The resource was not found</source>
         <translation>리소스 팩을 찾을 수 없음</translation>
     </message>

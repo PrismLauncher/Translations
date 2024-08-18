@@ -9790,17 +9790,17 @@ Please update %1!</translation>
         <translation>Loading versions...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
         <source>Reinstall</source>
         <translation>Reinstall</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="481"/>
         <source>The resource was not found</source>
         <translation>The resource was not found</translation>
     </message>

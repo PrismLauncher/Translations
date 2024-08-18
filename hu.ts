@@ -10790,17 +10790,17 @@ Kérjük, frissítse a következőt: %1!</translation>
         <translation>Verziók betöltése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
         <source>Reinstall</source>
         <translation>Újratelepítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="481"/>
         <source>The resource was not found</source>
         <translation>Az erőforrás nem található</translation>
     </message>

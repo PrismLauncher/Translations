@@ -10889,17 +10889,17 @@ Please update %1!</source>
         <translation>正在載入版本…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="463"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
         <source>Reinstall</source>
         <translation>重新安裝</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Enter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="486"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="481"/>
         <source>The resource was not found</source>
         <translation>找不到資源</translation>
     </message>
