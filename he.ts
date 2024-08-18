@@ -6720,9 +6720,8 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>בוטל ע&quot;י המשתמש.</translation>
+        <translation type="vanished">בוטל ע&quot;י המשתמש.</translation>
     </message>
 </context>
 <context>

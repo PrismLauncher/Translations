@@ -7404,9 +7404,8 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>被使用者中止。</translation>
+        <translation type="vanished">被使用者中止。</translation>
     </message>
 </context>
 <context>

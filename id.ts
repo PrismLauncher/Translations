@@ -7036,9 +7036,8 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Dibatalkan oleh pengguna.</translation>
+        <translation type="vanished">Dibatalkan oleh pengguna.</translation>
     </message>
 </context>
 <context>

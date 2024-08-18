@@ -7012,9 +7012,8 @@ Este puede ser actualizado usando solo un archivo con el formato %1
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Abortado por el usuario.</translation>
+        <translation type="vanished">Abortado por el usuario.</translation>
     </message>
 </context>
 <context>

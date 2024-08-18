@@ -7061,9 +7061,8 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Bị hủy bỏ bởi người dùng.</translation>
+        <translation type="vanished">Bị hủy bỏ bởi người dùng.</translation>
     </message>
 </context>
 <context>

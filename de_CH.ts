@@ -6759,9 +6759,8 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Vom Benutzer abgebrochen.</translation>
+        <translation type="vanished">Vom Benutzer abgebrochen.</translation>
     </message>
 </context>
 <context>

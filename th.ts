@@ -6501,14 +6501,6 @@ This can be updated only using a file in %1 format
     </message>
 </context>
 <context>
-    <name>MinecraftUpdate</name>
-    <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
-        <source>Aborted by user.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ModDownloadDialog</name>
     <message>
         <source>Download mods</source>

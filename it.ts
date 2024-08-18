@@ -7365,9 +7365,8 @@ Può essere aggiornato solo tramite file in formato %1
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Annullato dall&apos;utente.</translation>
+        <translation type="vanished">Annullato dall&apos;utente.</translation>
     </message>
 </context>
 <context>

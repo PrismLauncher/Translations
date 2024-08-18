@@ -6932,9 +6932,8 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Afbrudt af brugeren.</translation>
+        <translation type="vanished">Afbrudt af brugeren.</translation>
     </message>
 </context>
 <context>

@@ -7436,9 +7436,8 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Vom Benutzer abgebrochen.</translation>
+        <translation type="vanished">Vom Benutzer abgebrochen.</translation>
     </message>
 </context>
 <context>

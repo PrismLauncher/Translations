@@ -7467,9 +7467,8 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Zatrzymany przez użytkownika.</translation>
+        <translation type="vanished">Zatrzymany przez użytkownika.</translation>
     </message>
 </context>
 <context>

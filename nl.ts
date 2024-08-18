@@ -7276,9 +7276,8 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Afgebroken door gebruiker.</translation>
+        <translation type="vanished">Afgebroken door gebruiker.</translation>
     </message>
 </context>
 <context>

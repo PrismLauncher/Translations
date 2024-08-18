@@ -7400,9 +7400,8 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Přerušeno uživatelem.</translation>
+        <translation type="vanished">Přerušeno uživatelem.</translation>
     </message>
 </context>
 <context>

@@ -7431,9 +7431,8 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Abandonnée par l&apos;utilisateur.</translation>
+        <translation type="vanished">Abandonnée par l&apos;utilisateur.</translation>
     </message>
 </context>
 <context>

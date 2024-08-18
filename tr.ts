@@ -7377,9 +7377,8 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Kullanıcı tarafından iptal edildi.</translation>
+        <translation type="vanished">Kullanıcı tarafından iptal edildi.</translation>
     </message>
 </context>
 <context>

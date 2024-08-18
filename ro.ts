@@ -7000,9 +7000,8 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Abandonat de utilizator.</translation>
+        <translation type="vanished">Abandonat de utilizator.</translation>
     </message>
 </context>
 <context>

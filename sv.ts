@@ -7273,9 +7273,8 @@ Detta kan endast uppdateras med en fil i formatet %1
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>Avbruten av användare.</translation>
+        <translation type="vanished">Avbruten av användare.</translation>
     </message>
 </context>
 <context>

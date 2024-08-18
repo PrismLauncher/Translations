@@ -7339,9 +7339,8 @@ This can be updated only using a file in %1 format
 <context>
     <name>MinecraftUpdate</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="82"/>
         <source>Aborted by user.</source>
-        <translation>사용자에 의해 강제로 중단됨.</translation>
+        <translation type="vanished">사용자에 의해 강제로 중단됨.</translation>
     </message>
 </context>
 <context>
