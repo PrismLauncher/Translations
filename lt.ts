@@ -5069,7 +5069,7 @@ Reason:
         <location filename="src/launcher/MMCZip.cpp" line="621"/>
         <location filename="src/launcher/MMCZip.cpp" line="632"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepavyko pakeisti leidimų %1</translation>
     </message>
 </context>
 <context>
@@ -9122,7 +9122,7 @@ PASTABA: Prieš atnaujindami įsitikinkite, kad padarėte svarbių egzempliorių
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
         <location filename="src/launcher/MMCZip.cpp" line="355"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepavyko pakeisti leidimų %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
@@ -10438,7 +10438,8 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="44"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Atsiunčiamas modifikacijų rinkinys:
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="49"/>
@@ -10463,7 +10464,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="120"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepavyko pakeisti leidimų %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="135"/>
@@ -10505,7 +10506,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepavyko pakeisti leidimų %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
