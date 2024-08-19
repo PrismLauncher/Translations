@@ -2036,7 +2036,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Failo vardas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
@@ -2160,12 +2160,12 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuoti modifikaciju sąrašą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="182"/>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuoti modifikacijos metadata į tekstą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -2934,7 +2934,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pradėtas procesas: 1%</translation>
     </message>
 </context>
 <context>
@@ -3087,7 +3087,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinkami failai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
@@ -3247,7 +3247,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko pašalinti senų konfliktuojančių failų.</translation>
     </message>
 </context>
 <context>
@@ -3256,7 +3256,8 @@ Bandykite dar kartą.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsiunčiamas modifikacijų rinkinys:
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
@@ -3266,12 +3267,12 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandoma nustatyti pavyzdžio tipą</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
         <source>Extracting modpack</source>
-        <translation>Išpakuojamas modpack</translation>
+        <translation>Išpakuojamas modifikacijų rinkinys</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="155"/>
@@ -3282,7 +3283,7 @@ Bandykite dar kartą.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Archyvas neturi atpažinto modifikacijos rinkinio tipo.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -3291,7 +3292,7 @@ Bandykite dar kartą.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="237"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko pakeisti leidimų %1</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
