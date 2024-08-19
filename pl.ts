@@ -7596,7 +7596,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Hide installed items</source>
-        <translation>Ukryj zainstalowane przedmioty</translation>
+        <translation>Ukryj zainstalowane elementy</translation>
     </message>
 </context>
 <context>
@@ -7725,7 +7725,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
         <source>The mod loader.</source>
-        <translation>Modloader</translation>
+        <translation>Mod loader</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="219"/>
