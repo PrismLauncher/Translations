@@ -3497,7 +3497,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation>Próba ustalenia typu instalacji</translation>
+        <translation>Próba ustalenia typu instancji</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
@@ -7596,7 +7596,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Hide installed items</source>
-        <translation>Ukryj zainstalowane elementy</translation>
+        <translation>Ukryj zainstalowane przedmioty</translation>
     </message>
 </context>
 <context>
