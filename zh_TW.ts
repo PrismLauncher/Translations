@@ -3925,7 +3925,7 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">啟動遊戲後直接加入伺服器</translation>
+        <translation>設定啟動時加入的目標</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
@@ -6995,7 +6995,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>正在載入本機檔案</translation>
     </message>
 </context>
 <context>
@@ -7009,7 +7009,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>載入 %1:%2 的後設資料</translation>
     </message>
 </context>
 <context>
@@ -7018,7 +7018,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>載入 %1 的後設資料</translation>
     </message>
 </context>
 <context>
@@ -13473,7 +13473,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished">加入</translation>
+        <translation>加入</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
