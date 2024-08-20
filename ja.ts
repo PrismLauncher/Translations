@@ -166,52 +166,52 @@
         <translation>不明なMODの種類:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="373"/>
         <source>Failed to find version for %1 loader</source>
         <translation>%1ローダーのバージョンを見つけられませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="388"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
         <source>No loader version set for modpack!</source>
         <translation>Modパックのローダーのバージョンが設定されていません!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="518"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>不明または非対応なダウンロードのタイプです:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="631"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
         <source>Downloading configs...</source>
         <translation>構成データをダウンロードしています…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="632"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
         <source>Config download</source>
         <translation>構成データのダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="674"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
         <source>Extracting configs...</source>
         <translation>構成データを展開しています…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="680"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="677"/>
         <source>Failed to open pack configs %1!</source>
         <translation>%1 パックコンフィグを開けませんでした!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
         <translation>オプションのModを選択してください…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
         <source>Downloading mods...</source>
         <translation>Modをダウンロードしています…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="722"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
         <source>Mod download</source>
         <translation>Mod のダウンロード</translation>
     </message>
@@ -220,53 +220,53 @@
         <translation type="vanished">対応していないダウンロードのタイプです:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="747"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="880"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="744"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>Unknown download type: %1</source>
         <translation>不明なダウンロードのタイプです:%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="830"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>Blocked mods found</source>
         <translation>ブロックされたmodが見つかりました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="831"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>以下のファイルはサードパーティランチャーでのダウンロードができません。&lt;br/&gt;手動でダウンロードし起動構成に追加する必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="887"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
         <source>%1 out of %2 complete</source>
         <translation>%2のうち%1完了</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="927"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="921"/>
         <source>Failed to extract mods...</source>
         <translation>Modの展開に失敗しました…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="937"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
         <translation>Modを展開しています…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1008"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Installing modpack</source>
         <translation>Modパックをインストールしています</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1014"/>
         <source>Failed to create libraries component</source>
         <translation>ライブラリコンポーネントの作成に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1047"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
         <source>Unknown loader type: </source>
         <translation>不明なローダータイプです: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1061"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1055"/>
         <source>Failed to create pack component</source>
         <translation>パックコンポーネントの作成に失敗しました</translation>
     </message>
@@ -875,30 +875,30 @@ Minecraft のバージョンによっては起動しない場合があります�
         <translation>%1 のassetインデックス</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="43"/>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="42"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="79"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="70"/>
         <source>Failed to read the assets index!</source>
         <translation>assetsインデックスの読み込みに失敗しました!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="75"/>
         <source>Getting the assets files from Mojang...</source>
         <translation>Mojangからassetsファイルを取得しています...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="92"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="91"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>assetsインデックスのダウンロードに失敗しました! :
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="96"/>
         <source>Failed to download assets:
 %1</source>
         <translation>assetsのダウンロードに失敗しました! :
@@ -1225,33 +1225,32 @@ Minecraft のバージョンによっては起動しない場合があります�
 <context>
     <name>ComponentUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="181"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="232"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="203"/>
         <source>Some component metadata load tasks failed.</source>
         <translation>一部のコンポーネントのメタデータの読み込みに失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="434"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="405"/>
         <source>Conflicting requirements detected during dependency checking!</source>
         <translation>依存関係の確認中にコンフリクトが見つかりました!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="421"/>
         <source>Instance has conflicting dependencies.</source>
         <translation>起動構成の依存関係にコンフリクトがあります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="455"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="426"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
         <translation>起動構成の読込・確認中に未解決の依存関係が見つかりました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="574"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="559"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>リモートサーバーからコンポーネントのメタデータをダウンロードするタスクが失敗しました:
@@ -6662,11 +6661,34 @@ This can be updated only using a file in %1 format
     </message>
 </context>
 <context>
+    <name>Meta::BaseEntityLoadTask</name>
+    <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Meta::Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="65"/>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
         <translation>名前</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="144"/>
+        <source>Load meta for %1:%2</source>
+        <comment>This is for the task name that loads the meta index.</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Meta::VersionList</name>
+    <message>
+        <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
+        <source>Load meta for %1</source>
+        <comment>This is for the task name that loads the meta index.</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8022,32 +8044,32 @@ Please update %1!</source>
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="55"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="57"/>
         <source>Searching for files...</source>
         <translation>ファイルを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="77"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
         <source>Could not search for files</source>
         <translation>ファイルが見つかりませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="93"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
         <source>Finding file hashes...</source>
         <translation>ファイルハッシュを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="154"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
         <translation>ハッシュのバージョンを検索中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="189"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="191"/>
         <source>Failed to parse versions response: %1</source>
         <translation type="unfinished">バージョン応答の解析に失敗しました: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="198"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="200"/>
         <source>Adding files...</source>
         <translation>ファイルを追加中...</translation>
     </message>
@@ -9559,7 +9581,7 @@ Are you sure?</source>
         <translation>Minecraft サーバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="249"/>
         <source>Patch is not loaded yet.</source>
         <translation>パッチはまだ読み込まれていません。</translation>
     </message>
@@ -9623,7 +9645,7 @@ Are you sure?</source>
         <translation>バージョンファイルにサポートされていない要素 &quot;+minecraftArguments&quot; があります</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="311"/>
         <source>Assets for %1</source>
         <translation>%1 のアセット</translation>
     </message>
@@ -9769,14 +9791,14 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Java checkerライブラリが見つかりませんでした。設定を確認してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="111"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
         <source>Download of meta file %1</source>
         <translation>メタファイル %1 のダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/JsonFormat.cpp" line="129"/>
-        <location filename="src/launcher/meta/JsonFormat.cpp" line="141"/>
-        <location filename="src/launcher/meta/JsonFormat.cpp" line="153"/>
+        <location filename="src/launcher/meta/JsonFormat.cpp" line="133"/>
+        <location filename="src/launcher/meta/JsonFormat.cpp" line="145"/>
+        <location filename="src/launcher/meta/JsonFormat.cpp" line="157"/>
         <source>Unknown format version!</source>
         <translation>不明なフォーマットバージョンです!</translation>
     </message>
@@ -11550,22 +11572,22 @@ Are you sure?</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
         <source>Extracting modpack</source>
         <translation>Modパックを抽出中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="182"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
         <source>Failed to extract modpack</source>
         <translation>Modパックの抽出に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="203"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 のパーミッションを修正できませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="218"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="217"/>
         <source>Instance import has been aborted.</source>
         <translation>起動構成のインポートを中止しました.</translation>
     </message>
@@ -12610,7 +12632,7 @@ Please add your Mojang or Minecraft account.</oldsource>
         <translation>起動構成のアップデート中にエラーが発生しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="60"/>
         <source>Version</source>
         <translation>バージョン</translation>
     </message>
@@ -12729,12 +12751,12 @@ Please add your Mojang or Minecraft account.</oldsource>
         <translation>検索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="158"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
         <source>List update failed:
 %1</source>
         <translation>リストの更新に失敗しました:
