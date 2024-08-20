@@ -515,7 +515,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>该账号的 Minecraft Java 版用户名</translation>
+        <translation>该账号的 Minecraft Java 版用户名。</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -524,7 +524,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>User name of the account.</source>
-        <translation>该账号的 Xbox 用户名</translation>
+        <translation>该账户的用户名。</translation>
     </message>
     <message>
         <source>Type of the account - Mojang or MSA.</source>
@@ -533,7 +533,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Current status of the account.</source>
-        <translation>账号当前的状态</translation>
+        <translation>该账户的当前状态。</translation>
     </message>
     <message>
         <source>Can this account migrate to a Microsoft account?</source>
@@ -1379,7 +1379,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>复制游戏内选项（如视场角、最大帧率等）</translation>
+        <translation>复制游戏内选项（如视场角、最大帧率等）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
@@ -1434,7 +1434,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation>使用硬链接而非复制文件</translation>
+        <translation>使用硬链接而非复制文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
@@ -1445,7 +1445,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation>使用符号链接而非复制文件</translation>
+        <translation>使用符号链接而非复制文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
@@ -3683,17 +3683,17 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="174"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraft 可以使用的最大内存大小</translation>
+        <translation>Minecraft 可以使用的最大内存大小。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="152"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraft 启动时分配的内存总量</translation>
+        <translation>Minecraft 启动时分配的内存总量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="196"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>可用于储存加载的 Java 类的内存量</translation>
+        <translation>可用于储存加载的 Java 类的内存量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
@@ -3812,7 +3812,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="685"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>单人游戏世界</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
@@ -3933,7 +3933,7 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">启动游戏后直接加入服务器</translation>
+        <translation>启动游戏后直接加入服务器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
@@ -4120,7 +4120,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraft 允许使用的最大内存大小</translation>
+        <translation>Minecraft 能够使用的最大内存大小。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
@@ -4142,12 +4142,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraft 启动时分配的内存总量</translation>
+        <translation>Minecraft 启动时分配的内存总量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>可用于储存加载的 Java 类的内存量</translation>
+        <translation>可用于储存加载的 Java 类的内存量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
@@ -4274,7 +4274,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="400"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraft 可以使用的最大内存大小</translation>
+        <translation>Minecraft 可以使用的最大内存大小。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="401"/>
@@ -4289,12 +4289,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="403"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraft 启动时分配的内存总量</translation>
+        <translation>Minecraft 启动时分配的内存总量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="404"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>可用于储存加载的 Java 类的内存总量</translation>
+        <translation>可用于储存加载的 Java 类的内存总量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="405"/>
@@ -4730,7 +4730,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="219"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>停用 Mod 托管平台（如 Modrinth 和 CurseForge）提供的 Mod 元数据</translation>
+        <translation>不使用来自 Mod 托管平台（如 Modrinth 和 CurseForge）的 Mod 元数据。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="222"/>
@@ -4836,7 +4836,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>禁用自动检测、安装和更新前置 Mod</translation>
+        <translation>禁用自动检测、安装和更新前置 Mod。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="242"/>
@@ -4846,7 +4846,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>当创建一个新整合包实例时，不再建议更新现有的实例</translation>
+        <translation>当创建一个新整合包实例时，不提示可以更新现有的该整合包的实例（而不是创建新的实例）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="252"/>
@@ -5740,7 +5740,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>Launch the selected instance.</source>
-        <translation>运行选中实例</translation>
+        <translation>运行选中实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
@@ -5754,7 +5754,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="295"/>
         <source>Add a new instance.</source>
-        <translation>添加一个新的实例</translation>
+        <translation>添加一个新的实例。</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -5773,7 +5773,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="579"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>在文件管理器中打开公共 Mod 文件夹</translation>
+        <translation>在文件管理器中打开公共 Mod 文件夹。</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -5787,7 +5787,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="719"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>打开实例间共用的文件夹</translation>
+        <translation>打开实例间共用的文件夹。</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7012,7 +7012,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>正在加载本地文件</translation>
     </message>
 </context>
 <context>
@@ -7026,7 +7026,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>正在加载 %1 的元数据：%2</translation>
     </message>
 </context>
 <context>
@@ -7035,7 +7035,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>加载 %1 的元数据</translation>
     </message>
 </context>
 <context>
@@ -13486,7 +13486,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished">加入</translation>
+        <translation>加入</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
