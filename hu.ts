@@ -6931,7 +6931,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyi fájl betöltése</translation>
     </message>
 </context>
 <context>
@@ -6945,7 +6945,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>A(z) %1 metaadatok betöltése: %2</translation>
     </message>
 </context>
 <context>
@@ -6954,7 +6954,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>A(z) %1 metaadatok betöltése</translation>
     </message>
 </context>
 <context>
