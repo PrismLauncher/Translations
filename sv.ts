@@ -6880,7 +6880,7 @@ Detta kan endast uppdateras med en fil i formatet %1
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Laddar lokal fil</translation>
     </message>
 </context>
 <context>
@@ -6894,7 +6894,7 @@ Detta kan endast uppdateras med en fil i formatet %1
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Laddar metaindex för %1:%2</translation>
     </message>
 </context>
 <context>
@@ -6903,7 +6903,7 @@ Detta kan endast uppdateras med en fil i formatet %1
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Laddar metaindex för %1</translation>
     </message>
 </context>
 <context>
