@@ -3621,7 +3621,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Set a server to join on launch</translation>
+        <translation>Set a target to join on launch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="675"/>
@@ -6291,7 +6291,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Loading local file</translation>
     </message>
 </context>
 <context>
@@ -6305,7 +6305,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Load meta for %1:%2</translation>
     </message>
 </context>
 <context>
@@ -6314,7 +6314,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Load meta for %1</translation>
     </message>
 </context>
 <context>
@@ -12271,7 +12271,7 @@ Canonical Path: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished">Join</translation>
+        <translation>Join</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
