@@ -51,12 +51,12 @@
             "untranslated" : 1256
         },
         "cs" : {
-            "file" : "71a2b477eab42edc6657dadc27889aedee2aafa2.class",
-            "sha1" : "71a2b477eab42edc6657dadc27889aedee2aafa2",
-            "size" : 277509,
-            "translated" : 1971,
+            "file" : "e8f19a548f8858b5b65c41916fd0c9c738daf962.class",
+            "sha1" : "e8f19a548f8858b5b65c41916fd0c9c738daf962",
+            "size" : 277849,
+            "translated" : 1974,
             "fuzzy" : 0,
-            "untranslated" : 3
+            "untranslated" : 0
         },
         "cy" : {
             "file" : "8fb9e7712d972400ff319513d05267d9c921e650.class",
@@ -259,12 +259,12 @@
             "untranslated" : 1814
         },
         "he" : {
-            "file" : "e03f4e8ee2feda43a52955b7592c4b6375cc539f.class",
-            "sha1" : "e03f4e8ee2feda43a52955b7592c4b6375cc539f",
-            "size" : 86305,
-            "translated" : 706,
+            "file" : "3264b62a0db13a555c2a1f14de837e2f42308062.class",
+            "sha1" : "3264b62a0db13a555c2a1f14de837e2f42308062",
+            "size" : 86916,
+            "translated" : 711,
             "fuzzy" : 124,
-            "untranslated" : 1144
+            "untranslated" : 1139
         },
         "hi" : {
             "file" : "fb37dfcd1414d5143c3a037501b697f3075bd1a9.class",
@@ -283,12 +283,12 @@
             "untranslated" : 1300
         },
         "hu" : {
-            "file" : "ed2468e1cf38455a637142472867f054f47bfc9c.class",
-            "sha1" : "ed2468e1cf38455a637142472867f054f47bfc9c",
-            "size" : 289292,
-            "translated" : 1967,
+            "file" : "4c5263e7467837593af4cc108e70c0b010f184b1.class",
+            "sha1" : "4c5263e7467837593af4cc108e70c0b010f184b1",
+            "size" : 289644,
+            "translated" : 1970,
             "fuzzy" : 0,
-            "untranslated" : 7
+            "untranslated" : 4
         },
         "hy" : {
             "file" : "0bb7089dcc7ea376bc765417aecf292ec8a719b9.class",
@@ -619,12 +619,12 @@
             "untranslated" : 0
         },
         "zh_TW" : {
-            "file" : "bfc0ac25c054a94eb8acff23adecc38f5275ff81.class",
-            "sha1" : "bfc0ac25c054a94eb8acff23adecc38f5275ff81",
-            "size" : 199529,
-            "translated" : 1968,
+            "file" : "dd6609cfff8a54e3bdfd526d8e1ac10836fcd9e1.class",
+            "sha1" : "dd6609cfff8a54e3bdfd526d8e1ac10836fcd9e1",
+            "size" : 199608,
+            "translated" : 1969,
             "fuzzy" : 2,
-            "untranslated" : 4
+            "untranslated" : 3
         }
     }
 }
