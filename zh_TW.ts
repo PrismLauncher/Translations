@@ -3804,7 +3804,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="685"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>單人遊戲世界</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="457"/>
