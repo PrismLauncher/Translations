@@ -7012,7 +7012,7 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando archivo local</translation>
     </message>
 </context>
 <context>
@@ -7026,7 +7026,7 @@ Solo puede actualizarse mediante un archivo con formato %1
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cargar meta para %1:%2</translation>
     </message>
 </context>
 <context>
@@ -7035,7 +7035,7 @@ Solo puede actualizarse mediante un archivo con formato %1
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cargar meta para %1</translation>
     </message>
 </context>
 <context>
