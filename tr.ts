@@ -6968,7 +6968,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Yerel dosya yükleniyor</translation>
     </message>
 </context>
 <context>
@@ -6982,7 +6982,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Meta dizinini %1 den %2 e yükle</translation>
     </message>
 </context>
 <context>
@@ -6991,7 +6991,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
         <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metayı %1 olarak yükle</translation>
     </message>
 </context>
 <context>
@@ -9345,7 +9345,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation>github repo url</translation>
+        <translation>github depo bağlantısı</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
