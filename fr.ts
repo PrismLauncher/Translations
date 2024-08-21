@@ -7344,7 +7344,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="163"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Ferme le lanceur après que la fenêtre de jeu s&apos;ouvre</translation>
+        <translation>&amp;Fermer le lanceur après l&apos;ouverture de la fenêtre de jeu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
