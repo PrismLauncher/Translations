@@ -1251,7 +1251,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="51"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Acquired ye old entitlements</translation>
     </message>
 </context>
 <context>
@@ -1344,7 +1344,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>spyglass &amp;ye olde configs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
@@ -1354,7 +1354,7 @@ Please be updating of both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>spyglass &amp;Chest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="140"/>
@@ -1439,7 +1439,7 @@ Are ye sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>External ship weapons</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
@@ -1538,7 +1538,7 @@ Are ye sure?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ye be failing to extract ye native jar &apos;%1&apos; to marked spot &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -1664,7 +1664,8 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Couldnt be renaming of ye overrides chest:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
@@ -1722,7 +1723,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>This &apos;Chest&apos; may need plundering: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="480"/>
@@ -1758,7 +1759,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Ship chosen:</translation>
+        <translation>Model o&apos; ship chosen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
