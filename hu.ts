@@ -4008,7 +4008,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="670"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation>Indításkor csatlakozzon egy szerverhez</translation>
+        <translation>Indításkor lépjen be ide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="682"/>
