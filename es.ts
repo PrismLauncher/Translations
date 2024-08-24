@@ -718,12 +718,12 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Remove account?</source>
-        <translation>¿Quitar cuenta?</translation>
+        <translation>¿Eliminar cuenta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation>¿Está seguro de que desea eliminar esta cuenta?</translation>
+        <translation>¿Está seguro de que desea borrar esta cuenta?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -805,7 +805,7 @@ Compruebe el registro de actualización de Prism Launcher en:
 %7
 para más detalles sobre el último intento de actualización.
 
-Para eliminar este bloqueo y continuar, seleccione &quot;Ignorar&quot; a continuación.</translation>
+Para borrar este bloqueo y continuar, seleccione &quot;Ignorar&quot; a continuación.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="946"/>
@@ -903,44 +903,44 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting java</source>
-        <translation type="unfinished"></translation>
+        <translation>Extracción de java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
+        <translation>Extracción de Java (no se informa del progreso de los archivos tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir el archivo tar suministrado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede extraer el archivo tar suministrado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir el archivo zip suministrado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file,</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han encontrado archivos en el archivo zip suministrado,</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se pudo determinar el tipo de archivo!</translation>
     </message>
 </context>
 <context>
@@ -1197,47 +1197,47 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="78"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>El mecanismo automático de Java detectó una instalación de 32 bits de Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="84"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha encontrado una versión de Java compatible. Usando la predeterminada.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Su sistema (%1-%2) no es compatible con la instalación automática de Java. Utilizando la ruta Java por defecto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="103"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Su meta información no está actualizada o no tiene la información necesaria para determinar qué instalación de Java debe utilizarse. Utilizando la ruta Java por defecto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="136"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java compatible encontrado en: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="153"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha encontrado una versión de Java compatible (el archivo binario no existe). Utilización de la versión por defecto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="175"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se ha podido determinar el tipo de descarga de Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="210"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han encontrado versiones de Java para su sistema operativo: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="212"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha encontrado una versión compatible de Java. Utilizando la predeterminada.</translation>
     </message>
 </context>
 <context>
@@ -1903,7 +1903,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation>&amp;Quitar</translation>
+        <translation>&amp;Eliminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
@@ -2259,7 +2259,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="109"/>
         <source>Remove selected item</source>
-        <translation>Quitar item seleccionado</translation>
+        <translation>Eliminar item seleccionado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
@@ -2386,7 +2386,7 @@ Esta acción es permanente y los elementos desaparecerán de la carpeta raíz.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>Confirm Delete</source>
-        <translation>Confirmar Eliminación</translation>
+        <translation>Confirmar Borrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="259"/>
@@ -3276,7 +3276,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="64"/>
         <source>Remove Icon</source>
-        <translation>Quitar icono</translation>
+        <translation>Eliminar icono</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -3446,18 +3446,18 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="58"/>
         <source>No java versions are currently available in the meta.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente no hay versiones de java disponibles en el meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="64"/>
         <source>Couldn&apos;t load or download the java version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No he podido cargar o descargar las listas de versiones de java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="63"/>
         <source>No java versions are currently available for your OS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente no hay versiones de java disponibles para su sistema operativo.</translation>
     </message>
 </context>
 <context>
@@ -3809,7 +3809,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
@@ -4075,14 +4075,16 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="466"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar selección</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="467"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha seleccionado una versión de 32 bits de Java.
+Esta instalación no admite más de 2048MiB de RAM.
+Asegúrese de que el valor máximo de memoria es inferior.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="478"/>
@@ -4225,48 +4227,48 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="195"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Actualizar</translation>
+        <translation>&amp;Refrescar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="212"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="276"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="278"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="280"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="312"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se ha podido determinar el tipo de descarga de Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="313"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortar</translation>
     </message>
 </context>
 <context>
@@ -4329,12 +4331,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona automáticamente la versión de Java compatible con la instancia actual de Minecraft, basándose en la versión principal requerida.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectar automáticamente la versión de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
@@ -4345,37 +4347,37 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="306"/>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarga y selecciona automáticamente la versión de Java recomendada por Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-descarga Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiones de Java descargados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="384"/>
         <source>Refresh</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -4428,12 +4430,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed java versions are installed</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay versiones de java gestionadas instaladas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed java list!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se ha podido cargar la lista de java administrado!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4443,14 +4445,16 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="163"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar selección</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="164"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha seleccionado una versión de 32 bits de Java.
+Esta instalación no admite más de 2048MiB de RAM.
+Asegúrese de que el valor máximo de memoria es inferior.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="175"/>
@@ -4475,13 +4479,14 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar borrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Está a punto de eliminar la instalación de Java denominada «%1».
+¿Está usted seguro?</translation>
     </message>
 </context>
 <context>
@@ -4508,24 +4513,26 @@ Puedes cambiar la versión de Java en los ajustes más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="135"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="183"/>
         <source>Automatic Java Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar Java automáticamente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="184"/>
         <source>%1 can automatically download the correct Java version for each version of Minecraft..
 Do you want to enable Java auto-download?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 puede descargar automáticamente la versión correcta de Java para cada versión de Minecraft..
+¿Quieres activar la descarga automática de Java?
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="219"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Java de 32 bits detectado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="220"/>
@@ -4535,7 +4542,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ha seleccionado una instalación de 32 bits de Java, pero ha asignado más de 2048MiB como memoria máxima.
+%1 no podrá iniciar Minecraft.
+¿Desea continuar?
+
+Puedes cambiar la versión de Java en la configuración más tarde.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="231"/>
@@ -4545,7 +4557,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>No has seleccionado una versión de Java o has seleccionado una que no funciona.
+%1 no podrá iniciar Minecraft.
+¿Desea continuar sin una versión funcional de Java?
+
+Puedes cambiar la versión de Java en la configuración más tarde.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="339"/>
@@ -4590,17 +4607,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="488"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-descarga Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="490"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectar automáticamente la versión de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Autodetectar Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="500"/>
@@ -4620,7 +4637,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="509"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Está superando la asignación máxima admitida por las instalaciones de 32 bits de Java.</translation>
     </message>
 </context>
 <context>
@@ -5214,7 +5231,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -5356,7 +5373,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
@@ -5366,27 +5383,27 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Prueba/ERROR] ¡OOoooOOOoooo! ¡Un error espeluznante!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Prueba/ERROR] ¡Un error espeluznante!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Prueba/WARN] Una advertencia no tan espeluznante.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Prueba/DEBUG] Un mensaje secreto de depuración...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Prueba/FATAL] ¡Un terrorífico error fatal!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -5706,7 +5723,7 @@ You&apos;ll have to correct this problem manually.</source>
         <translation>Algunos artefactos marcados como &apos;local&apos; no pueden encontrar sus archivos: 
 %1 
  
-Tienes que añadir los archivos o borrar los packs que los requieren. 
+Tienes que añadir los archivos o eliminar los packs que los requieren. 
 Tienes que solucionar el problema manualmente.</translation>
     </message>
     <message>
@@ -5887,7 +5904,7 @@ Motivo:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir el archivo zip suministrado.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -6853,7 +6870,7 @@ Motivo:
         <location filename="src/launcher/ui/MainWindow.cpp" line="547"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation>&amp;Eliminar grupo</translation>
+        <translation>&amp;Borrar grupo</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -7014,8 +7031,8 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Estás a punto de eliminar &quot;%1&quot;.
-Esta acción es permanente y eliminará completamente la instancia.
+        <translation>Estás a punto de borrar &quot;%1&quot;.
+Esta acción es permanente y borrara completamente la instancia.
 
 ¿Estás seguro?</translation>
     </message>
@@ -7129,7 +7146,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1148"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>Estas seguro que quieres eliminar el grupo &apos;%1&apos;?</translation>
+        <translation>Estas seguro que quieres borrar el grupo &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1158"/>
@@ -7368,7 +7385,7 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando Java</translation>
     </message>
 </context>
 <context>
@@ -8341,7 +8358,7 @@ Los archivos antiguos no se pueden borrar ya que están en uso.
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="375"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>Vas a borrar los metadatos de %1 mods.
+        <translation>Vas a eliminar los metadatos de %1 mods.
 Estás seguro?</translation>
     </message>
     <message>
@@ -8352,7 +8369,7 @@ Estás seguro?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="186"/>
         <source>Confirm Delete</source>
-        <translation>Confirmar Eliminación</translation>
+        <translation>Confirmar Borrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="187"/>
@@ -9395,7 +9412,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
         <source>Delete</source>
-        <translation>Eliminar</translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
@@ -9468,13 +9485,13 @@ Esto puede ser permanente y desaparecerá de la carpeta de registros.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>¿Estas seguro de eliminar todos los archivos de registro?</translation>
+        <translation>¿Estas seguro de borrar todos los archivos de registro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation>¿Estas seguro de eliminar todos estos archivos?
+        <translation>¿Estas seguro de borrar todos estos archivos?
 %1</translation>
     </message>
     <message>
@@ -9503,13 +9520,13 @@ Esto puede ser permanente y desaparecerá de la carpeta de registros.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="252"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation>¡No se han podido eliminar algunos archivos!</translation>
+        <translation>¡No se han podido borrar algunos archivos!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>No se pudo eliminar algunos archivos:
+        <translation>No se pudo borrar algunos archivos:
 %1</translation>
     </message>
     <message>
@@ -11831,7 +11848,7 @@ Deberías volver a comprobar la información personal.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>Estas a punto de eliminar %1 imagenes.
+        <translation>Estas a punto de borrar %1 imagenes.
 Esta acción es permanente y los elementos desaparecerán de la carpeta.
 
 ¿Estas seguro?</translation>
@@ -13098,7 +13115,9 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>La asignación de memoria máxima supera el valor admitido.
+La instalación seleccionada de Java es de 32 bits y no admite más de 2048MiB de RAM.
+Es posible que la instancia no se inicie debido a esto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -13663,12 +13682,12 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión principal</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
@@ -13708,12 +13727,12 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the java version</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre alternativo de la versión de java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The java major version</source>
-        <translation type="unfinished"></translation>
+        <translation>La versión principal de java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
