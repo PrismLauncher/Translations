@@ -6469,17 +6469,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
         <source>Prism Launcher (zip)</source>
-        <translation>Prism Launcher (zip)</translation>
+        <translation>Prism Launcher(ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="483"/>
         <source>Modrinth (mrpack)</source>
-        <translation>Modrinth (mrpack)</translation>
+        <translation>Modrinth(MRPACK)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="492"/>
         <source>CurseForge (zip)</source>
-        <translation>CurseForge (zip)</translation>
+        <translation>CurseForge(ZIP)</translation>
     </message>
     <message>
         <source>Mod List</source>
