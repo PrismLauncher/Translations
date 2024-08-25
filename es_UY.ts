@@ -10170,22 +10170,22 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
         <translation type="obsolete">Personalizado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="295"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Background Cat (from MultiMC)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="300"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation type="unfinished"></translation>
     </message>

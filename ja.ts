@@ -10296,22 +10296,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">カスタム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="295"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>背景猫(マルチMCから)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (アシュタカ描き下ろし)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (フラット版、アシュタカ描き下ろし)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="300"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie（SympathyTea描き下ろし）</translation>
     </message>

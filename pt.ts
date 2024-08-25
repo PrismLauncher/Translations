@@ -10344,22 +10344,22 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
         <translation type="vanished">Personalizado</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="295"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Gato de fundo (do MultiMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (desenhado por Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (edição simples, desenhado por Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="300"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (desenhado por SympathyTea)</translation>
     </message>

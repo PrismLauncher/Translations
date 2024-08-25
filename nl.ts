@@ -10705,22 +10705,22 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
         <translation type="vanished">Aangepast</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="295"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Achtergrondkat (van MultiMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (getekend door Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (vlakke editie, getekend door Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="300"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (getekend door SympathyTea)</translation>
     </message>
