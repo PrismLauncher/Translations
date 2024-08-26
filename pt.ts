@@ -7078,7 +7078,7 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Baixando o Java</translation>
     </message>
 </context>
 <context>
