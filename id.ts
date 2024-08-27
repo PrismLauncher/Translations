@@ -4407,72 +4407,72 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
         <translation>Cari berkas Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="480"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="481"/>
         <source>Memory</source>
         <translation>Memori</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="481"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="482"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Jumlah maksimum memori (RAM) yang dapat digunakan oleh Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="482"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="483"/>
         <source>Minimum memory allocation:</source>
         <translation>Alokasi memori (RAM) minimum:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="483"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="484"/>
         <source>Maximum memory allocation:</source>
         <translation>Alokasi memori (RAM) maksimum:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="484"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="485"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Jumlah memori (RAM) yang digunakan untuk memulai Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="485"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="486"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Jumlah memori (RAM) yang tersedia untuk menyimpan kelas-kelas Java yang dimuat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="486"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="487"/>
         <source>Browse</source>
         <translation>Telusuri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="488"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="489"/>
         <source>Auto-download Mojang Java</source>
         <translation>Unduh Java Mojang secara otomatis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="490"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
         <source>Autodetect Java version</source>
         <translation>Deteksi otomatis versi Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="492"/>
         <source>Autodetect Java</source>
         <translation>Deteksi Java secara otomatis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="500"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="501"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Alokasi maksimum memori (RAM) Anda melebihi kapasitas memori sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="504"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Alokasi maksimal memori (RAM) Anda mendekati kapasitas memori sistem Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="506"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="507"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Alokasi memori (RAM) maksimum Anda lebih kecil dari nilai minimum</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="509"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="510"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation>Anda sedang melebihi alokasi maksimum yang didukung pemasangan 32-bit Java.</translation>
     </message>
@@ -10709,12 +10709,12 @@ Mohon perbarui %1!</translation>
 <context>
     <name>ResourceDownloadTask</name>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="43"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="45"/>
         <source>Resource download</source>
         <translation>Unduhan resource</translation>
     </message>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="44"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
         <translation>Mengunduh resource:

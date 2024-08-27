@@ -4572,72 +4572,72 @@ You can change the Java version in the settings later.
         <translation>Trouver l&apos;exécutable Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="480"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="481"/>
         <source>Memory</source>
         <translation>Mémoire</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="481"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="482"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>La quantité maximale de mémoire que Minecraft est autorisé à utiliser.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="482"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="483"/>
         <source>Minimum memory allocation:</source>
         <translation>Allocation minimale de mémoire&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="483"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="484"/>
         <source>Maximum memory allocation:</source>
         <translation>Allocation maximale de mémoire&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="484"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="485"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>La quantité de mémoire avec laquelle Minecraft démarre.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="485"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="486"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>La quantité de mémoire disponible pour stocker les classes Java chargées.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="486"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="487"/>
         <source>Browse</source>
         <translation>Parcourir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="488"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="489"/>
         <source>Auto-download Mojang Java</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="490"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
         <source>Autodetect Java version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="492"/>
         <source>Autodetect Java</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="500"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="501"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Votre allocation maximale de mémoire excède votre capacité de mémoire système.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="504"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>La quantité de mémoire que vous avez allouée est approche la quantité de mémoire que votre ordinateur possède.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="506"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="507"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>L&apos;allocation maximale de mémoire est inférieure à la valeur minimale</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="509"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="510"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11372,12 +11372,12 @@ Veuillez mettre à jour %1&#xa0;!</translation>
 <context>
     <name>ResourceDownloadTask</name>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="43"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="45"/>
         <source>Resource download</source>
         <translation>Téléchargement des ressources</translation>
     </message>
     <message>
-        <location filename="src/launcher/ResourceDownloadTask.cpp" line="44"/>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
         <translation>Téléchargement de la ressource&#xa0;:
