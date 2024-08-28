@@ -4582,7 +4582,7 @@ Vă rugăm să selectați una dintre următoarele instalări sau căutați un ex
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation>Folosește locale de sistem</translation>
+        <translation>Folosește setările locale ale sistemului</translation>
     </message>
 </context>
 <context>
@@ -7262,7 +7262,7 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Folositi Zink, un driver Mesa OpenGl care implementeaza OpenGl deasupra Vulkan-ului. Performanța poate varia in funcție de situatie. Notă: Dacă niciun driver Vulkan este găsit, redarea software-ului va fi folosit.&lt;p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Folosiți Zink, un driver Mesa OpenGl care implementează OpenGl deasupra API-ului Vulkan. Performanța poate varia în funcție de situație. Notă: Dacă nu se descoperă niciun driver Vulkan adecvat, redarea software-ului va fi folosită.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
