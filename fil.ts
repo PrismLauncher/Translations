@@ -7755,23 +7755,23 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="42"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hanapin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopyahin ang buong log papunta sa loob ng clipboard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;I-kopya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="94"/>
         <source>Clear the log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Burahin ang log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
@@ -7786,7 +7786,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I-upload</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
@@ -7801,7 +7801,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="123"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hanapin:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="139"/>
@@ -8963,7 +8963,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">h</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
@@ -8973,7 +8973,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
@@ -9825,7 +9825,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="61"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I-upload</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
