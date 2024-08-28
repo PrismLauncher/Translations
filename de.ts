@@ -5917,7 +5917,7 @@ Grund:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zip-Datei kann nicht entpackt werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -7395,7 +7395,7 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java wird heruntergeladen</translation>
     </message>
 </context>
 <context>
