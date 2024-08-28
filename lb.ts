@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebin-Service</translation>
+        <translation>&amp;Pastebin Service</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
@@ -23,12 +23,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Note: Du musst warscheinlech d&apos;Basis URL änneren oder löschen, nodeems du den Service Typ geännert huest.</translation>
+        <translation>Note: Du musst warscheinlech d&apos;Basis-URL änneren oder läschen, nodeems du de Service-Typ geännert huest.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>API Schlëssel</translation>
+        <translation>API-Schlëssel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
