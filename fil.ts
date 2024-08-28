@@ -545,12 +545,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation>&amp;Baguhin ang mga Skins</translation>
+        <translation>&amp;I-edit ang mga Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Baguhin ang mga Skins</translation>
+        <translation>I-edit ang mga Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -4432,7 +4432,7 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished">&amp;Mods:</translation>
+        <translation>&amp;Mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="133"/>
@@ -4468,12 +4468,12 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Noong huling binuksan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Base sa &amp;pangalan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
@@ -4488,22 +4488,22 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="66"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Interval ng pag-update</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>I-set ito sa 0 para i-check lang ng launch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="100"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mga Downloads:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="110"/>
@@ -4518,46 +4518,46 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="123"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mga Skins:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>I-disable ang pag-gamit ng metadata na binibigay ng mod providers (hal. Modrinth o CurseForge) para sa mga mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="242"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>I-disable ang paggamit ng metadata para sa mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Babala&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Ang pag-disable ng metadata ay magdidisable rin ng QOL features, tulad ng pag-update ng mods!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>I-disable ang awtomatikong detection, installation, at pag-update ng mod dependencies.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="269"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag gagawa ng bagong modpack instance, wag mag suggest na mag update ng mga existing instances.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>I-skip ang modpack update prompt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
@@ -4567,52 +4567,52 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero ng tasks na sabay-sabay</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="309"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero ng downloads na sabay-sabay</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="330"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilang segundong maghihintay bago i-terminate ang mga requests</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="333"/>
         <source>Timeout for HTTP requests</source>
-        <translation type="unfinished"></translation>
+        <translation>Timeout para sa HTTP requests</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="316"/>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero ng manual na retry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Pusa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="420"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-set ang opacity ng pusa. 0% ay lubos ang transparency at 100% ay hindi transparent.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="423"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacity</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="433"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
@@ -4622,18 +4622,18 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang menubar ay mas tugon sa pag-gamit ng keyboard.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;I-replace ang toolbar gamit ng menubar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="501"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
@@ -4644,7 +4644,7 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang console habang naglalaro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="520"/>
@@ -4656,19 +4656,19 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="527"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ipakita ang console pag nag-crash ang &amp;laro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="537"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;History limit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ihinto ang pag-log kapag umapaw ang log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="556"/>
@@ -4689,12 +4689,12 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="111"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinusubukan mong gumamit nang isang instance folder kung saan ang path ay naglalaman ng isang &apos;!&apos;. Ang Java ay nagdudulot ng mga problema kung iyon ang kaso at, ang iyong mga instance ay hindi magsisimula!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gusto mo ba talagang gamitin ang path na ito? Ang pagselect ng &quot;Hindi&quot; ay magsasara nito at hindi niya babaguhin ang iyong instance path.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
@@ -4706,72 +4706,75 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sinusubukan mong tukuyin ang isang instance folder na pansamantalang ibinigay ng Flatpak.
+Ito ay kilala na nagdudulot ng mga problema. Pagkatapos ng pag-restart, maaaring masira ang launcher, dahil wala na itong access sa direktoryong iyon.
+
+Inirerekomenda ang pagbibigay ng %1 ng access dito gamit ng Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gusto mo pa ba mag-proceed?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="146"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder ng Icons</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="157"/>
         <source>Mods Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder ng Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder ng Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder ng Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder ng Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] HaLaaaAaaaaaa!! May nangyari!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] Hala! May nangyari!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/WARN] Sana di naman magbago ang pagtingin~</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/DEBUG] Sikretong malupit, pwede pabulong? Mapapadebug ka nang napaka-lutong...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/FATAL] Ay! May fatal error!!!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/INFO] Mensahe lang po maamsir...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher</translation>
     </message>
 </context>
 <context>
@@ -4779,30 +4782,30 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="73"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makita ang Launcher library. Paki-check ng iyong installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makita ang Legacy launcher library. Paki-check ng iyong installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mahanap ang wrapper command na &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="164"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-start ang Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nag-crash ang laro.</translation>
     </message>
 </context>
 <context>
@@ -4825,17 +4828,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="128"/>
         <source>Public Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pampublikong Modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="130"/>
         <source>Third Party Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Third Party na Modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="132"/>
         <source>Private Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Private na Modpack</translation>
     </message>
 </context>
 <context>
@@ -4843,17 +4846,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
         <source>Public Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pampublikong mga pack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
         <source>Third Party Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Third Party na mga pack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="124"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-download ang ilang mga listahan ng packs: %1</translation>
     </message>
 </context>
 <context>
@@ -4861,17 +4864,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
         <source>Downloading zip for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dina-download ang zip para sa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Ine-extract ang modpack</translation>
+        <translation>Ine-extract ang modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
         <source>Failed to open modpack file %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabuksan ang modpack file na %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="135"/>
@@ -4882,12 +4885,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-move ang unzipped na Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Walang nahanap na install method!</translation>
     </message>
 </context>
 <context>
@@ -4904,27 +4907,27 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>Publiko</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="62"/>
         <source>3rd Party</source>
-        <translation type="unfinished"></translation>
+        <translation>3rd Party</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="89"/>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Pribado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="108"/>
         <source>Add pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-add ng pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
         <source>Remove selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggalin ang selected na pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
@@ -4949,33 +4952,34 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
         <source>FTB private packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Pribadong FTB pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-download ang pack information para sa code %1.
+Tatanggalin na ba ngayon?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Add FTB pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-dagdag ng FTB pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Enter pack code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-enter ng pack code:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Remove pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggalin ang pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigurado ka ba sa pag-tanggal ng pack %1?</translation>
     </message>
 </context>
 <context>
@@ -4984,17 +4988,17 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Dina-download ang kinakailangang library files...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga libraries para sa instance %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naka-specify ang Null jar sa metadata, Ina-abort na ngayon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -5003,7 +5007,11 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga artifacts na naka-mark na &apos;local&apos; ay nawawalan ng files:
+%1
+
+Kailangan mo i-add ang files, o tatanggalin ang mga packages na kinakailangan nila.
+Kailangan mo i-correct ng sarili ang problema.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
@@ -5015,7 +5023,9 @@ You&apos;ll have to correct this problem manually.</source>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nag-fail ang game update: Hindi makuha ang mga kinakailangang libraries.
+Reason:
+%1</translation>
     </message>
 </context>
 <context>
@@ -5024,12 +5034,13 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="44"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inu-update ang index para sa mod na:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid na metadata</translation>
     </message>
 </context>
 <context>
@@ -5037,68 +5048,68 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="60"/>
         <source>Keep updating</source>
-        <translation type="unfinished"></translation>
+        <translation>I-update pa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>I-wrap ang mga linya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang buong log papunta sa loob ng clipboard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;I-kopya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>I-upload ang log sa paste service na naka-configure sa preferences</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>I-upload</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Clear the log</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin ang log</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Burahin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="125"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanapin:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="132"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanapin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>I-scroll papunta sa pinaka-baba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinaka-baba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Log ng Minecraft</translation>
     </message>
 </context>
 <context>
@@ -5107,18 +5118,18 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="95"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nag-exit ang process na may code na %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="100"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nag-crash ang process.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="102"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nag-crash ang process na may exitcode na %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
@@ -5129,7 +5140,7 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
         <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi maka-start ang proseso.</translation>
     </message>
 </context>
 <context>
@@ -5144,27 +5155,27 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="470"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Nawawala ang folder</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="473"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi magawa ang file</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="481"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi magawa:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="502"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi mabasa at macompress ang %1</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="508"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagkaroon ng zip error</translation>
     </message>
 </context>
 <context>
@@ -5177,33 +5188,33 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
         <source>Failed to enumerate files in archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-enumerate ang files sa archive</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang weird naman na ine-extract natin ang archive na wala namang laman...</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="565"/>
         <source>Failed to seek to first file in zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-seek ang unang file sa loob ng zip</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="605"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang pagextract ng %1 ay kinansel, dahil nasa labas na siya ng target path na %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="611"/>
         <source>Failed to extract file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-extract ang file na %1 sa %2</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="625"/>
         <location filename="src/launcher/MMCZip.cpp" line="636"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Hindi ma-ayos ang permissions para sa %1</translation>
+        <translation>Hindi ma-ayos ang permissions para sa %1</translation>
     </message>
 </context>
 <context>
@@ -5211,22 +5222,22 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nag-lologin gamit ng Microsoft account(device code).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-awtorize ang device: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
         <source>Failed to retrieve device authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi makuha ang authorization ng device</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-awtorize ang device: nawawala ang mga kinakailangang fields</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
@@ -5236,12 +5247,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
         <source>Device Access failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-access ang device: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
         <source>Got</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakuha</translation>
     </message>
 </context>
 <context>
@@ -5249,7 +5260,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-add ng Microsoft Account</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
@@ -5264,22 +5275,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag sign-in gamit ng Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="162"/>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="273"/>
         <source>CODE</source>
-        <translation type="unfinished"></translation>
+        <translation>CODE</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="286"/>
         <source>Copy code to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyahin ang code patungo sa clipboard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="324"/>
@@ -5293,12 +5304,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="149"/>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-open ang %1 o i-scan ang QR at i-enter ang code na nasa taas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
         <source>Open %1 and enter the above code.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-open ang %1 at i-enter ang code na nasa taas.</translation>
     </message>
 </context>
 <context>
@@ -5306,32 +5317,32 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
         <source>Logging in with Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nag-lologin gamit ng Microsoft account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
-        <translation type="unfinished"></translation>
+        <translation>Nakuha </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
         <source>Microsoft user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang authentication ng Microsoft user.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi ma-refresh ang token.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang authentication ng Microsoft user - napaltan ang client identification.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabigo ang authentication ng Microsoft user - blanko ang refresh token.</translation>
     </message>
 </context>
 <context>
@@ -5347,22 +5358,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
         <source>Launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-launch ang instance na sinelekt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Main na Toolbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="295"/>
         <source>Add a new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-add ng bagong instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="579"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang central mods folder sa loob ng file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="205"/>
@@ -5372,22 +5383,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="405"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;I-edit...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="420"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="462"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>I-e&amp;xport...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="432"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>I-dele&amp;te</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
@@ -5397,7 +5408,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="719"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-open ang isang folder na nashashare sa maraming instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="322"/>
@@ -5407,17 +5418,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang bug tracker para mag-report ng bug gamit ng %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-open ang %1 subreddit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Magpakita ng impormasyon tungkol sa %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="728"/>
@@ -5427,27 +5438,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="731"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumuha ng tulong sa %1 o sa Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="307"/>
         <source>Check for new updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-check ng bagong updates para sa %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation type="unfinished"></translation>
+        <translation>Napaka-cute siya na kuting :3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbar ng Instances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
         <source>Change Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang Icon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
@@ -5462,73 +5473,73 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="292"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-add ng Instanc&amp;e...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga F&amp;older</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Status Bar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="319"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mga Setti&amp;ngs...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="552"/>
         <source>&amp;Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mga Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="555"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang instances folder sa isang file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>Launcher &amp;Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher &amp;Root</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="576"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Central na Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="588"/>
         <source>&amp;Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mga Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang skins folder sa isang file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="600"/>
         <source>Instance Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Instance Icon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="603"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang folder ng instance icons sa isang file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="612"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Logs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="615"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang logs folder sa isang file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="692"/>
@@ -5538,37 +5549,37 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="695"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>I-clear ang naka-cache na metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="761"/>
         <source>&amp;Widget Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mga Tema ng Widget</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="764"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang folder ng mga tema ng widgets sa isang file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="773"/>
         <source>I&amp;con Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema ng I&amp;con</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang folder ng mga tema ng icons sa isang file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="785"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga &quot;Cat Pack&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="788"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang folder ng mga &quot;cat packs&quot; sa isang file browser.</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -5577,77 +5588,77 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="653"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Matrix Space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="641"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discord Guild</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="665"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="677"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tungkol sa %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="304"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;I-update...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="334"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;I-manage ang mga account...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;File</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;View</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="210"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tulong</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="358"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patayin ang gumaganang instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="465"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-export ang instance sa mga suportadong pormat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="483"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="492"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="537"/>
@@ -5662,38 +5673,38 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang root folder ng launcher sa isang file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="629"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-report ng Bug o Mag-bigay ng suhestiyon ng Feature</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="656"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang %1 Matrix space.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="707"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag-install ng %1 symlink sa /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Help</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="752"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan ang %1 wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paltan ang icon ng i-sinelect na instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="370"/>
@@ -5703,7 +5714,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="373"/>
         <source>Rename the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paltan ang pangalan ng isinelect na instance.</translation>
     </message>
     <message>
         <source>Launch &amp;Offline</source>
@@ -5712,12 +5723,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="361"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="411"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
@@ -5727,17 +5738,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="253"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="453"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="740"/>
@@ -5752,12 +5763,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;I-undo ang huling pag-delete ng Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;I-edit</translation>
     </message>
     <message>
         <source>Launch &amp;Demo</source>
@@ -11051,7 +11062,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
         <source>Edit</source>
-        <translation>Baguhin</translation>
+        <translation>I-edit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
