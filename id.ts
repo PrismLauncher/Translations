@@ -6001,7 +6001,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>Saia Kucing imut UWU</translation>
+        <translation>Ihhh kucingg gemeshh cubit ah unyuu imut waaaaa, tembem banget ya ampunnn lucuuukk sumpahh :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
