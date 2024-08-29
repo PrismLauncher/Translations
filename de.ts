@@ -5203,12 +5203,12 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Number of concurrent tasks</source>
-        <translation>Anzahl konkurrierender Aufgaben</translation>
+        <translation>Anzahl gleichzeitiger Aufgaben</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="309"/>
         <source>Number of concurrent downloads</source>
-        <translation>Anzahl konkurrierender Downloads</translation>
+        <translation>Anzahl gleichzeitiger Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="330"/>
