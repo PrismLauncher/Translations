@@ -7412,7 +7412,7 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java wird heruntergeladen</translation>
+        <translation>Lade Java herunter</translation>
     </message>
 </context>
 <context>
