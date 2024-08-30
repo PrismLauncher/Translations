@@ -5505,7 +5505,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">אין אפשרות לפתוח את קובץ ה-zip שסופק.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -6720,7 +6720,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">מוריד Java</translation>
     </message>
 </context>
 <context>
