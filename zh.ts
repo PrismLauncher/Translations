@@ -421,7 +421,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>正在使用</translation>
+        <translation>处理中</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
@@ -1204,7 +1204,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="103"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>现有的元数据已过期或缺失用于判断需要使用哪个 Java 的信息。将使用默认 Java 路径。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="136"/>
@@ -1214,7 +1214,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="153"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到兼容的 Java 版本（可执行文件不存在）。将使用默认的 Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="175"/>
@@ -1224,12 +1224,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="210"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>在系统内找不到 Java：%1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="212"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到兼容的 Java 版本。将使用默认的 Java。</translation>
     </message>
 </context>
 <context>
@@ -1492,7 +1492,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>使用符号链接或硬链接而非复制文件</translation>
+        <translation>使用符号链接或硬链接而非复制文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
@@ -3443,7 +3443,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="58"/>
         <source>No java versions are currently available in the meta.</source>
-        <translation type="unfinished"></translation>
+        <translation>元数据中目前没有 Java 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
@@ -4093,7 +4093,9 @@ Proceed with caution!</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>您已选择一个 32 位版本的 Java。
+这种 Java 不支持分配大于 2048 MiB 的内存。
+请确认最大内存大小小于 2048 MiB。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="478"/>
@@ -4236,7 +4238,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="195"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">刷新(&amp;R)</translation>
+        <translation>刷新(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="212"/>
@@ -4246,17 +4248,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="276"/>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="278"/>
         <source>Adoptium</source>
-        <translation type="unfinished">Adoptium</translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="280"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished">Azul Zulu</translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
@@ -4340,7 +4342,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation>自动根据游戏版本所需的 Java 大版本号选择兼容的 Java 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
@@ -4386,7 +4388,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="384"/>
         <source>Refresh</source>
-        <translation type="unfinished">刷新</translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -4439,12 +4441,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed java versions are installed</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未安装任何受管理的 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed java list!</source>
-        <translation type="unfinished"></translation>
+        <translation>无法加载受管理的 Java 列表！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4461,7 +4463,9 @@ Please make sure that the maximum memory value is lower.</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>您已选择一个 32 位版本的 Java。
+这种 Java 不支持分配大于 2048 MiB 的内存。
+请确认最大内存大小小于 2048 MiB。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="175"/>
@@ -4486,13 +4490,14 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">确认删除</translation>
+        <translation>确认删除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>将要删除名为“%1”的 Java 版本。
+您确认要继续吗？</translation>
     </message>
 </context>
 <context>
@@ -4531,12 +4536,14 @@ You can change the Java version in the settings later.
         <source>%1 can automatically download the correct Java version for each version of Minecraft..
 Do you want to enable Java auto-download?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 支持自动下载对应 Minecraft 版本所需的 Java。
+您想要启动自动下载 Java 功能吗？
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="219"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>检测到 32 位 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="220"/>
@@ -4546,7 +4553,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>您目前设置了大于 2048 MiB 的最大分配内存数量，并且选择了使用 32 位 Java。
+如此情况下，%1 将无法启动 Minecraft。
+您确定要如此设置吗？
+
+您可以稍后修改使用的 Java 版本。
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="231"/>
@@ -4556,7 +4568,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>您未设置 Java 版本或您选择了无法使用的 Java 版本。
+如此情况下，%1 将无法启动 Minecraft。
+您确定要在没有可以正常运行的 Java 版本的情况下继续吗？
+
+您可以稍后在设置中修改使用的 Java 版本。
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="339"/>
@@ -4601,17 +4618,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="489"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">自动下载 Mojang Java</translation>
+        <translation>自动从 Mojang 下载 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished">自动检测 Java 版本</translation>
+        <translation>自动检测 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="492"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>自动检测 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="501"/>
@@ -4631,7 +4648,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="510"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>您的最大分配内存大小被设置为高于 32 位 Java 所支持的大小。</translation>
     </message>
 </context>
 <context>
@@ -5209,7 +5226,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>Java(&amp;J):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -5351,7 +5368,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
@@ -5361,27 +5378,27 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] 啊哈哈哈哈哈，出错咯！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] 出错了！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/WARN] 一条不是很配日子的警告消息。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/DEBUG] 这是一个隐藏的调试信息</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/FATAL] 哈人的严重性错误信息！</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -5889,7 +5906,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">无法打开提供的 zip 文件。</translation>
+        <translation>无法打开指定的 zip 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -6152,7 +6169,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="322"/>
         <source>Change settings.</source>
-        <translation>更改设置</translation>
+        <translation>更改设置。</translation>
     </message>
     <message>
         <source>Report a Bug</source>
@@ -6161,7 +6178,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation>打开漏洞追踪器来报告 %1 的漏洞</translation>
+        <translation>打开漏洞追踪器来报告 %1 的漏洞。</translation>
     </message>
     <message>
         <source>Matrix space</source>
@@ -6185,7 +6202,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
         <source>Open %1 subreddit.</source>
-        <translation>打开 %1 的 Reddit 子论坛</translation>
+        <translation>打开 %1 的 Reddit 子论坛。</translation>
     </message>
     <message>
         <source>About %1</source>
@@ -6194,7 +6211,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
         <source>View information about %1.</source>
-        <translation>查看关于 %1 的信息</translation>
+        <translation>查看关于 %1 的信息。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="728"/>
@@ -6204,7 +6221,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="731"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation>获取 %1 或 Minecraft 的帮助</translation>
+        <translation>获取 %1 或 Minecraft 的帮助。</translation>
     </message>
     <message>
         <source>Update</source>
@@ -6213,7 +6230,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="307"/>
         <source>Check for new updates for %1.</source>
-        <translation>检查 %1 的更新</translation>
+        <translation>检查 %1 的更新。</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -6236,17 +6253,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="241"/>
         <source>More news...</source>
-        <translation>更多新闻(&amp;N)</translation>
+        <translation>更多新闻...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="244"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>打开开发日志以阅读有关 %1 的更多新闻</translation>
+        <translation>打开开发日志以阅读有关 %1 的更多新闻。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="358"/>
         <source>Kill the running instance.</source>
-        <translation>强制退出运行中的实例</translation>
+        <translation>强制退出运行中的实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="405"/>
@@ -6282,7 +6299,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="504"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>在桌面上创建启动此实例的快捷方式</translation>
+        <translation>在桌面上创建启动此实例的快捷方式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -6379,7 +6396,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="555"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation>在文件管理器中打开实例文件夹</translation>
+        <translation>在文件管理器中打开实例文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
@@ -6399,7 +6416,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation>在文件浏览器中打开皮肤文件夹</translation>
+        <translation>在文件浏览器中打开皮肤文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="600"/>
@@ -6409,7 +6426,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="603"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation>在文件管理器中打开实例图标文件夹</translation>
+        <translation>在文件管理器中打开实例图标文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="612"/>
@@ -6419,7 +6436,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="615"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation>在文件管理器中打开实例日志文件夹</translation>
+        <translation>在文件管理器中打开实例日志文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="665"/>
@@ -6439,7 +6456,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="764"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation>在文件管理器中打开控件主题文件夹</translation>
+        <translation>在文件管理器中打开控件主题文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="773"/>
@@ -6449,7 +6466,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation>在文件管理器中打开图标主题文件夹</translation>
+        <translation>在文件管理器中打开图标主题文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="785"/>
@@ -6459,7 +6476,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="788"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation>在文件管理器中打开猫主题文件夹</translation>
+        <translation>在文件管理器中打开猫主题文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="304"/>
@@ -6513,7 +6530,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="465"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation>将选中实例导出为支持的格式</translation>
+        <translation>将选中实例导出为支持的格式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -6571,7 +6588,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="567"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>在文件管理器中打开启动器的根目录</translation>
+        <translation>在文件管理器中打开启动器的根目录。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="629"/>
@@ -6581,7 +6598,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="656"/>
         <source>Open %1 Matrix space.</source>
-        <translation>打开 %1 Matrix 空间</translation>
+        <translation>打开 %1 Matrix 空间。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="707"/>
@@ -6606,7 +6623,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation>更改选中实例的图标</translation>
+        <translation>更改选中实例的图标。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="370"/>
@@ -6616,7 +6633,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="373"/>
         <source>Rename the selected instance.</source>
-        <translation>重命名选中实例</translation>
+        <translation>重命名选中实例。</translation>
     </message>
     <message>
         <source>Launch &amp;Offline</source>
@@ -6727,7 +6744,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="408"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>修改实例的设置、Mod 和版本</translation>
+        <translation>修改实例的设置、Mod 和版本。</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -7368,7 +7385,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">正在下载Java</translation>
+        <translation>正在下载 Java</translation>
     </message>
 </context>
 <context>
@@ -8308,8 +8325,8 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>在游戏运行时更新 Mod，可能会导致 Mod 重复或游戏崩溃。
-由于游戏正在使用旧版本的 Mod，他们可能不会被删除。
+        <translation>在游戏运行时更新 Mod 可能会导致 Mod 重复或游戏崩溃。
+正在被游戏使用中的旧版本 Mod 文件可能不会被删除。
 您确定吗？</translation>
     </message>
     <message>
@@ -13099,7 +13116,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置的最大分配内存大小超过支持的值。
+目前正在使用的是不支持分配多于 2048 MiB 的 32 位 Java。
+如此设置可能导致实例启动失败。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -13664,12 +13683,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 名称</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>大版本号</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
@@ -13709,12 +13728,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 版本别名</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The java major version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 的大版本号</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
