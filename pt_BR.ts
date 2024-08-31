@@ -185,7 +185,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
         <source>No loader version set for modpack!</source>
-        <translation>Sem versão do carregador definida para o modpack!</translation>
+        <translation>Nenhuma versão do carregador definida para modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
@@ -2702,7 +2702,7 @@ Por favor, tente de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Sem versão válida achada para este mod. Provavelmente está indisponível para a versão atual do jogo/carregador de mods.</translation>
+        <translation>Nenhuma versão válida encontrada para este mod. Provavelmente não está disponível para a versão atual do jogo/carregador de mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="151"/>
@@ -3908,7 +3908,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="399"/>
         <source>Quit the launcher after game window closes</source>
-        <translation>Fechar o launcher após a janela do jogo fechar</translation>
+        <translation>Saia do launcher após a janela do jogo fechar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="423"/>
@@ -4361,7 +4361,7 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
-        <translation>Detecção automática da versão Java</translation>
+        <translation>Seleção automática da versão Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
@@ -4377,7 +4377,7 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
-        <translation>Auto-baixar Mojang Java</translation>
+        <translation>Baixar automaticamente o Java recomendado pela Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
@@ -4632,12 +4632,12 @@ Você pode alterar a versão do Java nas configurações posteriormente.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="489"/>
         <source>Auto-download Mojang Java</source>
-        <translation>Auto-baixar Mojang Java</translation>
+        <translation>Baixar automaticamente o Java recomendado pela Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
         <source>Autodetect Java version</source>
-        <translation>Detecção automática da versão Java</translation>
+        <translation>Seleção automática da versão Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="492"/>
@@ -7752,7 +7752,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="173"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>&amp;Sair do launcher após a janela do jogo fechar</translation>
+        <translation>&amp;Saia do launcher após a janela do jogo fechar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="58"/>
@@ -8810,7 +8810,7 @@ Por favor, atualize o %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Sem versão válida achada para este mod. Provavelmente está indisponível para a versão atual do jogo/carregador de mods.</translation>
+        <translation>Nenhuma versão válida encontrada para este mod. Provavelmente não está disponível para a versão atual do jogo/carregador de mod.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -13187,7 +13187,7 @@ Por favor, troque para uma das seguintes versões do Java para esta instância:<
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation>Sem versão disponível atualmente.</translation>
+        <translation>Nenhuma versão está disponível no momento.</translation>
     </message>
 </context>
 <context>
@@ -13590,7 +13590,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="380"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation>Sem versão de mapping intermediário disponível atualmente.</translation>
+        <translation>Nenhuma versão de mappings intermediários está disponível atualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
