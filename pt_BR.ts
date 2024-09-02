@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Serviço Pastebin</translation>
+        <translation>Serviço &amp;Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -104,7 +104,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Servidor de Meta&amp;data</translation>
+        <translation>Servidor de Meta&amp;dados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -558,13 +558,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>&amp;Definir conta padrão</translation>
+        <translation>Definir como Padrão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Sem padrão</translation>
+        <translation>Sem padrão</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -583,7 +583,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation>&amp;Gerenciar skins</translation>
+        <translation>Gerenciar skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
@@ -594,19 +594,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;Adicionar Microsoft</translation>
+        <translation>&amp;Adicionar conta Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Adicionar &amp;Offline</translation>
+        <translation>Adicionar conta &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>&amp;Atualizar</translation>
+        <translation>Atualiza&amp;r</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
@@ -1259,7 +1259,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Achado no %1 &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Encontrado em %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
@@ -1633,25 +1633,25 @@ Algumas versões do Minecraft podem não iniciar.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation>Comandos &amp;customizados</translation>
+        <translation>&amp;Comandos Personalizados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Comando após a &amp;saída:</translation>
+        <translation>C&amp;omando pós-saída:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Comando de &amp;pré-inicialização:</translation>
+        <translation>Comando de &amp;Pré-lançamento:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Comando do &amp;wrapper:</translation>
+        <translation>Comando de &amp;Wrapper:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -1883,7 +1883,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation>&amp;Variável de ambiente</translation>
+        <translation>Variáv&amp;eis de ambiente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1908,7 +1908,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation>&amp;Limpar</translation>
+        <translation>Limpar</translation>
     </message>
 </context>
 <context>
@@ -2050,7 +2050,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
         <source>&amp;Files</source>
-        <translation>&amp;Arquivos</translation>
+        <translation>Arquivos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
@@ -2264,7 +2264,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>&amp;Enable</source>
-        <translation>&amp;Habilitar</translation>
+        <translation>Habilitar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="117"/>
@@ -2284,7 +2284,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>View &amp;Configs</source>
-        <translation>Ver &amp;configurações</translation>
+        <translation>Visualizar &amp;Configurações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2294,12 +2294,12 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="138"/>
         <source>View &amp;Folder</source>
-        <translation>Abrir &amp;pasta</translation>
+        <translation>Visualizar Pasta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="146"/>
         <source>&amp;Download</source>
-        <translation>&amp;Download</translation>
+        <translation>Baixar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
@@ -2309,7 +2309,7 @@ Algumas versões do Minecraft podem não iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Check for &amp;Updates</source>
-        <translation>Verifique se há &amp;atualizações</translation>
+        <translation>Verifique se há at&amp;ualizações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2444,7 +2444,7 @@ Você tem certeza de que quer fazer isso?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation>Editor de &amp;texto:</translation>
+        <translation>Editor de &amp;Texto:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="54"/>
@@ -3490,7 +3490,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="100"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Atualizar</translation>
+        <translation>Atualiza&amp;r</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
@@ -3799,7 +3799,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
         <source>Memor&amp;y</source>
-        <translation>&amp;Memória</translation>
+        <translation>Memória</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
@@ -3849,7 +3849,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="244"/>
         <source>Java argumen&amp;ts</source>
-        <translation>Argumen&amp;tos do Java</translation>
+        <translation>Argumen&amp;tos Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="263"/>
@@ -4177,12 +4177,12 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Iniciar</translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Encerrar</translation>
+        <translation>Encerrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
@@ -4252,7 +4252,7 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="195"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Atualizar</translation>
+        <translation>Atualiza&amp;r</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="212"/>
@@ -4434,7 +4434,7 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Pular configuração do Java</translation>
+        <translation>Pular Assistente de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
@@ -4445,7 +4445,7 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>&amp;Pular verificação de compatibilidade do Java</translation>
+        <translation>Pular verificação de compatibilidade do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -4879,7 +4879,7 @@ Você gostaria de jogar o demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="392"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Iniciar</translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -5013,7 +5013,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>&amp;Mods:</source>
-        <translation>Mods:</translation>
+        <translation>&amp;Mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="133"/>
@@ -5038,7 +5038,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>Por ú&amp;ltimo uso</translation>
+        <translation>Por último lançado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
@@ -5276,7 +5276,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>&amp;Substituir barra de menu por barra de ferramentas</translation>
+        <translation>Substitua a ba&amp;rra de ferramentas pela barra de menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="501"/>
@@ -5292,7 +5292,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Mostrar console enquanto o jogo estiver &amp;rodando</translation>
+        <translation>Mostra&amp;r console enquanto o jogo está em execução</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="520"/>
