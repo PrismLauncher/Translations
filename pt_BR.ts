@@ -3291,7 +3291,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
         <source>Pick icon</source>
-        <translation>mudar ícone</translation>
+        <translation>Mudar o ícone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="63"/>
@@ -5038,7 +5038,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>Por último lançado</translation>
+        <translation>Por último jogado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
@@ -5316,7 +5316,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>&amp;Interromper o registro ao exceder o máximo de linhas</translation>
+        <translation>Interromper o regi&amp;stro ao exceder o máximo de linhas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="556"/>
@@ -6257,7 +6257,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>Um gatinho fofinho :3</translation>
+        <translation>É um gatinho fofinho :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -6291,7 +6291,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="420"/>
         <source>&amp;Folder</source>
-        <translation>&amp;Pasta</translation>
+        <translation>Pasta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="462"/>
@@ -6306,7 +6306,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="447"/>
         <source>Cop&amp;y...</source>
-        <translation>&amp;Copiar...</translation>
+        <translation>Copiar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="501"/>
@@ -6327,38 +6327,38 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
         <source>Change Icon</source>
-        <translation>mudar ícone</translation>
+        <translation>Alterar ícone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Encerrar</translation>
+        <translation>Encerrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="343"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Iniciar</translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="292"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>&amp;Adicionar instância...</translation>
+        <translation>Adicionar instância...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
         <source>F&amp;olders</source>
-        <translation>&amp;Pastas</translation>
+        <translation>Pastas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="319"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>&amp;Configurações...</translation>
+        <translation>Co&amp;nfigurações...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>&amp;Reverter exclusão da última instância</translation>
+        <translation>Reverter exclusão da &amp;última instância</translation>
     </message>
     <message>
         <source>View &amp;Instance Folder</source>
@@ -6424,7 +6424,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="576"/>
         <source>&amp;Central Mods</source>
-        <translation>&amp;Mods Centrais</translation>
+        <translation>Mods &amp;Centrais</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="588"/>
@@ -6464,12 +6464,12 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="677"/>
         <source>&amp;About %1</source>
-        <translation>&amp;Sobre %1</translation>
+        <translation>Sobre %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="761"/>
         <source>&amp;Widget Themes</source>
-        <translation>&amp;Temas de Widgets</translation>
+        <translation>Temas de &amp;Widgets</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="764"/>
@@ -6509,7 +6509,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="334"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>&amp;Gerenciar contas...</translation>
+        <translation>Gerenciar contas...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
@@ -6524,7 +6524,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation>Arqui&amp;vo</translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
@@ -6543,7 +6543,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="210"/>
         <source>&amp;Help</source>
-        <translation>A&amp;juda</translation>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="465"/>
@@ -6572,7 +6572,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="537"/>
         <source>Close &amp;Window</source>
-        <translation>Fechar &amp;Janela</translation>
+        <translation>Fechar Janela</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
@@ -6627,7 +6627,7 @@ Razão:
         <location filename="src/launcher/ui/MainWindow.ui" line="749"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>Aj&amp;uda do %1</translation>
+        <translation>Ajuda do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="752"/>
@@ -6698,7 +6698,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
         <source>&amp;Change Group...</source>
-        <translation>&amp;Mudar grupo...</translation>
+        <translation>Alterar grupo...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
@@ -6891,7 +6891,7 @@ Razão:
         <location filename="src/launcher/ui/MainWindow.cpp" line="547"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation>&amp;Excluir grupo</translation>
+        <translation>Excluir grupo</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -7274,7 +7274,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="205"/>
         <source>&amp;Accounts</source>
-        <translation>&amp;Contas</translation>
+        <translation>Cont&amp;as</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="740"/>
@@ -7469,7 +7469,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="249"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Iniciar</translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="251"/>
@@ -7499,7 +7499,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="272"/>
         <source>&amp;No Profiler</source>
-        <translation>&amp;Sem Perfilador</translation>
+        <translation>Sem Perfilador</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="929"/>
@@ -7579,13 +7579,13 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>&amp;Altura da janela:</translation>
+        <translation>Altura da janela:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>&amp;Largura da janela:</translation>
+        <translation>Largura da janela:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="197"/>
@@ -7640,7 +7640,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Usar instalação do &amp;OpenAL do sistema</translation>
+        <translation>Usar instalação de &amp;OpenAL do sistema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="252"/>
@@ -7706,13 +7706,13 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Mostrar tempo de &amp;jogo das instâncias</translation>
+        <translation>Mostrar tem&amp;po de jogo das instâncias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Mostrar tempo de jogo entre &amp;todas as instâncias</translation>
+        <translation>Mostrar tempo de jogo entre todas &amp;as instâncias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="137"/>
@@ -7740,7 +7740,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="163"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Fechar o launcher após a tela do jogo abrir</translation>
+        <translation>Fe&amp;char o launcher após a tela do jogo abrir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
@@ -7752,7 +7752,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="173"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>&amp;Saia do launcher após a janela do jogo fechar</translation>
+        <translation>Saia do launcher após a janela do jogo fechar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="58"/>
@@ -10365,7 +10365,7 @@ Escolha o seu nome com cuidado:</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation>&amp;Endereço e porta</translation>
+        <translation>Endereço e port&amp;a</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -10382,7 +10382,7 @@ Escolha o seu nome com cuidado:</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation>&amp;Senha:</translation>
+        <translation>Senha:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
@@ -12097,7 +12097,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation>&lt; &amp;Voltar</translation>
+        <translation>&lt; Voltar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
@@ -12256,7 +12256,7 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="170"/>
         <source>&amp;Delete Skin</source>
-        <translation>&amp;Excluir skin</translation>
+        <translation>Excluir skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
@@ -13810,7 +13810,7 @@ Por favor, adicione a sua conta do Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="97"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Atualizar</translation>
+        <translation>Atualiza&amp;r</translation>
     </message>
 </context>
 <context>
