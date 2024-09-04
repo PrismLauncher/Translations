@@ -1203,7 +1203,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished">Votre système (%1-%2) n&apos;est pas compatible avec l&apos;installation automatique de Java. Le chemin par défaut  de Java sera utilisé.</translation>
+        <translation>Votre système (%1-%2) n&apos;est pas compatible avec l&apos;installation automatique de Java. Le chemin par défaut de Java sera utilisé.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="103"/>
@@ -1213,7 +1213,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="136"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished">Java compatible trouvé: %1.</translation>
+        <translation>Java compatible trouvé&#x202f;: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="153"/>
