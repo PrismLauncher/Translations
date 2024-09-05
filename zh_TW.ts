@@ -47,7 +47,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>註：若透過 Microsoft 驗證登入的功能已經可以正常運作，您可能就不需要設定此選項。</translation>
+        <translation>注意：如果透過 Microsoft 驗證登入已經可以正常運作，則可能不需要設定這項選項。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -59,7 +59,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>在這裡輸入自訂用戶端 ID 以通過 Microsoft 驗證。</translation>
+        <translation>在這裡輸入用於 Microsoft 驗證的自訂用戶端 ID。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -70,12 +70,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：您僅需設定此項以存取私人資料。請閱讀&lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;說明文件&lt;/a&gt;以取得更多資訊。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：您只需要設定這項選項即可存取私人資料。請閱讀&lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;說明文件&lt;/a&gt;以取得更多資訊。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>在這裡輸入自訂 Modrinth API 金鑰。</translation>
+        <translation>在這裡輸入用於 Modrinth 的自訂 API 權杖。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -110,7 +110,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>您可以將此選項設為第三方後設資料伺服器以使用修補過的函式庫或其他修改。</translation>
+        <translation>您可以將這項選項設為第三方中繼資料伺服器，以使用修補過的程式庫或其他修改。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -125,7 +125,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>註：若 CurseForge 功能已經可以正常運作，您可能就不需要設定此選項。</translation>
+        <translation>注意：如果 CurseForge 已經可以正常運作，您可能不需要設定這項選項。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
@@ -627,7 +627,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>歡迎！
-如果你第一次來這裡，你可以點選「新增微軟帳號」按鈕來連結你的 Microsoft 帳號。</translation>
+如果您第一次來這裡，您可以點選「新增微軟帳號」按鈕來連結您的 Microsoft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -703,7 +703,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation>你確定要移除這個帳號嗎？</translation>
+        <translation>您確定要移除這個帳號嗎？</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -843,7 +843,7 @@ for details.</oldsource>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation>你的 /tmp 目錄現在被以 noexec 的狀態掛載。
+        <translation>您的 /tmp 目錄現在被以 noexec 的狀態掛載。
 某些 Minecraft 版本可能無法啟動。
 </translation>
     </message>
@@ -860,7 +860,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1775"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>已找到來自 %1 的舊資料，但你已有 %2 的現有資料。遺憾的是，您將需要自己遷移。下次啟動 %2 時是否要提醒資料遷移？</translation>
+        <translation>已找到來自 %1 的舊資料，但您已有 %2 的現有資料。遺憾的是，您將需要自己遷移。下次啟動 %2 時是否要提醒資料遷移？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1779"/>
@@ -1281,7 +1281,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您設定的全域模組資料夾和預設下載資料夾會自動檢查下載的模組，如果找到它們將被複製到實例。&lt;/p&gt;&lt;p&gt;您可以選擇如果你沒有將模組下載到預設位置，可以將下載的模組拖移到此對話框或新增一個資料夾查看。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您設定的全域模組資料夾和預設下載資料夾會自動檢查下載的模組，如果找到它們將被複製到實例。&lt;/p&gt;&lt;p&gt;您可以選擇如果您沒有將模組下載到預設位置，可以將下載的模組拖移到此對話框或新增一個資料夾查看。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1849,7 +1849,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation>正在檢查你是否購買了遊戲。</translation>
+        <translation>正在檢查您是否購買了遊戲。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
@@ -2349,7 +2349,7 @@ Are you sure?</source>
         <translation>您將要刪除 %1 個項目。
 這可能是永久性的，它們將從資料夾中消失。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="237"/>
@@ -2360,7 +2360,7 @@ Are you sure?</source>
         <translation>您將要刪除資料夾「%1」。
 這可能是永久性的，它將從父資料夾中消失。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="244"/>
@@ -2619,7 +2619,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>註：如果你的 FTB 實例不在預設位置，請使用旁邊的按鈕來搜尋並選擇它。</translation>
+        <translation>註：如果您的 FTB 實例不在預設位置，請使用旁邊的按鈕來搜尋並選擇它。</translation>
     </message>
 </context>
 <context>
@@ -2742,7 +2742,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="242"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些檔案的重複。你想繼續嗎？</translation>
+        <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些檔案的重複。您想繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="266"/>
@@ -4240,17 +4240,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="276"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="278"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="280"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
@@ -4266,7 +4266,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="313"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
         <source>Error</source>
-        <translation type="unfinished">錯誤</translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
@@ -4407,7 +4407,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>啟用該選項後，啟動器將不會在找不到你所選擇的 Java 版本時提醒您。</translation>
+        <translation>啟用該選項後，啟動器將不會在找不到您所選擇的 Java 版本時提醒您。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
@@ -4489,7 +4489,7 @@ Please make sure that the maximum memory value is lower.</source>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
         <translation>您即將刪除名為&quot;%1&quot;的 Java 安裝。
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
 </context>
 <context>
@@ -4528,12 +4528,14 @@ You can change the Java version in the settings later.
         <source>%1 can automatically download the correct Java version for each version of Minecraft..
 Do you want to enable Java auto-download?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 可以自動下載每個 Minecraft 版本的正確 Java 版本。
+您要啟用 Java 自動下載嗎？
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="219"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>偵測到 32 位元 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="220"/>
@@ -4543,7 +4545,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>您選擇了 32 位元的 Java 安裝，但分配了超過 2048MiB 的最大記憶體。
+%1 將無法啟動 Minecraft。
+您要繼續嗎？
+
+您稍後可以在設定中變更 Java 版本。
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="231"/>
@@ -4553,7 +4560,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>您未選擇 Java 版本，或選擇的版本無法運作。
+%1 將無法啟動 Minecraft。
+您要在沒有可運作的 Java 版本的情況下繼續嗎？
+
+您稍後可以在設定中變更 Java 版本。
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="339"/>
@@ -4598,17 +4610,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="489"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">自動下載 Mojang Java</translation>
+        <translation>自動下載 Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished">Autodetect Java 版本</translation>
+        <translation>自動偵測 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="492"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>自動偵測 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="501"/>
@@ -4628,7 +4640,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="510"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>您超過了 32 位元 Java 安裝所支援的最大分配量。</translation>
     </message>
 </context>
 <context>
@@ -4737,12 +4749,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="151"/>
         <source>Choose your offline mode player name.</source>
-        <translation>選擇你在離線模式的玩家名稱。</translation>
+        <translation>選擇您在離線模式的玩家名稱。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="153"/>
         <source>Choose your demo mode player name.</source>
-        <translation>選擇你的試玩模式玩家名稱。</translation>
+        <translation>選擇您的試玩模式玩家名稱。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="252"/>
@@ -4761,9 +4773,9 @@ You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
         <translation>此帳號尚未擁有 Minecraft。
-你需要先購入遊戲才能繼續遊玩。
+您需要先購入遊戲才能繼續遊玩。
 
-你想要先遊玩試玩版嗎？</translation>
+您想要先遊玩試玩版嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="140"/>
@@ -5206,7 +5218,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>Java (&amp;J)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -5320,7 +5332,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>你正在嘗試指定一個透過 Flatpak 臨時授予的實例資料夾。
+        <translation>您正在嘗試指定一個透過 Flatpak 臨時授予的實例資料夾。
 這可能會在重啟啟動器後造成問題，因為它將不再擁有該目錄的存取權。
 
 建議透過 Flatseal 授予 %1 存取權。</translation>
@@ -5328,7 +5340,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
         <source>Do you want to proceed anyway?</source>
-        <translation>你還是想要繼續嗎？</translation>
+        <translation>您還是想要繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="146"/>
@@ -5348,7 +5360,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
@@ -5358,27 +5370,27 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[測試/錯誤] 喔喔喔喔喔喔！一個可怕的錯誤！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[測試/錯誤] 一個可怕的錯誤！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[測試/警告] 一個不那麼可怕的警告。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[測試/除錯] 一個秘密的除錯訊息...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[測試/嚴重錯誤] 一個可怕的嚴重錯誤！</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -5417,7 +5429,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>找不到舊版啟動器函式庫。請檢查你的安裝。</translation>
+        <translation>找不到舊版啟動器函式庫。請檢查您的安裝。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
@@ -5886,7 +5898,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">無法開啟指定的 zip 檔案。</translation>
+        <translation>無法開啟指定的 zip 檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -7040,7 +7052,7 @@ Are you sure?</oldsource>
         <translation>您將要刪除「%1」。
 這可能是永久性的，並且會完全刪除該實例。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <source>About to delete: %1
@@ -7085,7 +7097,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>已在你的桌面上建立了此實例的捷徑！</translation>
+        <translation>已在您的桌面上建立了此實例的捷徑！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
@@ -7113,7 +7125,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1148"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>你確定要刪除群組「%1」嗎？</translation>
+        <translation>您確定要刪除群組「%1」嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1158"/>
@@ -7162,7 +7174,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Not supported on your platform!</source>
-        <translation>你的平台目前不受支援！</translation>
+        <translation>您的平台目前不受支援！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
@@ -7177,12 +7189,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1718"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>你的實例資料夾名稱中包含了「!」，這會導致 Java 出現問題！</translation>
+        <translation>您的實例資料夾名稱中包含了「!」，這會導致 Java 出現問題！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>你現在有兩個選項： &lt;br/&gt; - 在設定中變更實例資料夾 &lt;br/&gt; - 移動這個安裝檔 %1 至不同的資料夾</translation>
+        <translation>您現在有兩個選項： &lt;br/&gt; - 在設定中變更實例資料夾 &lt;br/&gt; - 移動這個安裝檔 %1 至不同的資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
@@ -7192,12 +7204,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1733"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>你的實例資料夾名稱中包含了「Rar$」，這代表著你還尚未將啟動器檔案解壓縮！</translation>
+        <translation>您的實例資料夾名稱中包含了「Rar$」，這代表著您還尚未將啟動器檔案解壓縮！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1739"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>你的實例資料夾還位於臨時資料夾：「%1」中！</translation>
+        <translation>您的實例資料夾還位於臨時資料夾：「%1」中！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1753"/>
@@ -7356,7 +7368,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">正在下載 Java</translation>
+        <translation>正在下載 Java</translation>
     </message>
 </context>
 <context>
@@ -7720,7 +7732,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>在你的系統上找不到 Feral Interactive&apos;s GameMode。</translation>
+        <translation>在您的系統上找不到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
@@ -8325,7 +8337,7 @@ Are you sure you want to do this?</oldsource>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>您將要移除 %1 模組的後設資料。
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="282"/>
@@ -8498,7 +8510,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>無法為下列模組產生後設資料：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
+        <translation>無法為下列模組產生後設資料：&lt;br&gt;您想在不包含這些模組的情況下繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="92"/>
@@ -8584,7 +8596,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>無法檢查或取得下列模組更新：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
+        <translation>無法檢查或取得下列模組更新：&lt;br&gt;您想在不包含這些模組的情況下繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="264"/>
@@ -8821,7 +8833,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="143"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些檔案的重複。你想繼續嗎？</translation>
+        <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些檔案的重複。您想繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="187"/>
@@ -9445,7 +9457,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="153"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation>檔案（%1）太大了。你可能會想用適合大型檔案的檢視器開啟它。</translation>
+        <translation>檔案（%1）太大了。您可能會想用適合大型檔案的檢視器開啟它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
@@ -9466,7 +9478,7 @@ Are you sure?</source>
         <translation>您將要刪除「%1」。
 這可能是永久性的，它將從記錄檔資料夾中消失。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
@@ -9598,7 +9610,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>預設貼上服務已變更為 mclo.gs，請選擇你要對設定執行的操作。</translation>
+        <translation>預設貼上服務已變更為 mclo.gs，請選擇您要對設定執行的操作。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -9714,7 +9726,7 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation>你正在執行最新版本。</translation>
+        <translation>您正在執行最新版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
@@ -10199,7 +10211,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 Choose your name carefully:</source>
         <translation>只要再一步就可以用這個帳號玩 Minecraft 了。
 
-謹慎選擇你的名字：</translation>
+謹慎選擇您的名字：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="121"/>
@@ -10366,7 +10378,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation>小工具樣式嘗試模仿你的 win32 主題</translation>
+        <translation>小工具樣式嘗試模仿您的 win32 主題</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
@@ -10458,7 +10470,7 @@ Are you sure?</source>
         <translation>您將要把「%1」上傳至 %2。
 您應該再次檢查個人資訊。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="85"/>
@@ -10806,7 +10818,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation>該實例的名稱包含舊版本。你想更新它嗎？
+        <translation>該實例的名稱包含舊版本。您想更新它嗎？
 
 舊名稱：%1
 新名稱：%2</translation>
@@ -10821,9 +10833,9 @@ New name: %2</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>你的一個或多個實例都來自這個相同的%1模組包。你想建立一個單獨的實例，還是更新現有的實例？
+        <translation>您的一個或多個實例都來自這個相同的%1模組包。您想建立一個單獨的實例，還是更新現有的實例？
 
-注意：在更新之前，請確保你對你的重要實例資料進行了備份，因為世界可能會被損壞並且一些設定可能會遺失（由於模組包的覆蓋）。</translation>
+注意：在更新之前，請確保您對您的重要實例資料進行了備份，因為世界可能會被損壞並且一些設定可能會遺失（由於模組包的覆蓋）。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
@@ -11089,8 +11101,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation>你有 %1 個已選取的資源。
-你確定要關閉這個對話方塊嗎？</translation>
+        <translation>您有 %1 個已選取的資源。
+您確定要關閉這個對話方塊嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
@@ -11760,7 +11772,7 @@ Are you sure?</source>
         <translation>您將要把 %1 個螢幕擷取畫面上傳至 %2。
 您應該再次檢查個人資訊。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
@@ -11771,7 +11783,7 @@ Are you sure?</source>
         <translation>您將要把選取的螢幕擷取畫面上傳至 %1。
 您應該再次檢查個人資訊。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
@@ -11827,7 +11839,7 @@ Are you sure?</source>
         <translation>您將要刪除 %1 螢幕擷取畫面？
 這可能是永久性的，它們將從資料夾中消失。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="509"/>
@@ -11835,10 +11847,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation>你正在刪除已選取的螢幕擷取畫面。
+        <translation>您正在刪除已選取的螢幕擷取畫面。
 這可能將它從資料夾永遠刪除。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="515"/>
@@ -12020,7 +12032,7 @@ Are you sure?</source>
         <translation>您將要刪除「%1」。
 這可能是永久性的，伺服器將永遠（非常久）從您的清單中消失。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
 </context>
 <context>
@@ -12293,8 +12305,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="328"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation>你即將刪除「%1」。
-你確定嗎？</translation>
+        <translation>您即將刪除「%1」。
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="345"/>
@@ -12925,7 +12937,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation>版本 %1 現在可用，現在版本為 %2。你現在想要下載它嗎？</translation>
+        <translation>版本 %1 現在可用，現在版本為 %2。您現在想要下載它嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
@@ -13091,7 +13103,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>最大記憶體分配超過支援的值。
+所選的 Java 安裝為 32 位元，不支援超過 2048MiB 的 RAM。
+實例可能因此而無法啟動。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -13113,7 +13127,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>如果你知道自己在做什麼，請到實例設定頁面的 Java 設定以變更您的 Java 版本或略過 Java 相容性檢查。</translation>
+        <translation>如果您知道自己在做什麼，請到實例設定頁面的 Java 設定以變更您的 Java 版本或略過 Java 相容性檢查。</translation>
     </message>
 </context>
 <context>
@@ -13447,7 +13461,7 @@ Are you sure?</source>
         <translation>您將要刪除「%1」。
 這可能是永久性的，並且會完全刪除該自訂元件。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
@@ -13537,8 +13551,8 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation>除非你至少新增了一個帳號，否則將無法下載 Minecraft 或更新實例。
-請登入你的 Microsoft 帳號。</translation>
+        <translation>除非您至少新增了一個帳號，否則將無法下載 Minecraft 或更新實例。
+請登入您的 Microsoft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
@@ -13554,7 +13568,7 @@ Are you sure?</source>
         <translation>您將要還原「%1」。
 這可能是永久性的，將完全還原該自訂設定。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -13656,12 +13670,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 名稱</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>主要版本</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
@@ -13701,12 +13715,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 版本的替代名稱</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The java major version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java 主要版本</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
@@ -14008,7 +14022,7 @@ It may be necessary to reinstall it.</source>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>當 Minecraft 正在執行時變更一個世界具有潛在的風險。
-你還要繼續嗎？</translation>
+您還要繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
@@ -14024,7 +14038,7 @@ Are you sure?</source>
         <translation>您將要刪除「%1」。
 世界可能將永久刪除（非常久）。
 
-你確定嗎？</translation>
+您確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
