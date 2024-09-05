@@ -85,7 +85,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
         <source>Miscellaneous</source>
-        <translation>เบ็ดเตล็ด</translation>
+        <translation>อื่นๆ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="320"/>
@@ -872,18 +872,18 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังดาวน์โหลดจาวา</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">กำลังแยก Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">กำลังแยก Java (ความคืบหน้าจะไม่รายงานสำหรับไฟล์ tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
@@ -894,7 +894,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ไม่สามารถแยกไฟล์ tar ที่ให้มาได้</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
@@ -909,7 +909,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ไม่สามารถระบุประเภทของไฟล์ได้!</translation>
     </message>
 </context>
 <context>
@@ -1162,12 +1162,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="78"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">กลไกอัตโนมัติของ Java ตรวจพบการติดตั้ง Java แบบ 32 บิต</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="84"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ไม่พบเวอร์ชัน Java ที่เข้ากันได้ จะใช้เวอร์ชันเริ่มต้นแทน</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
