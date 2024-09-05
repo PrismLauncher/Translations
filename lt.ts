@@ -571,12 +571,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tvarkyti Išvaizdas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvarkyti Išvaizdas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -887,12 +887,12 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file,</source>
-        <translation type="unfinished"></translation>
+        <translation>Failai nerasti pateiktame zip faile,</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenustatytas archyvo tipas!</translation>
     </message>
 </context>
 <context>
@@ -1133,22 +1133,22 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="78"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatinis Java mechanizmas aptiko 32 bitų Java instaliaciją.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="84"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerasta suderinama Java versija. Naudojama numatytoji.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsų sistema (%1-%2) nepalaiko automatinės Java instaliacijos. Naudojamas numatytas Java kelias.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="103"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsų meta informacija yra pasenusi arba neturi tinkamos informacijos Java instaliacijos versijai nustatyti. Naudojamas numatytas Java kelias.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="136"/>
