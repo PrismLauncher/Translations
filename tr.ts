@@ -891,44 +891,44 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java indiriliyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java ayıklanıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
+        <translation>Java ayıklanıyor (İlerleme tar arşivleri için bildirilmemiştir)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağlanan tar dosyası açılamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağlanan tar dosyası ayıklanamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağlanan zip dosyası açılamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file,</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağlanan zip dosyasında hiçbir dosya bulunamadı,</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Arşiv tipi belirlenemedi!</translation>
     </message>
 </context>
 <context>
@@ -1185,47 +1185,47 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="78"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik Java düzeneği Java&apos;nın 32-bitlik yüklemesi algıladı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="84"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiçbir uyumlu Java sürümü bulunamadı. Varsıylan olanı kullanılıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemin (%1-%2) otomatik Java yüklemesiyle uyumlu değil. Varsayılan Java yolu kullanılıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="103"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta bilgileriniz güncel değil ya da hangi Java yüklemesinin kullanılması gerektiğini belirlemek için gerekli bilgilere sahip değil. Varsayılan Java yolu kullanılıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="136"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyumlu Java bulundu: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="153"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyumlu bir Java sürümü bulunamadı (ikili dosya yok). Varsayılan olanı kullanılıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="175"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Java indirme türü belirlenemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="210"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>İşletim sisteminde herhangi bir Java sürümü bulunamadı: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="212"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Herhangi bir uyumlu Java sürümü bulunamadı. Varsayılan olan kullanılıyor.</translation>
     </message>
 </context>
 <context>
@@ -3430,18 +3430,18 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="58"/>
         <source>No java versions are currently available in the meta.</source>
-        <translation type="unfinished"></translation>
+        <translation>Metada şu an herhangi bir java sürümü mevcut değil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="64"/>
         <source>Couldn&apos;t load or download the java version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Java sürüm listeleri yüklenemedi veya indirilemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="63"/>
         <source>No java versions are currently available for your OS.</source>
-        <translation type="unfinished"></translation>
+        <translation>İşletim sisteminiz için şu anda hiçbir java sürümü mevcut değil.</translation>
     </message>
 </context>
 <context>
@@ -3793,7 +3793,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
@@ -4059,14 +4059,16 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="466"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçimi Onayla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="467"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bitlik bir Java sürümü seçtiniz.
+Bu yükleme 2048MiB&apos;den daha fazla RAM&apos;ı desteklemez.
+Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="478"/>
@@ -4214,12 +4216,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="212"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="276"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="278"/>
@@ -4234,12 +4236,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Yükle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="312"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Java indirme tipi belirlenemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="313"/>
@@ -4313,12 +4315,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerekli ana sürüme göre şu anki Minecraft örneğiyle uyumlu olan bir Java sürümünü otomatik olarak seçer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java sürümünü otomatik algıla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
@@ -4329,27 +4331,27 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="306"/>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang tarafından önerilen Java sürümünü otomatik olarak indirir ve seçer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang Java&apos;yı otomatik indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Yönetim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>İndirilmiş Java Sürümleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
@@ -4412,12 +4414,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed java versions are installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiçbir yönetilen java sürümü yüklü değil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed java list!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yönetilen java listesi yüklenemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4427,14 +4429,16 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="163"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçimi Onayla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="164"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bitlik bir Java sürümü seçtiniz.
+Bu yükleme 2048MiB&apos;den daha fazla RAM&apos;ı desteklemez.
+Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="175"/>
@@ -4465,7 +4469,8 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; adlı Java yüklemesini  silmek üzeresin.
+Emin misin?</translation>
     </message>
 </context>
 <context>
@@ -4492,24 +4497,26 @@ Daha sonra, Java sürümünü ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="135"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="183"/>
         <source>Automatic Java Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik Java İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="184"/>
         <source>%1 can automatically download the correct Java version for each version of Minecraft..
 Do you want to enable Java auto-download?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 her Minecraft sürümü için doğru Java sürümünü otomatik olarak indirebilir.
+Otomatik Java indirmeyi etkinleştirmek istiyor musun?
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="219"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bit Java algılandı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="220"/>
@@ -4519,7 +4526,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>32-bit Java yüklemesini seçtiniz, ama 2048MiB&apos;den daha fazla azami bellek ayırdınız.
+%1 Minecraft&apos;ı başlatamayacak.
+Devam etmek istiyor musunuz?
+
+Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="231"/>
@@ -4529,7 +4541,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ya bir Java sürümü seçmediniz ya da çalışmayan bir sürüm seçtiniz.
+%1 Minecraft&apos;ı başlatamayacak.
+İşlevsel bir Java sürümü olmadan devam etmek istiyor musunuz?
+
+Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="339"/>
@@ -4574,17 +4591,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="489"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang Java&apos;yı Otomatik İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java sürümünü otomatik algıla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="492"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java&apos;yı otomatik algıla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="501"/>
@@ -4604,7 +4621,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="510"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bit Java yüklemeri tarafından desteklenin azami ayırma miktarını aşıyorsunuz.</translation>
     </message>
 </context>
 <context>
@@ -5178,7 +5195,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -5320,7 +5337,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Dosyaysı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
@@ -5330,27 +5347,27 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] OOoooOOOoooo! Ürkütücü bir hata!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] Ürkütücü bir hata!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/WARN] Ürkütücü olmayan bir uyarı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/DEBUG] Gizli bir hata ayıklama mesajı...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/FATAL] Kritik bir hata!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -5862,7 +5879,7 @@ Sebep:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zip dosyası açılamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -7324,7 +7341,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java İndiriliyor</translation>
     </message>
 </context>
 <context>
@@ -13014,7 +13031,9 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Azami bellek ayırımı desteklenen değeri aşıyor.
+Seçilmiş Java yüklemesi 32-bit ve 2048MiB bellekden daha fazla desteklemiyor.
+Örnek bu yüzden başlamayabilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -13579,12 +13598,12 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Adı</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ana Sürüm</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
@@ -13624,12 +13643,12 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java sürümün alternatif adı</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The java major version</source>
-        <translation type="unfinished"></translation>
+        <translation>Java ana sürümü</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
