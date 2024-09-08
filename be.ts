@@ -540,7 +540,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Кіраванне скінамі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -835,44 +835,44 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting java</source>
-        <translation type="unfinished"></translation>
+        <translation>Выманне java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выманне Java (прагрэс не паведамляецца для архіваў tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма адкрыць пастаўлены файл tar.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма распакаваць пастаўлены файл tar.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма адкрыць пастаўлены zip-файл.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file,</source>
-        <translation type="unfinished"></translation>
+        <translation>У пастаўленым zip-файле не знойдзены файлы,</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма вызначыць тып архіва!</translation>
     </message>
 </context>
 <context>
@@ -1109,47 +1109,47 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="78"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаматычны механізм Java выявіў 32-бітную ўстаноўку Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="84"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не знойдзена сумяшчальнай версіі Java. Выкарыстоўваю версію па змаўчанні.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша сістэма (%1-%2) несумяшчальная з аўтаматычнай устаноўкай Java. Выкарыстоўваю шлях Java па змаўчанні.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="103"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша метаінфармацыя састарэла або не змяшчае звестак, неабходных для вызначэння таго, якую ўстаноўку Java варта выкарыстоўваць. Выкарыстоўваю шлях Java па змаўчанні.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="136"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сумяшчальная Java знойдзена па адрасе: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="153"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сумяшчальная версія Java не знойдзена (двайковы файл не існуе). Выкарыстоўваю стандартны.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="175"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма вызначыць тып загрузкі Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="210"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не знойдзена версій Java для вашай аперацыйнай сістэмы: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="212"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не знойдзена сумяшчальнай версіі Java. Выкарыстоўваю стандартны.</translation>
     </message>
 </context>
 <context>
@@ -2039,7 +2039,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Імя файла</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
@@ -2069,7 +2069,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="163"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
 </context>
 <context>
@@ -2163,12 +2163,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Export modlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспартаваць спіс модаў</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="182"/>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспарт метаданых мода ў тэкст</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -2889,7 +2889,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Запушчаны працэс: %1</translation>
     </message>
 </context>
 <context>
@@ -3078,18 +3078,18 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="58"/>
         <source>No java versions are currently available in the meta.</source>
-        <translation type="unfinished"></translation>
+        <translation>На дадзены момант няма даступных версій Java у мета.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="64"/>
         <source>Couldn&apos;t load or download the java version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўдалося загрузіць або загрузіць спісы версій Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="63"/>
         <source>No java versions are currently available for your OS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Зараз няма даступных версій Java для вашай АС.</translation>
     </message>
 </context>
 <context>
@@ -3211,7 +3211,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished"></translation>
+        <translation>Спроба вызначэння тыпу ўстаноўкі</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
@@ -3330,7 +3330,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Спампаваць Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
@@ -3444,7 +3444,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="692"/>
         <source>Singleplayer world</source>
-        <translation type="unfinished"></translation>
+        <translation>Адзіночная гульня</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="705"/>
@@ -3579,14 +3579,16 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="466"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Пацвердзіце выбар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="467"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы выбралі 32-разрадную версію Java.
+Гэтая ўстаноўка не падтрымлівае больш за 2048 Мбайт аператыўнай памяці.
+Пераканайцеся, што максімальнае значэнне памяці меншае.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="478"/>
@@ -3727,32 +3729,32 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="212"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Спампаваць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="276"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="278"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Адоптыум</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="280"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Усталюйце Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="312"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўдалося вызначыць тып загрузкі Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="313"/>
@@ -3763,7 +3765,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Перапыніць</translation>
     </message>
 </context>
 <context>
@@ -3826,12 +3828,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаматычна выбірае версію Java, сумяшчальную з бягучым асобнікам Minecraft, на аснове патрабаванай асноўнай версіі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтавызначэнне версіі Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
@@ -3842,32 +3844,32 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="306"/>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаматычна загружае і выбірае версію Java, рэкамендаваную Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтаматычная загрузка Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Упраўленне</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Спампаваныя версіі Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Спампаваць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Прыбраць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="384"/>
@@ -3915,12 +3917,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed java versions are installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўсталяваныя кіраваныя версіі java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed java list!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўдалося загрузіць кіраваны спіс Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -3930,7 +3932,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="163"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Пацвердзіце выбар</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="164"/>
