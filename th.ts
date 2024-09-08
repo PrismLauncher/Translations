@@ -309,7 +309,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>คอมมิท:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -344,7 +344,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>คอมมิท: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
@@ -574,7 +574,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;จัดการสกิน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
@@ -834,7 +834,9 @@ for details.</oldsource>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ไดเร็กทอรี /tmp ของคุณถูกติดตั้งโดยเปิดใช้แฟล็ก &apos;noexec&apos; อยู่
+Minecraft บางเวอร์ชันอาจไม่สามารถเปิดใช้งานได้
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1043"/>
@@ -904,7 +906,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file,</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบไฟล์ในไฟล์ zip ที่ให้มา</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -1172,12 +1174,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบบของคุณ (%1-%2) ไม่เข้ากันกับการติดตั้ง Java เเบบอัตโนมัติ. กำลังใช้เส้นทาง Java เริ่มต้น</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="103"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อมูล meta ของคุณหมดอายุหรือไม่มีข้อมูลที่จำเป็นในการกำหนดว่าควรใช้การติดตั้ง Java แบบใด กำลังใช้เส้นทาง Java เริ่มต้น</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="136"/>
@@ -1518,7 +1520,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ที่โคลนด้วยลิงก์อ้างอิงจะไม่ใช้พื้นที่เพิ่มจนกว่าจะมีการแก้ไข</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1616,7 +1618,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;คำสั่ง Wrapper:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -1638,17 +1640,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวกรอง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเปิดตัว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>รุ่นทดสอบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
@@ -1689,7 +1691,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="205"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
@@ -1831,12 +1833,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>ฟอร์ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
         <source>&amp;Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ตัวแปรสภาพแวดล้อม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
@@ -1851,12 +1853,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>%เพิ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ลบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
@@ -1869,7 +1871,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวแปรสภาพแวดล้อม</translation>
     </message>
 </context>
 <context>
@@ -1929,12 +1931,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="20"/>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;คำอธิบาย</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;สรุป</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
@@ -1945,22 +1947,22 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;เวอร์ชัน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="89"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>%ตัวเลือก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
         <source>&amp;Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ไฟล์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ทำเครื่องหมายไฟล์ที่ถูกปิดใช้งานเป็นไม่บังคับ</translation>
     </message>
     <message>
         <source>Version</source>
@@ -1974,17 +1976,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกแพ็ค Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="56"/>
         <source>Export CurseForge Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกแพ็ก CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="73"/>
         <source>&amp;Author</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;เจ้าของ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
@@ -1995,12 +1997,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กModrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กCurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="156"/>
@@ -2290,7 +2292,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="280"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>หากคุณปิดใช้งานทรัพยากรนี้ในขณะที่เกมกำลังทำงาน อาจทำให้เกมขัดข้องได้
+คุณแน่ใจหรือไม่ว่าต้องการดำเนินการนี้?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="326"/>
@@ -2300,7 +2303,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="328"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 ติดตั้งแล้ว)</translation>
     </message>
 </context>
 <context>
@@ -2446,7 +2449,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังดาวน์โหลดไลบรารี FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -2461,7 +2464,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถสร้างโฟลเดอร์ไลบรารี FML ภายในอินสแตนซ์ได้</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
@@ -2630,7 +2633,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
+        <translation>ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
@@ -2642,7 +2645,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="345"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">โฟลเดอร์แทนที่ที่ระบุ (%1) หายไป. บางทีม็อดแพ็คเคยถูกใช้มาก่อน?</translation>
+        <translation>โฟลเดอร์แทนที่ที่ระบุ (%1) หายไป. บางทีม็อดแพ็คเคยถูกใช้มาก่อน?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="374"/>
@@ -2794,7 +2797,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="236"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">การวิเคราะห์การตอบสนอง API จาก CurseForge สำหรับ &apos;%1&apos;...</translation>
+        <translation>กำลังวิเคราะห์การตอบสนอง API จาก CurseForge สำหรับ &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
@@ -2858,7 +2861,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">เรียงตามผู้เขียน</translation>
+        <translation>เรียงตามชื่อเจ้าของ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
@@ -3151,7 +3154,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">นำเข้าไฟล์ที่จำเป็นจาก zip</translation>
+        <translation>นําเข้า</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
@@ -3173,7 +3176,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
         <source>Abort</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
@@ -3268,7 +3271,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="133"/>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="135"/>
@@ -3530,7 +3533,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
         <source>Browse</source>
-        <translation type="unfinished">เรียกดู</translation>
+        <translation>ค้นหา</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
@@ -3957,7 +3960,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="312"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">ไม่สามารถระบุประเภทการดาวน์โหลด Java ได้!</translation>
+        <translation>ไม่สามารถระบุประเภทการดาวน์โหลด Java ได้!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="313"/>
@@ -3968,7 +3971,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
         <source>Abort</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -4094,7 +4097,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="294"/>
         <source>Browse</source>
-        <translation type="unfinished">เรียกดู</translation>
+        <translation>ค้นหา</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
@@ -4172,7 +4175,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">ยืนยันการลบ</translation>
+        <translation>ยืนยันการลบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
@@ -4440,7 +4443,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="141"/>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="267"/>
@@ -4543,7 +4546,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="426"/>
         <source>Abort</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="439"/>
@@ -4635,7 +4638,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="216"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="223"/>
         <source>Browse</source>
-        <translation type="unfinished">เรียกดู</translation>
+        <translation>ค้นหา</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
@@ -4686,7 +4689,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">อื่นๆ</translation>
+        <translation>อื่นๆ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
@@ -4983,7 +4986,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">ไม่สามารถเปิด Minecraft ได้!</translation>
+        <translation>ไม่สามารถเปิด Minecraft ได้!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
@@ -5004,7 +5007,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">เรียงตามเวอร์ชันเกม</translation>
+        <translation>เรียงตามเวอร์ชันเกม</translation>
     </message>
 </context>
 <context>
@@ -5053,7 +5056,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">กำลังแยกม็อดแพ็ค...</translation>
+        <translation>กำลังแยกม็อดแพ็ค...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
@@ -5091,78 +5094,79 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>สาธารณะ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="62"/>
         <source>3rd Party</source>
-        <translation type="unfinished"></translation>
+        <translation>บุคคลที่สาม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="89"/>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่วนตัว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="108"/>
         <source>Add pack</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแพ็ก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
         <source>Remove selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบแพ็คที่เลือก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>เวอร์ชันที่เลือก:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
         <source>Error</source>
-        <translation type="unfinished">ข้อผิดพลาด</translation>
+        <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation type="unfinished">งานถูกยกเลิก</translation>
+        <translation>งานถูกยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">งานถูกยกเลิกโดยผู้ใช้</translation>
+        <translation>งานถูกยกเลิกโดยผู้ใช้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
         <source>FTB private packs</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็ค FTB ส่วนตัว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถดาวน์โหลดข้อมูลแพ็คสำหรับโค้ด %1 ได้
+ควรจะลบออกตอนนี้หรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Add FTB pack</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่มแพ็ก FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Enter pack code:</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอกโค้ดแพ็ก:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Remove pack</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบแพ็ก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณแน่ใจว่าคุณต้องการจะลบแพ็ก?</translation>
     </message>
 </context>
 <context>
@@ -5198,12 +5202,12 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์โปรแกรมมาตรฐานสำหรับอินสแตนซ์</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Null jar ถูกเลือกไว้ใน metadata. กำลังหยุด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -5212,7 +5216,11 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>อาร์ติแฟกต์บางอันที่ทำเครื่องหมายว่า &apos;ท้องถิ่น&apos; ขาดไฟล์:
+%1
+
+คุณต้องเพิ่มไฟล์หรือลบแพ็คเกจที่ต้องการไฟล์เหล่านั้น
+คุณจะต้องแก้ไขปัญหานี้ด้วยตนเอง</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
@@ -6121,105 +6129,105 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>No Default Account</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีบัญชีเริ่มต้น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="778"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังโหลดข่าว...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="788"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีข่าวสารใดๆ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="836"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>คำเตือน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="840"/>
         <source>Task aborted</source>
-        <translation type="unfinished">งานถูกยกเลิก</translation>
+        <translation>งานถูกยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="840"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">งานถูกยกเลิกโดยผู้ใช้</translation>
+        <translation>งานถูกยกเลิกโดยผู้ใช้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="844"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1005"/>
         <source>Abort</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="960"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>ม็อดแพ็ค, ม็อดหรือทรัพยากร %1 ถูกบล็อคสำหรับตัวเปิดบุคคลที่สาม! โปรดดาวน์โหลดด้วยตนเอง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="994"/>
         <source>Modpack download</source>
-        <translation type="unfinished">โหลดม็อดแพ็ค</translation>
+        <translation>ดาวน์โหลดม็อดแพ็คเเล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อกลุ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1158"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอกชื่อกลุ่มใหม่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1148"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>ลบกลุ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1269"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>อินสแตนซ์เเก้ใข้ไม่ได้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1270"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>อินสแตนซ์นี้เเก้ใข้ไม่ได้ อาจจะเสียหาย ไม่ถูกต้อง หรือ เก่าเกินไป ตรวจสอบบันทึกเพื่อดูรายละเอียด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1305"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่ม %1 ลงใน PATH สำเร็จแล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1306"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่ม %1 ลงใน PATH ของคุณเรียบร้อยแล้ว ตอนนี้คุณสามารถเริ่มได้โดยรัน `%2`</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1309"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเพิ่ม %1 ลงใน PATH ได้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1310"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดขณะพยายามเพิ่ม %1 ลงใน PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1367"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>มีอินสแตนซ์ที่เชื่อมอยู่</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1368"/>
