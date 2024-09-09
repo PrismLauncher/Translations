@@ -10905,7 +10905,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>Prism Launcher 와 함께 사용할 수 있는 Windows 용 일괄 MKLINK 프로그램</translation>
+        <translation>Prism Launcher와 함께 사용할 수 있는 Windows용 배치 MKLINK 프로그램</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="167"/>
@@ -10936,37 +10936,37 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 %3와(과) 호환되는 %1 버전을 찾을 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1용 메타데이터 인덱스에 버전 목록이 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 요구 사양 %2 %3을(를) 찾을 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>이 구성 요소의 종속성인 %1에서 문제가 보고됨</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>이 구성 요소의 종속성인 %1이(가) 최소 버전 %2이(가) 아님</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>이 구성 요소의 종속성인 %1이(가) 권장 버전 %2이(가) 아님</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 및 %2은(는) 함께 작동하지 않는 것으로 알려져 있습니다. 둘 중 하나를 제거하는 것이 좋습니다.</translation>
     </message>
 </context>
 <context>
