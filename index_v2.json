@@ -363,12 +363,12 @@
             "untranslated" : 2018
         },
         "ko" : {
-            "file" : "c872759c9122bd2ce910d973cad657301f90b19e.class",
-            "sha1" : "c872759c9122bd2ce910d973cad657301f90b19e",
-            "size" : 229952,
-            "translated" : 2042,
+            "file" : "da33354cd1813a07c0451cee59ce4c2c581e3796.class",
+            "sha1" : "da33354cd1813a07c0451cee59ce4c2c581e3796",
+            "size" : 231056,
+            "translated" : 2049,
             "fuzzy" : 0,
-            "untranslated" : 7
+            "untranslated" : 0
         },
         "lb" : {
             "file" : "03ac1b369c5ddd65eb06fde9a2650db3ec75cd1d.class",
