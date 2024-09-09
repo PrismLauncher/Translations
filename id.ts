@@ -1330,32 +1330,32 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
 <context>
     <name>ComponentUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="188"/>
         <source>Aborted</source>
         <translation>Dibatalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Some component metadata load tasks failed.</source>
         <translation>Beberapa tugas pemuatan metadata komponen gagal.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="405"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
         <translation>Persyaratan bertindihan terdeteksi selama pemeriksaan ketergantungan!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="421"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
         <translation>Instansi memiliki ketergantungan yang bertindihan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="426"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
         <translation>Instansi mengalami ketergantungan yang tidak terselesaikan ketika memuat/mengecek untuk peluncuran.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="559"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Tugas pembaruan metadata komponen gagal saat mengunduh dari server remote:
@@ -7048,7 +7048,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
 <context>
     <name>Meta::VersionList</name>
     <message>
-        <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
+        <location filename="src/launcher/meta/VersionList.cpp" line="38"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation>Memuat meta untuk %1</translation>
@@ -8934,17 +8934,17 @@ Apakah Anda yakin?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="348"/>
         <source>Aborted</source>
         <translation>Dibatalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="570"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="576"/>
         <source>Name</source>
         <translation>Nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="572"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
         <source>Version</source>
         <translation>Versi</translation>
     </message>
@@ -9912,7 +9912,7 @@ Apakah Anda yakin?</translation>
         <translation>Server Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
         <source>Patch is not loaded yet.</source>
         <translation>Patch belum dimuat.</translation>
     </message>
@@ -9931,7 +9931,7 @@ Apakah Anda yakin?</translation>
         <translation>Nama perpustakaan %1 rusak dan tidak bisa diproses.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="207"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Versi file komponen tidak valid, diharapkan %1</translation>
     </message>
@@ -10380,6 +10380,41 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
         <translation>barang-barang</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
+        <source>No compatible version of %1 found for %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
+        <source>No version list in metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
+        <source>%1 is missing requirement %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
+        <source>%1, a dependency of this component, has reported issues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
+        <source>%1, a dependency of this component, is not the required version %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
+        <source>%1, a dependency of this component, is not the suggested version %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
+        <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12705,7 +12740,7 @@ Mohon berganti ke salah satu versi Java berikut untuk instansi ini:</translation
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="349"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="359"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
@@ -12798,22 +12833,22 @@ Apakah Anda yakin?</translation>
         <translation type="vanished">Agen-agen Java (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="378"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>Ubah versi %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>Tidak ada versi intermediary mappings yang tersedia saat ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="395"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Tidak dapat memuat atau mengunduh daftar versi intermediary mappings!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -12822,12 +12857,12 @@ Please add your Microsoft or Mojang account.</oldsource>
 Mohon menambahkan akun Microsoft Anda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="561"/>
         <source>Confirm Reversion</source>
         <translation>Konfirmasi Revisi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="548"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="562"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -12880,7 +12915,7 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
         <translation type="vanished">Tidak dapat memuat atau mengunduh daftar versi LiteLoader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="487"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="501"/>
         <source>Error updating instance</source>
         <translation>Gagal memperbarui instansi</translation>
     </message>

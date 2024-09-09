@@ -1350,32 +1350,32 @@ Some versions of Minecraft may not launch.
 <context>
     <name>ComponentUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="188"/>
         <source>Aborted</source>
         <translation>중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Some component metadata load tasks failed.</source>
         <translation>일부 구성 요소 메타데이터를 불러오지 못하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="405"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
         <translation>의존성 검사 확인 중 충돌하는 요구 사항이 확인되었습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="421"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
         <translation>인스턴스가 서로 충돌하는 요구 사항을 가지고 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="426"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
         <translation>인스턴스에 로드/시작 전 검사 과정에서 해결되지 않은 의존성이 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="559"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>다음 원격 서버에서 다운로드하던 중 구성 요소 메타데이터 업데이트 작업이 실패하였습니다:
@@ -7331,7 +7331,7 @@ This can be updated only using a file in %1 format
 <context>
     <name>Meta::VersionList</name>
     <message>
-        <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
+        <location filename="src/launcher/meta/VersionList.cpp" line="38"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation>%1용 메타 불러오기</translation>
@@ -9432,17 +9432,17 @@ Are you sure?</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="348"/>
         <source>Aborted</source>
         <translation>중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="570"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="576"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="572"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
         <source>Version</source>
         <translation>버전</translation>
     </message>
@@ -10420,7 +10420,7 @@ Are you sure?</source>
         <translation>마인크래프트 서버</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
         <source>Patch is not loaded yet.</source>
         <translation>패치가 아직 로드되지 않았습니다.</translation>
     </message>
@@ -10439,7 +10439,7 @@ Are you sure?</source>
         <translation>라이브러리 %1 이름이 손상되어 처리할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="207"/>
         <source>Invalid component file version, expected %1</source>
         <translation>유효하지 않은 구성 요소 파일 버전, %1을(를) 예상하였음</translation>
     </message>
@@ -10932,6 +10932,41 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
         <translation>항목</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
+        <source>No compatible version of %1 found for %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
+        <source>No version list in metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
+        <source>%1 is missing requirement %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
+        <source>%1, a dependency of this component, has reported issues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
+        <source>%1, a dependency of this component, is not the required version %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
+        <source>%1, a dependency of this component, is not the suggested version %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
+        <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13329,7 +13364,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="349"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="359"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
@@ -13422,22 +13457,22 @@ Are you sure?</source>
         <translation type="vanished">자바 에이전트 (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="378"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>%1 버전 변경</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>현재 사용 가능한 intermediary mappings 버전이 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="395"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Intermediary mappings 버전 목록을 불러오거나 다운로드하지 못하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -13446,12 +13481,12 @@ Please add your Microsoft or Mojang account.</oldsource>
 Microsoft 계정을 추가하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="561"/>
         <source>Confirm Reversion</source>
         <translation>되돌리기 확인</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="548"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="562"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -13516,7 +13551,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
         <translation type="vanished">LiteLoader 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="487"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="501"/>
         <source>Error updating instance</source>
         <translation>인스턴스 업데이트 오류</translation>
     </message>

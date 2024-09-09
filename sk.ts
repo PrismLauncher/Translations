@@ -1318,32 +1318,32 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
 <context>
     <name>ComponentUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="188"/>
         <source>Aborted</source>
         <translation>Prerušené</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Some component metadata load tasks failed.</source>
         <translation>Zlyhalo nahrávanie niektorých metadát komponentov.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="405"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
         <translation>Boli zistené konflikty požiadaviek počas kontroly závislostí!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="421"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
         <translation>Inštancia má konflikty v závislostiach.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="426"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
         <translation>Inštancia má nevyriešené závislosti zistené počas kontroly/nahrávania.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="559"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Úloha vylepšenia metadát komponentu zlyhala počas sťahovania zo vzdialeného servera:
@@ -6897,7 +6897,7 @@ This can be updated only using a file in %1 format
 <context>
     <name>Meta::VersionList</name>
     <message>
-        <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
+        <location filename="src/launcher/meta/VersionList.cpp" line="38"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation type="unfinished"></translation>
@@ -8630,17 +8630,17 @@ Are you sure?</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="348"/>
         <source>Aborted</source>
         <translation type="unfinished">Prerušené</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="570"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="576"/>
         <source>Name</source>
         <translation>Názov</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="572"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
         <source>Version</source>
         <translation>Verzia</translation>
     </message>
@@ -9573,7 +9573,7 @@ Are you sure?</source>
         <translation>Server Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
         <source>Patch is not loaded yet.</source>
         <translation>Záplata sa zatiaľ nenahrala.</translation>
     </message>
@@ -9592,7 +9592,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="207"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Nesprávna verzia súboru komponentu, očakávaná verzia %1</translation>
     </message>
@@ -10030,6 +10030,41 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
+        <source>No compatible version of %1 found for %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
+        <source>No version list in metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
+        <source>%1 is missing requirement %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
+        <source>%1, a dependency of this component, has reported issues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
+        <source>%1, a dependency of this component, is not the required version %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
+        <source>%1, a dependency of this component, is not the suggested version %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
+        <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12269,7 +12304,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="349"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="359"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -12355,22 +12390,22 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="378"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>Zmeniť %1 verziu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>Momentálne nie sú dostupné žiadne sprostredkujúce mapovania verzií.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="395"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Nie je možné nahrať alebo stiahnuť sprostredkujúce mapovania zoznamu verzií!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -12378,12 +12413,12 @@ Please add your Microsoft or Mojang account.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="561"/>
         <source>Confirm Reversion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="548"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="562"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -12435,7 +12470,7 @@ Prosím pridajte Mojang alebo Minecraft účet.</translation>
         <translation type="vanished">Nie je možné nahrať alebo stiahnuť zoznam verzií LiteLoader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="487"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="501"/>
         <source>Error updating instance</source>
         <translation>Chyba pri vylepšovaní inštancie</translation>
     </message>

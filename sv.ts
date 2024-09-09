@@ -1334,32 +1334,32 @@ Vissa versioner av Minecraft kanske inte startar.
 <context>
     <name>ComponentUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="188"/>
         <source>Aborted</source>
         <translation>Avbruten</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Some component metadata load tasks failed.</source>
         <translation>Vissa arbeten att ladda in komponentmetadata misslyckades.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="405"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
         <translation>Motstridiga krav upptäcktes vid kontroll av filberoenden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="421"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
         <translation>Instansen har motstridiga filberoenden (dependencies).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="426"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
         <translation>Instansen har olösta filberoenden vid inläsning/kontroll för start.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="559"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Arbetet att uppdatera komponentmetadata misslyckades vid nedladdning från en extern server:
@@ -7264,7 +7264,7 @@ Detta kan endast uppdateras med en fil i formatet %1
 <context>
     <name>Meta::VersionList</name>
     <message>
-        <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
+        <location filename="src/launcher/meta/VersionList.cpp" line="38"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation>Laddar metaindex för %1</translation>
@@ -9347,17 +9347,17 @@ Detta kan vara permanent och den kommer att försvinna från loggmappen.
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="348"/>
         <source>Aborted</source>
         <translation>Avbruten</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="570"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="576"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="572"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
@@ -10320,7 +10320,7 @@ Du bör dubbelkolla att det inte innehåller personlig information.
         <translation>Minecraftserver</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="249"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
         <source>Patch is not loaded yet.</source>
         <translation>Patch är inte laddad ännu.</translation>
     </message>
@@ -10339,7 +10339,7 @@ Du bör dubbelkolla att det inte innehåller personlig information.
         <translation>Namnet på biblioteket %1 är trasigt och kan inte behandlas.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="207"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Ogiltig komponentfilversion, förväntade %1</translation>
     </message>
@@ -10832,6 +10832,41 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
         <translation>objekt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
+        <source>No compatible version of %1 found for %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
+        <source>No version list in metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
+        <source>%1 is missing requirement %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
+        <source>%1, a dependency of this component, has reported issues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
+        <source>%1, a dependency of this component, is not the required version %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
+        <source>%1, a dependency of this component, is not the suggested version %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
+        <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13223,7 +13258,7 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="349"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="359"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="410"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -13316,22 +13351,22 @@ Detta är permanent och kommer att helt ta bort den anpassade komponenten.
         <translation type="vanished">Java-agenter (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="378"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="392"/>
         <source>Change %1 version</source>
         <translation>Byt version på %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>Inga intermediary mappings-versioner är för nuvarande tillgängliga.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="395"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Kunde inte ladda eller hämta listorna med intermediary mappings-versioner!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -13340,12 +13375,12 @@ Please add your Microsoft or Mojang account.</oldsource>
 Vänligen lägg till ett Microsoft-konto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="561"/>
         <source>Confirm Reversion</source>
         <translation>Bekräfta återställning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="548"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="562"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -13412,7 +13447,7 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
         <translation type="vanished">Kunde inte ladda eller hämta listorna med LiteLoader-versioner!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="487"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="501"/>
         <source>Error updating instance</source>
         <translation>Ett fel inträffade vid uppdateringen av instansen</translation>
     </message>
