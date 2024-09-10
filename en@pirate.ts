@@ -1937,12 +1937,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Burn Flag</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Open ye Chest o&apos; Flags</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
