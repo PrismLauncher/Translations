@@ -10718,12 +10718,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>Snímky obrazovky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="310"/>
         <source>Context menu</source>
         <translation>Kontextové menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
         <source>You are about to upload %1 screenshots to %2.
 You should double-check for personal information.
 
@@ -10731,7 +10731,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="376"/>
         <source>You are about to upload the selected screenshot to %1.
 You should double-check for personal information.
 
@@ -10739,52 +10739,52 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="437"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="453"/>
         <source>Failed to upload screenshots!</source>
         <translation>Zlyhalo odosielanie snímkov obrazovky!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="453"/>
         <source>Unknown error</source>
         <translation>Neznáma chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="412"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="417"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="460"/>
         <source>Upload finished</source>
         <translation>Odosielanie ukončené</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="387"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="392"/>
         <source>Abort</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>Screenshots upload aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>The task has been aborted by the user.</source>
         <translation type="unfinished">Úloha bola zrušená použivateľom.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Link na nahratý snímok obrazovky&lt;/a&gt; bol uložený do clipboardu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Linka k odoslanému albumu&lt;/a&gt; bola uložená do clipboardu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="504"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="509"/>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -10792,7 +10792,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="509"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="514"/>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -10800,7 +10800,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="515"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="520"/>
         <source>Confirm Deletion</source>
         <translation type="unfinished"></translation>
     </message>

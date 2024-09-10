@@ -11582,7 +11582,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
         <translation>Schermafdrukken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="310"/>
         <source>Context menu</source>
         <translation>Contextmenu</translation>
     </message>
@@ -11603,7 +11603,7 @@ Are you sure?</source>
 Weet u het zeker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
         <source>You are about to upload %1 screenshots to %2.
 You should double-check for personal information.
 
@@ -11614,7 +11614,7 @@ Je kunt persoonlijke informatie het beste dubbel controleren.
 Weet u het zeker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="376"/>
         <source>You are about to upload the selected screenshot to %1.
 You should double-check for personal information.
 
@@ -11625,52 +11625,52 @@ Je kunt persoonlijke informatie het beste dubbel controleren.
 Weet u het zeker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="437"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="453"/>
         <source>Failed to upload screenshots!</source>
         <translation>Fout bij het uploaden van schermafdrukken!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="453"/>
         <source>Unknown error</source>
         <translation>Onbekende fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="412"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="417"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="460"/>
         <source>Upload finished</source>
         <translation>Uploaden voltooid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="387"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="392"/>
         <source>Abort</source>
         <translation>Afbreken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>Screenshots upload aborted</source>
         <translation>Upload screenshots afgebroken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>The task has been aborted by the user.</source>
         <translation>De taak is afgebroken door de gebruiker.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>De &lt;a href=&quot;%1&quot;&gt;-link naar de geüploade schermafdruk&lt;/a&gt; is op uw klembord geplaatst.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>De &lt;a href=&quot;%1&quot;&gt;-link naar het geüploade album&lt;/a&gt; is op uw klembord geplaatst.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="504"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="509"/>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -11681,7 +11681,7 @@ Dit kan permanent zijn en ze zullen verdwijnen uit de map.
 Weet u het zeker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="509"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="514"/>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -11692,7 +11692,7 @@ Dit bestand zal waarschijnlijk permanent uit de map verdwijnen.
 Weet u het zeker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="515"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="520"/>
         <source>Confirm Deletion</source>
         <translation>Bevestig Verwijdering</translation>
     </message>

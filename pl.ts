@@ -11843,7 +11843,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
         <translation>Zrzuty ekranu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="310"/>
         <source>Context menu</source>
         <translation>Menu kontekstowe</translation>
     </message>
@@ -11864,7 +11864,7 @@ Are you sure?</source>
 Jesteś tego pewien?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
         <source>You are about to upload %1 screenshots to %2.
 You should double-check for personal information.
 
@@ -11875,7 +11875,7 @@ Dla bezpieczeństwa swoich danych upewnij się dwukrotnie.
 Jesteś pewien?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="376"/>
         <source>You are about to upload the selected screenshot to %1.
 You should double-check for personal information.
 
@@ -11886,52 +11886,52 @@ Powinieneś dokładnie sprawdzić, czy nie zawiera on informacji osobistych.
 Czy jesteś pewien?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="437"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="453"/>
         <source>Failed to upload screenshots!</source>
         <translation>Nie udało się przesłać zrzutów ekranu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="453"/>
         <source>Unknown error</source>
         <translation>Nieznany błąd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="412"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="417"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="460"/>
         <source>Upload finished</source>
         <translation>Przesyłanie zakończone</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="387"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="392"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>Screenshots upload aborted</source>
         <translation>Przerwano przesyłanie zrzutu ekranu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="399"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>The task has been aborted by the user.</source>
         <translation>Działanie zostało przerwane przez użytkownika.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;link do zamieszczonego zrzutu gry&lt;/a&gt; został umieszczony w schowku.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Link do przesłanego albumu&lt;/a&gt; został umieszczony w schowku.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="504"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="509"/>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -11942,7 +11942,7 @@ Jest to działanie permamentne i zrzuty ekranu zostaną usunięte.
 Jesteś tego pewien?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="509"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="514"/>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -11953,7 +11953,7 @@ Jest to działanie permanentne i zrzut ekranu zostanie usunięty.
 Jesteś tego pewien?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="515"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="520"/>
         <source>Confirm Deletion</source>
         <translation>Potwierdź usunięcie</translation>
     </message>
