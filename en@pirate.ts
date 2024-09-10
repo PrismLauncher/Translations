@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Note: you should probably get to changing or clearing the Base UarrrrL after changing the paste serrrvice type.</translation>
+        <translation>Note: you should prob&apos;ly get to changin&apos; or clearin&apos; th Base UarrrrL after changing the paste serrrvice type.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -117,7 +117,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Enter a custom API Key for CurseForge &apos;ere.</translation>
+        <translation>Enter a custom API Doubloon for CurseForge &apos;ere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="376"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Blimey! Couldn&apos;t find target for %1 loader</translation>
+        <translation>Blimey! Blunder&apos;d findin&apos; target for %1 loader</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
@@ -172,7 +172,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="535"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Confuzzled or rogue download type: %1</translation>
+        <translation>Confuzzlin&apos; or rogue download type: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="751"/>
         <source>Mod download</source>
-        <translation>Mod raid</translation>
+        <translation>Mod plunderin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="765"/>
@@ -217,12 +217,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="771"/>
         <source>Unknown download type: %1</source>
-        <translation>Unknown raid type: %1</translation>
+        <translation>Confuzzlin&apos; raid type: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="892"/>
         <source>Failed to extract mods...</source>
-        <translation>Couldn&apos;t extract treasure out of coffer...</translation>
+        <translation>Blunder&apos;d grabbin&apos; treasure out of coffer...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="903"/>
@@ -242,7 +242,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
         <source>Unknown loader type: </source>
-        <translation>Unknown cannon type: </translation>
+        <translation>Confuzzlin&apos; cannon type: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
@@ -255,7 +255,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation>Who&apos;se this</translation>
+        <translation>Who&apos;s this</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
@@ -1653,12 +1653,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="238"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Thar be no file fer indexin&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nary be a logbook from olden times. Some o&apos; the the files may be duplicated. Be ye certain about this?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
@@ -1670,7 +1670,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Our overrides be missin&apos;. &apos;Ave ye used this modpack before?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
@@ -1728,12 +1728,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="480"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nay can ye be putting modpacks in other modpacks, none pilfer&apos;d: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No crew could figure out the PackageType fer: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
@@ -1782,7 +1782,7 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Order by Captain&apos;s Choice</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
@@ -1852,7 +1852,7 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="52"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Blunder&apos;d buildin&apos; the stores for Minecraft binaries</translation>
     </message>
 </context>
 <context>
@@ -1860,12 +1860,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="82"/>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Key</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="84"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Weight in gold</translation>
     </message>
 </context>
 <context>
