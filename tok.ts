@@ -809,7 +809,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">ilo lukin Palofila li pakala</translation>
+        <translation>ilo pi tenpo nanpa li pakala</translation>
     </message>
 </context>
 <context>
