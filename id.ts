@@ -10384,37 +10384,37 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada versi cocok dari %1 yang ditemukan untuk %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada daftar versi dalam indeks metadata untuk %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 adalah syarat tidak terpenuhi %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, yaitu ketergantungan dari komponen ini, telah melaporkan masalah</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, yaitu ketergantungan dari komponen ini, tidak dalam versi dibutuhkan %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, yaitu ketergantungan dari komponen ini, tidak dalam versi disarankan %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dan %2 diketahui tidak akan dapat bekerja berbarengan. Menghapus salah satu disarankan.</translation>
     </message>
 </context>
 <context>
@@ -11824,14 +11824,14 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">Tugas dibatalkan.</translation>
+        <translation>Tugas dibatalkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Pembaruan Instansi gagal karena: %1
+        <translation>Pembaruan Instansi gagal karena: %1
 
 </translation>
     </message>
