@@ -571,11 +571,11 @@
             "untranslated" : 1292
         },
         "tok" : {
-            "file" : "711b6b1b52888a1220f537d6671043496b9f2db0.class",
-            "sha1" : "711b6b1b52888a1220f537d6671043496b9f2db0",
+            "file" : "7b7c2e160bccb8040fc43c6b97b76baa6565431c.class",
+            "sha1" : "7b7c2e160bccb8040fc43c6b97b76baa6565431c",
             "size" : 55499,
-            "translated" : 534,
-            "fuzzy" : 11,
+            "translated" : 535,
+            "fuzzy" : 10,
             "untranslated" : 842
         },
         "tr" : {
