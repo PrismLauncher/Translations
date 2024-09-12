@@ -3479,7 +3479,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="58"/>
         <source>No java versions are currently available in the meta.</source>
-        <translation type="unfinished">In der Meta sind derzeit keine Java-Versionen verfügbar.</translation>
+        <translation>Derzeit sind in der Meta keine Java-Versionen verfügbar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
@@ -4366,7 +4366,7 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished">Automatische Auswahl der Java-Version, die mit der aktuellen Minecraft-Instanz kompatibel ist, basierend auf der erforderlichen Hauptversion.</translation>
+        <translation>Wählt automatisch die Java-Version aus, die mit der aktuellen Minecraft-Instanz kompatibel ist, basierend auf der benötigten Hauptversion.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
@@ -4465,12 +4465,12 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed java versions are installed</source>
-        <translation type="unfinished">Keine verwalteten Java-Versionen sind installiert</translation>
+        <translation>Es sind keine verwalteten Java-Versionen installiert.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed java list!</source>
-        <translation type="unfinished">Konnte die verwaltete Java-Liste nicht laden!</translation>
+        <translation type="unfinished">Die Liste der verwalteten Java-Versionen konnte nicht geladen werden!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4520,8 +4520,7 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished">Sie werden die Java-Installation namens &quot;%1&quot; entfernen.
-Sind Sie sicher?</translation>
+        <translation type="unfinished">Sie sind dabei, die Java-Installation mit dem Namen „%1“ zu entfernen. Sind Sie sicher?</translation>
     </message>
 </context>
 <context>
@@ -4553,7 +4552,7 @@ Du kannst die Java-Version in den Einstellungen später ändern.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="183"/>
         <source>Automatic Java Download</source>
-        <translation type="unfinished">Lade Java automatisch herunter</translation>
+        <translation>Automatischer Java-Download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="184"/>
