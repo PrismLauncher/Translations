@@ -4491,7 +4491,9 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wybrałeś/aś 32-bitową wersję Javy.
+Ta instalacja nie wspiera więcej niż 2048 MiB RAMu. 
+Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="175"/>
@@ -4549,7 +4551,7 @@ Możesz później zmienić wersję Java&apos;y w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="135"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pobierz Javę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="183"/>
@@ -4636,7 +4638,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatycznie wykryj wersje Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="492"/>
