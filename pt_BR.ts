@@ -12622,14 +12622,14 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">Tarefa cancelada.</translation>
+        <translation>Tarefa cancelada.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Erro ao atualizar instância pois: %1
+        <translation>A atualização da instância falhou porque: %1
 
 </translation>
     </message>
