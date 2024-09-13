@@ -1223,7 +1223,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="175"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można określić typu pobrania Javy!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="210"/>
@@ -4266,7 +4266,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="195"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Odśwież</translation>
+        <translation>&amp;Odśwież</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="212"/>
@@ -4286,7 +4286,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="280"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
@@ -4302,7 +4302,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="313"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="318"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
@@ -4370,7 +4370,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatycznie wybiera wersję Javy, która jest kompatybilna z obecną instancją Minecrafta, na podstawie dużej wersji wymaganej.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
@@ -4391,7 +4391,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatycznie pobierz Javę Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
@@ -4411,12 +4411,12 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
         <source>Remove</source>
-        <translation type="unfinished">Usuń</translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="384"/>
         <source>Refresh</source>
-        <translation type="unfinished">Odśwież</translation>
+        <translation>Odśwież</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -4491,8 +4491,8 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Wybrałeś/aś 32-bitową wersję Javy.
-Ta instalacja nie wspiera więcej niż 2048 MiB RAMu. 
+        <translation>Wybrałeś/aś 32-bitową wersję Javy.
+Ta instalacja nie wspiera więcej niż 2048MiB RAMu.
 Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     </message>
     <message>
@@ -4518,13 +4518,14 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potwierdź usunięcie</translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś przed usunięciem instalacji Javy nazwanej &quot;%1&quot;.
+Czy jesteś pewny/a?</translation>
     </message>
 </context>
 <context>
@@ -4551,24 +4552,26 @@ Możesz później zmienić wersję Java&apos;y w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="135"/>
         <source>Download Java</source>
-        <translation type="unfinished">Pobierz Javę</translation>
+        <translation>Pobierz Javę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="183"/>
         <source>Automatic Java Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne pobieranie Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="184"/>
         <source>%1 can automatically download the correct Java version for each version of Minecraft..
 Do you want to enable Java auto-download?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 może automatycznie pobrać odpowiednią wersję Javy dla każdej wersji Minecrafta.
+Czy chcesz włączyć automatyczne pobieranie Javy?
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="219"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykryto 32-bitową Javę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="220"/>
@@ -4578,7 +4581,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrałeś/aś 32-bitową instalację Javy, ale alokowałeś/aś więcej niż 2048MiB jako maksymalną pamięć.
+%1 nie będzie w stanie włączyć Minecrafta.
+Czy chcesz kontynuować?
+
+Możesz później zmienić wersję Javy w ustawieniach.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="231"/>
@@ -4588,7 +4596,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wybrałeś/aś wersji Javy lub wybrana wersja nie działa.
+%1 nie będzie w stanie włączyć Minecrafta.
+Czy chcesz kontynuować bez funkcjonalnej wersji Javy?
+
+Możesz później zmienić wersję Javy w ustawieniach.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="339"/>
@@ -4633,17 +4646,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="489"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatycznie pobierz Javę Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="491"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished">Automatycznie wykryj wersje Javy</translation>
+        <translation>Wykryj automatycznie wersję Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="492"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykryj automatycznie Javę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="501"/>
@@ -4663,7 +4676,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="510"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przekroczyłeś/aś maksymalny rozmiar alokacji wspierany przez 32-bitowe wersje Javy.</translation>
     </message>
 </context>
 <context>
@@ -5241,7 +5254,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -5383,7 +5396,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
@@ -5393,27 +5406,27 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/BŁĄD] OOoooOOOoooo! Straszny błąd!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/BŁĄD] Straszny błąd!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/OSTRZEŻENIE] Niezbyt straszne ostrzeżenie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/DEBUG] Sekretna wiadomośc debugowania...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/FATALNY] Przerażający fatalny błąd!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -5925,7 +5938,7 @@ Powód:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Błąd otwierania dostarczonego pliku zip.</translation>
+        <translation>Nie można otworzyć dostarczonego pliku zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -7418,7 +7431,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Pobieranie Java</translation>
+        <translation>Pobieranie Javy</translation>
     </message>
 </context>
 <context>
@@ -7426,7 +7439,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ładowanie pliku lokalnego</translation>
     </message>
 </context>
 <context>
@@ -11114,12 +11127,12 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie znaleziono kompatybilnej wersji %1 dla %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak listy wersji w indeksie metadanych dla %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
@@ -11129,22 +11142,22 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, zależność tego komponentu zgłosiła problemy</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, zależność tego komponentu nie jest wymaganą wersją %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, zależność tego komponentu nie jest sugerowaną wersją %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 i %2 są znane z tego że nie współpracują ze sobą. Rekomenduje się usunięcie jednego z nich.</translation>
     </message>
 </context>
 <context>
@@ -12586,7 +12599,7 @@ Jesteś sure(nięty)?</translation>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">Zadanie przerwane.</translation>
+        <translation>Zadanie anulowane.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
@@ -13222,7 +13235,9 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalna alokacja pamięci jest wyższa niż wspierana wartość.
+Wybrana instalacja Javy jest 32-bitowa i nie wspiera więcej niż 2048MiB RAMu.
+Instancja może przez to nie wystartować.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -13787,7 +13802,7 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
@@ -13832,7 +13847,7 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternatywna nazwa wersji Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
