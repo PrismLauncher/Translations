@@ -1193,32 +1193,32 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="78"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczny mechanizm wykrył 32-bitową instalację Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="84"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie znaleziono kompatybilnej wersji Javy. Używam domyślnej.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="95"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Twój system (%1-%2) nie jest kompatybilny z automatyczną instalacją Javy. Używam domyślnej ścieżki Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="103"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta informacje nie są aktualne lub nie mają potrzebnych informacji do ustalenia instalacji Javy, która powinna być użyta. Używam domyślną ścieżkę Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="136"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompatybilna Java znaleziona w: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="153"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie znaleziono kompatybilnej wersji Javy (plik binarny nie istnieje). Używam domyślnej.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="175"/>
@@ -1228,12 +1228,12 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="210"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie znaleziono wersji Javy dla twojego systemu operacyjnego: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="212"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie znaleziono kompatybilnej wersji Javy. Używam domyślnej.</translation>
     </message>
 </context>
 <context>
@@ -3477,12 +3477,12 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="59"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="64"/>
         <source>Couldn&apos;t load or download the java version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Listy wersji Javy nie mogły zostać załadowane lub pobrane!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="63"/>
         <source>No java versions are currently available for your OS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Żadna wersja Javy nie jest obecnie dostępna dla twojego systemu operacyjnego.</translation>
     </message>
 </context>
 <context>
@@ -3848,7 +3848,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz Javę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
@@ -4114,14 +4114,16 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="466"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź wybór</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="467"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrałeś/aś 32-bitową wersję Javy.
+Ta instalacja nie wspiera więcej niż 2048 MiB RAMu. 
+Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="478"/>
@@ -4269,17 +4271,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="212"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="276"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="278"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="280"/>
@@ -4289,7 +4291,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstaluj Javę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="312"/>
@@ -4305,7 +4307,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="323"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwij</translation>
     </message>
 </context>
 <context>
@@ -4373,7 +4375,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatycznie wykryj wersje Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
@@ -4384,7 +4386,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="306"/>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatycznie pobiera i wybiera wersję Javy rekomendowaną przez Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
@@ -4394,17 +4396,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzanie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobrane wersje Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
@@ -4482,7 +4484,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="163"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź wybór</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="164"/>
