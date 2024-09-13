@@ -12408,14 +12408,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">작업 중단됨.</translation>
+        <translation>작업 중단됨.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">인스턴스 업데이트가 다음과 같은 이유로 실패하였습니다: %1.
+        <translation>인스턴스 업데이트가 다음과 같은 이유로 실패하였습니다: %1.
 
 </translation>
     </message>
