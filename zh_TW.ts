@@ -100,7 +100,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>後設資料伺服器 (&amp;D)</translation>
+        <translation>中繼資料伺服器 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -115,7 +115,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>在這裡輸入自訂後設資料伺服器網址。</translation>
+        <translation>在這裡輸入自訂中繼資料伺服器網址。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -125,7 +125,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>注意：如果 CurseForge 已經可以正常運作，您可能不需要設定這項選項。</translation>
+        <translation>注意：如果 CurseForge 已經可以正常運作，您可能不需要設定該選項。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
@@ -166,7 +166,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation>正在刪除現有的檔案…</translation>
+        <translation>正在刪除現有的檔案...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
@@ -191,32 +191,32 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
         <source>Downloading configs...</source>
-        <translation>正在下載組態檔案…</translation>
+        <translation>正在下載組態檔...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
         <source>Config download</source>
-        <translation>下載組態檔案</translation>
+        <translation>下載組態檔</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
         <source>Extracting configs...</source>
-        <translation>正在解壓縮組態檔…</translation>
+        <translation>正在解壓縮組態檔...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="677"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>開啟組態檔案 %1 失敗！</translation>
+        <translation>開啟組態檔 %1 失敗！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
-        <translation>正在選擇可選模組…</translation>
+        <translation>正在選擇可選模組...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
         <source>Downloading mods...</source>
-        <translation>正在下載模組…</translation>
+        <translation>正在下載模組...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>下列檔案無法在第三方啟動器中下載。&lt;br/&gt;您將需要手動去下載它們並把它們加入到實例之中。</translation>
+        <translation>以下檔案不開放第三方啟動器下載。&lt;br/&gt;您需要手動下載並將它們新增至實例。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
@@ -251,12 +251,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="921"/>
         <source>Failed to extract mods...</source>
-        <translation>解壓縮模組失敗…</translation>
+        <translation>解壓縮模組失敗...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
-        <translation>正在解壓縮模組…</translation>
+        <translation>正在解壓縮模組...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
@@ -266,7 +266,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1014"/>
         <source>Failed to create libraries component</source>
-        <translation>建立元件函式庫失敗</translation>
+        <translation>建立程式庫元件失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
@@ -928,7 +928,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="20"/>
         <source>Updating assets index...</source>
-        <translation>正在更新資源索引…</translation>
+        <translation>正在更新資源索引...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="26"/>
@@ -949,7 +949,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>正在從 Mojang 下載資源檔案…</translation>
+        <translation>正在從 Mojang 下載資源檔案...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="90"/>
@@ -1002,7 +1002,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>選擇推薦的</translation>
+        <translation>選擇推薦項目</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
@@ -1059,7 +1059,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜尋及篩選…</translation>
+        <translation>搜尋及篩選...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1124,12 +1124,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation>請稍後…</translation>
+        <translation>請稍後...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
         <source>Working...</source>
-        <translation>處理中…</translation>
+        <translation>處理中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
@@ -1164,7 +1164,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
@@ -1235,7 +1235,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
-        <translation>我們新增了一項功能，可以自動為每個版本的 Minecraft 下載正確的 Java 版本（這可以在 Java 設定中變更）。您想啟用或停用此功能嗎？</translation>
+        <translation>我們新增了一項功能，可以自動為每個版本的 Minecraft 下載正確的 Java 版本（這可以在 Java 設定中變更）。您想啟用或停用這項功能嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1335,7 +1335,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>無法找到 Java 檢查器函式庫。請檢查您的安裝。</translation>
+        <translation>找不到 Java 檢查程式庫。請檢查您的安裝。</translation>
     </message>
 </context>
 <context>
@@ -1368,7 +1368,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>若建立後設資料失敗，將自動嘗試使用其他的模組託管平台</translation>
+        <translation>若建立中繼資料失敗，將自動嘗試使用其他的模組託管平台</translation>
     </message>
 </context>
 <context>
@@ -1381,7 +1381,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>部分元件後設資料載入作業失敗。</translation>
+        <translation>部分元件中繼資料載入作業失敗。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
@@ -1402,7 +1402,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>從遠端伺服器下載元件後設資料的更新作業失敗：
+        <translation>從遠端伺服器下載元件中繼資料的更新作業失敗：
 %1</translation>
     </message>
 </context>
@@ -1426,7 +1426,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
         <source>Please wait...</source>
-        <translation>請稍候…</translation>
+        <translation>請稍候...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="232"/>
@@ -1469,7 +1469,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>停用這個仍會保留模組載入器（例如：Fabric、Quilt 等），但會刪除模組資料夾及其他組態檔案。</translation>
+        <translation>停用該選項仍會保留模組載入器（例如：Fabric、Quilt 等），但會刪除模組資料夾及其他組態檔。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1847,29 +1847,29 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="86"/>
         <source>Checking if mods have metadata...</source>
-        <translation>正在檢查模組是否擁有後設資料…</translation>
+        <translation>正在檢查模組是否擁有中繼資料...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>正在向 %1 請求後設資料資訊…</translation>
+        <translation>正在向 %1 請求中繼資料資訊...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="165"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>正在向 %1 請求「%2」的後設資料資訊…</translation>
+        <translation>正在向 %1 請求「%2」的中繼資料資訊...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="244"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="333"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>正在分析「%1」的 Modrinth API 回應…</translation>
+        <translation>正在分析「%1」的 Modrinth API 回應...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="400"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="467"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在分析「%1」的 CurseForge API 回應…</translation>
+        <translation>正在分析「%1」的 CurseForge API 回應...</translation>
     </message>
 </context>
 <context>
@@ -2223,7 +2223,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>這取決於這些模組的後設資料。如果要保證其可用，可以該實例中執行更新，而不需要將更新安裝到實例中。</translation>
+        <translation>這取決於這些模組的中繼資料。如果要保證其可用，可以該實例中執行更新，而不需要將更新安裝到實例中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
@@ -2337,7 +2337,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="182"/>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>將模組後設資料匯出為文字</translation>
+        <translation>將模組中繼資料匯出為文字</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -2568,12 +2568,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>正在檢查 FML 函式庫…</translation>
+        <translation>正在檢查 FML 程式庫...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>正在下載 FML 函式庫…</translation>
+        <translation>正在下載 FML 程式庫...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -2583,17 +2583,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>正在將 FML 函式庫複製至實例…</translation>
+        <translation>正在將 FML 程式庫複製至實例...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>在實例中建立 FML 函式庫資料夾時失敗。</translation>
+        <translation>在實例中建立 FML 程式庫資料夾時失敗。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>複製 Forge/FML 函式庫時失敗：%1。</translation>
+        <translation>複製 Forge/FML 程式庫時失敗：%1。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="114"/>
@@ -2632,7 +2632,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation>搜尋及篩選…</translation>
+        <translation>搜尋及篩選...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -2664,12 +2664,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation>正在複製檔案…</translation>
+        <translation>正在複製檔案...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation>正在複製設定…</translation>
+        <translation>正在複製設定...</translation>
     </message>
 </context>
 <context>
@@ -2677,7 +2677,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="31"/>
         <source>Resolving mod IDs...</source>
-        <translation>正在解析模組 ID…</translation>
+        <translation>正在解析模組 ID...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="90"/>
@@ -2694,7 +2694,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>正在為 CurseForge 準備模組…</translation>
+        <translation>正在為 CurseForge 準備模組...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -2704,12 +2704,12 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>正在為「%1」取得 CurseForge API 回應…</translation>
+        <translation>正在為「%1」取得 CurseForge API 回應...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在為「%1」分析 CurseForge 的 API 回應…</translation>
+        <translation>正在為「%1」分析 CurseForge 的 API 回應...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
@@ -2844,7 +2844,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="601"/>
         <source>Copying Blocked Mods...</source>
-        <translation>正在複製被封鎖的模組…</translation>
+        <translation>正在複製被封鎖的模組...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="614"/>
@@ -2873,7 +2873,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="593"/>
         <source>Downloading mods...</source>
-        <translation>正在下載模組…</translation>
+        <translation>正在下載模組...</translation>
     </message>
 </context>
 <context>
@@ -2957,7 +2957,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
         <source>Searching for files...</source>
-        <translation>搜尋檔案…</translation>
+        <translation>搜尋檔案...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
@@ -2967,28 +2967,28 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
         <source>Finding file hashes...</source>
-        <translation>正在尋找檔案雜湊值…</translation>
+        <translation>正在尋找檔案雜湊值...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
         <source>Finding versions for hashes...</source>
-        <translation>正在尋找版本雜湊值…</translation>
+        <translation>正在尋找版本雜湊值...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="236"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在分析「%1」的 CurseForge API 回應…</translation>
+        <translation>正在分析「%1」的 CurseForge API 回應...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>正在從 CurseForge 尋找專案資訊…</translation>
+        <translation>正在從 CurseForge 尋找專案資訊...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="334"/>
         <source>Adding files...</source>
-        <translation>正在新增檔案…</translation>
+        <translation>正在新增檔案...</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -3028,7 +3028,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜尋及篩選…</translation>
+        <translation>搜尋及篩選...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -3474,7 +3474,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="63"/>
         <source>No java versions are currently available for your OS.</source>
-        <translation>目前沒有適用於您作業系統的Java版本。</translation>
+        <translation>目前沒有適用於您系統的 Java 版本。</translation>
     </message>
 </context>
 <context>
@@ -3575,7 +3575,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="42"/>
         <source>Removing old conflicting files...</source>
-        <translation>正在刪除舊的衝突檔案…</translation>
+        <translation>正在刪除舊的衝突檔案...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
@@ -3781,7 +3781,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
         <source>Auto-detect...</source>
-        <translation>自動偵測…</translation>
+        <translation>自動偵測...</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -3840,7 +3840,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Download Java</source>
-        <translation>下載Java</translation>
+        <translation>下載 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
@@ -3939,7 +3939,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="471"/>
         <source>&amp;GLFW library path</source>
-        <translation>GLFW 函式庫路徑 (&amp;G)</translation>
+        <translation>GLFW 程式庫路徑 (&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
@@ -3987,7 +3987,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="495"/>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenAL 函式庫路徑 (&amp;O)</translation>
+        <translation>OpenAL 程式庫路徑 (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="529"/>
@@ -4086,7 +4086,7 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="380"/>
         <source>Path to %1 library file</source>
-        <translation>%1 函式庫檔案的路徑</translation>
+        <translation>%1 程式庫檔案的路徑</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="396"/>
@@ -4113,9 +4113,9 @@ Proceed with caution!</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>您選擇了 32 位版本的 Java。
-此版本無法支援超過 2048MiB 的 RAM。
-請確認最大記憶體值較低。</translation>
+        <translation>您選擇了 32 位元的 Java 版本。
+這個安裝版本不支援使用超過 2048 MiB 的記憶體。
+請確保最大記憶體值設定得更低。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="478"/>
@@ -4283,7 +4283,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="286"/>
         <source>Install Java</source>
-        <translation>安裝Java</translation>
+        <translation>安裝 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="312"/>
@@ -4307,7 +4307,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation>正在偵測已安裝的 Java…</translation>
+        <translation>正在偵測已安裝的 Java...</translation>
     </message>
 </context>
 <context>
@@ -4362,12 +4362,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>根據所需的主要版本，自動選取與當前 Minecraft 實例相容的 Java 版本。</translation>
+        <translation>根據所需的 Minecraft 主要版本，自動選擇與目前實例相容的 Java 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
-        <translation>Autodetect Java 版本</translation>
+        <translation>自動偵測 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
@@ -4419,7 +4419,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="190"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>自動偵測 (&amp;A)…</translation>
+        <translation>自動偵測 (&amp;A)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="203"/>
@@ -4440,7 +4440,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation>略過 Java 嚮導 (&amp;W)</translation>
+        <translation>略過 Java 精靈 (&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
@@ -4461,12 +4461,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed java versions are installed</source>
-        <translation>未安裝託管 Java 版本</translation>
+        <translation>未安装可用的 Java 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed java list!</source>
-        <translation>無法載入託管 Java 清單！</translation>
+        <translation>無法載入可用的 Java 版本清單！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4516,8 +4516,8 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>您即將刪除名為&quot;%1&quot;的 Java 安裝。
-您確定嗎？</translation>
+        <translation>您即將移除名為「%1」的 Java 安裝程式。
+確定要移除嗎？</translation>
     </message>
 </context>
 <context>
@@ -4679,7 +4679,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</source>
-        <translation>請選擇要分配給實例的記憶體使用量以及 Prism Launcher 是否應自動或手動管理 Java。</translation>
+        <translation>請選擇要分配給每個實例的記憶體用量，並選擇要讓 Prism Launcher 自動選擇 Java 版本，還是手動指定。</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5087,19 +5087,19 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation>停用模組託管平台（如 Modrinth 或 CurseForge）所提供的模組後設資料。</translation>
+        <translation>停用模組託管平台（如 Modrinth 或 CurseForge）所提供的模組中繼資料。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="242"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>停用模組後設資料</translation>
+        <translation>停用模組中繼資料</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：停用模組後設資料可能也會停用一些生活品質功能，像是模組更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：停用模組中繼資料可能也會停用一些生活品質功能，像是模組更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Breeze Light</source>
@@ -5188,7 +5188,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
         <source>h</source>
-        <translation>小時</translation>
+        <translation>個小時</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="123"/>
@@ -5429,7 +5429,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[測試/資訊] 無害的訊息…</translation>
+        <translation>[測試/資訊] 無害的訊息...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -5454,12 +5454,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="73"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>無法找到啟動器函式庫，請檢查您的安裝。</translation>
+        <translation>找不到啟動器程式庫。請檢查您的安裝。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>找不到舊版啟動器函式庫。請檢查您的安裝。</translation>
+        <translation>找不到舊版啟動器程式庫。請檢查您的安裝。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
@@ -5574,7 +5574,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation>搜尋及篩選…</translation>
+        <translation>搜尋及篩選...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -5725,17 +5725,17 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>正在下載函式庫檔案…</translation>
+        <translation>正在下載程式庫檔案...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation>實例的函式庫 %1</translation>
+        <translation>實例的程式庫 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>後設資料中指定了空白的 Jar 檔，正在中止。</translation>
+        <translation>中繼資料中指定了空白的 Jar 檔，正在中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -5760,7 +5760,7 @@ You&apos;ll have to correct this problem manually.</source>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation>遊戲更新失敗：無法取得需要的 FML 函式庫。
+        <translation>遊戲更新失敗：無法取得需要的 FML 程式庫。
 原因：
 %1</translation>
     </message>
@@ -5777,7 +5777,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation>無效後設資料</translation>
+        <translation>無效中繼資料</translation>
     </message>
 </context>
 <context>
@@ -5905,17 +5905,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;新增微軟帳戶&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;新增 Microsoft 帳號&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation>遊玩 Minecraft 之前您必須登入 Microsoft 帳戶。您想立即登入嗎？</translation>
+        <translation>如要遊玩 Minecraft，您必須至少登入一個 Microsoft 帳號。您想立即登入嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation>新增微軟帳戶</translation>
+        <translation>新增 Microsoft 帳號</translation>
     </message>
 </context>
 <context>
@@ -6033,7 +6033,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation>請稍候…</translation>
+        <translation>請稍候...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -6088,7 +6088,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="149"/>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>開啟 %1 或掃描二維碼並輸入上述代碼。</translation>
+        <translation>開啟 %1 或掃描 QR 圖碼並輸入以上代碼。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
@@ -6293,7 +6293,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="241"/>
         <source>More news...</source>
-        <translation>更多最新消息…</translation>
+        <translation>更多最新消息...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="244"/>
@@ -6308,7 +6308,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="405"/>
         <source>&amp;Edit...</source>
-        <translation>編輯 (&amp;E)…</translation>
+        <translation>編輯 (&amp;E)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="420"/>
@@ -6318,7 +6318,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="462"/>
         <source>E&amp;xport...</source>
-        <translation>匯出 (&amp;X)…</translation>
+        <translation>匯出 (&amp;X)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="432"/>
@@ -6328,7 +6328,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="447"/>
         <source>Cop&amp;y...</source>
-        <translation>複製 (&amp;Y)…</translation>
+        <translation>複製 (&amp;Y)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="501"/>
@@ -6364,7 +6364,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="292"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>新增實例 (&amp;E)…</translation>
+        <translation>新增實例 (&amp;E)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
@@ -6375,7 +6375,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="319"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>設定 (&amp;N)…</translation>
+        <translation>設定 (&amp;N)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
@@ -6393,12 +6393,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="692"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation>清除後設資料快取 (&amp;C)</translation>
+        <translation>清除中繼資料快取 (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="695"/>
         <source>Clear cached metadata</source>
-        <translation>清除後設資料快取</translation>
+        <translation>清除中繼資料快取</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="704"/>
@@ -6521,7 +6521,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="304"/>
         <source>&amp;Update...</source>
-        <translation>更新 (&amp;U)…</translation>
+        <translation>更新 (&amp;U)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
@@ -6531,7 +6531,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="334"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>管理帳號 (&amp;M)…</translation>
+        <translation>管理帳號 (&amp;M)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
@@ -6720,7 +6720,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
         <source>&amp;Change Group...</source>
-        <translation>變更群組 (&amp;C)…</translation>
+        <translation>變更群組 (&amp;C)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
@@ -6962,7 +6962,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="778"/>
         <source>Loading news...</source>
-        <translation>正在載入最新消息…</translation>
+        <translation>正在載入最新消息...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="788"/>
@@ -7334,7 +7334,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation>正在取得版本…</translation>
+        <translation>正在取得版本...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
@@ -7443,7 +7443,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation>載入 %1:%2 的後設資料</translation>
+        <translation>載入 %1:%2 的中繼資料</translation>
     </message>
 </context>
 <context>
@@ -7452,7 +7452,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/meta/VersionList.cpp" line="38"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation>載入 %1 的後設資料</translation>
+        <translation>載入 %1 的中繼資料</translation>
     </message>
 </context>
 <context>
@@ -7634,7 +7634,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
         <source>Native library workarounds</source>
-        <translation>原生函式庫因應措施</translation>
+        <translation>原生程式庫因應措施</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
@@ -7645,7 +7645,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="235"/>
         <source>&amp;GLFW library path</source>
-        <translation>GLFW 函式庫路徑 (&amp;G)</translation>
+        <translation>GLFW 程式庫路徑 (&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
@@ -7656,7 +7656,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="252"/>
         <source>&amp;OpenAL library path</source>
-        <translation>OpenAL 函式庫路徑 (&amp;O)</translation>
+        <translation>OpenAL 程式庫路徑 (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="279"/>
@@ -7774,7 +7774,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="139"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="146"/>
         <source>Path to %1 library file</source>
-        <translation>%1 函式庫檔案的路徑</translation>
+        <translation>%1 程式庫檔案的路徑</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
@@ -8252,7 +8252,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Reset update metadata</source>
-        <translation>重設更新後設資料</translation>
+        <translation>重設更新中繼資料</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="123"/>
@@ -8263,7 +8263,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="113"/>
         <source>Remove mod&apos;s metadata</source>
-        <translation>移除模組的後設資料</translation>
+        <translation>移除模組的中繼資料</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
@@ -8346,7 +8346,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="252"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="415"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
-        <translation>後設資料停用時無法使用模組更新！</translation>
+        <translation>中繼資料停用時無法使用模組更新！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="257"/>
@@ -8389,7 +8389,7 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="391"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>您將要移除 %1 模組的後設資料。
+        <translation>您將要移除 %1 模組的中繼資料。
 您確定嗎？</translation>
     </message>
     <message>
@@ -8558,12 +8558,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="77"/>
         <source>Metadata generation failed</source>
-        <translation>產生後設資料失敗</translation>
+        <translation>產生中繼資料失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>無法為下列模組產生後設資料：&lt;br&gt;您想在不包含這些模組的情況下繼續嗎？</translation>
+        <translation>無法為下列模組產生中繼資料：&lt;br&gt;您想在不包含這些模組的情況下繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="92"/>
@@ -8595,7 +8595,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
         <source>Checking for updates...</source>
-        <translation>檢查更新…</translation>
+        <translation>檢查更新...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
@@ -8616,12 +8616,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation>正在檢查前置項…</translation>
+        <translation>正在檢查前置項...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="307"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>模組「%1」尚未擁有後設資料。為了追蹤如何更新這模組的相關資訊，我們需要先產生一筆後設資料。因此，請選取一個模組託管平台，我們將會在該平台檢查這模組的更新資訊。</translation>
+        <translation>模組「%1」尚未擁有中繼資料。為了追蹤如何更新這模組的相關資訊，我們需要先產生一筆中繼資料。因此，請選取一個模組託管平台，我們將會在該平台檢查這模組的更新資訊。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="410"/>
@@ -8654,7 +8654,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="264"/>
         <source>Looking for metadata</source>
-        <translation>正在尋找後設資料</translation>
+        <translation>正在尋找中繼資料</translation>
     </message>
     <message>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
@@ -8663,7 +8663,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>Generating metadata...</source>
-        <translation>正在生成後設資料…</translation>
+        <translation>正在生成中繼資料...</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -8821,7 +8821,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="39"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation>正在為 Modrinth 準備模組…</translation>
+        <translation>正在為 Modrinth 準備模組...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -8830,7 +8830,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="80"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>正在分析來自 Modrinth 的 API 回應…</translation>
+        <translation>正在分析來自 Modrinth 的 API 回應...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
@@ -8844,7 +8844,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>正在等候 Modrinth 的 API 回應…</translation>
+        <translation>正在等候 Modrinth 的 API 回應...</translation>
     </message>
 </context>
 <context>
@@ -8924,7 +8924,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="286"/>
         <source>Downloading mods...</source>
-        <translation>正在下載模組…</translation>
+        <translation>正在下載模組...</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -8961,7 +8961,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>Fetching changelogs...</source>
-        <translation>正在取得更新日誌…</translation>
+        <translation>正在取得更新日誌...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
@@ -9002,7 +9002,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="57"/>
         <source>Searching for files...</source>
-        <translation>正在搜尋檔案…</translation>
+        <translation>正在搜尋檔案...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
@@ -9055,7 +9055,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="17"/>
         <source>Search and filter ...</source>
-        <translation>搜尋及篩選…</translation>
+        <translation>搜尋及篩選...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -9424,7 +9424,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation>選擇可選的模組</translation>
+        <translation>選擇可選模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
@@ -9748,7 +9748,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation>正在檢查更新…</translation>
+        <translation>正在檢查更新...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
@@ -10302,17 +10302,17 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>請稍候…</translation>
+        <translation>請稍候...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation>全域任務狀態…</translation>
+        <translation>全域任務狀態...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation>全域狀態詳情…</translation>
+        <translation>全域狀態詳情...</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -10393,7 +10393,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>註：Proxy 的使用者名稱及密碼會以明文儲存在啟動器的設定檔中！</translation>
+        <translation>注意：Proxy 伺服器的使用者名稱和密碼是以明文形式儲存在啟動器的設定檔中！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="57"/>
@@ -10598,7 +10598,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation>函式庫 %1 損毀，無法繼續。</translation>
+        <translation>程式庫 %1 損毀，無法繼續。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="207"/>
@@ -10809,7 +10809,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation>無法找到 Java 檢查器函式庫。請檢查您的安裝。</translation>
+        <translation>找不到 Java 檢查程式庫。請檢查您的安裝。</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
@@ -11098,37 +11098,37 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation>找不到 %2 %3 的 %1 相容版本</translation>
+        <translation>找不到與 %2 %3 相容的 %1 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation>%1 的後設資料索引中沒有版本列表</translation>
+        <translation>在 %1 的中繼資料索引中找不到版本清單</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation>%1 缺少前置 %2 %3</translation>
+        <translation>%1 缺少必要的 %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation>%1（此組件的依賴項）已報告問題</translation>
+        <translation>這個元件的其中一個依賴項 %1 回報了問題</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation>%1（此元件的依賴項）不是所需的版本 %2</translation>
+        <translation>這個元件的其中一個依賴項 %1 的版本不符合要求（需要 %2）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation>%1（此元件的依賴項）不是建議的版本 %2</translation>
+        <translation>這個元件的其中一個依賴項 %1 的版本並非建議版本 %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation>已知 %1 和 %2 無法兼容。建議刪除其中一個。</translation>
+        <translation>已知 %1 和 %2 無法相容。建議移除其中一個。</translation>
     </message>
 </context>
 <context>
@@ -11220,7 +11220,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
         <source>Checking for dependencies...</source>
-        <translation>正在檢查前置項…</translation>
+        <translation>正在檢查前置項...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -11311,7 +11311,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="105"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>搜尋%1…</translation>
+        <translation>搜尋%1...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
@@ -11377,7 +11377,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="307"/>
         <source>Loading versions...</source>
-        <translation>正在載入版本…</translation>
+        <translation>正在載入版本...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
@@ -12557,7 +12557,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation>子任務狀態…</translation>
+        <translation>子任務狀態...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
@@ -12570,7 +12570,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation>任務中止。</translation>
+        <translation>任務已中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
@@ -12748,7 +12748,7 @@ inheritsFrom 引數缺失</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜尋及篩選…</translation>
+        <translation>搜尋及篩選...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -12952,7 +12952,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation>嚮導頁面</translation>
+        <translation>精靈頁面</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
@@ -13498,7 +13498,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>開啟該實例的本機函式庫資料夾。</translation>
+        <translation>開啟該實例的本機程式庫資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
