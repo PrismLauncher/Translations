@@ -26,7 +26,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>根網址 (&amp;U)</translation>
+        <translation>基底網址 (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -47,7 +47,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注意：如果透過 Microsoft 驗證登入已經可以正常運作，則可能不需要設定這項選項。</translation>
+        <translation>注意：如果透過 Microsoft 驗證登入已經可以正常運作，則可能不需要設定該選項。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -315,7 +315,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>作者群</translation>
+        <translation>鳴謝</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
@@ -10502,7 +10502,7 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="102"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation>感謝</translation>
+        <translation>特別感謝</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="135"/>
