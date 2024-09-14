@@ -1222,12 +1222,12 @@ Algumas versões do Minecraft podem não iniciar.
         <translation>Não foi possível determinar o tipo de download do Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="207"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation>Nenhuma versão do Java foi encontrada para seu sistema operacional: %1-%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="212"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="209"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation>Nenhuma versão compatível do Java foi encontrada. Usando o padrão.</translation>
     </message>
@@ -4105,33 +4105,33 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <translation>Configurações</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="376"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="383"/>
         <source>Path to %1 library file</source>
         <translation>Caminho para o arquivo de biblioteca %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="399"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Não se pôde achar o GameMode da Feral Interactive no seu sistema.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="404"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>Não se pôde achar o MangoHud no seu sistema.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="455"/>
         <source>Select a Java version</source>
         <translation>Selecionar versão do Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="466"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="469"/>
         <source>Confirm Selection</source>
         <translation>Confirmar seleção</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="467"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="470"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
@@ -4140,12 +4140,12 @@ Esta instalação não suporta mais de 2.048MiB de RAM.
 Certifique-se de que o valor máximo de memória seja menor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="478"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="481"/>
         <source>Find Java executable</source>
         <translation>Encontrar executável do Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="585"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="588"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Sua alocação máxima de memória é menor do que o valor mínimo</translation>
     </message>
@@ -4154,12 +4154,12 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
         <translation type="vanished">Sem conta padrão</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="579"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="582"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Sua alocação máxima de memória excede a capacidade de memória do seu sistema.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="582"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="585"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Sua alocação máxima de memória se aproxima da capacidade de memória do seu sistema.</translation>
     </message>

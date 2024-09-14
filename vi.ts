@@ -1206,12 +1206,12 @@ Một số phiên bản Minecraft có thể không khởi động.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="210"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="207"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="212"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="209"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3958,45 +3958,45 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="376"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="383"/>
         <source>Path to %1 library file</source>
         <translation>Đường dẫn đến tập tin thư viện %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="399"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Chế độ trò chơi Feral Interactive&apos;s không thể tìm thấy trong hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="404"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHud không tìm thấy trong hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="452"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="455"/>
         <source>Select a Java version</source>
         <translation>Chọn phiên bản Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="466"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="469"/>
         <source>Confirm Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="467"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="470"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="478"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="481"/>
         <source>Find Java executable</source>
         <translation>Tìm tệp thực thi Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="585"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="588"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
         <translation>Dung lượng bộ nhớ tối đa bạn đặc hiện đang nhỏ hơn giá trị tối thiểu</translation>
     </message>
@@ -4005,12 +4005,12 @@ Please make sure that the maximum memory value is lower.</source>
         <translation type="vanished">Không có tài khoản mặc định</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="579"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="582"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>Dung lượng bộ nhớ tối đa mà bạn đặt vượt quá dung lượng bộ nhớ hệ thống của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="582"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="585"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>Dung lượng phân bố tối đa của bộ nhớ sắp bằng dung lượng bộ nhớ hệ thống.</translation>
     </message>
@@ -7071,7 +7071,7 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đang tải xuống Java</translation>
     </message>
 </context>
 <context>
