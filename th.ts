@@ -1212,27 +1212,27 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">ฟอร์ม</translation>
+        <translation>ฟอร์ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;การแจ้งเตือนฟีเจอร์ใหม่!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
-        <translation type="unfinished"></translation>
+        <translation>เราได้เพิ่มฟีเจอร์สำหรับดาวน์โหลดเวอร์ชัน Java ที่ถูกต้องสำหรับ Minecraft แต่ละเวอร์ชันโดยอัตโนมัติ (สามารถเปลี่ยนแปลงได้ในการตั้งค่า จาวา) คุณต้องการเปิดใช้หรือปิดใช้งานฟีเจอร์นี้หรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดการดาวน์โหลดอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดดาวน์โหลดอัตโนมัติ</translation>
     </message>
 </context>
 <context>
@@ -1734,7 +1734,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">ไลท์โหลดเดอร์</translation>
+        <translation>ไลท์โหลดเดอร์ (LiteLoader)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
@@ -9377,7 +9377,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="39"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>สร้างอินสแตนซ์ใหม่</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9386,150 +9386,150 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>เเมวพื้นหลัง (จาก MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>รอรี่ไอดี 11 (วาดโดย Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>รอรี่ไอดี 11 (ฉบับเเบน วาดโดย Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="300"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>ทีวี &quot;Teawie&quot; (วาดโดย SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
         <source>resource pack</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กทรัพยากร</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
         <source>texture pack</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กพื้นผิว</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
         <source>data pack</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กข้อมูล</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กเเสงเงา</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกโลก</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>ม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ทราบ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">เรียงตามรายการเด่น</translation>
+        <translation>เรียงตามรายการเด่น</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">เรียงตามความนิยม</translation>
+        <translation>เรียงตามความนิยม</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="121"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">เรียงตามการอัพเดท</translation>
+        <translation>เรียงตามการอัพเดทล่าสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="217"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียงตามลำดับตัวอักษร</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="218"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">เรียงตามผู้เขียน</translation>
+        <translation>เรียงตามเจ้าของ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="118"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="219"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียงตามจำนวนการดาวน์โหลด</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="220"/>
         <source>Sort by Category</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียงตามหมวดหมู่</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">เรียงตามเวอร์ชันเกม</translation>
+        <translation>เรียงตามเวอร์ชันเกม</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียงตามความเกี่ยวข้อง</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียงตามจำนวนผู้ติดตาม</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="120"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished"></translation>
+        <translation>เรียงตามความใหม่ล่าสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรแกรม MKLINK สำหรับ Windows ที่จะใช้งานร่วมกับ prismlauncher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="167"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่จัดกลุ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
         <source>An auto-updater for Prism Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวอัปเดตอัตโนมัติสำหรับ Prism Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
         <location filename="src/launcher/MMCZip.cpp" line="355"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">ไม่สามารถแก้ไขการอนุญาตสำหรับ %1</translation>
+        <translation>ไม่สามารถแก้ไขการอนุญาตสำหรับ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation type="unfinished"></translation>
+        <translation>ไอเทม</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation type="unfinished"></translation>
+        <translation>ไอเทม</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบเวอร์ชันที่เข้ากันได้ของ %1 สำหรับ %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
