@@ -1092,7 +1092,7 @@ ilo anpa sina en %1, la o kama jo e nanpa sin.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>namako sina li lon</translation>
     </message>
 </context>
 <context>
