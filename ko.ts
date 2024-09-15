@@ -63,7 +63,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>여기에 Microsoft 인증을 위한 사용자 지정 클라이언트 ID를 입력합니다.</translation>
+        <translation>여기에 Microsoft 인증을 위한 사용자 지정 클라이언트 ID를 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -74,12 +74,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: 비공개 데이터에 접근하기 위하여 이것만 설정해도 됩니다. 자세한 내용은 &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;문서&lt;/a&gt;를 참고하십시오.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: 비공개 데이터에 접근하기 위하여서만 이것을 설정하여야 합니다. 자세한 내용은 &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;문서&lt;/a&gt;를 참고하십시오.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Modrinth의 커스텀 API 토큰을 여기에 입력하십시오.</translation>
+        <translation>여기에 Modrinth의 커스텀 API 토큰을 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -119,7 +119,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>이곳에 사용자 지정 메타 URL을 입력합니다.</translation>
+        <translation>여기에 사용자 지정 메타 URL을 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
@@ -135,7 +135,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>이곳에 사용자 지정 CurseForge API 키를 입력합니다.</translation>
+        <translation>여기에 사용자 지정 CurseForge API 키를 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
@@ -1229,27 +1229,27 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">폼</translation>
+        <translation>폼</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;새 기능 경고!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
-        <translation type="unfinished"></translation>
+        <translation>마인크래프트의 각 버전에 맞는 Java 버전을 자동으로 다운로드하는 기능이 추가되었습니다(Java 설정에서 변경할 수 있습니다). 이 기능을 활성화하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 다운로드 활성화</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 다운로드 비활성화</translation>
     </message>
 </context>
 <context>
@@ -2045,28 +2045,28 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>&amp;Summary</source>
-        <translation>&amp;요약</translation>
+        <translation>요약(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
         <source>&amp;Name</source>
         <oldsource>Name</oldsource>
-        <translation>&amp;이름</translation>
+        <translation>이름(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>&amp;Version</source>
-        <translation>&amp;버전</translation>
+        <translation>버전(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="89"/>
         <source>&amp;Options</source>
-        <translation>&amp;옵션</translation>
+        <translation>옵션(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="95"/>
         <source>&amp;Files</source>
-        <translation>&amp;파일</translation>
+        <translation>파일(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
@@ -2099,7 +2099,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="73"/>
         <source>&amp;Author</source>
-        <translation>&amp;제작자</translation>
+        <translation>제작자(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="131"/>
@@ -4650,7 +4650,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스에 할당할 메모리의 용량과 Prism Launcher의 Java 자동 관리 여부를 선택하십시오.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -4716,7 +4716,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation>마인크래프트를 이용하려면 마인크래프트를 소유하고 있는 하나 이상의 Microsoft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
+        <translation>마인크래프트를 플레이하려면 마인크래프트를 소유하고 있는 하나 이상의 Microsoft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="117"/>
@@ -5851,22 +5851,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">폼</translation>
+        <translation>폼</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Microsoft 계정 추가&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>마인크래프트를 플레이하려면 하나 이상의 Microsoft 계정에 로그인되어 있어야 합니다. 지금 로그인하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft 계정 추가</translation>
     </message>
 </context>
 <context>
