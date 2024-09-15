@@ -4357,7 +4357,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="218"/>
         <source>JVM arguments:</source>
-        <translation>JVM 引數：</translation>
+        <translation>JVM 參數：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
@@ -10768,20 +10768,20 @@ There are dedicated boxes for these in the settings (Java tab, in the Memory gro
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>您嘗試手動指定 JVM 的記憶體選項（使用「-XX:PermSize」、「-XX-MaxHeapSize」、「-XX:InitialHeapSize」、「-Xmx」或「-Xms」）。
 這些選項在設定中有專門的欄位（在 Java 頁面中，上方的 Memory 群組）。
-此訊息會持續顯示，直到您將它們從 JVM 引數中移除。</translation>
+此訊息會持續顯示，直到您將它們從 JVM 參數中移除。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
         <location filename="src/launcher/JavaCommon.cpp" line="60"/>
         <source>JVM arguments warning</source>
-        <translation>JVM 引數警告</translation>
+        <translation>JVM 參數警告</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>您嘗試將所需要的 Java 版本引數傳送給 JVM（使用「-version:xxx」）。這是不安全的，也是不允許的。
-這則訊息會持續顯示，直到您將它們從 JVM 引數中移除。</translation>
+        <translation>您嘗試將必要的 Java 版本參數傳遞給 JVM（使用「-version:xxx」）。這是不安全的，而且不允許這樣做。
+這則訊息會一直顯示，直到您從 JVM 參數中移除它為止。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="69"/>
