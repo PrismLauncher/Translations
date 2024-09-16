@@ -5027,7 +5027,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Desativar a detecção, instalação, e atualização de dependências de mods.</translation>
+        <translation>Desativar a detecção automática, instalação, e atualização de dependências de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
