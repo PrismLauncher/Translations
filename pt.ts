@@ -3263,7 +3263,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- CurseForge modpacks (ZIP / curseforge:// URL)</translation>
+        <translation>- Modpacks CurseForge (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -3768,7 +3768,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="363"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Fechar automaticamente a consola quando o jogo for encerrado</translation>
+        <translation>Fechar a consola automaticamente ao encerrar o jogo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="370"/>
@@ -5134,7 +5134,7 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Mostrar o console enquanto o jogo estiver sendo executado</translation>
+        <translation>Mostrar consola enquanto o jogo estiver a ser &amp;executado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="520"/>
