@@ -6484,7 +6484,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyisd meg a java mappáját egy webböngészőben. Csak akkor elérhető, ha a beépített java letöltő van használva.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
