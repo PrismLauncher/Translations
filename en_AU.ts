@@ -1163,7 +1163,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished">Install Java</translation>
+        <translation>Install Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -1196,12 +1196,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished">Enable Auto-Download</translation>
+        <translation>Enable Auto-Download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished">Disable Auto-Download</translation>
+        <translation>Disable Auto-Download</translation>
     </message>
 </context>
 <context>
@@ -2636,7 +2636,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Parsing API response from CurseForge for &apos;%1&apos;...</translation>
+        <translation>Parsing API response from CurseForge for &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -4417,7 +4417,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</source>
-        <translation type="unfinished">Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</translation>
+        <translation>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5561,12 +5561,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished">In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</translation>
+        <translation>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished">Add Microsoft account</translation>
+        <translation>Add Microsoft account</translation>
     </message>
 </context>
 <context>
@@ -6053,12 +6053,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -10331,37 +10331,37 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished">No compatible version of %1 found for %2 %3</translation>
+        <translation>No compatible version of %1 found for %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished">No version list in metadata index for %1</translation>
+        <translation>No version list in metadata index for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished">%1 is missing requirement %2 %3</translation>
+        <translation>%1 is missing requirement %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished">%1, a dependency of this component, has reported issues</translation>
+        <translation>%1, a dependency of this component, has reported issues</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished">%1, a dependency of this component, is not the required version %2</translation>
+        <translation>%1, a dependency of this component, is not the required version %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished">%1, a dependency of this component, is not the suggested version %2</translation>
+        <translation>%1, a dependency of this component, is not the suggested version %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished">%1 and %2 are known to not work together. It is recommended to remove one of them.</translation>
+        <translation>%1 and %2 are known to not work together. It is recommended to remove one of them.</translation>
     </message>
 </context>
 <context>
@@ -11791,27 +11791,27 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Checking for Java binary path</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Searching for Java binary path</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to find Java binary path</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Collecting folders to symlink</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Symlinking Java binary path</translation>
     </message>
 </context>
 <context>
@@ -11819,14 +11819,14 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">Task aborted.</translation>
+        <translation>Task aborted.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Instance update failed because: %1
+        <translation>Instance update failed because: %1
 
 </translation>
     </message>
