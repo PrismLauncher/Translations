@@ -1232,7 +1232,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished">Instalar Java</translation>
+        <translation>Instale Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -1250,27 +1250,27 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;¡Alerta de novedad!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemos añadido una función para descargar automáticamente la versión correcta de Java para cada versión de Minecraft (esto se puede cambiar en la configuración de Java). ¿Quieres activar o desactivar esta función?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar Auto-Descarga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar Auto-Descarga</translation>
     </message>
 </context>
 <context>
@@ -2709,7 +2709,7 @@ Por favor, inténtelo de nuevo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizando la respuesta API de CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -4685,7 +4685,7 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, seleccione cuánta memoria asignar a las instancias y si Prism Launcher debe gestionar java automática o manualmente.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5915,22 +5915,22 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Añadir cuenta de Microsoft&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Para jugar a Minecraft, debes tener al menos una cuenta de Microsoft iniciada. ¿Quieres iniciar sesión ahora?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir cuenta de Microsoft</translation>
     </message>
 </context>
 <context>
@@ -6540,12 +6540,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la carpeta java en un explorador de archivos. Sólo disponible si se utiliza el descargador de Java integrado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -10835,7 +10835,7 @@ Se mostrará este mensaje hasta que lo quites de los argumentos de la JVM.</tran
         <location filename="src/launcher/JavaCommon.cpp" line="95"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>El ejecutable de java especificado no funcionó.&lt;br /&gt;Utiliza la función de detección automática o establece la ruta de acceso al ejecutable de Java.&lt;br /&gt;</translation>
+        <translation>El binario de Java especificado no funciona.&lt;br /&gt;Debe utilizar la función de detección automática o establecer la ruta al ejecutable de Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
@@ -12602,27 +12602,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando la ruta binaria de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscando la ruta binaria de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al encontrar la ruta binaria de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Recopilación de carpetas para enlace simbólico</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlace simbólico de la ruta binaria de Java</translation>
     </message>
 </context>
 <context>
