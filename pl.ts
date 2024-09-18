@@ -12707,7 +12707,7 @@ Jesteś sure(nięty)?</translation>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Aktualizacja instancji nie powiodła się z powodu: %1
+        <translation>Aktualizacja instancji nie powiodła się, ponieważ: %1
 
 </translation>
     </message>
