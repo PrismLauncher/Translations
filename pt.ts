@@ -1200,7 +1200,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished">Instalar o Java</translation>
+        <translation>Instalar o Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -1218,7 +1218,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
@@ -2673,7 +2673,7 @@ Por favor tenta de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Avaliando resposta da API do CurseForge para &apos;%1&apos;...</translation>
+        <translation>Avaliando resposta da API do CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3948,7 +3948,7 @@ Por favor tenta de novo.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="670"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Configurar um servidor para juntar-se no arranque</translation>
+        <translation>Configurar um alvo para juntar-se no arranque</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="682"/>
@@ -5743,7 +5743,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -6546,12 +6546,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra a pasta do Java em um explorador de arquivos. Somente disponível se o instalador de Java integrado é usado.</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -7167,7 +7167,7 @@ Ele somente poderá ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Baixando o Java</translation>
+        <translation>Baixando o Java</translation>
     </message>
 </context>
 <context>
@@ -8733,7 +8733,7 @@ Por favor atualiza %1!</translation>
         <location filename="src/launcher/net/NetRequest.cpp" line="153"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="156"/>
@@ -9320,8 +9320,8 @@ Código de fechamento: %1</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation type="unfinished">StdOut: %1
-StdErr: %2</translation>
+        <translation>StdOut: %1
+StdErr: %2 .</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
@@ -9510,12 +9510,12 @@ O atualizador não pode continuar até que este problema seja resolvido.</transl
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="878"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished">Não existem recursos publicados válidos</translation>
+        <translation>Não existem recursos publicados válidos</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Release do Github %1 não tem ativos válidos para essa plataforma: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
@@ -9547,7 +9547,7 @@ O atualizador não pode continuar até que este problema seja resolvido.</transl
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to Download</source>
-        <translation type="unfinished">Falha a transferir</translation>
+        <translation>Falha ao Baixar</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
@@ -9713,12 +9713,12 @@ Para reescrever o ficheiro de bloqueio e prosseguir com esta atualização de qu
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao iniciar o processo do iniciador filho para ler a versão.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>O processo do iniciador filho falhou.</translation>
     </message>
 </context>
 <context>
@@ -9932,22 +9932,22 @@ Escolhe o teu nome com cuidado:</translation>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="85"/>
         <source>Widget style trying to look like your win32 theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de widget tentando se parecer com seu tema win32</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="87"/>
         <source>Windows 9x inspired widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de widget inspirado no Windows 9x</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="89"/>
         <source>WinUI 3 inspired Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de widget Qt inspirado no WinUI 3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="91"/>
         <source>The default Qt widget style</source>
-        <translation type="unfinished"></translation>
+        <translation>O estilo padrão do widget Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="93"/>
@@ -10593,37 +10593,37 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma versão compatível de %1 encontrada para %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma lista de versões no índice de metadados para %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 está faltando o requisito %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, uma dependência deste componente, relatou problemas</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, uma dependência deste componente, não é a versão necessária %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, uma dependência deste componente, não é a versão sugerida %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 e %2 são conhecidos por não trabalharem juntos. É recomendado remover um deles.</translation>
     </message>
 </context>
 <context>
@@ -10637,7 +10637,7 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="388"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Mudar versão %1</translation>
+        <translation>Mudar versão %1</translation>
     </message>
 </context>
 <context>
@@ -10684,7 +10684,8 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você selecionou %1 recursos.
+Tem certeza de que deseja fechar este diálogo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
@@ -10745,18 +10746,18 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro de rede. Não foi possível carregar as versões do projeto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro de rede. Não foi possível carregar as informações do projeto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="242"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>A solicitação foi abortada por um motivo desconhecido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="455"/>
@@ -10882,7 +10883,7 @@ Por favor atualiza %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="481"/>
         <source>The resource was not found</source>
-        <translation type="unfinished">O recurso não foi encontrado</translation>
+        <translation>O recurso não foi encontrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
@@ -11005,13 +11006,14 @@ Aviso: Este recurso tem um link forte com outro lugar. Editá-lo também irá al
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="468"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar alternância</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="469"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se você habilitar/desabilitar este recurso enquanto o jogo estiver em execução, ele poderá travar seu jogo.
+Tem certeza de que deseja fazer isso?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="500"/>
@@ -11260,7 +11262,7 @@ Aviso: Este recurso tem um link forte em outro lado. Editá-lo também irá edit
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar dependências</translation>
     </message>
 </context>
 <context>
@@ -11383,7 +11385,7 @@ Tens a certeza?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tarefa foi abortada pelo usuário.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
@@ -11454,12 +11456,12 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione a versão para instalar</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione a versão para a qual deseja atualizar.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="44"/>
@@ -11476,7 +11478,9 @@ Tens a certeza que queres prosseguir?</translation>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione uma versão para instalar.
+
+Versão instalada atualmente: %1</translation>
     </message>
 </context>
 <context>
@@ -11697,17 +11701,17 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="276"/>
         <source>File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo não é legível.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="278"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>As imagens de Skin devem ser arquivos PNG de 64x64 ou 64x32 pixels.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="282"/>
         <source>Unable to copy file</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível copiar o arquivo</translation>
     </message>
 </context>
 <context>
@@ -11717,7 +11721,7 @@ Tens a certeza que queres prosseguir?</translation>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="244"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="258"/>
         <source>Skin Upload</source>
-        <translation type="unfinished">Trocar skin</translation>
+        <translation>Trocar skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="43"/>
@@ -11732,7 +11736,7 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Slim</source>
-        <translation type="unfinished"></translation>
+        <translation>Slim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="69"/>
@@ -11747,7 +11751,7 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="120"/>
         <source>Reset Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetar Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="134"/>
@@ -11772,12 +11776,12 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="173"/>
         <source>Deletes selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Deletar skin selecionada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="176"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="181"/>
@@ -11787,7 +11791,7 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="184"/>
         <source>Rename selected skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear skin selecionada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="187"/>
@@ -11802,7 +11806,7 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="144"/>
         <source>Selected file is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo selecionado não é uma skin válida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="162"/>
@@ -11822,17 +11826,17 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="244"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">O ficheiro da skin não existe!</translation>
+        <translation>O arquivo da skin não existe!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="258"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">Falha ao enviar a skin!</translation>
+        <translation>Falha ao enviar a skin!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="269"/>
         <source>Reset skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="273"/>
@@ -11857,7 +11861,7 @@ Tens a certeza que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
         <source>Can not delete skin that is in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível apagar uma skin que está em uso.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="330"/>
@@ -11868,7 +11872,8 @@ Tens a certeza que queres prosseguir?</translation>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="331"/>
         <source>You are about to delete &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você está prestes a apagar &quot;%1&quot;.
+Tem certeza?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="348"/>
@@ -11883,17 +11888,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="361"/>
         <source>URL is not a valid skin</source>
-        <translation type="unfinished"></translation>
+        <translation>URL não é uma skin válida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="362"/>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagens de skin devem ser arquivos PNG com 64x64 ou 64x32 pixels de tamanho.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="363"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível baixar a skin: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="409"/>
@@ -11913,13 +11918,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="438"/>
         <source>failed to download skin</source>
-        <translation type="unfinished"></translation>
+        <translation>falha ao baixar skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="448"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="462"/>
         <source>failed to parse get user UUID response</source>
-        <translation type="unfinished"></translation>
+        <translation>falha ao analisar a resposta do UUID do usuário</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="457"/>
@@ -11929,7 +11934,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="471"/>
         <source>failed to parse get user profile response</source>
-        <translation type="unfinished"></translation>
+        <translation>falha ao analisar a resposta do perfil do usuário</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="488"/>
@@ -11946,7 +11951,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="491"/>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível encontrar a skin para &apos;%1&apos;
+porque: %2.</translation>
     </message>
 </context>
 <context>
@@ -12043,22 +12049,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificando o caminho do binário Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurando caminho do binário Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao encontrar o caminho do binário Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Coletando pastas para criar links simbólicos</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
@@ -12541,7 +12547,7 @@ Aviso: Este recurso está ligado por ligação rígida a partir de outro local. 
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>A versão %1 já está disponível - você tem %2 . Gostaria de baixá-la agora?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
@@ -12566,7 +12572,7 @@ Aviso: Este recurso está ligado por ligação rígida a partir de outro local. 
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Uma nova versão de %1 está disponível!</translation>
     </message>
 </context>
 <context>
@@ -12707,7 +12713,9 @@ Aviso: Este recurso está ligado por ligação rígida a partir de outro local. 
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>A alocação máxima de memória excede o valor suportado.
+A instalação selecionada do Java é de 32 bits e não suporta mais do que 2048 MiB de RAM.
+A instância pode não iniciar devido a isso.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -13083,12 +13091,12 @@ Tens a certeza de que queres prosseguir?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituição do Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Java agents</source>
-        <translation type="unfinished">Agentes do Java</translation>
+        <translation>Agentes do Java</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -13153,8 +13161,8 @@ Tens a certeza de que queres prosseguir?</translation>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation type="unfinished">Impossível transferir Minecraft ou atualizar instâncias a menos que tenhas pelo menos uma conta adicionada.
-Por favor adiciona a tua conta da Mojang ou Microsoft.</translation>
+        <translation>Impossível baixar o Minecraft ou atualizar instâncias a menos que tenhas pelo menos uma conta adicionada.
+Por favor adiciona a sua conta da Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
@@ -13277,7 +13285,7 @@ Por favor adiciona a tua conta Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão principal</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
@@ -13322,7 +13330,7 @@ Por favor adiciona a tua conta Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The java major version</source>
-        <translation type="unfinished"></translation>
+        <translation>A versão principal do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
@@ -13485,7 +13493,7 @@ Caminho Canónico: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished">Juntar-se</translation>
+        <translation>Juntar-se</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
@@ -13734,27 +13742,27 @@ Por favor, configura a tua conta de acordo com %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta conta Microsoft requer comprovante de idade para jogar. Entre em %1 para fornecer comprovante de idade.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta conta da Microsoft atingiu seu limite de tempo de jogo. Esta conta da Microsoft foi bloqueada para efetuar login.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="146"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta conta da Microsoft foi banida pelo Xbox por violar um ou mais Padrões da Comunidade do Xbox e não pode ser usada.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta conta da Microsoft está atualmente restrita e seu responsável não lhe deu permissão para jogar online. Entre em %1 e peça para seu responsável alterar suas permissões.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta conta da Microsoft não aceitou os Termos de Serviço do Xbox. Entre e aceite-os.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"/>
