@@ -1177,7 +1177,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Stato dell&apos;attività dell&apos;account sconosciuto: %1</translation>
+        <translation>Lo stato dell&apos;attività dell&apos;account è sconosciuto: %1</translation>
     </message>
 </context>
 <context>
@@ -1215,12 +1215,12 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Non è stato possibile determinare il tipo di scaricamento Java!</translation>
+        <translation>Non è stato possibile determinare il tipo di scaricamento Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished">Installa Java</translation>
+        <translation>Installa Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -2697,7 +2697,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Analizzando la risposta API da CurseForge per &apos;%1&apos;...</translation>
+        <translation>Analizzando la risposta API da CurseForge per &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3467,7 +3467,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No java versions are currently available in the meta.</source>
-        <translation type="unfinished">Nessuna versione di java attualmente disponibile nel meta.</translation>
+        <translation>Nessuna versione di java attualmente disponibile nel metadata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
@@ -4267,7 +4267,7 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="314"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Non è stato possibile determinare il tipo di scaricamento Java!</translation>
+        <translation>Non è stato possibile determinare il tipo di scaricamento Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
@@ -4362,7 +4362,7 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Scarica automaticamente Java da Mojang</translation>
+        <translation>Scarica automaticamente Java da Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
@@ -6487,12 +6487,12 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri la cartella di java in un browser di file. Disponibile solo se lo scaricatore predefinito di Java è utilizzato.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -7906,7 +7906,7 @@ Può essere aggiornato solo tramite file in formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="87"/>
         <source>Loaders</source>
-        <translation type="unfinished">Loaders</translation>
+        <translation>Loaders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="99"/>
@@ -10136,12 +10136,12 @@ Per sovrascrivere questo blocco e procedere comunque con l&apos;aggiornamento, s
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation type="unfinished">Non è stato possibile lanciare il processo di avvio figlio per leggere la versione.</translation>
+        <translation>Non è stato possibile avviare il processo di avvio figlio per leggere la versione.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
         <source>Child launcher process failed.</source>
-        <translation type="unfinished">Avvio del processo figlio fallito.</translation>
+        <translation>Avvio del processo figlio fallito.</translation>
     </message>
 </context>
 <context>
@@ -11016,17 +11016,17 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation type="unfinished">oggetto</translation>
+        <translation>oggetto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation type="unfinished">oggetti</translation>
+        <translation>oggetti</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished">Nessuna versione compatibile di %1 trovata per %2 %3</translation>
+        <translation>Nessuna versione compatibile di %1 trovata per %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
@@ -11036,7 +11036,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished">%1 non ha il requisito %2 %3</translation>
+        <translation>%1 non ha il requisito %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
@@ -11070,7 +11070,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="388"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Cambia la versione di %1</translation>
+        <translation>Cambia la versione di %1</translation>
     </message>
 </context>
 <context>
@@ -11179,7 +11179,7 @@ Sei sicuro di voler chiudere questo dialogo?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="213"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation type="unfinished">Si è riscontrato un errore di connessione. Non è stato possibile caricare le versioni del progetto: %1</translation>
+        <translation>Si è riscontrato un errore di connessione. Non è stato possibile caricare le versioni del progetto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="236"/>
@@ -11251,7 +11251,7 @@ Per favore aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="210"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Questo progetto è stato archiviato. Non riceverà nessun aggiornamento futuro, a meno che l&apos;autore non decida di disarchiviare il progetto.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Questo progetto è stato archiviato. Non riceverà nessun aggiornamento futuro, a meno che l&apos;autore non decida di disarchiviare il progetto.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="215"/>
@@ -11439,7 +11439,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="468"/>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Conferma attivazione/disattivazione</translation>
+        <translation>Conferma attivazione/disattivazione</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="469"/>
@@ -11824,7 +11824,7 @@ Sei sicuro?</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished">Il caricamento della schermata è stato interrotto</translation>
+        <translation>Il caricamento della schermata è stato interrotto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
@@ -12141,7 +12141,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="274"/>
         <source>Not a file.</source>
-        <translation type="unfinished">Non è un file.</translation>
+        <translation>Non è un file.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/SkinList.cpp" line="276"/>
@@ -12301,7 +12301,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
         <source>Delete error</source>
-        <translation type="unfinished">Errore di eliminazione</translation>
+        <translation>Errore di eliminazione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="322"/>
@@ -12348,7 +12348,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="409"/>
         <source>Download user skin</source>
-        <translation type="unfinished">Scarica la skin dell&apos;utente</translation>
+        <translation>Scarica la skin dell&apos;utente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="427"/>
@@ -12369,7 +12369,7 @@ Sei sicuro?</translation>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="448"/>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="462"/>
         <source>failed to parse get user UUID response</source>
-        <translation type="unfinished">non è stato possibile ottenere la risposta UUID dell&apos;utente</translation>
+        <translation>non è stato possibile leggere la risposta UUID dell&apos;utente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="457"/>
@@ -12494,17 +12494,17 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Controllando il percorso del file binario di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cercando il percorso binario di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile trovare il percorso del file binario di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
@@ -12514,7 +12514,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Collegando il percorso del file binario di Java</translation>
     </message>
 </context>
 <context>
@@ -12896,7 +12896,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="189"/>
         <source>Refresh all</source>
-        <translation type="unfinished">Aggiorna tutto</translation>
+        <translation>Aggiorna tutto</translation>
     </message>
 </context>
 <context>
@@ -13541,7 +13541,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Java agents</source>
-        <translation type="unfinished">Agenti Java</translation>
+        <translation>Agenti Java</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -13725,7 +13725,7 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished">Nome di Java</translation>
+        <translation>Nome di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
@@ -13938,7 +13938,7 @@ Percorso canonico: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished">Unisciti</translation>
+        <translation>Unisciti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
