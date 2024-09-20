@@ -393,7 +393,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation>Microsoft 安全帳號</translation>
+        <translation>Microsoft 帳號</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
@@ -703,7 +703,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation>您確定要移除這個帳號嗎？</translation>
+        <translation>確定要移除這個帳號嗎？</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -1035,7 +1035,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>您確定要啟用這個模組嗎？</translation>
+        <translation>確定要啟用這個模組嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
@@ -1212,7 +1212,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished">安裝 Java</translation>
+        <translation>安裝 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -1240,7 +1240,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
-        <translation>我們新增了一項功能，可以自動為每個版本的 Minecraft 下載正確的 Java 版本（這可以在 Java 設定中變更）。您想啟用或停用這項功能嗎？</translation>
+        <translation>我們加入了一項功能，可以自動下載適用於每個 Minecraft 版本的正確 Java 版本（您可以在 Java 設定中變更這項設定）。您想啟用還是停用這項功能？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -2379,7 +2379,7 @@ Some versions of Minecraft may not launch.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>您將要刪除 %1 個項目。
+        <translation>您即將移除 %1 個項目。
 這可能是永久性的，它們將從資料夾中消失。
 
 您確定嗎？</translation>
@@ -2390,7 +2390,7 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>您將要刪除資料夾「%1」。
+        <translation>您即將移除資料夾「%1」。
 這可能是永久性的，它將從父資料夾中消失。
 
 您確定嗎？</translation>
@@ -2409,8 +2409,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="259"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>在遊戲執行時刪除此資源，遊戲可能會崩潰。
-您確定嗎？</translation>
+        <translation>如果您在遊戲執行時移除這個資源，可能會導致遊戲崩潰。
+您確定要這樣做嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
@@ -2421,8 +2421,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="280"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>在遊戲執行時停用此資源，遊戲可能會崩潰。
-您確定嗎？</translation>
+        <translation>如果您在遊戲執行時停用這個資源，可能會導致遊戲崩潰。
+您確定要這樣做嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="326"/>
@@ -2693,7 +2693,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">正在分析「%1」的 CurseForge API 回應...</translation>
+        <translation>正在分析「%1」的 CurseForge API 回應...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -4297,7 +4297,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="314"/>
         <source>Could not determine Java download type!</source>
-        <translation>無法確認 Java下載類型！</translation>
+        <translation>無法判斷 Java 下載類型！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
@@ -4308,7 +4308,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="331"/>
         <source>Abort</source>
-        <translation>關於</translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -4492,9 +4492,9 @@ Please make sure that the maximum memory value is lower.</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>您選擇了 32 位版本的 Java。
-此安裝無法支援超過 2048MiB 的 RAM。
-請確認最大記憶體值較低。</translation>
+        <translation>您選擇了 32 位元的 Java 版本。
+這個安裝版本不支援使用超過 2048 MiB 的記憶體。
+請確保最大記憶體值設定得更低。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="175"/>
@@ -4525,8 +4525,8 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>您即將移除名為「%1」的 Java 安裝程式。
-確定要移除嗎？</translation>
+        <translation>您即將移除名為「%1」的 Java 安裝版本。
+您確定嗎？</translation>
     </message>
 </context>
 <context>
@@ -4688,7 +4688,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</source>
-        <translation>請選擇要分配給每個實例的記憶體用量，並選擇要讓 Prism Launcher 自動選擇 Java 版本，還是手動指定。</translation>
+        <translation>請選擇要分配給每個實例的記憶體用量，並選擇要讓 Prism Launcher 自動選擇 Java 版本，或是手動指定。</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5668,7 +5668,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>您確定要移除 %1 模組包嗎？</translation>
+        <translation>確定要移除 %1 模組包嗎？</translation>
     </message>
 </context>
 <context>
@@ -6530,12 +6530,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>在檔案瀏覽器中開啟 Java 資料夾。僅在使用內建 Java 下載器時可用。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -7086,7 +7086,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1375"/>
         <source>There are linked instances</source>
-        <translation>有連結的實例</translation>
+        <translation>存在已連結的實例</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1376"/>
@@ -7121,8 +7121,8 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>您將要刪除「%1」。
-這可能是永久性的，並且會完全刪除該實例。
+        <translation>您即將刪除「%1」。
+這可能是永久性的，並且會徹底刪除該實例。
 
 您確定嗎？</translation>
     </message>
@@ -7197,7 +7197,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>您確定要刪除群組「%1」嗎？</translation>
+        <translation>確定要刪除群組「%1」嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
@@ -8035,8 +8035,8 @@ This can be updated only using a file in %1 format
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：這個資源已符號連結至其他位置，編輯將同步修改原始資源。
-已連結路徑：%1</translation>
+警告：這個資源已從其他位置建立符號連結。編輯它也會修改原始檔案。
+原始路徑：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="152"/>
@@ -8380,9 +8380,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>在遊戲執行時更新模組，可能會導致模組重複或遊戲崩潰。
-由於遊戲正在使用舊版本的模組，它們可能不會被刪除。
-您確定嗎？</translation>
+        <translation>在遊戲執行時更新模組可能會導致模組重複和遊戲崩潰。
+舊檔案可能不會被刪除，因為它們正在使用中。
+您確定要這樣做嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="278"/>
@@ -8408,7 +8408,7 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="391"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>您將要移除 %1 模組的中繼資料。
+        <translation>您即將移除 %1 模組的中繼資料。
 您確定嗎？</translation>
     </message>
     <message>
@@ -8933,7 +8933,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="253"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation>其中一個檔案的路徑指向任意位置的路徑（%1）。不允許此操作，因為有安全風險。</translation>
+        <translation>其中一個檔案的路徑指向任意位置 (%1)。這會造成安全風險，因此不被允許。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="293"/>
@@ -9548,7 +9548,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>您將要刪除「%1」。
+        <translation>您即將刪除「%1」。
 這可能是永久性的，它將從記錄檔資料夾中消失。
 
 您確定嗎？</translation>
@@ -9567,7 +9567,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation>您確定要刪除這個所有檔案嗎？
+        <translation>確定要刪除所有這些檔案嗎？
 %1</translation>
     </message>
     <message>
@@ -10540,8 +10540,8 @@ Choose your name carefully:</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>您將要把「%1」上傳至 %2。
-您應該再次檢查個人資訊。
+        <translation>您即將將「%1」上傳到 %2。
+您應該再次檢查是否有個人資訊。
 
 您確定嗎？</translation>
     </message>
@@ -11210,7 +11210,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
         <translation>您有 %1 個已選取的資源。
-您確定要關閉這個對話方塊嗎？</translation>
+確定要關閉這個對話方塊嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
@@ -11486,7 +11486,7 @@ Please update %1!</source>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
-        <translation>下載資源：
+        <translation>正在下載資源：
 %1</translation>
     </message>
 </context>
@@ -11498,8 +11498,8 @@ Please update %1!</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：這個資源已符號連結至其他位置，編輯將同步修改原始資源。
-已連結的路徑：%1</translation>
+警告：這個資源已從其他位置建立符號連結。編輯它也會修改原始檔案。
+原始路徑：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="436"/>
@@ -11617,15 +11617,15 @@ Are you sure you want to do this?</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：這個資源已符號連結至其他位置，編輯將同步修改原始資源。
-已連結的路徑：%1</translation>
+警告：這個資源已從其他位置建立符號連結。編輯它也會修改原始檔案。
+原始路徑：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="119"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此這個資源已硬連結至其他位置，編輯將同步修改原始資源。</translation>
+警告：這個資源已在其他位置建立硬連結。編輯它也會修改原始檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
@@ -11793,7 +11793,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="114"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>您將要下載下列%1：</translation>
+        <translation>您即將下載下列%1：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
@@ -11877,7 +11877,7 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>您將要把 %1 個螢幕擷取畫面上傳至 %2。
+        <translation>您即將把 %1 個螢幕擷取畫面上傳至 %2。
 您應該再次檢查個人資訊。
 
 您確定嗎？</translation>
@@ -11888,7 +11888,7 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>您將要把選取的螢幕擷取畫面上傳至 %1。
+        <translation>您即將把選取的螢幕擷取畫面上傳至 %1。
 您應該再次檢查個人資訊。
 
 您確定嗎？</translation>
@@ -11944,7 +11944,7 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>您將要刪除 %1 螢幕擷取畫面？
+        <translation>您即將刪除 %1 螢幕擷取畫面？
 這可能是永久性的，它們將從資料夾中消失。
 
 您確定嗎？</translation>
@@ -12137,7 +12137,7 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>您將要刪除「%1」。
+        <translation>您即將刪除「%1」。
 這可能是永久性的，伺服器將永遠（非常久）從您的清單中消失。
 
 您確定嗎？</translation>
@@ -12590,27 +12590,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>正在檢查 Java 二進制檔案路徑</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>正在搜尋 Java 二進制檔案路徑</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到 Java 二進制檔案路徑</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>正在收集要建立符號連結的資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>正在建立 Java 二進制檔案路徑的符號連結</translation>
     </message>
 </context>
 <context>
@@ -12873,8 +12873,8 @@ inheritsFrom 引數缺失</translation>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-警告：這個資源已符號連結至其他位置，編輯將同步修改原始資源。
-已連結的路徑：%1</translation>
+警告：這個資源已從其他位置建立符號連結。編輯它也會修改原始檔案。
+原始路徑：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="96"/>
@@ -13609,7 +13609,7 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation>您將要刪除「%1」。
+        <translation>您即將刪除「%1」。
 這可能是永久性的，並且會完全刪除該自訂元件。
 
 您確定嗎？</translation>
@@ -13716,7 +13716,7 @@ Please add your Microsoft or Mojang account.</oldsource>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>您將要還原「%1」。
+        <translation>您即將還原「%1」。
 這可能是永久性的，將完全還原該自訂設定。
 
 您確定嗎？</translation>
@@ -13945,26 +13945,26 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="200"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation>這個世界已連結至其他位置。</translation>
+        <translation>這個世界已在其他位置建立符號連結。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
-這個世界在別處是硬連結的。</translation>
+這個世界已在其他位置建立硬連結。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="222"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>警告：這個世界已符號連結至其他位置，編輯將同步修改原始資源。
-已連結的路徑：%1</translation>
+        <translation>警告：這個世界已在其他位置建立符號連結。編輯它也會修改原始檔案。
+原始路徑：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>警告：這個世界已硬連結至其他位置，編輯將同步修改原始資源。</translation>
+        <translation>警告：這個世界已在其他位置建立硬連結。編輯它也會修改原始檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
@@ -14186,7 +14186,7 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>您將要刪除「%1」。
+        <translation>您即將刪除「%1」。
 世界可能將永久刪除（非常久）。
 
 您確定嗎？</translation>
@@ -14276,9 +14276,9 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>此 Microsoft 帳號未成年，也未連結到家庭群組。
+        <translation>這個 Microsoft 帳號未成年，且未連結至任何家庭群組。
 
-請依照 %1 設定您的帳號。</translation>
+請根據 %1 的指示設定您的帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
