@@ -5402,7 +5402,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Teszt/INFO] Ártalmatlan üzenet...</translation>
+        <translation>[Test/INFO] Ártalmatlan üzenet...</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
