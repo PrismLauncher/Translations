@@ -112,7 +112,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished">&amp;CurseForge Core API</translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
@@ -123,7 +123,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished">აქ შეიყვანეთ CurseForge-ის მორგებული API გასაღები.</translation>
+        <translation>აქ შეიყვანეთ CurseForge-ის მორგებული API გასაღები.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
@@ -203,7 +203,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
@@ -229,42 +229,42 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 -იდან %2 -ია დასრულებული</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="921"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>მიმდინარეობს მოდების ექსტრაქცია...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>მიმდინარეობს modpack-ის ინსტალაცია</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1014"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation>ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">უცნობი მტვირთავის ტიპი: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1055"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
     </message>
 </context>
 <context>
@@ -277,7 +277,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;მორგებული ლაუნჩერი რომელიც Minecraft-ის მართვას უფრო ადვილს ხდის იმითი, რომ იგი გაძლევს უფლებას გქონდეს რამოდენიმე Minecraft-ის ინსტანცია გახსნილი ერთად.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -297,7 +297,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>ვალდებულება:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -332,12 +332,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ვალდებულება: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>აშენების თარიღი: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -388,7 +388,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>შეცდა</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
@@ -417,7 +417,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>ანგარიშის ტიპი (MSA თუ ოფლაინი)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
@@ -428,7 +428,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
@@ -460,17 +460,17 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-ის სახელი ასოცირებულია ექაუნთით.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>ანგარიშის სახელი.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>ანგარიშის მიმდინარე სტატუსი.</translation>
     </message>
 </context>
 <context>
@@ -506,24 +506,24 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;სკინების მართვა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>სკინების მართვა</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Microsoft-ის დამატება</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>დამატება &amp;Offline-ის</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
@@ -534,7 +534,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>ანგარიშის ჟეტონის განახლება</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
@@ -553,7 +553,8 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>მოგესალმებით!
+თუ შენ აქ ახალი ხარ, შეგიძლია აირჩიო&quot;Microsoft-ის დამატება&quot; ღილაკი რომ დააკავშირო Microsoft ანგარიში.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -577,12 +578,12 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>შენ უნდა დაამატო Microsoft ანგარიში რომელსაც Minecraft აქვს სანამ შეგიძლია დაამატო ოფლაინ ანგარიში.&lt;br&gt;&lt;br&gt;თუ შენ დაკარგე შენი ანგარიში შეგიძლია დაუკავშირდე Microsoft-ს დახმარებისთვის.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>გთხოვ შეიყვანე შენი სასურველი სახელი რომ დაამატო შენი ოფლაინ ანგარიში.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -616,12 +617,23 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>ამ ინსტალაცის განახლების ჩაკეტვის ფაილი აქვს: %1 -ში
+
+დრო: %2
+სახლდება ვერსა %3 -დან %4 -მდე
+სამიზნე ინსტალაციის გზა: %5
+მონაცემთა გზა: %6
+ეს სავარაუდოდ ნიშნავს, რომ განახლების მცდელობა ვერ მოხერხდა. გთხოვთ, დარწმუნდით, რომ თქვენი ინსტალაცია სამუშაო მდგომარეობაშია სანამ გააგრძელებთ.
+შეამოწმე prism launcher განახლების log აქ: 
+%7
+შინა განახლების მცდელობის დეტალებზე.
+
+ამ საკეტის წასაშლელად და გასაგრძელებლად აირჩიეთ &quot;იგნორირება&quot; ქვემოთ.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="949"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>მიმდინარეობს განახლება</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="973"/>
@@ -652,12 +664,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>განახლება წარმატებით შესრულდა.
+
+შენ ეხლა იყენებ %1 -ს .
+შეამოწმე prism launcher განახლების log აქ: 
+%2
+დეტალებისთვის.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1013"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>განახლება წარმატებით შესრულდა</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1044"/>
