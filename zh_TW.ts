@@ -31,7 +31,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>注意：在變更剪貼簿服務類型後，您可能需要變更或清除基底網址。</translation>
+        <translation>注意：在變更貼上服務類型後，您可能需要變更或清除基底網址。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -289,7 +289,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;是個第三方的啟動器，它讓您能夠在同一個啟動器裡更輕鬆地管理多個 Minecraft 的實例。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;一款第三方啟動器，讓您可以同時管理多個 Minecraft 遊戲版本，使 Minecraft 的管理更加輕鬆便利。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -441,7 +441,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="319"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>無</translation>
+        <translation>已移除</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
@@ -452,7 +452,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>帳號類型（MSA 或離線）</translation>
+        <translation>帳號類型（Microsoft 帳號或離線）</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -627,7 +627,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>歡迎！
-如果您第一次來這裡，您可以點選「新增微軟帳號」按鈕來連結您的 Microsoft 帳號。</translation>
+如果您是第一次使用，您可以點選「新增微軟帳號」按鈕來連結您的 Microsoft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -774,18 +774,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>此安裝有一個更新鎖定檔案位於：%1
+        <translation>這個安裝在以下位置存在一個更新鎖定檔案：%1
 
 時間戳記：%2
-從版本 %3 更新到 %4
+正在從版本 %3 更新到 %4
 目標安裝路徑：%5
 資料路徑：%6
-這可能代表著更新嘗試失敗。在繼續之前，請確保您的安裝正常運作。
-檢查 Prism Launcher 更新程式記錄檔：
+這很可能表示更新嘗試失敗。請在繼續操作之前確保您的安裝正常運作。
+請查看 Prism Launcher 更新程式記錄檔：
 %7
-以取得有關上次更新嘗試的詳細資訊。
+以了解上次更新嘗試的詳細資訊。
 
-要刪除此鎖定並繼續，請點選下方的「忽略」。</translation>
+如要刪除這個鎖定並繼續操作，請選擇下方的「忽略」。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="949"/>
@@ -802,10 +802,10 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</source>
         <translation>更新嘗試失敗
 
-在繼續之前，請確保您的安裝正常運作。
-檢查 Prism Launcher 更新程式記錄檔：
+請在繼續操作之前確保您的安裝正常運作。
+請查看 Prism Launcher 更新程式記錄檔：
 %1
-以取得有關上次更新嘗試的詳細資訊。</translation>
+以了解上次更新嘗試的詳細資訊。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="981"/>
@@ -836,7 +836,7 @@ for details.</oldsource>
     <message>
         <location filename="src/launcher/Application.cpp" line="1013"/>
         <source>Update Succeeded</source>
-        <translation>更新</translation>
+        <translation>更新成功</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1044"/>
@@ -972,7 +972,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>依人氣程度排序</translation>
+        <translation>依熱門程度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
@@ -1192,7 +1192,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="106"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>您的後設資訊已過期或缺少必要資訊，無法判斷應該使用哪個 Java 安裝版本。將使用預設的 Java 路徑。</translation>
+        <translation>您的中繼資訊已過期或缺少必要資訊，無法判斷應該使用哪個 Java 安裝版本。將使用預設的 Java 路徑。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
@@ -1314,7 +1314,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您設定的全域模組資料夾和預設下載資料夾會自動檢查下載的模組，如果找到它們將被複製到實例。&lt;/p&gt;&lt;p&gt;您可以選擇如果您沒有將模組下載到預設位置，可以將下載的模組拖移到此對話框或新增一個資料夾查看。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;系統會自動檢查您設定的全域模組資料夾和預設下載資料夾，若找到已下載的模組，便會將其複製到這個實例中。&lt;/p&gt;&lt;p&gt;或者，如果您沒有將模組下載到預設位置，您可以將下載的模組拖放到這個對話方塊，或新增一個資料夾來監控。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1327,7 +1327,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="55"/>
         <source>Equipping cape</source>
-        <translation>使用披風</translation>
+        <translation>裝備披風</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/skins/CapeChange.cpp" line="52"/>
@@ -2296,7 +2296,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Disable selected item</source>
-        <translation>刪除所選項目</translation>
+        <translation>停用所選項目</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
@@ -2352,7 +2352,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
         <source>Go to mods home page</source>
-        <translation>到模組主頁</translation>
+        <translation>前往模組首頁</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -3052,7 +3052,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>依人氣程度排序</translation>
+        <translation>依熱門程度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
@@ -5178,7 +5178,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>停用自動檢查、安裝和更新前置模組。</translation>
+        <translation>停用自動偵測、安裝和更新前置模組。</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -7266,7 +7266,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>您現在有兩個選項： &lt;br/&gt; - 在設定中變更實例資料夾 &lt;br/&gt; - 移動這個安裝檔 %1 至不同的資料夾</translation>
+        <translation>您現在有兩個選項： &lt;br/&gt; - 在設定中變更實例資料夾 &lt;br/&gt; - 將 %1 移動到其他資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
@@ -8277,7 +8277,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="123"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="148"/>
         <source>Go to mod&apos;s home page</source>
-        <translation>到模組的主頁</translation>
+        <translation>前往模組的首頁</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="113"/>
@@ -10090,18 +10090,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation>此安裝程式有一個更新鎖定檔案，位於：%1
+        <translation>這個安裝在以下位置存在一個更新鎖定檔案：%1
 
 時間戳記：%2
-從 %3 版本更新到 %4 版本
+正在從版本 %3 更新到 %4
 目標安裝路徑：%5
 資料路徑：%6
-這很可能是因為之前的更新嘗試失敗了。在繼續之前，請確保您的安裝正常運作。
+這很可能表示先前的更新嘗試失敗。請在繼續操作之前確保您的安裝正常運作。
 請查看 Prism Launcher 更新程式記錄檔：
 %7
-以取得上次更新嘗試的詳細資訊
+以了解上次更新嘗試的詳細資訊。
 
-要覆蓋此鎖定並繼續進行此更新，請點選下方的「忽略」。</translation>
+如要覆蓋這個鎖定並繼續本次更新，請選擇下方的「忽略」。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
@@ -11035,7 +11035,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Popularity</source>
-        <translation>依人氣程度排序</translation>
+        <translation>依熱門程度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="216"/>
