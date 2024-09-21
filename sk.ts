@@ -4064,7 +4064,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nainštaluj Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="314"/>
@@ -4322,7 +4322,7 @@ Verziu Javy dokážete kedykoľvek zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stiahnuť Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
@@ -5662,7 +5662,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nebolo možné otvoriť daný zip súbor.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -6931,7 +6931,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sťahovanie Javy</translation>
     </message>
 </context>
 <context>
@@ -7179,12 +7179,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="295"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povoliť pokročilý výkonnostný overlay MangoHud-u.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="298"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Povoliť MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="305"/>
