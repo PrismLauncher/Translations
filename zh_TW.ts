@@ -1319,7 +1319,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation>監視資料夾：</translation>
+        <translation>監控資料夾：</translation>
     </message>
 </context>
 <context>
@@ -3427,7 +3427,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>選擇您想要將此 %1 匯入到的實例。</translation>
+        <translation>選擇您要將 %1 匯入的實例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -3482,7 +3482,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No java versions are currently available for your OS.</source>
-        <translation>目前沒有適用於您系統的 Java 版本。</translation>
+        <translation>目前沒有適用於您作業系統的 Java 版本。</translation>
     </message>
 </context>
 <context>
@@ -3559,7 +3559,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="188"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>實例資料夾複製已被中斷。</translation>
+        <translation>已中止複製實例資料夾。</translation>
     </message>
 </context>
 <context>
@@ -4266,7 +4266,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation>重新整理</translation>
+        <translation>重新整理 (&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
@@ -9095,7 +9095,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="80"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation>依關聯性排序</translation>
+        <translation>依相關度排序</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -11015,7 +11015,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
         <source>world save</source>
-        <translation>儲存世界</translation>
+        <translation>世界存檔</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
@@ -11072,7 +11072,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="117"/>
         <source>Sort by Relevance</source>
-        <translation>依關聯性排序</translation>
+        <translation>依相關度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="119"/>
@@ -11215,12 +11215,12 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>開啟新的彈出視窗以查看您選擇的 %1 並確認您的選擇。快捷鍵：Ctrl+Enter</translation>
+        <translation>開啟新的彈出式視窗，以檢閱您選擇的 %1 並確認您的選擇。快捷鍵：Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
         <source>Confirm %1 to download</source>
-        <translation>確定 %1 下載</translation>
+        <translation>確認要下載的%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
@@ -13670,7 +13670,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>無法匯入部分元件。確認記錄檔以了解詳情</translation>
+        <translation>無法匯入部分元件。查看記錄檔以取得詳細資訊</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
@@ -13831,7 +13831,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
         <source>Released</source>
-        <translation>發布於</translation>
+        <translation>發布日期</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
