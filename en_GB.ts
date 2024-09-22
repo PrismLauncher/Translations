@@ -928,7 +928,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">No files were found in the supplied Zip file,</translation>
+        <translation>No files were found in the supplied zip file.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -4711,7 +4711,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</source>
-        <translation type="unfinished">Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</translation>
+        <translation>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
