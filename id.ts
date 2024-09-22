@@ -906,8 +906,9 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
-        <source>No files were found in the supplied zip file,</source>
-        <translation>Tidak ada berkas yang ditemukan dalam berkas zip,</translation>
+        <source>No files were found in the supplied zip file.</source>
+        <oldsource>No files were found in the supplied zip file,</oldsource>
+        <translation type="unfinished">Tidak ada berkas yang ditemukan dalam berkas zip,</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -9589,8 +9590,9 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
-        <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation>Gagal menjalankan proses anak &quot;%1 %2&quot;.</translation>
+        <source>Failed to launch child process &quot;%1 %2&quot;.</source>
+        <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
+        <translation type="unfinished">Gagal menjalankan proses anak &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -9620,8 +9622,12 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
+        <source>Failed to launch child process to read version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation>Gagal menjalankan proses anak launcher untuk membaca versi.</translation>
+        <translation type="vanished">Gagal menjalankan proses anak launcher untuk membaca versi.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>

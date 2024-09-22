@@ -926,8 +926,9 @@ Algumas versões do Minecraft podem não iniciar.
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
-        <source>No files were found in the supplied zip file,</source>
-        <translation>Nenhum arquivo foi encontrado no arquivo zip fornecido,</translation>
+        <source>No files were found in the supplied zip file.</source>
+        <oldsource>No files were found in the supplied zip file,</oldsource>
+        <translation type="unfinished">Nenhum arquivo foi encontrado no arquivo zip fornecido,</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -10243,8 +10244,9 @@ Para substituir esse bloqueio e prosseguir com esta atualização de qualquer ma
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
-        <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation>O início do sub-processo &quot;%1 %2&quot; falhou.</translation>
+        <source>Failed to launch child process &quot;%1 %2&quot;.</source>
+        <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
+        <translation type="unfinished">O início do sub-processo &quot;%1 %2&quot; falhou.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10274,8 +10276,12 @@ Para substituir esse bloqueio e prosseguir com esta atualização de qualquer ma
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
+        <source>Failed to launch child process to read version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation>Falha ao iniciar um sub-processo para ler a versão.</translation>
+        <translation type="vanished">Falha ao iniciar um sub-processo para ler a versão.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>

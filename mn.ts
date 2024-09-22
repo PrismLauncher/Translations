@@ -698,7 +698,8 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
-        <source>No files were found in the supplied zip file,</source>
+        <source>No files were found in the supplied zip file.</source>
+        <oldsource>No files were found in the supplied zip file,</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8088,7 +8089,8 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
-        <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
+        <source>Failed to launch child process &quot;%1 %2&quot;.</source>
+        <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8119,7 +8121,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
-        <source>Failed to launcher child launcher process to read version.</source>
+        <source>Failed to launch child process to read version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

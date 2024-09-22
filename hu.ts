@@ -910,8 +910,9 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
-        <source>No files were found in the supplied zip file,</source>
-        <translation>A mellékelt zip fájlban nem találtunk fájlokat,</translation>
+        <source>No files were found in the supplied zip file.</source>
+        <oldsource>No files were found in the supplied zip file,</oldsource>
+        <translation type="unfinished">A mellékelt zip fájlban nem találtunk fájlokat,</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -10102,8 +10103,9 @@ Ha szeretné felülírni ezt a zárolást, és mindenképpen folytatni szeretné
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
-        <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation>Nem sikerült elindítani a launcher gyermekfolyamatot &quot;%1 %2&quot;.</translation>
+        <source>Failed to launch child process &quot;%1 %2&quot;.</source>
+        <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
+        <translation type="unfinished">Nem sikerült elindítani a launcher gyermekfolyamatot &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10133,8 +10135,12 @@ Ha szeretné felülírni ezt a zárolást, és mindenképpen folytatni szeretné
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
+        <source>Failed to launch child process to read version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation>Nem sikerült elindítani az launcher gyermekindító folyamatát a verzió olvasásához.</translation>
+        <translation type="vanished">Nem sikerült elindítani az launcher gyermekindító folyamatát a verzió olvasásához.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>

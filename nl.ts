@@ -910,7 +910,8 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
-        <source>No files were found in the supplied zip file,</source>
+        <source>No files were found in the supplied zip file.</source>
+        <oldsource>No files were found in the supplied zip file,</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10001,8 +10002,9 @@ Selecteer hieronder &quot;Negeren&quot; om deze vergrendeling te overschrijven e
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
-        <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation>Kindproces &quot;%1 %2&quot; kon niet worden gestart.</translation>
+        <source>Failed to launch child process &quot;%1 %2&quot;.</source>
+        <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
+        <translation type="unfinished">Kindproces &quot;%1 %2&quot; kon niet worden gestart.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10032,8 +10034,12 @@ Selecteer hieronder &quot;Negeren&quot; om deze vergrendeling te overschrijven e
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
+        <source>Failed to launch child process to read version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation>Mislukt om child launcher proces te starten om versie te lezen.</translation>
+        <translation type="vanished">Mislukt om child launcher proces te starten om versie te lezen.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>

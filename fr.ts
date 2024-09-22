@@ -930,8 +930,9 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
-        <source>No files were found in the supplied zip file,</source>
-        <translation>Aucun fichier trouvé dans le fichier zip,</translation>
+        <source>No files were found in the supplied zip file.</source>
+        <oldsource>No files were found in the supplied zip file,</oldsource>
+        <translation type="unfinished">Aucun fichier trouvé dans le fichier zip,</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -10192,8 +10193,9 @@ Pour passer outre ce verrouillage et procéder quand même à cette mise à jour
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
-        <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation>Échec du lancement du processus fils &quot;%1 %2&quot;.</translation>
+        <source>Failed to launch child process &quot;%1 %2&quot;.</source>
+        <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
+        <translation type="unfinished">Échec du lancement du processus fils &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10223,8 +10225,12 @@ Pour passer outre ce verrouillage et procéder quand même à cette mise à jour
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
+        <source>Failed to launch child process to read version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation>Échec du lancement du processus fils du lanceur pour lire la version.</translation>
+        <translation type="vanished">Échec du lancement du processus fils du lanceur pour lire la version.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>

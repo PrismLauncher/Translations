@@ -905,8 +905,9 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
-        <source>No files were found in the supplied zip file,</source>
-        <translation>V poskytnutém souboru zip nebyly nalezeny žádné soubory</translation>
+        <source>No files were found in the supplied zip file.</source>
+        <oldsource>No files were found in the supplied zip file,</oldsource>
+        <translation type="unfinished">V poskytnutém souboru zip nebyly nalezeny žádné soubory</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -10187,8 +10188,9 @@ Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
-        <source>Failed to launcher child process &quot;%1 %2&quot;.</source>
-        <translation>Nepodařilo se spustit podřazený proces launcheru „%1 %2“.</translation>
+        <source>Failed to launch child process &quot;%1 %2&quot;.</source>
+        <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
+        <translation type="unfinished">Nepodařilo se spustit podřazený proces launcheru „%1 %2“.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10218,8 +10220,12 @@ Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
+        <source>Failed to launch child process to read version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to launcher child launcher process to read version.</source>
-        <translation>Podřazenému procesu launcheru se nepodařilo přečíst verzi.</translation>
+        <translation type="vanished">Podřazenému procesu launcheru se nepodařilo přečíst verzi.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
