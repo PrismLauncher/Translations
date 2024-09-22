@@ -3549,7 +3549,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="41"/>
         <source>Copying instance %1</source>
-        <translation>複製實例 %1</translation>
+        <translation>正在複製實例 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="146"/>
