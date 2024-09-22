@@ -1265,12 +1265,12 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-Download einschalten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-Download deaktivieren</translation>
     </message>
 </context>
 <context>
@@ -4507,7 +4507,7 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed java list!</source>
-        <translation type="unfinished">Die Liste der verwalteten Java-Versionen konnte nicht geladen werden!</translation>
+        <translation>Die Liste der verwalteten Java-Versionen konnte nicht geladen werden!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4557,7 +4557,7 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished">Sie sind dabei, die Java-Installation mit dem Namen „%1“ zu entfernen. Sind Sie sicher?</translation>
+        <translation>Sie sind dabei, die Java-Installation mit dem Namen „%1“ zu entfernen. Sind Sie sicher?</translation>
     </message>
 </context>
 <context>
