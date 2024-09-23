@@ -907,7 +907,7 @@ Některé verze Minecraftu se nemusí spustit.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">V poskytnutém souboru zip nebyly nalezeny žádné soubory</translation>
+        <translation>V poskytnutém souboru zip nebyly nalezeny žádné soubory.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -5354,7 +5354,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Opravdu chcete použít tuto cestu? Výběrem &quot;Ne&quot; se toto zavře a cesta in instanci se nezmění.</translation>
+        <translation>Opravdu chcete použít tuto cestu? Výběrem „Ne“ se toto zavře a cesta in instanci se nezmění.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
@@ -10190,7 +10190,7 @@ Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">Nepodařilo se spustit podřazený proces launcheru „%1 %2“.</translation>
+        <translation>Nepodařilo se spustit podřazený proces „%1 %2“.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10221,7 +10221,7 @@ Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se spustit podřazený proces pro čtení verze.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
