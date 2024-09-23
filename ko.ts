@@ -920,7 +920,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">ZIP 파일 안에서 파일이 발견되지 않았습니다,</translation>
+        <translation>ZIP 파일 안에서 파일이 발견되지 않았습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -7207,7 +7207,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>문제가 있습니다: &lt;br/&gt; - 운영체제에 의해 경고 없이 런처가 삭제될 수 있습니다 &lt;br/&gt; - 지금 런처를 종료하고 임시 폴더가 아닌 실제 위치로 추출을 합니다</translation>
+        <translation>문제가 있습니다: &lt;br/&gt; - 운영체제에 의해 런처가 경고 없이 삭제될 수 있습니다 &lt;br/&gt; - 지금 런처를 닫고 임시 폴더가 아닌 실제 위치로 추출하십시오</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1741"/>
@@ -10090,7 +10090,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">런처 자식 프로세스 &quot;%1 %2&quot; 실패.</translation>
+        <translation>하위 프로세스 &quot;%1 %2&quot;을(를) 실행하지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10100,7 +10100,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1222"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
-        <translation>자식 프로세스 &quot;%1 %2&quot;가 실패하였습니다.</translation>
+        <translation>하위 프로세스 &quot;%1 %2&quot;이(가) 실패하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1224"/>
@@ -10121,7 +10121,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>버전을 읽기 위한 하위 프로세스를 시작하지 못하였습니다.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -10130,7 +10130,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1248"/>
         <source>Child launcher process failed.</source>
-        <translation>자식 런처 프로세스가 실패했습니다.</translation>
+        <translation>하위 런처 프로세스가 실패하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -10153,7 +10153,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation>이 인스턴스에서만의 기본값으로?</translation>
+        <translation>이 인스턴스에만 기본값으로 사용하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="39"/>
@@ -10179,14 +10179,14 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>이 계정으로 마인크래프트를 플레이 하려면 한 단계만 더 진행하면 됩니다.
+        <translation>이 계정으로 마인크래프트를 플레이하려면 한 단계만 더 거치면 됩니다.
 
 이름을 신중하게 선택하십시오:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="121"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation>이름이 너무 짧습니다 - 길이는 3~16자 사이여야 합니다.</translation>
+        <translation>이름이 너무 짧습니다 - 3~16자 사이여야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="180"/>
@@ -12011,7 +12011,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Join</source>
-        <translation>가입</translation>
+        <translation>접속</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="65"/>
