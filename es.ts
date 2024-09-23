@@ -936,7 +936,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">No se han encontrado archivos en el archivo zip suministrado,</translation>
+        <translation>No se han encontrado archivos en el archivo zip suministrado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -10216,7 +10216,7 @@ Para sobrescribir este bloqueo y proceder con esta actualización de todos modos
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">Error al lanzar el proceso hijo &quot;%1 %2&quot;.</translation>
+        <translation>Error al lanzar el proceso hijo &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10247,7 +10247,7 @@ Para sobrescribir este bloqueo y proceder con esta actualización de todos modos
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al iniciar el proceso hijo para leer la versión.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
