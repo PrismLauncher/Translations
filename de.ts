@@ -848,7 +848,7 @@ Check the Prism Launcher updater log at:
 for details.</oldsource>
         <translation>Update erfolgreich
 
-Es ist nun %1 installiert.
+Du benutzt jetzt %1 .
 Überprüfe die Log-Datei des Prism-Launcher-Updaters unter:
 %1
 für Details.</translation>
