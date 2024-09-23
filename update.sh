@@ -19,7 +19,6 @@ update_file() {
     # Update .ts
     $LUPDATE_BIN "${SOURCE_FILES[@]}" -locations "absolute" -ts "$ts_file"
     $LCONVERT_BIN -i "$ts_file" ./qtbase_untranslated.ts -o "$ts_file"
-    $LUPDATE_BIN -ts "$ts_file" -noobsolete
 }
 
 cd "$ROOT"
