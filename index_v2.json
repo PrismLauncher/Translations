@@ -619,12 +619,12 @@
             "untranslated" : 7
         },
         "zh_TW" : {
-            "file" : "8d1631e5f91bd0f5ab14534b30f0560f0f7a04b1.class",
-            "sha1" : "8d1631e5f91bd0f5ab14534b30f0560f0f7a04b1",
-            "size" : 211868,
-            "translated" : 2059,
-            "fuzzy" : 2,
-            "untranslated" : 1
+            "file" : "61a953e2ec206a2d3db4a6d3517ebe4564401231.class",
+            "sha1" : "61a953e2ec206a2d3db4a6d3517ebe4564401231",
+            "size" : 211925,
+            "translated" : 2062,
+            "fuzzy" : 0,
+            "untranslated" : 0
         }
     }
 }
