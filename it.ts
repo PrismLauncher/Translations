@@ -42,7 +42,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Autenticazione Microsoft</translation>
+        <translation>Autenticazione &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -2657,7 +2657,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Nota: se le istanze di FTB non si trovano nella posizione predefinita, selezionatela utilizzando il pulsante accanto alla ricerca.</translation>
+        <translation>Nota: Se le istanze di FTB non si trovano nella posizione predefinita, selezionatela utilizzando il pulsante accanto alla ricerca.</translation>
     </message>
 </context>
 <context>
@@ -10138,7 +10138,7 @@ Per sovrascrivere questo blocco e procedere comunque con l&apos;aggiornamento, s
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>C&apos;è stato un problema nell&apos;avviamento del processo minore per determinare la versione.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -12515,7 +12515,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Ottenendo le cartelle da collegare</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
