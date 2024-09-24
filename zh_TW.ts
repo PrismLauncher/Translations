@@ -860,7 +860,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1792"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>已找到來自 %1 的舊資料，但您已有 %2 的現有資料。遺憾的是，您將需要自己遷移。下次啟動 %2 時是否要提醒資料遷移？</translation>
+        <translation>找到來自 %1 的舊資料，但您已有 %2 的現有資料。很遺憾，您需要自行遷移。下次啟動 %2 時是否要提醒您進行資料遷移？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1796"/>
@@ -916,7 +916,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">在指定的 zip 檔案中找不到任何檔案，</translation>
+        <translation>在指定的 zip 檔案中找不到任何檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -1125,7 +1125,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation>請稍後...</translation>
+        <translation>正在等待...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
@@ -2653,7 +2653,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>註：如果您的 FTB 實例不在預設位置，請使用旁邊的按鈕來搜尋並選擇它。</translation>
+        <translation>注意：如果您的 FTB 實例不在預設位置，請使用旁邊的按鈕來搜尋並選擇它。</translation>
     </message>
 </context>
 <context>
@@ -3031,7 +3031,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>註：CurseForge 的 API 目前相當不可靠。CurseForge 以及一些模組作者已經不容許玩家在第三方應用程式中下載模組，像是 Prism Launcher。因此，您可能會需要手動下載一些模組，才能夠完成安裝模組包。</translation>
+        <translation>注意：CurseForge 允許創作者封鎖第三方工具（例如 Prism Launcher）的存取權。因此，您可能需要手動下載部分模組才能安裝模組包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="35"/>
@@ -3423,7 +3423,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>選擇您想要匯入此資源包的實例。</translation>
+        <translation>選擇您想要匯入這個資源包的實例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -3859,7 +3859,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="152"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>註：Permgen 在 Java 8 及之後版本會自動設定</translation>
+        <translation>注意：Permgen 在 Java 8 和以上版本會自動設定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="244"/>
@@ -7170,7 +7170,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1624"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>已在您的桌面上建立了此實例的捷徑！</translation>
+        <translation>已在您的桌面上建立了這個實例的捷徑！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
@@ -7428,7 +7428,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>無法請求此模組包的更新日誌資料。</translation>
+        <translation>無法請求這個模組包的更新日誌資料。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
@@ -10199,7 +10199,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">啟動子處理程序「%1 %2」。</translation>
+        <translation>啟動子處理程序「%1 %2」。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10230,7 +10230,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法啟動子處理程序來讀取版本資訊。</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -14193,7 +14193,7 @@ The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>您即將刪除「%1」。
-世界可能將永久刪除（非常久）。
+世界可能將永遠消失（非常久）。
 
 您確定嗎？</translation>
     </message>
