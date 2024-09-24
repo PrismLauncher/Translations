@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Сервер и тип отправки логов</translation>
+        <translation type="unfinished">Сервер и тип отправки логов</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Обратите внимание: возможно, вам захочется изменить или очистить базовую ссылку после изменения типа службы вставки.</translation>
+        <translation type="unfinished">Обратите внимание: возможно, вам захочется изменить или очистить базовую ссылку после изменения типа службы вставки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
