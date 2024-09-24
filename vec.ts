@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Servisio &amp;Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
@@ -18,34 +18,34 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;URL de base</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Podaria voler cambiàr o eliminàr el URL de Base dopo aver cambia&apos; el tipo del servisio de stampa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciavi API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Autenticasione &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: probabilmente non dovaria impostarlo se l&apos;aceso via Microsoft Authentication funziona gia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="284"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Default)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
