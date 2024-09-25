@@ -82,17 +82,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic kliens azonosító</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Megjegyzés: Ezt csak a személyes adatok eléréséhez kell beállítanod.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjon meg egy egyéni GUID kliens azonosítót a Technic számára.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -143,7 +143,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Adjon meg egy egyéni API-kulcsot a CurseForge-nak.</translation>
+        <translation>Adjon meg egy egyéni API-kulcsot a CurseForge számára.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
@@ -2722,7 +2722,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Modok előkészítése a CurseForge-nak...</translation>
+        <translation>Modok előkészítése a CurseForge számára...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3841,7 +3841,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="152"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Megjegyzés: A Permgen automatikusan be van állítva Java 8 és későbbi által</translation>
+        <translation>Megjegyzés: A Permgen beállítása automatikusan történik a Java 8-as és újabb verzióiban</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="244"/>
@@ -4354,7 +4354,7 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Automatikusan kiválasztja az aktuális Minecraft-példánnyal kompatibilis Java-verziót a szükséges főverzió alapján.</translation>
+        <translation>Automatikusan kiválasztja az aktuális Minecraft-példánnyal kompatibilis Java-verziót a főverzió alapján.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
@@ -8766,7 +8766,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="39"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Modok előkészítése Modrinth-nek...</translation>
+        <translation>Modok előkészítése a Modrinth számára...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
