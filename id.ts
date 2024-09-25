@@ -78,17 +78,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Klien Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Catatan: Anda hanya harus mengatur ini untuk mengakses data pribadi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan ID klien GUID kustom untuk Technic di sini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -169,7 +169,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation>Mode pemasangan tidak didukung</translation>
+        <translation>Mode instalasi tidak didukung</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
@@ -782,13 +782,13 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Pemasangan ini memiliki berkas lock pembaruan di: %1
+        <translation>Instalasi ini memiliki berkas lock pembaruan di: %1
 
 Stempel waktu: %2
 Memperbarui dari versi %3 ke %4
-Path pemasangan target: %5
+Path instalasi target: %5
 Path data: %6
-Ini mungkin mengartikan sebuah pembaruan gagal. Mohon memastikan pemasangan Anda dapat bekerja sebelum melanjutkan.
+Ini mungkin mengartikan sebuah pembaruan gagal. Mohon memastikan instalasi Anda dapat bekerja sebelum melanjutkan.
 Periksa log pembaru Prism Launcher di: 
 %7
 Untuk detail mengenai pembaruan terakhir.
@@ -810,7 +810,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</source>
         <translation>Sebuah pembaruan gagal
 
-Mohon memastikan pemasangan Anda dapat bekerja sebelum melanjutkan.
+Mohon memastikan instalasi Anda dapat bekerja sebelum melanjutkan.
 Periksa log pembaru Prism Launcher di: 
 %1
 untuk detail mengenai pembaruan terakhir.</translation>
@@ -851,7 +851,7 @@ untuk detail.</translation>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
-        <translation>Direktori /tmp Anda saat ini terpasang dengan flag &apos;noexec&apos; aktif.
+        <translation>Direktori /tmp Anda saat ini terinstal dengan flag &apos;noexec&apos; aktif.
 Beberapa versi Minecraft mungkin tidak dapat dijalankan.
 </translation>
     </message>
@@ -924,7 +924,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">Tidak ada berkas yang ditemukan dalam berkas zip,</translation>
+        <translation>Tidak ada berkas yang ditemukan dalam berkas zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -1001,12 +1001,12 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Pilih mod untuk dipasang</translation>
+        <translation>Pilih mod untuk diinstal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation>Pasang</translation>
+        <translation>Instal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
@@ -1182,7 +1182,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Mekanisme otomatis Java mendeteksi pemasangan 32-bit dari Java.</translation>
+        <translation>Mekanisme otomatis Java mendeteksi instalasi 32-bit dari Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="87"/>
@@ -1192,7 +1192,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="98"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>Sistem Anda (%1-%2) tidak didukung pemasangan Java otomatis. Menggunakan path Java bawaan.</translation>
+        <translation>Sistem Anda (%1-%2) tidak didukung instalasi Java otomatis. Menggunakan path Java bawaan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="106"/>
@@ -1217,7 +1217,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished">Pasang Java</translation>
+        <translation>Instal Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -2404,12 +2404,12 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="326"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> (%1 terpasang, %2 dipilih)</translation>
+        <translation> (%1 terinstal, %2 dipilih)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="328"/>
         <source> (%1 installed)</source>
-        <translation> (%1 terpasang)</translation>
+        <translation> (%1 terinstal)</translation>
     </message>
 </context>
 <context>
@@ -2670,7 +2670,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Mengurai respons API dari CurseForge untuk &apos;%1&apos;...</translation>
+        <translation>Mengurai respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2854,7 +2854,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Halo!&lt;/h1&gt;&lt;h4&gt;Sepertinya ID Paket Anda null. Ini dikarenakan terdapat sebuah bug dalam versi-versi lebih lama peluncur.&lt;br/&gt;Sayang sekali, kami tidak dapat melakukan permintaan API yang seharusnya tanpa informasi ini.&lt;br/&gt;&lt;br/&gt;Jadi, agar fitur ini dapat bekerja, Anda harus mengunduh ulang modpack dari pengunduh terpasang. &lt;br/&gt;&lt;br/&gt;Jangan khawatir, Anda akan diminta untuk memperbarui instansi ini sebaliknya, agar Anda tidak akan kehilangan instansi ini!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Halo!&lt;/h1&gt;&lt;h4&gt;Sepertinya ID Paket Anda null. Ini dikarenakan terdapat sebuah bug dalam versi-versi lebih lama peluncur.&lt;br/&gt;Sayang sekali, kami tidak dapat melakukan permintaan API yang seharusnya tanpa informasi ini.&lt;br/&gt;&lt;br/&gt;Jadi, agar fitur ini dapat bekerja, Anda harus mengunduh ulang modpack dari pengunduh terinstal. &lt;br/&gt;&lt;br/&gt;Jangan khawatir, Anda akan diminta untuk memperbarui instansi ini sebaliknya, agar Anda tidak akan kehilangan instansi ini!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
@@ -3441,7 +3441,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="147"/>
         <source>Install Loader</source>
-        <translation>Pasang Pemuat</translation>
+        <translation>Instal Pemuat</translation>
     </message>
 </context>
 <context>
@@ -4143,7 +4143,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
         <source>Install Java</source>
-        <translation>Pasang Java</translation>
+        <translation>Instal Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="314"/>
@@ -4321,7 +4321,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed java versions are installed</source>
-        <translation>Tidak ada versi Java terkelola yang dipasang</translation>
+        <translation>Tidak ada versi Java terkelola yang diinstal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
@@ -4376,7 +4376,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Anda akan menghapus  pemasangan Java yang dinamakan &quot;%1&quot;.
+        <translation>Anda akan menghapus  instalasi Java yang dinamakan &quot;%1&quot;.
 Apakah Anda yakin?</translation>
     </message>
 </context>
@@ -4431,7 +4431,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Anda telah memilih sebuah pemasangan 32-bit Java, tetapi memori teralokasi lebih dari 2048MiB sebagai memori maksimum.
+        <translation>Anda telah memilih sebuah instalasi 32-bit Java, tetapi memori teralokasi lebih dari 2048MiB sebagai memori maksimum.
 %1 tidak akan dapat memulai Minecraft.
 Apakah Anda yakin melanjutkan?
 
@@ -4526,7 +4526,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>Anda sedang melebihi alokasi maksimum yang didukung pemasangan 32-bit Java.</translation>
+        <translation>Anda sedang melebihi alokasi maksimum yang didukung instalasi 32-bit Java.</translation>
     </message>
 </context>
 <context>
@@ -4996,7 +4996,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation>Nonaktifkan pemeriksaan, pemasangan, dan pembaruan dependensi mod otomatis.</translation>
+        <translation>Nonaktifkan pemeriksaan, instalasi, dan pembaruan dependensi mod otomatis.</translation>
     </message>
     <message>
         <source>Do not install mod dependencies</source>
@@ -5263,7 +5263,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>Library launcher versi lama tidak dapat ditemukan. Mohon memeriksa pemasangan Anda.</translation>
+        <translation>Library launcher versi lama tidak dapat ditemukan. Mohon memeriksa instalasi Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
@@ -6188,7 +6188,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
         <source>Install to &amp;PATH</source>
-        <translation>Pasang ke &amp;PATH</translation>
+        <translation>Instal ke &amp;PATH</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -6371,7 +6371,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation>Pasang symlink %1 ke /usr/local/bin</translation>
+        <translation>Instal symlink %1 ke /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="750"/>
@@ -6511,12 +6511,12 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Membuka folder java dalam peramban berkas. Hanya tersedia jika pengunduh Java bawaan digunakan.</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -7321,7 +7321,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation>Gunakan pemasangan sistem &amp;GLFW</translation>
+        <translation>Gunakan instalasi sistem &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="235"/>
@@ -7332,7 +7332,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation>Gunakan pemasangan sistem &amp;OpenAL</translation>
+        <translation>Gunakan instalasi sistem &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="252"/>
@@ -7628,7 +7628,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="187"/>
         <source>Hide installed items</source>
-        <translation>Sembunyikan barang-barang terpasang</translation>
+        <translation>Sembunyikan barang-barang terinstal</translation>
     </message>
 </context>
 <context>
@@ -7946,7 +7946,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="248"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
         <source>Please install a mod loader first!</source>
-        <translation>Mohon pasang pemuat mod dulu!</translation>
+        <translation>Mohon instal pemuat mod dulu!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
@@ -8226,7 +8226,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="421"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod dinonaktifkan karena mungkin sudah terpasang.</translation>
+        <translation>Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="427"/>
@@ -8241,7 +8241,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="430"/>
         <source>Not installed</source>
-        <translation>Tidak terpasang</translation>
+        <translation>Tidak terinstal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="433"/>
@@ -9261,12 +9261,12 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation>Gunakan versi ini sebagai versi launcher terpasang. (tersedia karena stdout tidak dapat ditangkap dengan baik dalam windows)</translation>
+        <translation>Gunakan versi ini sebagai versi launcher terinstal. (tersedia karena stdout tidak dapat ditangkap dengan baik dalam windows)</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
         <source>installed launcher version</source>
-        <translation>versi launcher terpasang</translation>
+        <translation>versi launcher terinstal</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
@@ -9311,7 +9311,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="236"/>
         <source>Select the version to install with a GUI.</source>
-        <translation>Pilih versi untuk dipasang dengan GUI.</translation>
+        <translation>Pilih versi untuk diinstal dengan GUI.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="237"/>
@@ -9326,13 +9326,13 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation>Pembaru tidak mendukung pemasangan pada MacOS</translation>
+        <translation>Pembaru tidak mendukung instalasi pada MacOS</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="268"/>
         <source>Unsupported Installation</source>
-        <translation>Pemasangan Tidak Didukung</translation>
+        <translation>Instalasi Tidak Didukung</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="256"/>
@@ -9504,9 +9504,9 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 
 Waktu: %2
 Memperbarui dari versi %3 ke %4
-Path target pemasangan: %5
+Path target instalasi: %5
 Path Data: %6
-Ini mungkin mengartikan pembaruan terakhir gagal. Mohon memastikan pemasangan Anda fungsional sebelum melanjutkan.
+Ini mungkin mengartikan pembaruan terakhir gagal. Mohon memastikan instalasi Anda fungsional sebelum melanjutkan.
 Periksa log pembaru launcher di 
 %7
 untuk detail mengenai pembaruan terakhir.
@@ -9531,7 +9531,7 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1041"/>
         <source>Updating portable install at %1</source>
-        <translation>Memperbarui pemasangan portabel di %1</translation>
+        <translation>Memperbarui instalasi portabel di %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1044"/>
@@ -9546,7 +9546,7 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1060"/>
         <source>Backing up install</source>
-        <translation>Membuat cadangan pemasangan</translation>
+        <translation>Membuat cadangan instalasi</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1081"/>
@@ -9569,7 +9569,7 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1144"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1151"/>
         <source>Backing up install at %1</source>
-        <translation>Membuat cadangan pemasangan di %1</translation>
+        <translation>Membuat cadangan instalasi di %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1156"/>
@@ -9608,7 +9608,7 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">Gagal menjalankan proses anak &quot;%1 %2&quot;.</translation>
+        <translation>Gagal menjalankan anak proses &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -9639,7 +9639,7 @@ Untuk menimpa lock ini dan melanjutkan pembaruan, pilih &quot;Abaikan&quot; di b
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal meluncurkan anak proses untuk membaca versi.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -10214,7 +10214,7 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation>Pemeriksa Pustaka java tidak dapat ditemukan. Mohon cek pemasangan Anda.</translation>
+        <translation>Pemeriksa Pustaka java tidak dapat ditemukan. Mohon cek instalasi Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
@@ -10763,7 +10763,7 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
         <source>Reinstall</source>
-        <translation>Pasang Ulang</translation>
+        <translation>Instal Ulang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
@@ -11093,7 +11093,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod dinonaktifkan karena mungkin sudah terpasang.</translation>
+        <translation>Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
@@ -11318,7 +11318,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="119"/>
         <source>Select a version to install.</source>
-        <translation>Pilih versi untuk dipasang.</translation>
+        <translation>Pilih versi untuk diinstal.</translation>
     </message>
 </context>
 <context>
@@ -11326,7 +11326,7 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
-        <translation>Pilih Rilis untuk Dipasang</translation>
+        <translation>Pilih Rilis untuk Diinstal</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
@@ -11348,9 +11348,9 @@ Apakah Anda yakin?</translation>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
-        <translation>Pilih versi untuk dipasang.
+        <translation>Pilih versi untuk diinstal.
 
-Versi sekarang dipasang: %1</translation>
+Versi sekarang diinstal: %1</translation>
     </message>
 </context>
 <context>
@@ -11919,27 +11919,27 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Memeriksa untuk path biner Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Mencarikan untuk path biner Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menemukan path biner Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Menghimpun folder-folder untuk disambung secara simbolis</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyambung path biner Java secara simbolis</translation>
     </message>
 </context>
 <context>
@@ -12437,7 +12437,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
         <source>Install Update</source>
-        <translation>Pasang Pembaruan</translation>
+        <translation>Instal Pembaruan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"/>
@@ -12552,7 +12552,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
         <translation>Alokasi memori maksimum melebihi nilai yang didukung.
-Pemasangan Java yang dipilih adalah 32-bit dan tidak mendukung RAM lebih dari 2048MiB.
+Instalasi Java yang dipilih adalah 32-bit dan tidak mendukung RAM lebih dari 2048MiB.
 Instansi mungkin tidak dapat dimulai dikarenakan ini.</translation>
     </message>
     <message>
@@ -12790,12 +12790,12 @@ Mohon berganti ke salah satu versi Java berikut untuk instansi ini:</translation
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Install Loader</source>
-        <translation>Pasang Loader</translation>
+        <translation>Instal Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Install a mod loader.</source>
-        <translation>Pasang pemuat mod.</translation>
+        <translation>Instal pemuat mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
@@ -13158,7 +13158,7 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="166"/>
         <source>%1 (installed)</source>
-        <translation>%1 (dipasang)</translation>
+        <translation>%1 (diinstal)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="194"/>
