@@ -603,12 +603,12 @@
             "untranslated" : 1906
         },
         "vec" : {
-            "file" : "bfa8207c50ca691fb6a8e9229fb9ef3c8e558bf3.class",
-            "sha1" : "bfa8207c50ca691fb6a8e9229fb9ef3c8e558bf3",
-            "size" : 24,
-            "translated" : 0,
-            "fuzzy" : 0,
-            "untranslated" : 2062
+            "file" : "14e5eb6c4c00710ddf4bb288842592de2751aadb.class",
+            "sha1" : "14e5eb6c4c00710ddf4bb288842592de2751aadb",
+            "size" : 1091,
+            "translated" : 6,
+            "fuzzy" : 1,
+            "untranslated" : 2055
         },
         "vi" : {
             "file" : "69688e41480a4c51ae2a8f4f978324369d72920f.class",
