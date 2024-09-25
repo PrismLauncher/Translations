@@ -79,21 +79,37 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="307"/>
         <source>(None)</source>
         <translation>(ไม่มี)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="308"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
+        <source>Technic Client ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
+        <source>Enter a custom GUID client ID for Technic here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
         <source>Miscellaneous</source>
         <translation>อื่นๆ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="320"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="350"/>
         <source>User Agent</source>
         <translation>ตัวแทนผู้ใช้</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="329"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
         <translation>ป้อนตัวแทนผู้ใช้ที่กำหนดเองที่นี่ สตริงพิเศษ $LAUNCHER_VER จะถูกแทนที่ด้วยเวอร์ชันของตัวเรียกใช้งาน</translation>
     </message>
@@ -747,12 +763,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="785"/>
+        <location filename="src/launcher/Application.cpp" line="788"/>
         <source>Settings</source>
         <translation>การตั้งค่า</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="932"/>
+        <location filename="src/launcher/Application.cpp" line="935"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -779,12 +795,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 หากต้องการลบการล็อคนี้และดำเนินการต่อ ให้เลือก &quot;เพิกเฉย&quot; ด้านล่าง</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="949"/>
+        <location filename="src/launcher/Application.cpp" line="952"/>
         <source>Update In Progress</source>
         <translation>อยู่ระหว่างการปรับปรุง</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="973"/>
+        <location filename="src/launcher/Application.cpp" line="976"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -799,12 +815,12 @@ for details on the last update attempt.</source>
 สำหรับรายละเอียดเกี่ยวกับความพยายามในการอัปเดตครั้งล่าสุด</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="981"/>
+        <location filename="src/launcher/Application.cpp" line="984"/>
         <source>Update Failed</source>
         <translation>การอัพเดทล้มเหลว</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1005"/>
+        <location filename="src/launcher/Application.cpp" line="1008"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -825,12 +841,12 @@ for details.</oldsource>
 เพื่อดูรายละเอียด</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1013"/>
+        <location filename="src/launcher/Application.cpp" line="1016"/>
         <source>Update Succeeded</source>
         <translation>อัปเดตสำเร็จแล้ว</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1044"/>
+        <location filename="src/launcher/Application.cpp" line="1047"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 </source>
@@ -839,32 +855,32 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1046"/>
+        <location filename="src/launcher/Application.cpp" line="1049"/>
         <source>Incompatible system configuration</source>
         <translation>การกำหนดค่าระบบที่เข้ากันไม่ได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1397"/>
+        <location filename="src/launcher/Application.cpp" line="1400"/>
         <source>Aborted</source>
         <translation>ล้มเลิก</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1792"/>
+        <location filename="src/launcher/Application.cpp" line="1795"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>พบข้อมูลเก่าจาก %1 แต่คุณมีข้อมูลดังกล่าวสำหรับ %2 แล้ว น่าเสียดายที่คุณจะต้องทำการโยกย้ายคุณเอง คุณต้องการที่จะให้เตือนการรอการโยกย้ายข้อมูลของคุณหลังจากที่เริ่มเปิด %2 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1796"/>
+        <location filename="src/launcher/Application.cpp" line="1799"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>ดูเหมือนว่าคุณจะเคยใช้ %1 มาก่อนหน้านี้ คุณต้องการที่จะโยกย้ายข้อมูลของคุณเข้ามาอยู่ในตำแหน่งใหม่ของ %2 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1802"/>
+        <location filename="src/launcher/Application.cpp" line="1805"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>ดูเหมือนว่าคุณจะเคยใช้ %1 บน %2 มาก่อนหน้านี้แล้ว คุณต้องการที่จะโยกย้ายข้อมูลของคุณไปยังตำแหน่งใหม่ของ %3 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1845"/>
+        <location filename="src/launcher/Application.cpp" line="1848"/>
         <source>Migration failed! Reason: %1</source>
         <translation>การโยกย้ายข้อมูลผิดพลาด! เหตุผล: %1</translation>
     </message>
