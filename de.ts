@@ -103,7 +103,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hinweis: Sie müssen dies nur einstellen, falls sie auf private Daten zugreifen wollen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
@@ -4736,7 +4736,7 @@ Sie können die Java-Version in den Einstellungen später ändern.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bitte wählen Sie aus wie viel Arbeitsspeicher den Instanzen zugewiesen werden soll und ob Prism java automatisch oder manuell verwalten soll.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5966,17 +5966,17 @@ Grund:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Microsoft Account Hinzufügen&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Um Minecraft zu spielen müssen Sie mindestens einen Microsoft Account eingeloggt haben. Möchten Sie sich einloggen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Account hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -6587,7 +6587,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
@@ -7522,7 +7522,7 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished">Lade Meta für %1:%2</translation>
+        <translation>Lade Meta für %1:%2</translation>
     </message>
 </context>
 <context>
@@ -7531,7 +7531,7 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
         <location filename="src/launcher/meta/VersionList.cpp" line="38"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished">Lade Meta für %1</translation>
+        <translation>Lade Meta für %1</translation>
     </message>
 </context>
 <context>
@@ -10307,7 +10307,7 @@ Um diesen lock zu überschreiben und trotzdem mit diesem Update fortzufahren, dr
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Starten des Unterprocesses um Version zu lesen fehlgeschlagen.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -11206,12 +11206,12 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keine kompatible Version von %1 für %2 %3 gefunden</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keine Versionsliste in Metadaten index für %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
@@ -11221,12 +11221,12 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1, eine Abhängigkeit dieser Komponente hat Probleme gemeldet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1, eine Abhängigkeit dieser Komponente ist nicht die benötigte Version %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
