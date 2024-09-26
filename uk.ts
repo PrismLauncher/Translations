@@ -897,7 +897,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Витягнення Java</translation>
+        <translation>Витягування Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1251,7 +1251,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">Ми додали функцію автоматичного завантаження правильної версії Java для кожної версії Minecraft (це можна змінити в налаштуваннях Java). Хочете увімкнути чи вимкнути цю функцію?</translation>
+        <translation>Ми додали функцію автоматичного завантаження правильної версії Java для кожної версії Minecraft (це можна змінити в налаштуваннях Java). Хочете увімкнути чи вимкнути цю функцію?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3455,20 +3455,20 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Наразі в мета немає версій для Java.</translation>
+        <translation>Наразі в метаданих немає доступних версій Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Не вдалося завантажити або завантажити списки версій java!</translation>
+        <translation>Не вдалося завантажити або скачати списки версій Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Наразі для вашої операційної системи немає версій java.</translation>
+        <translation>Наразі для вашої ОС немає доступних версій Java.</translation>
     </message>
 </context>
 <context>
@@ -4433,13 +4433,13 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Не встановлено жодної керованої версії Java</translation>
+        <translation>Не встановлені керовані версії Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Не вдалося завантажити керований список java!</translation>
+        <translation>Не вдалося завантажити список керованих версій Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4653,7 +4653,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Будь ласка, виберіть, скільки пам’яті виділити для збірок, і чи повинен Prism Launcher керувати Java автоматично або вручну.</translation>
+        <translation>Будь ласка, виберіть, скільки пам’яті виділити для збірок, і чи повинен Prism Launcher керувати Java автоматично або вручну.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6469,7 +6469,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Відкрийте папку java у файловому браузері. Доступно лише в тому випадку, якщо використовується вбудований завантажувач Java.</translation>
+        <translation>Відкрийте папку Java у файловому браузері. Доступно лише при використанні вбудованого завантажувача Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -13720,13 +13720,13 @@ Please add your Mojang or Minecraft account.</oldsource>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">Альтернативна назва java-версії</translation>
+        <translation>Альтернативна назва версії Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">Основна версія java</translation>
+        <translation>Основна версія Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
