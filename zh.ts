@@ -90,12 +90,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic客户端ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时需要设置此项&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
@@ -944,7 +944,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">提供的 zip 压缩包中没有文件，</translation>
+        <translation>提供的 zip 压缩包中没有文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -1241,7 +1241,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished">安装 Java</translation>
+        <translation>安装 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -2726,7 +2726,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">正在解析 CurseForge 对“%1”的 API 响应……</translation>
+        <translation>正在解析 CurseForge 对“%1”的 API 响应……</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -6560,7 +6560,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
@@ -10228,7 +10228,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">无法启动启动器子进程“%1 %2”。</translation>
+        <translation>无法启动启动器子进程“%1 %2”。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10259,7 +10259,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动子进程读取版本失败。</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -12625,27 +12625,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>检查Java可执行文件路径</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>查找Java可执行文件路径</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>查找Java可执行文件路径失败</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>选择符号链接文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>符号链接Java可执行文件路径</translation>
     </message>
 </context>
 <context>
