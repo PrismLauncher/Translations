@@ -896,7 +896,7 @@ Některé verze Minecraftu se nemusí spustit.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Rozbalování Java</translation>
+        <translation>Rozbalování Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1250,7 +1250,7 @@ Některé verze Minecraftu se nemusí spustit.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">Přidali jsme funkci, která automaticky stáhne správnou verzi Javy pro každou verzi Minecraftu (lze změnit v nastavení Javy). Chcete tuto funkci povolit nebo zakázat?</translation>
+        <translation>Přidali jsme funkci, která automaticky stáhne správnou verzi Javy pro každou verzi Minecraftu (lze změnit v nastavení Javy). Chcete tuto funkci povolit nebo zakázat?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3481,20 +3481,20 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">V tuto chvíli nejsou v metainformacích dostupné žádné verze Javy.</translation>
+        <translation>V tuto chvíli nejsou v metadatech dostupné žádné verze Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Nepodařilo se načíst nebo stáhnout seznam verzí Javy!</translation>
+        <translation>Nepodařilo se načíst nebo stáhnout seznam verzí Javy!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Pro váš OS nejsou dostupné žádné verze Javy.</translation>
+        <translation>Pro váš OS nejsou dostupné žádné verze Javy.</translation>
     </message>
 </context>
 <context>
@@ -4483,13 +4483,13 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Nejsou nainstalovány žádné spravované verze Javy</translation>
+        <translation>Nejsou nainstalovány žádné spravované verze Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Nepodařilo se načíst seznam spravovaných verzí Javy!</translation>
+        <translation>Nepodařilo se načíst seznam spravovaných verzí Javy!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4703,7 +4703,7 @@ Verzi Javy můžete později změnit v nastavení.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Vyberte, jaké množství paměti chcete přidělit instancím a zda chcete, aby Prism Launcher automaticky spravoval Javu.</translation>
+        <translation>Vyberte, jaké množství paměti chcete přidělit instancím a zda chcete, aby Prism Launcher automaticky spravoval Javu.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6551,7 +6551,7 @@ Důvod:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Otevřít složku Javy v prohlížeči souborů. Dostupné pouze při použití vestavěného instalátoru Javy.</translation>
+        <translation>Otevřít složku Javy v prohlížeči souborů. Dostupné pouze při použití vestavěného instalátoru Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -13885,13 +13885,13 @@ Prosím, přidejte svůj Mojang nebo Minecraft účet.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">Alternativní název verze Javy</translation>
+        <translation>Alternativní název verze Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">Hlavní verze Javy</translation>
+        <translation>Hlavní verze Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
