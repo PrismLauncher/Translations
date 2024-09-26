@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ไอดีไคลเอนต์ Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อน GUID ไอดีไคลเอนต์สำหรับ Technic ตรงนี้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -923,7 +923,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">ไม่พบไฟล์ในไฟล์ zip ที่ให้มา</translation>
+        <translation>ไม่พบไฟล์ในไฟล์ zip ที่ให้มา</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -1216,7 +1216,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้ง Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -2095,7 +2095,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished">เครื่องหมาย</translation>
+        <translation>มาร์กดาวน์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
@@ -2154,7 +2154,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
         <source>Format</source>
-        <translation type="unfinished">รูปแบบ</translation>
+        <translation>รูปแบบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="180"/>
@@ -2197,7 +2197,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="98"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">%เพิ่ม</translation>
+        <translation>&amp;เพิ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="101"/>
@@ -2237,7 +2237,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">ดูและการจัดเรียง</translation>
+        <translation>มุมมอง &amp;การกำหนดค่า</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2257,7 +2257,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
         <source>Download a new resource</source>
-        <translation type="unfinished">ดาวน์โหลดทรัพยากรใหม่</translation>
+        <translation>ดาวน์โหลดทรัพยากรใหม่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
@@ -2645,13 +2645,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบเวอร์ชันที่ถูกต้องสำหรับม็อดนี้ อาจไม่สามารถใช้งานได้กับเวอร์ชันเกม / ตัวโหลม็อด ปัจจุบัน</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="151"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ม็อดมีอัพเดทเวอร์ชันใหม่ แต่ไม่สามารถดาวน์โหลดผ่าน CurseForge ได้</translation>
     </message>
 </context>
 <context>
@@ -2676,12 +2676,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="243"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีไฟล์ดัชนี</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="244"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>เราไม่พบไฟล์ดัชนีที่เหมาะสมสำหรับเวอร์ชันเก่า นี่อาจทำให้ไฟล์บางไฟล์ซ้ำกันได้ คุณต้องการดำเนินการต่อหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
