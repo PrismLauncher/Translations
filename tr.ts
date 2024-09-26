@@ -911,8 +911,9 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
-        <source>Extracting java</source>
-        <translation>Java ayıklanıyor</translation>
+        <source>Extracting Java</source>
+        <oldsource>Extracting java</oldsource>
+        <translation type="unfinished">Java ayıklanıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1264,8 +1265,9 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
-        <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
-        <translation>Minecraft&apos;ın her sürümü için doğru Java versiyonunu otomatik olarak indirecek bir özellik ekledik (Bunu Java ayarlarından değiştirebilirsin). Bu özeliği kapatmak veya açmak ister misin?</translation>
+        <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
+        <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
+        <translation type="unfinished">Minecraft&apos;ın her sürümü için doğru Java versiyonunu otomatik olarak indirecek bir özellik ekledik (Bunu Java ayarlarından değiştirebilirsin). Bu özeliği kapatmak veya açmak ister misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3482,19 +3484,22 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <name>InstallJavaPage</name>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
-        <source>No java versions are currently available in the meta.</source>
-        <translation>Metada şu an herhangi bir java sürümü mevcut değil.</translation>
+        <source>No Java versions are currently available in the meta.</source>
+        <oldsource>No java versions are currently available in the meta.</oldsource>
+        <translation type="unfinished">Metada şu an herhangi bir java sürümü mevcut değil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
-        <source>Couldn&apos;t load or download the java version lists!</source>
-        <translation>Java sürüm listeleri yüklenemedi veya indirilemedi!</translation>
+        <source>Couldn&apos;t load or download the Java version lists!</source>
+        <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
+        <translation type="unfinished">Java sürüm listeleri yüklenemedi veya indirilemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
-        <source>No java versions are currently available for your OS.</source>
-        <translation>İşletim sisteminiz için şu anda hiçbir java sürümü mevcut değil.</translation>
+        <source>No Java versions are currently available for your OS.</source>
+        <oldsource>No java versions are currently available for your OS.</oldsource>
+        <translation type="unfinished">İşletim sisteminiz için şu anda hiçbir java sürümü mevcut değil.</translation>
     </message>
 </context>
 <context>
@@ -4467,13 +4472,15 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
-        <source>No managed java versions are installed</source>
-        <translation>Hiçbir yönetilen java sürümü yüklü değil</translation>
+        <source>No managed Java versions are installed</source>
+        <oldsource>No managed java versions are installed</oldsource>
+        <translation type="unfinished">Hiçbir yönetilen java sürümü yüklü değil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
-        <source>Couldn&apos;t load the managed java list!</source>
-        <translation>Yönetilen java listesi yüklenemedi!</translation>
+        <source>Couldn&apos;t load the managed Java list!</source>
+        <oldsource>Couldn&apos;t load the managed java list!</oldsource>
+        <translation type="unfinished">Yönetilen java listesi yüklenemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4685,8 +4692,9 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
-        <source>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</source>
-        <translation>Lütfen Minecraft&apos;a ne kadar bellek ayırılacağını seçin ve Prism Launcher&apos;ın Java&apos;yı otomatik mi yoksa manuel mi yönetmesi gerektiğini belirleyin.</translation>
+        <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
+        <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
+        <translation type="unfinished">Lütfen Minecraft&apos;a ne kadar bellek ayırılacağını seçin ve Prism Launcher&apos;ın Java&apos;yı otomatik mi yoksa manuel mi yönetmesi gerektiğini belirleyin.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6307,7 +6315,8 @@ Sebep:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
-        <source>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</source>
+        <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
+        <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13815,13 +13824,15 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
-        <source>The alternative name of the java version</source>
-        <translation>Java sürümün alternatif adı</translation>
+        <source>The alternative name of the Java version</source>
+        <oldsource>The alternative name of the java version</oldsource>
+        <translation type="unfinished">Java sürümün alternatif adı</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
-        <source>The java major version</source>
-        <translation>Java ana sürümü</translation>
+        <source>The Java major version</source>
+        <oldsource>The java major version</oldsource>
+        <translation type="unfinished">Java ana sürümü</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>

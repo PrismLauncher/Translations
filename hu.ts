@@ -899,8 +899,9 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
-        <source>Extracting java</source>
-        <translation>Java kibontása</translation>
+        <source>Extracting Java</source>
+        <oldsource>Extracting java</oldsource>
+        <translation type="unfinished">Java kibontása</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1252,8 +1253,9 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
-        <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
-        <translation>Hozzáadtunk egy funkciót, amely automatikusan letölti a megfelelő Java-verziót a Minecraft minden egyes verziójához (ez módosítható a Java-beállításokban). Szeretné engedélyezni vagy letiltani ezt a funkciót?</translation>
+        <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
+        <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
+        <translation type="unfinished">Hozzáadtunk egy funkciót, amely automatikusan letölti a megfelelő Java-verziót a Minecraft minden egyes verziójához (ez módosítható a Java-beállításokban). Szeretné engedélyezni vagy letiltani ezt a funkciót?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3467,19 +3469,22 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <name>InstallJavaPage</name>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
-        <source>No java versions are currently available in the meta.</source>
-        <translation>A meta jelenleg nem tartalmaz java verziókat.</translation>
+        <source>No Java versions are currently available in the meta.</source>
+        <oldsource>No java versions are currently available in the meta.</oldsource>
+        <translation type="unfinished">A meta jelenleg nem tartalmaz java verziókat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
-        <source>Couldn&apos;t load or download the java version lists!</source>
-        <translation>Nem sikerült betölteni vagy letölteni a java verziólistákat!</translation>
+        <source>Couldn&apos;t load or download the Java version lists!</source>
+        <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
+        <translation type="unfinished">Nem sikerült betölteni vagy letölteni a java verziólistákat!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
-        <source>No java versions are currently available for your OS.</source>
-        <translation>Az Ön operációs rendszeréhez jelenleg nem érhető el Java verzió.</translation>
+        <source>No Java versions are currently available for your OS.</source>
+        <oldsource>No java versions are currently available for your OS.</oldsource>
+        <translation type="unfinished">Az Ön operációs rendszeréhez jelenleg nem érhető el Java verzió.</translation>
     </message>
 </context>
 <context>
@@ -4452,13 +4457,15 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
-        <source>No managed java versions are installed</source>
-        <translation>Nincs telepítve egyetlen felügyelt java verzió sem</translation>
+        <source>No managed Java versions are installed</source>
+        <oldsource>No managed java versions are installed</oldsource>
+        <translation type="unfinished">Nincs telepítve egyetlen felügyelt java verzió sem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
-        <source>Couldn&apos;t load the managed java list!</source>
-        <translation>Nem sikerült betölteni a menedzselt java listát!</translation>
+        <source>Couldn&apos;t load the managed Java list!</source>
+        <oldsource>Couldn&apos;t load the managed java list!</oldsource>
+        <translation type="unfinished">Nem sikerült betölteni a menedzselt java listát!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4670,8 +4677,9 @@ A Java verziót később a beállítások között megváltoztathatja.
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
-        <source>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</source>
-        <translation>Kérjük, válassza ki, hogy mennyi memóriát kell lefoglalni a példányokhoz, és hogy a Prism Launcher automatikusan vagy manuálisan kezelje-e a java-t.</translation>
+        <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
+        <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
+        <translation type="unfinished">Kérjük, válassza ki, hogy mennyi memóriát kell lefoglalni a példányokhoz, és hogy a Prism Launcher automatikusan vagy manuálisan kezelje-e a java-t.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6500,8 +6508,9 @@ Indok:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
-        <source>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</source>
-        <translation>Nyisd meg a java mappáját egy webböngészőben. Csak akkor elérhető, ha a beépített java letöltő van használva.</translation>
+        <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
+        <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
+        <translation type="unfinished">Nyisd meg a java mappáját egy webböngészőben. Csak akkor elérhető, ha a beépített java letöltő van használva.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -13770,13 +13779,15 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
-        <source>The alternative name of the java version</source>
-        <translation>A java verzió alternatív neve</translation>
+        <source>The alternative name of the Java version</source>
+        <oldsource>The alternative name of the java version</oldsource>
+        <translation type="unfinished">A java verzió alternatív neve</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
-        <source>The java major version</source>
-        <translation>A java főverziója</translation>
+        <source>The Java major version</source>
+        <oldsource>The java major version</oldsource>
+        <translation type="unfinished">A java főverziója</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>

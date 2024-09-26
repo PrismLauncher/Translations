@@ -907,8 +907,9 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
-        <source>Extracting java</source>
-        <translation>Java를 추출하는 중</translation>
+        <source>Extracting Java</source>
+        <oldsource>Extracting java</oldsource>
+        <translation type="unfinished">Java를 추출하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1260,8 +1261,9 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
-        <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
-        <translation>마인크래프트의 각 버전에 맞는 Java 버전을 자동으로 다운로드하는 기능이 추가되었습니다(Java 설정에서 변경할 수 있습니다). 이 기능을 활성화하시겠습니까?</translation>
+        <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
+        <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
+        <translation type="unfinished">마인크래프트의 각 버전에 맞는 Java 버전을 자동으로 다운로드하는 기능이 추가되었습니다(Java 설정에서 변경할 수 있습니다). 이 기능을 활성화하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3472,19 +3474,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>InstallJavaPage</name>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
-        <source>No java versions are currently available in the meta.</source>
-        <translation>현재 메타에서 사용할 수 있는 Java 버전이 없습니다.</translation>
+        <source>No Java versions are currently available in the meta.</source>
+        <oldsource>No java versions are currently available in the meta.</oldsource>
+        <translation type="unfinished">현재 메타에서 사용할 수 있는 Java 버전이 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
-        <source>Couldn&apos;t load or download the java version lists!</source>
-        <translation>Java 버전 목록을 불러오거나 다운로드할 수 없습니다!</translation>
+        <source>Couldn&apos;t load or download the Java version lists!</source>
+        <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
+        <translation type="unfinished">Java 버전 목록을 불러오거나 다운로드할 수 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
-        <source>No java versions are currently available for your OS.</source>
-        <translation>현재 사용하는 운영체제에서 사용할 수 있는 Java 버전이 없습니다.</translation>
+        <source>No Java versions are currently available for your OS.</source>
+        <oldsource>No java versions are currently available for your OS.</oldsource>
+        <translation type="unfinished">현재 사용하는 운영체제에서 사용할 수 있는 Java 버전이 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -4457,13 +4462,15 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
-        <source>No managed java versions are installed</source>
-        <translation>관리되는 Java 버전이 설치되어 있지 않음</translation>
+        <source>No managed Java versions are installed</source>
+        <oldsource>No managed java versions are installed</oldsource>
+        <translation type="unfinished">관리되는 Java 버전이 설치되어 있지 않음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
-        <source>Couldn&apos;t load the managed java list!</source>
-        <translation>관리되는 Java 목록을 불러올 수 없습니다!</translation>
+        <source>Couldn&apos;t load the managed Java list!</source>
+        <oldsource>Couldn&apos;t load the managed java list!</oldsource>
+        <translation type="unfinished">관리되는 Java 목록을 불러올 수 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4675,8 +4682,9 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
-        <source>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</source>
-        <translation>인스턴스에 할당할 메모리의 용량과 Prism Launcher의 Java 자동 관리 여부를 선택하십시오.</translation>
+        <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
+        <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
+        <translation type="unfinished">인스턴스에 할당할 메모리의 용량과 Prism Launcher의 Java 자동 관리 여부를 선택하십시오.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6498,8 +6506,9 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
-        <source>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</source>
-        <translation>파일 브라우저에서 java 폴더를 엽니다. 기본 제공 Java 다운로더를 사용하는 경우에만 사용할 수 있습니다.</translation>
+        <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
+        <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
+        <translation type="unfinished">파일 브라우저에서 java 폴더를 엽니다. 기본 제공 Java 다운로더를 사용하는 경우에만 사용할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -13778,13 +13787,15 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
-        <source>The alternative name of the java version</source>
-        <translation>Java 버전의 다른 이름</translation>
+        <source>The alternative name of the Java version</source>
+        <oldsource>The alternative name of the java version</oldsource>
+        <translation type="unfinished">Java 버전의 다른 이름</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
-        <source>The java major version</source>
-        <translation>Java 주요 버전</translation>
+        <source>The Java major version</source>
+        <oldsource>The java major version</oldsource>
+        <translation type="unfinished">Java 주요 버전</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
