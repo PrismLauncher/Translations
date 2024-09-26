@@ -4004,7 +4004,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ติดตั้ง Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="314"/>
@@ -7645,7 +7645,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ไม่พบเวอร์ชันที่ถูกต้องสำหรับม็อดนี้ อาจไม่สามารถใช้งานได้กับเวอร์ชันเกม / ตัวโหลม็อด ปัจจุบัน</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
@@ -7667,12 +7667,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="147"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ไม่มีไฟล์ดัชนี</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="148"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">เราไม่พบไฟล์ดัชนีที่เหมาะสมสำหรับเวอร์ชันเก่า นี่อาจทำให้ไฟล์บางไฟล์ซ้ำกันได้ คุณต้องการดำเนินการต่อหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="192"/>
