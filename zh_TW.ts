@@ -86,17 +86,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic 用戶端 ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：這項設定僅供存取私人資料使用，若無需求則無需設定。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>在這裡輸入 Technic 的自訂 GUID 用戶端 ID。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -2397,7 +2397,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>您即將移除 %1 個項目。
-這可能是永久性的，它們將從資料夾中消失。
+這可能是永久性的，且它們將從資料夾中消失。
 
 您確定嗎？</translation>
     </message>
@@ -2408,7 +2408,7 @@ This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
         <translation>您即將移除資料夾「%1」。
-這可能是永久性的，它將從父資料夾中消失。
+這可能是永久性的，且它將從父資料夾中消失。
 
 您確定嗎？</translation>
     </message>
@@ -7732,7 +7732,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="315"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用 Zink 繪製引擎，這是一個在基於 Vulkan 的 Mesa OpenGL 驅動程式。效能可能會因情況而異。注意：如果找不到適合的Vulkan驅動，將使用軟體繪製。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用 Zink 繪製引擎，這是一個在基於 Vulkan 的 Mesa OpenGL 驅動程式。效能可能會因情況而異。注意：如果找不到適合的 Vulkan 驅動，將使用軟體繪製。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="318"/>
@@ -9566,7 +9566,7 @@ This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
         <translation>您即將刪除「%1」。
-這可能是永久性的，它將從記錄檔資料夾中消失。
+這可能是永久性的，且它將從記錄檔資料夾中消失。
 
 您確定嗎？</translation>
     </message>
@@ -11780,12 +11780,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This download will be placed in: %1</source>
-        <translation>此下載將已被放置於：%1</translation>
+        <translation>這個下載將已被放置於：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>此檔案將被下載到與預設位置不同的資料夾，可能是相關載入器需要它。</translation>
+        <translation>這個檔案將被下載到與預設位置不同的資料夾，可能是相關載入器需要它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="63"/>
@@ -11967,7 +11967,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>您即將刪除 %1 螢幕擷取畫面？
-這可能是永久性的，它們將從資料夾中消失。
+這可能是永久性的，且它們將從資料夾中消失。
 
 您確定嗎？</translation>
     </message>
@@ -11977,8 +11977,8 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation>您正在刪除已選取的螢幕擷取畫面。
-這可能將它從資料夾永遠刪除。
+        <translation>您即將刪除已選取的螢幕擷取畫面。
+這可能是永久性的，且它將從資料夾中消失。
 
 您確定嗎？</translation>
     </message>
