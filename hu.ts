@@ -71,7 +71,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Adja meg itt a Modrinth egyéni API-tokenjét.</translation>
+        <translation>Adjon meg itt egy egyéni API-token-t a Modrinth számára.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -901,7 +901,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Java kibontása</translation>
+        <translation>Java kibontása</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1255,7 +1255,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">Hozzáadtunk egy funkciót, amely automatikusan letölti a megfelelő Java-verziót a Minecraft minden egyes verziójához (ez módosítható a Java-beállításokban). Szeretné engedélyezni vagy letiltani ezt a funkciót?</translation>
+        <translation>Hozzáadtunk egy funkciót, amely automatikusan letölti a megfelelő Java-verziót a Minecraft minden egyes verziójához (ez módosítható a Java-beállításokban). Szeretné engedélyezni vagy letiltani ezt a funkciót?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3471,20 +3471,20 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">A meta jelenleg nem tartalmaz java verziókat.</translation>
+        <translation>A meta jelenleg nem tartalmaz java verziókat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Nem sikerült betölteni vagy letölteni a java verziólistákat!</translation>
+        <translation>Nem sikerült betölteni vagy letölteni a java verziólistákat!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Az Ön operációs rendszeréhez jelenleg nem érhető el Java verzió.</translation>
+        <translation>Az Ön operációs rendszeréhez jelenleg nem érhető el Java verzió.</translation>
     </message>
 </context>
 <context>
@@ -4459,13 +4459,13 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Nincs telepítve egyetlen felügyelt java verzió sem</translation>
+        <translation>Nincs telepítve egyetlen felügyelt java verzió sem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Nem sikerült betölteni a menedzselt java listát!</translation>
+        <translation>Nem sikerült betölteni a menedzselt java listát!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4679,7 +4679,7 @@ A Java verziót később a beállítások között megváltoztathatja.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Kérjük, válassza ki, hogy mennyi memóriát kell lefoglalni a példányokhoz, és hogy a Prism Launcher automatikusan vagy manuálisan kezelje-e a java-t.</translation>
+        <translation>Kérjük, válassza ki, hogy mennyi memóriát rendeljen a példányokhoz, és hogy a Prism Launcher automatikusan vagy manuálisan kezelje a Javát.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -4825,7 +4825,7 @@ Szeretnél játszani a demóval?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="283"/>
         <source>Play Offline</source>
-        <translation>Játszás offline</translation>
+        <translation>Offline játék</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="290"/>
@@ -6510,7 +6510,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Nyisd meg a java mappáját egy webböngészőben. Csak akkor elérhető, ha a beépített java letöltő van használva.</translation>
+        <translation>Nyissa meg a Java mappát egy fájlkezelőben. Csak a beépített Java letöltő használata esetén érhető el.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -13781,13 +13781,13 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">A java verzió alternatív neve</translation>
+        <translation>A java verzió alternatív neve</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">A java főverziója</translation>
+        <translation>A java főverziója</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
@@ -14004,12 +14004,12 @@ Kanonikus elérési út: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
         <source>Datapacks</source>
-        <translation>Datapackok</translation>
+        <translation>Adatcsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="154"/>
         <source>Manage datapacks inside the world.</source>
-        <translation>Adatcsomagok/datapackok kezelése a világon.</translation>
+        <translation>Adatcsomagok kezelése a világon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="59"/>
@@ -14038,7 +14038,7 @@ Akarod folytatni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="226"/>
         <source>Open World Datapacks Folder</source>
-        <translation>Nyissa meg a világ datapacks mappáját</translation>
+        <translation>Nyissa meg a világ adatcsomagok mappáját</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="280"/>
