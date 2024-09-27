@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Piezīme: tev lielākoties nevaig šo iestatīt ja pierakstīšanas ar Microsoft Autentifikāciju jau strādā.</translation>
+        <translation>Piezīme: iespējams, ka nav vajadzīgs šo iestatīt, ja pierakstīšanās ar Microsoft Autentifikāciju jau strādā.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -62,12 +62,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Piezīme: tev tikai vajag iestatīt šo lai piekļūtu privātiem datiem. Izlasi &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt; dokumentāciju &lt;/a&gt; priekš vairāk informācijas.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Piezīme: šo ir vajadzīgs iestatīt tikai privāto datu piekļuvei. Izlasi &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt; dokumentāciju &lt;/a&gt; priekš vairāk informācijas.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Ievadi savu API atslēgu priekš Modrinth te.</translation>
+        <translation>Ievadi savu API atslēgu priekš Modrinth šeit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -78,17 +78,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic Klienta ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Piezīme: šo ir vajadzīgs iestatīt tikai privāto datu piekļuvei.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievadi pielāgotu Technic GUID klienta ID šeit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -98,12 +98,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="350"/>
         <source>User Agent</source>
-        <translation>Lietotāj Aģents</translation>
+        <translation>Lietotāja Aģents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Ievadiet pielāgotu Lietotāj Aģentu šeit. Īpašais vārds $LAUNCHER_VER tiks nomainīts uz palaidēja versiju.</translation>
+        <translation>Ievadiet pielāgotu Lietotāja Aģentu šeit. Īpašā virkne $LAUNCHER_VER tiks nomainīta uz palaidēja versiju.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -118,7 +118,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Varat iestatīt šo uz trešās-partijas metadatu serveri, lai izmantotu savadākas bibliotēkas vai citus izmaiņas.</translation>
+        <translation>Šo var iestatīt uz trešās puses metadatu serveri, lai izmantotu ielāpbibliotēkas (patched libraries) vai citas piedares (hacks).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -133,18 +133,18 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Piezīme: tev lielākoties nevaig šo lietot ja CurseForge jau strādā.</translation>
+        <translation>Piezīme: iespējams, ka šo nav vajadzīgs iestatīt, ja CurseForge jau darbojas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Šeit ievadiet pielāgotu CurseForge API atslēgu.</translation>
+        <translation>Ievadiet pielāgotu CurseForge API atslēgu šeit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
-        <translation>APIs</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -164,7 +164,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="152"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Neizdevās iegūt vietējo metadatu indeksu priekš %1 v%2</translation>
+        <translation>Neizdevās iegūt vietējo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
@@ -184,12 +184,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="373"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Neizdevās atrast versiju priekš %1 loaderam</translation>
+        <translation>Neizdevās atrast versiju %1 ielādētājam</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nekāda loadera versija nav iestatīta priekš modpack!</translation>
+        <translation>Modifikācijas pakotnei nav iestatīta ielādētāja versija!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
@@ -199,17 +199,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
         <source>Downloading configs...</source>
-        <translation>Lejuplādē konfigurācijas...</translation>
+        <translation>Lejupielādē konfigurācijas...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
         <source>Config download</source>
-        <translation>Konfigurāciju lejuplāde</translation>
+        <translation>Konfigurāciju lejupielāde</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
         <source>Extracting configs...</source>
-        <translation>Ekstraktē konfigurācijas...</translation>
+        <translation>Izraksta konfigurācijas...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="677"/>
@@ -224,12 +224,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
         <source>Downloading mods...</source>
-        <translation>Lejuplādē modifikācijas...</translation>
+        <translation>Lejupielādē modifikācijas...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
         <source>Mod download</source>
-        <translation>Modifikācijas lejuplāde</translation>
+        <translation>Modifikāciju lejupielāde</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -249,7 +249,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
@@ -259,17 +259,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="921"/>
         <source>Failed to extract mods...</source>
-        <translation>Nesanāca ekstraktēt modifikācijas...</translation>
+        <translation>Neizdevās izrakstīt modifikācijas...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
-        <translation>Ekstraktē modifikācijas...</translation>
+        <translation>Izraksta modifikācijas...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Installing modpack</source>
-        <translation>Lejuplādē modpaku</translation>
+        <translation>Lejupielādē modifikācijas pakotni</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1014"/>
@@ -279,12 +279,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
         <source>Unknown loader type: </source>
-        <translation>Nezināms lādēšanas veids: </translation>
+        <translation>Nezināms ielādētāja veids: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1055"/>
         <source>Failed to create pack component</source>
-        <translation>Neizdevās izveidot pakas komponentu</translation>
+        <translation>Neizdevās izveidot pakotnes komponentu</translation>
     </message>
 </context>
 <context>
@@ -297,7 +297,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pielāgots Minecraft palaidējs, kas ļauj vieglāk palaist vairākus Minecraft logus vienlaicīgi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pielāgots Minecraft palaidējs, kas ļauj vieglāk palaist vairākas Minecraft instances vienlaicīgi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -317,7 +317,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation>Pabeigt:</translation>
+        <translation>Iesūtīt:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -352,7 +352,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Commit: %1</source>
-        <translation>Pabeigt: %1</translation>
+        <translation>Iesūtīt: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
@@ -401,7 +401,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
         <source>MSA</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>MSA</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
@@ -460,7 +460,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>Konta veids (MSA vai Bezsaistes)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -556,7 +556,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="105"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation>Noņe&amp;mt</translation>
+        <translation>Noņemt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
@@ -568,7 +568,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Nelietot kā noklusējumu</translation>
+        <translation>&amp;Nav noklusējuma</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -587,12 +587,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pārvaldīt Ādas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārvaldīt Ādas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -610,12 +610,12 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Pārlādēt</translation>
+        <translation>&amp;Atsvaidzināt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation>Pārlādēt konta tokenus</translation>
+        <translation>Atsvaidzināt konta marķierus (tokens)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
@@ -634,7 +634,8 @@ Ja esat šeit pirmo reizi, varat pievienot savu Mojang vai Microsoft kontu ar po
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laipni lūgts!
+Ja neesiet šo programmu iepriekš lietojis, varat atlasīt pogu &quot;Pievienot Microsoft&quot;, lai piesaistītu savu Micorosft kontu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -644,7 +645,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
         <source>Context menu</source>
-        <translation>Konteksta izvēlne</translation>
+        <translation>Kontekstizvēlne</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -661,7 +662,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lai pievienotu bezsaistes kontu, ir nepieciešams pievienot Microsoft kontu, kam pieder Minecraft.&lt;br&gt;&lt;br&gt;Ja esat pazaudējis savu kontu, varat sazināties ar Microsoft, lai saņemtu atbalstu.</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -693,12 +694,12 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Remove account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Noņemt kontu?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties izdzēst šo kontu?</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -769,7 +770,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šai instalācijai ir atjaunināšanas bloķēšanas datne: %1
+
+Laikspiedols: %2
+Notiek atjaunināšana no versijas %3 uz %4
+Mērķa instalēšanas ceļš: %5
+Datu ceļš: %6
+Tas, iespējams, nozīmē, ka ir neizdevies atjaunināšanas mēģinājums. Pirms turpināt, lūdzu, pārliecinieties, ka instalācija ir darba kārtībā.
+Pārbaudiet Prism Launcher atjauninātāja žurnālu:
+%7,
+lai iegūtu sīkāku informāciju par pēdējo atjaunināšanas mēģinājumu.
+
+Lai dzēstu šo slēdzeni un turpinātu, tālāk atlasiet “Ignorēt”.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="952"/>
