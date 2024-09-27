@@ -2738,7 +2738,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="498"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
