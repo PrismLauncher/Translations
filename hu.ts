@@ -857,7 +857,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>A /tmp könyvtár jelenleg a &apos;noexec&apos; jelzővel van felcsatolva.
+Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
+
+Ezt a problémát úgy oldhatod meg, ha a /tmp könyvtárat újra &apos;exec&apos; jelűre mountolod, vagy a java.io.tmpdir JVM argumentumot egy olyan fájlrendszerben lévő írható könyvtárra állítod, ahol az &apos;exec&apos; jelző be van állítva (pl. /home/user/.local/tmp).
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -3069,7 +3073,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Legutóbb frissített szerinti rendezés</translation>
+        <translation>Legutóbbi frissítés szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
@@ -9054,7 +9058,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Legutóbb frissített szerinti rendezés</translation>
+        <translation>Legutóbbi frissítés szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="188"/>
