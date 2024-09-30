@@ -1413,7 +1413,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>部分元件中繼資料載入作業失敗。</translation>
+        <translation>某些元件中繼資料載入作業失敗。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
