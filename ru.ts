@@ -877,7 +877,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ваше расположение /tmp в настоящее время смонтировано с включенным флагом ‘noexec’.
+ Некоторые версии Minecraft могут не запускаться.
+
+Вы можете решить эту проблему, перемонтировав /tmp с флагом ‘exec’ или установив аргумент JVM java.io.tmpdir в записываемое расположение в файловой системе, где установлен флаг ‘exec’ (например, /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
