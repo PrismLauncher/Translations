@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Merk: Du vil formodentlig endre eller tømme grunn-nettadressen etter å ha endret innlimingstjenestetypen.</translation>
+        <translation>Merk: Det er anbefalt at du endrer eller tømmer grunn-nettadressa etter å ha endra innlimingstjenestetypen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -39,13 +39,13 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Obs: du vil sannsynligvis ikke trenge å angi dette hvis pålogging via Microsoft Authentication allerede fungerer.</translation>
+        <translation>Obs: Du trenger mest sannsynlig ikke å legge til denne viss innlogginga via Microsoft Authentication allerede fungerer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="284"/>
         <source>(Default)</source>
-        <translation>(Forvalg)</translation>
+        <translation>(Standard)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
@@ -78,17 +78,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic Klient-ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Merk: Du trenger bare å legge til denne for å få tilgang til private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til en tilpassa GUID-Klient-ID for Technic her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -840,7 +840,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>/tmp directory -en din har &apos;noexec&apos;-flagget skrudd på.
+Det kan hende at noen versjoner av Minecraft ikke vil kjøre.
+
+For å fikse dette problemet, kan du legge til /tmp som &apos;exec&apos; igjen, eller sette java.io.tmpdir-JVM-argumentet til et skrivbart direktorat i et skrivesystem hvor &apos;exec&apos;-flagget er lagt til (t.d.,/home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -892,7 +896,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Pakker ut java</translation>
+        <translation>Pakker ut Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -920,7 +924,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">Ingen filer funnet i zip-filen,</translation>
+        <translation>Ingen filer funnet i den medfølgende zip-fila.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -1220,23 +1224,23 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Ny funksjon har ankommet!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vi har lagt til en funksjon for å automatisk laste ned den korrekte versjonen av Java for hver versjon av Minecraft (du kan endre dette i Java-innstillingene). Vil du skru på eller av denne funksjonen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Skru på Auto-Nedlasting</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Skru av Auto-Nedlasting</translation>
     </message>
 </context>
 <context>
@@ -3693,7 +3697,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="452"/>
         <source>Native libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Opprinnelige bibliotek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="471"/>
@@ -3877,12 +3881,12 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="585"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den maksimale minnetildeinga di nærmer seg systemminnekapasiteten din.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="588"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Den maksimale minnetildeinga di er mindre enn den minimale verdien</translation>
     </message>
 </context>
 <context>
@@ -3890,7 +3894,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="906"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke lage oppsettingsmappe</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="924"/>
@@ -3908,7 +3912,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klikk på &quot;Add Instance&quot; for å starte.</translation>
     </message>
 </context>
 <context>
@@ -3926,17 +3930,17 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Launch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kill</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -4097,17 +4101,17 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="218"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM-argument:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velger automatisk Java-versjonen som er komatibel med den nåværende Minecraft-instansen, basert på den påkrevde hovedversjonen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg automatisk merke til Java-versjonen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
@@ -4175,12 +4179,12 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viss skrudd på, så vil ikke launcheren spørre deg om å velge en Java-versjon viss den ikke er funnet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Hopp over Java &amp;Wizard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
@@ -4191,7 +4195,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hopp over Java kompatabilitetssjekker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -4202,13 +4206,13 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ingen administrerte Java-versjoner er installerte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke laste inn den administrerte Java-lista!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4242,23 +4246,24 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="237"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den maksimale minnetildelinga begynner å nå systemminnekapasiteten din.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="240"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Den maksimale minnetildelinga er mindre enn den minimale verdien</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekreft Sletting</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kommer til å fjerne  Javainstallasjonsnavnet &quot;%1&quot;.
+Er du sikker?</translation>
     </message>
 </context>
 <context>
@@ -4276,7 +4281,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>32-biter Java oppdaga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="233"/>
@@ -4286,7 +4291,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Du valgte en 32-biter installasjon av Java, men tildelinga er mer enn 2048MiB som det maksimale minnet.
+%1 vil ikke kunne starte Minecraft.
+Vil du fortsette?
+
+Du kan endre Java-versjonen i innstillingene seinere.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="244"/>
@@ -4296,7 +4306,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Enten så valgte ikke du en Java-versjon, eller valgte en som ikke fungerer.
+%1 vil ikke kunne starte Minecraft.
+Ønsker du å fortsette uten en funksjonell Java-versjon?
+
+Du kan endre Java-versjonen i innstillingene seinere.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="353"/>
@@ -4346,12 +4361,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="505"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Autooppdag Java-versjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Autooppdag Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="515"/>
@@ -4361,17 +4376,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den maksimale minnetildelinga di begynner å nærme seg systemminnekapasiteten.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Den maksimale minnetildelinga er mindre enn den minimale verdien</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du overskrider den maksimale tildeltinga støtta av 32-bitersinstallasjonene av Java.</translation>
     </message>
 </context>
 <context>
@@ -4385,7 +4400,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vennligst velg hvor mye minne du vil tildele til instansen og viss Prism Launcher skal handtere Java automatisk eller manuelt.</translation>
     </message>
 </context>
 <context>
@@ -4419,7 +4434,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg språket du vil bruke i %1</translation>
     </message>
 </context>
 <context>
@@ -4432,7 +4447,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="74"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig Javaargument angitt. Vennligst fiks det først.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
@@ -4443,12 +4458,12 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/LaunchController.cpp" line="92"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>For å kunne spelle Minecraft, så må du ha minst én Microsoft-konto som eier Minecraft logga inn. Vil du åpne konto kontoadministratoren for å legge til en konto nå?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="118"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvilken konto vil du bruke?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="190"/>
@@ -4458,12 +4473,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="208"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsett kjøringa?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Det ser ut som at vi ikke kunne kjøre lancheren etter %1 forsøk. Vil du fortsette å prøve?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="159"/>
@@ -4478,7 +4493,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="154"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veld demomodusspellenavnet ditt.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
@@ -4488,7 +4503,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="136"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Spell demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="138"/>
@@ -4496,12 +4511,15 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne kontoen eier ikke Minecraft.
+Du må kjøpe spellet før du kan spelle det.
+
+Vil du spelle demoen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="141"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Spell Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="142"/>
@@ -4511,7 +4529,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="268"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjøring avbrutt - konto eier ikke Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="283"/>
@@ -4521,32 +4539,32 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="290"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoen har utgått og du må logge inn manuelt igjen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontooppdatering feila</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="297"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjøringsklientidentifikatoren har blitt endra. Vennligst fjern denne kontoen og legg den til igjen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Klientidentifikasjon endra</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="305"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoen eksisterer ikke lenger på denne serveren. Den kan ha blitt migrert, og viss så, vennligst legg til den nye kontoen du migrerte denne til.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="307"/>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto borte</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="314"/>
@@ -4568,12 +4586,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="330"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke sette i gang en launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilsjekk for %1 feila: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="393"/>
@@ -4589,7 +4607,9 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spellkjøringa er utsatt inntil du trykker på knappen. Dette er et godt tidspunkt for å konfugurere profileren, sia profilserveren kjører nå.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="391"/>
@@ -4632,7 +4652,8 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="209"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutta å se på spelleloggen sia loglengda gikk over %1 linjer.
+Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer og kaster sannsynligvis bort harddiskplass på et skyhøgd nivå!</translation>
     </message>
 </context>
 <context>
@@ -4640,18 +4661,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Få tilgang til Mojangtjenester.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke få Minecraft tilgangstokenen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="69"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke analysere Minecrafttilgangstokenssvaret.</translation>
     </message>
 </context>
 <context>
@@ -4659,18 +4680,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funksjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater Innstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sjekk for oppdateringer automatisk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
@@ -4695,22 +4716,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Når skrudd på, i tillegg til neslastingsmappa, så vil undermappene deres òg bli søkt gjennom når den ser etter ressurser (t.d. når den ser etter blokkerte mods i CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="146"/>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjekk nedlastingsmappa rekursivt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
         <source>Disable automatic mod dependency management</source>
-        <translation type="unfinished"></translation>
+        <translation>Skruav automatisk modavhengighetsadministrasjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="364"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Brukergrensesnitt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
@@ -4721,22 +4742,22 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Av siste kjørte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Av %navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="233"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="66"/>
@@ -4746,17 +4767,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>Set it to 0 to only check on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Sett det til 0 bare for å sjekke under kjøring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="100"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nedlastinger:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="110"/>
@@ -4771,7 +4792,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="123"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skall:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -4782,35 +4803,35 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Skru av bruk av metadata fra modtilbyderer (som Modrinth eller CurseForge) for mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="242"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Skru av bruk av metadata for mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Advarsel&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;Å skru av modmetadata kan også skru av noen livskvalitetsfunksjoner, som modoppdatering!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Skru av automatisk oppdaging, installasjon og oppdatering av mod avhengigheter.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="269"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Når du lager en ny modpackinstanse, ikke foreslå å oppdatere eksisterende instanser istedenfor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>Skip modpack update prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Hopp over modpackoppdateringsspørring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
@@ -4820,17 +4841,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Number of concurrent tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal samtidige oppgaver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="309"/>
         <source>Number of concurrent downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal samtidige nedlastinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="330"/>
         <source>Seconds to wait until the requests are terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekund du må vente til forespørselen er avslutta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="333"/>
@@ -4840,53 +4861,53 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="316"/>
         <source>Number of manual retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal nye manualforsøk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>Katt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="420"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sett kattegjennomsiktigheta. 0% er fullt gjennomsiktig og 100% ugjennomsiktig.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="423"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugjennomsiktighet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="433"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktøy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menybaren er vennligere for tastaturdriven interaksjon.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Erstatt verktøylinja med menylinja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="501"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Konsoll</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
@@ -5926,7 +5947,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne instansmappene i filnettleseren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="565"/>
@@ -5946,7 +5967,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne skallmappa i filnettleseren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="601"/>
@@ -5956,7 +5977,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne instanseikonsmappa i en filutforsker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
@@ -5966,7 +5987,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne loggmappa i en filutforsker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="642"/>
@@ -6001,17 +6022,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="777"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne ikontemamappa i en filutforsker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="786"/>
         <source>Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattpakker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="789"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne kattpakkemappa i en filutforsker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
@@ -6022,12 +6043,12 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Åpne Javamappa i en filutforskar. Bare tilgjengelig viss den innebygde Java-nedlasteren er brukt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>%Oppdater...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
@@ -6037,7 +6058,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="335"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Handter Kontoer...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
@@ -6047,7 +6068,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
@@ -6057,42 +6078,42 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rediger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gjennomgå</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hjelp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="359"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avslutt den kjørende instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksporter den valgte instansen til støtta format.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="475"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="493"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="538"/>
@@ -6102,17 +6123,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="541"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Lukk igjen det nåværende vinduet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="568"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne rotmappa til launcheren i en filutforsker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="630"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Reporter en Feil eller Foreslå en Funksjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="657"/>
@@ -6153,12 +6174,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="362"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="412"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
@@ -6184,12 +6205,12 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="502"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1579"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Lag Snarveg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="505"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lag en snarveg på skrivebordet ditt for å kjøre den valgte instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="741"/>
@@ -6204,7 +6225,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1362"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekreft sletting</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1363"/>
@@ -6216,7 +6237,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Du er i ferd med å slette &quot;%1&quot;.
+Dette kan være permanent og vil fullstendig slette denne instansen.
+
+Er du sikker?</translation>
     </message>
     <message>
         <source>Launch the selected instance in offline mode.</source>
@@ -6325,7 +6349,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="358"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Total spelletid: 0s</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -6374,17 +6398,17 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="781"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laster inn nyheter...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="791"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen nyheter tilgjengelig.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="839"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Advarsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="843"/>
@@ -6416,13 +6440,13 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppenavn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1139"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv inn et nytt gruppenavn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1151"/>
@@ -6437,12 +6461,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1278"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan ikke slette denne instansen. Den kan vere øydelagt, ugyldig, eller for gammal. Sjekk loggene for detaljer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1313"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>La suksessfult %1 til PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1314"/>
