@@ -853,7 +853,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori /tmp Anda saat ini dipasang dengan flag &apos;noexec&apos; aktif.
+Beberapa versi Minecraft mungkin tidak dapat dijalankan.
+
+Anda dapat menuntaskan masalah ini dengan memasang ulang /tmp dengan &apos;exec&apos; atau mengatur argumen JVM java.io.tmpdir menjadi direktori yang dapat dimodifikasi dalam sistem berkas yang flag &apos;exec&apos;-nya diatur (cth., /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -905,7 +909,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Mengekstraksi Java</translation>
+        <translation>Mengekstraksi Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1255,7 +1259,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">Kami telah menambahkan fitur untuk mengunduh versi Java yang benar untuk setiap versi Minecraft secara otomatis (ini dapat diubah dalam pengaturan Java). Apakah Anda ingin mengaktifkan fitur ini?</translation>
+        <translation>Kami telah menambahkan fitur untuk mengunduh versi Java yang benar untuk setiap versi Minecraft secara otomatis (ini dapat diubah dalam pengaturan Java). Apakah Anda ingin mengaktifkan fitur ini?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3403,20 +3407,20 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Tidak ada versi Java yang saat ini tersedia dalam meta.</translation>
+        <translation>Tidak ada versi Java yang saat ini tersedia dalam meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Tidak dapat memuat atau mengunduh daftar versi Java!</translation>
+        <translation>Tidak dapat memuat atau mengunduh daftar versi Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Tidak ada versi Java yang tersedia untuk sistem operasi Anda.</translation>
+        <translation>Tidak ada versi Java yang tersedia untuk sistem operasi Anda.</translation>
     </message>
 </context>
 <context>
@@ -4335,13 +4339,13 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Tidak ada versi Java terkelola yang diinstal</translation>
+        <translation>Tidak ada versi Java terkelola yang diinstal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Tidak dapat memuat daftar java terkelola!</translation>
+        <translation>Tidak dapat memuat daftar Java terkelola!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4555,7 +4559,7 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Mohon tentukan seberapa banyak memori untuk dialokasikan bagi instansi dan jika Prism Launcher akan mengatur Java secara otomatis atau manual.</translation>
+        <translation>Mohon tentukan seberapa banyak memori untuk dialokasikan untuk instansi-instansi dan jika Prism Launcher akan mengatur Java secara otomatis atau manual.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -4579,7 +4583,7 @@ Mohon pilih salah satu di bawah atau telusuri eksekutabel Java.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Tidak dapat melihat bahasa Anda atau kualitas terjemahannya buruk?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Bantu kami dengan menerjemahkannya!&lt;/a&gt;</translation>
+        <translation>Bahasa Anda tidak ada atau kualitas terjemahannya buruk?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Bantu kami dengan menerjemahkannya!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
@@ -6533,7 +6537,7 @@ Alasan:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Membuka folder java dalam peramban berkas. Hanya tersedia jika pengunduh Java bawaan digunakan.</translation>
+        <translation>Membuka folder java dalam peramban berkas. Hanya tersedia jika pengunduh Java bawaan digunakan.</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -13161,13 +13165,13 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">Nama alternatif dari versi java</translation>
+        <translation>Nama alternatif dari versi java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">Versi mayoritas java</translation>
+        <translation>Versi besar Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
