@@ -853,7 +853,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша тека /tmp наразі змонтована з увімкненим прапором ‘noexec’.
+Деякі версії Minecraft можуть не запускатися.
+
+Ви можете вирішити цю проблему, перемонтувавши /tmp з прапором ‘exec’ або встановивши аргумент JVM java.io.tmpdir у записувану теку у файловій системі, де встановлено прапор ‘exec’ (наприклад, /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
