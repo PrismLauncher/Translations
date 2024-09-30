@@ -865,7 +865,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>현재 /tmp 디렉터리가 &apos;noexec&apos; 플래그가 활성화된 상태로 마운트되어 있습니다.
+일부 버전의 마인크래프트가 실행되지 않을 수 있습니다.
+
+이 문제를 해결하려면 /tmp를 &apos;exec&apos;로 다시 마운트하거나 java.io.tmpdir JVM 인수를 &apos;exec&apos; 플래그가 설정된 파일 시스템의 쓰기 가능한 디렉터리(예: /home/user/.local/tmp)로 설정하면 됩니다.
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
