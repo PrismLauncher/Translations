@@ -3495,20 +3495,20 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Nessuna versione di java attualmente disponibile nel metadata.</translation>
+        <translation>Nessuna versione di java attualmente disponibile nel metadata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Non è stato possibile aprire o scaricare la lista delle versioni di java!</translation>
+        <translation>Non è stato possibile aprire o scaricare la lista delle versioni di java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Attualmente nessuna versione di Java è disponibile per il tuo SO.</translation>
+        <translation>Attualmente nessuna versione di Java è disponibile per il tuo SO.</translation>
     </message>
 </context>
 <context>
@@ -4471,13 +4471,13 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Non è stata installata nessuna versione di java gestita</translation>
+        <translation>Non è stata installata nessuna versione di java gestita</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Non è stato possibile caricare la lista delle versioni di java gestite!</translation>
+        <translation>Non è stato possibile caricare la lista delle versioni di java gestite!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4678,7 +4678,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Per favore seleziona quanta memoria vuoi allocare alle instanze e se Prism Launcher dovrebbe gestire Java automaticamente o manualmente.</translation>
+        <translation>Per favore seleziona quanta memoria vuoi allocare alle instanze e se Prism Launcher dovrebbe gestire Java automaticamente o manualmente.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -13810,13 +13810,13 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">Il nome alternativo della versione di java</translation>
+        <translation>Il nome alternativo della versione di java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">La versione principale di Java</translation>
+        <translation>La versione principale di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
