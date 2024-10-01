@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Pastebin 服务(&amp;P)</translation>
+        <translation>Pastebin服务(&amp;P)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,7 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Pastebin 服务类型(&amp;T)</translation>
+        <translation>粘贴服务类型(&amp;T)</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -35,23 +35,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>注：更改 Pastebin 服务类型后通常需要修改（或清除）根网址。</translation>
+        <translation>注：更改粘贴服务类型后，你可能需要更改或清除根URL。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>API 密钥</translation>
+        <translation>API密钥</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>微软身份验证(&amp;M)</translation>
+        <translation>Microsoft身份验证(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注：如果已成功通过微软身份验证，通常无需设置这一项。</translation>
+        <translation>注：如果通过Microsoft身份验证的登录已经有效，则此项可能不需要设置。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -63,7 +63,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>在此处输入用于进行微软身份验证的客户端 ID。</translation>
+        <translation>在此处输入用于进行Microsoft身份验证的客户端ID。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -79,7 +79,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>在此处输入您的 Modrinth API 密钥。</translation>
+        <translation>在此处输入你的Modrinth自定义API密钥。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -95,7 +95,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时需要设置此项&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注：只有需要访问私有数据时需要设置此项。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
@@ -151,7 +151,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>在此处输入您的 CurseForge API 密钥。</translation>
+        <translation>在此处输入你的 CurseForge API 密钥。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
@@ -186,12 +186,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation>正在删除现有文件……</translation>
+        <translation>正在删除现有文件...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation>未知的 Mod 类型：%1</translation>
+        <translation>未知的Mod类型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="373"/>
@@ -201,7 +201,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
         <source>No loader version set for modpack!</source>
-        <translation>没有设置整合包的 Mod 加载器版本！</translation>
+        <translation>没有为整合包设置Mod加载器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
@@ -211,7 +211,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
         <source>Downloading configs...</source>
-        <translation>正在下载配置文件……</translation>
+        <translation>正在下载配置文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
@@ -221,7 +221,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
         <source>Extracting configs...</source>
-        <translation>正在解压配置文件……</translation>
+        <translation>正在解压配置文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="677"/>
@@ -231,17 +231,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
-        <translation>正在选择可选 Mod……</translation>
+        <translation>正在选择可选Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
         <source>Downloading mods...</source>
-        <translation>正在下载 Mod……</translation>
+        <translation>下载Mod中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
         <source>Mod download</source>
-        <translation>下载 Mod</translation>
+        <translation>Mod下载</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -256,12 +256,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>Blocked mods found</source>
-        <translation>发现被阻止的 Mod</translation>
+        <translation>发现被禁止的Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;您需要手动下载并添加到实例中。</translation>
+        <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载并添加到实例中。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
@@ -271,12 +271,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="921"/>
         <source>Failed to extract mods...</source>
-        <translation>Mod 解压失败……</translation>
+        <translation>Mod解压失败…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
-        <translation>正在解压 Mod……</translation>
+        <translation>正在解压Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
@@ -309,7 +309,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;一个能够让您在单个启动器中轻松管理多个 Minecraft 实例的第三方启动器。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;一个能够让你在单个启动器中轻松管理多个 Minecraft 实例的第三方启动器。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -647,7 +647,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>欢迎！
-如果您是首次来到这里，可以单击“添加 Microsoft 账户”按钮来链接您的 Microsoft 账户。</translation>
+如果你是首次来到这里，可以单击“添加 Microsoft 账户”按钮来链接你的 Microsoft 账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -686,7 +686,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您必须先添加一个拥有 Minecraft 的 Microsoft 账户，才能添加其他离线账户。&lt;br&gt;&lt;br&gt;如果您遗失了您的账号，可以联系微软以获得支持。</translation>
+        <translation>你必须先添加一个拥有 Minecraft 的 Microsoft 账户，才能添加其他离线账户。&lt;br&gt;&lt;br&gt;如果你遗失了你的账号，可以联系微软以获得支持。</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -721,7 +721,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>请输入您要添加的离线账户的用户名。</translation>
+        <translation>请输入你要添加的离线账户的用户名。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -856,7 +856,7 @@ Check the Prism Launcher updater log at:
 for details.</oldsource>
         <translation>更新成功
 
-您现在正在运行 %1。
+你现在正在运行 %1。
 请查看 Prism Launcher 更新日志：
 %1
 以了解上次更新的详情。</translation>
@@ -873,7 +873,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>你的/tmp目录已挂载并启用了“noexec”标志。
+某些版本的Minecraft可能无法启动。
+
+你可以将/tmp重新挂载为“exec”，或将java.io.tmpdir JVM参数设置为文件系统中设置了“exec”标志的可写目录（例如/home/user/.local/tmp）来解决此问题。
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -896,17 +900,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/Application.cpp" line="1800"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>找到了来自 %1 的旧数据，但因在 %2 还有现存数据，因此您只能自行迁移旧数据。是否需要在下次启动 %2 时再次提醒需要进行数据迁移？</translation>
+        <translation>找到了来自 %1 的旧数据，但因在 %2 还有现存数据，因此你只能自行迁移旧数据。是否需要在下次启动 %2 时再次提醒需要进行数据迁移？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1804"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>您似乎曾经使用过 %1。是否需要将您那时的数据迁移到 %2 使用的新位置？</translation>
+        <translation>你似乎曾经使用过 %1。是否需要将你那时的数据迁移到 %2 使用的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1810"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>您似乎曾经在 %2 上用过 %1。是否需要将您那时的数据迁移到 %3 使用的新位置？</translation>
+        <translation>你似乎曾经在 %2 上用过 %1。是否需要将你那时的数据迁移到 %3 使用的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1853"/>
@@ -925,7 +929,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">正在解压Java</translation>
+        <translation>正在解压Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -966,7 +970,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="20"/>
         <source>Updating assets index...</source>
-        <translation>正在更新资源文件索引……</translation>
+        <translation>正在更新资源索引…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="26"/>
@@ -987,7 +991,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>正在从 Mojang 获取资源文件……</translation>
+        <translation>正在从Mojang获取资源文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="90"/>
@@ -1030,7 +1034,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>选择要安装的 Mod</translation>
+        <translation>选择要安装的Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -1040,7 +1044,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation>选择推荐 Mod</translation>
+        <translation>选择推荐项目</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
@@ -1073,7 +1077,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>您确定要启用该 Mod 吗？</translation>
+        <translation>确定要启用该Mod吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="245"/>
@@ -1097,7 +1101,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜索与筛选……</translation>
+        <translation>搜索与筛选…</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1162,12 +1166,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation>请等待……</translation>
+        <translation>请稍候…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
         <source>Working...</source>
-        <translation>正在处理……</translation>
+        <translation>处理中…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
@@ -1202,7 +1206,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>...</source>
-        <translation>……</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
@@ -1225,7 +1229,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="98"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>您的系统（%1-%2）不兼容自动 Java 安装。将使用默认的 Java 路径。</translation>
+        <translation>你的系统（%1-%2）不兼容自动 Java 安装。将使用默认的 Java 路径。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="106"/>
@@ -1240,7 +1244,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="156"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation>找不到兼容的 Java 版本（可执行文件不存在）。将使用默认的 Java.</translation>
+        <translation>找不到兼容的Java版本（二进制文件不存在）。将使用默认版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
@@ -1273,13 +1277,13 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;新功能通知!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;新功能提醒！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">我们新增了一项功能,可以依据Minecraft版本自动下载相应的Java版本(可以自行调整java设置).你想启用或停用此功能吗?</translation>
+        <translation>我们新增了一项功能，可为Minecraft的每个版本自动下载正确的 Java 版本（可在 Java 设置中更改）。你想启用或禁用此功能吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1309,17 +1313,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="174"/>
         <source>All mods found</source>
-        <translation>找到的所有 Mod</translation>
+        <translation>找到的所有Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="177"/>
         <source>Please download the missing mods.</source>
-        <translation>请下载缺失的 Mod。</translation>
+        <translation>请下载缺失的Mod。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; 在 %1 找到 &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; 在%1找到 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
@@ -1338,7 +1342,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="138"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>选择下载 Mod 的目录</translation>
+        <translation>选择下载Mod的目录</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
@@ -1357,7 +1361,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启动器会自动在“公共 Mod 文件夹”和“默认下载文件夹”检测新 Mod 并复制到各个实例。&lt;/p&gt;&lt;p&gt;您也可以将下载好的 Mod 拖到此对话框中。如果您没有将 Mod 下载到现有的默认位置，也可以再添加一个默认文件夹。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;系统会自动检查你配置的全局Mod文件夹和默认下载文件夹中，如果找到下载的Mod，则会将其复制到实例中。&lt;/p&gt;&lt;p&gt;如果你没有将Mod下载到默认位置，也可以将下载的Mod拖放到到此对话框中，或者添加新的文件夹来检测Mod是否存在。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1391,12 +1395,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>选择 Mod 托管平台</translation>
+        <translation>选择Mod托管平台</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation>跳过该 Mod</translation>
+        <translation>跳过该Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
@@ -1434,17 +1438,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>检测到了冲突的前置 Mod！</translation>
+        <translation>检查依赖项时发现到冲突的需求！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>实例包含冲突的前置 Mod。</translation>
+        <translation>实例包含冲突的前置Mod。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>实例在启动前加载/检查时发现了未安装的前置 Mod。</translation>
+        <translation>实例在启动前加载/检查时发现了未安装的前置Mod。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="776"/>
@@ -1474,12 +1478,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
         <source>Please wait...</source>
-        <translation>请稍候……</translation>
+        <translation>请稍候…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="232"/>
         <source>Waiting for a task to start...</source>
-        <translation>正在等待任务开始......</translation>
+        <translation>正在等待任务开始…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
@@ -1517,7 +1521,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>禁用此功能将仍然保留 Mod 加载器（如 Forge、Fabric、Quilt 等），但会删除 Mod 文件夹及配置文件。</translation>
+        <translation>禁用此功能仍会保留Mod加载器（如Fabric、Quilt 等），但会删除模组文件夹及其配置文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1527,7 +1531,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation>复制 Mod</translation>
+        <translation>复制Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
@@ -1623,7 +1627,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>您的文件系统和/或操作系统不支持引用链接</translation>
+        <translation>你的文件系统和/或操作系统不支持引用链接</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1676,7 +1680,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="82"/>
         <source>Core mods</source>
-        <translation>核心 Mod</translation>
+        <translation>核心Mod</translation>
     </message>
 </context>
 <context>
@@ -1773,7 +1777,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
         <source>Mod Loader</source>
-        <translation>Mod 加载器</translation>
+        <translation>Mod加载器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="182"/>
@@ -1818,7 +1822,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation>未选择 Mod 加载器。</translation>
+        <translation>未选择Mod加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
@@ -1831,7 +1835,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation>正在扫描文件……</translation>
+        <translation>扫描文件中…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
@@ -1841,7 +1845,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation>正在复制 %1……</translation>
+        <translation>正在复制%1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
@@ -1895,29 +1899,29 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="89"/>
         <source>Checking if mods have metadata...</source>
-        <translation>正在检查 Mod 是否有元数据……</translation>
+        <translation>正在检查Mod是否存在元数据…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="166"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>正在向 %1 获取 Mod 元数据信息……</translation>
+        <translation>正在向%1获取Mod元数据信息…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="168"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>正在向 %1 获取“%2”的元数据信息……</translation>
+        <translation>正在向%1获取“%2”的元数据信息…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="247"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="336"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>正在处理 Modrinth 对“%1”的 API 响应……</translation>
+        <translation>正在处理Modrinth对“%1”的API响应…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="403"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="470"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在解析 CurseForge 对“%1”的 API 响应……</translation>
+        <translation>正在解析CurseForge对“%1”的 API 响应…</translation>
     </message>
 </context>
 <context>
@@ -1925,7 +1929,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation>正在检查您是否已购买游戏。</translation>
+        <translation>正在检查你是否已购买游戏。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
@@ -2133,7 +2137,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation>导出 Modrinth 整合包</translation>
+        <translation>导出Modrinth整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="56"/>
@@ -2154,7 +2158,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="132"/>
         <source>Modrinth pack</source>
-        <translation>Modrinth 整合包</translation>
+        <translation>Modrinth整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="139"/>
@@ -2187,7 +2191,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation>将包导出到 Mod 列表</translation>
+        <translation>将包导出到Mod列表</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -2380,12 +2384,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Export modlist</source>
-        <translation>导出模组列表</translation>
+        <translation>导出Mod列表</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="182"/>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>导出模组元数据为文本文件</translation>
+        <translation>导出Mod元数据为文本文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="157"/>
@@ -2422,10 +2426,10 @@ Some versions of Minecraft may not launch.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>您即将删除 %1 项项目。
+        <translation>你即将删除 %1 项项目。
 确定后可能会永久删除。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="237"/>
@@ -2433,10 +2437,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>您即将删除文件夹“%1”。
+        <translation>你即将删除文件夹“%1”。
 确定后可能会永久删除。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="244"/>
@@ -2453,7 +2457,7 @@ Are you sure?</source>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>在游戏运行时删除此资源，游戏可能会崩溃。
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="279"/>
@@ -2465,7 +2469,7 @@ Are you sure you want to do this?</source>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>在游戏运行时禁用此资源，游戏可能会崩溃。
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="326"/>
@@ -2616,12 +2620,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>正在检查 FML 库文件……</translation>
+        <translation>正在检查FML库文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>下载 FML 库文件中……</translation>
+        <translation>下载FML库文件中…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -2631,7 +2635,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>正在复制 FML 库文件到实例中……</translation>
+        <translation>正在复制FML库文件到实例中…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
@@ -2695,7 +2699,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>注意：如果您的 FTB 实例不在默认位置，请使用旁边的按钮搜索并选择它。</translation>
+        <translation>注意：如果你的 FTB 实例不在默认位置，请使用旁边的按钮搜索并选择它。</translation>
     </message>
 </context>
 <context>
@@ -2712,12 +2716,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation>正在复制文件……</translation>
+        <translation>复制文件中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation>正在复制设置……</translation>
+        <translation>复制设置中…</translation>
     </message>
 </context>
 <context>
@@ -2725,7 +2729,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="55"/>
         <source>Resolving mod IDs...</source>
-        <translation>正在解析 Mod ID……</translation>
+        <translation>解析Mod ID中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="104"/>
@@ -2736,7 +2740,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在解析 CurseForge 对“%1”的 API 响应……</translation>
+        <translation>正在解析CurseForge对“%1”的API响应…</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2748,7 +2752,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>准备从 CurseForge 获取 Mod……</translation>
+        <translation>正在准备从CurseForge获取Mod…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -2758,12 +2762,12 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>正在获取 CurseForge 对“%1”的 API 响应……</translation>
+        <translation>正在获取CurseForge对“%1”的API响应…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在解析 CurseForge 对“%1”的 API 响应……</translation>
+        <translation>正在解析CurseForge对“%1”的API响应…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="143"/>
@@ -2883,7 +2887,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="498"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;您需要手动下载它们并将它们添加到实例中。</translation>
+        <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将它们添加到实例中。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
@@ -2898,7 +2902,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="582"/>
         <source>Copying Blocked Mods...</source>
-        <translation>正在复制被屏蔽的 Mod……</translation>
+        <translation>正在复制被禁止的Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
@@ -2924,7 +2928,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="574"/>
         <source>Downloading mods...</source>
-        <translation>正在下载 Mod……</translation>
+        <translation>下载Mod中…</translation>
     </message>
 </context>
 <context>
@@ -2932,7 +2936,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;您好！ &lt;/h1&gt;&lt;h4&gt;由于旧版本启动器中存在的漏洞，您的 Pack ID 为空。 &lt;br/&gt;而执行正确的 API 请求需要此信息。 &lt;br/&gt;&lt;br/&gt;为了使该功能正常工作， 您需要用内置下载器重新下载整合包。 &lt;br/&gt;&lt;br/&gt;下载器会从让您该实例进行更新，所以不必担心丢失该实例！ &lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;你好！ &lt;/h1&gt;&lt;h4&gt;由于旧版本启动器中存在的漏洞，你的 Pack ID 为空。 &lt;br/&gt;而执行正确的 API 请求需要此信息。 &lt;br/&gt;&lt;br/&gt;为了使该功能正常工作， 你需要用内置下载器重新下载整合包。 &lt;br/&gt;&lt;br/&gt;下载器会从让你该实例进行更新，所以不必担心丢失该实例！ &lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
@@ -3000,7 +3004,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
         <source>Searching for files...</source>
-        <translation>搜索文件中……</translation>
+        <translation>搜索文件中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
@@ -3010,28 +3014,28 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
         <source>Finding file hashes...</source>
-        <translation>搜索文件哈希......</translation>
+        <translation>正在查找文件哈希值…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
         <source>Finding versions for hashes...</source>
-        <translation>搜索版本哈希......</translation>
+        <translation>正在查找版本哈希值…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="236"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在解析 CurseForge 对“%1”的 API 响应……</translation>
+        <translation>正在解析CurseForge对“%1”的API响应…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>正在CurseForge中寻找项目信息......</translation>
+        <translation>正在从CurseForge寻找项目信息…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="334"/>
         <source>Adding files...</source>
-        <translation>添加文件中……</translation>
+        <translation>添加文件中…</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -3065,13 +3069,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>注意：CurseForge 允许创作者阻止从 Prism Launcher 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些 Mod 才能安装整合包。</translation>
+        <translation>注意：CurseForge 允许创作者阻止从 Prism Launcher 等第三方应用中访问他们的作品。因此，你可能需要手动下载一些 Mod 才能安装整合包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜索和筛选……</translation>
+        <translation>搜索和筛选…</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -3376,18 +3380,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth 整合包（.zip 或 .mrpack）</translation>
+        <translation>- Modrinth整合包（.zip或.mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Launcher、PolyMC 或 MultiMC 导出的实例（.zip）</translation>
+        <translation>- Prism Launcher、PolyMC或MultiMC导出的实例（.zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technic 整合包（.zip）</translation>
+        <translation>- Technic整合包（.zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -3507,20 +3511,20 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">元数据中目前没有 Java 版本。</translation>
+        <translation>元数据中目前没有可用的 Java 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">无法加载或下载 Java 版本列表！</translation>
+        <translation>无法加载或下载 Java 版本列表！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">暂无任何 Java 版本适用于您的操作系统。</translation>
+        <translation>目前没有Java版本适合你的操作系统。</translation>
     </message>
 </context>
 <context>
@@ -3621,7 +3625,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="42"/>
         <source>Removing old conflicting files...</source>
-        <translation>正在删除旧的冲突文件……</translation>
+        <translation>正在删除旧的冲突文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
@@ -3827,7 +3831,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
         <source>Auto-detect...</source>
-        <translation>自动检测……</translation>
+        <translation>自动检测…</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4137,12 +4141,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="399"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>无法在您的系统上找到 Feral Interactive&apos;s GameMode。</translation>
+        <translation>无法在你的系统上找到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="404"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>无法在您的系统上找到 MangoHud。</translation>
+        <translation>无法在你的系统上找到 MangoHud。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="455"/>
@@ -4159,7 +4163,7 @@ Proceed with caution!</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>您已选择一个 32 位版本的 Java。
+        <translation>你已选择一个 32 位版本的 Java。
 这种 Java 不支持分配大于 2048 MiB 的内存。
 请确认最大内存大小小于 2048 MiB。</translation>
     </message>
@@ -4171,7 +4175,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="588"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>您的最大内存分配小于允许的最小值</translation>
+        <translation>你的最大内存分配小于允许的最小值</translation>
     </message>
     <message>
         <source>No default account</source>
@@ -4354,7 +4358,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation>正在检测 Java 安装情况……</translation>
+        <translation>正在检测Java安装情况…</translation>
     </message>
 </context>
 <context>
@@ -4466,7 +4470,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="190"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>自动查找(&amp;A)……</translation>
+        <translation>自动查找…(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="203"/>
@@ -4482,7 +4486,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>如果启用该选项，那么在找不到 Java 的时候启动器将不会提示您选择 Java 版本。</translation>
+        <translation>如果启用该选项，那么在找不到 Java 的时候启动器将不会提示你选择 Java 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
@@ -4509,13 +4513,13 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">尚未安装任何受管理的 Java 版本</translation>
+        <translation>未安装任何托管的Java版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">无法加载受管理的 Java 列表！</translation>
+        <translation>无法加载托管的Java列表！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4532,7 +4536,7 @@ Please make sure that the maximum memory value is lower.</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation>您已选择一个 32 位版本的 Java。
+        <translation>你已选择一个 32 位版本的 Java。
 这种 Java 不支持分配大于 2048 MiB 的内存。
 请确认最大内存大小小于 2048 MiB。</translation>
     </message>
@@ -4554,7 +4558,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="240"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>您的最大内存分配小于允许的最小值</translation>
+        <translation>你的最大内存分配小于允许的最小值</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
@@ -4566,7 +4570,7 @@ Please make sure that the maximum memory value is lower.</source>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
         <translation>将要删除名为“%1”的 Java 版本。
-您确认要继续吗？</translation>
+你确认要继续吗？</translation>
     </message>
 </context>
 <context>
@@ -4620,11 +4624,11 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>您目前设置了大于 2048 MiB 的最大分配内存数量，并且选择了使用 32 位 Java。
+        <translation>你目前设置了大于 2048 MiB 的最大分配内存数量，并且选择了使用 32 位 Java。
 如此情况下，%1 将无法启动 Minecraft。
-您确定要如此设置吗？
+你确定要如此设置吗？
 
-您可以稍后修改使用的 Java 版本。
+你可以稍后修改使用的 Java 版本。
 </translation>
     </message>
     <message>
@@ -4635,11 +4639,11 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>您未设置 Java 版本或您选择了无法使用的 Java 版本。
+        <translation>你未设置 Java 版本或你选择了无法使用的 Java 版本。
 如此情况下，%1 将无法启动 Minecraft。
-您确定要在没有可以正常运行的 Java 版本的情况下继续吗？
+你确定要在没有可以正常运行的 Java 版本的情况下继续吗？
 
-您可以稍后在设置中修改使用的 Java 版本。
+你可以稍后在设置中修改使用的 Java 版本。
 </translation>
     </message>
     <message>
@@ -4710,12 +4714,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation>您的最大内存分配小于允许的最小值</translation>
+        <translation>你的最大内存分配小于允许的最小值</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation>您的最大分配内存大小被设置为高于 32 位 Java 所支持的大小。</translation>
+        <translation>你的最大分配内存大小被设置为高于 32 位 Java 所支持的大小。</translation>
     </message>
 </context>
 <context>
@@ -4729,7 +4733,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">请选择要分配给各实例的内存使用量,并选择是否让Prism Launcher自动选择java版本还是手动指定.</translation>
+        <translation>请选择要分配给实例多少内存，以及应手动管理还是让Prism Launcher自动管理Java。</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -4753,7 +4757,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>没有找到您使用的语言或翻译质量不尽人意？&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;来帮助我们翻译吧！&lt;/a&gt;</translation>
+        <translation>没有找到你使用的语言或翻译质量不尽人意？&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;来帮助我们翻译吧！&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
@@ -4795,12 +4799,12 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="92"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation>在游玩 Minecraft 之前，您至少需要链接一个拥有 Minecraft 的 Microsoft 账户。你想现在打开账号管理添加账号吗？</translation>
+        <translation>在游玩 Minecraft 之前，你至少需要链接一个拥有 Minecraft 的 Microsoft 账户。你想现在打开账号管理添加账号吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="118"/>
         <source>Which account would you like to use?</source>
-        <translation>您想使用哪个账号？</translation>
+        <translation>你想使用哪个账号？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="190"/>
@@ -4819,7 +4823,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>在 %1 次尝试后，我们似乎仍无法启动。您想继续尝试吗？</translation>
+        <translation>在 %1 次尝试后，我们似乎仍无法启动。你想继续尝试吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="159"/>
@@ -4853,7 +4857,7 @@ You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
         <translation>这个账号还未购买 Minecraft。
-您需要先购买该游戏才能正常游玩。
+你需要先购买该游戏才能正常游玩。
 
 是否游玩演示模式？</translation>
     </message>
@@ -4900,7 +4904,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="305"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>服务器上不再存在该账号。它可能已迁移，在这种情况下，请添加您迁移到的新账号。</translation>
+        <translation>服务器上不再存在该账号。它可能已迁移，在这种情况下，请添加你迁移到的新账号。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="307"/>
@@ -4948,14 +4952,14 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>游戏启动会延迟，直到您按下按钮。但此时分析器服务器正在运行，您应该在此时设置分析器。
+        <translation>游戏启动会延迟，直到你按下按钮。但此时分析器服务器正在运行，你应该在此时设置分析器。
 
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Waiting.</source>
-        <translation>等待中.</translation>
+        <translation>请稍候。</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -5000,7 +5004,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>已停止监视游戏日志，因为日志长度超过 %1 行。
-您可能必须修复您的 Mod，因为游戏仍在写入游戏日志，并且可能以惊人的速度浪费硬盘空间！</translation>
+你可能必须修复你的 Mod，因为游戏仍在写入游戏日志，并且可能以惊人的速度浪费硬盘空间！</translation>
     </message>
 </context>
 <context>
@@ -5149,7 +5153,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;： 禁用 Mod 元数据可能也会禁用一些方便的功能，例如 Mod 更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;： 禁用Mod元数据可能也会禁用部分易用功能，例如Mod更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Breeze Light</source>
@@ -5395,12 +5399,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="111"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>您试图指定的实例文件夹路径包含至少一个“!”字符。Java 在这种情况下会出现问题，您的实例（很可能）无法运行！</translation>
+        <translation>你试图指定的实例文件夹路径包含至少一个“!”字符。Java 在这种情况下会出现问题，你的实例（很可能）无法运行！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>您确定想使用此路径吗？选择“否”将会关闭且不会改变您目前的实例路径。</translation>
+        <translation>你确定想使用此路径吗？选择“否”将会关闭且不会改变你目前的实例路径。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
@@ -5412,7 +5416,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>您正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
+        <translation>你正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
 这很可能会造成问题。重启后启动器可能会损坏，因为它不再能访问到该文件夹。
 
 我们推荐通过 Flatseal 授权 %1。</translation>
@@ -5420,7 +5424,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
         <source>Do you want to proceed anyway?</source>
-        <translation>您还想继续吗？</translation>
+        <translation>你还想继续吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="146"/>
@@ -5479,7 +5483,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[XXX/INFO] 一条无害的信息……</translation>
+        <translation>[Test/INFO] 一条无害的信息…</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -5504,12 +5508,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="73"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>找不到启动所需的运行库。请检查您是否有相应的运行库文件。</translation>
+        <translation>找不到启动所需的运行库。请检查你是否有相应的运行库文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>找不到旧版启动器库。请检查您是否正确安装启动器。</translation>
+        <translation>找不到旧版启动器库。请检查你是否正确安装启动器。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
@@ -5775,7 +5779,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>正在下载所需的库文件……</translation>
+        <translation>正在下载需要的库文件…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -5797,8 +5801,8 @@ You&apos;ll have to correct this problem manually.</source>
         <translation>一些被标记为“本地”的包缺失文件。
 %1
 
-您需要添加这些文件，或删除要求这些文件的包。
-您必须手动修正这个问题。</translation>
+你需要添加这些文件，或删除要求这些文件的包。
+你必须手动修正这个问题。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
@@ -5855,7 +5859,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>上传日志到 paste.ee——只会保留一个月</translation>
+        <translation>将日志上传到首选项中配置的粘贴服务</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -5955,12 +5959,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;添加微软账户&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;添加Microsoft账户&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation>如果要游玩Minecraft,你至少要登入一个微软账号.你要现在登入吗?</translation>
+        <translation>为了畅玩Minecraft，你必须至少登录一个Microsoft帐户。你要现在就登录吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
@@ -6011,7 +6015,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation>提取空档案似乎很奇怪……</translation>
+        <translation>提取空档案似乎很奇怪…</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="565"/>
@@ -6083,7 +6087,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <source>Please wait...</source>
-        <translation>请稍候……</translation>
+        <translation>请稍候…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -6348,7 +6352,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More news...</source>
-        <translation>更多新闻...</translation>
+        <translation>更多新闻…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -6363,7 +6367,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="406"/>
         <source>&amp;Edit...</source>
-        <translation>编辑(&amp;E)...</translation>
+        <translation>编辑…(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
@@ -6373,7 +6377,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="463"/>
         <source>E&amp;xport...</source>
-        <translation>导出(&amp;X)...</translation>
+        <translation>导出…(&amp;X)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="433"/>
@@ -6383,7 +6387,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
         <source>Cop&amp;y...</source>
-        <translation>复制(&amp;Y)...</translation>
+        <translation>复制…(&amp;Y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="502"/>
@@ -6419,7 +6423,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>添加实例(&amp;E)...</translation>
+        <translation>添加实例…(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
@@ -6430,7 +6434,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="320"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>设置(&amp;N)...</translation>
+        <translation>设置…(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="284"/>
@@ -6582,12 +6586,12 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">在文件浏览器中打开Java文件夹。仅在使用内置Java下载器时可用。</translation>
+        <translation>在文件浏览器中打开Java文件夹。仅在使用内置Java下载器时可用。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
         <source>&amp;Update...</source>
-        <translation>更新(&amp;U)……</translation>
+        <translation>更新…(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
@@ -6597,7 +6601,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="335"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>账号管理(&amp;M)……</translation>
+        <translation>账号管理…(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
@@ -6786,7 +6790,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
         <source>&amp;Change Group...</source>
-        <translation>重新分组(&amp;C)...</translation>
+        <translation>改变分组…(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="389"/>
@@ -7028,7 +7032,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <source>Loading news...</source>
-        <translation>正在加载新闻……</translation>
+        <translation>加载新闻中…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="790"/>
@@ -7113,7 +7117,7 @@ Please add your Microsoft or Mojang account.</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1313"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 已成功被添加至您的 PATH 环境变量。您现在可以通过运行 `%2` 来启动它。</translation>
+        <translation>%1 已成功被添加至你的 PATH 环境变量。你现在可以通过运行 `%2` 来启动它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1316"/>
@@ -7143,7 +7147,7 @@ Are you sure?</oldsource>
         <translation>将要删除：“%1”
 这将永久删除此实例。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1374"/>
@@ -7248,7 +7252,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>您确定要删除群组“%1”吗？</translation>
+        <translation>你确定要删除群组“%1”吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1160"/>
@@ -7297,7 +7301,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1617"/>
         <source>Not supported on your platform!</source>
-        <translation>不支持您的平台！</translation>
+        <translation>不支持你的平台！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1625"/>
@@ -7312,12 +7316,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>您的实例文件夹包含“!”符号，这可能会导致 Java 出现问题！</translation>
+        <translation>你的实例文件夹包含“!”符号，这可能会导致 Java 出现问题！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1726"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>您现在有两个选项可选：&lt;br/&gt; - 在设置中修改实例文件夹 &lt;br/&gt; - 将 %1 移动至其他文件夹</translation>
+        <translation>你现在有两个选项可选：&lt;br/&gt; - 在设置中修改实例文件夹 &lt;br/&gt; - 将 %1 移动至其他文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1734"/>
@@ -7327,12 +7331,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>您的实例文件夹包含“Rar$”——这意味着您并未解压启动器压缩包！</translation>
+        <translation>你的实例文件夹包含“Rar$”——这意味着你并未解压启动器压缩包！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1746"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>您的实例文件夹位于临时文件夹：%1 中！</translation>
+        <translation>你的实例文件夹位于临时文件夹：%1 中！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1760"/>
@@ -7404,7 +7408,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation>获取版本中……</translation>
+        <translation>获取版本中…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
@@ -7855,12 +7859,12 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>无法在您的系统上找到 Feral Interactive&apos;s GameMode。</translation>
+        <translation>无法在你的系统上找到 Feral Interactive&apos;s GameMode。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>无法在您的系统上找到 MangoHud。</translation>
+        <translation>无法在你的系统上找到 MangoHud。</translation>
     </message>
 </context>
 <context>
@@ -8433,7 +8437,7 @@ The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
         <translation>在游戏运行时更新 Mod 可能会导致 Mod 重复或游戏崩溃。
 正在被游戏使用中的旧版本 Mod 文件可能不会被删除。
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="278"/>
@@ -8459,8 +8463,8 @@ Are you sure you want to do this?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="391"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>您将要删除 %1 个 Mod 的元数据。
-您确定吗？</translation>
+        <translation>你将要删除 %1 个 Mod 的元数据。
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="282"/>
@@ -8477,7 +8481,7 @@ Are you sure?</source>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>在游戏运行时删除 Mod 可能导致崩溃。
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="285"/>
@@ -8500,17 +8504,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="53"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>为 Minecraft.jar 创建 bin 文件夹时出错</translation>
+        <translation>无法为Minecraft.jar创建bin文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="58"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>无法移除旧的 .jar 文件：%1</translation>
+        <translation>无法移除旧的.jar文件：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="71"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>无法创建自定义 Minecraft.jar 文件。</translation>
+        <translation>无法创建自定义的Minecraft.jar文件。</translation>
     </message>
 </context>
 <context>
@@ -8633,7 +8637,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="78"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>无法为以下 Mod 生成元数据：&lt;br&gt;您想在不包含这些 Mod 的情況下继续吗？</translation>
+        <translation>无法为以下 Mod 生成元数据：&lt;br&gt;你想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="92"/>
@@ -8665,7 +8669,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
         <source>Checking for updates...</source>
-        <translation>正在检查更新……</translation>
+        <translation>检查更新中…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
@@ -8686,7 +8690,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Checking for dependencies...</source>
-        <translation>正在检查前置 Mod……</translation>
+        <translation>正在检查前置Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="307"/>
@@ -8701,7 +8705,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="421"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>可能有相同版本已被安装，故此模组被禁用。</translation>
+        <translation>Mod可能已安装，故禁用此项。</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -8719,7 +8723,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>无法获取以下 Mod 更新：&lt;br&gt;您想在不包含这些 Mod 的情況下继续吗？</translation>
+        <translation>无法获取以下 Mod 更新：&lt;br&gt;你想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="264"/>
@@ -8733,7 +8737,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>Generating metadata...</source>
-        <translation>生成元数据中……</translation>
+        <translation>生成元数据中…</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -8891,7 +8895,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="39"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation>正在从 Modrinth 准备 Mod……</translation>
+        <translation>正在从Modrinth准备Mod…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -8900,7 +8904,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="80"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>正在分析 Modrinth 的 API 返回数据……</translation>
+        <translation>正在解析Modrinth的API响应…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="217"/>
@@ -8914,7 +8918,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="181"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>正在等待 Modrinth API 回应……</translation>
+        <translation>正在等待Modrinth API响应…</translation>
     </message>
 </context>
 <context>
@@ -8995,7 +8999,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="298"/>
         <source>Downloading mods...</source>
-        <translation>正在下载 Mod……</translation>
+        <translation>下载Mod中…</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -9028,7 +9032,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>Fetching changelogs...</source>
-        <translation>正在获取更新日志……</translation>
+        <translation>正在获取更新日志…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
@@ -9069,7 +9073,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="57"/>
         <source>Searching for files...</source>
-        <translation>搜索文件中……</translation>
+        <translation>搜索文件中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
@@ -9079,12 +9083,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
         <source>Finding file hashes...</source>
-        <translation>寻找文件哈希......</translation>
+        <translation>正在查找文件哈希值…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
-        <translation>寻找版本哈希......</translation>
+        <translation>正在查找版本哈希值…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="191"/>
@@ -9094,7 +9098,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="200"/>
         <source>Adding files...</source>
-        <translation>新增文件中……</translation>
+        <translation>新增文件中…</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -9122,7 +9126,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="17"/>
         <source>Search and filter ...</source>
-        <translation>搜索和筛选……</translation>
+        <translation>搜索和筛选…</translation>
     </message>
     <message>
         <source>Search</source>
@@ -9418,7 +9422,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="96"/>
         <source>Nilmods</source>
-        <translation>Nilmod</translation>
+        <translation>Nilmods</translation>
     </message>
 </context>
 <context>
@@ -9540,7 +9544,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>上传日志到 paste.ee——只会保留一个月.</translation>
+        <translation>将日志上传至首选项中配置的粘贴服务。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
@@ -9598,7 +9602,7 @@ Are you sure?</source>
         <translation>将要删除：“%1”。
 可能会将其从日志文件夹中永久删除。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
@@ -9608,13 +9612,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>您确定要删除所有日志文件吗？</translation>
+        <translation>你确定要删除所有日志文件吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation>您确定要将这些文件全部删除吗？
+        <translation>你确定要将这些文件全部删除吗？
 %1</translation>
     </message>
     <message>
@@ -9730,7 +9734,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>默认剪切板服务已更改为 mclo.gs ，请选择您要对设置进行的操作。</translation>
+        <translation>默认粘贴服务已更改为mclo.gs，请选择你要对设置进行的操作。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -9815,7 +9819,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation>正在检查更新……</translation>
+        <translation>检查更新中…</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
@@ -9846,7 +9850,7 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation>您正在使用最新版本。</translation>
+        <translation>你正在使用最新版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
@@ -9996,7 +10000,7 @@ Make sure you have write permissions to the data folder.
 The updater cannot continue until you fix this problem.</source>
         <translation>更新程序无法创建日志文件——数据文件夹不可写入。
 
-请确保您有数据文件夹的写入权限。
+请确保你有数据文件夹的写入权限。
 （%1）
 
 解决此问题后更新程序才能继续。</translation>
@@ -10143,7 +10147,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 从版本 %3 更新到 %4
 安装目标路径：%5
 数据路径：%6
-可能是上次尝试更新失败。我们不能确保您的这次安装可以正常工作。
+可能是上次尝试更新失败。我们不能确保你的这次安装可以正常工作。
 检查 Prism Launcher 更新程序日志： 
 %7
 以获取有关上次更新尝试的详细信息。
@@ -10336,7 +10340,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 Choose your name carefully:</source>
         <translation>只差最后一步就可在此账号上游玩 Minecraft 了。
 
-请慎重选择您在游戏里的名称：</translation>
+请慎重选择你在游戏里的名称：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="121"/>
@@ -10374,17 +10378,17 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>请稍候……</translation>
+        <translation>请稍候…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation>全局任务状态……</translation>
+        <translation>全局任务状态…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation>全局状态详情……</translation>
+        <translation>全局状态详情…</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -10595,7 +10599,7 @@ Are you sure?</source>
         <translation>即将将“%1”上传到“%2”。
 请确认日志中没有包含个人信息。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="85"/>
@@ -10610,7 +10614,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="92"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;到上传的日志的链接&lt;/a&gt;已自动复制到了您的剪贴板中。</translation>
+        <translation>已将&lt;a href=&quot;%1&quot;&gt;上传日志的链接&lt;/a&gt;复制到你的剪贴板中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="377"/>
@@ -10627,7 +10631,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation>指定的 Java 二进制文件无法使用您提供的参数工作：&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件无法使用你提供的参数工作：&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="401"/>
@@ -10685,7 +10689,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation>版本文件同时包含&quot;+libraries&quot;和&quot;libraries&quot;，这不再受到支持。</translation>
+        <translation>版本文件同时包含“+libraries”和“libraries”。这不再受到支持。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="236"/>
@@ -10838,8 +10842,8 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation>您正在尝试手动设置 JVM 内存选项（使用“-XX:PermSize”，“-XX-MaxHeapSize”， “-XX:InitialHeapSize”，“-Xmx”或“-Xms”选项）。
-这些选项已包含在设置（“Java”栏，顶端的“内存”分组）中，您无需手动设置。
+        <translation>你正在尝试手动设置 JVM 内存选项（使用“-XX:PermSize”，“-XX-MaxHeapSize”， “-XX:InitialHeapSize”，“-Xmx”或“-Xms”选项）。
+这些选项已包含在设置（“Java”栏，顶端的“内存”分组）中，你无需手动设置。
 此信息将一直显示，直到这些参数删除。</translation>
     </message>
     <message>
@@ -10852,7 +10856,7 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>您试图通过 JVM 参数指定所需的 Java 版本（使用“-version=xxx”），这并不安全也不被允许。
+        <translation>你试图通过 JVM 参数指定所需的 Java 版本（使用“-version=xxx”），这并不安全也不被允许。
 此信息将一直显示，直到这些参数删除。</translation>
     </message>
     <message>
@@ -10869,13 +10873,13 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="87"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>指定的 Java 二进制文件无法使用您提供的参数工作：&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件无法使用你提供的参数工作：&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="95"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>指定的 Java 二进制文件无法工作。&lt;br /&gt;您应该使用自动检测功能，或者设置 Java 可执行文件的路径。&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件无法工作。&lt;br /&gt;你应该使用自动检测功能，或者设置 Java 可执行文件的路径。&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
@@ -10943,7 +10947,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation>该实例的名称似乎包含旧版本。 您想更新它吗？
+        <translation>该实例的名称似乎包含旧版本。 你想更新它吗？
 
 旧名称：%1
 新名称：%2</translation>
@@ -10958,7 +10962,7 @@ New name: %2</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>您拥有一个或多个来自此整合包（%1）的实例。您想创建一个独立的实例，还是更新现有的实例？
+        <translation>你拥有一个或多个来自此整合包（%1）的实例。你想创建一个独立的实例，还是更新现有的实例？
 
 注意：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会损坏或遗失（由于整合包会覆盖）。</translation>
     </message>
@@ -11200,7 +11204,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation>%1 与 %2不兼容,建议移除其中一个.</translation>
+        <translation>已知%1与%2不兼容。建议移除其中一个。</translation>
     </message>
 </context>
 <context>
@@ -11267,7 +11271,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="132"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>打开一个新的弹窗以查看并确认您选中的%1。快捷键：Ctrl + Return</translation>
+        <translation>打开一个新的弹窗以查看并确认你选中的%1。快捷键：Ctrl + Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="144"/>
@@ -11292,7 +11296,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
         <source>Checking for dependencies...</source>
-        <translation>正在检查前置 Mod……</translation>
+        <translation>正在检查前置Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -11383,7 +11387,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="105"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>搜索%1……</translation>
+        <translation>搜索%1…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
@@ -11449,7 +11453,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="307"/>
         <source>Loading versions...</source>
-        <translation>正在加载版本……</translation>
+        <translation>加载版本中…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
@@ -11594,7 +11598,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>在游戏运行时启用或禁用此资源，游戏可能会崩溃。
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="500"/>
@@ -11701,7 +11705,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>是否启用该资源包？（仅对 .zip 文件有效）</translation>
+        <translation>是否启用该资源包？（仅对.zip文件有效）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
@@ -11800,7 +11804,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>可能有相同版本已被安装，故此模组被禁用。</translation>
+        <translation>Mod可能已安装，故禁用此项。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
@@ -11845,7 +11849,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="114"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>您将要下载以下 %1：</translation>
+        <translation>你将要下载以下 %1：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
@@ -11929,10 +11933,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>您即将上传 %1 张截图到 %2 。
+        <translation>你即将上传 %1 张截图到 %2 。
 请确认截图中没有包含个人信息。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="376"/>
@@ -11940,10 +11944,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>您即将上传选中的截图到 %1 。
+        <translation>你即将上传选中的截图到 %1 。
 请确认其中没有包含个人信息。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="401"/>
@@ -11983,12 +11987,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;上传的截图链接&lt;/a&gt;已自动复制到了您的剪贴板中。</translation>
+        <translation>已将&lt;a href=&quot;%1&quot;&gt;上传的截图链接&lt;/a&gt;复制到你的剪贴板中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;上传的截图链接&lt;/a&gt;已自动复制到了您的剪贴板中。</translation>
+        <translation>已将&lt;a href=&quot;%1&quot;&gt;上传的截图链接&lt;/a&gt;复制到你的剪贴板中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="509"/>
@@ -11999,7 +12003,7 @@ Are you sure?</source>
         <translation>即将删除 %1 张截图。
 这可能将其从文件夹中永久删除。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="514"/>
@@ -12010,7 +12014,7 @@ Are you sure?</source>
         <translation>即将删除选中的截图。
 这可能将其从文件夹中永久删除。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="520"/>
@@ -12190,9 +12194,9 @@ This is permanent and the server will be gone from your list forever (A LONG TIM
 
 Are you sure?</source>
         <translation>即将删除：“%1”
-该服务器将从您的服务器列表永久删除（真的很久）。
+该服务器将从你的服务器列表永久删除（真的很久）。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
 </context>
 <context>
@@ -12629,7 +12633,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation>子任务状态……</translation>
+        <translation>子任务状态…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
@@ -12794,29 +12798,29 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="67"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation>无法打开 &quot;fmlversion.properties&quot;！</translation>
+        <translation>无法打开“fmlversion.properties”！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="80"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="129"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation>无法打开 &quot;version.json&quot;！</translation>
+        <translation>无法打开“version.json”！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="87"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation>无法在“bin/modpack.jar”中找到“version.json”，且 Minecraft 版本未知</translation>
+        <translation>无法在“bin/modpack.jar”中找到“version.json”，且Minecraft版本未知</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="101"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation>无法打开 &quot;forgeversion.properties&quot;</translation>
+        <translation>无法打开“forgeversion.properties”</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="115"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation>无效的 &quot;forgeversion.properties&quot;！</translation>
+        <translation>无效的“forgeversion.properties”！</translation>
     </message>
     <message>
         <source>Unable to find a &quot;version.json&quot;!</source>
@@ -12826,14 +12830,14 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="148"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation>无法解析 &quot;version.json&quot;：
-缺少 inheritsFrom</translation>
+        <translation>无法解析“version.json”：
+缺少inheritsFrom</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="204"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation>无法解析 &quot;version.json&quot;：
+        <translation>无法解析“version.json”：
 </translation>
     </message>
 </context>
@@ -12848,7 +12852,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜索和筛选……</translation>
+        <translation>搜索和筛选…</translation>
     </message>
     <message>
         <source>Search</source>
@@ -12882,7 +12886,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="145"/>
         <source>The name of the texture pack.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>材质包的名字.</translation>
+        <translation>纹理包的名称。</translation>
     </message>
     <message>
         <source>The version of the texture pack.</source>
@@ -13057,7 +13061,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation>选择您想要使用的主题</translation>
+        <translation>选择你想要使用的主题</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
@@ -13140,7 +13144,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation>版本 %1 现在可用——您正在使用 %2 。你想现在下载吗？</translation>
+        <translation>版本 %1 现在可用——你正在使用 %2 。你想现在下载吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
@@ -13330,7 +13334,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>请前往实例设置中修改您的Java版本，或者——如果您明白自己在做什么的话——跳过Java兼容性检查。</translation>
+        <translation>请前往实例设置中修改你的Java版本，或者——如果你明白自己在做什么的话——跳过Java兼容性检查。</translation>
     </message>
 </context>
 <context>
@@ -13456,17 +13460,17 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Add to Minecraft.jar</source>
-        <translation>安装 Mod 到 Minecraft.jar 中</translation>
+        <translation>新增到Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>将一个 Mod 安装到 Minecraft.jar 文件中</translation>
+        <translation>安装Mod到Minecraft.jar文件中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Replace Minecraft.jar</source>
-        <translation>替换 Minecraft.jar 文件</translation>
+        <translation>替换Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
@@ -13583,12 +13587,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Open .minecraft</source>
-        <translation>打开 .minecraft 文件夹</translation>
+        <translation>打开.minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>打开实例的 .minecraft 文件夹</translation>
+        <translation>打开此实例的.minecraft文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
@@ -13664,7 +13668,7 @@ Are you sure?</source>
         <translation>将要删除：“%1”
 这将永久删除自定义组件。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
@@ -13674,7 +13678,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Select jar mods</source>
-        <translation>选择 .jar 格式 Mod 文件</translation>
+        <translation>选择.jar格式Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
@@ -13684,7 +13688,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Minecraft.jar replacement</source>
-        <translation>Minecraft.jar 替换</translation>
+        <translation>Minecraft.jar替换</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
@@ -13769,9 +13773,9 @@ This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
         <translation>即将重置：“%1”。
-这将永久还原您更改过的内容。
+这将永久还原你更改过的内容。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -13919,13 +13923,13 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">Java 版本别名</translation>
+        <translation>Java版本别名</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">Java 的大版本号</translation>
+        <translation>Java主要版本</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
@@ -14193,7 +14197,7 @@ Do you want to continue?</source>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>没有设置好 MCEdit 的路径或它被移动了。
-您可以在全局设置里面设置它。</translation>
+你可以在全局设置里面设置它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
@@ -14210,7 +14214,7 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Select a Minecraft world zip</source>
-        <translation>选择 Minecraft 存档（.zip 文件）</translation>
+        <translation>选择Minecraft世界的.zip文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
@@ -14227,7 +14231,7 @@ It may be necessary to reinstall it.</source>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>在 Minecraft 运行时修改世界可能导致错误。
-您真的要继续吗？</translation>
+你真的要继续吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
@@ -14241,9 +14245,9 @@ The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>即将删除：“%1”。
-您的世界将会永久失去（真的很久）。
+你的世界将会永久失去（真的很久）。
 
-您确定吗？</translation>
+你确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
@@ -14323,7 +14327,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>Xbox Live 服务在您的国家或地区不可用。您的登录请求已被屏蔽。</translation>
+        <translation>Xbox Live 服务在你的国家或地区不可用。你的登录请求已被屏蔽。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
@@ -14332,7 +14336,7 @@ Are you sure?</source>
 Please set up your account according to %1.</source>
         <translation>此 Microsoft 账户拥有者为未成年用户，且该账号尚未绑定到一个家庭。
 
-请根据 %1 设置您的账号。</translation>
+请根据 %1 设置你的账号。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
@@ -14352,7 +14356,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation>此 Microsoft 账户目前受到限制，您的监护人未授予您游戏权限。登录到 %1 并让您的监护人更改您的权限。</translation>
+        <translation>此 Microsoft 账户目前受到限制，你的监护人未授予你游戏权限。登录到 %1 并让你的监护人更改你的权限。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
