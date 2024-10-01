@@ -861,7 +861,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>你的 /tmp 目錄目前掛載了「noexec」旗標。
+某些版本的 Minecraft 可能無法啟動。
+
+你可以透過重新掛載 /tmp 並啟用「exec」旗標，或是將 java.io.tmpdir JVM 參數設定為一個可寫入且「exec」旗標已啟用的檔案系統目錄（例如：/home/user/.local/tmp）來解決這個問題。
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -1267,7 +1271,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>我們新增了一項功能，可自動下載適用於各個 Minecraft 版本的正確 Java 版本（您可以在 Java 設定中變更此設定）。您想啟用還是停用這項功能？</translation>
+        <translation>我們新增了一項功能，可自動下載適用於各個 Minecraft 版本的正確 Java 版本（您可以在 Java 設定中變更這項設定）。您想啟用還是停用這項功能？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -2808,7 +2812,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="244"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些檔案的重複。您想繼續嗎？</translation>
+        <translation>我們找不到適用於舊版本的索引檔案。這可能會導致某些檔案重複。您想繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
@@ -4792,7 +4796,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="118"/>
         <source>Which account would you like to use?</source>
-        <translation>您想使用哪一個帳號？</translation>
+        <translation>您想使用哪個帳號？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="190"/>
@@ -4844,10 +4848,10 @@ Please select one of the following or browse for a java executable.</oldsource>
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>此帳號尚未擁有 Minecraft。
-您需要先購入遊戲才能繼續遊玩。
+        <translation>這個帳號尚未擁有 Minecraft。
+您需要先購買遊戲才能遊玩。
 
-您想要先遊玩試玩版嗎？</translation>
+您想遊玩試玩版嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="141"/>
@@ -8939,7 +8943,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="148"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些檔案的重複。您想繼續嗎？</translation>
+        <translation>我們找不到適用於舊版本的索引檔案。這可能會導致某些檔案重複。您想繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="192"/>
@@ -9630,13 +9634,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="252"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation>無法刪除一些檔案！</translation>
+        <translation>無法刪除某些檔案！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>無法刪除一些檔案！
+        <translation>無法刪除某些檔案：
 %1</translation>
     </message>
     <message>
@@ -10930,7 +10934,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation>該實例的名稱包含舊版本。您想更新它嗎？
+        <translation>這個實例的名稱似乎包含舊版本號。您想要更新它嗎？
 
 舊名稱：%1
 新名稱：%2</translation>
@@ -13044,7 +13048,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation>選擇您想要使用的主題</translation>
+        <translation>請選擇您想要使用的主題</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
