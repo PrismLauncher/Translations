@@ -1524,12 +1524,12 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>Gunakan simbolis atau sambungan keras daripada menyalin berkas-berkas.</translation>
+        <translation>Gunakan tautan simbolis atau keras ketimbang menyalin berkas-berkas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>Opsi Simbolis dan Sambungan Keras</translation>
+        <translation>Opsi Tautan Simbolis dan Keras</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
@@ -1570,12 +1570,12 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation>Gunakan link-link simbolis daripada menyalin berkas-berkas.</translation>
+        <translation>Gunakan tautan-tautan simbolis daripada menyalin berkas-berkas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation>Gunakan sambungan simbolis</translation>
+        <translation>Gunakan tautan-tautan simbolis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
@@ -1610,7 +1610,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Salin paket-paket resource</translation>
+        <translation>Salin paket-paket sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -1640,7 +1640,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="104"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>Pada Windows, sambungan simbolis mungkin membutuh ijin admin untuk dibuat.</translation>
+        <translation>Pada Windows, tautan simbolis mungkin membutuh ijin admin untuk dibuat.</translation>
     </message>
 </context>
 <context>
@@ -3368,7 +3368,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Pilihlah instansi yang ingin Anda impor paket resource ini ke.</translation>
+        <translation>Pilihlah instansi yang ingin Anda impor paket sumber daya ini ke.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -6391,7 +6391,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation>Instal symlink %1 ke /usr/local/bin</translation>
+        <translation>Instal tautan simbolis %1 ke /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="750"/>
@@ -6764,7 +6764,7 @@ Mohon menambahkan akun Microsoft Anda.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="963"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Modpack, mod, atau resource %1 diblokir dari pihak-pihak ketiga. Mohon unduh secara manual.</translation>
+        <translation>Modpack, mod, atau sumber daya %1 diblokir dari pihak-pihak ketiga. Mohon unduh secara manual.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
@@ -7676,7 +7676,7 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Peringatan: Resource ini secara simbolis terhubung dari tempat lain. Menyunting akan juga mengubah yang asli.
+Peringatan: Resource ini secara simbolis ditautkan dari tempat lain. Menyunting akan juga mengubah yang asli.
 Path kanonis: %1</translation>
     </message>
     <message>
@@ -10377,7 +10377,7 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
         <source>resource pack</source>
-        <translation>paket resource</translation>
+        <translation>paket sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
@@ -10628,7 +10628,7 @@ Apakah Anda yakin ingin menutup dialog ini?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>resource-resource</translation>
+        <translation>sumber-sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="61"/>
@@ -10689,7 +10689,7 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="126"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>paket-paket resource</translation>
+        <translation>paket-paket sumber daya</translation>
     </message>
 </context>
 <context>
@@ -10698,13 +10698,13 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="35"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation>paket-paket resource</translation>
+        <translation>paket-paket sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation>paket resource</translation>
+        <translation>paket sumber daya</translation>
     </message>
 </context>
 <context>
@@ -10800,13 +10800,13 @@ Mohon perbarui %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation>resource-resource</translation>
+        <translation>sumber-sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation>resource</translation>
+        <translation>sumber daya</translation>
     </message>
 </context>
 <context>
@@ -10862,13 +10862,13 @@ Mohon perbarui %1!</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="45"/>
         <source>Resource download</source>
-        <translation>Unduhan resource</translation>
+        <translation>Unduhan sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
-        <translation>Mengunduh resource:
+        <translation>Mengunduh sumber daya:
 %1</translation>
     </message>
 </context>
@@ -10880,7 +10880,7 @@ Mohon perbarui %1!</translation>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Peringatan: Sumber daya ini secara simbolis terhubung dari tempat lain. Menyuntingnya juga akan mengubah aslinya.
+Peringatan: Sumber daya ini secara simbolis ditaukan dari tempat lain. Menyuntingnya juga akan mengubah aslinya.
 Jalur kanonis: %1</translation>
     </message>
     <message>
@@ -10926,24 +10926,24 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="500"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Apakah resource diaktifkan?</translation>
+        <translation>Apakah sumber daya diaktifkan?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="503"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Nama dari resource.</translation>
+        <translation>Nama dari sumber daya.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="506"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>Tanggal dan waktu resource ini terakhir diubah (atau ditambahkan).</translation>
+        <translation>Tanggal dan waktu sumber daya ini terakhir diubah (atau ditambahkan).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="508"/>
         <source>The size of the resource.</source>
-        <translation>Ukuran dari resource.</translation>
+        <translation>Ukuran dari sumber daya.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="553"/>
@@ -10987,7 +10987,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>ID format paket resource, serta versi Minecraft yang diperuntukkan.</translation>
+        <translation>ID format paket sumber daya, serta versi Minecraft yang diperuntukkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="112"/>
@@ -10995,7 +10995,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Peringatan: Resource ini secara simbolis terhubung dari tempat lain. Menyunting akan juga mengubah yang asli.
+Peringatan: Resource ini secara simbolis ditautkan dari tempat lain. Menyunting akan juga mengubah yang asli.
 Path kanonis: %1</translation>
     </message>
     <message>
@@ -11008,7 +11008,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The size of the resource pack.</source>
-        <translation>Ukuran dari resource pack.</translation>
+        <translation>Ukuran dari paket sumber daya.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -11027,17 +11027,17 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Apakah paket resource aktif? (Hanya berlaku untuk ZIP-ZIP)</translation>
+        <translation>Apakah paket sumber daya aktif? (Hanya berlaku untuk ZIP-ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
         <source>The name of the resource pack.</source>
-        <translation>Nama paket resource.</translation>
+        <translation>Nama paket sumber daya.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>Tanggal dan waktu paket resource ini terakhir diubah (atau ditambahkan).</translation>
+        <translation>Tanggal dan waktu paket sumber daya ini terakhir diubah (atau ditambahkan).</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -11049,7 +11049,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="50"/>
         <source>Resource packs</source>
-        <translation>Paket resource</translation>
+        <translation>Paket sumber daya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -11059,7 +11059,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download resource packs from online platforms</source>
-        <translation>Unduh paket-paket resource dari platform-platform daring</translation>
+        <translation>Unduh paket-paket sumber daya dari platform-platform daring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="78"/>
@@ -11955,12 +11955,12 @@ Apakah Anda yakin?</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation>Menghimpun folder-folder untuk disambung secara simbolis</translation>
+        <translation>Menghimpun folder-folder untuk ditautkan secara simbolis</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation>Menyambung path biner Java secara simbolis</translation>
+        <translation>Menautkan path biner Java secara simbolis</translation>
     </message>
 </context>
 <context>
@@ -12217,7 +12217,7 @@ inheritsFrom hilang</translation>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Peringatan: Resource ini ditautkan secara simbolis di tempat lain. Menyuntingnya akan juga mengubah yang asli.
+Peringatan: Resource ini secara simbolis ditautkan dari tempat lain. Menyuntingnya akan juga mengubah yang asli.
 Path kanonis: %1</translation>
     </message>
     <message>
@@ -13245,7 +13245,7 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="200"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation>Dunia ini secara simbolis terhubung dari tempat lain.</translation>
+        <translation>Dunia ini secara simbolis ditautkan dari tempat lain.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
@@ -13258,7 +13258,7 @@ Dunia ini telah disambungkeraskan di tempat lain.</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="222"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>Peringatan: Dunia ini secara simbolis terhubung dari tempat lain. Menyunting akan juga mengubah yang asli.
+        <translation>Peringatan: Dunia ini secara simbolis ditautkan dari tempat lain. Menyunting akan juga mengubah yang asli.
 Path kanonis: %1</translation>
     </message>
     <message>
