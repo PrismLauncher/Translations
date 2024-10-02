@@ -231,7 +231,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
-        <translation>正在选择可选 Mod …</translation>
+        <translation>正在选择可选 Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
@@ -276,7 +276,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
-        <translation>正在解压 Mod …</translation>
+        <translation>正在解压 Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
@@ -472,7 +472,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>账号类型（Microsoft 账户或离线账户）</translation>
+        <translation>账户类型（Microsoft 账户或离线账户）</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -531,7 +531,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>该账号的 Minecraft Java 版用户名。</translation>
+        <translation>该账户的 Minecraft Java 版用户名。</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -574,13 +574,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="66"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>设为默认账号(&amp;S)</translation>
+        <translation>设为默认账户(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>清除默认账号(&amp;N)</translation>
+        <translation>清除默认账户(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -627,12 +627,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="100"/>
         <source>Refresh the account tokens</source>
-        <translation>刷新账号令牌</translation>
+        <translation>刷新账户令牌</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="59"/>
         <source>Accounts</source>
-        <translation>账号</translation>
+        <translation>账户</translation>
     </message>
     <message>
         <source>Welcome!
@@ -686,7 +686,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>你必须先添加一个拥有 Minecraft 的 Microsoft 账户，才能添加其他离线账户。&lt;br&gt;&lt;br&gt;如果你遗失了你的账号，可以联系微软以获得支持。</translation>
+        <translation>你必须先添加一个拥有 Minecraft 的 Microsoft 账户，才能添加其他离线账户。&lt;br&gt;&lt;br&gt;如果你遗失了你的账户，可以联系微软以获得支持。</translation>
     </message>
     <message>
         <source>Microsoft Accounts not available</source>
@@ -726,12 +726,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Remove account?</source>
-        <translation>删除账号？</translation>
+        <translation>删除账户？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Do you really want to delete this account?</source>
-        <translation>你真的想删除这个账号吗？</translation>
+        <translation>你真的想删除这个账户吗？</translation>
     </message>
     <message>
         <source>Skin Delete</source>
@@ -1200,7 +1200,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>验证失败，此账号不再存在。</translation>
+        <translation>验证失败，此账户不再存在。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
@@ -1210,7 +1210,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation>未知的账号状态： %1</translation>
+        <translation>未知的账户状态： %1</translation>
     </message>
 </context>
 <context>
@@ -4020,12 +4020,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="705"/>
         <source>Override default account</source>
-        <translation>覆盖默认账号</translation>
+        <translation>覆盖默认账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="725"/>
         <source>Account:</source>
-        <translation>账号：</translation>
+        <translation>账户：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -4792,23 +4792,23 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
         <source>No Accounts</source>
-        <translation>无账号</translation>
+        <translation>无账户</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="92"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation>在畅玩 Minecraft 之前，你至少需要链接一个拥有 Minecraft 的 Microsoft 账户。你想现在打开账号管理添加账号吗？</translation>
+        <translation>在畅玩 Minecraft 之前，你至少需要链接一个拥有 Minecraft 的 Microsoft 账户。你想现在打开账户管理添加账户吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="118"/>
         <source>Which account would you like to use?</source>
-        <translation>你想使用哪个账号？</translation>
+        <translation>你想使用哪个账户？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="190"/>
         <source>No account selected for launch.</source>
-        <translation>没有选中用于启动游戏的账号。</translation>
+        <translation>没有选中用于启动游戏的账户。</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -4855,7 +4855,7 @@ Please select one of the following or browse for a java executable.</oldsource>
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>这个账号还未购买 Minecraft。
+        <translation>这个账户还未购买 Minecraft。
 你需要先购买游戏以继续启动。
 
 是否试玩演示模式？</translation>
@@ -4873,7 +4873,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="268"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>启动已取消——账号未购买 Minecraft。</translation>
+        <translation>启动已取消——账户未购买 Minecraft。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="283"/>
@@ -4883,17 +4883,17 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="290"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>账号已过期，需要手动重新登录。</translation>
+        <translation>账户已过期，需要手动重新登录。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <source>Account refresh failed</source>
-        <translation>账号刷新失败</translation>
+        <translation>账户刷新失败</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="297"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>启动器的客户端标识已更改。请删除此账号，然后重新添加。</translation>
+        <translation>启动器的客户端标识已更改。请删除此账户，然后重新添加。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
@@ -4903,12 +4903,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="305"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>该账号在服务器上已不存在。它可能已被迁移，如果是，请添加迁移后的新账号。</translation>
+        <translation>该账户在服务器上已不存在。它可能已被迁移，如果是，请添加迁移后的新账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="307"/>
         <source>Account gone</source>
-        <translation>账号不存在</translation>
+        <translation>账户不存在</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="314"/>
@@ -5963,7 +5963,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation>为了畅玩Minecraft，你必须至少登录一个 Microsoft 帐户。你要现在就登录吗？</translation>
+        <translation>为了畅玩Minecraft，你必须至少登录一个 Microsoft 账户。你要现在就登录吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
@@ -6096,7 +6096,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation>用Microsoft账号登录</translation>
+        <translation>用Microsoft账户登录</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="162"/>
@@ -6164,12 +6164,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>Microsoft 账号身份验证失败——客户端标识已更改。</translation>
+        <translation>Microsoft 账户身份验证失败——客户端标识已更改。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="166"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
-        <translation>Microsoft 账号身份验证失败——更新令牌（token）为空。</translation>
+        <translation>Microsoft 账户身份验证失败——更新令牌（token）为空。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="120"/>
@@ -6600,7 +6600,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="335"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>账号管理(&amp;M)...</translation>
+        <translation>账户管理(&amp;M)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
@@ -7011,7 +7011,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="514"/>
         <source>No accounts added!</source>
-        <translation>未添加账号！</translation>
+        <translation>未添加账户！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
@@ -7021,7 +7021,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="526"/>
         <source>No Default Account</source>
-        <translation>不设置默认账号</translation>
+        <translation>不设置默认账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="529"/>
@@ -7358,13 +7358,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
         <source>&amp;Accounts</source>
-        <translation>账号(&amp;A)</translation>
+        <translation>账户(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="741"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
         <source>Accounts</source>
-        <translation>账号</translation>
+        <translation>账户</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -7876,7 +7876,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="42"/>
         <source>Account has no Minecraft profile.</source>
-        <translation>此账号没有 Minecraft 档案。</translation>
+        <translation>此账户没有 Minecraft 档案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="56"/>
@@ -9460,7 +9460,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation>添加账号</translation>
+        <translation>添加账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
@@ -10296,7 +10296,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation>选择账号</translation>
+        <translation>选择账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
@@ -10306,7 +10306,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation>用作默认账号？</translation>
+        <translation>用作默认账户？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
@@ -10337,9 +10337,9 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>只差最后一步就可在此账号上游玩 Minecraft 了。
+        <translation>只差最后一步就可在此账户上畅玩 Minecraft 了。
 
-请慎重选择你在游戏里的名称：</translation>
+请慎重选择你的游戏名称：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="121"/>
@@ -10842,7 +10842,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>你正在尝试手动设置 JVM 内存选项（使用“-XX:PermSize”，“-XX-MaxHeapSize”， “-XX:InitialHeapSize”，“-Xmx”或“-Xms”选项）。
-这些选项已包含在设置（“Java”栏，顶端的“内存”分组）中，你无需手动设置。
+这些选项在设置中有专门的位置（“Java”标签页，最上方的“内存”分组）。
 此信息将一直显示，直到这些参数删除。</translation>
     </message>
     <message>
@@ -10872,7 +10872,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="87"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>指定的 Java 二进制文件无法使用你提供的参数工作：&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件无法使用你提供的参数：&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="95"/>
@@ -10946,7 +10946,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation>该实例的名称似乎包含旧版本。 你想更新它吗？
+        <translation>实例的名称似乎包含旧版本。 你想要更新它吗？
 
 旧名称：%1
 新名称：%2</translation>
@@ -10963,7 +10963,7 @@ New name: %2</source>
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
         <translation>你拥有一个或多个来自此整合包（%1）的实例。你想创建一个独立的实例，还是更新现有的实例？
 
-注意：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会损坏或遗失（由于整合包会覆盖）。</translation>
+注意：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会损坏或遗失（由于整合包的覆盖）。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
@@ -11203,7 +11203,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation>已知%1与%2不兼容。建议移除其中一个。</translation>
+        <translation>已知 %1 与 %2 不兼容。建议移除其中一个。</translation>
     </message>
 </context>
 <context>
@@ -11295,7 +11295,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
         <source>Checking for dependencies...</source>
-        <translation>正在检查前置Mod…</translation>
+        <translation>正在检查前置 Mod…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -11386,7 +11386,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="105"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>搜索%1…</translation>
+        <translation>搜索 %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
@@ -11704,7 +11704,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="160"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>是否启用该资源包？（仅对.zip文件有效）</translation>
+        <translation>该资源包是否已被启用？（仅对 .zip 文件有效）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
@@ -11803,7 +11803,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod可能已安装，故禁用此项。</translation>
+        <translation>Mod 可能已安装，故禁用此项。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="45"/>
@@ -12192,7 +12192,7 @@ Currently installed version: %1</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>即将删除：“%1”
+        <translation>即将删除“%1”。
 该服务器将从你的服务器列表永久删除（真的很久）。
 
 你确定吗？</translation>
@@ -12809,7 +12809,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="87"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation>无法在“bin/modpack.jar”中找到“version.json”，且Minecraft版本未知</translation>
+        <translation>无法在“bin/modpack.jar”中找到“version.json”，且 Minecraft 版本未知</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="101"/>
@@ -12830,7 +12830,7 @@ Are you sure?</source>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
         <translation>无法解析“version.json”：
-缺少inheritsFrom</translation>
+缺少 inheritsFrom</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="204"/>
@@ -13333,7 +13333,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>请前往实例设置中修改你的Java版本，或者——如果你明白自己在做什么的话——跳过Java兼容性检查。</translation>
+        <translation>请前往实例设置中修改 Java 版本，或者跳过 Java 兼容性检查——如果你明白自己在做什么的话。</translation>
     </message>
 </context>
 <context>
@@ -13459,17 +13459,17 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Add to Minecraft.jar</source>
-        <translation>新增到Minecraft.jar</translation>
+        <translation>新增到 Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>安装Mod到Minecraft.jar文件中。</translation>
+        <translation>安装 Mod 到 Minecraft.jar 文件中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Replace Minecraft.jar</source>
-        <translation>替换Minecraft.jar</translation>
+        <translation>替换 Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
@@ -13586,12 +13586,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Open .minecraft</source>
-        <translation>打开.minecraft</translation>
+        <translation>打开 .minecraft 文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>打开此实例的.minecraft文件夹</translation>
+        <translation>打开此实例的 .minecraft 文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
@@ -13664,8 +13664,8 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation>将要删除：“%1”
-这将永久删除自定义组件。
+        <translation>即将删除“%1”。
+这是永久性的，并将完全删除自定义组件。
 
 你确定吗？</translation>
     </message>
@@ -13677,7 +13677,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Select jar mods</source>
-        <translation>选择.jar格式Mod</translation>
+        <translation>选择 .jar 格式Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
@@ -13687,7 +13687,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Minecraft.jar replacement</source>
-        <translation>Minecraft.jar替换</translation>
+        <translation>Minecraft.jar 替换</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
@@ -13757,7 +13757,7 @@ Are you sure?</source>
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Microsoft or Mojang account.</oldsource>
-        <translation>不允许在没有正版账号的情况下下载 Minecraft 或更新实例。
+        <translation>不允许在没有正版账户的情况下下载 Minecraft 或更新实例。
 请添加一个已购买 Minecraft 的 Microsoft 账户。</translation>
     </message>
     <message>
@@ -13771,8 +13771,8 @@ Please add your Microsoft or Mojang account.</oldsource>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>即将重置：“%1”。
-这将永久还原你更改过的内容。
+        <translation>即将重置“%1”。
+这是永久性的，并将完全恢复你的自定义设定。
 
 你确定吗？</translation>
     </message>
@@ -13922,13 +13922,13 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation>Java版本别名</translation>
+        <translation>Java 版本别名</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation>Java主要版本</translation>
+        <translation>Java 主要版本</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
@@ -14213,7 +14213,7 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Select a Minecraft world zip</source>
-        <translation>选择Minecraft世界的.zip文件</translation>
+        <translation>选择 Minecraft 世界的 .zip 存档</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
@@ -14243,8 +14243,8 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>即将删除：“%1”。
-你的世界将会永久失去（真的很久）。
+        <translation>即将删除“%1”。
+世界将会永久消失（真的很久）。
 
 你确定吗？</translation>
     </message>
@@ -14333,9 +14333,9 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>此 Microsoft 账户拥有者为未成年用户，且该账号尚未绑定到一个家庭。
+        <translation>此 Microsoft 账户未成年，且未与家庭关联。
 
-请根据 %1 设置你的账号。</translation>
+请根据 %1 设置你的账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
@@ -14355,7 +14355,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation>此 Microsoft 账户目前受到限制，你的监护人未授予你游戏权限。登录到 %1 并让你的监护人更改你的权限。</translation>
+        <translation>此 Microsoft 账户目前受限，监护人未授予你在线玩游戏的权限。登录到 %1 并让你的监护人更改你的权限。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
