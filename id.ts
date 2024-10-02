@@ -239,7 +239,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="744"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>Unknown download type: %1</source>
-        <translation>Jenis unduhan yang tidak diketahui: %1</translation>
+        <translation>Jenis unduhan tidak diketahui: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
@@ -834,7 +834,7 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation>Perbaruan berhasil
+        <translation>Pembaruan berhasil
 
 Anda sekarang menjalankan %1.
 Periksa log pembaru Prism Launcher di: 
@@ -1559,12 +1559,12 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation>Gunakan sambungan keras daripada menyalin berkas-berkas.</translation>
+        <translation>Gunakan tautan keras daripada menyalin berkas-berkas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation>Gunakan sambungan keras</translation>
+        <translation>Gunakan tautan keras</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
@@ -5040,7 +5040,7 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>Skip modpack update prompt</source>
-        <translation>Longkapi prompt perbaruan modpack</translation>
+        <translation>Longkapi prompt pembaruan modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
@@ -8034,7 +8034,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="290"/>
         <source>Update checker</source>
-        <translation>Pemeriksa perbaruan</translation>
+        <translation>Pemeriksa pembaruan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="390"/>
@@ -8191,7 +8191,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="121"/>
         <source>Checking for updates...</source>
-        <translation>Memeriksa untuk perbaruan...</translation>
+        <translation>Memeriksa untuk pembaruan...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
@@ -8217,7 +8217,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="307"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Mod &apos;%1&apos; belum memiliki metadata. Kami harus membuatnya untuk melacak informasi relevan tentang cara memperbarui mod ini. Untuk melakukan ini, mohon memilih penyedia mod yang kami dapat pakai untuk memeriksa perbaruan untuk mod ini.</translation>
+        <translation>Mod &apos;%1&apos; belum memiliki metadata. Kami harus membuatnya untuk melacak informasi relevan tentang cara memperbarui mod ini. Untuk melakukan ini, mohon memilih penyedia mod yang kami dapat pakai untuk memeriksa pembaruan untuk mod ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="410"/>
@@ -8227,7 +8227,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="177"/>
         <source>Failed to check for updates</source>
-        <translation>Gagal memeriksa perbaruan</translation>
+        <translation>Gagal memeriksa pembaruan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="178"/>
@@ -9307,7 +9307,7 @@ StdErr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
-        <translation>Hanya periksa bila sebuah perbaruan dibutuhkan. Status keluar 100 bila iya, 0 jika tidak (atau bukan 0 bila ada kesalahan).</translation>
+        <translation>Hanya memeriksa apakah pembaruan dibutuhkan. Status keluar 100 bila iya, 0 bila tidak (atau bukan 0 bila ada kesalahan).</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
