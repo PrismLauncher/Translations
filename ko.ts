@@ -79,7 +79,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>여기에 Modrinth의 커스텀 API 토큰을 입력하십시오.</translation>
+        <translation>여기에 Modrinth에 대한 사용자 지정 API 토큰을 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
