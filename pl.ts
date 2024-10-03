@@ -10344,7 +10344,7 @@ By zastąpić tą blokadę i kontynuować z aktualizacją mimo to, zaznacz &quot
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można uruchomić procesu podrzędnego aby przeczytał wersję.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
