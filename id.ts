@@ -10591,7 +10591,7 @@ CATATAN: Pastikan Anda telah membackup instansi penting sebelum memperbarui, kar
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="98"/>
         <source>You have %1 selected resources.
 Are you sure you want to close this dialog?</source>
-        <translation>Anda telah %1 sumber daya terpilih.
+        <translation>Anda telah memilih %1 sumber daya.
 Apakah Anda yakin ingin menutup dialog ini?</translation>
     </message>
     <message>
