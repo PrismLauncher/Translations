@@ -961,7 +961,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">Nie znaleziono plików w dostarczonym pliku zip,</translation>
+        <translation>Nie znaleziono żadnych plików w dostarczonym pliku zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
