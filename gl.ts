@@ -78,17 +78,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID Cliente Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: Só necesitas poñer esto para acceder a datos privados.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inserte unha GUID persoalizada de ID de cliente para Technic aquí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -407,7 +407,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Desconectado</translation>
+        <translation>Desconectado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
@@ -587,12 +587,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Configuración de Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Configuración de Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -683,7 +683,7 @@ Se eres novo/a aquí, podes seleccionar o botón &quot;Engadir Microsoft&quot; p
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="145"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
@@ -753,7 +753,7 @@ Se eres novo/a aquí, podes seleccionar o botón &quot;Engadir Microsoft&quot; p
     <message>
         <location filename="src/launcher/Application.cpp" line="788"/>
         <source>Settings</source>
-        <translation type="unfinished">Configuración</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="935"/>
@@ -821,10 +821,10 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Actualización completada
+        <translation>Actualización completada
 
-Agora estás executando%1 .
-Mire o log do actualizador de Prism Launcher en
+Agora estás executando %1 .
+Mire o log do actualizador de Prism Launcher en:
 %1
 para detalles.</translation>
     </message>
@@ -840,7 +840,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O directorio /tmp está actualmente montado coa opción &apos;noexec&apos; activada
+Algunhas versións de Minecraft poden non funcionar.
+
+Podes arranxar isto remontando /tmp como &apos;exec&apos; ou poñendo o argumento de JVM java.io.tmpdir a un directorio onde se pode escribir e onde a opción &apos;exec&apos; está activada (p.ex., /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -886,46 +890,46 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Extraendo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraendo Java (o progreso non é reportado para archivos tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non se pode abrir o arquivo tar suministrado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non se pode extraer o arquivo tar suministrado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non se pode abrir o arquivo zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non hai arquivos no arquivo zip suministrado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non se puido determinar o tipo de arquivo!</translation>
     </message>
 </context>
 <context>
@@ -1155,22 +1159,22 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Non se puido identificar. A sesión expirou.</translation>
+        <translation>Non se puido identificar. A sesión expirou.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Non se puido identificar. A conta xa non existe.</translation>
+        <translation>Non se puido identificar. A conta xa non existe.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">O proceso de identificación atópase nun estado descoñecido: %1</translation>
+        <translation>O proceso de identificación atópase nun estado descoñecido: %1</translation>
     </message>
 </context>
 <context>
@@ -1178,17 +1182,17 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O mecanismo de Java automático detectou unha instalación de Java de 32 bits.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="87"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non se encontrou unha versión de Java compatible. Usando a versión por defecto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="98"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Teu sistema (%1-%2) non é compatible coa instalación automática de Java. Usando a ruta de Java por defecto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="106"/>
@@ -1198,12 +1202,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java compatible encontrado en: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="156"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non se encontrou unha versión compatible de Java (o arquivo binario non existe). Usando a versión por defecto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
@@ -1213,12 +1217,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Non se encontraron versións de Java para o teu sistema operativo: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
@@ -1231,7 +1235,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
