@@ -104,7 +104,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź tutaj niestandardowy GUID dla ID klienta Technic.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -877,7 +877,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Twój folder /tmp jest aktualnie załadowany z włączoną flagą &apos;noexec&apos;.
+Niektóre wersje Minecraft mogą się nie uruchomić.
+
+Możesz rozwiązać ten problem poprzez załadowanie folderu /tmp z flagą &apos;exec&apos; lub ustawienie argumentu JVM java.io.tmpdir do folderu z uprawnieniami zapisu gdzie jest ustawiona flaga &apos;exec&apos; (np. /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
