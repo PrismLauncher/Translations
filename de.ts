@@ -98,7 +98,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic Klient ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
@@ -108,7 +108,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie hier eine benutzerdefinierte GUID für Technic ein.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -881,7 +881,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ihr /tmp Verzeichnis ist aktuell mit dem &apos;noexec&apos;-Modifikator eingehangen
+Einige Versionen von Minecraft können möglicherweise nicht gestartet werden.
+
+Sie können dieses Problem beheben, indem Sie /tmp als &apos;exec&apos; erneut einhängen, oder das java.io.tmpdir JVM Argument auf ein schreibfähiges Verzeichnis in einem Dateisystem mit gesetzter &apos;exec&apos; Option ändern (z.B.: /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -961,7 +965,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">In der angegebenen Zip-Datei sind keine Dateien gefunden wurden,</translation>
+        <translation>In der angegebenen Zip-Datei sind keine Dateien gefunden wurden.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -1258,7 +1262,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished">Java installieren</translation>
+        <translation>Java installieren</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -1276,18 +1280,18 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formular</translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Achtung: Neue Funktion!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Wir haben eine Funktion für das automatische herunterladen der richtigen Java Version für jede Minecraft Version hinzugefügt (Dies kann in den Java Einstellungen geändert werden). Möchten Sie diese Funktion aktivieren oder deaktivieren?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -2744,7 +2748,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeite API-Antwort von CurseForge für &apos;%1&apos;…</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3543,20 +3547,20 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Derzeit sind in der Meta keine Java-Versionen verfügbar.</translation>
+        <translation>Derzeit sind in der Meta keine Java-Versionen verfügbar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Konnte die Java-Versionslisten nicht laden oder herunterladen!</translation>
+        <translation>Konnte die Java-Versionslisten nicht laden oder herunterladen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Derzeit sind keine Java-Versionen für Ihr Betriebssystem verfügbar.</translation>
+        <translation>Derzeit sind keine Java-Versionen für Ihr Betriebssystem verfügbar.</translation>
     </message>
 </context>
 <context>
@@ -4533,13 +4537,13 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Es sind keine verwalteten Java-Versionen installiert.</translation>
+        <translation>Es sind keine verwalteten Java-Versionen installiert</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Die Liste der verwalteten Java-Versionen konnte nicht geladen werden!</translation>
+        <translation>Die Liste der verwalteten Java-Versionen konnte nicht geladen werden!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4752,7 +4756,7 @@ Sie können die Java-Version in den Einstellungen später ändern.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Bitte wählen Sie aus wie viel Arbeitsspeicher den Instanzen zugewiesen werden soll und ob Prism java automatisch oder manuell verwalten soll.</translation>
+        <translation>Bitte wählen Sie aus wie viel Arbeitsspeicher den Instanzen zugewiesen werden soll und ob Prism Launcher Java automatisch oder manuell verwalten soll.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5977,7 +5981,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formular</translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -5987,7 +5991,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished">Um Minecraft zu spielen müssen Sie mindestens einen Microsoft Account eingeloggt haben. Möchten Sie sich einloggen?</translation>
+        <translation>Um Minecraft zu spielen, müssen Sie mindestens ein Microsoft Konto eingeloggt haben. Möchten Sie sich einloggen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
@@ -6609,7 +6613,7 @@ Grund:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen Sie den Java-Ordner in einem Datei-Manager. Nur verfügbar, wenn der eingebaute Java-Downloader verwendet wird.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -10293,7 +10297,7 @@ Um diesen lock zu überschreiben und trotzdem mit diesem Update fortzufahren, dr
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">Starten von Unterprozess &quot;%1 %2&quot; schlug fehl.</translation>
+        <translation>Starten von Unterprozess &quot;%1 %2&quot; schlug fehl.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10324,7 +10328,7 @@ Um diesen lock zu überschreiben und trotzdem mit diesem Update fortzufahren, dr
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished">Starten des Unterprocesses um Version zu lesen fehlgeschlagen.</translation>
+        <translation>Starten des Unterprozesses um Version zu lesen fehlgeschlagen.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -11223,37 +11227,37 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished">Keine kompatible Version von %1 für %2 %3 gefunden</translation>
+        <translation>Keine kompatible Version von %1 für %2 %3 gefunden</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished">Keine Versionsliste in Metadaten index für %1</translation>
+        <translation>Keine Versionsliste in Metadaten Index für %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 benötigt Abhängigkeit %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished">%1, eine Abhängigkeit dieser Komponente hat Probleme gemeldet</translation>
+        <translation>%1, eine Abhängigkeit dieser Komponente, hat Probleme gemeldet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished">%1, eine Abhängigkeit dieser Komponente ist nicht die benötigte Version %2</translation>
+        <translation>%1, eine Abhängigkeit dieser Komponente, ist nicht die benötigte Version %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, eine Abhängigkeit von dieser Komponente, ist nicht die empfohlene Version %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 und %2 sind dafür bekannt, nicht miteinander zu arbeiten. Es ist empfohlen, eine von ihnen zu entfernen.</translation>
     </message>
 </context>
 <context>
@@ -12695,27 +12699,27 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Prüfe auf ausführbaren Java Pfad</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche nach ausführbaren Java Pfad</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausführbarer Java Pfad konnte nicht gefunden werden</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammle Ordner zur symbolischen Verknüpfung</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstelle eine Symbolische Verknüpfung zum ausführbaren Java Pfad</translation>
     </message>
 </context>
 <context>
@@ -12723,14 +12727,14 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">Aufgabe abgebrochen.</translation>
+        <translation>Aufgabe abgebrochen.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Konnte die Instanz nicht aktualisieren, weil: %1
+        <translation>Konnte die Instanz nicht aktualisieren, weil: %1
 
 </translation>
     </message>
@@ -13972,13 +13976,13 @@ Bitte füge dein Mojang- oder Minecraft-Konto hinzu.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">Der alternative Name der Java-Version</translation>
+        <translation>Der alternative Name der Java-Version</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">Die Java Hauptversion</translation>
+        <translation>Die Java Hauptversion</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
