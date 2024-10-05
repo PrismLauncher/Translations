@@ -3447,7 +3447,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="148"/>
         <source>Install Loader</source>
-        <translation>Installer loader</translation>
+        <translation>Installer Loader</translation>
     </message>
 </context>
 <context>
