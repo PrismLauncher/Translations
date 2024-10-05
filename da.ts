@@ -3314,7 +3314,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>Modpacken %1 er blokeret for tredjeparter! Download den manuelt.</translation>
+        <translation>Modpakken %1 er blokeret for tredjeparter! Download den manuelt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
