@@ -5516,7 +5516,7 @@ Skal den fjernes nu?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>Downloader påkrævede biblioteksfiler</translation>
+        <translation>Downloader påkrævede biblioteksfiler...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
