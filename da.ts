@@ -3302,7 +3302,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importér fra zip-fil</translation>
+        <translation>Importér</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
