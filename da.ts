@@ -2208,7 +2208,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
         <source>Copy</source>
-        <translation>Kopier</translation>
+        <translation>Kopiér</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="162"/>
