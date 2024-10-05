@@ -933,7 +933,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Entpacke Java</translation>
+        <translation>Java wird entpackt</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
