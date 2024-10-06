@@ -3479,7 +3479,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="140"/>
         <source>Report issues to: </source>
-        <translation>문제를 여기에 보고: </translation>
+        <translation>문제 신고: </translation>
     </message>
 </context>
 <context>
@@ -3942,7 +3942,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="443"/>
         <source>Workarounds</source>
-        <translation>해결책</translation>
+        <translation>문제 해결</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="452"/>
