@@ -2478,7 +2478,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="124"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="169"/>
         <source>Browse</source>
-        <translation>탐색하기</translation>
+        <translation>찾아보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -2490,7 +2490,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation>외부 편집기(시스템 기본 편집기 사용시 빈칸으로 남겨두기)</translation>
+        <translation>외부 편집기(시스템 기본 편집기 사용 시 비워 두기)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
@@ -3352,7 +3352,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
-        <translation>탐색하기</translation>
+        <translation>찾아보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
@@ -3848,7 +3848,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
         <source>Browse</source>
-        <translation>탐색하기</translation>
+        <translation>찾아보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
@@ -4444,7 +4444,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="294"/>
         <source>Browse</source>
-        <translation>탐색하기</translation>
+        <translation>찾아보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
@@ -4647,7 +4647,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="501"/>
         <source>Browse</source>
-        <translation>탐색하기</translation>
+        <translation>찾아보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
@@ -4922,7 +4922,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Waiting.</source>
-        <translation>대기하는 중.</translation>
+        <translation>대기하는 중입니다.</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -4975,7 +4975,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
-        <translation>Mojang 서비스에 접속하는 중.</translation>
+        <translation>Mojang 서비스에 접속하는 중입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -5033,7 +5033,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="216"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="223"/>
         <source>Browse</source>
-        <translation>탐색하기</translation>
+        <translation>찾아보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
@@ -5397,12 +5397,12 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Test/ERROR] 우우우! 으스스한 오류가 발생하였습니다!</translation>
+        <translation>[Test/ERROR] 우우우! 으스스한 오류입니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation>[Test/ERROR] 으스스한 오류가 발생하였습니다!</translation>
+        <translation>[Test/ERROR] 으스스한 오류입니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
@@ -5417,7 +5417,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation>[Test/FATAL] 끔찍하기 짝이 없는 치명적인 오류가 발생하였습니다!</translation>
+        <translation>[Test/FATAL] 끔찍하기 짝이 없는 치명적인 오류입니다!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -5451,12 +5451,12 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="73"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>런처 라이브러리를 찾을 수 없습니다. 설치되어있는지 확인하십시오.</translation>
+        <translation>런처 라이브러리를 찾을 수 없습니다. 설치 여부를 확인하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
-        <translation>레거시 런처 라이브러리를 찾을 수 없습니다. 설치를 확인하십시오.</translation>
+        <translation>레거시 런처 라이브러리를 찾을 수 없습니다. 설치 여부를 확인하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
@@ -5483,13 +5483,13 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>이름으로 정렬</translation>
+        <translation>이름순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>게임 버전으로 정렬</translation>
+        <translation>게임 버전순 정렬</translation>
     </message>
 </context>
 <context>
@@ -10201,7 +10201,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="48"/>
         <source>%1 (in use)</source>
-        <translation>%1(이미 사용 중)</translation>
+        <translation>%1(이용하는 중)</translation>
     </message>
 </context>
 <context>
@@ -10461,7 +10461,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="135"/>
         <source>%1 (in use)</source>
-        <translation>%1(이미 사용 중)</translation>
+        <translation>%1(이용하는 중)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
@@ -14279,7 +14279,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation>Xbox 사용자로 로그인하는 중.</translation>
+        <translation>Xbox 사용자로 로그인하는 중입니다.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
