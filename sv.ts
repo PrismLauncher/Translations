@@ -78,17 +78,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic klient-id</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Obs: du behöver bara ställa in detta för att komma åt privata data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange ett anpassat GUID klient-id för Technic här.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -853,7 +853,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Din /tmp-katalog är för närvarande monterad med &apos;noexec&apos;-flaggan aktiverad.
+Vissa Minecraft versioner kanske inte startar.
+
+Du kan lösa detta problem genom att montera om /tmp som &apos;exec&apos; eller ställa in java.io.tmpdir JVM-argumentet till en skrivbar katalog i ett filsystem där &apos;exec&apos;-flaggan är inställd (t.ex. /home/user/.local/tmp )
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -905,7 +909,7 @@ Vissa versioner av Minecraft kanske inte startar.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Packar upp java</translation>
+        <translation>Packar upp Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1259,7 +1263,7 @@ Vissa versioner av Minecraft kanske inte startar.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">Vi har lagt till en funktion för att automatiskt ladda ner rätt Java-version för varje version av Minecraft (detta kan ändras i Java-inställningarna). Vill du aktivera eller inaktivera den här funktionen?</translation>
+        <translation>Vi har lagt till en funktion för att automatiskt ladda ner rätt Java-version för varje version av Minecraft (detta kan ändras i Java-inställningarna). Vill du aktivera eller inaktivera den här funktionen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3475,20 +3479,20 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Inga java-versioner finns för närvarande tillgängliga i meta.</translation>
+        <translation>Inga Java-versioner är för närvarande tillgängliga i meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Det gick inte att ladda eller ladda ner javaversionslistorna!</translation>
+        <translation>Det gick inte att ladda eller ladda ner listorna över Java-versioner!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Inga java-versioner finns för närvarande tillgängliga för ditt operativsystem.</translation>
+        <translation>Inga Java-versioner är för närvarande tillgängliga för ditt operativsystem.</translation>
     </message>
 </context>
 <context>
@@ -4459,13 +4463,13 @@ Se till att det maximala minnesvärdet är lägre.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Inga hanterade java-versioner är installerade</translation>
+        <translation>Inga hanterade Java-versioner är installerade</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Det gick inte att läsa in den hanterade javalistan!</translation>
+        <translation>Det gick inte att ladda listan över hanterad Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4679,7 +4683,7 @@ Du kan ändra Java-versionen i inställningarna senare.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Välj hur mycket minne som ska allokeras till instanser och om Prism Launcher ska hantera java automatiskt eller manuellt.</translation>
+        <translation>Välj hur mycket minne som ska allokeras till instanser och om Prism Launcher ska hantera Java automatiskt eller manuellt.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6736,7 +6740,7 @@ Anledning:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Öppna Java-mappen i en filbläddrare. Endast tillgängligt om den inbyggda Java-nedladdaren används.</translation>
+        <translation>Öppna Java-mappen i en filbläddrare. Endast tillgängligt om den inbyggda Java-nedladdaren används.</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -13712,13 +13716,13 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">Det alternativa namnet på java-versionen</translation>
+        <translation>Det alternativa namnet på Java-versionen</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">Java huvudversion</translation>
+        <translation>Java-huvudversionen</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
