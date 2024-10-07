@@ -1375,7 +1375,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Java 검사기 라이브러리를 찾을 수 없습니다. 설치되어있는지 확인하십시오.</translation>
+        <translation>Java 검사기 라이브러리를 찾을 수 없습니다. 설치되어 있는지 확인하십시오.</translation>
     </message>
 </context>
 <context>
@@ -1730,7 +1730,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation>일반 릴리즈</translation>
+        <translation>일반 릴리스</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
@@ -2541,7 +2541,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM 실행파일</translation>
+        <translation>JVisualVM 실행 파일</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
@@ -2577,7 +2577,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="184"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation>MCEdit 설치가 정상인것으로 보임</translation>
+        <translation>MCEdit 설치가 정상인 것으로 보임</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="190"/>
@@ -2816,7 +2816,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="244"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>이전 버전에 적합한 인덱스 파일을 찾을 수 없습니다. 이로 인해 일부 파일이 중복될 수 있습니다. 진행하시겠습니까?</translation>
+        <translation>이전 버전에 적합한 인덱스 파일을 찾을 수 없습니다. 이로 인해 일부 파일이 중복될 수 있습니다. 계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
@@ -3007,7 +3007,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
         <source>Finding versions for hashes...</source>
-        <translation>해시에 대한 버전을 찾는 중...</translation>
+        <translation>해시 버전을 찾는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="236"/>
@@ -3616,13 +3616,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>모드팩 다운로드 중:
+        <translation>모드 팩을 다운로드 중:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
         <source>Modpack download</source>
-        <translation>모드팩 다운로드</translation>
+        <translation>모드 팩 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
@@ -3632,18 +3632,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
         <source>Extracting modpack</source>
-        <translation>모드팩 추출 중</translation>
+        <translation>모드 팩 추출 중</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="155"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>모드팩 압축 파일을 열 수 없음.</translation>
+        <translation>모드 팩 압축 파일을 열 수 없음.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>압축 파일이 인식 가능한 모드팩을 가지고 있지 않음.</translation>
+        <translation>압축 파일이 인식 가능한 모드 팩을 가지고 있지 않음.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -4104,7 +4104,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="399"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>시스템에서 Feral Interactive의 게임모드를 찾을 수 없습니다.</translation>
+        <translation>시스템에서 Feral Interactive&apos;s GameMode를 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="404"/>
@@ -5497,17 +5497,17 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="128"/>
         <source>Public Modpack</source>
-        <translation>공개 모드팩</translation>
+        <translation>공개 모드 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="130"/>
         <source>Third Party Modpack</source>
-        <translation>서드파티 모드팩</translation>
+        <translation>서드파티 모드 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="132"/>
         <source>Private Modpack</source>
-        <translation>비공개 모드팩</translation>
+        <translation>비공개 모드 팩</translation>
     </message>
 </context>
 <context>
@@ -5542,7 +5542,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation>모드팩 추출 중</translation>
+        <translation>모드 팩 추출 중</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
@@ -5552,7 +5552,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="135"/>
         <source>Installing modpack</source>
-        <translation>모드팩 설치 중</translation>
+        <translation>모드 팩 설치 중</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
@@ -7007,7 +7007,7 @@ Microsoft 계정을 추가하세요.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
         <source>Modpack download</source>
-        <translation>모드팩 다운로드</translation>
+        <translation>모드 팩 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1138"/>
@@ -7353,7 +7353,7 @@ Are you sure?</source>
         <source>This is a local modpack.
 This can be updated only using a file in %1 format
 </source>
-        <translation>이것은 로컬 모드팩입니다.
+        <translation>이것은 로컬 모드 팩입니다.
 %1 포맷을 사용한 파일을 사용해야만 업데이트할 수 있습니다
 </translation>
     </message>
@@ -7400,7 +7400,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>이 모드팩의 변경 사항 데이터를 불러올 수 없습니다.</translation>
+        <translation>이 모드 팩의 변경 사항 데이터를 불러올 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
@@ -7777,7 +7777,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>시스템에서 Feral Interactive의 게임 모드를 찾을 수 없습니다.</translation>
+        <translation>시스템에서 Feral Interactive&apos;s GameMode를 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="168"/>
@@ -8761,7 +8761,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>네트워크 오류가 발생했습니다. 모드팩을 불러올 수 없습니다.</translation>
+        <translation>네트워크 오류가 발생했습니다. 모드 팩을 불러올 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="365"/>
@@ -10833,16 +10833,16 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Similar modpack was found!</source>
-        <translation>유사한 모드팩이 발견되었습니다!</translation>
+        <translation>유사한 모드 팩이 발견되었습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>하나 이상의 인스턴스가 이 동일한 모드팩%1에 있습니다. 별도의 인스턴스를 생성하시겠습니까, 아니면 기존 인스턴스를 업데이트하시겠습니까?
+        <translation>하나 이상의 인스턴스가 이 동일한 모드 팩%1에 있습니다. 별도의 인스턴스를 생성하시겠습니까, 아니면 기존 인스턴스를 업데이트하시겠습니까?
 
-참고: (팩 덮어쓰기로 인해) 월드가 손상되고 일부 구성이 손실될 수 있으므로, 업데이트하기 전에 중요한 인스턴스 데이터를 백업하였는지 확인하십시오.</translation>
+참고: (팩 덮어쓰기로 인해) 세계가 손상되고 일부 구성이 손실될 수 있으므로, 업데이트하기 전에 중요한 인스턴스 데이터를 백업하였는지 확인하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
@@ -13765,7 +13765,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
         <source>Released</source>
-        <translation>릴리즈 시기</translation>
+        <translation>릴리스 시기</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
@@ -13812,7 +13812,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Release date of this version</source>
-        <translation>이 버전의 릴리즈 날짜</translation>
+        <translation>이 버전의 릴리스 날짜</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="166"/>
