@@ -5393,17 +5393,17 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
 <context>
     <name>LegacyFTB::PackFetchTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
         <source>Public Packs</source>
         <translation>Pack-uri publice</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
         <source>Third Party Packs</source>
         <translation>Pack-uri de terță parte</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
         <translation>Nu s-au putut descărca unele liste de pack-uri: %1</translation>
     </message>

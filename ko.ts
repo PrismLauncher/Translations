@@ -5513,17 +5513,17 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
 <context>
     <name>LegacyFTB::PackFetchTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
         <source>Public Packs</source>
         <translation>공개 팩</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
         <source>Third Party Packs</source>
         <translation>서드파티 팩</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
         <translation>몇몇 팩을 다운로드하지 못함: %1</translation>
     </message>

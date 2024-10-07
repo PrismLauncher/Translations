@@ -5370,17 +5370,17 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
 <context>
     <name>LegacyFTB::PackFetchTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
         <source>Public Packs</source>
         <translation>Packs Công Khai</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
         <source>Third Party Packs</source>
         <translation>Packs Bên Thứ Ba</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
         <translation>Không thể tải về một số danh sách pack: %1</translation>
     </message>

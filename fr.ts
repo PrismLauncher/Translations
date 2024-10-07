@@ -5551,17 +5551,17 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
 <context>
     <name>LegacyFTB::PackFetchTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
         <source>Public Packs</source>
         <translation>Packs publics</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
         <source>Third Party Packs</source>
         <translation>Packs tiers</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
         <translation>Échec du téléchargement de certaines listes de packs&#xa0;: %1</translation>
     </message>

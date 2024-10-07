@@ -5468,17 +5468,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 <context>
     <name>LegacyFTB::PackFetchTask</name>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
         <source>Public Packs</source>
         <translation>Публічні збірки</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="120"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
         <source>Third Party Packs</source>
         <translation>Сторонні збірки</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
         <translation>Не вдалося завантажити деякі списки збірок: %1</translation>
     </message>
