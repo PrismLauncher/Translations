@@ -91,7 +91,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณจำเป็นต้องตั้งค่านี้เพื่อเข้าถึงข้อมูลส่วนตัวเท่านั้น&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
@@ -852,7 +852,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ขณะนี้ไดเร็กทอรี /tmp ของคุณถูกเมาท์โดยเปิดใช้แฟล็ก &apos;noexec&apos;
+Minecraft บางเวอร์ชันอาจไม่สามารถเปิดได้
+
+คุณสามารถแก้ไขปัญหานี้ได้โดยเมาท์ /tmp ใหม่เป็น &apos;exec&apos; หรือตั้งค่าอาร์กิวเมนต์ JVM java.io.tmpdir เป็นไดเร็กทอรีที่เขียนได้ในระบบไฟล์ที่มีการตั้งค่าแฟล็ก &apos;exec&apos; (เช่น /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -1756,12 +1760,12 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="215"/>
         <source>Fabric</source>
-        <translation>แฟบริค</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="225"/>
         <source>Quilt</source>
-        <translation>ควิลท์</translation>
+        <translation>ควิลท์(Quilt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="235"/>
@@ -2631,7 +2635,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>การวิเคราะห์การตอบสนอง API จาก CurseForge สำหรับ &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -2677,7 +2681,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="118"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (เวอร์ชัน%1)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2728,13 +2732,14 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="390"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>จุดลึกลับที่ตามหลังถูกนำออกจากเวอร์ชัน Minecraft ขณะนำเข้าแพ็ค</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="444"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถแก้ไข ID mod ได้:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="497"/>
@@ -2760,12 +2765,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="582"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังคัดลอก Mod ที่ถูกบล็อค...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>การคัดลอก Mod ที่ถูกบล็อค (เสร็จเรียบร้อยแล้ว %1 จาก %2)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="574"/>
@@ -2778,7 +2783,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;สวัสดี!&lt;/h1&gt;&lt;h4&gt;ดูเหมือนว่ารหัสแพ็คของคุณจะเป็นค่าว่าง สาเหตุเกิดจากข้อบกพร่องในเวอร์ชันเก่าของตัวเรียกใช้งาน&lt;br/&gt;ขออภัย เราไม่สามารถส่งคำขอ API ที่ถูกต้องได้หากไม่มีข้อมูลนี้&lt;br/&gt;&lt;br/&gt;ดังนั้น เพื่อให้ฟีเจอร์นี้ทำงานได้ คุณจะต้องดาวน์โหลด modpack อีกครั้งจากตัวดาวน์โหลดในตัว&lt;br/&gt;&lt;br/&gt;แต่ไม่ต้องกังวล มันจะขอให้คุณอัปเดตอินสแตนซ์นี้แทน ดังนั้นคุณจะไม่สูญเสียอินสแตนซ์นี้!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
@@ -2788,7 +2793,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
         <source>Choose update file</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกไฟล์อัปเดต</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="541"/>
@@ -2834,22 +2839,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังค้นหาไฟล์...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถค้นหาไฟล์ได้</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังค้นหาแฮชไฟล์...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังค้นหาเวอร์ชันสำหรับแฮช...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="236"/>
@@ -2860,12 +2865,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังค้นหาข้อมูลโครงการจาก CurseForge ...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="334"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเพิ่มแฟ้ม...</translation>
     </message>
 </context>
 <context>
@@ -2883,7 +2888,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>หมายเหตุ: CurseForge อนุญาตให้ผู้สร้างบล็อกการเข้าถึงเครื่องมือของบุคคลที่สาม เช่น Prism Launcher ดังนั้น คุณอาจต้องดาวน์โหลด mod บางส่วนด้วยตนเองเพื่อติดตั้ง modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="35"/>
@@ -2931,12 +2936,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="196"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="214"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเวอร์ชันที่พร้อมใช้งาน!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="202"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ผิดพลาด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="280"/>
@@ -2946,7 +2951,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="285"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>ลิงค์ภายนอก:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="289"/>
@@ -2956,7 +2961,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="291"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>คู่มือ: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="293"/>
@@ -3066,7 +3071,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/GenericProfiler.cpp" line="39"/>
         <source>Started process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มดำเนินการ: %1</translation>
     </message>
 </context>
 <context>
@@ -3080,7 +3085,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="197"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดของเครือข่าย ไม่สามารถโหลดการอ้างอิงรายการได้:%1</translation>
     </message>
 </context>
 <context>
@@ -3179,13 +3184,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ประเภทไฟล์ต่อไปนี้ (ไฟล์ในเครื่องและ URL):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- ดาาวโหลดModpacks ของ CurseForge (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -3196,12 +3201,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- อินสแตนซ์ที่ส่งออก Prism Launcher, PolyMC หรือ MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic modpacks (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -3219,17 +3224,17 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>modpack% 1 ถูกบล็อกโดยบุคคลที่สาม! กรุณาดาวน์โหลดด้วยตนเอง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished"></translation>
+        <translation>URL นี้ไม่ใช่ modpack ที่ถูกต้อง!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -3239,7 +3244,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
         <source>Supported files</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ที่รองรับ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
@@ -3262,22 +3267,22 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกอินสแตนซ์ที่คุณต้องการนำเข้า</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกอินสแตนซ์ที่คุณต้องการนำเข้าแพ็กเกจทรัพยากรนี้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกอินสแตนซ์ที่คุณต้องการนำเข้า% 1 นี้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์: %1</translation>
     </message>
 </context>
 <context>
@@ -3347,7 +3352,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="140"/>
         <source>Quilt</source>
-        <translation type="unfinished">ควิลท์</translation>
+        <translation>ควิลท์(Quilt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="142"/>
@@ -3554,42 +3559,42 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="64"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>หากเปิดใช้งาน Launcher จะไม่ตรวจสอบว่าอินสแตนซ์เข้ากันได้กับ Java เวอร์ชันที่เลือกหรือไม่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้ามการตรวจสอบความเข้ากันได้ของ Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
         <source>Memor&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>หน่วยความจำ&amp;y</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำขั้นต่ำ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="181"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>หน่วยความจำสูงสุดที่ Minecraft อนุญาตให้ใช้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="159"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation>ปริมาณของหน่วยความจำที่จุดเริ่มต้นของ Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="203"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>หน่วยความจำที่สามารถใช้เพื่อจัดเก็บปริมาณของคลาส Java ที่โหลด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุด:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
@@ -3599,7 +3604,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="90"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation>ดวโหลด Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="131"/>
@@ -3822,7 +3827,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="682"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>ที่อยู่เซิฟเวอร์:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
@@ -4430,7 +4435,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/LaunchController.cpp" line="92"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Microsoft account which owns Minecraft logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ในการเล่น Minecraft คุณต้องมีบัญชี Microsoft อย่างน้อยหนึ่งบัญชีเข้าสู่ระบบด้วย Minecraft คุณต้องการเปิด Account Manager ทันทีเพื่อเพิ่มบัญชีหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="118"/>
@@ -4518,7 +4523,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="297"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>การระบุตัวตนไคลเอนต์ของตัวเรียกใช้งานมีการเปลี่ยนแปลง โปรดลบบัญชีนี้แล้วเพิ่มใหม่อีกครั้ง</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
@@ -4528,7 +4533,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="305"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีไม่มีอยู่บนเซิร์ฟเวอร์อีกต่อไป อาจมีการโยกย้าย ซึ่งในกรณีนี้ ให้เพิ่มบัญชีใหม่ที่คุณย้ายบัญชีนี้</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="307"/>
@@ -4708,7 +4713,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีไม่มีอยู่บนเซิร์ฟเวอร์อีกต่อไป อาจมีการโยกย้าย ซึ่งในกรณีนี้ ให้เพิ่มบัญชีใหม่ที่คุณย้ายบัญชีนี้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="146"/>
@@ -5266,11 +5271,11 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>อาร์ติแฟกต์บางอันที่ทำเครื่องหมายว่า &apos;ท้องถิ่น&apos; ขาดไฟล์:
+        <translation>ชิ้นงานบางชิ้นที่มีเครื่องหมาย &quot;ท้องถิ่น&quot; ขาดเอกสาร:
 %1
 
-คุณต้องเพิ่มไฟล์หรือลบแพ็คเกจที่ต้องการไฟล์เหล่านั้น
-คุณจะต้องแก้ไขปัญหานี้ด้วยตนเอง</translation>
+คุณต้องเพิ่มไฟล์หรือลบแพ็คเกจที่ต้องการพวกเขา
+คุณต้องแก้ไขปัญหานี้ด้วยตนเอง</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
@@ -6203,7 +6208,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="514"/>
         <source>No accounts added!</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีการเพิ่มบัญชี!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
@@ -7007,7 +7012,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="120"/>
         <source>Quilt</source>
-        <translation type="unfinished">ควิลท์</translation>
+        <translation>ควิลท์(Quilt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="130"/>
@@ -7144,7 +7149,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="211"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่และเวลาที่ mod นี้ถูกเปลี่ยนแปลง (หรือเพิ่ม) ครั้งล่าสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="213"/>
@@ -9987,7 +9992,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="506"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>วันที่และเวลาที่ทรัพยากรนี้มีการเปลี่ยนแปลง (หรือเพิ่ม) ล่าสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="508"/>
@@ -10075,7 +10080,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่และเวลาที่แพ็คทรัพยากรนี้มีการเปลี่ยนแปลง (หรือเพิ่ม) ครั้งล่าสุด</translation>
     </message>
 </context>
 <context>
