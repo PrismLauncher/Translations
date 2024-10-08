@@ -5604,8 +5604,8 @@ Reason:
         <translation>پایین</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>لاگ ماینکرافت</translation>
     </message>
@@ -9889,8 +9889,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>فرمت نسخه ناشناخته!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>مسیر خالی</translation>
     </message>
