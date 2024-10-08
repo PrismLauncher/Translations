@@ -130,7 +130,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>수정된 라이브러리 또는 기타 변경 사항을 적용하기 위해 제3자 메타데이터 서버를 설정할 수 있습니다.</translation>
+        <translation>수정된 라이브러리 또는 기타 변경 사항을 적용하기 위하여 서드파티 메타데이터 서버를 설정할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -261,7 +261,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>해당 파일들은 제3자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가해야 할 수 있습니다.</translation>
+        <translation>해당 파일은 서드파티 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
@@ -2875,7 +2875,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="498"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>다음 모드는 제3자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;수동으로 다운로드하여 인스턴스에 추가해야 합니다.</translation>
+        <translation>해당 파일은 서드파티 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
@@ -3406,7 +3406,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>해당 모드 팩 %1은(는) 제3자에게 차단되었습니다! 직접 다운로드하십시오.</translation>
+        <translation>서드파티 모드 팩 %1이(가) 차단되었습니다! 직접 다운로드하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
@@ -7002,7 +7002,7 @@ Microsoft 계정을 추가하세요.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="962"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>이 모드 팩, 모드 또는 리소스 %1이(가) 제3자에서 차단되었습니다! 직접 다운로드하십시오.</translation>
+        <translation>이 모드 팩, 모드 또는 리소스 %1이(가) 서드파티에 대하여 차단되었습니다! 직접 다운로드하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
