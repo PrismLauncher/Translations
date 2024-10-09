@@ -5842,8 +5842,8 @@ Causa:
         <translation>Fine</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
         <source>Minecraft Log</source>
         <translation>Log di Minecraft</translation>
     </message>
@@ -10791,8 +10791,8 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
         <translation>Formato versione sconosciuto!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Percorso vuoto</translation>
     </message>
@@ -11278,7 +11278,7 @@ Per favore aggiorna %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="261"/>
         <source>Select %1 for download</source>
         <translation>Seleziona %1 per il download</translation>
     </message>
@@ -11323,37 +11323,42 @@ Per favore aggiorna %1!</translation>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
+        <source>No version available for the selected pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
         <source>Deselect %1 for download</source>
         <translation>Deseleziona %1 per scaricare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>No valid version found.</source>
         <translation>Nessuna versione valida trovata.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="294"/>
         <source>Cannot select invalid version :(</source>
         <translation>Impossibile selezionare una versione invalida :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="310"/>
         <source>Loading versions...</source>
         <translation>Caricamento versioni...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="461"/>
         <source>Reinstall</source>
         <translation>Reinstalla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="462"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Invio</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="481"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="484"/>
         <source>The resource was not found</source>
         <translation>La risorsa non è stata trovata</translation>
     </message>

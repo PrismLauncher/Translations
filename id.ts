@@ -5667,8 +5667,8 @@ Alasan:
         <translation>Bawah</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
         <source>Minecraft Log</source>
         <translation>Riwayat Minecraft</translation>
     </message>
@@ -10250,8 +10250,8 @@ Pesan ini akan ditampilkan sampai Anda menghapus hal ini dari argumen-argumen JV
         <translation>Format versi tidak diketahui!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Path kosong</translation>
     </message>
@@ -10717,7 +10717,7 @@ Mohon perbarui %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="261"/>
         <source>Select %1 for download</source>
         <translation>Centang %1 untuk unduhan</translation>
     </message>
@@ -10762,37 +10762,42 @@ Mohon perbarui %1!</translation>
         <translation>Server Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
+        <source>No version available for the selected pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
         <source>Deselect %1 for download</source>
         <translation>Hapus centang %1 untuk unduhan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>No valid version found.</source>
         <translation>Tidak ada versi sesuai ditemukan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="294"/>
         <source>Cannot select invalid version :(</source>
         <translation>Tidak dapat memilih versi tidak sesuai :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="310"/>
         <source>Loading versions...</source>
         <translation>Memuat versi-versi...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="461"/>
         <source>Reinstall</source>
         <translation>Instal Ulang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="462"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="481"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="484"/>
         <source>The resource was not found</source>
         <translation>Sumber daya tidak ditemukan</translation>
     </message>

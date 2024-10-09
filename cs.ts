@@ -5879,8 +5879,8 @@ Důvod:
         <translation>Konec logu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
         <source>Minecraft Log</source>
         <translation>Výpis z Minecraftu</translation>
     </message>
@@ -10878,8 +10878,8 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
         <translation>Neznámá chyba!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
         <source>Empty path</source>
         <translation>Prázná cesta</translation>
     </message>
@@ -11369,7 +11369,7 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="261"/>
         <source>Select %1 for download</source>
         <translation>Vybrat %1 ke stažení</translation>
     </message>
@@ -11414,37 +11414,42 @@ Aktualizujte prosím %1!</translation>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="260"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
+        <source>No version available for the selected pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
         <source>Deselect %1 for download</source>
         <translation>Zrušit vybrání %1 ke stažení</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>No valid version found.</source>
         <translation>Nebyla nalezena platná verze.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="294"/>
         <source>Cannot select invalid version :(</source>
         <translation>Nelze vybrat neplatnou verzi :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="310"/>
         <source>Loading versions...</source>
         <translation>Načítání verzí...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="458"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="461"/>
         <source>Reinstall</source>
         <translation>Přeinstalovat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="459"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="462"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Enter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="481"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="484"/>
         <source>The resource was not found</source>
         <translation>Zdroj nebyl nalezen</translation>
     </message>
