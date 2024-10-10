@@ -52,6 +52,7 @@ jobs:
         run: |
           git clone https://github.com/PrismLauncher/PrismLauncher.git src
 
+          export LCONVERT_BIN="/usr/lib/qt6/bin/lconvert"
           export LUPDATE_BIN="/usr/lib/qt6/bin/lupdate"
 
           ./update.sh
