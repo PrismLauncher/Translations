@@ -881,7 +881,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Tu directorio /tmp está actualmente montado con la flag &apos;noexec&apos; activada.
+Algunas versiones de Minecraft pueden no iniciarse.
+
+Puede resolver este problema volviendo a montar /tmp como &apos;exec&apos; o estableciendo el argumento JVM java.io.tmpdir a un directorio en el que se pueda escribir en un sistema de archivos en el que la flag &apos;exec&apos; esté activada.
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -11433,7 +11437,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay versión disponible para el pack seleccionado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
