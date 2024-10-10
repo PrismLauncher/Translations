@@ -78,17 +78,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic Client ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter a custom GUID client ID for Technic here.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -832,7 +832,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
+Some versions of Minecraft may not launch.
+
+You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -912,7 +916,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">No files were found in the supplied .zip file,</translation>
+        <translation type="unfinished">No files were found in the supplied .zip file.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -3366,14 +3370,14 @@ Please try again.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">No java versions are currently available in the meta.</translation>
+        <translation type="unfinished">No Java versions are currently available in the meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Couldn&apos;t load or download the java version lists!</translation>
+        <translation type="unfinished">Couldn&apos;t load or download the Java version lists!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
@@ -4450,7 +4454,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</translation>
+        <translation type="unfinished">Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6092,7 +6096,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Open the java folder in a file browser. Only available if the built-in Java downloader is used.</translation>
+        <translation type="unfinished">Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -9464,7 +9468,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">Failed to launcher child process &quot;%1 %2&quot;.</translation>
+        <translation type="unfinished">Failed to launch child process &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -9495,7 +9499,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to launch child process to read version.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -10630,7 +10634,7 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>No version available for the selected pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
