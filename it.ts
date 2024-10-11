@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished">ID del Client Technic</translation>
+        <translation>ID del Client Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished">Inserisci un GUID client ID perdonalizzato per Technic</translation>
+        <translation>Inserisci un GUID client ID perdonalizzato per Technic.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -869,7 +869,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>La tua directory /tmp è montata con l&apos;opzione &apos;noexec&apos; abilitata.
+Alcune versioni di Minecraft potrebbero non avviarsi.
+
+Potresti risolvere questo problema montando /tmp come &apos;exec&apos; o impostando l&apos;argomento JVM java.io.tmpdir ad una directory scrivibile in un filesystem con la flag &apos;exec&apos; abilitata (es: /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -921,7 +925,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Estraendo Java</translation>
+        <translation>Estraendo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -949,7 +953,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">Nessun file è stato trovato nel file zip,</translation>
+        <translation>Nessun file è stato trovato nel file zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -1275,7 +1279,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">Abbiamo aggiunto una funzione per scaricare automaticamente la versione di Java corretta per ogni versione di Minecraft (questo può essere cambiato nelle impostazioni di Java). Vuoi abilitare questa funzione?</translation>
+        <translation>Abbiamo aggiunto una funzione per scaricare automaticamente la versione di Java corretta per ogni versione di Minecraft (questo può essere cambiato nelle impostazioni di Java). Vuoi abilitare questa funzione?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -6526,7 +6530,7 @@ Causa:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Apri la cartella di java in un browser di file. Disponibile solo se lo scaricatore predefinito di Java è utilizzato.</translation>
+        <translation>Apri la cartella di java in un browser di file. Disponibile solo se lo scaricatore predefinito di Java è utilizzato.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -8069,7 +8073,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
         <source>Side</source>
-        <translation type="unfinished">Lato</translation>
+        <translation>Lato</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="70"/>
@@ -10140,7 +10144,7 @@ Per sovrascrivere questo blocco e procedere comunque con l&apos;aggiornamento, s
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">Fallito l&apos;avvio del processo figlio “%1 %2”.</translation>
+        <translation>Fallito l&apos;avvio del processo figlio “%1 %2”.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -11325,7 +11329,7 @@ Per favore aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna versione disponibile per il pacchetto selezionato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
@@ -12558,7 +12562,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Collegando il percorso del file binario di Java</translation>
+        <translation>Collegando il percorso del file binario di Java</translation>
     </message>
 </context>
 <context>
