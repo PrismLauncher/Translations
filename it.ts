@@ -1674,7 +1674,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
 <context>
     <name>CreateGameFolders</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="15"/>
+        <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="14"/>
         <source>Couldn&apos;t create the main game folder</source>
         <translation>Impossibile creare la cartella di gioco principale</translation>
     </message>
@@ -2598,7 +2598,7 @@ Sei sicuro di volerlo fare?</translation>
 <context>
     <name>ExtractNatives</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="87"/>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
         <translation>Impossibile estrarre il .jar nativo &apos;%1&apos; nella destinazione &apos;%2&apos;</translation>
     </message>
@@ -5455,30 +5455,30 @@ Concedere l&apos;accesso a %1 con Flatseal è raccomandato.</translation>
 <context>
     <name>LauncherPartLaunch</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="75"/>
         <source>Launcher library could not be found. Please check your installation.</source>
         <translation>Libreria del launcher non trovata. Controlla la tua installazione.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="87"/>
         <source>Legacy launcher library could not be found. Please check your installation.</source>
         <translation>Libreria del launcher legacy non trovata. Per favore controlla la tua installazione.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="137"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="138"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Il comando wrapper &quot;%1&quot; non è stato trovato.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="164"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="165"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Impossibile avviare Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="172"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="185"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="173"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="186"/>
         <source>Game crashed.</source>
         <translation>Gioco chiuso inaspettatamente.</translation>
     </message>
@@ -5855,30 +5855,30 @@ Causa:
 <context>
     <name>LoggedProcess</name>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="95"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="96"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
         <translation>Il processo si è chiuso con codice %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="100"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="101"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
         <translation>Il processo si è chiuso improvvisamente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="102"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process crashed with exitcode %1.</source>
         <translation>Il processo si è chiuso improvvisamente con codice %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="108"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
         <translation>Il processo è stato interrotto dall&apos;utente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start.</source>
         <translation>Il processo non è riuscito ad avviarsi.</translation>
     </message>
