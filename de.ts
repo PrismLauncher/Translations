@@ -790,6 +790,14 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     </message>
 </context>
 <context>
+    <name>AllVersionProxyModel</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
+        <source>All Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Application</name>
     <message>
         <location filename="src/launcher/Application.cpp" line="788"/>
@@ -3093,7 +3101,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 <context>
     <name>FlamePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="77"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="94"/>
         <source>Version selected:</source>
         <translation>Ausgewählte Version:</translation>
     </message>
@@ -3108,84 +3116,89 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>Achtung: CurseForge erlaubt Mod-Autoren den Zugriff auf ihre Inhalte für Drittanbieter-Programme wie Prism Launcher zu verbieten. Daher kann es sein, dass du einige Mods manuell herunterladen musst, um ein Modpack zu installieren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="35"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Suchen und filtern...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
+        <source>Filter</source>
+        <translation type="unfinished">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
         <translation type="vanished">CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
         <translation>Nach Vorgestellt sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
         <translation>Nach Beliebtheit sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>Nach zuletzt aktualisiert sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>Nach Name sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
         <translation>Nach Autor sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
         <translation>Nach Gesamt-Downloads sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="244"/>
         <source>No version is available!</source>
         <translation>Keine Version vorhanden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="232"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="310"/>
         <source> by </source>
         <translation> von </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="315"/>
         <source>External links:</source>
         <translation>Externe Links:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="319"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="321"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="323"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Quellcode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -8079,6 +8092,11 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
         <source>Hide installed items</source>
         <translation>Verstecke installierte Objekte</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
+        <source>All Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ModFolderModel</name>
@@ -8891,18 +8909,18 @@ Bitte aktualisiere PolyMC!</translation>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="361"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>Ein Netzwerkfehler ist aufgetreten. Modpacks konnten nicht geladen werden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="365"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="362"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -9148,21 +9166,26 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Achtung: Modrinth Modpacks sind bisher in der Alpha-Phase. Einige Dinge könnten Fehler aufweisen oder gar nicht funktionieren! Die Nutzung ist mit Vorsicht zu genießen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="17"/>
         <source>Search and filter ...</source>
-        <translation>Suchen und filtern ...</translation>
+        <translation type="vanished">Suchen und filtern ...</translation>
     </message>
     <message>
         <source>Search</source>
         <translation type="vanished">Suchen</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="obsolete">Suchen und filtern...</translation>
+        <translation type="unfinished">Suchen und filtern...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="59"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
+        <source>Filter</source>
+        <translation type="unfinished">Filter</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Version selected:</source>
         <translation>Ausgewählte Version:</translation>
     </message>
@@ -9171,7 +9194,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Mod zum Herunterladen auswählen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation>Nach Relevanz sortieren</translation>
@@ -9181,70 +9204,70 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Nach Downloads sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Follows</source>
         <translation>Nach Follows sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>Nach zuletzt aktualisiert sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation>Nach Erscheinung sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
         <translation>Nach Anzahl Downloads sortieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="188"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
         <source> by </source>
         <translation> von </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Dieses Projekt wurde archiviert. Es wird keine weiteren Updates erhalten, außer der Autor entscheidet sich, es zu de-archivieren.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
         <source>Donate information: </source>
         <translation>Informationen zu Spenden: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
         <source>External links:</source>
         <translation>Externe Links:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleme: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="320"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="322"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Quellcode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="324"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -9265,7 +9288,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation type="vanished">Mod zum Herunterladen abwählen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="64"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
         <source>Modrinth</source>
         <translation>Modrinth</translation>
     </message>

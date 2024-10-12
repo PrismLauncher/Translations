@@ -762,6 +762,14 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     </message>
 </context>
 <context>
+    <name>AllVersionProxyModel</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
+        <source>All Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Application</name>
     <message>
         <location filename="src/launcher/Application.cpp" line="788"/>
@@ -2968,7 +2976,7 @@ Coba ulang lagi.</translation>
 <context>
     <name>FlamePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="77"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="94"/>
         <source>Version selected:</source>
         <translation>Versi yang dipilih:</translation>
     </message>
@@ -2983,84 +2991,89 @@ Coba ulang lagi.</translation>
         <translation>Catatan: CurseForge memungkinkan kreator-kreator untuk memblokir akses ke alat -alat pihak ketiga seperti Prism Launcher. Karena itu, Anda mungkin harus mengunduh beberapa mod secara manual untuk dapat memasang sebuah modpack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="35"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Cari dan filter ...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
+        <source>Filter</source>
+        <translation type="unfinished">Penyaring</translation>
     </message>
     <message>
         <source>CurseForge</source>
         <translation type="vanished">CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
         <translation>Urutkan Berdasarkan Unggulan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="79"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
         <translation>Urutkan Berdasarkan Popularitas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="84"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>Urutkan Berdasarkan Terakhir Diperbarui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="85"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>Urutkan Berdasarkan Nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="86"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
         <translation>Urutkan Berdasarkan Pembuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="87"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
         <translation>Urutkan Berdasarkan Jumlah Unduhan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="226"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="244"/>
         <source>No version is available!</source>
         <translation>Tidak ada versi yang tersedia!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="232"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="310"/>
         <source> by </source>
         <translation> oleh </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="315"/>
         <source>External links:</source>
         <translation>Tautan eksternal:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="319"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Masalah: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="321"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="323"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Kode sumber: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -7651,6 +7664,11 @@ Ini hanya dapat diperbarui menggunakan berkas berformat %1
         <source>Hide installed items</source>
         <translation>Sembunyikan barang-barang terinstal</translation>
     </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
+        <source>All Versions</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ModFolderModel</name>
@@ -8337,18 +8355,18 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="361"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>Sebuah kesalahan jaringan terjadi. Tidak dapat memuat modpack-modpack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="365"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="362"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -8550,95 +8568,104 @@ Mohon perbarui %1!</translation>
         <translation type="vanished">Catatan: Modpack Modrinth masih dalam fase alpha. Beberapa hal mungkin masih kasar, atau sama sekali tidak bekerja! Gunakan dengan berhati-hati.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="17"/>
         <source>Search and filter ...</source>
-        <translation>Cari dan saring ...</translation>
+        <translation type="vanished">Cari dan saring ...</translation>
     </message>
     <message>
         <source>Search</source>
         <translation type="vanished">Cari</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="59"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
+        <source>Search and filter...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
+        <source>Filter</source>
+        <translation type="unfinished">Penyaring</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
         <source>Version selected:</source>
         <translation>Versi yang dipilih:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="80"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation>Urutkan sesuai Relevansi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="82"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="85"/>
         <source>Sort by Follows</source>
         <translation>Urutkan sesuai Jumlah Pengikut</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>Urutkan Berdasarkan Terakhir Diperbarui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="188"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Proyek ini telah di arsipkan. Proyek tidak akan menerima pembaruan lebih lanjut kecuali pembuatnya membatalkan pengarsipannya.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
         <source>Donate information: </source>
         <translation>Informasi penyumbangan: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="314"/>
         <source>External links:</source>
         <translation>Tautan eksternal:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="318"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Masalah-masalah: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="320"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wikipedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="322"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Kode sumber: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="324"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="86"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation>Urutkan berdasarkan Terbaru</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="84"/>
         <source>Sort by Total Downloads</source>
         <translation>Urutkan Berdasarkan Jumlah Unduhan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="292"/>
         <source> by </source>
         <translation> oleh </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="64"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="65"/>
         <source>Modrinth</source>
         <translation>Modrinth</translation>
     </message>
