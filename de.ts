@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Pastebin Dienst</translation>
+        <translation>&amp;Pastebin-Dienst</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -43,7 +43,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Achtung: Wahrscheinlich musst du die Basis-URL ändern oder löschen, nachdem du den Dienst-Type geändert hast.</translation>
+        <translation>Achtung: Wahrscheinlich musst du die Basis-URL ändern oder löschen, nachdem du den Dienst-Typen geändert hast.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -54,12 +54,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoft Authentifizierung</translation>
+        <translation>&amp;Microsoft-Authentifizierung</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Achtung: Wahrscheinlich musst du diese Option nicht ändern, falls die Microsoft Authentifizierung schon funktioniert.</translation>
+        <translation>Achtung: Wahrscheinlich musst du diese Option nicht ändern, falls die Microsoft-Authentifizierung schon funktioniert.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -71,12 +71,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Gib hier eine eigene Client-ID für die Microsoft Authentifizierung ein.</translation>
+        <translation>Gib hier eine eigene Client-ID für die Microsoft-Authentifizierung ein.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation>&amp;Modrinth-API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation>Technic Klient ID</translation>
+        <translation>Technic-Client ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
@@ -118,17 +118,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="350"/>
         <source>User Agent</source>
-        <translation>User Agent</translation>
+        <translation>User-Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Gib hier einen eigenen User Agent ein. Die Zeichenfolge $LAUNCHER_VER wird mit der Version des Launchers ersetzt.</translation>
+        <translation>Gib hier einen eigenen User-Agenten ein. Die Zeichenfolge $LAUNCHER_VER wird mit der Version des Launchers ersetzt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;daten Server</translation>
+        <translation>Meta&amp;daten-Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -148,7 +148,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Kern API</translation>
+        <translation>&amp;CurseForge-Kern-API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
@@ -164,7 +164,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
         <source>APIs</source>
-        <translation>Programmierschnittstellen</translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
@@ -173,7 +173,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="120"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Konnte die Paket-Manifest-Datei nicht interpretieren:
+        <translation>Paketmanifestdatei konnte nicht interpretiert werden:
 </translation>
     </message>
     <message>
@@ -317,7 +317,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ein alternativer Minecraft Launcher, der das Management vereinfacht indem er dir erlaubt, gleichzeitig mehrere Installationen von Minecraft zu verwalten.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ein alternativer Minecraft Launcher, der das Management vereinfacht, indem er dir erlaubt, gleichzeitig mehrere Installationen von Minecraft zu verwalten.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -343,7 +343,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation>Dank an</translation>
+        <translation>Mitwirkende</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
@@ -469,7 +469,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="319"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Weg</translation>
+        <translation>Verschwunden</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
@@ -557,7 +557,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Current status of the account.</source>
-        <translation>Aktueller Status des Kontos.</translation>
+        <translation>Aktueller Kontostatus.</translation>
     </message>
     <message>
         <source>Can this account migrate to a Microsoft account?</source>
@@ -607,7 +607,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation>&amp;Skins bearbeiten</translation>
+        <translation>&amp;Skins verwalten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
@@ -660,7 +660,7 @@ Wenn du neu hier bist, kannst du den &quot;Microsoft-Konto hinzufügen&quot;-Kno
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Keine Client-ID für die Microsoft Authentifizierung festgelegt.</translation>
+        <translation>Keine Client-ID für die Microsoft-Authentifizierung festgelegt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
