@@ -745,7 +745,7 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>All Versions</translation>
     </message>
 </context>
 <context>
@@ -7485,7 +7485,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>All Versions</translation>
     </message>
 </context>
 <context>
