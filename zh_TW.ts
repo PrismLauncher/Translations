@@ -774,7 +774,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>所有版本</translation>
     </message>
 </context>
 <context>
@@ -3080,7 +3080,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>篩選器</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -8064,7 +8064,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>所有版本</translation>
     </message>
 </context>
 <context>
@@ -9140,12 +9140,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">搜尋及篩選…</translation>
+        <translation>搜尋及篩選…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>篩選</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11448,7 +11448,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>所選的資源或光影包沒有可用的版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
@@ -13048,7 +13048,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="147"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>貓出現在背景中且預設不會顯示。牠僅在按下工具列中的「貓」按鈕時才出現。</translation>
+        <translation>貓出現在背景中且預設不會顯示。牠僅在按下工具列中的「貓」按鈕時才會出現。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="126"/>
@@ -13081,7 +13081,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>提示：貓出現在背景中且預設不會顯示。牠僅在按下工具列中的貓按鈕時才出現。</translation>
+        <translation>提示：貓出現在背景中且預設不會顯示。牠僅在按下工具列中的貓按鈕時才會出現。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
