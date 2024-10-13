@@ -1716,19 +1716,19 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <translation>Benu&amp;tzerdefinierte Befehle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
         <translation>&amp;Nach-Beenden-Befehl:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
         <translation>&amp;Vor-Start-Befehl:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
         <translation>&amp;Wrapper-Befehl:</translation>
@@ -3672,12 +3672,12 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <translation>Fehler beim Erstellen einer neuen Instanz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="42"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
         <translation>Entfernen alter, kollidierender Dateien...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>Alte kollidierende Dateien konnten nicht entfernt werden.</translation>
     </message>

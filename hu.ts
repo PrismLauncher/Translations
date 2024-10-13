@@ -1692,19 +1692,19 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <translation>&amp;Egyedi parancsok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
         <translation>Kilépés utáni parancs:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
         <translation>Indítás előtti parancs:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
         <translation>Wrapper parancs:</translation>
@@ -3608,12 +3608,12 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Hiba az új példány létrehozásakor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="42"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
         <translation>Régi ütköző fájlok eltávolítása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>Nem sikerült eltávolítani a régi ütköző fájlokat.</translation>
     </message>

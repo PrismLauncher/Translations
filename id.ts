@@ -1676,19 +1676,19 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <translation>Perintah Kustom (&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
         <translation>Perintah pasca-keluar (&amp;O):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
         <translation>&amp;Perintah pra-luncur:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
         <translation>Perintah pembungkus (&amp;W):</translation>
@@ -3532,12 +3532,12 @@ Coba ulang lagi.</translation>
         <translation>Kesalahan saat membuat instansi baru.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="42"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
         <translation>Menghapus file-file berkonflik lama...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>Gagal menghapus file-file lama yang berkonflik.</translation>
     </message>

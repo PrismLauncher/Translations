@@ -1634,19 +1634,19 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>Koh&amp;andatud käsklused</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
         <translation>Väljumise-järgne käsklus:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
         <translation>Käivituse-eelne käsklus:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
         <translation>Ümbriskäsklus:</translation>
@@ -3532,12 +3532,12 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation>Uue eksemplari loomisel esines viga.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="42"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
         <translation>Vanade konfliktsete failide eemaldamine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>Vanade konfliktsete failide eemaldamine ebaõnnestus.</translation>
     </message>

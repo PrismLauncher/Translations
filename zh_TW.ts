@@ -1692,19 +1692,19 @@ Some versions of Minecraft may not launch.
         <translation>自訂指令 (&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
         <translation>結束後指令 (&amp;O)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
         <translation>預啟動指令 (&amp;P)：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
         <translation>包裝指令 (&amp;W)：</translation>
@@ -3628,12 +3628,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>建立新的實例時發生錯誤。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="42"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
         <translation>正在刪除舊的衝突檔案...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="51"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
         <translation>刪除舊的衝突檔案失敗。</translation>
     </message>
