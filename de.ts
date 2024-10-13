@@ -818,7 +818,7 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation>Bei dieser Installation liegt eine Update-lock-Datei vor bei: %1
+        <translation>Bei dieser Installation liegt eine Update-Sperr-Datei vor : %1
 
 Zeitstempel: %2
 Update von Version %3 zu Version %4
@@ -829,7 +829,7 @@ Dies bedeutet wahrscheinlich, dass ein Updateversuch fehlgeschlagen ist. Bitte v
 %7
 für Details zum letzten Updateversuch.
 
-Um diesen lock zu löschen und fortzufahren, drücke &quot;Ignorieren&quot;.</translation>
+Um diese Sperre zu löschen und fortzufahren, drücke &quot;Ignorieren&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="952"/>
@@ -906,7 +906,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/Application.cpp" line="1054"/>
         <source>Incompatible system configuration</source>
-        <translation>Inkompatible System Konfiguration</translation>
+        <translation>Inkompatible System-Konfiguration</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1405"/>
@@ -1002,7 +1002,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="69"/>
         <source>Failed to read the assets index!</source>
-        <translation>Fehler beim Lesen des Datenindex!</translation>
+        <translation>Fehler beim Lesen des Datenindexes!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -1065,7 +1065,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Share Code verwenden</translation>
+        <translation>Freigabecode verwenden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -1235,12 +1235,12 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Der Mechanismus zur automatischen Erkennung der Java Variante hat ein 32-Bit Java erkannt.</translation>
+        <translation>Der Mechanismus zur automatischen Erkennung der Java-Variante hat ein 32-Bit Java erkannt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="87"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>Es wurde keine kompatible Java-Version gefunden. Die Standard Version wird genutzt.</translation>
+        <translation>Es wurde keine kompatible Java-Version gefunden. Die Standard-Version wird genutzt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="98"/>
@@ -1255,12 +1255,12 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>Kompatible Java gefunden bei: %1.</translation>
+        <translation>Kompatibles Java gefunden bei: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="156"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation>Es wurde keine kompatible Java-Version gefunden (die binäre Datei existiert nicht). Die Standard Version wird verwendet.</translation>
+        <translation>Es wurde keine kompatible Java-Version gefunden (die Binärdatei existiert nicht). Die Standard-Version wird verwendet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
@@ -1280,7 +1280,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation>Es wurde keine kompatible Version von Java gefunden. Die Standard Version wird verwendet.</translation>
+        <translation>Es wurde keine kompatible Version von Java gefunden. Die Standard-Version wird verwendet.</translation>
     </message>
 </context>
 <context>
@@ -1299,7 +1299,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Wir haben eine Funktion für das automatische herunterladen der richtigen Java Version für jede Minecraft Version hinzugefügt (Dies kann in den Java Einstellungen geändert werden). Möchten Sie diese Funktion aktivieren oder deaktivieren?</translation>
+        <translation>Wir haben eine Funktion für das automatische herunterladen der richtigen Java-Version für jede Minecraft-Version hinzugefügt (Dies kann in den Java-Einstellungen geändert werden). Möchten Sie diese Funktion aktivieren oder deaktivieren?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1339,7 +1339,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Gefunden an %1 &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Gefunden bei %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
@@ -1377,7 +1377,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dein konfigurierter globaler Mods-Ordner und der Standard-Download-Ordner werden automatisch auf die heruntergeladenen Mods überprüft und, falls gefunden, in die Instanz kopiert.&lt;/p&gt;&lt;p&gt;Optional kannst du die heruntergeladenen Mods per Drag-and-drop in dieses Dialogfeld ziehen oder einen zu überwachenden Ordner hinzufügen, wenn du die Mods nicht in einen Standardspeicherort heruntergeladen hast.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dein konfigurierter globaler Mods-Ordner und der Standard-Download-Ordner werden automatisch auf die heruntergeladenen Mods überprüft, und, falls gefunden, in die Instanz kopiert.&lt;/p&gt;&lt;p&gt;Optional kannst du die heruntergeladenen Mods per Drag-n-Drop in dieses Dialogfeld ziehen oder einen zu überwachenden Ordner hinzufügen, wenn du die Mods nicht in einen Standardspeicherort heruntergeladen hast.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
