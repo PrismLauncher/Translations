@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: probabli m&apos;għandekx bżonn tissetja dan jekk meta tidħol b&apos;Microsoft Authentication diġa&apos; taħdem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -73,7 +73,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="307"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Xejn)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
@@ -113,7 +113,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Servizzi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -168,22 +168,22 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod ta&apos; installazjoni mhux appoġjata</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Jitħassru fajls eżistenti...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip ta&apos; mod mhux magħruf: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="373"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Falla biex jinsab verżjoni għall-%1 loader</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
@@ -11502,34 +11502,36 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dan il-kont ta&apos; Microsoft m&apos;għandux profil ta&apos; Xbox Live. Ixtri l-logħba fuq %1 l-ewwel.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live mhuwiex disponibbli f&apos;pajjiżek. Inti ġejt ibblukkat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="130"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dan il-kont ta&apos; Microsoft huwa taħt l-età u mhux marbut ma&apos; familja.
+
+Jekk jogħġbok stabbilixxi l-kont tiegħek skont %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dan il-kont ta&apos; Microsoft jirrekjedi prova tal-età biex tilgħab. Jekk jogħġbok idħol f&apos; %1 biex tipprovdi prova tal-età.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dan il-kont ta&apos; Microsoft laħaq il-limitu għall-ħin tal-logħob. Dan il-kont ta&apos; Microsoft ġie bbukkat milli jidħol.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="146"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dan il-kont ta&apos; Microsoft ġie pprojbit minn Xbox talli kiser wieħed jew iktar Standardi tal-Komunità u ma jistax jintuża.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
