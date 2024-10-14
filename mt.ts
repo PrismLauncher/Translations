@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Daħħal ID ta&apos; klijent personalizzat għall-Microsoft Authentication hawn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -62,12 +62,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: Jeħtieġ biss li tissettja dan biex taċċessa d-data privata. Aqra l- &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;dokumentazzjoni &lt;/a&gt;għal iktar informazzjoni.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daħħal token API personalizzat għal Modrinth hawn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -297,58 +297,58 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pjattaforma:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Data tal-Bini:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkommetti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Krediti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Liċenzja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Dwar Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Agħlaq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="140"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dwar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Pjattaforma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkommetti: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
@@ -367,7 +367,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mhux iċċekkjat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
@@ -3389,44 +3389,46 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="455"/>
         <source>Select a Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>Agħżel verżjoni ta&apos; Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="469"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkonferma l-għażla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="470"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inti għażilt verżjoni 32-bit ta&apos; java.
+Din l-installazjoni ma jappoġġjax iktar min 2048MiB ta&apos; RAM.
+Jekk jogħġbok ara li l-ammont massimu ta&apos; memorja huwa iktar baxx.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="481"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Sib executable ta&apos; Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="582"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>L-allokazzjoni massima tal-memorja tiegħek taqbeż il-kapaċità tal-memorja tas-sistema tiegħek.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="585"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>L-allokazzjoni massima tal-memorja tiegħek qed joqrob lejn il-kapaċità tal-memorja tas-sistema tiegħek.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="588"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>L-allokazzjoni massima tal-memorja tiegħek hija iżgħar mill-valur minimu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Issettjar</translation>
     </message>
 </context>
 <context>
@@ -3465,7 +3467,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Għajnuna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
@@ -3485,17 +3487,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Agħlaq</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Oqtol l-istanza li għaddejja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Niedi l-istanza</translation>
     </message>
 </context>
 <context>
@@ -3534,12 +3536,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Niżżel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="278"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="280"/>
@@ -3555,7 +3557,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Niżżel Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="314"/>
@@ -4605,7 +4607,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="132"/>
         <source>Private Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack Privat</translation>
     </message>
 </context>
 <context>
@@ -4613,7 +4615,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
         <source>Public Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakketti Publiċi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
@@ -4675,17 +4677,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="62"/>
         <source>3rd Party</source>
-        <translation type="unfinished"></translation>
+        <translation>Tielet Partit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="89"/>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="108"/>
         <source>Add pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Żid pakkett</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
@@ -11185,7 +11187,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Fittex</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
@@ -11234,54 +11236,54 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="266"/>
         <source>Game Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod tal-logħba</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="268"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>L-aħħar intlgħab</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Qies</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="274"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Informazzjoni</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
         <source>The name of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>L-isem tad-dinja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="284"/>
         <source>Game mode of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod tal-logħba tad-dinja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Data u ħin li d-dinja ntlagħbet l-aħħar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qies tad-dinja fuq id-disk.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazzjoni u tiswijiet dwar id-dinja.</translation>
     </message>
 </context>
 <context>
@@ -11289,42 +11291,42 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="65"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Azzjonijiet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="98"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Żid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingħaqad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="108"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Biddel l-isem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="113"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkopja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="118"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ħassar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="123"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="128"/>
         <source>Copy Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikkopja is-seed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="133"/>
@@ -11359,7 +11361,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="59"/>
         <source>Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Dinji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="145"/>
@@ -11430,23 +11432,26 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Inti ser tħassar &quot;%1&quot;.
+Din id-dinja tista titlaq għal dejjem (ŻMIEN TWIL).
+
+Ċert fuq dan?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
         <source>World name</source>
-        <translation type="unfinished"></translation>
+        <translation>Isem tad-dinja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
         <source>Enter a new name for the copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daħħal isem ġdid għal kopja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="415"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Biddel l-isem tad-dinja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="422"/>
@@ -11544,7 +11549,7 @@ Jekk jogħġbok stabbilixxi l-kont tiegħek skont %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dan il-kont ta&apos; Microsoft għadu ma aċċettax it-Termini tas-Servizz ta&apos; Xbox. Jekk jogħġbok idħol u aċċettahom.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"/>
@@ -11578,7 +11583,7 @@ Jekk jogħġbok stabbilixxi l-kont tiegħek skont %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qiegħed tiddaħħal bħala utent ta&apos; Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
