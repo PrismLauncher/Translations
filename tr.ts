@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Buraya Technic için özel GUID kodunu girin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -782,7 +782,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Sürümler</translation>
     </message>
 </context>
 <context>
@@ -877,7 +877,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senin /tmp klasörün &quot;noexec&quot; bayrağı açık olarak açılmış.
+Bazı Minecraft sürümleri açılmayabilir.
+
+Bu problemi /tmp klasörünü &quot;exec&quot; olarak yeniden açabilir ya da java.io.tmpdir JVM argümanını &quot;exec&quot; bayrağının olduğu düzenlenebilir bir klasör yapabilirsin. (örn : /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -8033,7 +8037,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Sürümler</translation>
     </message>
 </context>
 <context>
