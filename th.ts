@@ -765,7 +765,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>เวอร์ชั่นทั้งหมด</translation>
     </message>
 </context>
 <context>
@@ -2763,7 +2763,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด Mod Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
@@ -2907,7 +2907,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation type="unfinished">ตัวกรอง</translation>
+        <translation>ตัวกรอง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -3891,17 +3891,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="582"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุดของคุณเกินความจุหน่วยความจำของระบบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="585"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุดของคุณใกล้เคียงกับความจุหน่วยความจำของระบบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="588"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุดของคุณมีขนาดเล็กกว่าค่าต่ำสุด</translation>
     </message>
 </context>
 <context>
@@ -3909,12 +3909,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="906"/>
         <source>Could not create staging folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถสร้างโฟลเดอร์สเตจจิ้งได้</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="924"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถยืนยันอินสแตนซ์ได้ แม้จะลองใหม่หลายครั้งแล้วก็ตาม อินสแตนซ์กำลังถูกบล็อกโดยบางสิ่งบางอย่าง</translation>
     </message>
 </context>
 <context>
@@ -3927,7 +3927,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>คลิก &quot;เพิ่มอินสแตนซ์&quot; เพื่อเริ่มต้น</translation>
     </message>
 </context>
 <context>
@@ -3935,7 +3935,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="58"/>
         <source>Console window for </source>
-        <translation type="unfinished"></translation>
+        <translation>หน้าต่างคอนโซลสำหรับ </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="82"/>
@@ -3945,17 +3945,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;เริ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ฆ่า</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="100"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="107"/>
@@ -3969,7 +3969,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดการทำงานของอินสแตนซ์</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -3978,7 +3978,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="91"/>
         <source>Launch the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดตัวอินสแตนซ์</translation>
     </message>
 </context>
 <context>
@@ -3986,7 +3986,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="29"/>
         <source>Listening on port: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังฟังบนพอร์ต: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="35"/>
@@ -3999,7 +3999,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="27"/>
         <source>JVisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM เริ่มต้นแล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="33"/>
@@ -4012,17 +4012,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;รีเฟรช</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="278"/>
         <source>Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>โมแจง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="280"/>
@@ -4038,7 +4038,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
         <source>Install Java</source>
-        <translation type="unfinished">ติดตั้ง Java</translation>
+        <translation>ติดตั้ง Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="314"/>
@@ -4049,7 +4049,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="326"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="331"/>
@@ -4062,7 +4062,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังตรวจจับการติดตั้ง Java...</translation>
     </message>
 </context>
 <context>
@@ -4081,18 +4081,18 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;การจัดสรรหน่วยความจำขั้นต่ำ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุด:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
         <source>&amp;PermGen:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;การคงอยู่ถาวร:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -4112,48 +4112,48 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="218"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>อาร์กิวเมนต์ JVM:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกเวอร์ชัน Java ที่เข้ากันได้กับอินสแตนซ์ Minecraft ปัจจุบันโดยอัตโนมัติโดยอิงจากเวอร์ชันหลักที่ต้องการ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจจับเวอร์ชัน Java โดยอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="275"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;เส้นทาง Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="306"/>
         <source>Automatically downloads and selects the Java version recommended by Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดและเลือกเวอร์ชัน Java ที่ Mojang แนะนำโดยอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด Mojang Java อัตโนมัติ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดการ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดเวอร์ชัน Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
@@ -4185,12 +4185,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>หากเปิดใช้งาน ตัวเรียกใช้งานจะไม่แจ้งให้คุณเลือกเวอร์ชัน Java หากไม่พบเวอร์ชัน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้าม Java และตัวช่วยสร้าง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
@@ -4201,7 +4201,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ข้ามการตรวจสอบความเข้ากันได้ของ Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="58"/>
@@ -4212,13 +4212,13 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีการติดตั้งเวอร์ชัน Java ที่ได้รับการจัดการ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถโหลดรายการ Java ที่จัดการได้!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4235,9 +4235,9 @@ Please make sure that the maximum memory value is lower.</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">คุณเลือกใช้ Java แบบ 32 บิต
+        <translation>คุณเลือกใช้ Java แบบ 32 บิต
 การติดตั้งนี้ไม่สนับสนุนแรมได้มากกว่า 2048MiB
-โปรดตรวจสอบว่าค่าแรมมากที่สุดน้อยกง่านี้</translation>
+โปรดตรวจสอบว่าค่าแรมมากที่สุดน้อยกว่านี้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="175"/>
@@ -4247,17 +4247,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="234"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุดของคุณเกินความจุหน่วยความจำของระบบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="237"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุดของคุณใกล้เคียงกับความจุหน่วยความจำของระบบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="240"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุดของคุณมีขนาดเล็กกว่าค่าต่ำสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="266"/>
@@ -4268,7 +4268,8 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณกำลังจะลบการติดตั้ง Java ชื่อ &quot;%1&quot;
+คุณแน่ใจหรือไม่?</translation>
     </message>
 </context>
 <context>
@@ -4276,17 +4277,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="243"/>
         <source>No Java version selected</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ได้เลือกเวอร์ชัน Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">ดวโหลด Java</translation>
+        <translation>ดาวน์โหลด Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
         <source>32-bit Java detected</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจพบ Java 32 บิต</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="233"/>
@@ -4296,7 +4297,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>คุณเลือกการติดตั้ง Java แบบ 32 บิต แต่จัดสรรหน่วยความจำสูงสุดมากกว่า 2,048 MiB
+%1 จะไม่สามารถเริ่ม Minecraft ได้
+คุณต้องการดำเนินการต่อหรือไม่
+
+คุณสามารถเปลี่ยนเวอร์ชัน Java ได้ในการตั้งค่าภายหลัง
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="244"/>
@@ -4306,7 +4312,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>คุณไม่ได้เลือกเวอร์ชัน Java หรือเลือกเวอร์ชันที่ไม่ทำงาน
+%1 จะไม่สามารถเริ่ม Minecraft ได้
+คุณต้องการดำเนินการต่อโดยไม่มีเวอร์ชัน Java ที่ใช้งานได้ใช่หรือไม่
+
+คุณสามารถเปลี่ยนเวอร์ชัน Java ได้ในการตั้งค่าภายหลัง
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="353"/>
@@ -4351,37 +4362,37 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลด Mojang Java อัตโนมัติ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="505"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจจับเวอร์ชัน Java โดยอัตโนมัติ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจจับ Java อัตโนมัติ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุดของคุณเกินความจุหน่วยความจำของระบบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุดของคุณใกล้เคียงกับความจุหน่วยความจำของระบบ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="521"/>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>การจัดสรรหน่วยความจำสูงสุดของคุณใกล้เคียงกับความจุหน่วยความจำของระบบของคุณ การจัดสรรหน่วยความจำสูงสุดของคุณมีขนาดเล็กกว่าค่าต่ำสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณกำลังเกินขีดจำกัดการจัดสรรสูงสุดที่ได้รับการรองรับโดยการติดตั้ง Java 32 บิต</translation>
     </message>
 </context>
 <context>
@@ -4395,7 +4406,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>กรุณาเลือกจำนวนหน่วยความจำที่ต้องการจัดสรรให้กับอินสแตนซ์ และต้องการให้ Prism Launcher จัดการ Java โดยอัตโนมัติหรือด้วยตนเอง</translation>
     </message>
 </context>
 <context>
@@ -4411,12 +4422,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่เห็นภาษาของคุณหรือคุณภาพไม่ดีใช่ไหม?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;ช่วยเราเรื่องการแปลด้วย!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้ตำแหน่งที่ตั้งของระบบ</translation>
     </message>
 </context>
 <context>
@@ -4429,7 +4440,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกภาษาที่จะใช้ใน %1</translation>
     </message>
 </context>
 <context>
@@ -4437,12 +4448,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="69"/>
         <source>No instance specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ได้ระบุอินสแตนซ์!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="74"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>ระบุอาร์กิวเมนต์ Java ไม่ถูกต้อง โปรดแก้ไขปัญหานี้ก่อน</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="91"/>
@@ -4458,42 +4469,42 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="118"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณต้องการใช้บัญชีใด?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="190"/>
         <source>No account selected for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ได้เลือกบัญชีสำหรับการเปิดตัว</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="208"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>ดำเนินการเปิดตัวรันหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="209"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูเหมือนว่าเราจะไม่สามารถเปิดตัวได้หลังจากพยายามไปแล้ว %1 ครั้ง คุณต้องการลองต่อหรือไม่</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="159"/>
         <source>Player name</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อผู้เล่น</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="152"/>
         <source>Choose your offline mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกชื่อผู้เล่นโหมดออฟไลน์ของคุณ</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="154"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกชื่อผู้เล่นโหมดสาธิตของคุณ</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
         <source>Received undetermined session status during login.</source>
-        <translation type="unfinished"></translation>
+        <translation>ได้รับสถานะเซสชั่นที่ไม่ชัดเจนในระหว่างการเข้าสู่ระบบ</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="136"/>
@@ -4506,12 +4517,15 @@ You can change the Java version in the settings later.
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีนี้ไม่ได้เป็นเจ้าของ Minecraft
+คุณต้องซื้อเกมก่อนจึงจะเล่นได้
+
+คุณต้องการเล่นเดโมหรือไม่</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="141"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นเดโม</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="142"/>
@@ -4521,22 +4535,22 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="268"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>การเริ่มถูกยกเลิก - บัญชีไม่ได้เป็นเจ้าของ Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="283"/>
         <source>Play Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>เล่นแบบออฟไลน์</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="290"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีหมดอายุแล้วและต้องเข้าสู่ระบบด้วยตนเองอีกครั้ง</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="291"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>การรีเฟรชบัญชีล้มเหลว</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="297"/>
@@ -4546,7 +4560,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="298"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนการระบุตัวตนแล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="305"/>
@@ -4556,39 +4570,39 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="307"/>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีหายไป</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>Failed to launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเริ่มได้</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="323"/>
         <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>ข้อผิดพลาด!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="323"/>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถโหลดโปรไฟล์อินสแตนซ์ได้</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="330"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถสร้างอินสแตนซ์ตัวเรียกใช้งานได้</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="380"/>
         <source>Profiler check for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>การตรวจสอบโปรไฟเลอร์สำหรับ %1 ล้มเหลว: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="393"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;เริ่ม</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="387"/>
