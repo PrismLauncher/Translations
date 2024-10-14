@@ -163,12 +163,12 @@
             "untranslated" : 3
         },
         "es_UY" : {
-            "file" : "6480272e06fc7ba989cb3fa6b069eaab7a4361f9.class",
-            "sha1" : "6480272e06fc7ba989cb3fa6b069eaab7a4361f9",
-            "size" : 254819,
-            "translated" : 1568,
-            "fuzzy" : 155,
-            "untranslated" : 347
+            "file" : "9c775aa71d94c88e65ef43b345d040ee01882862.class",
+            "sha1" : "9c775aa71d94c88e65ef43b345d040ee01882862",
+            "size" : 267960,
+            "translated" : 1639,
+            "fuzzy" : 144,
+            "untranslated" : 287
         },
         "et" : {
             "file" : "d463a0679d5e395e0ea86f126db3c79e1ccc5f11.class",
@@ -427,12 +427,12 @@
             "untranslated" : 568
         },
         "mt" : {
-            "file" : "316efb292584cf282c57180bb4ccc2aaddf7133b.class",
-            "sha1" : "316efb292584cf282c57180bb4ccc2aaddf7133b",
-            "size" : 3252,
-            "translated" : 13,
-            "fuzzy" : 0,
-            "untranslated" : 2057
+            "file" : "5f64ae96606bbbadb93dd4c6064754d751256c28.class",
+            "sha1" : "5f64ae96606bbbadb93dd4c6064754d751256c28",
+            "size" : 10854,
+            "translated" : 74,
+            "fuzzy" : 1,
+            "untranslated" : 1995
         },
         "nan" : {
             "file" : "4c8e9cc695e1be2d43ac82dc8ccc9a786ad014e6.class",
@@ -587,12 +587,12 @@
             "untranslated" : 834
         },
         "tr" : {
-            "file" : "9207ff6039c7b2fcaab01ad0681c3f9680d3b10b.class",
-            "sha1" : "9207ff6039c7b2fcaab01ad0681c3f9680d3b10b",
-            "size" : 294317,
-            "translated" : 2039,
-            "fuzzy" : 17,
-            "untranslated" : 14
+            "file" : "aaa8f7ef209ba468dafacd3a3aebdc6d176fff54.class",
+            "sha1" : "aaa8f7ef209ba468dafacd3a3aebdc6d176fff54",
+            "size" : 295579,
+            "translated" : 2041,
+            "fuzzy" : 19,
+            "untranslated" : 10
         },
         "uk" : {
             "file" : "5fe6e9eeb1b53dc76a207c45b45eb7de8a97a534.class",
