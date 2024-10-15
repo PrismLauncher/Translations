@@ -9290,17 +9290,17 @@ Stderr: %2</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="232"/>
         <source>Allow updating to pre-release releases</source>
-        <translation type="unfinished">Permitir actualizar las versiones anteriores a la liberación</translation>
+        <translation>Permitir actualizar a versiones preliminares</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="233"/>
         <source>Force an update, even if one is not needed.</source>
-        <translation type="unfinished">Forzar una actualización, incluso si uno no es necesario.</translation>
+        <translation>Forzar una actualización, incluso si no es necesario.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
         <source>List available releases.</source>
-        <translation type="unfinished">Lista de lanzamientos disponibles.</translation>
+        <translation>Lista de versiones disponibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="235"/>
