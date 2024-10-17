@@ -11530,17 +11530,17 @@ Zaktualizuj %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Żadna wersja nie jest dostępna dla wybranej paczki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
         <source>Deselect %1 for download</source>
-        <translation>Odznacz %1 do pobrania</translation>
+        <translation>Odznacz, aby nie pobrać %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="293"/>
         <source>No valid version found.</source>
-        <translation>Nie znaleziono poprawnej wersji.</translation>
+        <translation>Nie znaleziono prawidłowej wersji.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="294"/>
@@ -11555,12 +11555,12 @@ Zaktualizuj %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="461"/>
         <source>Reinstall</source>
-        <translation>Zainstaluj ponownie</translation>
+        <translation>Przeinstaluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="462"/>
         <source>Ctrl+Return</source>
-        <translation>Ctrl+Enter</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="484"/>
@@ -11586,7 +11586,7 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>paczki shaderów</translation>
+        <translation>pakiety shaderów</translation>
     </message>
 </context>
 <context>
@@ -11595,7 +11595,7 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="35"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation>paczki shaderów</translation>
+        <translation>pakiety shaderów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
@@ -11610,7 +11610,7 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="145"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>paczki zasobów</translation>
+        <translation>pakiety tekstur</translation>
     </message>
 </context>
 <context>
@@ -11619,7 +11619,7 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="37"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation>paczki zasobów</translation>
+        <translation>pakiety tekstur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
