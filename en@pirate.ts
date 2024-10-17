@@ -1428,7 +1428,7 @@ Are ye sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished">External ship outfitters (leave empty for ship&apos;s included)</translation>
+        <translation>External ship outfitters (leave empty for ship&apos;s included one)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
@@ -1520,12 +1520,12 @@ Are ye sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
         <source>JSON Editor</source>
-        <translation type="unfinished">Jason&apos;s Educator</translation>
+        <translation>Jason&apos;s Educator</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
         <source>Invalid</source>
-        <translation type="unfinished">Drunken option</translation>
+        <translation>Drunken output</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
@@ -1566,7 +1566,7 @@ Are ye sure?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Blundered afixin FML book to the ship.</translation>
+        <translation>Blundered afixin FML book to the ship.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
