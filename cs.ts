@@ -4752,7 +4752,7 @@ Vyberte prosím jedno z následujících nebo vyberte spustitelný soubor Java.<
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Nevidíte svůj jazyk nebo jeho kvalita je špatná?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Pomozte nám s překladem!&lt;/a&gt;</translation>
+        <translation>Nevidíte svůj jazyk nebo je jeho kvalita špatná?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Pomozte nám s překladem!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
@@ -13110,7 +13110,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="394"/>
         <source>Completeness</source>
-        <translation>Dokončenost</translation>
+        <translation>Úplnost</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
@@ -13120,7 +13120,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation>Dokončenost je procento plně přeložených řetězců, automaticky uhodnuté řetězce nejsou připočítané k tomuto procentu.</translation>
+        <translation>Úplnost je procento plně přeložených řetězců; automaticky uhodnuté řetězce nejsou k tomuto procentu připočítané.</translation>
     </message>
 </context>
 <context>
