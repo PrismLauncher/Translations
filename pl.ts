@@ -790,7 +790,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie Wersje</translation>
     </message>
 </context>
 <context>
@@ -941,7 +941,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Rozpakowywanie Java</translation>
+        <translation>Rozpakowywanie Java&apos;y</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1295,7 +1295,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">Dodaliśmy funkcję automatycznego pobierania wymaganej wersji Javy dla każdej wersji gry (może być potem zmieniona w ustawieniach). Czy chcesz włączyć lub wyłączyć tą funkcję?</translation>
+        <translation>Dodaliśmy funkcję automatycznego pobierania poprawnej wersji Javy dla każdej wersji Minecrafta (to może być zmienione w ustawieniach Java&apos;y). Chcesz włączyć, czy wyłączyć tę funkcję?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3116,7 +3116,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtr</translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -3552,20 +3552,20 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Brak dostępnych wersji Javy.</translation>
+        <translation>Brak dostępnych wersji Java&apos;y obecnie w meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Listy wersji Javy nie mogły zostać załadowane lub pobrane!</translation>
+        <translation>Nie można załadować albo pobrać listy wersji Java&apos;y!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Żadna wersja Javy nie jest obecnie dostępna dla twojego systemu operacyjnego.</translation>
+        <translation>Żadna wersja Java&apos;y nie jest obecnie dostępna dla twojego systemu operacyjnego.</translation>
     </message>
 </context>
 <context>
@@ -4554,13 +4554,13 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Brak zainstalowanych zarządzanych wersji Javy</translation>
+        <translation>Brak zainstalowanych zarządzanych wersji Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Nie udało się załadować listy zarządzanych instalacji Javy!</translation>
+        <translation>Nie można załadować listy zarządzanych instalacji Java&apos;y!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4774,7 +4774,7 @@ Możesz później zmienić wersję Javy w ustawieniach.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Podaj maksymalną ilość pamięci która ma być przydzielona do instancji i czy Prism Launcher powinien automatycznie zarządzać instalacjami Javy.</translation>
+        <translation>Proszę wybrać ile pamięci ma zostać przydzielone do poszczególnych instancji Java&apos;y i czy Prism Launcher ma zarządzać Javą automatycznie czy ręcznie.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6631,7 +6631,7 @@ Powód:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Otwórz folder instalacji Javy w przeglądarce plików. Opcja dostępna tylko, gdy używany jest wbudowany menedżer instalacji Javy.</translation>
+        <translation>Otwórz folder instalacji Java&apos;y w przeglądarce. Opcja dostępna jest tylko wtedy, gdy używany jest wbudowany menedżer instalacji Java&apos;y.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -8127,7 +8127,7 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie Wersje</translation>
     </message>
 </context>
 <context>
@@ -9190,7 +9190,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtr</translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -10336,7 +10336,7 @@ By zastąpić tą blokadę i kontynuować z aktualizacją mimo to, zaznacz &quot
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">Błąd podczas uruchamiania procesu podrzędnego &quot;%1 %2&quot;.</translation>
+        <translation>Nie udało się uruchomić procesu podrzędnego &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -14020,13 +14020,13 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">Alternatywna nazwa wersji Javy</translation>
+        <translation>Alternatywna nazwa wersji Java&apos;y</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">Główna wersja Javy</translation>
+        <translation type="unfinished">Główna wersja Java&apos;y</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
