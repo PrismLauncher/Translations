@@ -4027,12 +4027,12 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="280"/>
         <source>Adoptium</source>
-        <translation type="unfinished"></translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="282"/>
         <source>Azul Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
@@ -4614,7 +4614,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Waiting.</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังรอ</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -4638,12 +4638,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="440"/>
         <source>Kill Minecraft?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ปิด Minecraft?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">อาจทำให้โปรแกรมขัดข้อง ควรใช้ต่อเมื่อ Minecraft ค้างเท่านั้น</translation>
     </message>
 </context>
 <context>
