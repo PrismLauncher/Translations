@@ -1480,7 +1480,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
         <source>Executing 1 task:</source>
-        <translation>正在執行一項任務：</translation>
+        <translation>正在執行 1 項任務：</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="236"/>
@@ -7302,7 +7302,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1625"/>
         <source>Created a shortcut to this instance!</source>
-        <translation>為這個實例建立一個快速鍵！</translation>
+        <translation>為這個實例建立一個捷徑！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
@@ -7322,7 +7322,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1734"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>出現一個問題： &lt;br/&gt; - 啟動器很有可能在未被警告的情況下遭到作業系統刪除 &lt;br/&gt; - 現在請關閉啟動器並將其解壓縮至實際存在的位置，而不是臨時的資料夾</translation>
+        <translation>發生一個問題： &lt;br/&gt; - 啟動器很有可能在未被警告的情況下遭到作業系統刪除 &lt;br/&gt; - 現在請關閉啟動器並將其解壓縮至實際存在的位置，而不是臨時的資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
@@ -10350,7 +10350,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
 Choose your name carefully:</source>
         <translation>只要再一步就可以用這個帳號玩 Minecraft 了。
 
-謹慎選擇您的名字：</translation>
+謹慎選擇您的名稱：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="121"/>
