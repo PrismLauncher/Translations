@@ -941,7 +941,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Extraction de Java</translation>
+        <translation>Extraction de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1261,7 +1261,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Impossible de déterminer le type de téléchargement de Java&#x202f;!</translation>
+        <translation>Impossible de déterminer le type de téléchargement de Java&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
@@ -1289,13 +1289,13 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Alerte! Nouvelle fonctionnalité!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size&#xa0;:14pt&#x202f;; font-weight&#xa0;:600&#x202f;;&quot;&gt;Alerte&#x202f;! Nouvelle fonctionnalité&#x202f;!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">Nous avons ajouté une fonctionnalité qui permet de télécharger automatiquement la bonne version de Java pour chaque version de Minecraft (cela peut être modifié dans les paramètres de Java). Souhaitez-vous activer ou désactiver cette fonction&#x202f;?</translation>
+        <translation>Nous avons ajouté une fonctionnalité qui permet de télécharger automatiquement la bonne version de Java pour chaque version de Minecraft (cela peut être modifié dans les paramètres de Java). Souhaitez-vous activer ou désactiver cette fonctionnalité &#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3096,7 +3096,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtre</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -3532,20 +3532,20 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Aucune versions de Java n&apos;est actuellement disponible dans le système.</translation>
+        <translation>Aucune version de Java n&apos;est actuellement disponible dans le système.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Les listes de version Java n&apos;ont pas pu être chargées ou téléchargées&#x202f;!</translation>
+        <translation>Les listes de version de Java n&apos;ont pas pu être chargées ou téléchargées&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Aucune version de Java n&apos;est actuellement disponible pour votre système d&apos;exploitation.</translation>
+        <translation>Aucune version de Java n&apos;est actuellement disponible pour votre système d&apos;exploitation.</translation>
     </message>
 </context>
 <context>
@@ -4360,7 +4360,7 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="314"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Impossible de déterminer le type de téléchargement de Java&#x202f;!</translation>
+        <translation>Impossible de déterminer le type de téléchargement de Java&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
@@ -4470,7 +4470,7 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
         <source>Download</source>
-        <translation type="unfinished">Télécharger</translation>
+        <translation>Télécharger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
@@ -4648,7 +4648,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n&apos;avez sélectionné aucune version de Java ou bien une version qui ne fonctionne pas.
+%1 ne pourra pas démarrer Minecraft.
+Voulez-vous continuer sans une version fonctionnelle de Java?
+
+Vous pourrez changer la version de Java dans les paramètres plus tard.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="353"/>
@@ -4693,17 +4698,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Télécharger automatiquement Mojang Java</translation>
+        <translation>Téléchargement automatique de Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="505"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished">Détecter automatiquement la version de Java</translation>
+        <translation>Détecter automatiquement la version de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="506"/>
         <source>Autodetect Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Détecter automatiquement Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="515"/>
@@ -4723,7 +4728,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="527"/>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous dépassez l&apos;allocation maximale supportée par les installations 32-bits de Java.</translation>
     </message>
 </context>
 <context>
@@ -4737,7 +4742,7 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la mémoire à allouer aux instances et si Prism Launcher devrait gérer Java automatiquement ou manuellement.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5302,7 +5307,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Java&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -5444,7 +5449,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
@@ -5454,27 +5459,27 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERREUR] OOoooOOOoooo&#x202f;! Une erreur effrayante&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERREUR] Une erreur effrayante&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/AVERTISSEMENT] Une erreur pas si effrayante.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/DEBUG] Un message de débugage secret...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/FATAL] Une erreur fatale terrifiante&#x202f;!</translation>
     </message>
     <message>
         <source>[Something/ERROR] A spooky error!</source>
@@ -5963,17 +5968,17 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size&#xa0;:14pt&#x202f;; font-weight&#xa0;:600&#x202f;;&quot;&gt;Ajouter un compte Microsoft&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour pouvoir jouer à Minecraft, vous devez avoir au moins un compte Microsoft enregistré. Voulez-vous vous connecter maintenant&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un compte Microsoft</translation>
     </message>
 </context>
 <context>
@@ -6506,7 +6511,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="577"/>
         <source>&amp;Central Mods</source>
-        <translation>&amp;Central Mods</translation>
+        <translation type="unfinished">&amp;Central Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
@@ -6587,7 +6592,7 @@ Raison&#xa0;:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ouvre le dossier de Java dans un explorateur de fichiers. Disponible seulement si le téléchargeur de Java intégré est utilisé.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
@@ -7511,7 +7516,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="121"/>
         <source>Loading local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du fichier local</translation>
     </message>
 </context>
 <context>
@@ -7525,7 +7530,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
         <source>Load meta for %1:%2</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chargement de la meta pour %1:%2</translation>
     </message>
 </context>
 <context>
@@ -7534,7 +7539,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
         <location filename="src/launcher/meta/VersionList.cpp" line="38"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chargement de la meta pour %1</translation>
     </message>
 </context>
 <context>
@@ -8076,7 +8081,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished">Toutes les Versions</translation>
+        <translation>Toutes les Versions</translation>
     </message>
 </context>
 <context>
@@ -8200,7 +8205,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="215"/>
         <source>On what environment the mod is running.</source>
-        <translation>L&apos;environnement dans lequel le mod fonctionne.</translation>
+        <translation>L&apos;environnement dans lequel le mod s’exécute.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="217"/>
@@ -9132,12 +9137,12 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Rechercher et filtrer...</translation>
+        <translation>Rechercher et filtrer...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtre</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -10263,7 +10268,7 @@ Pour passer outre ce verrouillage et procéder quand même à cette mise à jour
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation type="unfinished">Échec du lancement du processus fils &quot;%1 %2&quot;.</translation>
+        <translation>Échec du lancement du processus enfant &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -10294,7 +10299,7 @@ Pour passer outre ce verrouillage et procéder quand même à cette mise à jour
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur au lancement du processus enfant pour lire la version.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -11075,7 +11080,7 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
         <source>data pack</source>
-        <translation>data pack</translation>
+        <translation>pack de données</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
@@ -11188,37 +11193,37 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune version compatible de %1 trouvée pour %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de liste de versions dans l&apos;index des métadonnées pour %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 manque des dépendances %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, une dépendance de ce composant, a signalé des problèmes</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, une dépendance de ce composant, n&apos;est pas la version requise %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, une dépendance de ce composant, n&apos;est pas la version recommandée %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 and %2 ne fonctionnent pas ensemble. Il est recommandé d&apos;en supprimer un des deux.</translation>
     </message>
 </context>
 <context>
@@ -11407,7 +11412,7 @@ Veuillez mettre à jour %1&#xa0;!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="106"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="261"/>
         <source>Select %1 for download</source>
-        <translation>Sélectionner le %1</translation>
+        <translation>Choisir le %1 pour le téléchargement</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="205"/>
@@ -11452,7 +11457,7 @@ Veuillez mettre à jour %1&#xa0;!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune version disponible pour le pack sélectionné</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
@@ -12442,7 +12447,7 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="244"/>
         <source>Skin file does not exist!</source>
-        <translation>Le fichier du Skin n&apos;existe pas!</translation>
+        <translation>Le fichier du skin n&apos;existe pas!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="258"/>
@@ -12462,7 +12467,7 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="273"/>
         <source>Failed to delete current skin!</source>
-        <translation>Le Skin n’a pas pu être supprimé!</translation>
+        <translation>Le skin actuel n’a pas pu être supprimé!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="282"/>
@@ -12514,7 +12519,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="363"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation>Impossible de télécharger le Skin: &apos;%1&apos;.</translation>
+        <translation>Impossible de télécharger le skin: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="409"/>
@@ -12665,27 +12670,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérification de l&apos;emplacement binaire de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Recherche de l&apos;emplacement binaire de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de trouver le chemin binaire de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Collection des dossiers pour le lien symbolique</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Liaison symbolique vers l&apos;emplacement binaire de Java</translation>
     </message>
 </context>
 <context>
@@ -12693,7 +12698,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">Tâche Interrompue.</translation>
+        <translation>Tâche interrompue.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
@@ -13329,7 +13334,9 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;allocation de mémoire maximale dépasse la valeur supportée.
+L&apos;installation sélectionnée de Java est de 32-bit et ne supporte pas plus de 2048MiB de RAM.
+L&apos;instance pourrait ne pas démarrer à cause de cela.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -13894,12 +13901,12 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version principale</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
@@ -13940,13 +13947,13 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Le nom alternatif de la version de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>La version principale de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
