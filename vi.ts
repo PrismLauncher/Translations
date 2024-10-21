@@ -4208,7 +4208,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="288"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="319"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cài đặt Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="314"/>
@@ -7663,7 +7663,7 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tất cả phiên bản</translation>
     </message>
 </context>
 <context>
