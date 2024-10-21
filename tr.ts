@@ -91,12 +91,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Not: Sadece özel verilere erişmek için bunu ayarlamanız yeterlidir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished">Buraya Technic için özel GUID kodunu girin</translation>
+        <translation>Buraya Technic için özel GUID kodunu girin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -933,7 +933,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Java ayıklanıyor</translation>
+        <translation>Java ayıklanıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -961,7 +961,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">Sağlanan zip dosyasında hiçbir dosya bulunamadı,</translation>
+        <translation>Sağlanan ZIP dosyasında hiçbir dosya bulunamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -1258,7 +1258,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished">Java Yükle</translation>
+        <translation>Java&apos;yı Yükle</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
@@ -1287,7 +1287,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">Minecraft&apos;ın her sürümü için doğru Java versiyonunu otomatik olarak indirecek bir özellik ekledik (Bunu Java ayarlarından değiştirebilirsin). Bu özeliği kapatmak veya açmak ister misin?</translation>
+        <translation>Minecraft&apos;ın her sürümü için doğru Java versiyonunu otomatik olarak indirecek bir özellik ekledik (Bunu Java ayarlarından değiştirebilirsin). Bu özeliği kapatmak veya açmak ister misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3079,7 +3079,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtre</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -3511,20 +3511,20 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Metada şu an herhangi bir java sürümü mevcut değil.</translation>
+        <translation>Metada şu an herhangi bir Java sürümü mevcut değil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Java sürüm listeleri yüklenemedi veya indirilemedi!</translation>
+        <translation>Java sürüm listeleri yüklenemedi veya indirilemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">İşletim sisteminiz için şu anda hiçbir java sürümü mevcut değil.</translation>
+        <translation>İşletim sisteminiz için şu anda hiçbir Java sürümü mevcut değil.</translation>
     </message>
 </context>
 <context>
@@ -4499,13 +4499,13 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Hiçbir yönetilen java sürümü yüklü değil</translation>
+        <translation>Hiçbir yönetilen Java sürümü yüklü değil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Yönetilen java listesi yüklenemedi!</translation>
+        <translation>Yönetilen Java listesi yüklenemedi!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -4719,7 +4719,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Lütfen Minecraft&apos;a ne kadar bellek ayırılacağını seçin ve Prism Launcher&apos;ın Java&apos;yı otomatik mi yoksa manuel mi yönetmesi gerektiğini belirleyin.</translation>
+        <translation>Lütfen Minecraft&apos;a ne kadar bellek ayırılacağını seçin ve Prism Launcher&apos;ın Java&apos;yı otomatik mi yoksa manuel mi yönetmesi gerektiğini belirleyin.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6338,13 +6338,13 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dosya gezgininde Java klasörünü açın. Yalnızca yüklü Java yükleyicisi kullanılırsa erişilebilir.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9078,12 +9078,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Ara ve filtrele...</translation>
+        <translation>Ara ve filtrele...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtre</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11382,7 +11382,7 @@ Lütfen %1&apos;i güncelleyin!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seçili paket için hiçbir sürüm mevcut değil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
