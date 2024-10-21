@@ -1460,7 +1460,7 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="227"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>Vykonávání %1 úloh(y) (dokončeno %2 z %3)</translation>
+        <translation>Vykonávání %1 úloh (dokončeno %2 z %3)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
