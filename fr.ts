@@ -1246,7 +1246,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="106"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vos métadonnées sont obsolètes ou ne possèdent pas les informations nécessaires afin de déterminer quelle installation de Java devrait être utilisée. Le chemin Java par défaut sera utilisé.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
