@@ -1926,7 +1926,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>Vie pelipaketti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="131"/>
         <source>Export %1</source>
         <translation>Vie %1</translation>
     </message>
@@ -1939,18 +1939,18 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation type="vanished">Tämä tiedosto on jo olemassa. Haluatko korvata sen?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Error</source>
         <translation>Virhe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="143"/>
         <source>Unable to export instance</source>
         <translation>Peliversiota ei voida viedä</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="155"/>
         <source>Abort</source>
         <translation>Keskeytä</translation>
     </message>

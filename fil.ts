@@ -1896,23 +1896,23 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
         <translation>I-impake ang Instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="131"/>
         <source>Export %1</source>
         <translation>I-impake ang %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Error</source>
         <translation>Mali</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="143"/>
         <source>Unable to export instance</source>
         <translation>Hindi ma-impake ang instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="155"/>
         <source>Abort</source>
         <translation>I-pigil</translation>
     </message>

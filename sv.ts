@@ -1971,7 +1971,7 @@ Vissa versioner av Minecraft kanske inte startar.
         <translation>Exportera instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="131"/>
         <source>Export %1</source>
         <translation>Exportera %1</translation>
     </message>
@@ -1984,18 +1984,18 @@ Vissa versioner av Minecraft kanske inte startar.
         <translation type="vanished">Det existerar redan en fil med samma namn. Vill du skriva över den?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="143"/>
         <source>Unable to export instance</source>
         <translation>Kunde inte exportera instansen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="155"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>

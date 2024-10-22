@@ -1987,7 +1987,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
         <translation>Esporta istanza</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="131"/>
         <source>Export %1</source>
         <translation>Esporta %1</translation>
     </message>
@@ -2000,18 +2000,18 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
         <translation type="vanished">Questo file esiste già. Vuoi sovrascriverlo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="143"/>
         <source>Unable to export instance</source>
         <translation>Impossibile esportare l&apos;istanza</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="155"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>

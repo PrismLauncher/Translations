@@ -1995,7 +1995,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <translation>Profili Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="131"/>
         <source>Export %1</source>
         <translation>Dışa Aktar: %1</translation>
     </message>
@@ -2008,18 +2008,18 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
         <translation type="vanished">Bu dosya zaten var. Üstüne yazmak istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="152"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="144"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="143"/>
         <source>Unable to export instance</source>
         <translation>Profil dışa aktarılamıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="155"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
