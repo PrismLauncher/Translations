@@ -4959,7 +4959,7 @@ Szeretnél játszani a demóval?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>Ez okozhatja a példány sérülését, és csak akkor használható fel, ha a Minecraft valamilyen okból megfagyott</translation>
+        <translation>Ez a példány sérülését okozhatja, és csak akkor szabad használni, ha a Minecraft valamilyen okból kifolyólag lefagyott</translation>
     </message>
 </context>
 <context>
@@ -7115,7 +7115,7 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
         <translation>A(z) &quot;%1&quot; példány törlésére készülsz.
-Ez végleges lehet, és teljesen törölheti a példányt.
+Ez végleges lehet, és teljesen törli a példányt.
 
 Biztos vagy ebben?</translation>
     </message>
@@ -11930,7 +11930,7 @@ This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
         <translation>A kiválasztott képernyőkép törlésére készül.
-Ez lehet végleges, és a képernyőkép el fog tűnni a mappából.
+Ez végleges lehet, és a képernyőkép el fog tűnni a mappából.
 
 Biztos vagy ebben?</translation>
     </message>
