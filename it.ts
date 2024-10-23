@@ -4695,7 +4695,7 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Per favore seleziona quanta memoria vuoi allocare alle instanze e se Prism Launcher dovrebbe gestire Java automaticamente o manualmente.</translation>
+        <translation>Per favore seleziona quanta memoria vuoi allocare alle istanze e se Prism Launcher dovrebbe gestire Java automaticamente o manualmente.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
