@@ -1670,7 +1670,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Our overrides be missin&apos;. &apos;Ave ye used this modpack before?</translation>
+        <translation>Aur&apos; override Bookshelf be missin&apos; (%1). &apos;Ave ye used this bookshelf before?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
@@ -1680,7 +1680,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="322"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mysterious trailin&apos; gunholes gon&apos; from Minecraft version while addin&apos; bookshelf.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
@@ -1691,7 +1691,7 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Blundered resolve&apos;n mod IDs:
+        <translation>Blundered resolve&apos;n book IDs:
 </translation>
     </message>
     <message>
@@ -1751,7 +1751,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Currrent)</translation>
     </message>
 </context>
 <context>
@@ -1782,7 +1782,7 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Order by Captain&apos;s Choice</translation>
+        <translation>Order by Captain&apos;s Favviorit&apos; Choice</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
