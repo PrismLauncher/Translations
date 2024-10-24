@@ -9203,7 +9203,7 @@ Are you sure?</source>
         <translation>Minecraft serveris</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation type="unfinished"></translation>
     </message>

@@ -10670,7 +10670,7 @@ Are you sure?</source>
         <translation>Minecraft 伺服器</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>Patch 尚未載入。</translation>
     </message>

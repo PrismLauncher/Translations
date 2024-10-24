@@ -9564,7 +9564,7 @@ Choose your name carefully:</translation>
         <translation>Assets for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>Patch is not loaded yet.</translation>
     </message>

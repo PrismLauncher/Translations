@@ -9863,7 +9863,7 @@ Ești sigur(ă)?</translation>
         <translation>Server Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>Pachetul nu este încă încărcat.</translation>
     </message>

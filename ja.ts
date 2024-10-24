@@ -10076,7 +10076,7 @@ Are you sure?</source>
         <translation>Minecraft サーバー</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>パッチはまだ読み込まれていません。</translation>
     </message>

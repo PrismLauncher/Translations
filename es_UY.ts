@@ -9973,7 +9973,7 @@ Are you sure?</source>
         <translation>Server de Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>El parche no se cargó todavía.</translation>
     </message>

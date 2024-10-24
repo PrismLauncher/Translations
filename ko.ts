@@ -10561,7 +10561,7 @@ Are you sure?</source>
         <translation>마인크래프트 서버</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>패치가 아직 로드되지 않았습니다.</translation>
     </message>

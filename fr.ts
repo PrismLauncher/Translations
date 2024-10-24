@@ -10677,7 +10677,7 @@ Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnell
         <translation>Serveur Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>Le correctif n&apos;est pas encore chargé.</translation>
     </message>

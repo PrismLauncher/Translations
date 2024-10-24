@@ -9693,7 +9693,7 @@ Are you sure?</source>
         <translation>سرور ماینکرافت</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>بسته(Patch) هنوز بارگزاری نشده.</translation>
     </message>

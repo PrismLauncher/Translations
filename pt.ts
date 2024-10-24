@@ -10145,7 +10145,7 @@ Tens a certeza de que queres prosseguir?</translation>
         <translation>Servidor de Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>As correções ainda não foram carregadas.</translation>
     </message>

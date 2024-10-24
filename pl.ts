@@ -10752,7 +10752,7 @@ Jesteś tego pewien?</translation>
         <translation>Serwer Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>Łatka nie jest jeszcze załadowana.</translation>
     </message>

@@ -10686,7 +10686,7 @@ Deberías revisarlo de nuevo en caso de contener datos personales.
         <translation>Servidor de Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/Component.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/Component.cpp" line="278"/>
         <source>Patch is not loaded yet.</source>
         <translation>La ruta no existe.</translation>
     </message>
