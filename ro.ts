@@ -7,18 +7,18 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Serviciu Pastebin</translation>
+        <translation>Serviciu &amp;Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Serviciu de Lipire &amp; Tip</translation>
+        <translation>Serviciu de Lipire &amp;Tip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>Baza &amp;URL</translation>
+        <translation>&amp;URL de Bază</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -34,7 +34,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Autentificare Microsoft</translation>
+        <translation>Autentificare &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -4185,7 +4185,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="99"/>
         <source>Kill the running instance</source>
-        <translation>Oprește forțat instanța care ruleza</translation>
+        <translation>Oprește forțat instanța care ruleză</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -4944,7 +4944,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>Folders</source>
-        <translation>Foldere</translation>
+        <translation>Dosare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="206"/>
@@ -6231,7 +6231,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
         <source>&amp;Folder</source>
-        <translation>&amp;Pliant</translation>
+        <translation>&amp;Dosar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="463"/>
@@ -6418,7 +6418,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="678"/>
         <source>&amp;About %1</source>
-        <translation>&amp;Aproximativ 1%</translation>
+        <translation>&amp;Despre %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
