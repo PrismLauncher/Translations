@@ -3989,7 +3989,7 @@ Postępuj ostrożnie!</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="363"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Automatycznie zamknąć konsolę, gdy gra zostaje zamknięta</translation>
+        <translation>Automatycznie zamknij konsolę, gdy gra zostaje zamknięta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="370"/>
@@ -4578,7 +4578,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
         <translation>Wybrałeś/aś 32-bitową wersję Javy.
-Ta instalacja nie wspiera więcej niż 2048MiB RAMu.
+Ta instalacja Javy nie wspiera więcej niż 2048MiB RAMu.
 Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     </message>
     <message>
@@ -5395,13 +5395,13 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation>Pokazywać konsolę, gdy gra jest &amp;uruchomiona</translation>
+        <translation>Pokaż konsolę, gdy gra jest &amp;uruchomiona</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="520"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation>&amp;Automatycznie zamknąć konsolę, gdy gra zostaje zamknięta</translation>
+        <translation>&amp;Automatycznie zamknij konsolę, gdy gra zostaje zamknięta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="527"/>
@@ -14028,7 +14028,7 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">Główna wersja Java&apos;y</translation>
+        <translation>Główna wersja Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
