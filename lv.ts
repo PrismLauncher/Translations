@@ -754,7 +754,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Visas versijas</translation>
     </message>
 </context>
 <context>
@@ -794,7 +794,7 @@ Lai dzēstu šo slēdzeni un turpinātu, tālāk atlasiet “Ignorēt”.</trans
     <message>
         <location filename="src/launcher/Application.cpp" line="952"/>
         <source>Update In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Notiek atjaunināšana</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="976"/>
@@ -804,12 +804,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunināšanas mēģinājums neizdevās
+
+Pirms turpināt, lūdzu, pārliecinieties, ka instalācija ir darba kārtībā.
+Pārbaudiet Prism Launcher atjauninātāja žurnālu vietnē:
+%1
+lai iegūtu sīkāku informāciju par pēdējo atjaunināšanas mēģinājumu.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="984"/>
         <source>Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunināšana neizdevās</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1008"/>
@@ -825,12 +830,17 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunināšana izdevās
+
+Jūs tagad izmantojat %1 .
+Pārbaudiet Prism Launcher atjauninātāja žurnālu vietnē:
+%2
+sīkākai informācijai.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1016"/>
         <source>Update Succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunināšana ir izdevusies</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1048"/>
@@ -839,12 +849,16 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsu /tmp direktorijs pašlaik ir pievienots ar iespējotu karogu “noexec”.
+Dažas Minecraft versijas var netikt palaists.
+
+Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; vai iestatot java.io.tmpdir JVM argumentu rakstāmā direktorijā failu sistēmā, kurā ir iestatīts karodziņa &quot;exec&quot; (piemēram, /home/user/.local/tmp )
+</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1054"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesaderīga sistēmas konfigurācija</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1405"/>
@@ -877,46 +891,46 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java lejupielādejas</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Java izvilkšana</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished"></translation>
+        <translation>Java izvilkšana (par tar arhīvu progresu netiek ziņots)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar atvērt piegādāto tar failu.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar izvilkt piegādāto tar failu.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar atvērt piegādāto ZIP failu.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Piegādātajā zip failā netika atrasts neviens fails.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevarēja noteikt arhīva veidu!</translation>
     </message>
 </context>
 <context>
@@ -1116,7 +1130,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaida...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
@@ -1169,52 +1183,52 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automātiskais Java mehāniķis tiek atklāts un Java 32-bit instalēšana.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="87"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Netika atrasta neviena saderīga Java versija. Izmantojot noklusējuma.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="98"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsu sistēma (%1-%2) nav saderīga ar automātisko Java instalēšanu. Izmantojot noklusējuma Java ceļu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="106"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsu metainformācija ir novecojusi vai tai nav nepieciešamās informācijas, lai noteiktu, kāda Java instalācija būtu jāizmanto. Izmantojot noklusējuma Java ceļu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saderīga Java atrasta: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="156"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Netika atrasta neviena saderīga Java versija (binārais fails neeksistē). Izmantojot noklusējuma.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevarēja noteikt Java lejupielādes veidu!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalējiet Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsu operētājsistēmai netika atrasta neviena Java versija: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nav atrasta neviena saderīga Java versija. Izmantojot noklusējuma.</translation>
     </message>
 </context>
 <context>
@@ -1222,28 +1236,28 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Veidlapa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Brīdinājums par jaunu funkciju!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/ html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mēs esam pievienojuši funkciju, lai automātiski lejupielādētu pareizo Java versiju katrai Minecraft versijai (to var mainīt Java iestatījumos). Vai vēlaties iespējot vai atspējot šo funkciju?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Iespējot automātisko lejupielādi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Atspējot automātisko lejupielādi</translation>
     </message>
 </context>
 <context>
@@ -1406,7 +1420,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="124"/>
         <source>One or more subtasks failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Viens vai vairāki apakšuzdevumi neizdevās</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="227"/>
@@ -1494,12 +1508,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmantojiet simboliskas vai cietās saites, nevis kopējiet failus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Simboliskās un cietās saites opcijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
@@ -1519,7 +1533,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja ir atlasīta opcija “kopēt saglabāšanu”, pasaules saglabāšanas dati tiks kopēti, nevis saistīti, un tādējādi tie netiks koplietoti starp gadījumiem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
