@@ -786,7 +786,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as versões</translation>
     </message>
 </context>
 <context>
@@ -881,7 +881,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Seu diretório /tmp está atualmente montado com o sinalizador &apos;noexec&apos; habilitado.
+Algumas versões do Minecraft podem não iniciar.
+
+Você pode resolver esse problema remontando /tmp como &apos;exec&apos; ou definindo o argumento java.io.tmpdir JVM para um diretório gravável em um sistema de arquivos onde o sinalizador &apos;exec&apos; está definido (por exemplo, /home/user/.local/tmp)
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -2744,7 +2748,7 @@ Por favor, tente de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Processando a resposta da API do CurseForge para &apos;%1&apos;</translation>
+        <translation>Processando a resposta da API do CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -8104,7 +8108,7 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as versões</translation>
     </message>
 </context>
 <context>
