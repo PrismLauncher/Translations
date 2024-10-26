@@ -5258,7 +5258,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Java:</source>
-        <translation>Java(%J):</translation>
+        <translation>Java(&amp;J):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -10385,7 +10385,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="47"/>
         <source>Dark</source>
-        <translation>어두움</translation>
+        <translation>어둡게</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="70"/>
@@ -10435,7 +10435,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <source>Bright</source>
-        <translation>밝음</translation>
+        <translation>밝게</translation>
     </message>
     <message>
         <source>&lt;p&gt;There are no code changes between your current version and latest %1.&lt;/p&gt;</source>
@@ -13052,7 +13052,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="80"/>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="43"/>
         <source>Version %1 is now available - you have %2 . Would you like to download it now?</source>
-        <translation>버전 %1을 사용할 수 있습니다 - 현재 %2를 사용하고 있습니다. 지금 다운로드하시겠습니까?</translation>
+        <translation>버전 %1을(를) 사용할 수 있습니다 - 현재 %2을(를) 사용하고 있습니다. 지금 다운로드하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="93"/>
@@ -13077,7 +13077,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.cpp" line="41"/>
         <source>A new version of %1 is available!</source>
-        <translation>새로운 버전 %1을(를) 사용할 수 있습니다!</translation>
+        <translation>새로운 버전의 %1을 사용할 수 있습니다!</translation>
     </message>
 </context>
 <context>
