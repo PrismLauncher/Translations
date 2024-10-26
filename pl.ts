@@ -4256,7 +4256,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Kliknij &quot;Dodaj Instalację&quot; aby zacząć.</translation>
+        <translation>Kliknij &quot;Dodaj instalację&quot; aby zacząć.</translation>
     </message>
 </context>
 <context>
@@ -6532,7 +6532,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="268"/>
         <source>Status Bar</source>
-        <translation>Pasek Stanu</translation>
+        <translation>Pasek stanu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
