@@ -877,10 +877,10 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished">Senin /tmp klasörün &quot;noexec&quot; bayrağı açık olarak açılmış.
+        <translation>Senin /tmp klasörün &quot;noexec&quot; bayrağı etkin olarak açılmış.
 Bazı Minecraft sürümleri açılmayabilir.
 
-Bu problemi /tmp klasörünü &quot;exec&quot; olarak yeniden açabilir ya da java.io.tmpdir JVM argümanını &quot;exec&quot; bayrağının olduğu düzenlenebilir bir klasör yapabilirsin. (örn : /home/user/.local/tmp)
+Bu problemi /tmp klasörünü &quot;exec&quot; olarak yeniden açarak ya da java.io.tmpdir JVM argümanını &quot;exec&quot; bayrağının olduğu düzenlenebilir bir klasör yaparak çözebilirsin. (örn : /home/user/.local/tmp)
 </translation>
     </message>
     <message>
@@ -2744,7 +2744,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;%1&apos; için CurseForge&apos;dan gelen API yanıtı ayrıştırılıyor...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -6344,7 +6344,7 @@ Sebep:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Dosya gezgininde Java klasörünü açın. Yalnızca yüklü Java yükleyicisi kullanılırsa erişilebilir.</translation>
+        <translation>Dosya gezgininde Java klasörünü açın. Yalnızca yerleşik Java yükleyicisi kullanılırsa erişilebilir.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -10224,7 +10224,7 @@ Bu kilidin üzerine yazmak ve yine de bu güncellemeye devam etmek için aşağ�
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1244"/>
         <source>Failed to launch child process to read version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sürümü okuyan alt işlem başlatılamadı.</translation>
     </message>
     <message>
         <source>Failed to launcher child launcher process to read version.</source>
@@ -11382,7 +11382,7 @@ Lütfen %1&apos;i güncelleyin!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished">Seçili paket için hiçbir sürüm mevcut değil</translation>
+        <translation>Seçili paket için hiçbir sürüm mevcut değil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
@@ -12595,27 +12595,27 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java binary path kontrol ediliyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Java binary path aranıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java binary path bulunamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasörler sembolik bağlantıya toplanıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java binary path sembolize ediliyor</translation>
     </message>
 </context>
 <context>
@@ -13872,13 +13872,13 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">Java sürümün alternatif adı</translation>
+        <translation>Java sürümün alternatif adı</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">Java ana sürümü</translation>
+        <translation>Java ana sürümü</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
