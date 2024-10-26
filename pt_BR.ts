@@ -937,7 +937,7 @@ Algumas versões do Minecraft podem não iniciar.
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Extraindo java</translation>
+        <translation>Extraindo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -3552,7 +3552,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="60"/>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Nenhuma versão Java está atualmente disponível nos metadados.</translation>
+        <translation>Nenhuma versão do Java está disponível atualmente nos metadados.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="61"/>
@@ -3565,7 +3565,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Nenhuma versão Java está disponível atualmente para o seu sistema operacional.</translation>
+        <translation>Nenhuma versão do Java está disponível atualmente para o seu sistema operacional.</translation>
     </message>
 </context>
 <context>
@@ -4760,7 +4760,7 @@ Você pode alterar a versão do Java nas configurações posteriormente.
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
         <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation type="unfinished">Selecione quanta memória será alocada para as instâncias e se o Prism Launcher deve gerenciar o Java automaticamente ou manualmente.</translation>
+        <translation>Selecione quanta memória será alocada para instâncias e se o Prism Launcher deve gerenciar o Java automaticamente ou manualmente.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6619,7 +6619,7 @@ Razão:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation type="unfinished">Abrir a pasta do Java em um explorador de arquivos. Somente disponível se o instalador de Java incluído estiver sendo usado.</translation>
+        <translation>Abre a pasta do Java em um explorador de arquivos. Somente disponível se o instalador de Java incluído estiver sendo usado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
