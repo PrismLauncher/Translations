@@ -1291,7 +1291,7 @@ Algumas versões do Minecraft podem não iniciar.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished">Adicionamos um recurso para baixar automaticamente a versão correta do Java para cada versão do Minecraft (isso pode ser alterado nas Configurações do Java). Você gostaria de habilitar ou desabilitar esse recurso?</translation>
+        <translation>Adicionamos um recurso para baixar automaticamente a versão correta do Java para cada versão do Minecraft (isso pode ser alterado nas Configurações do Java). Você gostaria de habilitar ou desabilitar esse recurso?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -3116,7 +3116,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtrar</translation>
+        <translation>Filtrar</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -3559,7 +3559,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Não foi possível carregar ou baixar as listas de versões do Java!</translation>
+        <translation>Não foi possível carregar ou baixar as listas de versões do Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
@@ -4540,13 +4540,13 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Nenhuma versão Java gerenciada está instalada</translation>
+        <translation>Nenhuma versão gerenciada do Java está instalada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Não foi possível carregar a lista Java gerenciada!</translation>
+        <translation>Não foi possível carregar a lista de versões gerenciadas do Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="155"/>
@@ -9175,7 +9175,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtrar</translation>
+        <translation>Filtrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11502,7 +11502,7 @@ Por favor, atualize %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="259"/>
         <source>No version available for the selected pack</source>
-        <translation type="unfinished">Nenhuma versão disponível para o pacote selecionado</translation>
+        <translation>Nenhuma versão disponível para o pacote selecionado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="263"/>
@@ -13992,13 +13992,13 @@ Por favor, adicione a sua conta do Minecraft.</translation>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished">O nome alternativo da versão java</translation>
+        <translation>O nome alternativo da versão do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished">A versão principal do java</translation>
+        <translation>A versão principal do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
