@@ -4606,7 +4606,8 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>Sie sind dabei, die Java-Installation mit dem Namen „%1“ zu entfernen. Sind Sie sicher?</translation>
+        <translation>Sie sind dabei,   die Java-Installation mit dem Namen „%1“ zu entfernen. 
+Sind Sie sicher?</translation>
     </message>
 </context>
 <context>
