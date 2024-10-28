@@ -3057,14 +3057,18 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
+        <source>Filter options</source>
+        <translation type="unfinished">Filteropties</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Zoeken en filteren...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation type="obsolete">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5535,9 +5539,9 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
-        <source>Failed to move unzipped Minecraft!</source>
-        <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation>Kon de uitgepakte Minecraft niet verplaatsen!</translation>
+        <source>Failed to move unpacked Minecraft!</source>
+        <oldsource>Failed to move unzipped Minecraft!</oldsource>
+        <translation type="unfinished">Kon de uitgepakte Minecraft niet verplaatsen!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -7905,6 +7909,11 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <source>Open source only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation type="unfinished"></translation>
@@ -8945,14 +8954,18 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
+        <source>Filter options</source>
+        <translation type="unfinished">Filteropties</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation type="unfinished">Zoeken en filteren...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation type="obsolete">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>

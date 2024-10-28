@@ -3109,14 +3109,18 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
+        <source>Filter options</source>
+        <translation type="unfinished">Opções de filtro</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Pesquisar e filtrar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation>Filtrar</translation>
+        <translation type="vanished">Filtrar</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5644,9 +5648,9 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
-        <source>Failed to move unzipped Minecraft!</source>
-        <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation>Falha ao mover o Minecraft descompactado!</translation>
+        <source>Failed to move unpacked Minecraft!</source>
+        <oldsource>Failed to move unzipped Minecraft!</oldsource>
+        <translation type="unfinished">Falha ao mover o Minecraft descompactado!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -8106,6 +8110,11 @@ O mesmo só pode ser atualizado usando um arquivo no formato %1
         <translation>Ocultar itens instalados</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <source>Open source only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Todas as versões</translation>
@@ -9168,14 +9177,18 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
+        <source>Filter options</source>
+        <translation type="unfinished">Opções de filtro</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Buscar e filtrar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Filter</source>
-        <translation>Filtrar</translation>
+        <translation type="vanished">Filtrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>

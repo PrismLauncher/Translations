@@ -3053,14 +3053,18 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
+        <source>Filter options</source>
+        <translation type="unfinished">Filteralternativ</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Sök och filtrera...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5582,9 +5586,9 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
-        <source>Failed to move unzipped Minecraft!</source>
-        <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation>Misslyckades med att flytta uppackat Minecraft!</translation>
+        <source>Failed to move unpacked Minecraft!</source>
+        <oldsource>Failed to move unzipped Minecraft!</oldsource>
+        <translation type="unfinished">Misslyckades med att flytta uppackat Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -7933,6 +7937,11 @@ Detta kan endast uppdateras med en fil i formatet %1
         <translation>Dölj installerade objekt</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <source>Open source only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Alla versioner</translation>
@@ -8969,9 +8978,13 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <translation type="vanished">Sök</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
+        <source>Filter options</source>
+        <translation type="unfinished">Filteralternativ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -8979,7 +8992,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <translation>Vald version:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Sök och filtrera...</translation>

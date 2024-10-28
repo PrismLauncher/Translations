@@ -3052,14 +3052,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
+        <source>Filter options</source>
+        <translation type="unfinished">Налаштування фільтрів</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Пошук і фільтр...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation>Фільтр</translation>
+        <translation type="vanished">Фільтр</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5524,9 +5528,9 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
-        <source>Failed to move unzipped Minecraft!</source>
-        <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation>Не вдалося перемістити розпакований Minecraft!</translation>
+        <source>Failed to move unpacked Minecraft!</source>
+        <oldsource>Failed to move unzipped Minecraft!</oldsource>
+        <translation type="unfinished">Не вдалося перемістити розпакований Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -7962,6 +7966,11 @@ This can be updated only using a file in %1 format
         <translation>Сховати установлені предмети</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <source>Open source only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Всі версії</translation>
@@ -8979,13 +8988,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
+        <source>Filter options</source>
+        <translation type="unfinished">Налаштування фільтрів</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
         <translation>Пошук і фільтр...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Filter</source>
-        <translation>Фільтр</translation>
+        <translation type="vanished">Фільтр</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>

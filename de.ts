@@ -3117,14 +3117,18 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
+        <source>Filter options</source>
+        <translation type="unfinished">Filter-Optionen</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Suchen und filtern...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5654,9 +5658,9 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
-        <source>Failed to move unzipped Minecraft!</source>
-        <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation>Das entpackte Minecraft konnte nicht verschoben werden!</translation>
+        <source>Failed to move unpacked Minecraft!</source>
+        <oldsource>Failed to move unzipped Minecraft!</oldsource>
+        <translation type="unfinished">Das entpackte Minecraft konnte nicht verschoben werden!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -8096,6 +8100,11 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
         <translation>Verstecke installierte Objekte</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
+        <source>Open source only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
         <translation>Alle Versionen</translation>
@@ -9178,14 +9187,18 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
+        <source>Filter options</source>
+        <translation type="unfinished">Filter-Optionen</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Suchen und filtern&#xa0;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
