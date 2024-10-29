@@ -1013,7 +1013,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>უცნობი ანგარიშის დავალების მდგომარეობა: %1</translation>
     </message>
 </context>
 <context>
@@ -1021,42 +1021,42 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaი-ს ავტომატურმა მექანიზმმა აღმოაჩინა Java-ის 32-ბიტიანი ინსტალაცია.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="87"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-ის ვერცერთი შეთავსებადი ვერსია ვერ მოიძებნა. გამოიყენება ნაგულისხმევი ვერსია.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="98"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>თქვენი სისტემა (%1-%2) Java-ის ავტომატურ ინსტალაციასთან შეუთავსებადია. გამოიყენება Java-ისკენ ნაგულისხმევი path.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="106"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>თქვენი მეტა ინფორმაცია დაძველებულია ან არ გააჩნია საჭირო ინფორმაცია იმის განსაზღვრელად, თუ რომელი Java-ის ინსტალაციის გამოყენება სჯობს.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>შეთავსებადი Java ნაპოვნია აქ: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="156"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-ის ვერცერთი შეთავსებადი ვერსია ვერ მოიძებნა (ბინარული ფაილი არ არსებობს). გამოიყენება ნაგულისხმევი ვერსია.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-ის გადმოწერის ტიპის დადგენა ვერ ხერხდება!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-ის დაყენება</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
