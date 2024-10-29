@@ -51,12 +51,12 @@
             "untranslated" : 1256
         },
         "cs" : {
-            "file" : "72f0e298d772f90b28ec6c07832832f717afe3ff.class",
-            "sha1" : "72f0e298d772f90b28ec6c07832832f717afe3ff",
-            "size" : 298107,
-            "translated" : 2068,
-            "fuzzy" : 47,
-            "untranslated" : 13
+            "file" : "d9c93493df09a784230a9340674d0b5f077dfa2a.class",
+            "sha1" : "d9c93493df09a784230a9340674d0b5f077dfa2a",
+            "size" : 301150,
+            "translated" : 2128,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "cy" : {
             "file" : "d67b9b10b91fa7889ac259a04399f1c0412db86f.class",
@@ -347,12 +347,12 @@
             "untranslated" : 2128
         },
         "ka" : {
-            "file" : "f45e757a07d2baaac42b9c5e00ae068b277e2493.class",
-            "sha1" : "f45e757a07d2baaac42b9c5e00ae068b277e2493",
-            "size" : 62416,
+            "file" : "683e93ae53913d9d103e779d67ea67ccf159b840.class",
+            "sha1" : "683e93ae53913d9d103e779d67ea67ccf159b840",
+            "size" : 62687,
             "translated" : 565,
-            "fuzzy" : 88,
-            "untranslated" : 1475
+            "fuzzy" : 90,
+            "untranslated" : 1473
         },
         "kk" : {
             "file" : "828a00bf4c33fa6f40fb5d28d8fe0ec93008441d.class",
@@ -363,12 +363,12 @@
             "untranslated" : 2097
         },
         "ko" : {
-            "file" : "bf38b9b8b2606dd5a6bc2ffc7a1c5a68184f6537.class",
-            "sha1" : "bf38b9b8b2606dd5a6bc2ffc7a1c5a68184f6537",
-            "size" : 237004,
-            "translated" : 2068,
-            "fuzzy" : 47,
-            "untranslated" : 13
+            "file" : "7cb74b00e1aa092c699515878ee51404320b1396.class",
+            "sha1" : "7cb74b00e1aa092c699515878ee51404320b1396",
+            "size" : 239535,
+            "translated" : 2128,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "lb" : {
             "file" : "217956b16a5d833c91f38353c369f6af807f2e7e.class",
