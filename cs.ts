@@ -5027,17 +5027,17 @@ Chcete si zahrát demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="320"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Účet vypršel a je třeba jej znovu ověřit. Chcete to provést nyní?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="336"/>
         <source>Account expired and re-login attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Účet vypršel a pokus o opětovné přihlášení selhal</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Účet vypršel a je třeba jej znovu ověřit</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="349"/>
