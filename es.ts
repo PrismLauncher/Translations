@@ -1344,12 +1344,12 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -1695,17 +1695,17 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished">Ayuda</translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1770,7 +1770,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation>Flitrar</translation>
+        <translation>Filtrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
@@ -1929,12 +1929,12 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2049,12 +2049,12 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2205,12 +2205,12 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="108"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="134"/>
@@ -2348,12 +2348,12 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
@@ -3150,7 +3150,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar opciones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -3430,12 +3430,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="66"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="67"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
@@ -3571,12 +3571,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3642,12 +3642,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -4027,12 +4027,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="291"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
-        <translation type="unfinished"></translation>
+        <translation>El juego base sólo soporta resolución. Para simular el comportamiento maximizado, la implementación actual se aproxima al tamaño máximo de pantalla..</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="294"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported for the current minecraft version.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Advertencia&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: La opción maximizada puede no ser totalmente compatible con la versión actual de minecraft.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="303"/>
@@ -4429,7 +4429,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
@@ -5034,17 +5034,17 @@ Necesitas comprar el juego primero para jugarlo.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="320"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>La cuenta ha caducado y necesita ser re-autenticada. ¿Desea volver a autenticar esta cuenta?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="336"/>
         <source>Account expired and re-login attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>La cuenta ha expirado y no se ha podido volver a iniciar sesión</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>La cuenta ha expirado y necesita ser re-autenticada</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="349"/>
@@ -5753,7 +5753,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">¡Error al mover Minecraft descomprimido!</translation>
+        <translation>¡No se puede mover Minecraft desempaquetado!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -7934,12 +7934,12 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="61"/>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>En versiones más recientes el juego sólo soporta resolución. Para simular el comportamiento maximizado, la implementación actual se aproxima al tamaño máximo de pantalla.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="64"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: On the newer Minecraft versions the start maximized option is not fully supported.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Advertencia&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: En las nuevas versiones de Minecraft la opción de inicio maximizado no es totalmente compatible.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="133"/>
@@ -8222,32 +8222,32 @@ Solo puede actualizarse mediante un archivo con formato %1
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
         <source>Open source only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo código abierto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
         <source>Release type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de lanzamiento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Estable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Beta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alpha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconocido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
@@ -9312,7 +9312,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar opciones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -9532,12 +9532,12 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9566,17 +9566,17 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="112"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="118"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="124"/>
         <source>Help</source>
-        <translation type="unfinished">Ayuda</translation>
+        <translation>Ayuda</translation>
     </message>
 </context>
 <context>
@@ -9692,12 +9692,12 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9736,12 +9736,12 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9916,12 +9916,12 @@ Esto puede ser permanente y desaparecerá de la carpeta de registros.
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="42"/>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="43"/>
         <source>Help</source>
-        <translation type="unfinished">Ayuda</translation>
+        <translation>Ayuda</translation>
     </message>
 </context>
 <context>
@@ -10592,12 +10592,12 @@ Para sobrescribir este bloqueo y proceder con esta actualización de todos modos
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10619,12 +10619,12 @@ Elija su nombre cuidadosamente:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -11728,7 +11728,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="291"/>
         <source> [installed]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [instalado]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="298"/>
@@ -11758,7 +11758,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="474"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="493"/>
@@ -12099,12 +12099,12 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
@@ -12340,12 +12340,12 @@ Esto puede ser permanente y desaparecerá de la carpeta.
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="13"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12400,12 +12400,12 @@ Versión instalada actualmente: %1</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12726,12 +12726,12 @@ Esto es permanente y el servidor desaparecerá de su lista para siempre (MUCHO T
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="97"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="98"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="144"/>
@@ -14295,12 +14295,12 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
