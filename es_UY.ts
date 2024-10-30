@@ -772,12 +772,12 @@ Actualice su sistema operativo y %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="788"/>
+        <location filename="src/launcher/Application.cpp" line="798"/>
         <source>Settings</source>
         <translation>Configuración</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="935"/>
+        <location filename="src/launcher/Application.cpp" line="945"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -804,12 +804,12 @@ para más detalles sobre el último intento de actualización.
 Para eliminar este bloqueo y continuar, seleccione &quot;Ignorar&quot; a continuación.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="952"/>
+        <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update In Progress</source>
         <translation>Actualización en proceso</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="976"/>
+        <location filename="src/launcher/Application.cpp" line="986"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -824,12 +824,12 @@ Compruebe el registro de actualización de Prism Launcher en:
 para más detalles sobre el último intento de actualización.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="984"/>
+        <location filename="src/launcher/Application.cpp" line="994"/>
         <source>Update Failed</source>
         <translation>Actualización fallida</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1008"/>
+        <location filename="src/launcher/Application.cpp" line="1018"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -850,12 +850,12 @@ Compruebe el registro de actualización de Prism Launcher en:
 para más detalles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1016"/>
+        <location filename="src/launcher/Application.cpp" line="1026"/>
         <source>Update Succeeded</source>
         <translation>Actualización realizada</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1048"/>
+        <location filename="src/launcher/Application.cpp" line="1058"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -876,32 +876,32 @@ Algunas versiones de Minecraft podrían no iniciar.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1054"/>
+        <location filename="src/launcher/Application.cpp" line="1064"/>
         <source>Incompatible system configuration</source>
         <translation>Configuración de sistema incompatible</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1405"/>
+        <location filename="src/launcher/Application.cpp" line="1423"/>
         <source>Aborted</source>
         <translation>Abortado</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1800"/>
+        <location filename="src/launcher/Application.cpp" line="1818"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Se encontró información antigua de %1, pero ya tiene información existente en %2, Desafortunadamente tendrá que migrar usted mismo. ¿Desea un recordatorio de la migración de información pendiente la próxima vez que inicies %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1804"/>
+        <location filename="src/launcher/Application.cpp" line="1822"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Parece que ha usado %1 anteriormente, ¿Desea migrar su información a la nueva localización de %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1810"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Parece que uso %1 en %2 anteriormente, ¿Desea migrar su información a la nueva localización de %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1853"/>
+        <location filename="src/launcher/Application.cpp" line="1871"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migración fallida! Razón: %1</translation>
     </message>
@@ -4779,7 +4779,7 @@ Por favor, selecciona uno de los siguientes o busca un ejecutable java.</transla
         <translation>Elige tu nombre de jugador en el modo de demostración.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="254"/>
+        <location filename="src/launcher/LaunchController.cpp" line="259"/>
         <source>Received undetermined session status during login.</source>
         <translation>Se recibió un estado de sesión indeterminado durante el inicio de sesión.</translation>
     </message>
@@ -4810,12 +4810,12 @@ Necesitas comprar el juego primero para jugarlo.
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="269"/>
+        <location filename="src/launcher/LaunchController.cpp" line="274"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Lanzamiento cancelado: la cuenta no posee Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="289"/>
         <source>Play Offline</source>
         <translation>Jugar offline</translation>
     </message>
@@ -4824,74 +4824,74 @@ Necesitas comprar el juego primero para jugarlo.
         <translation type="vanished">La sesión de la cuenta expiró y necesita ser iniciada de nuevo manualmente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="324"/>
         <source>Account refresh failed</source>
         <translation>Error al recargar la cuenta</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="296"/>
+        <location filename="src/launcher/LaunchController.cpp" line="301"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>La identificación del cliente del launcher ha cambiado. Por favor, elimine esta cuenta y agréguela de nuevo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="297"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>Client identification changed</source>
         <translation>Identificación del cliente cambiada</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="304"/>
+        <location filename="src/launcher/LaunchController.cpp" line="309"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>La cuenta ya no existe en los servers. Puede que haya sido migrada, en tal caso, por favor, añade la nueva cuenta a la que migraste esta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="306"/>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
         <source>Account gone</source>
         <translation>Cuenta eliminada</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="313"/>
+        <location filename="src/launcher/LaunchController.cpp" line="318"/>
         <source>Failed to launch.</source>
         <translation>Error al iniciar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="320"/>
+        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="336"/>
+        <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="338"/>
+        <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="354"/>
+        <location filename="src/launcher/LaunchController.cpp" line="411"/>
         <source>Error!</source>
         <translation>¡Error!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
-        <location filename="src/launcher/LaunchController.cpp" line="350"/>
+        <location filename="src/launcher/LaunchController.cpp" line="354"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>No se pudo cargar el perfil de la instancia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="356"/>
+        <location filename="src/launcher/LaunchController.cpp" line="361"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>No se pudo instanciar un launcher.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="411"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>La comprobación del profiler para %1 ha fallado: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="419"/>
+        <location filename="src/launcher/LaunchController.cpp" line="424"/>
         <source>&amp;Launch</source>
         <translation>&amp;Iniciar</translation>
     </message>
@@ -4900,7 +4900,7 @@ Necesitas comprar el juego primero para jugarlo.
         <translation type="vanished">No se pudo iniciar el perfilador: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="413"/>
+        <location filename="src/launcher/LaunchController.cpp" line="418"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -4909,7 +4909,7 @@ Necesitas comprar el juego primero para jugarlo.
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="417"/>
+        <location filename="src/launcher/LaunchController.cpp" line="422"/>
         <source>Waiting.</source>
         <translation>Esperando.</translation>
     </message>
@@ -4918,27 +4918,27 @@ Necesitas comprar el juego primero para jugarlo.
         <translation type="vanished">Iniciar</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="425"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>No se pudo iniciar el perfilador: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="426"/>
+        <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="466"/>
+        <location filename="src/launcher/LaunchController.cpp" line="471"/>
         <source>Kill Minecraft?</source>
         <translation>¿Forzar cierre de Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="467"/>
+        <location filename="src/launcher/LaunchController.cpp" line="472"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Esto puede causar que la instancia se corrompa y solo debe ser usado si Minecraft se queda congelado por algún motivo</translation>
     </message>

@@ -763,12 +763,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="788"/>
+        <location filename="src/launcher/Application.cpp" line="798"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="935"/>
+        <location filename="src/launcher/Application.cpp" line="945"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -794,12 +794,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 За да изтриете този файл със заключване и да продължите, изберете &quot;Игнорирай&quot; по-долу.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="952"/>
+        <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update In Progress</source>
         <translation>Актуализация в ход</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="976"/>
+        <location filename="src/launcher/Application.cpp" line="986"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -814,12 +814,12 @@ for details on the last update attempt.</source>
 за подробности за последния опит за актуализация.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="984"/>
+        <location filename="src/launcher/Application.cpp" line="994"/>
         <source>Update Failed</source>
         <translation>Актуализацията се провали</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1008"/>
+        <location filename="src/launcher/Application.cpp" line="1018"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -840,12 +840,12 @@ for details.</oldsource>
 за подробности.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1016"/>
+        <location filename="src/launcher/Application.cpp" line="1026"/>
         <source>Update Succeeded</source>
         <translation>Актуализацията завърши успешно</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1048"/>
+        <location filename="src/launcher/Application.cpp" line="1058"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -862,32 +862,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1054"/>
+        <location filename="src/launcher/Application.cpp" line="1064"/>
         <source>Incompatible system configuration</source>
         <translation>Несъвместима системна конфигурация</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1405"/>
+        <location filename="src/launcher/Application.cpp" line="1423"/>
         <source>Aborted</source>
         <translation>Аборт</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1800"/>
+        <location filename="src/launcher/Application.cpp" line="1818"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Стари данни от %1 са намерени, но вече имате съществуващи данни от %2. За жалост ще трябва да мигрирате. Искате ли да бъдете напомнени за предстоящото мигриране на вашите данни при следващият старт на %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1804"/>
+        <location filename="src/launcher/Application.cpp" line="1822"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Изглежда сте ползвали %1 преди. Искате ли да мигрирате вашите данни към новото местоположение на %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1810"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Изглежда сте ползвали %1 на %2 преди. Искате ли да мигрирате вашите данни към новото местоположение на %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1853"/>
+        <location filename="src/launcher/Application.cpp" line="1871"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Миграцията е неуспешна! Причина: %1</translation>
     </message>
@@ -4602,7 +4602,7 @@ You can change the Java version in the settings later.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="254"/>
+        <location filename="src/launcher/LaunchController.cpp" line="259"/>
         <source>Received undetermined session status during login.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4630,96 +4630,96 @@ Do you want to play the demo?</source>
         <translation type="unfinished">Отказ</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="269"/>
+        <location filename="src/launcher/LaunchController.cpp" line="274"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="289"/>
         <source>Play Offline</source>
         <translation>Играй офлайн</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="324"/>
         <source>Account refresh failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="296"/>
+        <location filename="src/launcher/LaunchController.cpp" line="301"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="297"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>Client identification changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="304"/>
+        <location filename="src/launcher/LaunchController.cpp" line="309"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="306"/>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
         <source>Account gone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="313"/>
+        <location filename="src/launcher/LaunchController.cpp" line="318"/>
         <source>Failed to launch.</source>
         <translation>Неуспешно стартиране.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="320"/>
+        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="336"/>
+        <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="338"/>
+        <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="354"/>
+        <location filename="src/launcher/LaunchController.cpp" line="411"/>
         <source>Error!</source>
         <translation>Грешка!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
-        <location filename="src/launcher/LaunchController.cpp" line="350"/>
+        <location filename="src/launcher/LaunchController.cpp" line="354"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="356"/>
+        <location filename="src/launcher/LaunchController.cpp" line="361"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Неуспешно инстанциране на стартера.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="411"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="419"/>
+        <location filename="src/launcher/LaunchController.cpp" line="424"/>
         <source>&amp;Launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="413"/>
+        <location filename="src/launcher/LaunchController.cpp" line="418"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="417"/>
+        <location filename="src/launcher/LaunchController.cpp" line="422"/>
         <source>Waiting.</source>
         <translation>Изчакване.</translation>
     </message>
@@ -4728,27 +4728,27 @@ Do you want to play the demo?</source>
         <translation type="vanished">Стартиране</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="425"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="426"/>
+        <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Abort</source>
         <translation>Отмени</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="466"/>
+        <location filename="src/launcher/LaunchController.cpp" line="471"/>
         <source>Kill Minecraft?</source>
         <translation>Спри Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="467"/>
+        <location filename="src/launcher/LaunchController.cpp" line="472"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation type="unfinished"></translation>
     </message>

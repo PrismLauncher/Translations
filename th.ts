@@ -771,12 +771,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="788"/>
+        <location filename="src/launcher/Application.cpp" line="798"/>
         <source>Settings</source>
         <translation>การตั้งค่า</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="935"/>
+        <location filename="src/launcher/Application.cpp" line="945"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -803,12 +803,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 หากต้องการลบการล็อคนี้และดำเนินการต่อ ให้เลือก &quot;เพิกเฉย&quot; ด้านล่าง</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="952"/>
+        <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update In Progress</source>
         <translation>อยู่ระหว่างการปรับปรุง</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="976"/>
+        <location filename="src/launcher/Application.cpp" line="986"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -823,12 +823,12 @@ for details on the last update attempt.</source>
 สำหรับรายละเอียดเกี่ยวกับความพยายามในการอัปเดตครั้งล่าสุด</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="984"/>
+        <location filename="src/launcher/Application.cpp" line="994"/>
         <source>Update Failed</source>
         <translation>การอัพเดทล้มเหลว</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1008"/>
+        <location filename="src/launcher/Application.cpp" line="1018"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -849,12 +849,12 @@ for details.</oldsource>
 เพื่อดูรายละเอียด</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1016"/>
+        <location filename="src/launcher/Application.cpp" line="1026"/>
         <source>Update Succeeded</source>
         <translation>อัปเดตสำเร็จแล้ว</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1048"/>
+        <location filename="src/launcher/Application.cpp" line="1058"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -875,32 +875,32 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1054"/>
+        <location filename="src/launcher/Application.cpp" line="1064"/>
         <source>Incompatible system configuration</source>
         <translation>การกำหนดค่าระบบที่เข้ากันไม่ได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1405"/>
+        <location filename="src/launcher/Application.cpp" line="1423"/>
         <source>Aborted</source>
         <translation>ล้มเลิก</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1800"/>
+        <location filename="src/launcher/Application.cpp" line="1818"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>พบข้อมูลเก่าจาก %1 แต่คุณมีข้อมูลดังกล่าวสำหรับ %2 แล้ว น่าเสียดายที่คุณจะต้องทำการโยกย้ายคุณเอง คุณต้องการที่จะให้เตือนการรอการโยกย้ายข้อมูลของคุณหลังจากที่เริ่มเปิด %2 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1804"/>
+        <location filename="src/launcher/Application.cpp" line="1822"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>ดูเหมือนว่าคุณจะเคยใช้ %1 มาก่อนหน้านี้ คุณต้องการที่จะโยกย้ายข้อมูลของคุณเข้ามาอยู่ในตำแหน่งใหม่ของ %2 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1810"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>ดูเหมือนว่าคุณจะเคยใช้ %1 บน %2 มาก่อนหน้านี้แล้ว คุณต้องการที่จะโยกย้ายข้อมูลของคุณไปยังตำแหน่งใหม่ของ %3 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1853"/>
+        <location filename="src/launcher/Application.cpp" line="1871"/>
         <source>Migration failed! Reason: %1</source>
         <translation>การโยกย้ายข้อมูลผิดพลาด! เหตุผล: %1</translation>
     </message>
@@ -4616,7 +4616,7 @@ You can change the Java version in the settings later.
         <translation>เลือกชื่อผู้เล่นโหมดสาธิตของคุณ</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="254"/>
+        <location filename="src/launcher/LaunchController.cpp" line="259"/>
         <source>Received undetermined session status during login.</source>
         <translation>ได้รับสถานะเซสชั่นที่ไม่ชัดเจนในระหว่างการเข้าสู่ระบบ</translation>
     </message>
@@ -4647,12 +4647,12 @@ Do you want to play the demo?</source>
         <translation>ยกเลิก</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="269"/>
+        <location filename="src/launcher/LaunchController.cpp" line="274"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>การเริ่มถูกยกเลิก - บัญชีไม่ได้เป็นเจ้าของ Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="289"/>
         <source>Play Offline</source>
         <translation>เล่นแบบออฟไลน์</translation>
     </message>
@@ -4661,86 +4661,86 @@ Do you want to play the demo?</source>
         <translation type="vanished">บัญชีหมดอายุแล้วและต้องเข้าสู่ระบบด้วยตนเองอีกครั้ง</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="324"/>
         <source>Account refresh failed</source>
         <translation>การรีเฟรชบัญชีล้มเหลว</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="296"/>
+        <location filename="src/launcher/LaunchController.cpp" line="301"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>การระบุตัวตนไคลเอนต์ของตัวเรียกใช้งานมีการเปลี่ยนแปลง โปรดลบบัญชีนี้แล้วเพิ่มใหม่อีกครั้ง</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="297"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>Client identification changed</source>
         <translation>เปลี่ยนการระบุตัวตนแล้ว</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="304"/>
+        <location filename="src/launcher/LaunchController.cpp" line="309"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>บัญชีไม่มีอยู่บนเซิร์ฟเวอร์อีกต่อไป อาจมีการโยกย้าย ซึ่งในกรณีนี้ ให้เพิ่มบัญชีใหม่ที่คุณย้ายบัญชีนี้</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="306"/>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
         <source>Account gone</source>
         <translation>บัญชีหายไป</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="313"/>
+        <location filename="src/launcher/LaunchController.cpp" line="318"/>
         <source>Failed to launch.</source>
         <translation>ไม่สามารถเริ่มได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="320"/>
+        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="336"/>
+        <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="338"/>
+        <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="354"/>
+        <location filename="src/launcher/LaunchController.cpp" line="411"/>
         <source>Error!</source>
         <translation>ข้อผิดพลาด!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
-        <location filename="src/launcher/LaunchController.cpp" line="350"/>
+        <location filename="src/launcher/LaunchController.cpp" line="354"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>ไม่สามารถโหลดโปรไฟล์อินสแตนซ์ได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="356"/>
+        <location filename="src/launcher/LaunchController.cpp" line="361"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>ไม่สามารถสร้างอินสแตนซ์ตัวเรียกใช้งานได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="411"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>การตรวจสอบโปรไฟเลอร์สำหรับ %1 ล้มเหลว: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="419"/>
+        <location filename="src/launcher/LaunchController.cpp" line="424"/>
         <source>&amp;Launch</source>
         <translation>&amp;เริ่ม</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="413"/>
+        <location filename="src/launcher/LaunchController.cpp" line="418"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="417"/>
+        <location filename="src/launcher/LaunchController.cpp" line="422"/>
         <source>Waiting.</source>
         <translation>กำลังรอ</translation>
     </message>
@@ -4749,27 +4749,27 @@ Do you want to play the demo?</source>
         <translation type="vanished">เปิด</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="425"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="426"/>
+        <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Error</source>
         <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Abort</source>
         <translation>ยกเลิก</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="466"/>
+        <location filename="src/launcher/LaunchController.cpp" line="471"/>
         <source>Kill Minecraft?</source>
         <translation type="unfinished">ปิด Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="467"/>
+        <location filename="src/launcher/LaunchController.cpp" line="472"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation type="unfinished">อาจทำให้โปรแกรมขัดข้อง ควรใช้ต่อเมื่อ Minecraft ค้างเท่านั้น</translation>
     </message>

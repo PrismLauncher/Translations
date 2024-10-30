@@ -780,12 +780,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="788"/>
+        <location filename="src/launcher/Application.cpp" line="798"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="935"/>
+        <location filename="src/launcher/Application.cpp" line="945"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -812,12 +812,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 如要刪除這個鎖定並繼續操作，請選擇下方的「忽略」。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="952"/>
+        <location filename="src/launcher/Application.cpp" line="962"/>
         <source>Update In Progress</source>
         <translation>更新進行中</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="976"/>
+        <location filename="src/launcher/Application.cpp" line="986"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -832,12 +832,12 @@ for details on the last update attempt.</source>
 以了解上次更新嘗試的詳細資訊。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="984"/>
+        <location filename="src/launcher/Application.cpp" line="994"/>
         <source>Update Failed</source>
         <translation>更新失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1008"/>
+        <location filename="src/launcher/Application.cpp" line="1018"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -858,12 +858,12 @@ for details.</oldsource>
 以取得詳細資訊。</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1016"/>
+        <location filename="src/launcher/Application.cpp" line="1026"/>
         <source>Update Succeeded</source>
         <translation>更新成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1048"/>
+        <location filename="src/launcher/Application.cpp" line="1058"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -884,32 +884,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1054"/>
+        <location filename="src/launcher/Application.cpp" line="1064"/>
         <source>Incompatible system configuration</source>
         <translation>系統設定不相容</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1405"/>
+        <location filename="src/launcher/Application.cpp" line="1423"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1800"/>
+        <location filename="src/launcher/Application.cpp" line="1818"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>找到來自 %1 的舊資料，但您已有 %2 的現有資料。很遺憾，您需要自行遷移。下次啟動 %2 時是否要提醒您進行資料遷移？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1804"/>
+        <location filename="src/launcher/Application.cpp" line="1822"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>看起來您以前使用過 %1。是否要將資料遷移到 %2 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1810"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>看起來您以前在 %2 上使用過 %1。是否要將資料遷移到 %3 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1853"/>
+        <location filename="src/launcher/Application.cpp" line="1871"/>
         <source>Migration failed! Reason: %1</source>
         <translation>遷移失敗！原因：%1</translation>
     </message>
@@ -4960,7 +4960,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <translation>選擇您的試玩模式玩家名稱。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="254"/>
+        <location filename="src/launcher/LaunchController.cpp" line="259"/>
         <source>Received undetermined session status during login.</source>
         <translation>在登入時接收到無法確定的 Session 狀態。</translation>
     </message>
@@ -4991,12 +4991,12 @@ Do you want to play the demo?</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="269"/>
+        <location filename="src/launcher/LaunchController.cpp" line="274"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>已取消啟動──此帳號尚未擁有 Minecraft。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="284"/>
+        <location filename="src/launcher/LaunchController.cpp" line="289"/>
         <source>Play Offline</source>
         <translation>離線遊玩</translation>
     </message>
@@ -5005,74 +5005,74 @@ Do you want to play the demo?</source>
         <translation type="vanished">帳號已過期了，請手動重新登入。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="324"/>
         <source>Account refresh failed</source>
         <translation>帳號重新整理失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="296"/>
+        <location filename="src/launcher/LaunchController.cpp" line="301"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>啟動器的用戶端識別碼已變更。請先移除此帳號並重新登入。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="297"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>Client identification changed</source>
         <translation>用戶端識別碼已變更</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="304"/>
+        <location filename="src/launcher/LaunchController.cpp" line="309"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>該帳號不再存在於伺服器上。它可能已被遷移，在這種情況下，請加入您遷移到的新帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="306"/>
+        <location filename="src/launcher/LaunchController.cpp" line="311"/>
         <source>Account gone</source>
         <translation>帳號遺失</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="313"/>
+        <location filename="src/launcher/LaunchController.cpp" line="318"/>
         <source>Failed to launch.</source>
         <translation>啟動失敗。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="320"/>
+        <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="336"/>
+        <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="338"/>
+        <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>The account has expired and needs to be reauthenticated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="354"/>
+        <location filename="src/launcher/LaunchController.cpp" line="411"/>
         <source>Error!</source>
         <translation>錯誤！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="349"/>
-        <location filename="src/launcher/LaunchController.cpp" line="350"/>
+        <location filename="src/launcher/LaunchController.cpp" line="354"/>
+        <location filename="src/launcher/LaunchController.cpp" line="355"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>無法載入實例設定檔。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="356"/>
+        <location filename="src/launcher/LaunchController.cpp" line="361"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>啟動器無法實例化。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="411"/>
         <source>Profiler check for %1 failed: %2</source>
         <translation>分析器對於 %1 的檢查失敗：%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="419"/>
+        <location filename="src/launcher/LaunchController.cpp" line="424"/>
         <source>&amp;Launch</source>
         <translation>啟動 (&amp;L)</translation>
     </message>
@@ -5081,7 +5081,7 @@ Do you want to play the demo?</source>
         <translation type="vanished">無法啟動分析器：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="413"/>
+        <location filename="src/launcher/LaunchController.cpp" line="418"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -5090,7 +5090,7 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="417"/>
+        <location filename="src/launcher/LaunchController.cpp" line="422"/>
         <source>Waiting.</source>
         <translation>請稍候。</translation>
     </message>
@@ -5099,27 +5099,27 @@ Do you want to play the demo?</source>
         <translation type="vanished">啟動</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="425"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>無法啟動分析器：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="426"/>
+        <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="453"/>
+        <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="466"/>
+        <location filename="src/launcher/LaunchController.cpp" line="471"/>
         <source>Kill Minecraft?</source>
         <translation>強制關閉 Minecraft？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="467"/>
+        <location filename="src/launcher/LaunchController.cpp" line="472"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>這可能造成實例發生錯誤，只應該在 Minecraft 因某些原因而沒有回應時使用</translation>
     </message>
