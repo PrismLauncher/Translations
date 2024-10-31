@@ -8527,7 +8527,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished">Frissítési metaadatok visszaállítása</translation>
+        <translation>Mod metaadatainak exportálása szövegbe.</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
