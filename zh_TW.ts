@@ -15210,7 +15210,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>此 Microsoft 帳號沒有 Xbox Live 個人檔案。請先在 %1 上購買遊戲。</translation>
+        <translation>此 Microsoft 帳戶沒有 Xbox Live 個人檔案。請先在 %1 上購買遊戲。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
@@ -15249,7 +15249,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation>這個 Microsoft 帳號尚未接受 Xbox 的服務條款。請登入並接受條款。</translation>
+        <translation>這個 Microsoft 帳戶尚未接受 Xbox 的服務條款。請登入並接受條款。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"/>
