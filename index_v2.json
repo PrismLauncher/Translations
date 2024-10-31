@@ -635,12 +635,12 @@
             "untranslated" : 78
         },
         "zh_TW" : {
-            "file" : "db0dae62325cc4e6f27f6933d9cd2f0ba4be3537.class",
-            "sha1" : "db0dae62325cc4e6f27f6933d9cd2f0ba4be3537",
-            "size" : 217410,
-            "translated" : 2111,
-            "fuzzy" : 15,
-            "untranslated" : 49
+            "file" : "e6315422df4f4f1f382cf91da1ef622747ff1a7f.class",
+            "sha1" : "e6315422df4f4f1f382cf91da1ef622747ff1a7f",
+            "size" : 222129,
+            "translated" : 2153,
+            "fuzzy" : 6,
+            "untranslated" : 16
         }
     }
 }
