@@ -11903,7 +11903,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="145"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>資源包</translation>
+        <translation>材質包</translation>
     </message>
 </context>
 <context>
@@ -11912,7 +11912,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="37"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation>資源包</translation>
+        <translation>材質包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
@@ -13754,7 +13754,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="50"/>
         <source>Texture packs</source>
-        <translation>資源包</translation>
+        <translation>材質包</translation>
     </message>
     <message>
         <source>Download packs</source>
