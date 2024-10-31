@@ -490,14 +490,6 @@
             "fuzzy" : 98,
             "untranslated" : 82
         },
-        "qya" : {
-            "file" : "1179f6aa2071cacc6b08b63f32a253ff1b3547ab.class",
-            "sha1" : "1179f6aa2071cacc6b08b63f32a253ff1b3547ab",
-            "size" : 351,
-            "translated" : 4,
-            "fuzzy" : 0,
-            "untranslated" : 1589
-        },
         "ro" : {
             "file" : "68152b818b0e017e28278ddf769f98e8e56324e7.class",
             "sha1" : "68152b818b0e017e28278ddf769f98e8e56324e7",
