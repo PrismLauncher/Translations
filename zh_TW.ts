@@ -2401,7 +2401,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation>啟用所選項目。</translation>
+        <translation>啟用所有選取的項目。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
@@ -2411,17 +2411,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Add a locally downloaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>新增本機已下載的檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>移除所有選取的項目。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>停用所有選取的項目。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
@@ -2431,7 +2431,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>在檔案管理器中開啟「config」資料夾。</translation>
+        <translation>在系統檔案管理員中開啟「config」資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
@@ -2441,7 +2441,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>在系統檔案管理員中開啟資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
@@ -2451,17 +2451,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>從線上模組平台下載資源。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>嘗試檢查或更新所有選取的資源（如果未選取任何資源，則為所有資源）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>重設更新中繼資料</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
@@ -2471,12 +2471,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出清單</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>將資源的中繼資料匯出為文字。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
@@ -2486,17 +2486,17 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>變更資源的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>瀏覽首頁</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>瀏覽所有選取項目的首頁。</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -2900,17 +2900,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到這項資源的有效版本。它可能不適用於目前的遊戲版本／模組載入器。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到這項資源的有效版本。它可能不適用於目前的遊戲版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>這項資源有新的更新可用，但無法使用 CurseForge 下載。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
@@ -6065,7 +6065,8 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"/>
         <source>Updating index for resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在更新資源的索引：
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
@@ -6487,7 +6488,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>在檔案管理器開啟共用模組資料夾。</translation>
+        <translation>在系統檔案管理員開啟共用模組資料夾。</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -6732,7 +6733,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="556"/>
         <source>Open the instances folder in a file browser.</source>
-        <translation>在檔案管理器中開啟實例資料夾。</translation>
+        <translation>在系統檔案管理員中開啟實例資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="565"/>
@@ -6762,7 +6763,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
         <source>Open the instance icons folder in a file browser.</source>
-        <translation>在檔案管理器中開啟實例圖示資料夾。</translation>
+        <translation>在系統檔案管理員中開啟實例圖示資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
@@ -6772,7 +6773,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Open the logs folder in a file browser.</source>
-        <translation>在檔案管理器中開啟實例記錄檔資料夾。</translation>
+        <translation>在系統檔案管理員中開啟實例記錄檔資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="666"/>
@@ -6792,7 +6793,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
         <source>Open the widget themes folder in a file browser.</source>
-        <translation>在檔案管理器中開啟控制項主題資料夾。</translation>
+        <translation>在系統檔案管理員中開啟控制項主題資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="774"/>
@@ -6802,7 +6803,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="777"/>
         <source>Open the icon theme folder in a file browser.</source>
-        <translation>在檔案管理器中開啟圖示主題資料夾。</translation>
+        <translation>在系統檔案管理員中開啟圖示主題資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="786"/>
@@ -6812,7 +6813,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="789"/>
         <source>Open the cat packs folder in a file browser.</source>
-        <translation>在檔案管理器中開啟貓包資料夾。</translation>
+        <translation>在系統檔案管理員中開啟貓包資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="798"/>
@@ -6935,7 +6936,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="568"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>資料夾在檔案管理器開啟啟動器的根資料夾。</translation>
+        <translation>資料夾在系統檔案管理員開啟啟動器的根資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="630"/>
@@ -7160,7 +7161,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="424"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>在檔案管理器開啟實例的根資料夾。</translation>
+        <translation>在系統檔案管理員開啟實例的根資料夾。</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -15210,7 +15211,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="118"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>此 Microsoft 帳戶沒有 Xbox Live 個人檔案。請先在 %1 上購買遊戲。</translation>
+        <translation>這個 Microsoft 帳號沒有 Xbox Live 個人檔案。請先在 %1 上購買遊戲。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
@@ -15249,7 +15250,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation>這個 Microsoft 帳戶尚未接受 Xbox 的服務條款。請登入並接受條款。</translation>
+        <translation>這個 Microsoft 帳號尚未接受 Xbox 的服務條款。請登入並接受條款。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"/>
