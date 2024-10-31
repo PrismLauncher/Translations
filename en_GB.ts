@@ -792,12 +792,12 @@ Please update both your operating system and PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="798"/>
+        <location filename="src/launcher/Application.cpp" line="799"/>
         <source>Settings</source>
         <translation>Settings</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="945"/>
+        <location filename="src/launcher/Application.cpp" line="946"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -824,12 +824,12 @@ for details on the last update attempt.
 To delete this lock and proceed select &quot;Ignore&quot; below.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="962"/>
+        <location filename="src/launcher/Application.cpp" line="963"/>
         <source>Update In Progress</source>
         <translation>Update In Progress</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="986"/>
+        <location filename="src/launcher/Application.cpp" line="987"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -844,12 +844,12 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="994"/>
+        <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update Failed</source>
         <translation>Update Failed</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1018"/>
+        <location filename="src/launcher/Application.cpp" line="1019"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -870,12 +870,12 @@ Check the Prism Launcher updater log at:
 for details.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1026"/>
+        <location filename="src/launcher/Application.cpp" line="1027"/>
         <source>Update Succeeded</source>
         <translation>Update Succeeded</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1058"/>
+        <location filename="src/launcher/Application.cpp" line="1059"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -896,32 +896,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1064"/>
+        <location filename="src/launcher/Application.cpp" line="1065"/>
         <source>Incompatible system configuration</source>
         <translation>Incompatible system configuration</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1423"/>
+        <location filename="src/launcher/Application.cpp" line="1425"/>
         <source>Aborted</source>
         <translation>Aborted</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1818"/>
+        <location filename="src/launcher/Application.cpp" line="1827"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Old data from %1 was found, but you already have existing data for %2. Sadly, you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1822"/>
+        <location filename="src/launcher/Application.cpp" line="1831"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1828"/>
+        <location filename="src/launcher/Application.cpp" line="1837"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1871"/>
+        <location filename="src/launcher/Application.cpp" line="1880"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migration failed! Reason: %1</translation>
     </message>

@@ -772,12 +772,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="798"/>
+        <location filename="src/launcher/Application.cpp" line="799"/>
         <source>Settings</source>
         <translation>הגדרות</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="945"/>
+        <location filename="src/launcher/Application.cpp" line="946"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -804,12 +804,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 למחיקת הLock הזה ולהמשיך בחרו &quot;התעלם&quot; למטה.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="962"/>
+        <location filename="src/launcher/Application.cpp" line="963"/>
         <source>Update In Progress</source>
         <translation>עדכון מתבצע כעת</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="986"/>
+        <location filename="src/launcher/Application.cpp" line="987"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -824,12 +824,12 @@ for details on the last update attempt.</source>
 עבור פרטים אודות נסיון העדכון האחרון.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="994"/>
+        <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update Failed</source>
         <translation>עדכון נכשל</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1018"/>
+        <location filename="src/launcher/Application.cpp" line="1019"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -850,12 +850,12 @@ for details.</oldsource>
 לפרטים נוספים.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1026"/>
+        <location filename="src/launcher/Application.cpp" line="1027"/>
         <source>Update Succeeded</source>
         <translation>העדכון הצליח</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1058"/>
+        <location filename="src/launcher/Application.cpp" line="1059"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -872,32 +872,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1064"/>
+        <location filename="src/launcher/Application.cpp" line="1065"/>
         <source>Incompatible system configuration</source>
         <translation>מפרט מערכת זה אינו נתמך</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1423"/>
+        <location filename="src/launcher/Application.cpp" line="1425"/>
         <source>Aborted</source>
         <translation>ננתש</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1818"/>
+        <location filename="src/launcher/Application.cpp" line="1827"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>נמצאו נתונים ישנים מ%1, אבל כבק קיים לך נתונים קיימים בשביל %2. למרבה הצער תצטרך להגר בעצמך. האם אתה רוצה להיות מוזכר מהעברת הנתונים בפעם הבאה שאתה מתחיל %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1822"/>
+        <location filename="src/launcher/Application.cpp" line="1831"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>זה נראה שכבר השתמשתה ב%1. אתה מעוניין להעביר את הנתונים שלך למיקום החדש של %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1828"/>
+        <location filename="src/launcher/Application.cpp" line="1837"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>זה נראה שכבר השתמשת ב%1 על %2. אתה מעוניין להעביר את הנתונים שלך למיקום החדש של %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1871"/>
+        <location filename="src/launcher/Application.cpp" line="1880"/>
         <source>Migration failed! Reason: %1</source>
         <translation>העברה נכשלה! סיבה: %1</translation>
     </message>

@@ -763,12 +763,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="798"/>
+        <location filename="src/launcher/Application.cpp" line="799"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="945"/>
+        <location filename="src/launcher/Application.cpp" line="946"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -794,12 +794,12 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 За да изтриете този файл със заключване и да продължите, изберете &quot;Игнорирай&quot; по-долу.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="962"/>
+        <location filename="src/launcher/Application.cpp" line="963"/>
         <source>Update In Progress</source>
         <translation>Актуализация в ход</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="986"/>
+        <location filename="src/launcher/Application.cpp" line="987"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -814,12 +814,12 @@ for details on the last update attempt.</source>
 за подробности за последния опит за актуализация.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="994"/>
+        <location filename="src/launcher/Application.cpp" line="995"/>
         <source>Update Failed</source>
         <translation>Актуализацията се провали</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1018"/>
+        <location filename="src/launcher/Application.cpp" line="1019"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -840,12 +840,12 @@ for details.</oldsource>
 за подробности.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1026"/>
+        <location filename="src/launcher/Application.cpp" line="1027"/>
         <source>Update Succeeded</source>
         <translation>Актуализацията завърши успешно</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1058"/>
+        <location filename="src/launcher/Application.cpp" line="1059"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -862,32 +862,32 @@ Some versions of Minecraft may not launch.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1064"/>
+        <location filename="src/launcher/Application.cpp" line="1065"/>
         <source>Incompatible system configuration</source>
         <translation>Несъвместима системна конфигурация</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1423"/>
+        <location filename="src/launcher/Application.cpp" line="1425"/>
         <source>Aborted</source>
         <translation>Аборт</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1818"/>
+        <location filename="src/launcher/Application.cpp" line="1827"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Стари данни от %1 са намерени, но вече имате съществуващи данни от %2. За жалост ще трябва да мигрирате. Искате ли да бъдете напомнени за предстоящото мигриране на вашите данни при следващият старт на %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1822"/>
+        <location filename="src/launcher/Application.cpp" line="1831"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Изглежда сте ползвали %1 преди. Искате ли да мигрирате вашите данни към новото местоположение на %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1828"/>
+        <location filename="src/launcher/Application.cpp" line="1837"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Изглежда сте ползвали %1 на %2 преди. Искате ли да мигрирате вашите данни към новото местоположение на %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1871"/>
+        <location filename="src/launcher/Application.cpp" line="1880"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Миграцията е неуспешна! Причина: %1</translation>
     </message>
