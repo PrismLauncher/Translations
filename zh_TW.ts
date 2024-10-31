@@ -3438,7 +3438,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="197"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
-        <translation>發生網路錯誤。無法載入專案前置項：%1</translation>
+        <translation>網路發生錯誤。無法載入專案前置項：%1</translation>
     </message>
 </context>
 <context>
@@ -11705,12 +11705,12 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="217"/>
         <source>A network error occurred. Could not load project versions: %1</source>
-        <translation>發生網路錯誤。無法載入專案版本：%1</translation>
+        <translation>網路發生錯誤。無法載入專案版本：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="240"/>
         <source>A network error occurred. Could not load project info: %1</source>
-        <translation>發生網路錯誤。無法載入專案資訊：%1</translation>
+        <translation>網路發生錯誤。無法載入專案資訊：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="246"/>
@@ -12207,7 +12207,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="128"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="228"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation>停用中繼資料時，資源包更新將無法使用！</translation>
+        <translation>停用中繼資料時，將無法更新資源包！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="133"/>
