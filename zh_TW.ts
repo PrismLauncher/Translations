@@ -606,7 +606,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>新增 Microsoft 帳號 (&amp;A)</translation>
+        <translation>新增微軟帳號 (&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
@@ -643,7 +643,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>歡迎！
-如果您是第一次使用，您可以點選「新增 Microsoft 帳號」按鈕來連結您的 Microsoft 帳號。</translation>
+如果您是第一次使用，您可以點選「新增微軟帳號」按鈕來連結您的 Microsoft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
