@@ -1345,7 +1345,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -2417,27 +2417,27 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished">Désactiver l&apos;élément sélectionné</translation>
+        <translation>Désactiver les éléments sélectionnés.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Add File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ajouter un fichier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Add a locally downloaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un fichier téléchargé localement.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer toute la sélection.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactiver toute la sélection.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
@@ -2457,7 +2457,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le dossier dans le gestionnaire de fichiers du système.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
@@ -2467,17 +2467,17 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger des ressources depuis des platformes de mods en ligne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Essayer de vérifier ou mettre à jour les ressources sélectionnées (toute la sélection si aucune n&apos;est sélectionée).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser les métadonnées de mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
@@ -2487,12 +2487,12 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter la liste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter les métadonnées de la ressource en texte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
@@ -2502,17 +2502,17 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer la version de la ressource.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir la page d&apos;accueil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir la page d&apos;acueil de toute la sélection.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -2896,7 +2896,7 @@ Veuillez réessayer.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">Préparation des mods pour CurseForge...</translation>
+        <translation>Préparation des ressources pour CurseForge...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -2916,17 +2916,17 @@ Veuillez réessayer.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aucune version valide trouvée pour cette ressource. Elle est probablement indisponible pour la version actuelle de / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune version valide trouvée pour cette ressource. Elle est probablement indisponible pour la version actuelle du jeu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il y a une mise à jour disponible pour cette ressource, mais elle n&apos;est pas téléchargeable depuis CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
@@ -3741,7 +3741,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
@@ -5135,17 +5135,17 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le compte a expiré et nécessite d&apos;être réauthentifié. Voulez-vous reconnecter ce compte&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>La connexion du compte à expiré et les essais de reconnexion on échoués</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Le compte a expiré et nécessite d&apos;être réauthentifié.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="354"/>
@@ -5846,7 +5846,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Le déplacement de Minecraft décompressé a échoué&#xa0;!</translation>
+        <translation type="unfinished">Le déplacement de Minecraft décompressé a échoué&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -6069,7 +6069,8 @@ Raison&#xa0;:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"/>
         <source>Updating index for resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour du répertoire pour la ressource:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
@@ -6746,7 +6747,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="577"/>
         <source>&amp;Central Mods</source>
-        <translation type="unfinished">&amp;Central Mods</translation>
+        <translation>&amp;Mods centraux</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="589"/>
@@ -8326,27 +8327,27 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="194"/>
         <source>Open source only</source>
-        <translation type="unfinished"></translation>
+        <translation>Open source seulement</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
         <source>Release type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type de sortie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Bêta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="221"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alpha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
@@ -8474,7 +8475,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fournisseur source du mod.</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
@@ -8617,7 +8618,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished">Réinitialiser les métadonnées de mise à jour</translation>
+        <translation>Exporter les métadonnées du mod en texte.</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
@@ -8758,17 +8759,17 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="158"/>
         <source>Download Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger des mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer la version d&apos;un mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
         <source>View the homepages of all selected mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir la page d&apos;acueil des mods séléctionnés.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
@@ -9145,7 +9146,7 @@ Veuillez mettre à jour %1&#xa0;!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Préparation des ressources pour Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="76"/>
@@ -12235,7 +12236,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">«&#xa0;%1&#xa0;» est à jour&#xa0;! :)</translation>
+        <translation type="unfinished">«&#xa0;%1&#xa0;» est à jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
@@ -12399,17 +12400,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Impossible de trouver une version valide dans le gestionnaire de mods sélectionné</translation>
+        <translation>Impossible de trouver une version valide dans le fournisseur de mods sélectionné</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Ce mod a été désactivé car il peut être déjà installé.</translation>
+        <translation>Ce mod a été désactivé car il est peut être déjà installé.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="431"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Gestionnaire&#xa0;: %1</translation>
+        <translation>Fournisseur&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
@@ -12424,22 +12425,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">Type de nouvelle version : %1</translation>
+        <translation type="unfinished">Type de nouvelle version&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Requis par : %1</translation>
+        <translation type="unfinished">Requis par&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="449"/>
         <source>Required by:</source>
-        <translation type="unfinished">Requis par :</translation>
+        <translation type="unfinished">Requis par&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="463"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished">Liste des changements de la dernière version</translation>
+        <translation>Changements depuis la dernière version</translation>
     </message>
 </context>
 <context>
@@ -14842,7 +14843,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
