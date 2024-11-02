@@ -7408,7 +7408,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
         <source>Launch &amp;Offline</source>
-        <translation>Lanzar &amp;sin conexión</translation>
+        <translation>Jugar &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="255"/>
