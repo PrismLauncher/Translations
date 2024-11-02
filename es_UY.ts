@@ -8783,7 +8783,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="191"/>
         <source>Failed to parse versions response: %1</source>
-        <translation>Fallo al analizar la respuesta de la version: %1</translation>
+        <translation>Fallo al analizar la respuesta de la versiones: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="200"/>
@@ -8851,7 +8851,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Este projecto ha sido archivado. No recibirá actualizaciones nuevas a menos que el creadeor decida reanudar el proyecto.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt; Este proyecto ha sido archivado. No recibirá actualizaciones adicionales a menos que el autor decida reanudar el proyecto.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
