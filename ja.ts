@@ -1902,7 +1902,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>リソースにメタデータがあるかどうかを確認中...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
@@ -2309,7 +2309,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
