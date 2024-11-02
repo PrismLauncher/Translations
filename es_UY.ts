@@ -13089,7 +13089,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="123"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="147"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>El gato aparece en el fondo y no se muestra por defecto. Sólo es visible al presionar el botón de Gato en la barra de herramientas.</translation>
+        <translation>El gato aparece en el fondo y no se muestra por defecto. Solo es visible al presionar el botón de Gato en la barra de herramientas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="126"/>
