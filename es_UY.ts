@@ -8851,7 +8851,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation>&lt;b&gt; Este proyecto ha sido archivado. No recibirá actualizaciones adicionales a menos que el autor decida reanudar el proyecto.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Este proyecto ha sido archivado. No recibirá actualizaciones adicionales a menos que el autor decida reanudar el proyecto.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
@@ -9138,7 +9138,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Usernames que excedan los 16 caracteres no pueden usarse en juegos LAN, o en servidores en modo offline.</translation>
+        <translation>Los nombres de usuario de más de 16 caracteres no pueden utilizarse en juegos LAN ni en servidores offline.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
