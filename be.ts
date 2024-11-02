@@ -108,7 +108,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Сер&amp;вер метаданых</translation>
+        <translation>Сервер мета&amp;даных</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
