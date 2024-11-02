@@ -842,11 +842,11 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation>Actualización exitosa
+        <translation>La actualización se ha realizado correctamente
 
 Ahora está ejecutando %1 .
-Revise el registro de actualizaciones de Prism Launcher en: 
-%1
+Comprueba el registro de actualizaciones de Prism Launcher en: 
+%2
 para más detalles.</translation>
     </message>
     <message>
@@ -4023,7 +4023,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="409"/>
         <source>Quit the launcher after game window closes</source>
-        <translation>Salir del launcher después de que la ventana del juego se cierre</translation>
+        <translation>Salir del launcher después de cerrar la ventana del juego</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="433"/>
@@ -4592,12 +4592,12 @@ Verificar que el valor de la memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="234"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Tú memoria maxima asignada excede la capacidad de memoria de tú sistema.</translation>
+        <translation>Su asignación máxima de memoria excede la capacidad de memoria de su sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="237"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Tu memoria máxima asignada está demasiado cerca a la capacidad de memoria de tu sistema.</translation>
+        <translation>Su asignación máxima de memoria se aproxima a la capacidad de memoria de su sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="240"/>
@@ -4736,12 +4736,12 @@ Puedes cambiar la versión de Java en la configuración más tarde.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="515"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Tu memoria máxima asignada excede la capacidad de memoria de tu sistema.</translation>
+        <translation>Su asignación máxima de memoria excede la capacidad de memoria de su sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="518"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Tu memoria máxima asignada está demasiado cerca de la capacidad de memoria de tu sistema.</translation>
+        <translation>Su asignación máxima de memoria se aproxima a la capacidad de memoria de su sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="521"/>
@@ -4820,7 +4820,7 @@ Por favor, selecciona uno de los siguientes o busca un ejecutable java.</transla
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>Argumentos de Java especificados inválidos. Por favor, arregla esto primero.</translation>
+        <translation>Se han especificado argumentos Java no válidos. Por favor, corrija esto primero.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="92"/>
