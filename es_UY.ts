@@ -845,7 +845,7 @@ for details.</oldsource>
         <translation>Actualización exitosa
 
 Ahora está ejecutando %1 .
-Compruebe el registro de actualización de Prism Launcher en: 
+Revise el registro de actualizaciones de Prism Launcher en: 
 %1
 para más detalles.</translation>
     </message>
