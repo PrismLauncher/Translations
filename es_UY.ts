@@ -6180,7 +6180,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Failed to refresh token.</source>
-        <translation>No pudo refrescar el token.</translation>
+        <translation>Fallo al actualizar el token.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="154"/>
