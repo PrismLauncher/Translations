@@ -1300,12 +1300,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -1656,12 +1656,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1885,12 +1885,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2009,12 +2009,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2161,12 +2161,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="108"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="134"/>
@@ -2304,7 +2304,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
@@ -3436,12 +3436,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="66"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="67"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
@@ -3573,12 +3573,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3638,7 +3638,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -3987,7 +3987,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="294"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported for the current minecraft version.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：最大化オプションは現在のマインクラフトのバージョンでは、完全にサポートされていない可能性があります。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：最大化オプションは、現在のマインクラフトのバージョンでは完全にサポートされていない可能性があります。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="303"/>
@@ -4372,7 +4372,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
@@ -6129,7 +6129,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="72"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Open page and copy code</source>
@@ -8163,7 +8163,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Download mods from online mod platforms</source>
-        <translation>オンラインのMODプラットフォームからダウンロード</translation>
+        <translation>オンラインのModプラットフォームからModをダウンロードします</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -9062,12 +9062,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9096,12 +9096,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="112"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="118"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="124"/>
@@ -9222,12 +9222,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9266,12 +9266,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10102,12 +10102,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10129,12 +10129,12 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -10322,7 +10322,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="46"/>
         <source>Bright</source>
-        <translation>ブライト</translation>
+        <translation>ライト</translation>
     </message>
     <message>
         <source>&lt;p&gt;There are no code changes between your current version and latest %1.&lt;/p&gt;</source>
@@ -10923,47 +10923,47 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="30"/>
         <source>item</source>
-        <translation type="unfinished"></translation>
+        <translation>項目</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="32"/>
         <source>items</source>
-        <translation type="unfinished"></translation>
+        <translation>項目</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="591"/>
         <source>No compatible version of %1 found for %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 %3 と互換性のある %1 のバージョンが見つかりません</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="597"/>
         <source>No version list in metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のメタデータインデックスにバージョンリストがありません</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="670"/>
         <source>%1 is missing requirement %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 に必要な %2 %3 がありません</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="677"/>
         <source>%1, a dependency of this component, has reported issues</source>
-        <translation type="unfinished"></translation>
+        <translation>このコンポーネントの依存関係である %1 から問題が報告されています</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="681"/>
         <source>%1, a dependency of this component, is not the required version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>このコンポーネントの依存関係である %1 はバージョン %2 を必要としていません</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="685"/>
         <source>%1, a dependency of this component, is not the suggested version %2</source>
-        <translation type="unfinished"></translation>
+        <translation>このコンポーネントの依存関係である %1 はバージョン %2 を推奨していません</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="699"/>
         <source>%1 and %2 are known to not work together. It is recommended to remove one of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 と %2 は一緒に動作しないことが知られています。どちらかを削除することをおすすめします。</translation>
     </message>
 </context>
 <context>
@@ -11246,7 +11246,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="476"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="495"/>
@@ -11842,12 +11842,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
@@ -12083,12 +12083,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="13"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12143,12 +12143,12 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12557,12 +12557,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="97"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="98"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="144"/>
@@ -13725,7 +13725,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Add to Minecraft.jar</source>
-        <translation>Minecraft.jarに追加</translation>
+        <translation>minecraft.jarに追加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
@@ -13735,7 +13735,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Replace Minecraft.jar</source>
-        <translation>minecraft.jar を置換</translation>
+        <translation>minecraft.jarを置換</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
@@ -13948,12 +13948,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Minecraft.jar mods</source>
-        <translation>Minecraft.jarのMod</translation>
+        <translation>minecraft.jarのMod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Minecraft.jar replacement</source>
-        <translation>Minecraft.jarの置き換え</translation>
+        <translation>minecraft.jarの置き換え</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
@@ -14229,7 +14229,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
