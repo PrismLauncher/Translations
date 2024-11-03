@@ -6402,27 +6402,27 @@ Reason:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Failed to refresh token.</source>
         <translation>令牌（Token）更新失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="153"/>
         <source>Logging in with Microsoft account.</source>
         <translation>正在使用 Microsoft 账户登录。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="162"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="161"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation>Microsoft 账户身份验证失败——客户端标识已更改。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="166"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="165"/>
         <source>Microsoft user authentication failed - refresh token is empty.</source>
         <translation>Microsoft 账户身份验证失败——更新令牌（token）为空。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
         <translation>已获取 </translation>
     </message>
@@ -6435,7 +6435,7 @@ Reason:
         <translation type="vanished">微软用户身份验证失败——用户不再存在。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="132"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="131"/>
         <source>Microsoft user authentication failed.</source>
         <translation>微软用户验证失败。</translation>
     </message>
