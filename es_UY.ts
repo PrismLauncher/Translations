@@ -9727,86 +9727,87 @@ El actualizador no puede continuar hasta que solucione este problema.</translati
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="669"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="676"/>
         <source>Installing from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalando de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="681"/>
         <source>Installing %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalando %1 de %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="685"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al copiar %1 a %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="700"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1176"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo no existe, ignorando: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="713"/>
         <source>There were errors installing the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se han producido errores al instalar la actualización.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="717"/>
         <source>Update succeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización exitosa.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="878"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay Recursos de Lanzamiento Válidos</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>El lanzamiento de Github %1 no tiene recursos válidos para esta plataforma: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 portable: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
         <source>yes</source>
-        <translation type="unfinished"></translation>
+        <translation>si</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
         <source>no</source>
-        <translation type="unfinished"></translation>
+        <translation>no</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
         <source>No version selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay ninguna versión seleccionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
         <source>No version was selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha seleccionado ninguna versión.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al Descargar</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido descargar el recursos seleccionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="998"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización ya en progres
+</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1000"/>
