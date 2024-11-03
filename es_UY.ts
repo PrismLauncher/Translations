@@ -13,17 +13,17 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Servicio de pegado &amp;Type</translation>
+        <translation>&amp;Tipo de servicio de pegado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>&amp;URL Base</translation>
+        <translation>&amp;URL por defecto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nota: probablemente quieras cambiar o eliminar la URL por defecto después de cambiar el tipo de servicio de pegado.</translation>
+        <translation>Nota: es probable que desee cambiar o borrar la URL por defecto después de cambiar el tipo de servicio de pegado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Nota: Probablemente no necesites cambiar esto si el inicio de sesión mediante la Autenticación de Microsoft funciona.</translation>
+        <translation>Nota: probablemente no necesite configurar esto si el inicio de sesión a través de la autenticación de Microsoft ya funciona.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Ingrese un ID de cliente para autenticación con Microsoft aquí.</translation>
+        <translation>Introduzca aquí una ID de cliente personalizada para la autenticación de Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -73,7 +73,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="307"/>
         <source>(None)</source>
-        <translation>(Ninguno)</translation>
+        <translation>(Ninguna)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
@@ -83,12 +83,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: sólo necesitas configurar esto para acceder a datos privados.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: sólo necesita configurar esto para acceder a datos privados.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Ingrese un ID de cliente GUID personalizado para Technic.</translation>
+        <translation>Introduzca aquí una ID de cliente GUID personalizada para Technic.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -103,12 +103,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Ingrese un usuario de agente personalizado aquí. La cadena especial $LAUNCHER_VER será remplazada con la versión del launcher.</translation>
+        <translation>Introduzca aquí un agente de usuario personalizado. La cadena especial $LAUNCHER_VER se sustituirá por la versión del launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Servidor de Meta&amp;data</translation>
+        <translation>Servidor de Meta&amp;datos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
@@ -118,22 +118,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Puedes colocar un servidor de metadata de terceros para usar librerías modificadas u otras modificaciones.</translation>
+        <translation>Puede establecer esto a un servidor de metadatos de terceros para utilizar bibliotecas parcheadas u otras modificaciones.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Ingrese una URL personalizada para el meta aquí.</translation>
+        <translation>Introduzca aquí una URL personalizada para metadatos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>API princial de &amp;CurseForge</translation>
+        <translation>API principal de &amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Nota: probablemente no necesites configurar esto si CurseForge ya funciona.</translation>
+        <translation>Nota: probablemente no necesite configurar esto si CurseForge ya funciona.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
@@ -184,17 +184,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="373"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Error al encontrar la versión para el cargador %1</translation>
+        <translation>Error al encontrar la versión para el loader %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
         <source>No loader version set for modpack!</source>
-        <translation>¡No se estableció una versión del cargador para el modpack!</translation>
+        <translation>¡No se estableció una versión del loader para el modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tipo de descarga desconocido o no soportado: %1</translation>
+        <translation>Tipo de descarga desconocida o no soportada: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
@@ -239,7 +239,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="744"/>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="874"/>
         <source>Unknown download type: %1</source>
-        <translation>Tipo de descarga desconocido: %1</translation>
+        <translation>Tipo de descarga desconocida: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
@@ -249,7 +249,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Los siguientes archivos no están disponibles para descargar en lanzadores de terceros.&lt;br/&gt;Necesitas descargarlos manualmente y añadirlos a la instancia.</translation>
+        <translation>Los siguientes archivos no están disponibles para descargar en launchers de terceros.&lt;br/&gt;Necesita descargarlos manualmente y añadirlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
@@ -598,13 +598,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;Agregar Microsoft</translation>
+        <translation>&amp;Añadir Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="92"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Agregar &amp;Offline</translation>
+        <translation>Añadir &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="97"/>
@@ -634,8 +634,8 @@ Si eres nuevo aquí, haz clic en el botón &quot;Agregar&quot; para agregar tu c
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="57"/>
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
-        <translation>¡Bienvenido!
-Si eres nuevo aquí, puedes seleccionar el botón &quot;Agregar Microsoft&quot; para vincular tu cuenta de Microsoft.</translation>
+        <translation>¡Te damos la bienvenida!
+Si eres nuevo/a aquí, puedes seleccionar el botón &quot;Añadir Microsoft&quot; para vincular tu cuenta de Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -701,7 +701,7 @@ Actualice su sistema operativo y %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="153"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Ingrese su nombre de usuario deseado para agregar su cuenta fuera de línea.</translation>
+        <translation>Ingrese su nombre de usuario deseado para añadir su cuenta offline.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -862,7 +862,7 @@ Some versions of Minecraft may not launch.
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
         <translation>Su directorio /tmp actualmente se encuentra montado con la opción &apos;noexec&apos; activada
-Algunas versiones de Minecraft podrían no lanzarse.
+Algunas versiones de Minecraft podrían no iniciarse.
 
 Puedes resolver este problema volviendo a montar /tmp con la opción &apos;exec&apos; o configurando el argumento java.io.tmpdir de JVM con un directorio con permisos de escritura dónde la opción &apos;exec&apos; haya sido configurada (ej:, /home/user/.local/tmp)
 </translation>
@@ -1327,7 +1327,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
         <source>Add Download Folder</source>
-        <translation>Agregar carpeta de descarga</translation>
+        <translation>Añadir Carpeta de Descargas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
@@ -1347,7 +1347,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Su carpeta de mods globales configurados y la carpeta de descargas predeterminada se verifican automáticamente en busca de los mods descargados y se copiarán en la instancia si se encuentran.&lt;/p&gt;&lt;p&gt;Opcionalmente, puede arrastrar y soltar las modificaciones descargadas en este cuadro de diálogo o agregar una carpeta para ver si no descargó los modss en una ubicación predeterminada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Su carpeta de mods globales configurados y la carpeta de descargas predeterminada se verifican automáticamente en busca de los mods descargados y se copiarán en la instancia si se encuentran.&lt;/p&gt;&lt;p&gt;Opcionalmente, puede arrastrar y soltar las modificaciones descargadas en este cuadro de diálogo o añadir una carpeta para verificar que no descargó los mods en una ubicación predeterminada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1977,7 +1977,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
         <source>&amp;Add</source>
-        <translation>&amp;Agregar</translation>
+        <translation>&amp;Añadir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
@@ -3419,7 +3419,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="63"/>
         <source>Add Icon</source>
-        <translation>Agregar ícono</translation>
+        <translation>Añadir Ícono</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="64"/>
@@ -4276,7 +4276,7 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="90"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Lanzar</translation>
+        <translation>&amp;Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="98"/>
@@ -5662,7 +5662,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="108"/>
         <source>Add pack</source>
-        <translation>Agregar modpack</translation>
+        <translation>Añadir modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
@@ -5708,7 +5708,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Add FTB pack</source>
-        <translation>Agregar modpack de FTB</translation>
+        <translation>Añadir modpack de FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
@@ -5982,7 +5982,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Agregar cuenta de Microsoft&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Añadir una cuenta de Microsoft&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
@@ -6252,7 +6252,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="296"/>
         <source>Add a new instance.</source>
-        <translation>Agregar una nueva instancia.</translation>
+        <translation>Añadir una nueva instancia.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -6743,7 +6743,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="505"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>Crea un atajo en tu escritorio para lanzar la instancia seleccionada.</translation>
+        <translation>Crea un atajo en su escritorio para iniciar la instancia seleccionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="741"/>
@@ -7404,7 +7404,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="252"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Lanzar</translation>
+        <translation>&amp;Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="254"/>
@@ -7419,7 +7419,7 @@ Este puede ser actualizado usando solo un archivo con el formato %1
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="256"/>
         <source>Launch &amp;Demo</source>
-        <translation>Lanzar &amp;Demo</translation>
+        <translation>Iniciar &amp;Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="257"/>
@@ -8974,7 +8974,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <source>Add Empty Component</source>
-        <translation>Agregar componente vacío</translation>
+        <translation>Añadir Componente Vacío</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
@@ -9129,7 +9129,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation>Agregar cuenta</translation>
+        <translation>Añadir Cuenta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
@@ -9528,8 +9528,8 @@ Razón: %1.</translation>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation>Actualizador falló al cerrar en 60 segundos
-Razón: %1.</translation>
+        <translation>El actualizador no ha podido cerrarse en 60 segundos
+Motivo: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
@@ -9931,7 +9931,7 @@ Para sobrescribir este bloqueo y proceder con esta actualización de todos modos
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1213"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
-        <translation>Error al lanzar el proceso hijo &quot;%1 %2&quot;.</translation>
+        <translation>Error al iniciar el proceso hijo &quot;%1 %2&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1215"/>
@@ -12078,7 +12078,7 @@ Versión instalada actualmente: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="155"/>
         <source>Add</source>
-        <translation>Agregar</translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
@@ -13534,12 +13534,12 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Add to Minecraft.jar</source>
-        <translation>Agregar a Minecraft.jar</translation>
+        <translation>Añadir a Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>Agregar un mod al archivo jar de Minecraft.</translation>
+        <translation>Añadir un mod en el archivo jar de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
@@ -13559,7 +13559,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
         <source>Add Empty</source>
-        <translation>Agregar vacío</translation>
+        <translation>Añadir Vacío</translation>
     </message>
     <message>
         <source>Add an empty custom package.</source>
@@ -14155,7 +14155,7 @@ Ruta canónica: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="98"/>
         <source>Add</source>
-        <translation>Agregar</translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="103"/>
