@@ -107,9 +107,9 @@
             "untranslated" : 1073
         },
         "en@uwu" : {
-            "file" : "3f0c81a29ab172e9e1547161ddf9aff8fecd4da8.class",
-            "sha1" : "3f0c81a29ab172e9e1547161ddf9aff8fecd4da8",
-            "size" : 217161,
+            "file" : "c238f4dea88a3658430843caab96b39660ebfda2.class",
+            "sha1" : "c238f4dea88a3658430843caab96b39660ebfda2",
+            "size" : 217157,
             "translated" : 1538,
             "fuzzy" : 0,
             "untranslated" : 0
@@ -315,12 +315,12 @@
             "untranslated" : 0
         },
         "ja" : {
-            "file" : "7827623cb42dc0162764f17df96ae73fad9c3bb3.class",
-            "sha1" : "7827623cb42dc0162764f17df96ae73fad9c3bb3",
-            "size" : 248419,
-            "translated" : 1928,
-            "fuzzy" : 235,
-            "untranslated" : 12
+            "file" : "7c8e46f96a47f9ade6165021159eeb4177dfa9a5.class",
+            "sha1" : "7c8e46f96a47f9ade6165021159eeb4177dfa9a5",
+            "size" : 249642,
+            "translated" : 1977,
+            "fuzzy" : 195,
+            "untranslated" : 3
         },
         "ja_KANJI" : {
             "file" : "6cd76bc05a6b69483ebee0223cd89f6194b903cc.class",
