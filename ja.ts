@@ -2424,7 +2424,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation>選択されているリソースの更新を確認します（未選択の場合はすべて）。</translation>
+        <translation>選択されたリソースのアップデートを確認します（未選択の場合はすべて）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
@@ -3982,7 +3982,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="291"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームは解像度のみをサポートしています。最大化の動作に似せるため、現在の実装では最大ディスプレイサイズに設定します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="294"/>
@@ -4070,7 +4070,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="702"/>
         <source>Singleplayer world</source>
-        <translation>シングルプレイ・ワールド</translation>
+        <translation>シングルプレイのワールド</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="715"/>
@@ -4362,7 +4362,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;リフレッシュ</translation>
+        <translation>更新(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
@@ -4498,7 +4498,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
         <source>Management</source>
-        <translation>マネジメント</translation>
+        <translation>管理</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
@@ -5305,7 +5305,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Java:</source>
-        <translation>&amp;java:</translation>
+        <translation>Java(&amp;J)：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -7555,7 +7555,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="61"/>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>新しいバージョンのゲームは解像度のみをサポートしています。最大化の動作に似せるため、現在の実装では最大ディスプレイサイズにします。</translation>
+        <translation>新しいバージョンのゲームは解像度のみをサポートしています。最大化の動作に似せるため、現在の実装では最大ディスプレイサイズに設定します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="64"/>
@@ -8191,7 +8191,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>選択したMODの更新を確認します (何も選択されていない場合はすべてのMODの更新が確認されます)</translation>
+        <translation>選択されたModのアップデートを確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -10815,7 +10815,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
         <source>texture pack</source>
-        <translation>テクスチャパック</translation>
+        <translation>テクスチャーパック</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
@@ -11551,7 +11551,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="57"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation>選択されているリソースパックの更新を確認します（未選択の場合はすべて）</translation>
+        <translation>選択されたリソースパックのアップデートを確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="71"/>
@@ -12326,7 +12326,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation>選択されたすべてのシェーダーパックのアップデートを確認します（未選択の場合はすべてのシェーダーパック）</translation>
+        <translation>選択されたシェーダーパックのアップデートを確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
@@ -12815,27 +12815,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaバイナリのパスを確認中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaバイナリのパスを検索中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaバイナリのパスの検索に失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
+        <translation>シンボリックリンクするフォルダを収集中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaバイナリのパスをシンボリックリンク中</translation>
     </message>
 </context>
 <context>
@@ -13062,7 +13062,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <translation>このリソースパックが最後に変更(または追加) された日時です。</translation>
+        <translation>テクスチャーパックが最後に変更または追加された日時。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
@@ -13113,12 +13113,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The source provider of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>テクスチャーパックの提供元。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="148"/>
         <source>The size of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>テクスチャーパックのサイズ。</translation>
     </message>
     <message>
         <source>Is the resource enabled?</source>
@@ -13154,27 +13154,27 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished">パックをダウンロード</translation>
+        <translation>パックをダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>オンラインのModプラットフォームから、テクスチャーパックをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたテクスチャーパックのアップデートを確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>テクスチャーパックのバージョンを変更します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたすべてのテクスチャーパックのホームページを表示します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="98"/>
@@ -13218,7 +13218,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="132"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="231"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>メタデータが無効化されているため、テクスチャーパックのアップデートは利用できません！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
@@ -13230,12 +13230,14 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームの実行中にテクスチャーパックを更新すると、パックの重複やゲームのクラッシュが起きる可能性があります。
+古いファイルは使用中の場合、削除されません。
+本当に実行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="158"/>
         <source>The texture pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>テクスチャーパックのアップデートが中止されました！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="162"/>
@@ -13245,12 +13247,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="165"/>
         <source>All texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのテクスチャーパックは最新です！ :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="167"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたすべてのテクスチャーパックは最新です！ :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
@@ -13266,7 +13268,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="213"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 個のテクスチャーパックのメタデータを削除しようとしています。
+本当によろしいですか？</translation>
     </message>
 </context>
 <context>
@@ -13288,7 +13291,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="80"/>
         <source>&amp;Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィジェット(&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
@@ -13314,7 +13317,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="189"/>
         <source>Refresh all</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてをリフレッシュ</translation>
     </message>
 </context>
 <context>
@@ -13371,7 +13374,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="400"/>
         <source>The native language name.</source>
-        <translation>母国語.</translation>
+        <translation>母国語の名前。</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
@@ -13572,7 +13575,9 @@ Are you sure?</source>
         <source>Max memory allocation exceeds the supported value.
 The selected installation of Java is 32-bit and doesn&apos;t support more than 2048MiB of RAM.
 The instance may not start due to this.</source>
-        <translation type="unfinished"></translation>
+        <translation>最大メモリ割り当て量がサポートされる値を超えています。
+選択されたJavaは32bitなので、2048MiBを超えるRAMをサポートしていません。
+このため、起動構成が起動しない可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
@@ -13720,7 +13725,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Add to Minecraft.jar</source>
-        <translation>jar Mod を追加</translation>
+        <translation>Minecraft.jarに追加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
@@ -13943,17 +13948,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
         <source>Minecraft.jar mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft.jarのMod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Minecraft.jar replacement</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft.jarの置き換え</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Java agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaエージェント</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -13976,7 +13981,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>コンポーネント</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
@@ -14139,12 +14144,12 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="122"/>
         <source>Java Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaの名前</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="124"/>
         <source>Major Version</source>
-        <translation type="unfinished"></translation>
+        <translation>メジャーバージョン</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="126"/>
@@ -14154,7 +14159,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
         <source>The name of the version.</source>
-        <translation>バージョンの名前.</translation>
+        <translation>バージョン名。</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
@@ -14179,19 +14184,19 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>Filesystem path to this version</source>
-        <translation>バージョンへのファイルシステム上のパス</translation>
+        <translation>そのバージョンのファイルパス</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The alternative name of the Java version</source>
         <oldsource>The alternative name of the java version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Javaバージョンの別名</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>The Java major version</source>
         <oldsource>The java major version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Javaのメジャーバージョン</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
@@ -14491,7 +14496,7 @@ MCEditの再インストールが必要なようです。</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>MinecraftのワールドのZipファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
@@ -14613,27 +14618,27 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>このMicrosoftアカウントでプレイするには年齢の証明が必要です。年齢を証明するには %1 にログインしてください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>このMicrosoftアカウントはプレイ時間の上限に達しました。このMicrosoftアカウントへのログインはブロックされています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="146"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>このMicrosoftアカウントはXboxのコミュニティ基準に1つ以上違反したため、Xboxによって停止されており、使用できません。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>このMicrosoftアカウントは現在制限されており、保護者がオンラインプレイの許可を与えていません。%1 にログインして、保護者に許可を変更してもらってください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>このMicrosoftアカウントはXboxの利用規約に同意していません。ログインして同意してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"/>
