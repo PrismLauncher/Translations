@@ -8738,7 +8738,7 @@ Es posible que los archivos antiguos no se eliminen, ya que están en uso.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="233"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>¡Todos los mods seleccionados está actualizada! :)</translation>
+        <translation>¡Todos los mods seleccionados están actualizados! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
