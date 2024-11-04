@@ -1215,7 +1215,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>互換性のある Java が以下の項目にで見つかりました: %1</translation>
+        <translation>互換性のあるJavaが見つかりました：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="156"/>
@@ -2369,7 +2369,7 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished">選択したアイテムを無効化</translation>
+        <translation>選択されたものすべてを有効にします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
@@ -2384,12 +2384,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation>選択しているものをすべて削除します。</translation>
+        <translation>選択されたものすべてを削除します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation>選択しているものをすべて無効にします。</translation>
+        <translation>選択されたものすべてを無効にします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
@@ -2459,12 +2459,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation>ホームページを表示</translation>
+        <translation>ホームページを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation>選択しているものすべてのホームページを表示します。</translation>
+        <translation>選択されたものすべてのホームページを開きます。</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -5457,7 +5457,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[テスト/Error] OOoooOOOoooo！不気味なエラー！</translation>
+        <translation>[Test/ERROR] OOoooOOOoooo！不気味なエラー！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
@@ -6104,7 +6104,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="117"/>
         <source>Sign in with Microsoft</source>
-        <translation>Microsoftでサインイン</translation>
+        <translation>Microsoftアカウントにサインイン</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="166"/>
@@ -8352,7 +8352,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
         <source>View the homepages of all selected mods.</source>
-        <translation>選択しているすべてのModのホームページを表示します。</translation>
+        <translation>選択されたすべてのModのホームページを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
@@ -13174,7 +13174,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation>選択されたすべてのテクスチャーパックのホームページを表示します。</translation>
+        <translation>選択されたすべてのテクスチャーパックのホームページを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="98"/>
