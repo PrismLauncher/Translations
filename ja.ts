@@ -834,12 +834,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">アップデートに成功しました。
+        <translation>アップデートに成功
 
-現在 %1 を実行しています。
-詳細については :
-%1
-のログを確認してください。</translation>
+現在、%1 を実行しています。
+詳細はPrism Launcherのアップデーターログ ：
+%2
+を確認してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1027"/>
@@ -4362,7 +4362,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
         <source>&amp;Refresh</source>
-        <translation>更新(&amp;R)</translation>
+        <translation>再読み込み(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="214"/>
@@ -4572,7 +4572,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation>管理されたJavaのバージョンがインストールされていません</translation>
+        <translation>管理されているJavaバージョンはありません</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
@@ -12285,7 +12285,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation>終了(&amp;F)</translation>
+        <translation>完了(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
@@ -13317,7 +13317,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="189"/>
         <source>Refresh all</source>
-        <translation>すべてをリフレッシュ</translation>
+        <translation>すべて再読み込み</translation>
     </message>
 </context>
 <context>
