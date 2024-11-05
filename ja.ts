@@ -4174,7 +4174,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="680"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">起動時にサーバーを設定する</translation>
+        <translation>起動時に参加するサーバーを選択</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="692"/>
