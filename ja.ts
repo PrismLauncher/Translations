@@ -909,7 +909,7 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Javaを展開しています</translation>
+        <translation>Javaを展開しています</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
@@ -1142,7 +1142,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation type="unfinished">待機中...</translation>
+        <translation>待機中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
@@ -1152,42 +1152,42 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">認証に成功しました。</translation>
+        <translation>認証に成功しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">認証サーバーへの接続に失敗しました。</translation>
+        <translation>認証サーバーへの接続に失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">クライアントIDが変更されました。新しいセッションを作成する必要があります。</translation>
+        <translation>クライアントIDが変更されました。新しいセッションを作成する必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">認証中にエラーが発生しました。</translation>
+        <translation>認証中にエラーが発生しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="128"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">認証に失敗しました。セッションの有効期限が切れています。</translation>
+        <translation>認証に失敗しました。セッションの有効期限が切れています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="135"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">認証に失敗しました。このアカウントは存在しません。</translation>
+        <translation>認証に失敗しました。このアカウントは存在しません。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>...</source>
-        <translation type="unfinished">…</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">不明なアカウントのタスクの状態: %1</translation>
+        <translation>不明なアカウントのタスクの状態: 1%</translation>
     </message>
 </context>
 <context>
@@ -2177,7 +2177,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="135"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinthのpack</translation>
+        <translation>Modrinthのパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="142"/>
@@ -2279,7 +2279,7 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
         <source>Filename</source>
-        <translation type="unfinished">ファイル名</translation>
+        <translation>ファイル名</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
@@ -2319,7 +2319,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
         <source>File</source>
-        <translation type="unfinished">ファイル</translation>
+        <translation>ファイル</translation>
     </message>
 </context>
 <context>
@@ -2434,7 +2434,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">依存関係を検証</translation>
+        <translation>依存関係を検証</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
@@ -2449,7 +2449,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation type="unfinished">バージョンを変更</translation>
+        <translation>バージョンを変更</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
@@ -2835,7 +2835,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">&apos;%1&apos;に関するCurseForgeのAPI応答を解析中…</translation>
+        <translation>&apos;%1&apos;に関するCurseForgeのAPI応答を解析中…</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2848,7 +2848,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">CurseForgeのmodを準備中…</translation>
+        <translation>CurseForgeのmodを準備中…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -2883,7 +2883,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
         <source>Not installed</source>
-        <translation type="unfinished">インストールされていない</translation>
+        <translation>インストールされていない</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
