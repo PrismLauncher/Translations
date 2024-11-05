@@ -1340,7 +1340,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
@@ -1695,17 +1695,17 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished">Aide</translation>
+        <translation>Aide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1929,12 +1929,12 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2053,12 +2053,12 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2209,12 +2209,12 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="108"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="134"/>
@@ -2352,7 +2352,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
@@ -2482,7 +2482,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">Vérifier les dépendances</translation>
+        <translation>Vérifier les dépendances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
@@ -2497,7 +2497,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation type="unfinished">Changer de version</translation>
+        <translation>Changer de version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
@@ -2916,7 +2916,7 @@ Veuillez réessayer.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Aucune version valide trouvée pour cette ressource. Elle est probablement indisponible pour la version actuelle de / mod loader.</translation>
+        <translation>Aucune version valide trouvée pour cette ressource. Elle est probablement indisponible pour la version actuelle de / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
@@ -2931,12 +2931,12 @@ Veuillez réessayer.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
         <source>Not installed</source>
-        <translation type="unfinished">Non installé</translation>
+        <translation>Non installé</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
         <source>Unknown</source>
-        <translation type="unfinished">Inconnu</translation>
+        <translation>Inconnu</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3249,7 +3249,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Filter options</source>
-        <translation type="unfinished">Options de filtre</translation>
+        <translation>Options de filtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -3529,12 +3529,12 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="66"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="67"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
@@ -3670,12 +3670,12 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3746,7 +3746,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -4140,12 +4140,12 @@ Procéder avec prudence!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="291"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
-        <translation type="unfinished"></translation>
+        <translation>Le jeu de base ne supporte qu&apos;une seule résolution. Afin de simuler la taille maximisée, l&apos;implémentation actuelle approche approximativement la taille maximale de l&apos;écran.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="294"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported for the current minecraft version.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#xa0;:600&#x202f;; color&#xa0;:#f5c211&#x202f;;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color&#xa0;:#f5c211&#x202f;;&quot;&gt;&#xa0;: L&apos;option de maximisation pourrait ne pas être entièrement supportée pour la version actuelle de Minecraft.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="303"/>
@@ -4542,7 +4542,7 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
@@ -5145,7 +5145,7 @@ Souhaitez-vous lancer la démo&#xa0;?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation>Le compte a expiré et nécessite d&apos;être réauthentifié.</translation>
+        <translation>Le compte a expiré et nécessite d&apos;être réauthentifié</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="354"/>
@@ -5846,7 +5846,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Le déplacement de Minecraft décompressé a échoué&#x202f;!</translation>
+        <translation>Le déplacement de Minecraft décompressé a échoué&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -6075,7 +6075,7 @@ Raison&#xa0;:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished">Métadonnées non valides</translation>
+        <translation>Métadonnées non valides</translation>
     </message>
 </context>
 <context>
@@ -8039,12 +8039,12 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="61"/>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dans les nouvelles versions, le jeu ne supporte qu&apos;une seule résolution. Afin de simuler la taille maximisée, l&apos;implémentation actuelle approche approximativement la taille maximale de l&apos;écran.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="64"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: On the newer Minecraft versions the start maximized option is not fully supported.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#xa0;:600&#x202f;; color&#xa0;:#f5c211&#x202f;;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color&#xa0;:#f5c211&#x202f;;&quot;&gt;&#xa0;: Dans les nouvelles version de minecraft l&apos;option de démarage en plein écran n&apos;est pas entièrement supporté.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="133"/>
@@ -8352,7 +8352,7 @@ Il ne peut être mis à jour qu&apos;à l&apos;aide d&apos;un fichier au format 
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="228"/>
         <source>Unknown</source>
-        <translation type="unfinished">Inconnu</translation>
+        <translation>Inconnu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
@@ -9156,22 +9156,22 @@ Veuillez mettre à jour %1&#xa0;!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
         <source>Not installed</source>
-        <translation type="unfinished">Non installé</translation>
+        <translation>Non installé</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="147"/>
         <source>Unknown</source>
-        <translation type="unfinished">Inconnu</translation>
+        <translation>Inconnu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Aucune version valide trouvée pour cette ressource. Elle est probablement indisponible pour la version actuelle de / mod loader.</translation>
+        <translation>Aucune version valide trouvée pour cette ressource. Elle est probablement indisponible pour la version actuelle de / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="191"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Aucune version valide trouvée pour cette ressource. Elle est probablement indisponible pour la version actuelle du jeu.</translation>
+        <translation>Aucune version valide trouvée pour cette ressource. Elle est probablement indisponible pour la version actuelle du jeu.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -9404,7 +9404,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Options de filtre</translation>
+        <translation>Options de filtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -9625,12 +9625,12 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9659,17 +9659,17 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="112"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="118"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="124"/>
         <source>Help</source>
-        <translation type="unfinished">Aide</translation>
+        <translation>Aide</translation>
     </message>
 </context>
 <context>
@@ -9785,12 +9785,12 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="12"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.cpp" line="13"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9829,12 +9829,12 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="48"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10009,12 +10009,12 @@ Cela peut être permanent et le fichier sera supprimé du dossier des logs.
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="42"/>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pagedialog/PageDialog.cpp" line="43"/>
         <source>Help</source>
-        <translation type="unfinished">Aide</translation>
+        <translation>Aide</translation>
     </message>
 </context>
 <context>
@@ -10677,12 +10677,12 @@ Pour passer outre ce verrouillage et procéder quand même à cette mise à jour
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="75"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="76"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10704,12 +10704,12 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur&#xa0;:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="75"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -11581,7 +11581,7 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="95"/>
         <source>Unknown</source>
-        <translation type="unfinished">Inconnu</translation>
+        <translation>Inconnu</translation>
     </message>
 </context>
 <context>
@@ -11677,7 +11677,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="390"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>Change %1 version</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -11830,7 +11830,7 @@ Veuillez mettre à jour %1&#xa0;!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="292"/>
         <source> [installed]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [installé]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="299"/>
@@ -11860,7 +11860,7 @@ Veuillez mettre à jour %1&#xa0;!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="476"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="495"/>
@@ -11984,7 +11984,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
         <source>Provider</source>
-        <translation type="unfinished">Fournisseur</translation>
+        <translation>Fournisseur</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -12021,7 +12021,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The source provider of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>La source du fournisseur de la ressource.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
@@ -12064,7 +12064,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Provider</source>
-        <translation type="unfinished">Fournisseur</translation>
+        <translation>Fournisseur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="80"/>
@@ -12097,7 +12097,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="172"/>
         <source>The source provider of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fournisseur source du resource pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="174"/>
@@ -12155,22 +12155,22 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Télecharger des packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="51"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger des pack de ressources depuis des plateformes de mods en ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="57"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Essayez de vérifié ou ettre a jour tout les pack de ressources selectionés (tous les packs de ressources si aucun n&apos;a été selectionné)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="71"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Changer la version d&apos;un mod.</translation>
+        <translation>Changer la version d&apos;un mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="94"/>
@@ -12214,55 +12214,58 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="128"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="228"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Les mises à jour du pack de ressources sont indisponibles quand la metadata est désactivée&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="133"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmer la mise à jour</translation>
+        <translation>Confirmer la mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="134"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour les packs de ressources pendant que le jeu est en cours d&apos;exécution peut provoquer des duplications de packs et des plantages du jeu.
+Les anciens fichiers pourrais ne pas être supprimés car ils sont en cours d&apos;utilisation.
+Êtes-vous sûr de vouloir faire cela&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="154"/>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;updater des packs de ressources a été avorté&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">«&#xa0;%1&#xa0;» est à jour&#x202f;!&#xa0;:)</translation>
+        <translation>&apos;%1&apos; est à jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout les packs de ressources sont a jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="163"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout les packs de ressources selectionés sont a jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
         <source>Update checker</source>
-        <translation type="unfinished">Vérificateur de mise à jour</translation>
+        <translation>Vérificateur de mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="208"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la supréssion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous allez supprimé la metadata pour %1 pack de ressources.
+Êtes-vous sûr&#x202f;?</translation>
     </message>
 </context>
 <context>
@@ -12287,37 +12290,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="44"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer les ressources à mettre à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous allez mettre à jour les ressources suivantes&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Seules les ressources avec une coche seront mises à jour&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Nom du mod&#xa0;: %1&lt;br&gt;Nom du fichier&#xa0;: %2&lt;br&gt;Raison&#xa0;: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Nom du mod&#xa0;: %1&lt;br&gt;Nom du fichier&#xa0;: %2&lt;br&gt;Raison&#xa0;: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">La génération des métadonnées a échouée</translation>
+        <translation>La génération des métadonnées a échouée</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de générer des métadonnées pour les ressources suivantes&#xa0;:&lt;br&gt;Souhaitez-vous continuer sans ces ressources&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="93"/>
         <source>Checking for updates</source>
-        <translation type="unfinished">Vérification des mises à jour</translation>
+        <translation>Recherche de mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="114"/>
@@ -12326,76 +12329,76 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="355"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="410"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="206"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avertissements</translation>
+        <translation>Avertissements</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="211"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="366"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Avorter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recherche de mise a jour...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="172"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Nom du mod&#xa0;: %1</translation>
+        <translation>Nom du mod&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="174"/>
         <source>Reason: %1</source>
-        <translation type="unfinished">Raison&#xa0;: %1</translation>
+        <translation>Raison&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">Solution possible&#xa0;: Obtenir la dernière version manuellement&#xa0;:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Solution possible&#xa0;: Obtenir la dernière version manuellement&#xa0;:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished">La vérification des mises à jour a échouée</translation>
+        <translation>La vérification des mises à jour a échouée</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de vérifier ou d&apos;obtenir les mises à jour pour les ressources suivantes&#xa0;:&lt;br&gt;Souhaitez-vous continuer sans ces ressources&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="212"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Vérification des dépendances...</translation>
+        <translation>Vérification des dépendances...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="232"/>
         <source>Not installed</source>
-        <translation type="unfinished">Non installé</translation>
+        <translation>Non installé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="268"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Recherche de métadonnées</translation>
+        <translation>Recherche de métadonnées</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="311"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>La ressource &apos; %1 &apos; n&apos;a pas encore de métadonnées. Nous devons les générer pour suivre les informations pertinentes sur la façon de mettre à jour ce mod. Pour ce faire, veuillez sélectionner un fournisseur de mods que nous pouvons utiliser pour vérifier les mises à jour de ce mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="367"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Génération des métadonnées...</translation>
+        <translation>Génération des métadonnées...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
@@ -12415,27 +12418,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
         <source>Old version: %1</source>
-        <translation type="unfinished">Ancienne version&#xa0;: %1</translation>
+        <translation>Ancienne version&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="437"/>
         <source>New version: %1</source>
-        <translation type="unfinished">Nouvelle version&#xa0;: %1</translation>
+        <translation>Nouvelle version&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">Type de nouvelle version&#xa0;: %1</translation>
+        <translation>Type de la nouvelle version&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Requis par&#xa0;: %1</translation>
+        <translation>Requis par&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="449"/>
         <source>Required by:</source>
-        <translation type="unfinished">Requis par&#xa0;:</translation>
+        <translation>Requis par&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="463"/>
@@ -12465,12 +12468,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
@@ -12706,12 +12709,12 @@ Ceci pourrait être permanent et ils disparaîtront du fichier.
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="13"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12766,12 +12769,12 @@ Version actuellement installée : %1</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12939,22 +12942,22 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger des Packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargez des packs de shaders depuis des plateformes de mods en ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Essayez de vérifier ou de mettre à jour tous les packs de shaders sélectionnés (tous les packs de shaders si aucun n&apos;est sélectionné)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer la version d&apos;un pack de shaders.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="88"/>
@@ -12998,55 +13001,58 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Les mises à jour des packs de shaders ne sont pas disponibles lorsque les métadonnées sont désactivées&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="127"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmer la mise à jour</translation>
+        <translation>Confirmer la mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="128"/>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour les packs de shaders pendant que le jeu est en cours d&apos;exécution peut provoquer des duplications de packs et des plantages du jeu.
+Les anciens fichiers peuvent ne pas être supprimés car ils sont en cours d&apos;utilisation.
+Êtes-vous sûr de vouloir faire cela&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="148"/>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>La mise à jour du pack de shaders a été interrompue&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="152"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">«&#xa0;%1&#xa0;» est à jour&#xa0;! :)</translation>
+        <translation>&apos;%1&apos; est à jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="155"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les packs de shaders sont à jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="157"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les packs de shaders sélectionnés sont à jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="160"/>
         <source>Update checker</source>
-        <translation type="unfinished">Vérificateur de mise à jour</translation>
+        <translation>Vérificateur de mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la suppression</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="202"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point de supprimer les métadonnées pour %1 packs de shaders.
+Êtes-vous sûr&#x202f;?</translation>
     </message>
 </context>
 <context>
@@ -13177,12 +13183,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="97"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="98"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="144"/>
@@ -13712,7 +13718,7 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Provider</source>
-        <translation type="unfinished">Fournisseur</translation>
+        <translation>Fournisseur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="87"/>
@@ -13733,7 +13739,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The source provider of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fournisseur source du pack de textures.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="148"/>
@@ -13774,27 +13780,27 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger des packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger des packs de textures depuis des plateformes de mods en ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Essayez de vérifier ou de mettre à jour tous les packs de textures sélectionnés (tous les packs de textures si aucun n&apos;est sélectionné)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer la version d&apos;un pack de textures.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir les pages d&apos;accueil de tous les packs de textures sélectionnés.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="98"/>
@@ -13838,55 +13844,58 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="132"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="231"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Les mises à jour des packs de textures ne sont pas disponibles lorsque les métadonnées sont désactivées&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmer la mise à jour</translation>
+        <translation>Confirmer la mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="138"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour les packs de textures pendant que le jeu est en cours d&apos;exécution peut provoquer des duplications de packs et des plantages du jeu. 
+Les anciens fichiers peuvent ne pas être supprimés car ils sont en cours d&apos;utilisation. 
+Êtes-vous sûr de vouloir faire cela&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="158"/>
         <source>The texture pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>La mise à jour du pack de textures a été interrompue&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="162"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">«&#xa0;%1&#xa0;» est à jour&#xa0;! :)</translation>
+        <translation>&apos;%1&apos; est à jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="165"/>
         <source>All texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les packs de textures sont à jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="167"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les packs de textures selectionnés sont à jour&#x202f;!&#xa0;:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <source>Update checker</source>
-        <translation type="unfinished">Vérificateur de mise à jour</translation>
+        <translation>Vérificateur de mise à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="212"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la suppression</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="213"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point de supprimer les métadonnées pour %1 packs de textures.
+Êtes-vous sûr&#x202f;?</translation>
     </message>
 </context>
 <context>
@@ -14848,7 +14857,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
