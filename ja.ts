@@ -1187,7 +1187,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation>不明なアカウントのタスクの状態: 1%</translation>
+        <translation>不明なアカウントのタスクの状態: %1</translation>
     </message>
 </context>
 <context>
@@ -12316,7 +12316,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation>パックをダウンロード</translation>
+        <translation>シェーダーをダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
