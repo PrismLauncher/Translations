@@ -9613,14 +9613,14 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
-        <translation type="unfinished">アップデーターが60秒間終了できませんでした。
+        <translation>アップデーターが60秒間終了しませんでした。
 理由: %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
         <source>No Update Available</source>
-        <translation type="unfinished">利用可能なアップデートはありません</translation>
+        <translation>利用可能なアップデートなし</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
@@ -9635,7 +9635,7 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
         <source>There was an error running the update check.</source>
-        <translation type="unfinished">更新確認中にエラーが発生しました。</translation>
+        <translation>アップデートの確認中にエラーが発生しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
