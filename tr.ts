@@ -8290,12 +8290,12 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="201"/>
         <source>Release type</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıkış tipi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="207"/>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıkım</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="214"/>
@@ -8433,7 +8433,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
         <source>The source provider of the mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modların ana kaynağı.</translation>
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
@@ -8730,7 +8730,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir mod&apos;un sürümünü değiştir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
