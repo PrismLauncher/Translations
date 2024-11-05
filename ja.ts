@@ -9646,7 +9646,7 @@ Reason: %1.</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
-        <translation type="unfinished">アップデーターは不明な状態で終了しました。
+        <translation>アップデーターは不明な状態で終了しました。
 終了コード: %1</translation>
     </message>
     <message>
