@@ -12049,7 +12049,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csomagok letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="51"/>
@@ -12064,7 +12064,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="71"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Módosítsd a mod verzióját.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="94"/>
