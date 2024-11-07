@@ -12304,8 +12304,9 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
-        <source>Mod was disabled as it may be already instaled.</source>
-        <translation>La mod è stata disabilitata perchè potrebbe essere già installata.</translation>
+        <source>Mod was disabled as it may be already installed.</source>
+        <oldsource>Mod was disabled as it may be already instaled.</oldsource>
+        <translation type="unfinished">La mod è stata disabilitata perchè potrebbe essere già installata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="431"/>
@@ -12374,8 +12375,9 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
-        <source>Mod was disabled as it may be already instaled.</source>
-        <translation>La mod è stata disabilitata siccome potrebbe già essere installata.</translation>
+        <source>Mod was disabled as it may be already installed.</source>
+        <oldsource>Mod was disabled as it may be already instaled.</oldsource>
+        <translation type="unfinished">La mod è stata disabilitata siccome potrebbe già essere installata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>

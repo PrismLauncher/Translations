@@ -12506,8 +12506,9 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
-        <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Мод был отключен, так как он может быть уже установлен.</translation>
+        <source>Mod was disabled as it may be already installed.</source>
+        <oldsource>Mod was disabled as it may be already instaled.</oldsource>
+        <translation type="unfinished">Мод был отключен, так как он может быть уже установлен.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="431"/>
@@ -12576,8 +12577,9 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
-        <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Мод был отключён, так как возможно он уже был установлен.</translation>
+        <source>Mod was disabled as it may be already installed.</source>
+        <oldsource>Mod was disabled as it may be already instaled.</oldsource>
+        <translation type="unfinished">Мод был отключён, так как возможно он уже был установлен.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
