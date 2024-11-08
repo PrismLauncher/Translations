@@ -11905,7 +11905,7 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="292"/>
         <source> [installed]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [zainstalowane]</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="299"/>
@@ -12096,7 +12096,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
         <source>The source provider of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostawca źródłowy zasobu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="583"/>
@@ -12172,7 +12172,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="172"/>
         <source>The source provider of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostawca źródłowy paczki zasobów.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="174"/>
@@ -12230,17 +12230,17 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz paczki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="51"/>
         <source>Download resource packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz paczki zasobów z platform modyfikacji online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="57"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spróbuj sprawdzić lub zaktualizować wszystkie wybrane paczki zasobów (wszystkie paczki zasobów, jeśli żadna nie jest wybrana)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="71"/>
@@ -12289,7 +12289,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="128"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="228"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacje paczek zasobów są niedostępne kiedy metadane są wyłączone.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="133"/>
@@ -12301,12 +12301,14 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizowanie paczek zasobów podczas działania gry może spowodować duplikację paczki i crashe gry.
+Stare pliki mogą nie zostać usunięte w czasie użycia.
+Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="154"/>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulowano działanie aktualizacji paczek zasobów!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
@@ -12316,12 +12318,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
         <source>All resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie paczki zasobów są aktualne! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="163"/>
         <source>All selected resource packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie wybrane paczki zasobów są zaktualizowane! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
@@ -12337,7 +12339,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w trakcie usuwania metadanych dla paczek zasobów %1.
+Czy chcesz kontynuować?</translation>
     </message>
 </context>
 <context>
@@ -12362,17 +12365,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="44"/>
         <source>Confirm resources to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź zasoby do zaktualizowania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w trakcie aktualizacji następujących zasobów:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
         <source>Only resources with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącznie zasoby z znaczkiem wyboru będą zaktualizowane!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
@@ -12387,7 +12390,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można było wygenerować metadanych dla następujących zasobów:&lt;br&gt; Czy chcesz kontynuować bez tych zasobów?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="93"/>
@@ -12407,14 +12410,14 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrzeżenia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
@@ -12445,12 +12448,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można sprawdzić lub pobrać następujących zasobów do aktualizacji:&lt;br&gt; Czy chcesz kontynuować bez tych zasobów?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie zależności...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
@@ -12465,7 +12468,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zasób &apos;%1&apos; nie ma jeszcze metadanych. Trzeba ją wygenerować aby można było śledzić ważne informacje nt. sposobu aktualizacji tej modyfikacji. Aby to zrobić, wybierz dostawcę modyfikacji, z którego możemy skorzystać aby sprawdzać aktualizacje dla tego moda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
@@ -13016,22 +13019,22 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz paczki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz paczki shaderów z platform do modyfikacji online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spróbuj sprawdzić lub zaktualizować wszystkie wybrane paczki shaderów (wszystkie, jeśli żadna nie jest wybrana)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień wersję paczki shaderów.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="88"/>
@@ -13075,7 +13078,7 @@ Jesteś tego pewien?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacje paczek shaderów są niedostępne jeśli metadane są wyłączone!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="127"/>
@@ -13087,12 +13090,14 @@ Jesteś tego pewien?</translation>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizowanie paczek shaderów podczas działania gry może spowodować duplikację paczki i crashe gry.
+Stare pliki mogą nie zostać usunięte, ponieważ są obecnie używane.
+Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="148"/>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizowanie paczek shaderów zostało anulowane!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="152"/>
@@ -13102,12 +13107,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="155"/>
         <source>All shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie paczki shaderów są aktualne! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="157"/>
         <source>All selected shader packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie wybrane paczki shaderów są aktualne! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="160"/>
@@ -13123,7 +13128,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="202"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaraz usuniesz metadane dla paczek shaderów %1.
+Czy chcesz kontynuować?</translation>
     </message>
 </context>
 <context>
@@ -13810,7 +13816,7 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The source provider of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostawca źródłowy paczek tekstur.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="148"/>
@@ -13851,12 +13857,12 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz paczki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="53"/>
         <source>Download texture packs from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz paczk tekstur z platform dla modyfikacji online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
@@ -13927,12 +13933,14 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizowanie paczek tekstur podczas działania gry może spowodować duplikację paczek lub crashe gry.
+Stare pliki mogą nie zostać usunięte z racji iż są one w użytku.
+Czy jesteś pewny/a że chcesz to zrobić?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="158"/>
         <source>The texture pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja paczek tekstur została anulowana!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="162"/>
@@ -13942,12 +13950,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="165"/>
         <source>All texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie paczki tekstur są aktualne! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="167"/>
         <source>All selected texture packs are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie wybrane paczki tekstur są aktualne! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
@@ -13963,7 +13971,8 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="213"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w trakcie usuwania metadanych dla paczek tekstur %1.
+Czy chcesz kontynuować?</translation>
     </message>
 </context>
 <context>
