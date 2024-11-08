@@ -8996,7 +8996,7 @@ Please update %1!</source>
         <location filename="src/launcher/net/NetRequest.cpp" line="147"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetRequest.cpp" line="151"/>
@@ -9013,7 +9013,7 @@ Please update %1!</source>
         <location filename="src/launcher/net/NetRequest.cpp" line="156"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/秒</translation>
     </message>
 </context>
 <context>
@@ -9594,7 +9594,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">アップデートを確認中…</translation>
+        <translation>アップデートを確認中…</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
