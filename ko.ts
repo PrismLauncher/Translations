@@ -11544,22 +11544,22 @@ Are you sure you want to close this dialog?</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="160"/>
         <source>Warnings</source>
         <translation>경고</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="167"/>
         <source>Checking for dependencies...</source>
         <translation>종속성 확인 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="390"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>%1 버전 변경</translation>
     </message>
@@ -11830,7 +11830,7 @@ Please update %1!</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="501"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="503"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -11839,7 +11839,7 @@ Canonical Path: %1</source>
 표준 경로 : %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="508"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="510"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -11875,45 +11875,45 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">최근 수정됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="540"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="542"/>
         <source>Confirm toggle</source>
         <translation>전환 확인</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="541"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="543"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>게임이 실행 중일 때 이 리소스를 활성화/비활성화하면 게임이 충돌할 수 있습니다.
 확실합니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="573"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스가 활성화되었습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
         <translation>리소스의 이름입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>리소스가 최근 수정(혹은 추가)된 날짜와 시간입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
         <source>The source provider of the resource.</source>
         <translation>리소스의 소스 공급자입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="583"/>
         <source>The size of the resource.</source>
         <translation>리소스의 크기입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="626"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="628"/>
         <source>Show / Hide Columns</source>
         <translation>열 보이기 / 숨기기</translation>
     </message>
@@ -12209,22 +12209,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="201"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="340"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="355"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="410"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="359"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="206"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
         <source>Warnings</source>
         <translation>경고</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="211"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -12260,73 +12260,73 @@ Are you sure?</source>
         <translation>업데이트에 대한 다음 리소스를 확인하거나 가져올 수 없습니다:&lt;br&gt;이 리소스 없이 진행하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="212"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
         <source>Checking for dependencies...</source>
         <translation>종속성 확인 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="232"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
         <source>Not installed</source>
         <translation>설치되지 않음</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="268"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="272"/>
         <source>Looking for metadata</source>
         <translation>메타데이터를 찾는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="311"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>리소스 &apos;%1&apos;에 아직 메타데이터가 없습니다. 이 모드를 업데이트하는 방법에 대한 관련 정보를 추적하려면 메타데이터를 생성하여야 합니다. 이렇게 하려면 이 모드의 업데이트를 확인하는 데 사용할 수 있는 모드 공급자를 선택하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="367"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Generating metadata...</source>
         <translation>메타데이터를 생성하는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="418"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>선택한 모드 공급자에서 유효한 버전을 찾을 수 없습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="429"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation type="unfinished">이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="435"/>
         <source>Provider: %1</source>
         <translation>공급자: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="438"/>
         <source>Old version: %1</source>
         <translation>이전 버전: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="437"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
         <source>New version: %1</source>
         <translation>새 버전: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
         <source>New Version Type: %1</source>
         <translation>새 버전 유형: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
         <source>Required by: %1</source>
         <translation>다음에 의해 요구됨: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="449"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="453"/>
         <source>Required by:</source>
         <translation>다음에 의해 요구됨:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="463"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
         <source>Changelog of the latest version</source>
         <translation>최신 버전의 변경 사항</translation>
     </message>

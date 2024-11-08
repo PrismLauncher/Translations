@@ -11561,22 +11561,22 @@ Sei sicuro di voler chiudere questo dialogo?</translation>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="160"/>
         <source>Warnings</source>
         <translation>Avvisi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
         <source>Abort</source>
         <translation>Interrompi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="167"/>
         <source>Checking for dependencies...</source>
         <translation>Controllo delle dipendenze...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="390"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>Cambia la versione di %1</translation>
     </message>
@@ -11843,7 +11843,7 @@ Per favore aggiorna %1!</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="501"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="503"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -11852,7 +11852,7 @@ Attenzione: Questa risorsa è simbolicamente collegata da altrove. Modificandola
 Percorso canonico: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="508"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="510"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -11888,45 +11888,45 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
         <translation type="vanished">Ultima modifica</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="540"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="542"/>
         <source>Confirm toggle</source>
         <translation>Conferma attivazione/disattivazione</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="541"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="543"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Se abiliti/disabiliti la risorsa mentre il gioco è avviato questo potrebbe interrompersi.
 Sei sicuro di volerlo fare?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="573"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>La risorsa è abilitata?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
         <translation>Il nome della risorsa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>La data e l&apos;ora in cui questa risorsa è stata modificata (o aggiunta).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
         <source>The source provider of the resource.</source>
         <translation>Il fornitore della risorsa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="583"/>
         <source>The size of the resource.</source>
         <translation>La dimensione della risorsa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="626"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="628"/>
         <source>Show / Hide Columns</source>
         <translation>Visualizza / Nascondi colonne</translation>
     </message>
@@ -12222,22 +12222,22 @@ Sei sicuro/a?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="201"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="340"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="355"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="410"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="359"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="206"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
         <source>Warnings</source>
         <translation>Avvisi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="211"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
         <source>Abort</source>
         <translation>Termina</translation>
     </message>
@@ -12273,73 +12273,73 @@ Sei sicuro/a?</translation>
         <translation>Non è stato possibile ottenere le seguenti risorse per gli aggiornamenti:&lt;br&gt;Vuoi procedere senza queste risorse?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="212"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
         <source>Checking for dependencies...</source>
         <translation>Controllo delle dipendenze...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="232"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
         <source>Not installed</source>
         <translation>Non installato</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="268"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="272"/>
         <source>Looking for metadata</source>
         <translation>Cercando i metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="311"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>La risorsa &apos;%1&apos; non ha ancora metadata. Abbiamo bisogno di generarla per tracciare le informazioni a riguardo l&apos;aggiornamento della mod. Per fare questo, per favore seleziona un fornitore di mod che possiamo utilizzare per controllare gli aggiornamenti per questa mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="367"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Generating metadata...</source>
         <translation>Generando metadata...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="418"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Non è stato possibile trovare una versione valida sui mod provider selezionati</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="429"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation type="unfinished">La mod è stata disabilitata perchè potrebbe essere già installata.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="435"/>
         <source>Provider: %1</source>
         <translation>Fornitore: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="438"/>
         <source>Old version: %1</source>
         <translation>Versione precedente: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="437"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
         <source>New version: %1</source>
         <translation>Nuova versione: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
         <source>New Version Type: %1</source>
         <translation>Nuovo tipo di versione: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
         <source>Required by: %1</source>
         <translation>Richiesto da: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="449"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="453"/>
         <source>Required by:</source>
         <translation>Richiesto da:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="463"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
         <source>Changelog of the latest version</source>
         <translation>Changelog dell&apos;ultima versione</translation>
     </message>

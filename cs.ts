@@ -11648,22 +11648,22 @@ Opravdu chcete zavřít tuto nabídku?</translation>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="160"/>
         <source>Warnings</source>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="167"/>
         <source>Checking for dependencies...</source>
         <translation>Kontrola závislostí...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="390"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>Změnit verzi %1</translation>
     </message>
@@ -11934,7 +11934,7 @@ Aktualizujte prosím %1!</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="501"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="503"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -11943,7 +11943,7 @@ Varování: Tento zdroj je symbolicky propojen odjinud. Jeho úpravou se změní
 Opravdová cesta: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="508"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="510"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
@@ -11979,45 +11979,45 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <translation type="vanished">Naposledy upraveno</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="540"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="542"/>
         <source>Confirm toggle</source>
         <translation>Potvrdit přepnutí</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="541"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="543"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Pokud tento prostředek povolíte nebo zakážete během hry, může dojít k pádu hry.
 Opravdu to chcete udělat?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="573"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Je zdroj povolen?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
         <translation>Název zdroje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
         <translation>Datum a čas poslední změny (nebo přidání) tohoto zdroje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
         <source>The source provider of the resource.</source>
         <translation>Zdrojový poskytovatel tohoto zdroje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="583"/>
         <source>The size of the resource.</source>
         <translation>Velikost zdroje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="626"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="628"/>
         <source>Show / Hide Columns</source>
         <translation>Zobrazit / skrýt sloupce</translation>
     </message>
@@ -12313,22 +12313,22 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="201"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="340"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="355"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="410"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="359"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="206"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
         <source>Warnings</source>
         <translation>Varování</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="211"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="366"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -12364,73 +12364,73 @@ Jste si jisti?</translation>
         <translation>Nepodařilo se zkontrolovat nebo načíst následující zdroje k aktualizaci:&lt;br&gt;Chcete pokračovat bez těchto zdrojů?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="212"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
         <source>Checking for dependencies...</source>
         <translation>Kontrola závislostí...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="232"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
         <source>Not installed</source>
         <translation>Nenainstalováno</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="268"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="272"/>
         <source>Looking for metadata</source>
         <translation>Hledání metadat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="311"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Zdroj „%1“ zatím nemá metadata. Musíme je vygenerovat, abychom mohli sledovat relevantní informace o tom, jak tento mod aktualizovat. Za tímto účelem prosím vyberte poskytovatele modů, který můžeme použít ke kontrole aktualizací tohoto modu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="367"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Generating metadata...</source>
         <translation>Generování metadat...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="418"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Nepodařilo se najít platnou verzi u vybraných poskytovatelů modů</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="425"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="429"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation>Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="435"/>
         <source>Provider: %1</source>
         <translation>Poskytovatel: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="438"/>
         <source>Old version: %1</source>
         <translation>Stará verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="437"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
         <source>New version: %1</source>
         <translation>Nová verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
         <source>New Version Type: %1</source>
         <translation>Nový typ verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="447"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
         <source>Required by: %1</source>
         <translation>Vyžadováno zdrojem: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="449"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="453"/>
         <source>Required by:</source>
         <translation>Vyžadováno zdrojem:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="463"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
         <source>Changelog of the latest version</source>
         <translation>Seznam změn nejnovější verze</translation>
     </message>
