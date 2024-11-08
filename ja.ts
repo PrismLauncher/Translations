@@ -9677,17 +9677,17 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="226"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
-        <translation type="unfinished">このバージョンを、インストールされているランチャーのバージョンとして使用します。(Windowsでは標準出力をキャプチャできないため提供されます)</translation>
+        <translation>このバージョンを、インストールされているランチャーのバージョンとして使用します。（Windowsで標準出力を確実にキャプチャできないために提供されています）</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="227"/>
         <source>installed launcher version</source>
-        <translation type="unfinished">インストール済みのランチャーのバージョン</translation>
+        <translation>インストール済みのランチャーのバージョン</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="228"/>
         <source>version name</source>
-        <translation type="unfinished">バージョン名</translation>
+        <translation>バージョン名</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
@@ -9717,7 +9717,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="234"/>
         <source>List available releases.</source>
-        <translation type="unfinished">更新可能なリリースを表示する。</translation>
+        <translation>利用可能なリリースの一覧を表示します。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="235"/>
@@ -9737,12 +9737,12 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>MacOS Not Supported</source>
-        <translation type="unfinished">MacOSはサポートされていません</translation>
+        <translation>macOSは非対応</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="248"/>
         <source>The updater does not support installations on MacOS</source>
-        <translation type="unfinished">アップデーターはMacOSでのインストールをサポートしていません</translation>
+        <translation>アップデーターはmacOSでのインストールに対応していません</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="255"/>
@@ -9758,7 +9758,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="268"/>
         <source>The updater can not find the main executable.</source>
-        <translation type="unfinished">主要な実行可能ファイルを見つけることができませんでした。</translation>
+        <translation>アップデーターがメインの実行ファイルを見つけられません。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="381"/>
@@ -9783,12 +9783,12 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Updating flatpack not supported</source>
-        <translation type="unfinished">フラットパックのアップデートは非対応です</translation>
+        <translation>Flatpackでのアップデートは非対応</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished">フラットパックバージョンのPrism Launcherは、アップデートの確認以外の機能に非対応です。</translation>
+        <translation>FlatpackバージョンのPrism Launcherを実行している場合、アップデートが利用可能かどうかを確認する以外の機能は利用できません。</translation>
     </message>
     <message>
         <source>Updating Not Supported</source>
@@ -9830,7 +9830,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="685"/>
         <source>Failed copy %1 to %2</source>
-        <translation type="unfinished">%1から%2へのコピーに失敗しました</translation>
+        <translation>%1 から %2 へのコピーに失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="700"/>
@@ -9856,24 +9856,24 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation type="unfinished">Githubリリース %1 には、このプラットフォームに有効なAssetsファイルがありません: %2</translation>
+        <translation>GitHubリリース %1 のAssetsに、このプラットフォームで有効なファイルがありません: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <source>%1 portable: %2</source>
-        <translation type="unfinished">%1 ポータブルか: %2</translation>
+        <translation>%1 ポータブルか: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
         <source>yes</source>
-        <translation type="unfinished">はい</translation>
+        <translation>はい</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1053"/>
         <source>no</source>
-        <translation type="unfinished">いいえ</translation>
+        <translation>いいえ</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="889"/>
@@ -9888,18 +9888,18 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to Download</source>
-        <translation type="unfinished">ダウンロードに失敗しました</translation>
+        <translation>ダウンロードに失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="896"/>
         <source>Failed to download the selected asset.</source>
-        <translation type="unfinished">選択したAssetsファイルのダウンロードに失敗しました。</translation>
+        <translation>選択したAssetファイルのダウンロードに失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="998"/>
         <source>Update already in progress
 </source>
-        <translation type="unfinished">アップデートはすでに実行中です
+        <translation>アップデートはすでに進行中です
 </translation>
     </message>
     <message>
