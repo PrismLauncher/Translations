@@ -182,7 +182,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation>正在刪除現有的檔案...</translation>
+        <translation>正在刪除現有的檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
         <source>Downloading configs...</source>
-        <translation>正在下載組態檔...</translation>
+        <translation>正在下載組態檔…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
@@ -217,7 +217,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
         <source>Extracting configs...</source>
-        <translation>正在解壓縮組態檔...</translation>
+        <translation>正在解壓縮組態檔…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="677"/>
@@ -227,12 +227,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
-        <translation>正在選擇可選模組...</translation>
+        <translation>正在選擇可選模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
         <source>Downloading mods...</source>
-        <translation>正在下載模組...</translation>
+        <translation>正在下載模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
@@ -267,12 +267,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="921"/>
         <source>Failed to extract mods...</source>
-        <translation>解壓縮模組失敗...</translation>
+        <translation>解壓縮模組失敗…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
-        <translation>正在解壓縮模組...</translation>
+        <translation>正在解壓縮模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
@@ -966,7 +966,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="20"/>
         <source>Updating assets index...</source>
-        <translation>正在更新資源索引...</translation>
+        <translation>正在更新資源索引…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="26"/>
@@ -987,7 +987,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>正在從 Mojang 下載資源檔案...</translation>
+        <translation>正在從 Mojang 下載資源檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="90"/>
@@ -1097,7 +1097,7 @@ Some versions of Minecraft may not launch.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜尋及篩選...</translation>
+        <translation>搜尋及篩選…</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1162,12 +1162,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="91"/>
         <source>Waiting...</source>
-        <translation>正在等待...</translation>
+        <translation>正在等待…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="96"/>
         <source>Working...</source>
-        <translation>處理中...</translation>
+        <translation>處理中…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
@@ -1202,7 +1202,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="142"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
@@ -1480,12 +1480,12 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
         <source>Please wait...</source>
-        <translation>請稍候...</translation>
+        <translation>請稍候…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="232"/>
         <source>Waiting for a task to start...</source>
-        <translation>正在等待任務開始...</translation>
+        <translation>正在等待任務開始…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
@@ -1852,7 +1852,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation>正在掃描檔案...</translation>
+        <translation>正在掃描檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
@@ -1930,29 +1930,29 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
         <source>Checking if resources have metadata...</source>
-        <translation>檢查資源是否具有中繼資料...</translation>
+        <translation>檢查資源是否具有中繼資料…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>正在向 %1 請求中繼資料資訊...</translation>
+        <translation>正在向 %1 請求中繼資料資訊…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="169"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>正在向 %1 請求「%2」的中繼資料資訊...</translation>
+        <translation>正在向 %1 請求「%2」的中繼資料資訊…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="248"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="337"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>正在分析「%1」的 Modrinth API 回應...</translation>
+        <translation>正在分析「%1」的 Modrinth API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="404"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="471"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在分析「%1」的 CurseForge API 回應...</translation>
+        <translation>正在分析「%1」的 CurseForge API 回應…</translation>
     </message>
 </context>
 <context>
@@ -2747,12 +2747,12 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>正在檢查 FML 程式庫...</translation>
+        <translation>正在檢查 FML 程式庫…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
         <source>Downloading FML libraries...</source>
-        <translation>正在下載 FML 程式庫...</translation>
+        <translation>正在下載 FML 程式庫…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
@@ -2762,7 +2762,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>正在將 FML 程式庫複製至實例...</translation>
+        <translation>正在將 FML 程式庫複製至實例…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
@@ -2811,7 +2811,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
         <source>Search and filter...</source>
-        <translation>搜尋及篩選...</translation>
+        <translation>搜尋及篩選…</translation>
     </message>
     <message>
         <source>Search</source>
@@ -2843,12 +2843,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="35"/>
         <source>Copying files...</source>
-        <translation>正在複製檔案...</translation>
+        <translation>正在複製檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/import_ftb/PackInstallTask.cpp" line="51"/>
         <source>Copying settings...</source>
-        <translation>正在複製設定...</translation>
+        <translation>正在複製設定…</translation>
     </message>
 </context>
 <context>
@@ -2856,7 +2856,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="55"/>
         <source>Resolving mod IDs...</source>
-        <translation>正在解析模組 ID...</translation>
+        <translation>正在解析模組 ID…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="104"/>
@@ -2867,7 +2867,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在分析「%1」的 CurseForge API 回應...</translation>
+        <translation>正在分析「%1」的 CurseForge API 回應…</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2880,7 +2880,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>正在準備 CurseForge 的資源...</translation>
+        <translation>正在準備 CurseForge 的資源…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -2890,12 +2890,12 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="128"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>正在為「%1」取得 CurseForge API 回應...</translation>
+        <translation>正在為「%1」取得 CurseForge API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在為「%1」分析 CurseForge API 回應...</translation>
+        <translation>正在為「%1」分析 CurseForge API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
@@ -3053,7 +3053,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="582"/>
         <source>Copying Blocked Mods...</source>
-        <translation>正在複製被封鎖的模組...</translation>
+        <translation>正在複製被封鎖的模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
@@ -3079,7 +3079,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="574"/>
         <source>Downloading mods...</source>
-        <translation>正在下載模組...</translation>
+        <translation>正在下載模組…</translation>
     </message>
 </context>
 <context>
@@ -3163,7 +3163,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="64"/>
         <source>Searching for files...</source>
-        <translation>搜尋檔案...</translation>
+        <translation>搜尋檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="86"/>
@@ -3173,28 +3173,28 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="103"/>
         <source>Finding file hashes...</source>
-        <translation>正在尋找檔案雜湊值...</translation>
+        <translation>正在尋找檔案雜湊值…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
         <source>Finding versions for hashes...</source>
-        <translation>正在尋找版本雜湊值...</translation>
+        <translation>正在尋找版本雜湊值…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="236"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在分析「%1」的 CurseForge API 回應...</translation>
+        <translation>正在分析「%1」的 CurseForge API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
         <source>Finding project info from CurseForge...</source>
-        <translation>正在從 CurseForge 尋找專案資訊...</translation>
+        <translation>正在從 CurseForge 尋找專案資訊…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="334"/>
         <source>Adding files...</source>
-        <translation>正在新增檔案...</translation>
+        <translation>正在新增檔案…</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -3239,7 +3239,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜尋及篩選...</translation>
+        <translation>搜尋及篩選…</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3823,7 +3823,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
-        <translation>正在刪除舊的衝突檔案...</translation>
+        <translation>正在刪除舊的衝突檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
@@ -4029,7 +4029,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
         <source>Auto-detect...</source>
-        <translation>自動偵測...</translation>
+        <translation>自動偵測…</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4571,7 +4571,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/JavaInstallList.cpp" line="161"/>
         <source>Detecting Java installations...</source>
-        <translation>正在偵測已安裝的 Java...</translation>
+        <translation>正在偵測已安裝的 Java…</translation>
     </message>
 </context>
 <context>
@@ -4683,7 +4683,7 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="190"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>自動偵測 (&amp;A)...</translation>
+        <translation>自動偵測 (&amp;A)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="203"/>
@@ -5696,7 +5696,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation>[測試/除錯] 一個秘密的除錯訊息...</translation>
+        <translation>[測試/除錯] 一個秘密的除錯訊息…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
@@ -5710,7 +5710,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[測試/資訊] 無害的訊息...</translation>
+        <translation>[測試/資訊] 無害的訊息…</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
@@ -5855,7 +5855,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation>搜尋及篩選...</translation>
+        <translation>搜尋及篩選…</translation>
     </message>
     <message>
         <source>Search</source>
@@ -6006,7 +6006,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>正在下載程式庫檔案...</translation>
+        <translation>正在下載程式庫檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -6255,7 +6255,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="561"/>
         <source>Extracting empty archives seems odd...</source>
-        <translation>解壓縮空封存檔案似乎很奇怪...</translation>
+        <translation>解壓縮空封存檔案似乎很奇怪…</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="565"/>
@@ -6328,7 +6328,7 @@ Reason:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation>請稍候...</translation>
+        <translation>請稍候…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -6590,7 +6590,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
         <source>More news...</source>
-        <translation>更多最新消息...</translation>
+        <translation>更多最新消息…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -6605,7 +6605,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="406"/>
         <source>&amp;Edit...</source>
-        <translation>編輯 (&amp;E)...</translation>
+        <translation>編輯 (&amp;E)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
@@ -6615,7 +6615,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="463"/>
         <source>E&amp;xport...</source>
-        <translation>匯出 (&amp;X)...</translation>
+        <translation>匯出 (&amp;X)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="433"/>
@@ -6625,7 +6625,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
         <source>Cop&amp;y...</source>
-        <translation>複製 (&amp;Y)...</translation>
+        <translation>複製 (&amp;Y)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="502"/>
@@ -6661,7 +6661,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>新增實例 (&amp;E)...</translation>
+        <translation>新增實例 (&amp;E)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="185"/>
@@ -6672,7 +6672,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="320"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>設定 (&amp;N)...</translation>
+        <translation>設定 (&amp;N)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="284"/>
@@ -6829,7 +6829,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
         <source>&amp;Update...</source>
-        <translation>更新 (&amp;U)...</translation>
+        <translation>更新 (&amp;U)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
@@ -6839,7 +6839,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="335"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>管理帳號 (&amp;M)...</translation>
+        <translation>管理帳號 (&amp;M)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
@@ -7028,7 +7028,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="383"/>
         <source>&amp;Change Group...</source>
-        <translation>變更群組 (&amp;C)...</translation>
+        <translation>變更群組 (&amp;C)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="389"/>
@@ -7642,7 +7642,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation>正在取得版本...</translation>
+        <translation>正在取得版本…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="165"/>
@@ -9151,12 +9151,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
         <source>Preparing resources for Modrinth...</source>
-        <translation>正在準備 Modrinth 的資源...</translation>
+        <translation>正在準備 Modrinth 的資源…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="76"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>正在分析來自 Modrinth 的 API 回應...</translation>
+        <translation>正在分析來自 Modrinth 的 API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
@@ -9189,7 +9189,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="59"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>正在等候 Modrinth 的 API 回應...</translation>
+        <translation>正在等候 Modrinth 的 API 回應…</translation>
     </message>
 </context>
 <context>
@@ -9270,7 +9270,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="299"/>
         <source>Downloading mods...</source>
-        <translation>正在下載模組...</translation>
+        <translation>正在下載模組…</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -9307,7 +9307,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>Fetching changelogs...</source>
-        <translation>正在取得更新日誌...</translation>
+        <translation>正在取得更新日誌…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
@@ -9348,7 +9348,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="57"/>
         <source>Searching for files...</source>
-        <translation>正在搜尋檔案...</translation>
+        <translation>正在搜尋檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="79"/>
@@ -9358,12 +9358,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="95"/>
         <source>Finding file hashes...</source>
-        <translation>正在尋找檔案雜湊值...</translation>
+        <translation>正在尋找檔案雜湊值…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="156"/>
         <source>Finding versions for hashes...</source>
-        <translation>正在尋找版本雜湊值...</translation>
+        <translation>正在尋找版本雜湊值…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="191"/>
@@ -9373,7 +9373,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="200"/>
         <source>Adding files...</source>
-        <translation>正在新增檔案...</translation>
+        <translation>正在新增檔案…</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -10161,7 +10161,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
-        <translation>正在檢查更新...</translation>
+        <translation>正在檢查更新…</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
@@ -10740,17 +10740,17 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>請稍候...</translation>
+        <translation>請稍候…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation>全域任務狀態...</translation>
+        <translation>全域任務狀態…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation>全域狀態詳情...</translation>
+        <translation>全域狀態詳情…</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -11665,7 +11665,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="167"/>
         <source>Checking for dependencies...</source>
-        <translation>正在檢查前置項...</translation>
+        <translation>正在檢查前置項…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
@@ -11761,7 +11761,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="107"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>搜尋%1...</translation>
+        <translation>搜尋%1…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="108"/>
@@ -11838,7 +11838,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="316"/>
         <source>Loading versions...</source>
-        <translation>正在載入版本...</translation>
+        <translation>正在載入版本…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="469"/>
@@ -12340,7 +12340,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
         <source>Checking for updates...</source>
-        <translation>正在檢查更新...</translation>
+        <translation>正在檢查更新…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="172"/>
@@ -12371,7 +12371,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
         <source>Checking for dependencies...</source>
-        <translation>正在檢查前置項...</translation>
+        <translation>正在檢查前置項…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
@@ -12391,7 +12391,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Generating metadata...</source>
-        <translation>正在生成中繼資料...</translation>
+        <translation>正在生成中繼資料…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="418"/>
@@ -13423,7 +13423,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation>子任務狀態...</translation>
+        <translation>子任務狀態…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
@@ -13642,7 +13642,7 @@ inheritsFrom 引數缺失</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="17"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜尋及篩選...</translation>
+        <translation>搜尋及篩選…</translation>
     </message>
     <message>
         <source>Search</source>
