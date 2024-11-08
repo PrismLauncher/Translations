@@ -3766,7 +3766,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -11656,7 +11656,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="95"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieznany</translation>
     </message>
 </context>
 <context>
@@ -13867,17 +13867,17 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spróbuj sprawdzić lub zaktualizować wszystkie wybrane paczki tekstur (wszystkie paczki tekstur jeśli żadne nie zostały wybrane)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień wersję paczki tekstur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
         <source>View the homepages of all selected texture packs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobacz strony główne wszystkich wybranych paczek tekstur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="98"/>
@@ -13921,7 +13921,7 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="132"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="231"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacje paczek tekstur są niedostępne kiedy matadane są sprawdzane!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
