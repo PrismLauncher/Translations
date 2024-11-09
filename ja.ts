@@ -62,7 +62,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：個人データにアクセスしたい場合にのみ設定する必要があります。詳しくは&lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;ドキュメント&lt;/a&gt;をお読みください。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: 個人データにアクセスする場合にのみ設定する必要があります。詳しくは&lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;ドキュメント&lt;/a&gt;をお読みください。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -83,7 +83,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：プライベートなデータにアクセスする場合にのみ設定する必要があります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意: 個人データにアクセスする場合にのみ設定する必要があります。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
@@ -118,7 +118,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>これにサードパーティメタデータのサーバを指定してパッチライブラリやその他のハックを使用することができます。</translation>
+        <translation>サードパーティのメタデータサーバーを設定することで、パッチを適用したライブラリやその他のハックを使用することができます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -153,7 +153,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="120"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>パック マニフェストを解析できませんでした：
+        <translation>パックのマニフェストを解析できませんでした:
 </translation>
     </message>
     <message>
@@ -189,7 +189,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
         <source>No loader version set for modpack!</source>
-        <translation>Modパックのローダーのバージョンが設定されていません!</translation>
+        <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
@@ -214,7 +214,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="677"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>パックのコンフィグを開くことに失敗しました %1！</translation>
+        <translation>パックのコンフィグを開くのに失敗しました %1！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
@@ -244,12 +244,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="824"/>
         <source>Blocked mods found</source>
-        <translation>ブロックされたmodが見つかりました</translation>
+        <translation>ブロックされたModが見つかりました</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下のファイルはサードパーティランチャーでのダウンロードができません。&lt;br/&gt;手動でダウンロードし起動構成に追加する必要があります。</translation>
+        <translation>以下のファイルはサードパーティのランチャーでのダウンロードができません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
@@ -269,7 +269,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
         <source>Installing modpack</source>
-        <translation>Modパックをインストールしています</translation>
+        <translation>Modパックをインストール中</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1014"/>
@@ -279,7 +279,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
         <source>Unknown loader type: </source>
-        <translation>不明なローダータイプです: </translation>
+        <translation>不明なModローダーの種類です: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1055"/>
@@ -836,10 +836,10 @@ Check the Prism Launcher updater log at:
 for details.</oldsource>
         <translation>アップデートに成功しました。
 
-現在、%1 を実行しています。
-詳細はPrism Launcherのアップデーターログ ：
+現在、%1 を実行中です。
+詳細については:
 %2
-を確認してください。</translation>
+のログを確認してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1027"/>
@@ -1070,7 +1070,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>警告：これはまだ開発中の機能です。インポートしたmodpackで問題が発生した場合、バグの可能性があります。</translation>
+        <translation>警告: これはまだ開発中の機能です。インポートしたModパックで問題が発生した場合、バグの可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1215,7 +1215,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
         <source>Compatible Java found at: %1.</source>
-        <translation>互換性のあるJavaが見つかりました：%1</translation>
+        <translation>互換性のあるJavaが見つかりました: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="156"/>
@@ -1285,12 +1285,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="176"/>
         <source>All mods found</source>
-        <translation>全modを検出</translation>
+        <translation>すべてのModが見つかりました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="179"/>
         <source>Please download the missing mods.</source>
-        <translation>不足しているmodをダウンロードしてください。</translation>
+        <translation>不足しているModをダウンロードしてください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="157"/>
@@ -1310,7 +1310,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <source>Open Missing</source>
-        <translation>全てダウンロード</translation>
+        <translation>不足Modをすべて開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="59"/>
@@ -1320,7 +1320,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>modをダウンロードしたディレクトリを選択</translation>
+        <translation>ダウンロードしたModを保存するディレクトリを選択</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="160"/>
@@ -1462,7 +1462,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
         <source>Executing 1 task:</source>
-        <translation>タスクを実行中：</translation>
+        <translation>1つのタスクを実行中:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="236"/>
@@ -1811,7 +1811,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="123"/>
         <source>No mod loader is selected.</source>
-        <translation>modローダーが選択されていません。</translation>
+        <translation>Modローダーが選択されていません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="154"/>
@@ -1965,17 +1965,17 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
         <source>&amp;Add</source>
-        <translation>&amp;追加</translation>
+        <translation>追加(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation>&amp;削除</translation>
+        <translation>削除(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
         <source>&amp;Clear</source>
-        <translation>&amp;クリア</translation>
+        <translation>クリア(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -2937,12 +2937,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="301"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>ローダーバージョン &quot;%1&quot; を見つけられませんでした</translation>
+        <translation>%1ローダーのバージョンを見つけられませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="306"/>
         <source>No loader version set for modpack!</source>
-        <translation>Modパックのローダーバージョンが設定されていません！</translation>
+        <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="342"/>
@@ -2954,7 +2954,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="347"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>指定された上書きフォルダ(%1)がありません。このmodpackを以前に使用しませんでしたか？</translation>
+        <translation>指定されたoverridesフォルダ (%1) がありません。このModパックを以前に使用しませんでしたか？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="376"/>
@@ -2986,7 +2986,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="498"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>以下のファイルはサードパーティランチャーでのダウンロードが無効化されています。&lt;br/&gt;手動で個別にダウンロードし起動構成に追加する必要があります。</translation>
+        <translation>以下のファイルはサードパーティのランチャーでのダウンロードができません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
@@ -3035,7 +3035,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="414"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;こんにちは！&lt;/h1&gt;&lt;h4&gt;パックIDが空のようです。これはランチャーの古いバージョンのバグによるものです。&lt;br/&gt;残念ながら、パックID無しに正常にAPIリクエストを行うことはできません。&lt;br/&gt;&lt;br/&gt;この機能を正常に動かすため、内蔵のダウンローダーからmodpackを再ダウンロードする必要があります。&lt;br/&gt;&lt;br/&gt;起動構成をアップデートする形で行えるため、データは失われません！&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;こんにちは！&lt;/h1&gt;&lt;h4&gt;パックIDが空のようです。これは古いバージョンのランチャーのバグによるものです。&lt;br/&gt;残念ながら、パックIDがないと正常にAPIリクエストを行うことはできません。&lt;br/&gt;&lt;br/&gt;この機能を動作させるには、内蔵のダウンローダーからModパックを再ダウンロードする必要があります。&lt;br/&gt;&lt;br/&gt;起動構成のアップデートを要求するだけなので、起動構成が失われることはありません！&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="476"/>
@@ -3151,7 +3151,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>CurseForgeのmod製作者はPrism Launcherのようなサードパーティツールからのダウンロードをブロックできます。その場合、modpackを正常にインストールするため、それらを個別に手動でダウンロードする必要がある場合があります。</translation>
+        <translation>注意: CurseForgeのMod作者は、Prism Launcherのようなサードパーティツールからのダウンロードをブロックできます。そのため、Modパックをインストールするために、一部のModを手動でダウンロードする必要がある場合があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -3476,12 +3476,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation>- CurseForgeのmodpack (ZIP/curseforge://URL)</translation>
+        <translation>- CurseForgeのModパック (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinthのmodpack (ZIPまたはmrpack)</translation>
+        <translation>- ModrinthのModパック (ZIPまたはmrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -3492,7 +3492,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technicのmodpack (ZIP)</translation>
+        <translation>- TechnicのModパック (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -3515,12 +3515,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="154"/>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>モッドパック %1 はサードパーティのAPIをブロックしています! 手動でダウンロードしてください。</translation>
+        <translation>Modパック %1 はサードパーティをブロックしています！ 手動でダウンロードしてください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="171"/>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation>そのURLはモッドパックとして有効ではありません!</translation>
+        <translation>このURLはModパックとして有効ではありません！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
@@ -3751,7 +3751,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
         <source>Modpack download</source>
-        <translation>Modパック ダウンロード</translation>
+        <translation>Modパックのダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
@@ -3766,7 +3766,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="155"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>指定したModPackのzipファイルを開けません。</translation>
+        <translation>指定されたModパックのzipファイルを開けませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
@@ -3916,7 +3916,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
         <source>Minimum memory allocation:</source>
-        <translation>最少割り当て：</translation>
+        <translation>最小メモリ割り当て:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="181"/>
@@ -3936,7 +3936,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="145"/>
         <source>Maximum memory allocation:</source>
-        <translation>最大割り当て：</translation>
+        <translation>最大メモリ割り当て:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="79"/>
@@ -3987,7 +3987,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="294"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported for the current minecraft version.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：最大化オプションは、現在のマインクラフトのバージョンでは完全にサポートされていない可能性があります。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: 最大化オプションは、現在のマインクラフトのバージョンでは完全にサポートされていない可能性があります。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="303"/>
@@ -4179,7 +4179,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="692"/>
         <source>Server address:</source>
-        <translation>サーバーアドレス：</translation>
+        <translation>サーバーアドレス:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="59"/>
@@ -4436,13 +4436,13 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>最少割り当て(&amp;M):</translation>
+        <translation>最小メモリ割り当て(&amp;M):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>最大割り当て(&amp;X):</translation>
+        <translation>最大メモリ割り当て(&amp;X):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="61"/>
@@ -4711,12 +4711,12 @@ Javaのバージョンは後で設定で変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="497"/>
         <source>Minimum memory allocation:</source>
-        <translation>最少割り当て：</translation>
+        <translation>最小メモリ割り当て:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="498"/>
         <source>Maximum memory allocation:</source>
-        <translation>最大割り当て：</translation>
+        <translation>最大メモリ割り当て:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="499"/>
@@ -5260,12 +5260,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="269"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
-        <translation>新しいmodpackインスタンスを作成する際、代わりに既存のインスタンスを更新することを提案しないでください。</translation>
+        <translation>新しいModパックの起動構成を作成するときに、代わりに既存の起動構成を更新することを提案しないようにします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
         <source>Skip modpack update prompt</source>
-        <translation>modpackのアップデートプロンプトをスキップ</translation>
+        <translation>Modパックのアップデート提案をスキップ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
@@ -5305,7 +5305,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>&amp;Java:</source>
-        <translation>Java(&amp;J)：</translation>
+        <translation>Java(&amp;J):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
@@ -5549,12 +5549,12 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="128"/>
         <source>Public Modpack</source>
-        <translation>公開Modpack</translation>
+        <translation>公開Modパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="130"/>
         <source>Third Party Modpack</source>
-        <translation>サードパーティModpack</translation>
+        <translation>サードパーティModパック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="132"/>
@@ -5599,7 +5599,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>Modパックファイル %1 が開けられませんでした!</translation>
+        <translation>Modパックファイル %1 を開くのに失敗しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="135"/>
@@ -5829,7 +5829,7 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"/>
         <source>Updating index for resource:
 %1</source>
-        <translation>リソースのインデックスを更新中：
+        <translation>リソースのインデックスを更新中:
 %1</translation>
     </message>
     <message>
@@ -6054,7 +6054,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
         <source>Device authorization failed: %1</source>
-        <translation>デバイス認証に失敗：%1</translation>
+        <translation>デバイスの認証に失敗: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="124"/>
@@ -6064,7 +6064,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="130"/>
         <source>Device authorization failed: required fields missing</source>
-        <translation>デバイス認証に失敗：必須項目がありません</translation>
+        <translation>デバイスの認証に失敗: 必須項目がありません</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
@@ -6074,7 +6074,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
         <source>Device Access failed: %1</source>
-        <translation>デバイスアクセスに失敗：%1</translation>
+        <translation>デバイスのアクセスに失敗: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="276"/>
@@ -6783,7 +6783,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="801"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
-        <translation>ファイルマネージャーでJavaフォルダを開きます。組み込みのJavaダウンローダーが使用されている場合にのみ利用可能です。</translation>
+        <translation>ファイルブラウザでJavaフォルダを開きます。組み込みのJavaダウンローダーが使用されている場合にのみ利用可能です。</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -7025,12 +7025,12 @@ Microsoftアカウントを追加してください。</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="962"/>
         <source>The modpack, mod, or resource %1 is blocked for third-parties! Please download it manually.</source>
-        <translation>「%1」はサードパーティランチャーでのダウンロードを無効化しています。手動でダウンロードしてください。</translation>
+        <translation>「%1」はサードパーティのランチャーでのダウンロードを無効化しています。手動でダウンロードしてください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="996"/>
         <source>Modpack download</source>
-        <translation>Modpackダウンロード</translation>
+        <translation>Modパックのダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1138"/>
@@ -7248,7 +7248,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1760"/>
         <source>Total playtime: %1</source>
-        <translation>総プレイ時間：%1</translation>
+        <translation>総プレイ時間: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="834"/>
@@ -7374,7 +7374,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="230"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>このmodpackの更新履歴情報のリクエストに失敗しました。</translation>
+        <translation>このModパックの更新履歴データのリクエストに失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
@@ -7560,7 +7560,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="64"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: On the newer Minecraft versions the start maximized option is not fully supported.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：新しいバージョンのMinecraftでは、最大化して起動するオプションが完全にサポートされていません。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: 新しいバージョンのMinecraftでは、最大化して起動するオプションは完全にサポートされていません。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
@@ -7744,7 +7744,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="142"/>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="149"/>
         <source>Auto detected path: %1</source>
-        <translation>自動検出されたパス：%1</translation>
+        <translation>自動検出されたパス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="163"/>
@@ -8252,7 +8252,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="298"/>
         <source>Please install a mod loader first!</source>
-        <translation>先にmod loaderをインストールしてください！</translation>
+        <translation>先にModローダーをインストールしてください！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="164"/>
@@ -8621,7 +8621,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="355"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>ネットワークエラーが発生しました。modパックを読み込めません。</translation>
+        <translation>ネットワークエラーが発生しました。Modパックを読み込めません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="362"/>
@@ -9115,7 +9115,7 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="113"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation>ニュースRSSフィードの読み込みに失敗しました：
+        <translation>お知らせのRSSフィードの読み込みに失敗しました:
 %1</translation>
     </message>
 </context>
@@ -9477,26 +9477,26 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>エラー： %1 が予期しないステータスコード %2 %3 を返しました</translation>
+        <translation>エラー: %1 が予期しないステータスコード %2 %3 を返しました</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="180"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="202"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="226"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>エラー：%1が不正な応答本文を返しました</translation>
+        <translation>エラー: %1 が不正なレスポンスボディを返しました</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="196"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation>エラー：%1はエラーを返しました: %2</translation>
+        <translation>エラー: %1 がエラーを返しました: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="219"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>エラー：%1はエラーコードを返しました: %2
-エラーメッセージ：%3</translation>
+        <translation>エラー: %1 がエラーコードを返しました: %2
+エラーメッセージ: %3</translation>
     </message>
 </context>
 <context>
@@ -9653,8 +9653,8 @@ Exit Code: %1</source>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
         <source>StdOut: %1
 StdErr: %2</source>
-        <translation>標準出力（StdOut）： %1
-標準エラー出力（StdErr）： %2</translation>
+        <translation>標準出力 (StdOut): %1
+標準エラー出力 (StdErr): %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
@@ -9813,8 +9813,8 @@ The updater cannot continue until you fix this problem.</source>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="665"/>
         <source>Installing the following to %1 :
  %2</source>
-        <translation>以下を%1にインストールしています：
-・%2</translation>
+        <translation>%1 に以下をインストールしています:
+ %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="669"/>
@@ -10715,16 +10715,16 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Similar modpack was found!</source>
-        <translation>似ているmodpackが見つかりました！</translation>
+        <translation>同様のModパックが見つかりました！</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>同じMODパック%1を使用した起動構成が既にあります。別の起動構成を作成するか、既存のものを更新しますか？
+        <translation>すでに同じModパック%1 の起動構成があります。別の起動構成を作成しますか？ それとも既存の起動構成を更新しますか？
 
-メモ：更新する場合は、起動構成の重要なデータのバックアップを必ずとってください！パックの上書きによってワールドは破損するかも知れず、設定が失われる可能性があります。</translation>
+注意: 更新する場合は、起動構成の大事なデータのバックアップを取っておいてください。パックの上書きによってワールドが破損したり、一部の設定が失われる可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="38"/>
@@ -11326,7 +11326,7 @@ Please update %1!</source>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="46"/>
         <source>Downloading resource:
 %1</source>
-        <translation>リソースをダウンロードしています：
+        <translation>リソースをダウンロード中:
 %1</translation>
     </message>
 </context>
@@ -11682,7 +11682,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
         <source>You&apos;re about to update the following resources:</source>
-        <translation>以下のリソースをアップデートしようとしています：</translation>
+        <translation>以下のリソースをアップデートしようとしています:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
@@ -11702,7 +11702,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation>以下のリソースのメタデータを生成できませんでした：&lt;br&gt;これらのリソースなしで続行しますか？</translation>
+        <translation>以下のリソースのメタデータを生成できませんでした:&lt;br&gt;これらのリソース以外で続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="93"/>
@@ -11760,7 +11760,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
-        <translation>以下のリソースのアップデートを確認または取得できませんでした：&lt;br&gt;これらのリソースなしで続行しますか？</translation>
+        <translation>以下のリソースのアップデートを確認または取得できませんでした:&lt;br&gt;これらのリソース以外で続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
@@ -11816,7 +11816,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">新しいバージョンタイプ：%1</translation>
+        <translation>新しいバージョンの種類: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
@@ -11865,12 +11865,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
         <source>This download will be placed in: %1</source>
-        <translation>このダウンロードは、以下の場所に置かれます：%1</translation>
+        <translation>このダウンロードは次の場所に置かれます:%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>このファイルは、おそらくローダーが必要とするために、デフォルトとは異なるフォルダーの場所にダウンロードされます。</translation>
+        <translation>このファイルは、おそらくModローダーが必要とするため、デフォルトとは異なるフォルダーの場所にダウンロードされます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
@@ -11890,7 +11890,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
         <source>Version Type: %1</source>
-        <translation>バージョンタイプ：%1</translation>
+        <translation>バージョンの種類: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
@@ -12141,7 +12141,7 @@ Are you sure?</source>
 Currently installed version: %1</source>
         <translation>インストールするバージョンを選択してください。
 
-現在のバージョン：%1</translation>
+現在のバージョン: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
@@ -12667,7 +12667,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="369"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation>スキンをダウンロードできません：「%1」。</translation>
+        <translation>スキンをダウンロードできません: &apos;%1&apos;。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="415"/>
@@ -12721,7 +12721,7 @@ Are you sure?</source>
         <source>Unable to find the skin for &apos;%1&apos;
  because: %2.</source>
         <translation>「%1」のスキンが見つかりませんでした。
- 理由：%2。</translation>
+ 理由: %2。</translation>
     </message>
 </context>
 <context>
@@ -12875,17 +12875,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="64"/>
         <source>Extracting modpack</source>
-        <translation>Modパックを抽出中</translation>
+        <translation>Modパックを展開中</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="71"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>提供された mod パックの zip ファイルを開けませんでした.</translation>
+        <translation>指定されたModパックのzipファイルを開けませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="99"/>
         <source>Failed to extract modpack</source>
-        <translation>Modパックの抽出に失敗しました</translation>
+        <translation>Modパックの展開に失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="120"/>
@@ -12920,7 +12920,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation>Mod パックのファイルを解決しています</translation>
+        <translation>Modパックのファイルを解決中</translation>
     </message>
     <message>
         <source>Downloading modpack:</source>
@@ -12942,12 +12942,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="138"/>
         <source>Extracting modpack</source>
-        <translation>Modパックを抽出中</translation>
+        <translation>Modパックを展開中</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="181"/>
         <source>Failed to extract modpack</source>
-        <translation>Modパックの抽出に失敗しました</translation>
+        <translation>Modパックの展開に失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="202"/>
@@ -14204,7 +14204,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Release date of this version</source>
-        <translation>このバージョンのリリース日</translation>
+        <translation>バージョンのリリース日</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="166"/>
