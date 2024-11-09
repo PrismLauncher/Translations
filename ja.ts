@@ -1669,7 +1669,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="81"/>
         <source>Core mods</source>
-        <translation>Core mod</translation>
+        <translation>コアMod</translation>
     </message>
 </context>
 <context>
@@ -2848,7 +2848,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>CurseForgeのmodを準備中…</translation>
+        <translation>CurseForgeのリソースを準備中…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
