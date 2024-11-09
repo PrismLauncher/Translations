@@ -3619,7 +3619,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Válassza ki azt a példányt, amelybe importálni szeretné ezt az erőforráscsomagot.</translation>
+        <translation>Válassza ki azt a példányt, amelybe importálni szeretné ezt a forráscsomagot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -4090,7 +4090,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="291"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
-        <translation type="unfinished"></translation>
+        <translation>Az alapjáték csak a felbontást támogatja. A maximalizált viselkedés szimulálása érdekében a jelenlegi implementáció a maximális kijelzőméretet közelíti..</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="294"/>
@@ -7960,7 +7960,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="61"/>
         <source>On newer versions the game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size.</source>
-        <translation>Az újabb verziókon a játék csak a felbontást támogatja. A teljes képernyő viselkedés szimulálása érdekében a jelenlegi implementáció a maximális kijelzőméretet közelíti.</translation>
+        <translation>Az újabb verziókon a játék csak a felbontást támogatja. A maximalizált viselkedés szimulálása érdekében a jelenlegi implementáció a maximális kijelzőméretet közelíti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="64"/>
@@ -8358,7 +8358,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
         <source>The source provider of the mod.</source>
-        <translation>A mod forrás szolgáltatója.</translation>
+        <translation>A mod szolgáltatója.</translation>
     </message>
     <message>
         <source>Miecraft Versions</source>
@@ -11314,7 +11314,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="33"/>
         <source>resource pack</source>
-        <translation>erőforrás csomag</translation>
+        <translation>forráscsomag</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="34"/>
@@ -11653,7 +11653,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation>Erőforrás csomag</translation>
+        <translation>forráscsomag</translation>
     </message>
 </context>
 <context>
@@ -11915,7 +11915,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
         <source>The source provider of the resource.</source>
-        <translation>Az erőforrás forrás szolgáltatója.</translation>
+        <translation>Az erőforrás szolgáltatója.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="583"/>
@@ -11933,7 +11933,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
         <source>Is the resource pack enabled?</source>
-        <translation>Az erőforráscsomag engedélyezve van?</translation>
+        <translation>A forráscsomag engedélyezve van?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
@@ -11970,7 +11970,7 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="168"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>Az erőforráscsomag formátumazonosítója, valamint a Minecraft verziók, amelyekhez tervezték.</translation>
+        <translation>A forráscsomag formátumazonosítója, valamint a Minecraft verziók, amelyekhez tervezték.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="114"/>
@@ -11991,12 +11991,12 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="172"/>
         <source>The source provider of the resource pack.</source>
-        <translation>A forráscsomag forrásszolgáltatója.</translation>
+        <translation>A forráscsomag szolgáltatója.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="174"/>
         <source>The size of the resource pack.</source>
-        <translation>Az erőforráscsomag mérete.</translation>
+        <translation>A forráscsomag mérete.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
@@ -12019,7 +12019,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
         <source>The name of the resource pack.</source>
-        <translation>Az erőforráscsomag neve.</translation>
+        <translation>A forráscsomag neve.</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -12028,7 +12028,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="170"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>Az erőforráscsomag legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
+        <translation>A forráscsomag legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
 </context>
 <context>
@@ -12059,7 +12059,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="57"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
-        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott forráscsomagot (ha nincs kiválasztva semmi, akkor az összes erőforráscsomagot)</translation>
+        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott forráscsomagot (ha nincs kiválasztva semmi, akkor az összes forráscsomagot)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="71"/>
@@ -12127,7 +12127,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="154"/>
         <source>The resource pack updater was aborted!</source>
-        <translation>Az forráscsomag-frissítés meg lett szakítva!</translation>
+        <translation>A forráscsomag-frissítés meg lett szakítva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
@@ -12287,7 +12287,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>A(z) &apos;%1&apos; erőforrás még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez kérjük, válasszon egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
+        <translation>A(z) &quot;%1&quot; erőforrás még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez kérjük, válasszon egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
@@ -13631,7 +13631,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
         <source>The source provider of the texture pack.</source>
-        <translation>A textúracsomag forrás szolgáltatója.</translation>
+        <translation>A textúracsomag szolgáltatója.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="148"/>
@@ -14979,8 +14979,8 @@ Akarod folytatni?</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="301"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation>Nincs MCEdit beállítva, vagy áthelyezve.
-Beállíthatja a globális beállításokban.</translation>
+        <translation>Nincs beállítva az MCEdit, vagy áthelyezték.
+Ezt a globális beállításokban tudja beállítani.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
