@@ -2294,7 +2294,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>これはModのメタデータにより異なります。確実に利用するためには、起動構成で更新を実行します。更新プログラムのインストールは必要ありません。</translation>
+        <translation>これはModのメタデータから取得されます。確実に利用するためには、起動構成でアップデートを実行してください。アップデートのインストールは必要ありません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
@@ -2429,7 +2429,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation>更新用のメタデータをリセット</translation>
+        <translation>アップデート用のメタデータをリセット</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
@@ -5804,7 +5804,7 @@ You&apos;ll have to correct this problem manually.</source>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation>ゲームの更新に失敗しました: 必要なライブラリを取得できませんでした。
+        <translation>ゲームのアップデートに失敗しました: 必要なライブラリを取得できませんでした。
 理由:
 %1</translation>
     </message>
@@ -6300,7 +6300,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="669"/>
         <source>Open %1 subreddit.</source>
-        <translation>%1のsubredditを開く</translation>
+        <translation>%1のsubredditを開きます。</translation>
     </message>
     <message>
         <source>About %1</source>
@@ -6454,17 +6454,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
         <source>&amp;Matrix Space</source>
-        <translation>マトリックススペース(&amp;M)</translation>
+        <translation>Matrixスペース(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="642"/>
         <source>&amp;Discord Guild</source>
-        <translation>Discord(&amp;D)</translation>
+        <translation>Discordサーバー(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="666"/>
         <source>Sub&amp;reddit</source>
-        <translation>reddit (&amp;R)</translation>
+        <translation>Subreddit(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="678"/>
@@ -6627,7 +6627,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="657"/>
         <source>Open %1 Matrix space.</source>
-        <translation>%1のマトリックススペースを開く。</translation>
+        <translation>%1のMatrixスペースを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="708"/>
@@ -7260,7 +7260,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="645"/>
         <source>Open %1 Discord guild.</source>
-        <translation>%1のDiscordを開く。</translation>
+        <translation>%1のDiscordサーバーを開きます。</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -9134,12 +9134,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
         <source>Hide article list</source>
-        <translation>記事一覧を隠す</translation>
+        <translation>記事一覧を非表示</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
         <source>Show article list</source>
-        <translation>記事一覧を表示する</translation>
+        <translation>記事一覧を表示</translation>
     </message>
 </context>
 <context>
@@ -9320,7 +9320,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>Reload</source>
-        <translation>リロード</translation>
+        <translation>再読み込み</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="123"/>
@@ -13761,7 +13761,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Reload</source>
-        <translation>リロード</translation>
+        <translation>再読み込み</translation>
     </message>
     <message>
         <source>Reload all packages.</source>
@@ -14241,7 +14241,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="99"/>
         <source>Reloads the version list.</source>
-        <translation>バージョンリストをリロードします。</translation>
+        <translation>バージョンリストを再読み込みします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="100"/>
