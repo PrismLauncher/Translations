@@ -11503,7 +11503,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation>Mod</translation>
+        <translation>mod</translation>
     </message>
     <message>
         <source>No valid version found!</source>
@@ -11638,7 +11638,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="126"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>Forráscsomagok</translation>
+        <translation>forráscsomagok</translation>
     </message>
 </context>
 <context>
@@ -11647,7 +11647,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="35"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation>Forráscsomagok</translation>
+        <translation>forráscsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
@@ -11780,7 +11780,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>Shader csomagok</translation>
+        <translation>shader csomagok</translation>
     </message>
 </context>
 <context>
@@ -11795,7 +11795,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation>Shader csomag</translation>
+        <translation>shader csomag</translation>
     </message>
 </context>
 <context>
@@ -11804,7 +11804,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="145"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>Textúracsomagok</translation>
+        <translation>textúracsomagok</translation>
     </message>
 </context>
 <context>
@@ -11819,7 +11819,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation>Textúracsomag</translation>
+        <translation>textúracsomag</translation>
     </message>
 </context>
 <context>
