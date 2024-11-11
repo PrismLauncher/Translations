@@ -12384,12 +12384,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
         <source>This download will be placed in: %1</source>
-        <translation>Ez a letöltés itt lesz: %1</translation>
+        <translation>Ez a letöltés ide lesz helyezve: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Ez a fájl az alapértelmezettől eltérő mappába lesz letöltve, valószínűleg azért, mert a loader ezt igényli.</translation>
+        <translation>Ez a fájl az alapértelmezettől eltérő mappába lesz letöltve, valószínűleg azért, mert a (mod) töltője ezt igényli.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
@@ -12419,12 +12419,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>A következő %1 letöltésére készül:</translation>
+        <translation>Ezt készülsz letölteni %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>Csak a kipipált %1 lesznek letöltve!</translation>
+        <translation>Csak %1 a kipipált elemek lesznek letöltve!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
