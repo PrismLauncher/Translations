@@ -12495,32 +12495,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>Ce fichier va être télécharger dans un dossier différent de celui par défaut, possiblement due au fait que le loader le requiert.</translation>
+        <translation type="unfinished">Ce fichier va être télécharger dans un dossier différent de celui par défaut, possiblement due au fait que le loader le requiert.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Provider: %1</source>
-        <translation>Gestionnaire&#xa0;: %1</translation>
+        <translation type="unfinished">Gestionnaire&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
         <source>Required by: %1</source>
-        <translation>Requis par : %1</translation>
+        <translation>Requis par&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="75"/>
         <source>Required by:</source>
-        <translation>Requis par :</translation>
+        <translation>Requis par&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
         <source>Version Type: %1</source>
-        <translation>Type de version : %1</translation>
+        <translation type="unfinished">Type de version&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
         <source>Confirm %1 selection</source>
-        <translation>Confirmer la sélection de %1</translation>
+        <translation type="unfinished">Confirmer la sélection de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
@@ -12530,7 +12530,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>Seuls les %1 cochés seront téléchargés&#xa0;!</translation>
+        <translation>Seuls les %1 cochés seront téléchargés&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
@@ -12612,7 +12612,7 @@ Are you sure?</source>
         <translation>Vous êtes sur le point de publier %1 captures d&apos;écran sur %2.
 Vous devriez revérifier les informations personnelles.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="376"/>
@@ -12623,14 +12623,14 @@ Are you sure?</source>
         <translation>Vous êtes sur le point de publier la capture d&apos;écran sélectionnée sur %1.
 Vous devriez revérifier les informations personnelles.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="401"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="442"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="453"/>
         <source>Failed to upload screenshots!</source>
-        <translation>L&apos;envoi des captures d&apos;écran a échoué&#xa0;!</translation>
+        <translation>L&apos;envoi des captures d&apos;écran a échoué&#x202f;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="453"/>
@@ -12646,19 +12646,19 @@ Vous devriez revérifier les informations personnelles.
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="392"/>
         <source>Abort</source>
-        <translation>Annuler</translation>
+        <translation>Interrompre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>Screenshots upload aborted</source>
-        <translation>Envoi des captures d&apos;écran annulé</translation>
+        <translation>Envoi des captures d&apos;écran interrompues</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>The task has been aborted by the user.</source>
-        <translation>La tâche a été annulée par l&apos;utilisateur.</translation>
+        <translation>La tâche a été interrompue par l&apos;utilisateur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
@@ -12679,7 +12679,7 @@ Are you sure?</source>
         <translation>Vous êtes sur le point d&apos;effacer %1 captures d&apos;écran.
 Ceci pourrait être permanent et ils disparaîtront du fichier.
 
-Êtes-vous sûr&#xa0;?</translation>
+Êtes-vous sûr&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="514"/>
@@ -12690,7 +12690,7 @@ Are you sure?</source>
         <translation>Vous êtes sur le point d&apos;effacer la capture d&apos;écran sélectionnée.
 Ceci pourrait être permanent et ils disparaîtront du fichier.
 
-Êtes-vous sûr&#xa0;?</translation>
+Êtes-vous sûr&#x202f;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="520"/>
