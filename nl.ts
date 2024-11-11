@@ -8174,7 +8174,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="127"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alle versies</translation>
     </message>
 </context>
 <context>
