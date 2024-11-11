@@ -73,7 +73,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="307"/>
         <source>(None)</source>
-        <translation>（なし）</translation>
+        <translation>(なし)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
@@ -174,7 +174,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation>既存ファイルの削除...</translation>
+        <translation>既存ファイルを削除中...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
@@ -199,7 +199,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
         <source>Downloading configs...</source>
-        <translation>構成データをダウンロードしています…</translation>
+        <translation>コンフィグをダウンロード中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
@@ -209,7 +209,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="671"/>
         <source>Extracting configs...</source>
-        <translation>構成データを展開しています…</translation>
+        <translation>コンフィグを展開中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="677"/>
@@ -219,12 +219,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
-        <translation>オプションのModを選択してください…</translation>
+        <translation>オプションのModを選択中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
         <source>Downloading mods...</source>
-        <translation>Modをダウンロードしています…</translation>
+        <translation>Modをダウンロード中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
@@ -264,7 +264,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
-        <translation>Modを展開しています…</translation>
+        <translation>Modを展開中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
@@ -903,19 +903,19 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation>Javaをダウンロードしています</translation>
+        <translation>Javaをダウンロード中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation>Javaを展開しています</translation>
+        <translation>Javaを展開中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Javaを展開しています(tarアーカイブに対する進行状況は報告されません)</translation>
+        <translation>Javaを展開中 (tarアーカイブの進行状況は報告されません)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
@@ -950,7 +950,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="20"/>
         <source>Updating assets index...</source>
-        <translation>assetsインデックスを更新しています...</translation>
+        <translation>assetsインデックスを更新中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="26"/>
@@ -966,25 +966,25 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="69"/>
         <source>Failed to read the assets index!</source>
-        <translation>アセットのインデックスの読み込みに失敗しました！</translation>
+        <translation>assetsインデックスの読み込みに失敗しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Mojangからassetsファイルを取得しています...</translation>
+        <translation>Mojangからassetsファイルを取得中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="90"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>アセットのインデックスのダウンロードに失敗しました!:
+        <translation>assetsインデックスのダウンロードに失敗しました!:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>アセットのダウンロードに失敗しました:
+        <translation>assetsのダウンロードに失敗しました:
 %1</translation>
     </message>
 </context>
@@ -1210,7 +1210,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="106"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation>メタ情報が古いか、Javaのインストールを決定するのに必要な情報がありません。デフォルトのJavaパスを使用しています。</translation>
+        <translation>メタ情報が古いか、Javaのインストールを判別するのに必要な情報がありません。デフォルトのJavaパスを使用しています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
@@ -1361,7 +1361,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>javaチェッカーライブラリが見つかりませんでした。設定を確認してください。</translation>
+        <translation>Java checkerライブラリが見つかりませんでした。設定を確認してください。</translation>
     </message>
 </context>
 <context>
@@ -1417,7 +1417,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="467"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>起動構成の依存関係にコンフリクトがあります。</translation>
+        <translation>起動構成の依存関係に競合があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="473"/>
@@ -2399,7 +2399,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>ファイルエクスプローラーでconfigフォルダを開く。</translation>
+        <translation>ファイルマネージャーでconfigフォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
@@ -2521,10 +2521,10 @@ Minecraft のバージョンによっては起動しない場合があります�
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>%1 を削除しようとしています。
-これは完全に削除され、元に戻りません。
+        <translation>%1 個の項目を削除しようとしています。
+これは元に戻せない可能性があり、項目はフォルダーから削除されます。
 
-よろしいですか？</translation>
+本当によろしいですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="250"/>
@@ -2532,10 +2532,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>%1 フォルダーを削除しようとしています。
-このフォルダーは完全に削除され、元に戻りません。
+        <translation>「%1」フォルダーを削除しようとしています。
+これは元に戻せない可能性があり、フォルダーは親フォルダーから削除されます。
 
-よろしいですか？</translation>
+本当によろしいですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
@@ -3731,12 +3731,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="44"/>
         <source>Removing old conflicting files...</source>
-        <translation>古いコンフリクトするファイルを削除中…</translation>
+        <translation>古い競合ファイルを削除中…</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="60"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>古いコンフリクトするファイルの削除に失敗しました。</translation>
+        <translation>古い競合ファイルの削除に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -6745,7 +6745,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
         <source>Open the skins folder in a file browser.</source>
-        <translation>ファイルマネージャーでスキンフォルダを開きます。</translation>
+        <translation>ファイルブラウザでスキンフォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="601"/>
@@ -6804,9 +6804,9 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
         <translation>「%1」を削除しようとしています。
-この起動構成は完全に削除され、元に戻りません。
+これは元に戻せない可能性があり、起動構成はまるごと削除されます。
 
-よろしいですか？</translation>
+本当によろしいですか？</translation>
     </message>
     <message>
         <source>Launch the selected instance in offline mode.</source>
@@ -6935,7 +6935,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="549"/>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation>グループ を削除(&amp;D)</translation>
+        <translation>グループを削除(&amp;D)</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -7165,7 +7165,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1546"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>ランチャーが誤って構成された AppImage として実行されていませんか？（$APPIMAGE 環境変数が見つかりません）</translation>
+        <translation>ランチャーが間違った設定のAppImageとして実行されていませんか？（$APPIMAGE環境変数が見つかりません）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
@@ -7175,7 +7175,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>本当にグループ&apos;%1&apos;を削除して良いですか？</translation>
+        <translation>本当にグループ「%1」を削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1160"/>
@@ -8063,7 +8063,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>Modが追加または変更された日時。</translation>
+        <translation>Modが最後に変更または追加された日時。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
@@ -9361,7 +9361,7 @@ This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
         <translation>「%1」を削除しようとしています。
-これはlogsフォルダから完全に削除され、元に戻りません。
+これは元に戻せない可能性があり、ログはlogsフォルダから削除されます。
 
 本当によろしいですか？</translation>
     </message>
@@ -9696,7 +9696,7 @@ StdErr: %2</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="229"/>
         <source>github repo url</source>
-        <translation>GithubリポジトリのURL</translation>
+        <translation>GitHubリポジトリのURL</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="231"/>
@@ -9850,12 +9850,12 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="878"/>
         <source>No Valid Release Assets</source>
-        <translation type="unfinished">有効なリリース済みAssetsファイルがありません</translation>
+        <translation>リリースのAssetsに有効なファイルがありません</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="879"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
-        <translation>GitHubリリース %1 のAssetsに、このプラットフォームで有効なファイルがありません: %2</translation>
+        <translation>GitHubリリース %1 のAssetsには、このプラットフォームで有効なファイルがありません: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="881"/>
@@ -10503,7 +10503,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="311"/>
         <source>Assets for %1</source>
-        <translation>%1 のアセット</translation>
+        <translation>%1 のassets</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="79"/>
@@ -11402,7 +11402,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
-        <translation>このコンテンツが変更または追加された日時。</translation>
+        <translation>リソースが最後に変更または追加された日時。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
@@ -11520,7 +11520,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="170"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>リソースパックが追加または変更された日時。</translation>
+        <translation>リソースパックが最後に変更または追加された日時。</translation>
     </message>
 </context>
 <context>
@@ -12050,8 +12050,8 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>%1枚のスクリーンショットを消去しようとしています。
-この操作は元に戻せません。
+        <translation>%1枚のスクリーンショットを削除しようとしています。
+これは元に戻せない可能性があり、スクリーンショットはフォルダーから削除されます。
 
 本当によろしいですか？</translation>
     </message>
@@ -12061,8 +12061,8 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation>選択したスクリーンショットを消去しようとしています。
-この操作は元に戻せません。
+        <translation>選択したスクリーンショットを削除しようとしています。
+これは元に戻せない可能性があり、スクリーンショットはフォルダーから削除されます。
 
 本当によろしいですか？</translation>
     </message>
@@ -12269,7 +12269,7 @@ Are you sure?</source>
         <translation>「%1」を削除しようとしています。
 サーバーはリストから完全に削除されます 。
 
-よろしいですか？</translation>
+本当によろしいですか？</translation>
     </message>
 </context>
 <context>
@@ -13854,7 +13854,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Open .minecraft</source>
-        <translation>.minecraft を開く</translation>
+        <translation>.minecraftを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
@@ -13864,7 +13864,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Open libraries</source>
-        <translation>libraries を開く</translation>
+        <translation>librariesを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
@@ -13933,9 +13933,9 @@ This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
         <translation>「%1」を削除しようとしています。
-カスタム コンポーネントを完全に削除します。
+カスタムコンポーネントは完全に削除されます。
 
-よろしいですか？</translation>
+本当によろしいですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
@@ -14039,10 +14039,10 @@ Microsoftアカウントを追加してください。</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>&quot;%1&quot; を元に戻そうとしています。
-カスタマイズを完全に元に戻します。
+        <translation>「%1」を元に戻そうとしています。
+カスタマイズが完全に元に戻ります。
 
-よろしいですか？</translation>
+本当によろしいですか？</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -14343,7 +14343,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="286"/>
         <source>Date and time the world was last played.</source>
-        <translation>ワールドを最後にプレイした日時。</translation>
+        <translation>ワールドが最後にプレイされた日時。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="288"/>
@@ -14524,9 +14524,9 @@ The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>「%1」を削除しようとしています。
-ワールドは永遠に消えてしまい、元には戻せません。
+ワールドは完全に削除され、元に戻せない可能性があります。
 
-よろしいですか？</translation>
+本当によろしいですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
