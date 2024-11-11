@@ -1937,7 +1937,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
         <source>Got entitlements</source>
-        <translation>資格を取得</translation>
+        <translation>資格を取得しました</translation>
     </message>
 </context>
 <context>
@@ -2128,7 +2128,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="121"/>
         <source>&amp;Mark disabled files as optional</source>
-        <translation>チェックが付いていないファイルをオプションとする(&amp;M)</translation>
+        <translation>無効化されたファイルをオプションにする(&amp;M)</translation>
     </message>
     <message>
         <source>Version</source>
@@ -2267,7 +2267,7 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Authors</source>
-        <translation>作成者名</translation>
+        <translation>作者名</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
@@ -2394,7 +2394,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
         <source>View &amp;Configs</source>
-        <translation>Configを表示(&amp;C)</translation>
+        <translation>Configを開く(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
@@ -2404,7 +2404,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="149"/>
         <source>View &amp;Folder</source>
-        <translation>フォルダーを表示(&amp;F)</translation>
+        <translation>フォルダーを開く(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
@@ -2563,7 +2563,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>ゲーム実行中にリソースを無効にすると、ゲームがクラッシュする可能性があります。
+        <translation>ゲームの実行中にリソースを無効にすると、ゲームがクラッシュする可能性があります。
 本当に無効化しますか？</translation>
     </message>
     <message>
@@ -3374,7 +3374,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="35"/>
         <source>Got skin</source>
-        <translation>スキンを取得</translation>
+        <translation>スキンを取得しました</translation>
     </message>
 </context>
 <context>
@@ -3470,7 +3470,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>これらのファイルタイプに対応しています(ローカルファイルまたはダウンロードURL) :</translation>
+        <translation>以下の種類のファイルに対応しています (ローカルファイルとダウンロードURL) :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
@@ -3487,7 +3487,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Launcher、PolyMCまたはMultiMCのエクスポートされた起動構成(ZIP)</translation>
+        <translation>- Prism Launcher、PolyMCまたはMultiMCでエクスポートされた起動構成 (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -3497,7 +3497,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>ローカルファイルへのパスあるいは直接ダウンロードのリンク:</translation>
+        <translation>ローカルファイルへのパスまたはダウンロードの直リンク:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
@@ -3530,7 +3530,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
         <source>Supported files</source>
-        <translation type="unfinished">サポートされているファイル</translation>
+        <translation>対応ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="213"/>
@@ -4895,7 +4895,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="137"/>
         <source>Play demo?</source>
-        <translation>体験版をプレイしますか？</translation>
+        <translation>デモ版をプレイしますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="139"/>
@@ -4906,12 +4906,12 @@ Do you want to play the demo?</source>
         <translation>このアカウントはMinecraftを所有していません。
 プレイするためにはゲームを購入する必要があります。
 
-体験版をプレイしますか？</translation>
+デモ版をプレイしますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="142"/>
         <source>Play Demo</source>
-        <translation>デモプレイ</translation>
+        <translation>デモ版をプレイ</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
@@ -6178,7 +6178,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
-        <translation>取得 </translation>
+        <translation>取得済み </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -6309,7 +6309,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="681"/>
         <source>View information about %1.</source>
-        <translation>%1に関する情報を見る。</translation>
+        <translation>%1に関する情報を表示します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="729"/>
@@ -7977,14 +7977,14 @@ Warning: This resource is symbolically linked from elsewhere. Editing it will al
 Canonical Path: %1</source>
         <translation>
 警告: このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス:: %1</translation>
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="136"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告: このリソースは他の場所からハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+警告: このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
@@ -8087,7 +8087,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="203"/>
         <source>The supported minecraft versions.</source>
-        <translation>対応しているマイクラのバージョン。</translation>
+        <translation>対応しているMinecraftのバージョン。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
@@ -8301,9 +8301,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation>ゲーム実行中にModを更新すると、Modの重複やクラッシュを引き起こす可能性があります。
-古いファイルは使用中のため削除されない可能性があります。
-本当にこの操作を実行しますか。</translation>
+        <translation>ゲームの実行中にModを更新すると、Modの重複やゲームのクラッシュが起きる可能性があります。
+古いファイルは使用中の場合、削除されません。
+本当に実行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
@@ -8318,7 +8318,7 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
         <source>Update checker</source>
-        <translation>アップデートチェッカー</translation>
+        <translation>アップデート確認</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="277"/>
@@ -8727,7 +8727,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="242"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished">ModrithからModをダウンロード</translation>
+        <translation>ModrithからModをダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="254"/>
@@ -8786,7 +8786,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="374"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinthのpack</translation>
+        <translation>ModrinthのModパック</translation>
     </message>
 </context>
 <context>
@@ -9245,7 +9245,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="14"/>
         <source>Select Optional Mods</source>
-        <translation>オプションのモッドを選択</translation>
+        <translation>オプションのModを選択</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="34"/>
@@ -9260,7 +9260,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.ui" line="61"/>
         <source>Unchecked mods will be disabled.</source>
-        <translation type="unfinished">チェックがついていないModは無効になります。</translation>
+        <translation>チェックが入っていないModは無効になります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/OptionalModDialog.cpp" line="47"/>
@@ -10177,12 +10177,12 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation>グローバルタスクの状況</translation>
+        <translation>グローバルタスクのステータス...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="59"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished">グローバルステータスの詳細...</translation>
+        <translation>グローバルステータスの詳細...</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -11338,14 +11338,14 @@ Warning: This resource is symbolically linked from elsewhere. Editing it will al
 Canonical Path: %1</source>
         <translation>
 警告: このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス:: %1</translation>
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="510"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告: このリソースは他の場所からハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+警告: このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
@@ -11385,7 +11385,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="543"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
-        <translation>ゲームの実行中にこのリソースを有効化・無効化すると、ゲームがクラッシュする可能性があります。
+        <translation>ゲームの実行中にリソースを有効化・無効化すると、ゲームがクラッシュする可能性があります。
 本当に実行しますか？</translation>
     </message>
     <message>
@@ -11471,14 +11471,14 @@ Warning: This resource is symbolically linked from elsewhere. Editing it will al
 Canonical Path: %1</source>
         <translation>
 警告: このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス:: %1</translation>
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告: このリソースは他の場所からハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+警告: このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="172"/>
@@ -11639,7 +11639,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
         <source>Update checker</source>
-        <translation type="unfinished">アップデートチェッカー</translation>
+        <translation>アップデート確認</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="208"/>
@@ -11686,7 +11686,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
         <source>Only resources with a check will be updated!</source>
-        <translation>チェックの入っているリソースのみがアップデートされます！</translation>
+        <translation>チェックが入っているリソースのみがアップデートされます！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
@@ -11749,7 +11749,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">考えうる解決策: 最新バージョンを手動で取得する:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>考えられる解決策: 最新バージョンを手動で取得する:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
@@ -11769,12 +11769,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
         <source>Not installed</source>
-        <translation type="unfinished">インストールされていない</translation>
+        <translation>未インストール</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="272"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished">メタデータを探しています</translation>
+        <translation>メタデータを検索中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
@@ -11830,7 +11830,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished">最新バージョンの更新内容</translation>
+        <translation>最新バージョンの更新履歴</translation>
     </message>
 </context>
 <context>
@@ -11904,7 +11904,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>チェックが付いた%1だけがダウンロードされます！</translation>
+        <translation>チェックが入った%1のみがダウンロードされます！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
@@ -11937,7 +11937,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation>フォルダーを見る</translation>
+        <translation>フォルダーを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
@@ -12416,7 +12416,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="160"/>
         <source>Update checker</source>
-        <translation type="unfinished">アップデートチェッカー</translation>
+        <translation>アップデート確認</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
@@ -13101,16 +13101,16 @@ inheritsFrom is missing</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 警告: このリソースは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
-絶対パス:: %1</translation>
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="94"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-警告: このリソースは他の場所からハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
+        <translation>
+警告: このリソースは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="146"/>
@@ -13259,7 +13259,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
         <source>Update checker</source>
-        <translation type="unfinished">アップデートチェッカー</translation>
+        <translation>アップデート確認</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="212"/>
@@ -13430,7 +13430,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="129"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished">また後で</translation>
+        <translation>また後で</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateAvailableDialog.ui" line="142"/>
@@ -14282,26 +14282,26 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="200"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished">このワールドは他の場所から象徴的にリンクされています。</translation>
+        <translation>このワールドは他の場所からシンボリックリンクされています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="203"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished">
+        <translation>
 このワールドは他の場所とハードリンクされています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="222"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">警告: この世界は他の場所から象徴的にリンクされています。編集するとオリジナルも変更されます。
-正規パス: %1</translation>
+        <translation>警告: このワールドは他の場所からシンボリックリンクされています。これを編集すると、オリジナルも変更されます。
+絶対パス: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>警告: この世界は他の場所とハードリンクされています。編集すると、オリジナルも変更されます。</translation>
+        <translation>警告: このワールドは他の場所とハードリンクされています。これを編集すると、オリジナルも変更されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="264"/>
@@ -14410,7 +14410,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="138"/>
         <source>View Folder</source>
-        <translation>フォルダーを表示</translation>
+        <translation>フォルダーを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="143"/>
