@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注意: Microsoftアカウントによるログインがすでに機能している場合は、おそらくこれを設定する必要はありません。</translation>
+        <translation>注意: Microsoftアカウントによるログインがすでに機能している場合は、これを設定する必要はありません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -67,7 +67,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>ここにModrinth用のカスタムAPIトークンを入力してください。</translation>
+        <translation>ModrinthのカスタムAPIトークンをここに入力してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -133,7 +133,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>注意: CurseForgeが使える場合は、おそらくこの設定を変更する必要はありません。</translation>
+        <translation>注意: CurseForgeがすでに機能している場合は、この設定を変更する必要はありません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
@@ -460,7 +460,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Type of the account (MSA or Offline)</source>
-        <translation>アカウントのタイプ(Msaまたはオフライン)</translation>
+        <translation>アカウントのタイプ (MSAまたはオフライン)</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1907,12 +1907,12 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>%1 のメタデータ情報をリクエストしています…</translation>
+        <translation>%1 のメタデータを取得中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="169"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>%2 用の %1 のメタデータをリクエストしています…</translation>
+        <translation>%1 から &apos;%2&apos; のメタデータを取得中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="248"/>
@@ -2715,7 +2715,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>FMLライブラリをチェックしています...</translation>
+        <translation>FMLライブラリをチェック中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="60"/>
@@ -2730,7 +2730,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>起動構成にFMLライブラリをコピーしています...</translation>
+        <translation>起動構成にFMLライブラリをコピー中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="97"/>
@@ -4153,7 +4153,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="638"/>
         <source>Enable online fixes (experimental)</source>
-        <translation>オンライン修正を有効化する(実験的)</translation>
+        <translation>オンライン修正を有効化する (実験的)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="651"/>
@@ -5769,7 +5769,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>必要なライブラリファイルを取得しています...</translation>
+        <translation>必要なライブラリファイルをダウンロード中...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -5863,7 +5863,7 @@ Reason:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>設定で構成された貼り付けサービスにログをアップロードします</translation>
+        <translation>設定されたペーストサービスにログをアップロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -6029,7 +6029,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="605"/>
         <source>Extracting %1 was cancelled, because it was effectively outside of the target path %2</source>
-        <translation>%1 の抽出は、ターゲット・パス %2 の実質的な外側であったため、キャンセルされました</translation>
+        <translation>%1 の展開は、実質的に対象パス %2 の外側であったため、キャンセルされました</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="611"/>
@@ -6048,7 +6048,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="55"/>
         <source>Logging in with Microsoft account(device code).</source>
-        <translation>Microsoftアカウント（デバイスコード）でログインしています。</translation>
+        <translation>Microsoftアカウントにデバイスコードでログインしています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="120"/>
@@ -6086,7 +6086,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation>Microsoft アカウントを追加</translation>
+        <translation>Microsoftアカウントを追加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
@@ -6919,7 +6919,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
         <source>Total playtime: 0s</source>
-        <translation>総プレイ時間: 0s</translation>
+        <translation>総プレイ時間: 0秒</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -7386,7 +7386,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Javaをダウンロードしています</translation>
+        <translation>Javaをダウンロード中</translation>
     </message>
 </context>
 <context>
@@ -7470,7 +7470,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="265"/>
         <source>Profilers</source>
-        <translation>プロファイラー</translation>
+        <translation>プロファイラ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="275"/>
@@ -7597,7 +7597,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="222"/>
         <source>Enable online fixes (experimental)</source>
-        <translation>オンライン修正を有効化する（実験的）</translation>
+        <translation>オンライン修正を有効化する (実験的)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="232"/>
@@ -8960,7 +8960,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
-        <translation>%2 の内 %1 のタスクを試みています</translation>
+        <translation>%2 のうち %1 のタスクを試行中</translation>
     </message>
 </context>
 <context>
@@ -9283,7 +9283,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>クリップボードにログ全体をコピーする</translation>
+        <translation>クリップボードにログ全体をコピーします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
@@ -9305,7 +9305,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>設定で構成された貼り付けサービスにログをアップロードします。</translation>
+        <translation>設定されたペーストサービスにログをアップロードします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
@@ -9347,7 +9347,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="165"/>
         <source>The file (%1) is not readable.</source>
-        <translation>ファイル %1 の読み込めません。</translation>
+        <translation>ファイル %1 は読み取れません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="196"/>
@@ -9379,7 +9379,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="227"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation>本当にこれらのファイルを削除しますか？
+        <translation>本当に以下のファイルをすべて削除しますか？
 %1</translation>
     </message>
     <message>
@@ -9567,14 +9567,14 @@ Error message: %3</source>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
         <source>Running Pre-Launch command: %1</source>
-        <translation>Pre-Launch コマンド: %1</translation>
+        <translation>起動前コマンドを実行中: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="68"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation>Pre-Launchコマンドは、コード %1で失敗しました。
+        <translation>起動前コマンドは、コード %1 で失敗しました。
 
 </translation>
     </message>
@@ -9583,7 +9583,7 @@ Error message: %3</source>
         <source>Pre-Launch command ran successfully.
 
 </source>
-        <translation>Pre-Launchコマンドが正常に実行されました。
+        <translation>起動前コマンドは正常に実行されました。
 
 </translation>
     </message>
@@ -9624,7 +9624,7 @@ Reason: %1.</source>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
-        <translation>最新バージョンを実行しています。</translation>
+        <translation>最新バージョンを使用中です。</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
@@ -10393,7 +10393,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="92"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたログのリンク&lt;/a&gt;がクリップボードに保存されます。</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたログへのリンク&lt;/a&gt; がクリップボードに保存されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="377"/>
@@ -10463,7 +10463,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation>そのコンポーネントの&apos;uid&apos;に不正な文字が含まれています！セキュリティの面で問題が発生する場合があります。</translation>
+        <translation>コンポーネントの&apos;uid&apos;に不正な文字が含まれています！ これによりセキュリティ上の問題が発生する可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="191"/>
@@ -10830,7 +10830,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
         <source>world save</source>
-        <translation>ワールドのセーブ</translation>
+        <translation>ワールドのセーブデータ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
@@ -11462,7 +11462,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="168"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>リソース パックのフォーマット ID と、それが対象として設計された Minecraft のバージョン。</translation>
+        <translation>リソースパックのフォーマットIDと、それが対象として設計されたMinecraftのバージョン。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="114"/>
@@ -12037,12 +12037,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたスクリーンショットのリンク&lt;/a&gt;がクリップボードに保存されます。</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたスクリーンショットへのリンク&lt;/a&gt; がクリップボードに保存されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="461"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたアルバムのリンク&lt;/a&gt;がクリップボードに保存されます。</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたアルバムへのリンク&lt;/a&gt; がクリップボードに保存されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="509"/>
@@ -12162,7 +12162,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="53"/>
         <source>Executing task %1 out of %2</source>
-        <translation>タスク %1/%2 を実行中</translation>
+        <translation>%2 のうち %1 のタスクを実行中</translation>
     </message>
 </context>
 <context>
@@ -12277,12 +12277,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation>次(&amp;N) &gt;</translation>
+        <translation>次へ(&amp;N) &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation>&lt; 前(&amp;B)</translation>
+        <translation>&lt; 戻る(&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
@@ -13381,7 +13381,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="403"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation>完全性は、完全に翻訳された文字列のパーセントです。自動的に推測されたものは含まれません。</translation>
+        <translation>完成度は、完全に翻訳された文字列の割合です。自動的に推測されて要確認になっている文字列は含まれません。</translation>
     </message>
 </context>
 <context>
@@ -14420,7 +14420,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="146"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>ワールドアイコンを削除し次回ゲーム読み込み時に再生成させます。</translation>
+        <translation>ワールドのアイコンを削除し、次回の読み込み時に再生成させます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="151"/>
