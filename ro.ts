@@ -1909,7 +1909,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Se verifica dacă modurile au metadate atașate...</translation>
+        <translation>Se verifica dacă modurile au metadate atașate...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2348,11 +2348,11 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Adauga</translation>
+        <translation>&amp;Adauga</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Adauga</translation>
+        <translation>Adauga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2361,7 +2361,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Elimină elementul selectat</translation>
+        <translation>Elimină elementul selectat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2370,7 +2370,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Activează elementul selectat</translation>
+        <translation>Activează elementul selectat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2480,7 +2480,7 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Descarcă o resursă nouă</translation>
+        <translation>Descarcă o resursă nouă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2490,15 +2490,27 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Încearcă să verifici sau să actualizezi toate resursele selectate (toate resursele dacă nimic nu a fost selectat)</translation>
+        <translation>Încearcă să verifici sau să actualizezi toate resursele selectate (toate resursele dacă nimic nu a fost selectat)</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Vizitați pagina modului</translation>
+        <translation>Vizitați pagina modului</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Accesați pagina principală de moduri</translation>
+        <translation>Accesați pagina principală de moduri</translation>
+    </message>
+    <message>
+        <source>Export modlist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export mod&apos;s metadata to text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2895,13 +2907,17 @@ Vă rugăm să încercați din nou.</translation>
         <translation type="unfinished">Necunoscut</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de mod.</translation>
+        <translation>Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de mod.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Modul are o versiune nouă disponibilă, dar nu poate fi descărcată folosind CurseForge.</translation>
+        <translation>Modul are o versiune nouă disponibilă, dar nu poate fi descărcată folosind CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3170,7 +3186,7 @@ Vă rugăm să încercați din nou.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">Filtrează</translation>
+        <translation type="unfinished">Filtrează</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -4978,7 +4994,7 @@ Doriți să jucați demo-ul?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Contul a expirat; trebuie să vă conectați manual din nou.</translation>
+        <translation>Contul a expirat; trebuie să vă conectați manual din nou.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5672,6 +5688,10 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
         <source>No installation method found!</source>
         <translation>Nu s-a găsit nicio metodă de instalare!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -5870,12 +5890,12 @@ Motiv:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Actualizare index pentru mod:
+        <translation>Actualizare index pentru mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Metadate nevalide</translation>
+        <translation>Metadate nevalide</translation>
     </message>
 </context>
 <context>
@@ -7887,7 +7907,7 @@ Acesta pate fi actualizat doar cu un fisier cu formatul %1.
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Necunoscut</translation>
+        <translation>Necunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -7987,7 +8007,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">De unde a fost descărcat modul.</translation>
+        <translation>De unde a fost descărcat modul.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8032,7 +8052,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Descarcă moduri</translation>
+        <translation>Descarcă moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8045,11 +8065,11 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Adaugă fișier</translation>
+        <translation>Adaugă fișier</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Adaugă un fișier descărcat local</translation>
+        <translation>Adaugă un fișier descărcat local</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8064,11 +8084,11 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Verificați dependențele</translation>
+        <translation>Verificați dependențele</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Încercați sa actualizați și verificați dependențe lipsă pentru toate mod-urile selecate (toate mod-urile dacă niciun mod nu este selectat)</translation>
+        <translation>Încercați sa actualizați și verificați dependențe lipsă pentru toate mod-urile selecate (toate mod-urile dacă niciun mod nu este selectat)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8078,27 +8098,35 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Mergi la pagina principală a modului</translation>
+        <translation>Mergi la pagina principală a modului</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Elimină metadatele modului</translation>
+        <translation>Elimină metadatele modului</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">Schimbă Versiune</translation>
+        <translation type="unfinished">Schimbă Versiune</translation>
+    </message>
+    <message>
+        <source>Change mod version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Vizitați pagina modului</translation>
+        <translation>Vizitați pagina modului</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Vizitează paginile modului</translation>
+        <translation>Vizitează paginile modului</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Mergi la paginile modurilor selectate</translation>
+        <translation>Mergi la paginile modurilor selectate</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -8307,124 +8335,124 @@ Sunteți sigur/ă ca vreți sa faceți asta?</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Confirmeaza modurile pentru actualizare</translation>
+        <translation>Confirmeaza modurile pentru actualizare</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Ești pe cale să actualizezi următoarele moduri:</translation>
+        <translation>Ești pe cale să actualizezi următoarele moduri:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Doar modurile cu o bifă vor fi actualizate!</translation>
+        <translation>Doar modurile cu o bifă vor fi actualizate!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Numele modului: %1&lt;br&gt;Numele fișierului: %2&lt;br&gt;Motiv: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Numele modului: %1&lt;br&gt;Numele fișierului: %2&lt;br&gt;Motiv: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Generarea de metadata a eșuat</translation>
+        <translation>Generarea de metadata a eșuat</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Nu s-a putut genera metadata pentru următoarele moduri:&lt;br&gt;Dorești să continui fără acele moduri?</translation>
+        <translation>Nu s-a putut genera metadata pentru următoarele moduri:&lt;br&gt;Dorești să continui fără acele moduri?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Verificare pentru actualizări</translation>
+        <translation>Verificare pentru actualizări</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Avertizări</translation>
+        <translation>Avertizări</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Verificare pentru actualizări...</translation>
+        <translation>Verificare pentru actualizări...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Numele modului: %1</translation>
+        <translation>Numele modului: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Motiv: %1</translation>
+        <translation>Motiv: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Soluție posibilă: Obținerea celei mai noi versiuni manual:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Soluție posibilă: Obținerea celei mai noi versiuni manual:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Verificare pentru dependențe...</translation>
+        <translation>Verificare pentru dependențe...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Modul &apos;%1&apos; nu are încă metadata. Trebuie sa o generăm pentru a urmări informații relevante despre cum să actualizăm modul. Pentru a face asta, te rugăm selectează un furnizor de moduri pe care îl putem folosi pentru a verifica actualizări pentru acest mod.</translation>
+        <translation>Modul &apos;%1&apos; nu are încă metadata. Trebuie sa o generăm pentru a urmări informații relevante despre cum să actualizăm modul. Pentru a face asta, te rugăm selectează un furnizor de moduri pe care îl putem folosi pentru a verifica actualizări pentru acest mod.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Nu s-a putut găsi o versiune validă în furnizorul(ii) de moduri selectat(ți)</translation>
+        <translation>Nu s-a putut găsi o versiune validă în furnizorul(ii) de moduri selectat(ți)</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Verificarea pentru actualizări a eșuat</translation>
+        <translation>Verificarea pentru actualizări a eșuat</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Nu s-au putut verifica actualizări pentru următoarele moduri:&lt;br&gt;Dorești să continui fără aceste moduri?</translation>
+        <translation>Nu s-au putut verifica actualizări pentru următoarele moduri:&lt;br&gt;Dorești să continui fără aceste moduri?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Se caută metadata</translation>
+        <translation>Se caută metadata</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Generare metadata...</translation>
+        <translation>Generare metadata...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
+        <translation>Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Furnizor: %1</translation>
+        <translation>Furnizor: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Versiune veche: %1</translation>
+        <translation>Versiune veche: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Nu este instalat</translation>
+        <translation>Nu este instalat</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Versiune nouă: %1</translation>
+        <translation>Versiune nouă: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Tip Versiune Nouă: %1</translation>
+        <translation>Tip Versiune Nouă: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Cerut de: %1</translation>
+        <translation>Cerut de: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Cerut de:</translation>
+        <translation>Cerut de:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Jurnalul de modificări al celei mai noi versiuni</translation>
+        <translation>Jurnalul de modificări al celei mai noi versiuni</translation>
     </message>
 </context>
 <context>
@@ -8489,7 +8517,7 @@ Te rugăm actualizează %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Pregătire moduri pentru Modrinth...</translation>
+        <translation>Pregătire moduri pentru Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -8527,7 +8555,7 @@ Te rugăm actualizează %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de moduri.</translation>
+        <translation>Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de moduri.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -8713,7 +8741,7 @@ Te rugăm actualizează %1!</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">Filtrează</translation>
+        <translation type="unfinished">Filtrează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -10707,7 +10735,7 @@ NOTIȚĂ: Asigură-te că ai făcut o copie de rezervă a datelor instanțelor i
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="obsolete">Schimbă %1 versiune</translation>
+        <translation type="unfinished">Schimbă %1 versiune</translation>
     </message>
 </context>
 <context>
@@ -11114,11 +11142,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Numele resursei.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Data și timpul la care această resursă a fost schimbată ultima dată (sau adăugată).</translation>
     </message>
     <message>
@@ -11219,7 +11249,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Pachetul de resurse este activat? (Valid doar pentru ZIP-uri)</translation>
+        <translation>Pachetul de resurse este activat? (Valid doar pentru ZIP-uri)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -11241,11 +11271,11 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Descarcă pachete</translation>
+        <translation>Descarcă pachete</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Descarcă pachete de resurse din resurse de pe internet</translation>
+        <translation>Descarcă pachete de resurse din resurse de pe internet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -11616,6 +11646,10 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
     </message>
 </context>
 <context>
@@ -11995,11 +12029,11 @@ Ești sigur(ă)?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Descarcă shader-e</translation>
+        <translation>Descarcă shader-e</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Descarcă shader-e de pe platforme de pe internet</translation>
+        <translation>Descarcă shader-e de pe platforme de pe internet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -12753,16 +12787,19 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12800,11 +12837,11 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Descarcă pachete</translation>
+        <translation>Descarcă pachete</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Descarcă pachete de texturi de pe platforme de pe internet</translation>
+        <translation>Descarcă pachete de texturi de pe platforme de pe internet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

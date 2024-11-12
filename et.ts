@@ -1872,7 +1872,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Modide metaandmete kontrollimine...</translation>
+        <translation>Modide metaandmete kontrollimine...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2315,11 +2315,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Lisa</translation>
+        <translation>&amp;Lisa</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Lisa</translation>
+        <translation>Lisa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2328,7 +2328,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Eemalda valitud üksus</translation>
+        <translation>Eemalda valitud üksus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2337,7 +2337,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Luba valitud üksus</translation>
+        <translation>Luba valitud üksus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2447,7 +2447,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Laadi uus ressurss alla</translation>
+        <translation>Laadi uus ressurss alla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2457,23 +2457,27 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Proovi kontrollida ja uuendada kõik valitud ressursid (kõik ressursid, kui ühtegi pole valitud)</translation>
+        <translation>Proovi kontrollida ja uuendada kõik valitud ressursid (kõik ressursid, kui ühtegi pole valitud)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Ekspordi modiloend</translation>
+        <translation>Ekspordi modiloend</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Ekspordi modide metaandmed teksti</translation>
+        <translation>Ekspordi modide metaandmed teksti</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Külasta modi lehekülge</translation>
+        <translation>Külasta modi lehekülge</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Mine modi kodulehele</translation>
+        <translation>Mine modi kodulehele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="131"/>
@@ -2862,13 +2866,17 @@ Palun proovi uuesti.</translation>
         <translation type="unfinished">Tundmatu</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
+        <translation>Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Modil on uus uuendus saadaval, kuid seda ei saa CurseForge kaudu alla laadida.</translation>
+        <translation>Modil on uus uuendus saadaval, kuid seda ei saa CurseForge kaudu alla laadida.</translation>
     </message>
 </context>
 <context>
@@ -3162,7 +3170,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Filtreeri</translation>
+        <translation>Filtreeri</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -4933,7 +4941,7 @@ Kas soovid proovirežiimi mängida?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Konto on aegunud ning peab käsitsi uuesti sisse logima.</translation>
+        <translation>Konto on aegunud ning peab käsitsi uuesti sisse logima.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5654,6 +5662,10 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>No installation method found!</source>
         <translation>Paigaldusmeetodit ei leitud!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -5848,12 +5860,12 @@ Põhjus:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Modi indeksi uuendamine: 
+        <translation>Modi indeksi uuendamine: 
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Sobimatud metaandmed</translation>
+        <translation>Sobimatud metaandmed</translation>
     </message>
 </context>
 <context>
@@ -8027,7 +8039,7 @@ Seda saab uuendada vaid %1-vormingus failiga
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Tundmatu</translation>
+        <translation>Tundmatu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8128,7 +8140,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Kust mod alla laaditi.</translation>
+        <translation>Kust mod alla laaditi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8213,7 +8225,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Laadi mode alla</translation>
+        <translation>Laadi mode alla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8231,11 +8243,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Lisa fail</translation>
+        <translation>Lisa fail</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Lisa kohalikult allalaaditud fail</translation>
+        <translation>Lisa kohalikult allalaaditud fail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8256,31 +8268,43 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Mine modi kodulehele</translation>
+        <translation>Mine modi kodulehele</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Eemalda modi metaandmed</translation>
+        <translation>Eemalda modi metaandmed</translation>
+    </message>
+    <message>
+        <source>Verify Dependencies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Vaheta versiooni</translation>
+        <translation>Vaheta versiooni</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">Vaheta modi versiooni</translation>
+        <translation>Vaheta modi versiooni</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Külasta modi lehekülge</translation>
+        <translation>Külasta modi lehekülge</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Külasta modide lehekülgi</translation>
+        <translation>Külasta modide lehekülgi</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Mine valitud modide lehtedele</translation>
+        <translation>Mine valitud modide lehtedele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
@@ -8529,119 +8553,124 @@ Palun uuenda %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Kinnita uuendatavad modid</translation>
+        <translation>Kinnita uuendatavad modid</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Hakkad järgnevaid mode uuendama:</translation>
+        <translation>Hakkad järgnevaid mode uuendama:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Ainult täidetud märkeruuduga modid uuendatakse!</translation>
+        <translation>Ainult täidetud märkeruuduga modid uuendatakse!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Modi nimi: %1&lt;br&gt;Failinimi: %2&lt;br&gt;Põhjus: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Modi nimi: %1&lt;br&gt;Failinimi: %2&lt;br&gt;Põhjus: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Metaandmete genereerimine ebaõnnestus</translation>
+        <translation>Metaandmete genereerimine ebaõnnestus</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Järgnevate modide jaoks ei saadud metaandmeid genereerida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
+        <translation>Järgnevate modide jaoks ei saadud metaandmeid genereerida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Uuenduste kontrollimine</translation>
+        <translation>Uuenduste kontrollimine</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Viga</translation>
+        <translation>Viga</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Hoiatused</translation>
+        <translation>Hoiatused</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Katkesta</translation>
+        <translation>Katkesta</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Uuenduste kontrollimine...</translation>
+        <translation>Uuenduste kontrollimine...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Modi nimi: %1</translation>
+        <translation>Modi nimi: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Põhjus: %1</translation>
+        <translation>Põhjus: %1</translation>
+    </message>
+    <message>
+        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
+        <extracomment>%1 is the link to download it manually</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Sõltuvuste kontrollimine...</translation>
+        <translation>Sõltuvuste kontrollimine...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Modil &quot;%1&quot; puuduvad hetkel metaandmed. Et jälgida selle modi uuendamiseks vajalikku teavet, peame selle genereerima. Selleks vali modipakkuja, mida saame kasutada selle modi uuenduste hankimiseks.</translation>
+        <translation>Modil &quot;%1&quot; puuduvad hetkel metaandmed. Et jälgida selle modi uuendamiseks vajalikku teavet, peame selle genereerima. Selleks vali modipakkuja, mida saame kasutada selle modi uuenduste hankimiseks.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Sobivat versiooni valitud modipakkuja(te)st ei leitud</translation>
+        <translation>Sobivat versiooni valitud modipakkuja(te)st ei leitud</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Uuenduste kontrollimine ebaõnnestus</translation>
+        <translation>Uuenduste kontrollimine ebaõnnestus</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Järgnevaid mode ei saanud kontrollida või uuendusteks hankida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
+        <translation>Järgnevaid mode ei saanud kontrollida või uuendusteks hankida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Metaandmete otsimine</translation>
+        <translation>Metaandmete otsimine</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Metaandmete genereerimine...</translation>
+        <translation>Metaandmete genereerimine...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
+        <translation>Mod keelati, kuna see võib olla juba paigaldatud.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Pakkuja: %1</translation>
+        <translation>Pakkuja: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Vana versioon: %1</translation>
+        <translation>Vana versioon: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Pole paigaldatud</translation>
+        <translation>Pole paigaldatud</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Uus versioon: %1</translation>
+        <translation>Uus versioon: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Uus versiooniliik: %1</translation>
+        <translation>Uus versiooniliik: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Nõuab: %1</translation>
+        <translation>Nõuab: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Nõuab:</translation>
+        <translation>Nõuab:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Viimatise versiooni muudatuste logi</translation>
+        <translation>Viimatise versiooni muudatuste logi</translation>
     </message>
 </context>
 <context>
@@ -8742,7 +8771,7 @@ Palun uuenda %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Modide ettevalmistamine Modrinthi jaoks...</translation>
+        <translation>Modide ettevalmistamine Modrinthi jaoks...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -8780,7 +8809,7 @@ Palun uuenda %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
+        <translation>Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -8993,7 +9022,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Filtreeri</translation>
+        <translation>Filtreeri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11090,7 +11119,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">Muuda %1 versiooni</translation>
+        <translation>Muuda %1 versiooni</translation>
     </message>
 </context>
 <context>
@@ -11494,11 +11523,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Ressursi nimi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11608,6 +11639,10 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourcePackPage</name>
@@ -11618,7 +11653,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Laadi pakke alla</translation>
+        <translation>Laadi pakke alla</translation>
+    </message>
+    <message>
+        <source>Download resource packs from online platforms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12001,6 +12040,10 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
     </message>
 </context>
 <context>
@@ -12392,7 +12435,11 @@ Kas oled kindel?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Laadi varjutajaid alla</translation>
+        <translation>Laadi varjutajaid alla</translation>
+    </message>
+    <message>
+        <source>Download shaders from online platforms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13158,16 +13205,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13200,7 +13250,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Laadi pakke alla</translation>
+        <translation>Laadi pakke alla</translation>
+    </message>
+    <message>
+        <source>Download texture packs from online platforms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

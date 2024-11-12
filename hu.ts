@@ -1925,7 +1925,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Modok metaadatainak ellenőrzése...</translation>
+        <translation>Modok metaadatainak ellenőrzése...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2368,11 +2368,11 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Hozzáadás</translation>
+        <translation>&amp;Hozzáadás</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Hozzáadás</translation>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2381,7 +2381,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Kiválasztott elem eltávolítása</translation>
+        <translation>Kiválasztott elem eltávolítása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2390,7 +2390,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Kiválasztott elem engedélyezése</translation>
+        <translation>Kiválasztott elem engedélyezése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2500,7 +2500,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Új erőforrás letöltése</translation>
+        <translation>Új erőforrás letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2510,23 +2510,27 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott erőforrást (ha nincs kiválasztva semmi, akkor minden erőforrást)</translation>
+        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott erőforrást (ha nincs kiválasztva semmi, akkor minden erőforrást)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Modlista exportálása</translation>
+        <translation>Modlista exportálása</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">A mod metaadatainak exportálása szövegbe</translation>
+        <translation>A mod metaadatainak exportálása szövegbe</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Mod megnézése</translation>
+        <translation>Mod megnézése</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Ugrás a mod kezdőlapjára</translation>
+        <translation>Ugrás a mod kezdőlapjára</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2923,13 +2927,17 @@ Kérlek próbáld újra.</translation>
         <translation>Ismeretlen</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nem található érvényes verzió ehhez a modhoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz / mod loaderhez.</translation>
+        <translation>Nem található érvényes verzió ehhez a modhoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz / mod loaderhez.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">A modnak elérhető egy új frissítése, de nem tölthető le a CurseForge segítségével.</translation>
+        <translation>A modnak elérhető egy új frissítése, de nem tölthető le a CurseForge segítségével.</translation>
     </message>
 </context>
 <context>
@@ -3231,7 +3239,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Szűrő</translation>
+        <translation>Szűrő</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -5062,7 +5070,7 @@ Szeretnél játszani a demóval?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">A fiók lejárt, és manuálisan újra be kell jelentkezni.</translation>
+        <translation>A fiók lejárt, és manuálisan újra be kell jelentkezni.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5805,6 +5813,10 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
         <source>No installation method found!</source>
         <translation>Nincs telepítési módszer!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -6003,12 +6015,12 @@ Indok:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Mod indexének frissítése:
+        <translation>Mod indexének frissítése:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Érvénytelen metaadatok</translation>
+        <translation>Érvénytelen metaadatok</translation>
     </message>
 </context>
 <context>
@@ -8288,7 +8300,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Ismeretlen</translation>
+        <translation>Ismeretlen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8396,7 +8408,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Ahonnan letöltötte a modot.</translation>
+        <translation>Ahonnan letöltötte a modot.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8481,7 +8493,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Modok letöltése</translation>
+        <translation>Modok letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8499,11 +8511,11 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Fájl hozzáadása</translation>
+        <translation>Fájl hozzáadása</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Helyileg letöltött fájl hozzáadása</translation>
+        <translation>Helyileg letöltött fájl hozzáadása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8518,11 +8530,11 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Függőségek ellenőrzése</translation>
+        <translation>Függőségek ellenőrzése</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Próbálja meg frissíteni és ellenőrizze a hiányzó függőségeket az összes kiválasztott modon (ha nincs kiválasztva semmi, akkor minden modon)</translation>
+        <translation>Próbálja meg frissíteni és ellenőrizze a hiányzó függőségeket az összes kiválasztott modon (ha nincs kiválasztva semmi, akkor minden modon)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8532,31 +8544,35 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Ugrás a mod kezdőlapjára</translation>
+        <translation>Ugrás a mod kezdőlapjára</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Mod metaadatainak eltávolítása</translation>
+        <translation>Mod metaadatainak eltávolítása</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Verzió módosítása</translation>
+        <translation>Verzió módosítása</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">Mod verzió módosítása</translation>
+        <translation>Mod verzió módosítása</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Mod megnézése</translation>
+        <translation>Mod megnézése</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Modok megnézése</translation>
+        <translation>Modok megnézése</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Ugrás a kiválasztott modok oldalaira</translation>
+        <translation>Ugrás a kiválasztott modok oldalaira</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -8821,124 +8837,124 @@ Kérjük, frissítse a következőt: %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">A frissítendő modok megerősítése</translation>
+        <translation>A frissítendő modok megerősítése</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">A következő modok frissítésére készül:</translation>
+        <translation>A következő modok frissítésére készül:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Csak a kipipált modok lesznek lefrissítve!</translation>
+        <translation>Csak a kipipált modok lesznek lefrissítve!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Mod név: %1&lt;br&gt;Fájlnév: %2&lt;br&gt;Ok: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Mod név: %1&lt;br&gt;Fájlnév: %2&lt;br&gt;Ok: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">A metaadatok létrehozása sikertelen</translation>
+        <translation>A metaadatok létrehozása sikertelen</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Nem sikerült metaadatokat generálni a következő modokhoz:&lt;br&gt;Szeretné folytatni ezek a modok nélkül?</translation>
+        <translation>Nem sikerült metaadatokat generálni a következő modokhoz:&lt;br&gt;Szeretné folytatni ezek a modok nélkül?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Frissítések keresése</translation>
+        <translation>Frissítések keresése</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Figyelmeztetések</translation>
+        <translation>Figyelmeztetések</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Megszakítás</translation>
+        <translation>Megszakítás</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Frissítések keresése...</translation>
+        <translation>Frissítések keresése...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Mod neve: %1</translation>
+        <translation>Mod neve: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Ok: %1</translation>
+        <translation>Ok: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Lehetséges megoldás: A legújabb verzió kézi beszerzése:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Lehetséges megoldás: A legújabb verzió kézi beszerzése:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Függőségek keresése...</translation>
+        <translation>Függőségek keresése...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">A &quot;%1&quot; mod még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez kérjük, válasszon egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
+        <translation>A &quot;%1&quot; mod még nem rendelkezik metaadatokkal. Létre kell hoznunk, hogy nyomon követhessük a mod frissítésével kapcsolatos releváns információkat. Ehhez kérjük, válasszon egy mod-szolgáltatót, amellyel ellenőrizni tudjuk, vannak-e frissítések ehhez a modhoz.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Nem található érvényes verzió a kiválasztott modszolgáltató(k)on</translation>
+        <translation>Nem található érvényes verzió a kiválasztott modszolgáltató(k)on</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Nem sikerült ellenőrizni a frissítéseket</translation>
+        <translation>Nem sikerült ellenőrizni a frissítéseket</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Nem sikerült ellenőrizni vagy megtalálni a következő modokat a frissítésekhez:&lt;br&gt;Szeretné folytatni a modok nélkül?</translation>
+        <translation>Nem sikerült ellenőrizni vagy megtalálni a következő modokat a frissítésekhez:&lt;br&gt;Szeretné folytatni a modok nélkül?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Metaadatok keresése</translation>
+        <translation>Metaadatok keresése</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Metaadatok generálása...</translation>
+        <translation>Metaadatok generálása...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
+        <translation>A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Szolgáltató: %1</translation>
+        <translation>Szolgáltató: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Régi verzió: %1</translation>
+        <translation>Régi verzió: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Nincs telepítve</translation>
+        <translation>Nincs telepítve</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Új verzió: %1</translation>
+        <translation>Új verzió: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Új verzió típusa: %1</translation>
+        <translation>Új verzió típusa: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Szükséges ehhez: %1</translation>
+        <translation>Szükséges ehhez: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Szükséges ehhez:</translation>
+        <translation>Szükséges ehhez:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Változásnapló a legújabb verzióhoz</translation>
+        <translation>Változásnapló a legújabb verzióhoz</translation>
     </message>
 </context>
 <context>
@@ -9051,7 +9067,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Modok előkészítése a Modrinth számára...</translation>
+        <translation>Modok előkészítése a Modrinth számára...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -9089,7 +9105,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nem található érvényes verzió ehhez a modhoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz / mod loaderhez.</translation>
+        <translation>Nem található érvényes verzió ehhez a modhoz. Valószínűleg nem érhető el a jelenlegi játékverzióhoz / mod loaderhez.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -9316,7 +9332,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Szűrő</translation>
+        <translation>Szűrő</translation>
     </message>
     <message>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
@@ -11488,7 +11504,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">%1 verzió megváltoztatása</translation>
+        <translation>%1 verzió megváltoztatása</translation>
     </message>
 </context>
 <context>
@@ -11905,11 +11921,13 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Az erőforrás neve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Az erőforrás legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
     <message>
@@ -12014,7 +12032,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Az erőforráscsomag engedélyezve van? (Csak ZIP-re érvényes)</translation>
+        <translation>Az erőforráscsomag engedélyezve van? (Csak ZIP-re érvényes)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -12040,11 +12058,11 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Csomagok letöltése</translation>
+        <translation>Csomagok letöltése</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Töltse le a forráscsomagokat online platformokról</translation>
+        <translation>Töltse le a forráscsomagokat online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12430,6 +12448,10 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>Függőségek váltása</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
     </message>
 </context>
 <context>
@@ -12829,11 +12851,11 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Shaderek letöltése</translation>
+        <translation>Shaderek letöltése</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Töltsön le shadereket online platformokról</translation>
+        <translation>Töltsön le shadereket online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13566,11 +13588,13 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>A textúracsomag engedélyezve van?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>A textúracsomag neve.</translation>
     </message>
     <message>
@@ -13580,6 +13604,7 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>A textúracsomag utolsó módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
     <message>
@@ -13663,11 +13688,11 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Csomagok letöltése</translation>
+        <translation>Csomagok letöltése</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Töltsön le textúracsomagokat online platformokról</translation>
+        <translation>Töltsön le textúracsomagokat online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

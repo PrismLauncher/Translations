@@ -1913,7 +1913,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Kontrollerar om modden har metadata...</translation>
+        <translation>Kontrollerar om modden har metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2356,11 +2356,11 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Lägg till</translation>
+        <translation>&amp;Lägg till</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Lägg till</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2369,7 +2369,7 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Ta bort valt objekt</translation>
+        <translation>Ta bort valt objekt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2378,7 +2378,7 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Aktivera valt objekt</translation>
+        <translation>Aktivera valt objekt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2488,7 +2488,7 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Ladda ner en ny resurs</translation>
+        <translation>Ladda ner en ny resurs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2498,23 +2498,27 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Försök att kontrollera eller uppdatera alla valda resurser (alla resurser om ingen är vald)</translation>
+        <translation>Försök att kontrollera eller uppdatera alla valda resurser (alla resurser om ingen är vald)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Exportera modlista</translation>
+        <translation>Exportera modlista</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Exportera modens metadata till text</translation>
+        <translation>Exportera modens metadata till text</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Besök moddets sida</translation>
+        <translation>Besök moddets sida</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Gå till moddets hemsida</translation>
+        <translation>Gå till moddets hemsida</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2911,13 +2915,17 @@ Försök igen.</translation>
         <translation>Okänd</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen/mod-laddaren.</translation>
+        <translation>Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen/mod-laddaren.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Moddet har en ny uppdatering tillgänglig, men den är inte nedladdningsbar via CurseForge.</translation>
+        <translation>Moddet har en ny uppdatering tillgänglig, men den är inte nedladdningsbar via CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3223,7 +3231,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5054,7 +5062,7 @@ Vill du spela i demoläget?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Kontots inloggning har löpt ut och måste manuellt loggas in på igen.</translation>
+        <translation>Kontots inloggning har löpt ut och måste manuellt loggas in på igen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5813,6 +5821,10 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
         <source>No installation method found!</source>
         <translation>Ingen installeringsmetod hittad!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -6011,12 +6023,12 @@ Anledning:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Uppdaterar index för mod:
+        <translation>Uppdaterar index för mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Ogiltig metadata</translation>
+        <translation>Ogiltig metadata</translation>
     </message>
 </context>
 <context>
@@ -8228,7 +8240,7 @@ Detta kan endast uppdateras med en fil i formatet %1
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Okänd</translation>
+        <translation>Okänd</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8336,7 +8348,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Var moddet laddades ner från.</translation>
+        <translation>Var moddet laddades ner från.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8421,7 +8433,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Ladda ner mods</translation>
+        <translation>Ladda ner mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8439,11 +8451,11 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Lägg till fil</translation>
+        <translation>Lägg till fil</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Lägg till en lokalt nedladdad fil</translation>
+        <translation>Lägg till en lokalt nedladdad fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8458,11 +8470,11 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Verifiera beroenden</translation>
+        <translation>Verifiera beroenden</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Försök att uppdatera och leta efter saknade beroenden för alla valda mods (alla mods om inga är valda)</translation>
+        <translation>Försök att uppdatera och leta efter saknade beroenden för alla valda mods (alla mods om inga är valda)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8472,31 +8484,35 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Gå till moddets hemsida</translation>
+        <translation>Gå till moddets hemsida</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Ta bort moddets metadata</translation>
+        <translation>Ta bort moddets metadata</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Ändra version</translation>
+        <translation>Ändra version</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">Ändra mod version</translation>
+        <translation>Ändra mod version</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Besök moddets sida</translation>
+        <translation>Besök moddets sida</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Besök moddens sidor</translation>
+        <translation>Besök moddens sidor</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Gå till sidorna för de valda modden</translation>
+        <translation>Gå till sidorna för de valda modden</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -8757,124 +8773,124 @@ Vänligen uppdatera %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Bekräfta mods som ska uppdateras</translation>
+        <translation>Bekräfta mods som ska uppdateras</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Följande mods kommer att uppdateras:</translation>
+        <translation>Följande mods kommer att uppdateras:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Endast mods med en check kommer uppdateras!</translation>
+        <translation>Endast mods med en check kommer uppdateras!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Modnamn: %1&lt;br&gt;Filnamn: %2&lt;br&gt;Anledning: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Modnamn: %1&lt;br&gt;Filnamn: %2&lt;br&gt;Anledning: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Generering av metadata misslyckades</translation>
+        <translation>Generering av metadata misslyckades</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Kunde inte generera metadata för följande mods:&lt;br&gt;Vill du fortsätta utan de modden?</translation>
+        <translation>Kunde inte generera metadata för följande mods:&lt;br&gt;Vill du fortsätta utan de modden?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Söker efter uppdateringar</translation>
+        <translation>Söker efter uppdateringar</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Fel</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Varningar</translation>
+        <translation>Varningar</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Söker efter uppdateringar...</translation>
+        <translation>Söker efter uppdateringar...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Modnamn: %1</translation>
+        <translation>Modnamn: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Anledning: %1</translation>
+        <translation>Anledning: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Möjlig lösning: Hämta den senaste versionen manuellt:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Möjlig lösning: Hämta den senaste versionen manuellt:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Söker efter beroenden...</translation>
+        <translation>Söker efter beroenden...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Moddet &apos;%1&apos; har inte någon metadata än. Vi behöver generera den för att få relevant information om hur moddet ska uppdateras. För att göra detta, vänligen välj en modleverantör som vi kan använda för att söka efter uppdateringar för moddet.</translation>
+        <translation>Moddet &apos;%1&apos; har inte någon metadata än. Vi behöver generera den för att få relevant information om hur moddet ska uppdateras. För att göra detta, vänligen välj en modleverantör som vi kan använda för att söka efter uppdateringar för moddet.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Kunde inte hitta någon giltig version på vald(a) modleverantör(er)</translation>
+        <translation>Kunde inte hitta någon giltig version på vald(a) modleverantör(er)</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Misslyckades med att söka efter uppdateringar</translation>
+        <translation>Misslyckades med att söka efter uppdateringar</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Kunde inte kontrollera eller hämta uppdateringar för följande mods:&lt;br&gt;Vill du fortsätta utan dessa mods?</translation>
+        <translation>Kunde inte kontrollera eller hämta uppdateringar för följande mods:&lt;br&gt;Vill du fortsätta utan dessa mods?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Letar efter metadata</translation>
+        <translation>Letar efter metadata</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Genererar metadata...</translation>
+        <translation>Genererar metadata...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">Moden inaktiverades eftersom den kanske redan är installerad.</translation>
+        <translation>Moden inaktiverades eftersom den kanske redan är installerad.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Leverantör: %1</translation>
+        <translation>Leverantör: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Gammal version: %1</translation>
+        <translation>Gammal version: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Inte installerad</translation>
+        <translation>Inte installerad</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Ny version: %1</translation>
+        <translation>Ny version: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Ny versionstyp: %1</translation>
+        <translation>Ny versionstyp: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Krävs av: %1</translation>
+        <translation>Krävs av: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Krävs av:</translation>
+        <translation>Krävs av:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Ändringslogg av senaste versionen</translation>
+        <translation>Ändringslogg av senaste versionen</translation>
     </message>
 </context>
 <context>
@@ -8975,7 +8991,7 @@ Vänligen uppdatera %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Förbereder mods för Modrinth...</translation>
+        <translation>Förbereder mods för Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -9013,7 +9029,7 @@ Vänligen uppdatera %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen/mod-laddaren.</translation>
+        <translation>Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen/mod-laddaren.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -9237,7 +9253,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
@@ -11394,7 +11410,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">Byt %1 version</translation>
+        <translation>Byt %1 version</translation>
     </message>
 </context>
 <context>
@@ -11811,11 +11827,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Namnet på resursen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Datumet och tiden när denna resurs senast ändrades (eller lades till).</translation>
     </message>
     <message>
@@ -11920,7 +11938,7 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Är resurspaketet aktiverat? (Endast giltigt för ZIP)</translation>
+        <translation>Är resurspaketet aktiverat? (Endast giltigt för ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -11946,11 +11964,11 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Ladda ner paket</translation>
+        <translation>Ladda ner paket</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Ladda ner resurspaket från onlineplattformar</translation>
+        <translation>Ladda ner resurspaket från onlineplattformar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12333,6 +12351,10 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>Växla Beroenden</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">Moden inaktiverades eftersom den kanske redan är installerad.</translation>
     </message>
 </context>
 <context>
@@ -12732,11 +12754,11 @@ Detta är permanent och servern kommer att försvinna från din lista för allti
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Ladda ner shaders</translation>
+        <translation>Ladda ner shaders</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Ladda ner shaders från onlineplattformar</translation>
+        <translation>Ladda ner shaders från onlineplattformar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13470,11 +13492,13 @@ inheritsFrom saknas</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Är texturpaketet påslaget?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Namnet på texturpaketet.</translation>
     </message>
     <message>
@@ -13484,6 +13508,7 @@ inheritsFrom saknas</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Datumet och tiden när detta texturpaket senast ändrades (eller lades till).</translation>
     </message>
     <message>
@@ -13567,11 +13592,11 @@ Varning: Denna resurs är hårt länkad någon annanstans. Om du redigerar den �
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Ladda ner paket</translation>
+        <translation>Ladda ner paket</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Ladda ner texturpaket från onlineplattformar</translation>
+        <translation>Ladda ner texturpaket från onlineplattformar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

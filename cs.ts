@@ -1920,7 +1920,7 @@ Některé verze Minecraftu se nemusí spustit.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Kontrola, zda mají mody metadata...</translation>
+        <translation>Kontrola, zda mají mody metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2363,11 +2363,11 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Přidat</translation>
+        <translation>&amp;Přidat</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Přidat</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2376,7 +2376,7 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Odebrat vybranou položku</translation>
+        <translation>Odebrat vybranou položku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2385,7 +2385,7 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Povolit vybranou položku</translation>
+        <translation>Povolit vybranou položku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2495,7 +2495,7 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Stáhnout nový zdroj</translation>
+        <translation>Stáhnout nový zdroj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2505,23 +2505,27 @@ Některé verze Minecraftu se nemusí spustit.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Pokusit se najít / aktualizovat všechny vybrané zdroje (všechny zdroje, pokud není žádný vybraný)</translation>
+        <translation>Pokusit se najít / aktualizovat všechny vybrané zdroje (všechny zdroje, pokud není žádný vybraný)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Exportovat seznam modů</translation>
+        <translation>Exportovat seznam modů</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Exportovat metadata modu jako text</translation>
+        <translation>Exportovat metadata modu jako text</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Navštívit stránku modu</translation>
+        <translation>Navštívit stránku modu</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Přejít na domovskou stránku modů</translation>
+        <translation>Přejít na domovskou stránku modů</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2918,13 +2922,17 @@ Prosím zkus znovu.</translation>
         <translation>Neznámý</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
+        <translation>Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Je dostupná nová aktualizace modu, ale nelze ji stáhnout přes CurseForge.</translation>
+        <translation>Je dostupná nová aktualizace modu, ale nelze ji stáhnout přes CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3233,7 +3241,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Filtr</translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5086,7 +5094,7 @@ Chcete si zahrát demo?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Platnost přihlášení vypršela a je nutné se znovu přihlásit.</translation>
+        <translation>Platnost přihlášení vypršela a je nutné se znovu přihlásit.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5843,6 +5851,10 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
         <source>No installation method found!</source>
         <translation>Nebyla nalezena žádná metoda instalace!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -6041,12 +6053,12 @@ Důvod:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Aktualizuji index pro mod:
+        <translation>Aktualizuji index pro mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Neplatná metadata</translation>
+        <translation>Neplatná metadata</translation>
     </message>
 </context>
 <context>
@@ -8356,7 +8368,7 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Neznámý</translation>
+        <translation>Neznámý</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8464,7 +8476,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Odkud byl mod stažen.</translation>
+        <translation>Odkud byl mod stažen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8548,7 +8560,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Stáhnout mody</translation>
+        <translation>Stáhnout mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8574,11 +8586,11 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Přidat soubor</translation>
+        <translation>Přidat soubor</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Přidat místní stažený soubor</translation>
+        <translation>Přidat místní stažený soubor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8593,11 +8605,11 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Ověřit závislosti</translation>
+        <translation>Ověřit závislosti</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Pokusit se aktualizovat a zkontrolovat chybějící závislosti všech vybraných modů (všech modů, pokud není vybraný žádný)</translation>
+        <translation>Pokusit se aktualizovat a zkontrolovat chybějící závislosti všech vybraných modů (všech modů, pokud není vybraný žádný)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8607,31 +8619,35 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Přejít na domovskou stránku modu</translation>
+        <translation>Přejít na domovskou stránku modu</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Odstranit metadata modu</translation>
+        <translation>Odstranit metadata modu</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Změnit verzi</translation>
+        <translation>Změnit verzi</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">Změnit verzi modu</translation>
+        <translation>Změnit verzi modu</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Navštívit stránku modu</translation>
+        <translation>Navštívit stránku modu</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Navštívit stránky modů</translation>
+        <translation>Navštívit stránky modů</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Přejít na stránky vybraných modů</translation>
+        <translation>Přejít na stránky vybraných modů</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -8896,76 +8912,76 @@ Aktualizujte prosím %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Potvrdit mody k aktualizaci</translation>
+        <translation>Potvrdit mody k aktualizaci</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Chystáte se aktualizovat následující mody:</translation>
+        <translation>Chystáte se aktualizovat následující mody:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Budou aktualizovány pouze zaškrtnuté mody!</translation>
+        <translation>Budou aktualizovány pouze zaškrtnuté mody!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Název modu: %1&lt;br&gt;Název souboru: %2&lt;br&gt;Důvod: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Název modu: %1&lt;br&gt;Název souboru: %2&lt;br&gt;Důvod: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Generace metadat selhala</translation>
+        <translation>Generace metadat selhala</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Nepodařilo se vygenerovat metadata následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
+        <translation>Nepodařilo se vygenerovat metadata následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Kontrola aktualizací</translation>
+        <translation>Kontrola aktualizací</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Varování</translation>
+        <translation>Varování</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Přerušit</translation>
+        <translation>Přerušit</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Kontrola aktualizací...</translation>
+        <translation>Kontrola aktualizací...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Název modu: %1</translation>
+        <translation>Název modu: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Důvod: %1</translation>
+        <translation>Důvod: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Možné řešení: ruční získání nejnovější verze:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Možné řešení: ruční získání nejnovější verze:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Kontrola závislostí...</translation>
+        <translation>Kontrola závislostí...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Mod &apos;%1&apos; zatím nemá metadata. Musíme je vygenerovat, abychom mohli sledovat relevantní informace o tom, jak tento mod aktualizovat. Za tímto účelem prosím vyberte poskytovatele modů, kterého můžeme použít ke kontrole aktualizací tohoto modu.</translation>
+        <translation>Mod &apos;%1&apos; zatím nemá metadata. Musíme je vygenerovat, abychom mohli sledovat relevantní informace o tom, jak tento mod aktualizovat. Za tímto účelem prosím vyberte poskytovatele modů, kterého můžeme použít ke kontrole aktualizací tohoto modu.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Nepodařilo se najít platnou verzi u vybraných poskytovatelů modů</translation>
+        <translation>Nepodařilo se najít platnou verzi u vybraných poskytovatelů modů</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
+        <translation>Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -8977,15 +8993,15 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Nepodařilo se zkontrolovat aktualizace</translation>
+        <translation>Nepodařilo se zkontrolovat aktualizace</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Nepodařilo se zkontrolovat nebo získat aktualizace následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
+        <translation>Nepodařilo se zkontrolovat nebo získat aktualizace následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Hledání metadat</translation>
+        <translation>Hledání metadat</translation>
     </message>
     <message>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
@@ -8993,7 +9009,7 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Generování metadat...</translation>
+        <translation>Generování metadat...</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -9001,35 +9017,35 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Poskytovatel: %1</translation>
+        <translation>Poskytovatel: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Stará verze: %1</translation>
+        <translation>Stará verze: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Nenainstalováno</translation>
+        <translation>Nenainstalováno</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Nová verze: %1</translation>
+        <translation>Nová verze: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Nový typ verze: %1</translation>
+        <translation>Nový typ verze: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Vyžaduje: %1</translation>
+        <translation>Vyžaduje: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Vyžaduje:</translation>
+        <translation>Vyžaduje:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Seznam změn nejnovější verze</translation>
+        <translation>Seznam změn nejnovější verze</translation>
     </message>
 </context>
 <context>
@@ -9142,7 +9158,7 @@ Aktualizujte prosím %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Příprava modů pro Modrinth...</translation>
+        <translation>Příprava modů pro Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -9180,7 +9196,7 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
+        <translation>Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -9418,7 +9434,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Filtr</translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11582,7 +11598,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">Změnit verzi %1</translation>
+        <translation>Změnit verzi %1</translation>
     </message>
 </context>
 <context>
@@ -11999,11 +12015,13 @@ Opravdu to chcete udělat?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Název zdroje.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Datum a čas poslední změny (nebo přidání) tohoto zdroje.</translation>
     </message>
     <message>
@@ -12108,7 +12126,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Je balíček zdrojů povolen? (Platí pouze pro soubory ZIP)</translation>
+        <translation>Je balíček zdrojů povolen? (Platí pouze pro soubory ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -12134,11 +12152,11 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Stáhnout balíčky</translation>
+        <translation>Stáhnout balíčky</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Stáhnout balíčky zdrojů z online platforem</translation>
+        <translation>Stáhnout balíčky zdrojů z online platforem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12524,6 +12542,10 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>Přepnout závislosti</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
     </message>
 </context>
 <context>
@@ -12923,11 +12945,11 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Stáhnout shadery</translation>
+        <translation>Stáhnout shadery</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Stáhnout shadery z online platforem</translation>
+        <translation>Stáhnout shadery z online platforem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13664,11 +13686,13 @@ chybí inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Je balíček textur povolen?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Název balíčku textur.</translation>
     </message>
     <message>
@@ -13678,6 +13702,7 @@ chybí inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Datum a čas, kdy byl tento balíček textur naposledy změněn (nebo přidán).</translation>
     </message>
     <message>
@@ -13761,11 +13786,11 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Stáhnout balíčky</translation>
+        <translation>Stáhnout balíčky</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Stáhnout balíčky textur z online platforem</translation>
+        <translation>Stáhnout balíčky textur z online platforem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

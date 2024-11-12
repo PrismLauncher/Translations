@@ -1940,7 +1940,7 @@ Some versions of Minecraft may not launch.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">正在检查 Mod 是否存在元数据…</translation>
+        <translation>正在检查 Mod 是否存在元数据…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2383,11 +2383,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">添加(&amp;A)</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2396,7 +2396,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">删除所选项目</translation>
+        <translation>删除所选项目</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2405,7 +2405,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">启用所选项目</translation>
+        <translation>启用所选项目</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2515,7 +2515,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">下载新资源</translation>
+        <translation>下载新资源</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2525,23 +2525,27 @@ Some versions of Minecraft may not launch.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">尝试检查或更新所有选中的资源（默认检查并更新所有资源）</translation>
+        <translation>尝试检查或更新所有选中的资源（默认检查并更新所有资源）</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">导出 Mod 列表</translation>
+        <translation>导出 Mod 列表</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">导出 Mod 元数据为文本文件</translation>
+        <translation>导出 Mod 元数据为文本文件</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">访问 Mod 页面</translation>
+        <translation>访问 Mod 页面</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">前往 Mod 主页</translation>
+        <translation>前往 Mod 主页</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2938,13 +2942,17 @@ Please try again.</source>
         <translation>未知</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
+        <translation>未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Mod 有可用的更新，但禁止了第三方启动器从 CurseForge 上下载。</translation>
+        <translation>Mod 有可用的更新，但禁止了第三方启动器从 CurseForge 上下载。</translation>
     </message>
 </context>
 <context>
@@ -3250,7 +3258,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">过滤器</translation>
+        <translation>过滤器</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5103,7 +5111,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">账户已过期，需要手动重新登录。</translation>
+        <translation>账户已过期，需要手动重新登录。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5856,6 +5864,10 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>No installation method found!</source>
         <translation>未找到安装方法！</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -6058,12 +6070,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">更新 Mod 索引中：
+        <translation>更新 Mod 索引中：
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">元数据无效</translation>
+        <translation>元数据无效</translation>
     </message>
 </context>
 <context>
@@ -8376,7 +8388,7 @@ This can be updated only using a file in %1 format
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8480,7 +8492,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Mod 托管平台</translation>
+        <translation>Mod 托管平台</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8564,7 +8576,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">下载 Mod</translation>
+        <translation>下载 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8590,11 +8602,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">添加文件</translation>
+        <translation>添加文件</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">添加本地文件</translation>
+        <translation>添加本地文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8609,11 +8621,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">同时更新前置 Mod</translation>
+        <translation>同时更新前置 Mod</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">尝试检查并更新选定的 Mod（默认全选）是否缺少前置 Mod</translation>
+        <translation>尝试检查并更新选定的 Mod（默认全选）是否缺少前置 Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8623,31 +8635,35 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">前往 Mod 主页</translation>
+        <translation>前往 Mod 主页</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">删除 Mod 元数据</translation>
+        <translation>删除 Mod 元数据</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">更改版本</translation>
+        <translation>更改版本</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">更改 Mod 版本</translation>
+        <translation>更改 Mod 版本</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">访问 Mod 页面</translation>
+        <translation>访问 Mod 页面</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">访问 Mod 页面</translation>
+        <translation>访问 Mod 页面</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">前往已选 Mod 页面</translation>
+        <translation>前往已选 Mod 页面</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -8912,76 +8928,76 @@ Please update %1!</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">确认所要更新的 Mod</translation>
+        <translation>确认所要更新的 Mod</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">以下 Mod 即将更新：</translation>
+        <translation>以下 Mod 即将更新：</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">只有检查过的 Mod 会更新！</translation>
+        <translation>只有检查过的 Mod 会更新！</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Mod 名称：%1&lt;br/&gt;文件名：%2&lt;br/&gt;原因：%3&lt;br/&gt;&lt;br/&gt;</translation>
+        <translation>Mod 名称：%1&lt;br/&gt;文件名：%2&lt;br/&gt;原因：%3&lt;br/&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">元数据生成失败</translation>
+        <translation>元数据生成失败</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">无法为以下 Mod 生成元数据：&lt;br&gt;你想在不包含这些 Mod 的情況下继续吗？</translation>
+        <translation>无法为以下 Mod 生成元数据：&lt;br&gt;你想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">正在检查更新</translation>
+        <translation>正在检查更新</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">中止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">检查更新中…</translation>
+        <translation>检查更新中…</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Mod 名称：%1</translation>
+        <translation>Mod 名称：%1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">原因：%1</translation>
+        <translation>原因：%1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">可能的解决方案：手动获取最新版本：&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>可能的解决方案：手动获取最新版本：&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">正在检查前置Mod…</translation>
+        <translation>正在检查前置Mod…</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Mod “%1” 还没有元数据。我们需要生成相关信息用于检查 Mod 更新。因此，请选择一个 Mod 托管平台，并使用它来检查此 Mod 的更新。</translation>
+        <translation>Mod “%1” 还没有元数据。我们需要生成相关信息用于检查 Mod 更新。因此，请选择一个 Mod 托管平台，并使用它来检查此 Mod 的更新。</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">在所选 Mod 托管平台上找不到有效版本</translation>
+        <translation>在所选 Mod 托管平台上找不到有效版本</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">Mod 可能已安装，故禁用此项。</translation>
+        <translation>Mod 可能已安装，故禁用此项。</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -8993,15 +9009,15 @@ Please update %1!</source>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">检查更新失败</translation>
+        <translation>检查更新失败</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">无法获取以下 Mod 更新：&lt;br&gt;你想在不包含这些 Mod 的情況下继续吗？</translation>
+        <translation>无法获取以下 Mod 更新：&lt;br&gt;你想在不包含这些 Mod 的情況下继续吗？</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">正在查找元数据</translation>
+        <translation>正在查找元数据</translation>
     </message>
     <message>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
@@ -9009,7 +9025,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">生成元数据中…</translation>
+        <translation>生成元数据中…</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -9017,35 +9033,35 @@ Please update %1!</source>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Mod 托管平台：%1</translation>
+        <translation>Mod 托管平台：%1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">旧版本：%1</translation>
+        <translation>旧版本：%1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">未安装</translation>
+        <translation>未安装</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">新版本：%1</translation>
+        <translation>新版本：%1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">新版本类型：%1</translation>
+        <translation>新版本类型：%1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">%1 的前置 Mod</translation>
+        <translation>%1 的前置 Mod</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">为以下 Mod 的前置 Mod：</translation>
+        <translation>为以下 Mod 的前置 Mod：</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">最新版本的更新日志</translation>
+        <translation>最新版本的更新日志</translation>
     </message>
 </context>
 <context>
@@ -9158,7 +9174,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">正在为 Modrinth 准备 Mod…</translation>
+        <translation>正在为 Modrinth 准备 Mod…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -9196,7 +9212,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
+        <translation>未找到该 Mod 的有效版本。可能由于 Mod 没有适配该游戏版本或该 Mod 加载器。</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -9420,7 +9436,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">过滤器</translation>
+        <translation>过滤器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
@@ -11599,7 +11615,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">修改 %1 版本</translation>
+        <translation>修改 %1 版本</translation>
     </message>
 </context>
 <context>
@@ -12016,11 +12032,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>资源名称</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>上次更改（或添加）此资源的日期和时间</translation>
     </message>
     <message>
@@ -12125,7 +12143,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">该资源包是否已被启用？（仅对 .zip 文件有效）</translation>
+        <translation>该资源包是否已被启用？（仅对 .zip 文件有效）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -12151,11 +12169,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">下载资源包</translation>
+        <translation>下载资源包</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">从网络平台下载资源包</translation>
+        <translation>从网络平台下载资源包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12541,6 +12559,10 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>切换前置 Mod</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">Mod 可能已安装，故禁用此项。</translation>
     </message>
 </context>
 <context>
@@ -12940,11 +12962,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">下载光影包</translation>
+        <translation>下载光影包</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">从网络平台下载光影包</translation>
+        <translation>从网络平台下载光影包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13681,11 +13703,13 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>是否已启用此材质包？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>纹理包的名称。</translation>
     </message>
     <message>
@@ -13695,6 +13719,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>此纹理包最后一次修改（或添加）的日期和时间</translation>
     </message>
     <message>
@@ -13778,11 +13803,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">下载资源包</translation>
+        <translation>下载资源包</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">从网络平台下载纹理包</translation>
+        <translation>从网络平台下载纹理包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

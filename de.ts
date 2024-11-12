@@ -1949,7 +1949,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Prüfe ob Mods Metadaten haben...</translation>
+        <translation>Prüfe ob Mods Metadaten haben...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2392,11 +2392,11 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Hinzufügen</translation>
+        <translation>&amp;Hinzufügen</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Hinzufügen</translation>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2405,7 +2405,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Ausgewähltes Element entfernen</translation>
+        <translation>Ausgewähltes Element entfernen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2414,7 +2414,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Ausgewähltes Element aktivieren</translation>
+        <translation>Ausgewähltes Element aktivieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2524,7 +2524,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Eine neue Ressource herunterladen</translation>
+        <translation>Eine neue Ressource herunterladen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2534,23 +2534,27 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">&quot;Versucht, die ausgewählten Ressourcen zu finden oder aktualisieren (alle Ressourcen, wenn keine ausgewählt sind)&quot;</translation>
+        <translation>&quot;Versucht, die ausgewählten Ressourcen zu finden oder aktualisieren (alle Ressourcen, wenn keine ausgewählt sind)&quot;</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Mod-Liste exportieren</translation>
+        <translation>Mod-Liste exportieren</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Metadaten der Mod in Text exportieren</translation>
+        <translation>Metadaten der Mod in Text exportieren</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Schau dir die Seite der Mod an</translation>
+        <translation>Schau dir die Seite der Mod an</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Gehe zu der Homepage des Mods</translation>
+        <translation>Gehe zu der Homepage des Mods</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2947,13 +2951,17 @@ Bitte versuche es erneut.</translation>
         <translation>Unbekannt</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Keine gültige Version für diese Mod gefunden. Sie ist wahrscheinlich nicht verfügbar für die aktuelle Spielversion / Mod-Loader.</translation>
+        <translation>Keine gültige Version für diese Mod gefunden. Sie ist wahrscheinlich nicht verfügbar für die aktuelle Spielversion / Mod-Loader.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Es stehen Updates für diese Mod zur Verfügung, jedoch ist diese nicht über CurseForge herunterladbar.</translation>
+        <translation>Es stehen Updates für diese Mod zur Verfügung, jedoch ist diese nicht über CurseForge herunterladbar.</translation>
     </message>
 </context>
 <context>
@@ -3287,7 +3295,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5128,7 +5136,7 @@ Möchtest du die Demo starten?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Der Konto Zugang ist abgelaufen und muss manuell erneut angemeldet werden.</translation>
+        <translation>Der Konto Zugang ist abgelaufen und muss manuell erneut angemeldet werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5885,6 +5893,10 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
         <source>No installation method found!</source>
         <translation>Es konnte keine Installationsmethode gefunden werden!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -6087,12 +6099,12 @@ Grund:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Aktualisiere Index für Mod:
+        <translation>Aktualisiere Index für Mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Ungültige Metadaten</translation>
+        <translation>Ungültige Metadaten</translation>
     </message>
 </context>
 <context>
@@ -8392,7 +8404,7 @@ Es kann nur mit einer Datei im %1 Format aktualisiert werden
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Unbekannter</translation>
+        <translation>Unbekannter</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8496,7 +8508,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Von wo die Mod heruntergeladen wurde.</translation>
+        <translation>Von wo die Mod heruntergeladen wurde.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8580,7 +8592,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Mods herunterladen</translation>
+        <translation>Mods herunterladen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8606,11 +8618,11 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Datei hinzufügen</translation>
+        <translation>Datei hinzufügen</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Hinzufügen einer lokal heruntergeladenen Datei</translation>
+        <translation>Hinzufügen einer lokal heruntergeladenen Datei</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8625,11 +8637,11 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Abhängigkeiten verifizieren</translation>
+        <translation>Abhängigkeiten verifizieren</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Versuch einfach alle ausgewählten Mods zu aktualisieren und auf fehlende Abhängigkeiten zu prüfen (alle Mods, wenn keine ausgewählt sind)</translation>
+        <translation>Versuch einfach alle ausgewählten Mods zu aktualisieren und auf fehlende Abhängigkeiten zu prüfen (alle Mods, wenn keine ausgewählt sind)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8639,31 +8651,35 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Zur Mod-Webseite gehen</translation>
+        <translation>Zur Mod-Webseite gehen</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Metadaten der Mod löschen</translation>
+        <translation>Metadaten der Mod löschen</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Version ändern</translation>
+        <translation>Version ändern</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">Mod-Version ändern</translation>
+        <translation>Mod-Version ändern</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Schauen sie die Seite der Mod an</translation>
+        <translation>Schauen sie die Seite der Mod an</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Schauen sie die Seiten der Mod an</translation>
+        <translation>Schauen sie die Seiten der Mod an</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Schauen sie sich die Seiten der ausgewählten Mods an</translation>
+        <translation>Schauen sie sich die Seiten der ausgewählten Mods an</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -8928,76 +8944,76 @@ Bitte aktualisiere %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Zu aktualisierende Mods bestätigen</translation>
+        <translation>Zu aktualisierende Mods bestätigen</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Die folgenden Mods werden aktualisiert:</translation>
+        <translation>Die folgenden Mods werden aktualisiert:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Nur ausgewählte Mods werden aktualisiert!</translation>
+        <translation>Nur ausgewählte Mods werden aktualisiert!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Mod-Name: %1&lt;br&gt;Dateiname: %2&lt;br&gt;Grund: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Mod-Name: %1&lt;br&gt;Dateiname: %2&lt;br&gt;Grund: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Erzeugung der Metadaten ist fehlgeschlagen</translation>
+        <translation>Erzeugung der Metadaten ist fehlgeschlagen</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Es konnten keine Metadaten für die folgenden Mods generiert werden:&lt;br&gt;Möchtest du ohne diese Mods fortfahren?</translation>
+        <translation>Es konnten keine Metadaten für die folgenden Mods generiert werden:&lt;br&gt;Möchtest du ohne diese Mods fortfahren?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Suche nach Updates</translation>
+        <translation>Suche nach Updates</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Warnungen</translation>
+        <translation>Warnungen</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Such nach Updates...</translation>
+        <translation>Such nach Updates...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Mod-Name: %1</translation>
+        <translation>Mod-Name: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Grund: %1</translation>
+        <translation>Grund: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Mögliche Lösung: Manuelles Abrufen der neuesten Version:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Mögliche Lösung: Manuelles Abrufen der neuesten Version:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Prüfe auf mögliche Dependencies...</translation>
+        <translation>Prüfe auf mögliche Dependencies...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Die Mod &apos;%1&apos; hat noch keine Metadaten. Wir müssen diese erstellen, um relevante Informationen über die Aktualisierung der Mod zu erhalten. Wähle dazu bitte einen Mod-Anbieter aus, mit dem wir nach Updates für sie suchen können.</translation>
+        <translation>Die Mod &apos;%1&apos; hat noch keine Metadaten. Wir müssen diese erstellen, um relevante Informationen über die Aktualisierung der Mod zu erhalten. Wähle dazu bitte einen Mod-Anbieter aus, mit dem wir nach Updates für sie suchen können.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Konnte keine gültige Version auf dem/den ausgewählten Mod-Anbieter(n) finden</translation>
+        <translation>Konnte keine gültige Version auf dem/den ausgewählten Mod-Anbieter(n) finden</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">Mod wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
+        <translation>Mod wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -9009,15 +9025,15 @@ Bitte aktualisiere %1!</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Konnte nicht nach Updates suchen</translation>
+        <translation>Konnte nicht nach Updates suchen</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Die folgenden Mods konnten nicht auf Updates überprüft oder abgerufen werden:&lt;br&gt;Möchtest du ohne diese Mods fortfahren?</translation>
+        <translation>Die folgenden Mods konnten nicht auf Updates überprüft oder abgerufen werden:&lt;br&gt;Möchtest du ohne diese Mods fortfahren?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Suche nach Metadaten</translation>
+        <translation>Suche nach Metadaten</translation>
     </message>
     <message>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
@@ -9025,7 +9041,7 @@ Bitte aktualisiere %1!</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Erzeuge Metadaten...</translation>
+        <translation>Erzeuge Metadaten...</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -9033,35 +9049,35 @@ Bitte aktualisiere %1!</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Anbieter: %1</translation>
+        <translation>Anbieter: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Alte Version: %1</translation>
+        <translation>Alte Version: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Nicht installiert</translation>
+        <translation>Nicht installiert</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Neue Version: %1</translation>
+        <translation>Neue Version: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Neuer Versionstyp: %1</translation>
+        <translation>Neuer Versionstyp: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Benötigt von: %1</translation>
+        <translation>Benötigt von: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Benötigt von:</translation>
+        <translation>Benötigt von:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Changelog der neuesten Version</translation>
+        <translation>Changelog der neuesten Version</translation>
     </message>
 </context>
 <context>
@@ -9180,7 +9196,7 @@ Bitte aktualisiere %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Bereite Mods für Modrinth vor...</translation>
+        <translation>Bereite Mods für Modrinth vor...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -9218,7 +9234,7 @@ Bitte aktualisiere %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Keine gültige Version für diese Mod gefunden. Sie ist wahrscheinlich nicht verfügbar für die aktuelle Spielversion / Mod-Loader.</translation>
+        <translation>Keine gültige Version für diese Mod gefunden. Sie ist wahrscheinlich nicht verfügbar für die aktuelle Spielversion / Mod-Loader.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -9457,7 +9473,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11654,7 +11670,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">Version von %1 ändern</translation>
+        <translation>Version von %1 ändern</translation>
     </message>
 </context>
 <context>
@@ -12071,11 +12087,13 @@ Bist du dir sicher, dass du fortfahren möchtest?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Name der Ressource.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Das Datum und die Zeit an der die Ressource zuletzt geändert (oder hinzugefügt) wurde.</translation>
     </message>
     <message>
@@ -12180,7 +12198,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Ist das Ressourcenpaket aktiviert? (gilt nur für ZIPs)</translation>
+        <translation>Ist das Ressourcenpaket aktiviert? (gilt nur für ZIPs)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -12206,11 +12224,11 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Pakete herunterladen</translation>
+        <translation>Pakete herunterladen</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Ressourcenpakete von Online-Plattformen herunterladen</translation>
+        <translation>Ressourcenpakete von Online-Plattformen herunterladen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12596,6 +12614,10 @@ Bist du sicher?</translation>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>Abhängigkeiten umschalten</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">Mod wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
     </message>
 </context>
 <context>
@@ -12995,11 +13017,11 @@ Bist Du Dir sicher?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Shader herunterladen</translation>
+        <translation>Shader herunterladen</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Shader von online Plattformen herunterladen</translation>
+        <translation>Shader von online Plattformen herunterladen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13736,11 +13758,13 @@ inheritsFrom nicht gefunden</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Ist das Texturpaket aktiviert?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Der Name des Texturpakets.</translation>
     </message>
     <message>
@@ -13750,6 +13774,7 @@ inheritsFrom nicht gefunden</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Zeit und Datum, wann dieses Texturenpaket zuletzt verändert oder hinzugefügt wurde.</translation>
     </message>
     <message>
@@ -13833,11 +13858,11 @@ Warnung: Diese Ressource ist anderswo fest verknüpft. Durch die Bearbeitung wir
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Pakete herunterladen</translation>
+        <translation>Pakete herunterladen</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Texturpakete von Online-Plattformen herunterladen</translation>
+        <translation>Texturpakete von Online-Plattformen herunterladen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

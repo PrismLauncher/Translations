@@ -1913,7 +1913,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Kontrollerer om mods har metadata...</translation>
+        <translation>Kontrollerer om mods har metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2312,11 +2312,31 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Tilføj</translation>
+        <translation>&amp;Tilføj</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Tilføj</translation>
+        <translation>Tilføj</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visit mod&apos;s page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to mods home page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export modlist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export mod&apos;s metadata to text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2325,7 +2345,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Fjern valgt objekt</translation>
+        <translation>Fjern valgt objekt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2334,7 +2354,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Aktiver valgt objekt</translation>
+        <translation>Aktiver valgt objekt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2444,7 +2464,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Hent en ny resurse</translation>
+        <translation>Hent en ny resurse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2454,7 +2474,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Forsøg at kontrollere eller opdatere alle valgte resurser (alle resurser om ingen er valgt)</translation>
+        <translation>Forsøg at kontrollere eller opdatere alle valgte resurser (alle resurser om ingen er valgt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="131"/>
@@ -2835,13 +2855,17 @@ Prøv venligst igen.</translation>
         <translation type="unfinished">Ukendt</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Ingen gyldig version fundet for denne mod. Det er formentlig ikke tilgængeligt for den aktuelle spilversion / modloader.</translation>
+        <translation>Ingen gyldig version fundet for denne mod. Det er formentlig ikke tilgængeligt for den aktuelle spilversion / modloader.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Mod har en ny opdatering tilgængelig, men kan ikke hentes via CurseForge.</translation>
+        <translation>Mod har en ny opdatering tilgængelig, men kan ikke hentes via CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3135,7 +3159,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">Filter</translation>
+        <translation type="unfinished">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -4879,7 +4903,7 @@ Vil du spille demoen?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Kontoen er udløbet og skal logges på manuelt igen.</translation>
+        <translation>Kontoen er udløbet og skal logges på manuelt igen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5582,6 +5606,10 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>No installation method found!</source>
         <translation>Ingen installationsmetode fundet!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -5773,6 +5801,18 @@ Reason:
         <translation>Spilopdatering mislykkedes: det var ikke muligt at hente de nødvendige biblioteker.
 Årsag:
 %1</translation>
+    </message>
+</context>
+<context>
+    <name>LocalModUpdateTask</name>
+    <message>
+        <source>Updating index for mod:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7796,7 +7836,11 @@ This can be updated only using a file in %1 format
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="obsolete">Ukendt</translation>
+        <translation type="unfinished">Ukendt</translation>
+    </message>
+    <message>
+        <source>Where the mod was downloaded from.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -7978,7 +8022,51 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Hent mods</translation>
+        <translation>Hent mods</translation>
+    </message>
+    <message>
+        <source>Add file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify Dependencies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove mod&apos;s metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to mod&apos;s home page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change mod version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visit mod&apos;s page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visit mods&apos; pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the pages of the selected mods</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -7996,7 +8084,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Tilføj en lokalt overført fil</translation>
+        <translation>Tilføj en lokalt overført fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8234,47 +8322,124 @@ Opdater venligst %1!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Bekræft mods, der skal opdateres</translation>
+        <translation>Bekræft mods, der skal opdateres</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Du er ved at opdatere følgende mods:</translation>
+        <translation>Du er ved at opdatere følgende mods:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Kun mods med et flueben vil blive opdateret!</translation>
+        <translation>Kun mods med et flueben vil blive opdateret!</translation>
+    </message>
+    <message>
+        <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata generation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Søger efter opdateringer</translation>
+        <translation>Søger efter opdateringer</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Fejl</translation>
+        <translation>Fejl</translation>
+    </message>
+    <message>
+        <source>Warnings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Afbryd</translation>
+        <translation>Afbryd</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Søger efter opdateringer...</translation>
+        <translation>Søger efter opdateringer...</translation>
+    </message>
+    <message>
+        <source>Mod name: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
+        <extracomment>%1 is the link to download it manually</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for dependencies...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Mod &apos;%1&apos; har endnu ikke metadata. Vi er nødt til at generere det for at spore relevante oplysninger om, hvordan du opdaterer denne mod. For at gøre dette skal du vælge en modudbyder, som vi kan bruge til at søge efter opdateringer til denne mod.</translation>
+        <translation>Mod &apos;%1&apos; har endnu ikke metadata. Vi er nødt til at generere det for at spore relevante oplysninger om, hvordan du opdaterer denne mod. For at gøre dette skal du vælge en modudbyder, som vi kan bruge til at søge efter opdateringer til denne mod.</translation>
+    </message>
+    <message>
+        <source>Old version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changelog of the latest version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Kunne ikke søge efter opdateringer</translation>
+        <translation>Kunne ikke søge efter opdateringer</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Kunne ikke kontrollere eller hente følgende mods for opdateringer:&lt;br&gt;Ønsker du at fortsætte uden disse mods?</translation>
+        <translation>Kunne ikke kontrollere eller hente følgende mods for opdateringer:&lt;br&gt;Ønsker du at fortsætte uden disse mods?</translation>
+    </message>
+    <message>
+        <source>Generating metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Provider: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Ikke installeret</translation>
+        <translation>Ikke installeret</translation>
     </message>
 </context>
 <context>
@@ -8376,8 +8541,12 @@ Opdater venligst %1!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Preparing mods for Modrinth...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Ingen gyldig version fundet for denne mod. Det er formentlig ikke tilgængeligt for den aktuelle spilversion / modloader.</translation>
+        <translation>Ingen gyldig version fundet for denne mod. Det er formentlig ikke tilgængeligt for den aktuelle spilversion / modloader.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -8570,7 +8739,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">Filter</translation>
+        <translation type="unfinished">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -10504,6 +10673,10 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Change %1 version</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourceDownload::ModPage</name>
@@ -10893,11 +11066,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11005,6 +11180,10 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="170"/>
         <source>The date and time this resource pack was last changed (or added).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11125,6 +11304,14 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download resource packs from online platforms</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11391,6 +11578,10 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11858,6 +12049,14 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="202"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download shaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download shaders from online platforms</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12435,16 +12634,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12580,6 +12782,14 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="213"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download texture packs from online platforms</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

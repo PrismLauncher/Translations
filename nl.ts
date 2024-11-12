@@ -1921,7 +1921,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Controleren of mods metadata hebben...</translation>
+        <translation>Controleren of mods metadata hebben...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2364,11 +2364,11 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Toevoegen</translation>
+        <translation>&amp;Toevoegen</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Toevoegen</translation>
+        <translation>Toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2377,7 +2377,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Haal geselecteerd onderdeel weg</translation>
+        <translation>Haal geselecteerd onderdeel weg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2386,7 +2386,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Zet geselecteerd onderdeel aan</translation>
+        <translation>Zet geselecteerd onderdeel aan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2496,7 +2496,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Download nieuwe gegevens</translation>
+        <translation>Download nieuwe gegevens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2506,15 +2506,27 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Probeer de geselecteerde hulpbronnen te controleren of te bijwerken (allemaal wanneer er geen geselecteerd zijn)</translation>
+        <translation>Probeer de geselecteerde hulpbronnen te controleren of te bijwerken (allemaal wanneer er geen geselecteerd zijn)</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Bezoek mod pagina</translation>
+        <translation>Bezoek mod pagina</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Ga naar de mod&apos;s thuispagina</translation>
+        <translation>Ga naar de mod&apos;s thuispagina</translation>
+    </message>
+    <message>
+        <source>Export modlist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export mod&apos;s metadata to text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="131"/>
@@ -2903,13 +2915,17 @@ Probeer het opnieuw.</translation>
         <translation type="unfinished">Onbekend</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel/modlader.</translation>
+        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel/modlader.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Er is een update beschikbaar voor deze mod, maar deze kan niet gedownload worden via CurseForge.</translation>
+        <translation>Er is een update beschikbaar voor deze mod, maar deze kan niet gedownload worden via CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3219,7 +3235,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">Filter</translation>
+        <translation type="unfinished">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5009,7 +5025,7 @@ Wilt u de demo spelen?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Het account is verlopen en moet opnieuw handmatig op worden ingelogd.</translation>
+        <translation>Het account is verlopen en moet opnieuw handmatig op worden ingelogd.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5758,6 +5774,10 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
         <source>No installation method found!</source>
         <translation>Geen installatiemethode gevonden!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -5960,12 +5980,12 @@ Reden:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Index voor mod bijwerken:
+        <translation>Index voor mod bijwerken:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Ongeldige metadata</translation>
+        <translation>Ongeldige metadata</translation>
     </message>
 </context>
 <context>
@@ -8192,7 +8212,7 @@ Dit kan alleen worden bijgewerkt met een bestand in %1 formaat
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8296,7 +8316,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Waar de mod vandaan gedownload is.</translation>
+        <translation>Waar de mod vandaan gedownload is.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8380,7 +8400,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Mods downloaden</translation>
+        <translation>Mods downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8406,11 +8426,11 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Bestand toevoegen</translation>
+        <translation>Bestand toevoegen</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Een lokaal bestand toevoegen</translation>
+        <translation>Een lokaal bestand toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8425,11 +8445,11 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Afhankelijkheden controleren</translation>
+        <translation>Afhankelijkheden controleren</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Probeer alle geselecteerde mods bij te werken en te controleren op ontbrekende afhankelijkheden (alle mods als er geen zijn geselecteerd)</translation>
+        <translation>Probeer alle geselecteerde mods bij te werken en te controleren op ontbrekende afhankelijkheden (alle mods als er geen zijn geselecteerd)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8439,27 +8459,35 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Ga naar mod&apos;s homepagina</translation>
+        <translation>Ga naar mod&apos;s homepagina</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">verwijder mod&apos;s metadata</translation>
+        <translation>verwijder mod&apos;s metadata</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">Versie wijzigen</translation>
+        <translation type="unfinished">Versie wijzigen</translation>
+    </message>
+    <message>
+        <source>Change mod version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Bezoek mod pagina</translation>
+        <translation>Bezoek mod pagina</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Bezoek mods&apos; pagina&apos;s</translation>
+        <translation>Bezoek mods&apos; pagina&apos;s</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Ga naar de pagina&apos;s van de geselecteerde mods</translation>
+        <translation>Ga naar de pagina&apos;s van de geselecteerde mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
@@ -8716,124 +8744,124 @@ Gelieve %1 bij te werken!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Bevestig welke mods u wilt bijwerken</translation>
+        <translation>Bevestig welke mods u wilt bijwerken</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">U gaat zo de volgende mods bijwerken:</translation>
+        <translation>U gaat zo de volgende mods bijwerken:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Alleen mods met een vinkje zullen worden bijgewerkt!</translation>
+        <translation>Alleen mods met een vinkje zullen worden bijgewerkt!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Modnaam: %1&lt;br&gt;Bestandsnaam: %2&lt;br&gt;Reden: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Modnaam: %1&lt;br&gt;Bestandsnaam: %2&lt;br&gt;Reden: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Genereren van metadata is mislukt</translation>
+        <translation>Genereren van metadata is mislukt</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Kon geen metadata genereren voor de volgende mods:&lt;br&gt;Wilt u zonder deze mods doorgaan?</translation>
+        <translation>Kon geen metadata genereren voor de volgende mods:&lt;br&gt;Wilt u zonder deze mods doorgaan?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Controleren op updates</translation>
+        <translation>Controleren op updates</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Fout</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Waarschuwingen</translation>
+        <translation>Waarschuwingen</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Afbreken</translation>
+        <translation>Afbreken</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Controleren op updates...</translation>
+        <translation>Controleren op updates...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Modnaam: %1</translation>
+        <translation>Modnaam: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Reden: %1</translation>
+        <translation>Reden: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Mogelijke oplossing: De laatste versie handmatig downloaden:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Mogelijke oplossing: De laatste versie handmatig downloaden:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Controleren op afhankelijkheden...</translation>
+        <translation>Controleren op afhankelijkheden...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">De mod &apos;%1&apos; heeft nog geen metadata. We moeten dit genereren om relevante informatie bij te houden over hoe de mod bijgewerkt moet worden. Om dit te kunnen doen moet u een mod-dienst selecteren die we kunnen gebruiken om op updates voor deze mod te controleren.</translation>
+        <translation>De mod &apos;%1&apos; heeft nog geen metadata. We moeten dit genereren om relevante informatie bij te houden over hoe de mod bijgewerkt moet worden. Om dit te kunnen doen moet u een mod-dienst selecteren die we kunnen gebruiken om op updates voor deze mod te controleren.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Kon geen geldige versie vinden bij de geselecteerde mod-dienst(en)</translation>
+        <translation>Kon geen geldige versie vinden bij de geselecteerde mod-dienst(en)</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Kon niet op updates controleren</translation>
+        <translation>Kon niet op updates controleren</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Kon geen updates ophalen voor de volgende mods:&lt;br&gt;Wilt u verder gaan zonder deze mods?</translation>
+        <translation>Kon geen updates ophalen voor de volgende mods:&lt;br&gt;Wilt u verder gaan zonder deze mods?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Metadata aan het ophalen</translation>
+        <translation>Metadata aan het ophalen</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Metadata aan het genereren...</translation>
+        <translation>Metadata aan het genereren...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
+        <translation>Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Aanbieder: %1</translation>
+        <translation>Aanbieder: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Oude versie: %1</translation>
+        <translation>Oude versie: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Niet geïnstalleerd</translation>
+        <translation>Niet geïnstalleerd</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Nieuwe versie: %1</translation>
+        <translation>Nieuwe versie: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Type nieuwe versie: %1</translation>
+        <translation>Type nieuwe versie: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Vereist door: %1</translation>
+        <translation>Vereist door: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Vereist door:</translation>
+        <translation>Vereist door:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Wijzigingslijst van de laatste versie</translation>
+        <translation>Wijzigingslijst van de laatste versie</translation>
     </message>
 </context>
 <context>
@@ -8938,7 +8966,7 @@ Gelieve %1 bij te werken!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Mods voor Modrinth voorbereiden...</translation>
+        <translation>Mods voor Modrinth voorbereiden...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -8976,7 +9004,7 @@ Gelieve %1 bij te werken!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel/modlader.</translation>
+        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel/modlader.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -9211,7 +9239,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">Filter</translation>
+        <translation type="unfinished">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11365,7 +11393,7 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="obsolete">Wijzig %1-versie</translation>
+        <translation type="unfinished">Wijzig %1-versie</translation>
     </message>
 </context>
 <context>
@@ -11781,11 +11809,13 @@ Weet je zeker dat je dit wilt doen?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>De naam van het gegeven.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>De datum en tijd dat dit gegeven voor het laatst is aangepast (of toegevoegd).</translation>
     </message>
     <message>
@@ -11890,7 +11920,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Is het resourcepakket ingeschakeld? (Geld alleen voor zipbestanden)</translation>
+        <translation>Is het resourcepakket ingeschakeld? (Geld alleen voor zipbestanden)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -11916,11 +11946,11 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Paketten downloaden</translation>
+        <translation>Paketten downloaden</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Bronpaketten van online platformen downloaden</translation>
+        <translation>Bronpaketten van online platformen downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12303,6 +12333,10 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>Afhankelijkheden schakelen</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
     </message>
 </context>
 <context>
@@ -12702,11 +12736,11 @@ Weet u het zeker?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Shaders downloaden</translation>
+        <translation>Shaders downloaden</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Download shaders van online platformen</translation>
+        <translation>Download shaders van online platformen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13438,11 +13472,13 @@ inheritsFrom ontbreekt</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Is het texturepakket ingeschakeld?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>De naam van het texturepakket.</translation>
     </message>
     <message>
@@ -13452,6 +13488,7 @@ inheritsFrom ontbreekt</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>De datum en tijd waarop dit texturepakket voor het laatst is gewijzigd (of toegevoegd).</translation>
     </message>
     <message>
@@ -13535,11 +13572,11 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Pakketten downloaden</translation>
+        <translation>Pakketten downloaden</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Download textuurpakketten van online platforms</translation>
+        <translation>Download textuurpakketten van online platforms</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

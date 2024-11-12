@@ -1897,7 +1897,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">modsがメタデータを持っているかを確認しています…</translation>
+        <translation>modsがメタデータを持っているかを確認しています…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2336,11 +2336,11 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">追加(&amp;A)</translation>
+        <translation>追加(&amp;A)</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">追加</translation>
+        <translation>追加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2349,7 +2349,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">選択したアイテムを削除</translation>
+        <translation>選択したアイテムを削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2358,7 +2358,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">選択したアイテムを有効化</translation>
+        <translation>選択したアイテムを有効化</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2468,7 +2468,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">新たなリソースをダウンロード中</translation>
+        <translation>新たなリソースをダウンロード中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2478,23 +2478,27 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">選択されたリソースを確認またはアップデートしてください (何も選択していない場合は、全てのリソースを)</translation>
+        <translation>選択されたリソースを確認またはアップデートしてください (何も選択していない場合は、全てのリソースを)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">modリストのエクスポート</translation>
+        <translation>modリストのエクスポート</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">modのメタデータをテキストにして出力</translation>
+        <translation>modのメタデータをテキストにして出力</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Modのページを開く</translation>
+        <translation>Modのページを開く</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">選択したModのWebページを開く</translation>
+        <translation>選択したModのWebページを開く</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2891,13 +2895,17 @@ Please try again.</source>
         <translation>不明</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">現在のゲームバージョンのこのmodローダー向けに有効なバージョンが見つかりません。</translation>
+        <translation>現在のゲームバージョンのこのmodローダー向けに有効なバージョンが見つかりません。</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">より新しいバージョンがありますが、CurseForgeからダウンロードできません。</translation>
+        <translation>より新しいバージョンがありますが、CurseForgeからダウンロードできません。</translation>
     </message>
 </context>
 <context>
@@ -3166,7 +3174,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">フィルター</translation>
+        <translation type="unfinished">フィルター</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -4930,7 +4938,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">アカウントが失効したため、手動でログインし直す必要があります。</translation>
+        <translation>アカウントが失効したため、手動でログインし直す必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5616,6 +5624,10 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
         <source>No installation method found!</source>
         <translation>インストール方法が見つかりませんでした！</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -5814,12 +5826,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">このmod用のインデックスをアップデートしています:
+        <translation>このmod用のインデックスをアップデートしています:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">無効なメタデータ</translation>
+        <translation>無効なメタデータ</translation>
     </message>
 </context>
 <context>
@@ -7968,7 +7980,7 @@ This can be updated only using a file in %1 format
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">不明</translation>
+        <translation>不明</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8072,7 +8084,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Modがどこからダウンロードされたか。</translation>
+        <translation>Modがどこからダウンロードされたか。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8157,7 +8169,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Modをダウンロード</translation>
+        <translation>Modをダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8175,11 +8187,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">ファイルを追加</translation>
+        <translation>ファイルを追加</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">手動でダウンロードしたModファイルを追加</translation>
+        <translation>手動でダウンロードしたModファイルを追加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8194,11 +8206,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">依存関係を検証</translation>
+        <translation>依存関係を検証</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">選択したMod（未選択の場合は全て）のアップデートと依存関係を確認します</translation>
+        <translation>選択したMod（未選択の場合は全て）のアップデートと依存関係を確認します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8208,27 +8220,35 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">ModのWebページを開く</translation>
+        <translation>ModのWebページを開く</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">選択したModのメタデータを削除</translation>
+        <translation>選択したModのメタデータを削除</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">バージョンを変更</translation>
+        <translation type="unfinished">バージョンを変更</translation>
+    </message>
+    <message>
+        <source>Change mod version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Modのページを開く</translation>
+        <translation>Modのページを開く</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Modのページを開く</translation>
+        <translation>Modのページを開く</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">選択したModのWebページを開きます</translation>
+        <translation>選択したModのWebページを開きます</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -8421,120 +8441,124 @@ Are you sure you want to do this?</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">アップデートするmodを確認</translation>
+        <translation>アップデートするmodを確認</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">以下のmodをアップデートします。</translation>
+        <translation>以下のmodをアップデートします。</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">チェックされたmodがアップデートされます！</translation>
+        <translation>チェックされたmodがアップデートされます！</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">modの名前 : %1&lt;br&gt;ファイル名: %2&lt;br&gt;理由 : %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>modの名前 : %1&lt;br&gt;ファイル名: %2&lt;br&gt;理由 : %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">メタデータの生成に失敗</translation>
+        <translation>メタデータの生成に失敗</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">以下のmodでメタデータが生成できませんでした: &lt;br&gt;これらのmodを抜いて続行しますか？</translation>
+        <translation>以下のmodでメタデータが生成できませんでした: &lt;br&gt;これらのmodを抜いて続行しますか？</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">アップデートを確認中</translation>
+        <translation>アップデートを確認中</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">中断</translation>
+        <translation>中断</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">アップデートを確認中…</translation>
+        <translation>アップデートを確認中…</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Modの名前 : %1</translation>
+        <translation>Modの名前 : %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">理由: %1</translation>
+        <translation>理由: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">考えうる解決策: 最新バージョンを手動で取得する:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>考えうる解決策: 最新バージョンを手動で取得する:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">依存関係を確認しています…</translation>
+        <translation>依存関係を確認しています…</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">「%1」のメタデータが見つかりません。このmodをアップデートをするために生成する必要があります。使用するmodプロバイダを選択してください。</translation>
+        <translation>「%1」のメタデータが見つかりません。このmodをアップデートをするために生成する必要があります。使用するmodプロバイダを選択してください。</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">選択されたmod プロバイダで有効なバージョンが見つけられませんでした</translation>
+        <translation>選択されたmod プロバイダで有効なバージョンが見つけられませんでした</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">アップデートの確認に失敗しました</translation>
+        <translation>アップデートの確認に失敗しました</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">これらのmodでアップデートの確認または取得ができませんでした。 &lt;br&gt; これらのmodを除いてアップデートしますか？</translation>
+        <translation>これらのmodでアップデートの確認または取得ができませんでした。 &lt;br&gt; これらのmodを除いてアップデートしますか？</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">メタデータを探しています</translation>
+        <translation>メタデータを探しています</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">メタデータを生成中…</translation>
+        <translation>メタデータを生成中…</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">プロバイダ: %1</translation>
+        <translation>プロバイダ: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">現在のバージョン: %1</translation>
+        <translation>現在のバージョン: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">インストールされていない</translation>
+        <translation>インストールされていない</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">新しいバージョン: %1</translation>
+        <translation>新しいバージョン: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">新しいバージョンタイプ：%1</translation>
+        <translation>新しいバージョンタイプ：%1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">このmodに依存するmod: %1</translation>
+        <translation>このmodに依存するmod: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">このmodに依存するmod:</translation>
+        <translation>このmodに依存するmod:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">最新バージョンの更新内容</translation>
+        <translation>最新バージョンの更新内容</translation>
     </message>
 </context>
 <context>
@@ -8635,7 +8659,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Modrinthのmodを準備中…</translation>
+        <translation>Modrinthのmodを準備中…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -8673,7 +8697,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">現在のゲームのバージョンまたはmodローダーのバージョンでこのmodの有効なバージョンが存在しないか、見つかりませんでした。</translation>
+        <translation>現在のゲームのバージョンまたはmodローダーのバージョンでこのmodの有効なバージョンが存在しないか、見つかりませんでした。</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -8863,7 +8887,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">フィルター</translation>
+        <translation type="unfinished">フィルター</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -10984,7 +11008,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="obsolete">%1のバージョンを変更</translation>
+        <translation type="unfinished">%1のバージョンを変更</translation>
     </message>
 </context>
 <context>
@@ -11397,11 +11421,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>リソースの名前。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>リソースが最後に変更または追加された日時。</translation>
     </message>
     <message>
@@ -11506,7 +11532,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">リソースパックは有効になっているか? (ZIPのみ有効)</translation>
+        <translation>リソースパックは有効になっているか? (ZIPのみ有効)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -11532,11 +11558,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">リソースパックをダウンロード</translation>
+        <translation>リソースパックをダウンロード</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">オンライン プラットフォームからリソース パックをダウンロードする</translation>
+        <translation>オンライン プラットフォームからリソース パックをダウンロードする</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -11910,6 +11936,10 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>依存関係を切り替え</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12309,11 +12339,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">シェーダーをダウンロード</translation>
+        <translation>シェーダーをダウンロード</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">オンラインプラットフォームからシェーダーをダウンロードする</translation>
+        <translation>オンラインプラットフォームからシェーダーをダウンロードする</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13050,11 +13080,13 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>テクスチャーパックが有効になっているか？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>テクスチャーパックの名前。</translation>
     </message>
     <message>
@@ -13064,6 +13096,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>テクスチャーパックが最後に変更または追加された日時。</translation>
     </message>
     <message>
@@ -13147,11 +13180,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">パックをダウンロード</translation>
+        <translation>パックをダウンロード</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">オンライン プラットフォームからテクスチャ パックをダウンロードする</translation>
+        <translation>オンライン プラットフォームからテクスチャ パックをダウンロードする</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

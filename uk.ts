@@ -1913,7 +1913,7 @@ Some versions of Minecraft may not launch.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Перевірити чи в модах присутні метадані...</translation>
+        <translation>Перевірити чи в модах присутні метадані...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2356,11 +2356,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Додати</translation>
+        <translation>&amp;Додати</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Додати</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2369,7 +2369,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Видалити вибраний елемент</translation>
+        <translation>Видалити вибраний елемент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2378,7 +2378,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Увімкнути вибраний елемент</translation>
+        <translation>Увімкнути вибраний елемент</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2488,7 +2488,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Завантажте новий ресурс</translation>
+        <translation>Завантажте новий ресурс</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2498,23 +2498,27 @@ Some versions of Minecraft may not launch.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Спробувати знайти або оновити всі обрані ресурси (всі ресурси якщо жоден не обраний)</translation>
+        <translation>Спробувати знайти або оновити всі обрані ресурси (всі ресурси якщо жоден не обраний)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Експортувати список модів</translation>
+        <translation>Експортувати список модів</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Експортувати метадані моду в текст</translation>
+        <translation>Експортувати метадані моду в текст</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Відвідати сторінку мода</translation>
+        <translation>Відвідати сторінку мода</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Перейти до головної сторінки модів</translation>
+        <translation>Перейти до головної сторінки модів</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2911,13 +2915,17 @@ Please try again.</source>
         <translation>Невідомо</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Не знайдено допустимої версії цього моду. Ймовірно він не доступний для поточної версії гри/завантажувача модів.</translation>
+        <translation>Не знайдено допустимої версії цього моду. Ймовірно він не доступний для поточної версії гри/завантажувача модів.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Доступна нова версія моду, але ЇЇ не можливо завантажити через CurseForge.</translation>
+        <translation>Доступна нова версія моду, але ЇЇ не можливо завантажити через CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3222,7 +3230,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Фільтр</translation>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5036,7 +5044,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Термін дії облікового запису закінчився, і потрібно знову ввійти вручну.</translation>
+        <translation>Термін дії облікового запису закінчився, і потрібно знову ввійти вручну.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5755,6 +5763,10 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>No installation method found!</source>
         <translation>Не знайдено метод встановлення!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -5958,12 +5970,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Оновлення індексу для мода:
+        <translation>Оновлення індексу для мода:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Неприпустимі метадані</translation>
+        <translation>Неприпустимі метадані</translation>
     </message>
 </context>
 <context>
@@ -8258,7 +8270,7 @@ This can be updated only using a file in %1 format
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Невідомий</translation>
+        <translation>Невідомий</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8366,7 +8378,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Звідки мод був завантажений.</translation>
+        <translation>Звідки мод був завантажений.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8451,7 +8463,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Завантажити моди</translation>
+        <translation>Завантажити моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8469,11 +8481,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Додати файл</translation>
+        <translation>Додати файл</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Додати локально завантажений файл</translation>
+        <translation>Додати локально завантажений файл</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8488,11 +8500,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Підтвердити залежності</translation>
+        <translation>Підтвердити залежності</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Спробуйте перевірити наявність оновлень та залежності для всіх виділених модів(для всіх модів, якщо жоден не виділений)</translation>
+        <translation>Спробуйте перевірити наявність оновлень та залежності для всіх виділених модів(для всіх модів, якщо жоден не виділений)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8502,31 +8514,35 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Перейти на головну сторінку мода</translation>
+        <translation>Перейти на головну сторінку мода</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Видалити метадані мода</translation>
+        <translation>Видалити метадані мода</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Змінити версію</translation>
+        <translation>Змінити версію</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">Змінити версію моду</translation>
+        <translation>Змінити версію моду</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Відвідати сторінку мода</translation>
+        <translation>Відвідати сторінку мода</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Відвідати сторінки модів</translation>
+        <translation>Відвідати сторінки модів</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Перейти на сторінки обраних модів</translation>
+        <translation>Перейти на сторінки обраних модів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
@@ -8779,124 +8795,124 @@ Please update %1!</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Підтвердити моди для оновлення</translation>
+        <translation>Підтвердити моди для оновлення</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Ви оновлятиме ці моди:</translation>
+        <translation>Ви оновлятиме ці моди:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Лише позначені моди будуть оновлені!</translation>
+        <translation>Лише позначені моди будуть оновлені!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Назва моду: %1&lt;br&gt;Назва файлу: %2&lt;br&gt;Причина: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Назва моду: %1&lt;br&gt;Назва файлу: %2&lt;br&gt;Причина: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Не вдалось згенерувати метадані</translation>
+        <translation>Не вдалось згенерувати метадані</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Не вдалося згенерувати метадані для наступних модів:&lt;br&gt;Бажаєте продовжити без цих модів?</translation>
+        <translation>Не вдалося згенерувати метадані для наступних модів:&lt;br&gt;Бажаєте продовжити без цих модів?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Перевірка оновлень</translation>
+        <translation>Перевірка оновлень</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Помилка</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Попередження</translation>
+        <translation>Попередження</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Перевірка оновлень...</translation>
+        <translation>Перевірка оновлень...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Назва моду: %1</translation>
+        <translation>Назва моду: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Причина: %1</translation>
+        <translation>Причина: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Можливе рішення: Встановлення останньої версії вручну:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Можливе рішення: Встановлення останньої версії вручну:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Перевірка залежностей....</translation>
+        <translation>Перевірка залежностей....</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Наразі мод &quot;%1&quot; не має метаданих. Ми повинні згенерувати їх, щоб відстежувати необхідну інформацію щодо того як він має оновлюватись. Для цього оберіть, будь ласка, надавача мода який буде використовуватись для перевірки його оновлень.</translation>
+        <translation>Наразі мод &quot;%1&quot; не має метаданих. Ми повинні згенерувати їх, щоб відстежувати необхідну інформацію щодо того як він має оновлюватись. Для цього оберіть, будь ласка, надавача мода який буде використовуватись для перевірки його оновлень.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Не вдалося знайти необхідну версію в обраного надавача</translation>
+        <translation>Не вдалося знайти необхідну версію в обраного надавача</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Не вдалося перевірити оновлення</translation>
+        <translation>Не вдалося перевірити оновлення</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Не вдалося перевірити або завантажити оновлення наступних модів:&lt;br&gt;Бажаєте продовжити без них?</translation>
+        <translation>Не вдалося перевірити або завантажити оновлення наступних модів:&lt;br&gt;Бажаєте продовжити без них?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Пошук метаданих</translation>
+        <translation>Пошук метаданих</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Генерація метаданих...</translation>
+        <translation>Генерація метаданих...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">Мод було вимкнено, оскільки він може бути вже встановлений.</translation>
+        <translation>Мод було вимкнено, оскільки він може бути вже встановлений.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Надавач: %1</translation>
+        <translation>Надавач: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Стара версія: %1</translation>
+        <translation>Стара версія: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Не встановлено</translation>
+        <translation>Не встановлено</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Нова версія: %1</translation>
+        <translation>Нова версія: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Тип нової версії: %1</translation>
+        <translation>Тип нової версії: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Вимагають: %1</translation>
+        <translation>Вимагають: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Вимагають:</translation>
+        <translation>Вимагають:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Список змін останньої версії</translation>
+        <translation>Список змін останньої версії</translation>
     </message>
 </context>
 <context>
@@ -8997,7 +9013,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Підготовка модів від Modrinth...</translation>
+        <translation>Підготовка модів від Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -9035,7 +9051,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Не знайдено допустимої версії цього моду. Ймовірно, він не доступний для поточної версії гри/завантажувача модів.</translation>
+        <translation>Не знайдено допустимої версії цього моду. Ймовірно, він не доступний для поточної версії гри/завантажувача модів.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -9257,7 +9273,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Фільтр</translation>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11419,7 +11435,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">Змінити версію %1</translation>
+        <translation>Змінити версію %1</translation>
     </message>
 </context>
 <context>
@@ -11828,11 +11844,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Назва ресурсу.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Дата і час останньої зміни (або додавання) цього ресурсу.</translation>
     </message>
     <message>
@@ -11937,7 +11955,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Чи увімкнено пакет ресурсів? (Тільки для ZIP-архівів)</translation>
+        <translation>Чи увімкнено пакет ресурсів? (Тільки для ZIP-архівів)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -11963,11 +11981,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Завантажити пакети</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Завантажити пакети ресурсів з онлайн-платформ</translation>
+        <translation>Завантажити пакети ресурсів з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12353,6 +12371,10 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>Перемикання залежностей</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">Мод було вимкнено, оскільки він може бути вже встановлений.</translation>
     </message>
 </context>
 <context>
@@ -12752,11 +12774,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Завантажити шейдери</translation>
+        <translation>Завантажити шейдери</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Завантажити шейдери з онлайн-платформ</translation>
+        <translation>Завантажити шейдери з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13493,11 +13515,13 @@ inheritsFrom відсутній</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Чи увімкнений пакет текстур?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Назва пакунка текстур.</translation>
     </message>
     <message>
@@ -13507,6 +13531,7 @@ inheritsFrom відсутній</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Дата і час останньої зміни (або додавання) цього пакунка текстур.</translation>
     </message>
     <message>
@@ -13590,11 +13615,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Завантажити пакети</translation>
+        <translation>Завантажити пакети</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Завантажити пакети текстур з онлайн-платформ</translation>
+        <translation>Завантажити пакети текстур з онлайн-платформ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

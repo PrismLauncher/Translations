@@ -1913,7 +1913,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Kiểm tra nếu mods có metadata...</translation>
+        <translation>Kiểm tra nếu mods có metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2312,11 +2312,11 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Thêm</translation>
+        <translation>&amp;Thêm</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Thêm</translation>
+        <translation>Thêm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2325,7 +2325,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Xóa mục đã chọn</translation>
+        <translation>Xóa mục đã chọn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2334,7 +2334,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Bật mục đã chọn</translation>
+        <translation>Bật mục đã chọn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2444,7 +2444,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Tải xuống tài nguyên mới</translation>
+        <translation>Tải xuống tài nguyên mới</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2454,23 +2454,27 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Tìm hoặc cập nhật các tài nguyên đã chọn (cập nhật tất cả nếu không có tài nguyên nào được chọn)</translation>
+        <translation>Tìm hoặc cập nhật các tài nguyên đã chọn (cập nhật tất cả nếu không có tài nguyên nào được chọn)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Xuất danh sách mod</translation>
+        <translation>Xuất danh sách mod</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Xuất metadata của mod thành dạng văn bản</translation>
+        <translation>Xuất metadata của mod thành dạng văn bản</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Thăm trang mod</translation>
+        <translation>Thăm trang mod</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Đi đến trang chủ của mods</translation>
+        <translation>Đi đến trang chủ của mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="131"/>
@@ -2859,13 +2863,17 @@ Vui lòng thử lại.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Không có phiên bản hợp lệ của mod này được tìm thấy. Nó có thể không khả dụng cho phiên bản hiện tại của trò chơi hoặc mod loader.</translation>
+        <translation>Không có phiên bản hợp lệ của mod này được tìm thấy. Nó có thể không khả dụng cho phiên bản hiện tại của trò chơi hoặc mod loader.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Mod có một bản cập nhật mới, nhưng nó không thể được tải bằng CurseForge.</translation>
+        <translation>Mod có một bản cập nhật mới, nhưng nó không thể được tải bằng CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3159,7 +3167,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">Bộ lọc</translation>
+        <translation type="unfinished">Bộ lọc</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -4940,7 +4948,7 @@ Bạn có muốn chơi bản demo không?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Phiên đăng nhập tài khoản đã hết hạn và cần được đăng nhập lại thủ công.</translation>
+        <translation>Phiên đăng nhập tài khoản đã hết hạn và cần được đăng nhập lại thủ công.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5657,6 +5665,10 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
         <source>No installation method found!</source>
         <translation>Không tìm thấy trình tải!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -5859,12 +5871,12 @@ Lý do:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Cập nhật số liệt kê cho mod
+        <translation>Cập nhật số liệt kê cho mod
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Metadata không hợp lệ</translation>
+        <translation>Metadata không hợp lệ</translation>
     </message>
 </context>
 <context>
@@ -7956,7 +7968,7 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="obsolete">ẩn số</translation>
+        <translation type="unfinished">ẩn số</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8060,7 +8072,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Đây là trang trải của mod.</translation>
+        <translation>Đây là trang trải của mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8144,7 +8156,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Tải mod</translation>
+        <translation>Tải mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8162,11 +8174,11 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Thêm mod</translation>
+        <translation>Thêm mod</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Thêm mod từ một thư mục trong máy</translation>
+        <translation>Thêm mod từ một thư mục trong máy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8181,11 +8193,11 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Kiểm tra các mod cần thiết</translation>
+        <translation>Kiểm tra các mod cần thiết</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Tìm cập nhật mới cho các mod cần thiết của những mod được chọn (cập nhật mọi mod nếu như không chọn mod nào)</translation>
+        <translation>Tìm cập nhật mới cho các mod cần thiết của những mod được chọn (cập nhật mọi mod nếu như không chọn mod nào)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8195,31 +8207,35 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Thăm trang của mod</translation>
+        <translation>Thăm trang của mod</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Xóa siêu dữ liệu của mod</translation>
+        <translation>Xóa siêu dữ liệu của mod</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Thay đổi phiên bản</translation>
+        <translation>Thay đổi phiên bản</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">Thay đổi phiên bản mod</translation>
+        <translation>Thay đổi phiên bản mod</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="obsolete">Thăm trang mod</translation>
+        <translation type="unfinished">Thăm trang mod</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Thăm các trang mod</translation>
+        <translation>Thăm các trang mod</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Mở những trang của các mod được chọn</translation>
+        <translation>Mở những trang của các mod được chọn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
@@ -8429,124 +8445,124 @@ Bạn có chắc không?</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Xác nhận mods để cập nhật</translation>
+        <translation>Xác nhận mods để cập nhật</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Bạn đang chuẩn bị cập nhật các mod sau:</translation>
+        <translation>Bạn đang chuẩn bị cập nhật các mod sau:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Chỉ có các mod được chọn mới được cập nhật!</translation>
+        <translation>Chỉ có các mod được chọn mới được cập nhật!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Tên mod: %1&lt;br&gt;Tên tệp tin: %2&lt;br&gt;Lí do: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Tên mod: %1&lt;br&gt;Tên tệp tin: %2&lt;br&gt;Lí do: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Thất bại khi tạo metadata</translation>
+        <translation>Thất bại khi tạo metadata</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Không thể khởi tạo metadata cho các mod sau:&lt;br&gt;Bạn có muốn tiếp tục mà không có các mod này?</translation>
+        <translation>Không thể khởi tạo metadata cho các mod sau:&lt;br&gt;Bạn có muốn tiếp tục mà không có các mod này?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Kiểm tra cập nhật</translation>
+        <translation>Kiểm tra cập nhật</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="obsolete">Lỗi</translation>
+        <translation type="unfinished">Lỗi</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Cảnh báo</translation>
+        <translation>Cảnh báo</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="obsolete">Hủy bỏ</translation>
+        <translation type="unfinished">Hủy bỏ</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Đang kiểm tra cập nhật...</translation>
+        <translation>Đang kiểm tra cập nhật...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Tên mod: %1</translation>
+        <translation>Tên mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Lý do: %1</translation>
+        <translation>Lý do: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Giải pháp: cập nhật phiên bản mới nhất một cách thủ công:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Giải pháp: cập nhật phiên bản mới nhất một cách thủ công:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Kiểm tra các phần tử phụ thuộc...</translation>
+        <translation>Kiểm tra các phần tử phụ thuộc...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">mod &apos;%1&apos; chưa có metadata. Chúng tôi cần khởi tạo nó để theo dõi các thông tin liên quan về cách cập nhật bản mod này. Để tiếp tục, vui lòng chọn một nơi cung cấp mod cho chúng tôi kiểm tra phiên bản cập nhật.</translation>
+        <translation>mod &apos;%1&apos; chưa có metadata. Chúng tôi cần khởi tạo nó để theo dõi các thông tin liên quan về cách cập nhật bản mod này. Để tiếp tục, vui lòng chọn một nơi cung cấp mod cho chúng tôi kiểm tra phiên bản cập nhật.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Không thể tìm thấy phiên bản thích hợp từ nơi cung cấp mod đã được chọn</translation>
+        <translation>Không thể tìm thấy phiên bản thích hợp từ nơi cung cấp mod đã được chọn</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Thất bại khi kiểm tra phiên bản cập nhật</translation>
+        <translation>Thất bại khi kiểm tra phiên bản cập nhật</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Không thể kiểm tra hay cập nhật phiên bản cho các mod sau:&lt;br&gt;Bạn có muốn tiếp tục mà không có các mod này?</translation>
+        <translation>Không thể kiểm tra hay cập nhật phiên bản cho các mod sau:&lt;br&gt;Bạn có muốn tiếp tục mà không có các mod này?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Đang tìm metadata</translation>
+        <translation>Đang tìm metadata</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Khởi tạo metadata...</translation>
+        <translation>Khởi tạo metadata...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">Mod đã bị vô hiệu hóa, có thể do đã được cài đặt từ trước đó.</translation>
+        <translation>Mod đã bị vô hiệu hóa, có thể do đã được cài đặt từ trước đó.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Nhà cung cấp: %1</translation>
+        <translation>Nhà cung cấp: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Phiên bản cũ: %1</translation>
+        <translation>Phiên bản cũ: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Chưa được cài đặt</translation>
+        <translation>Chưa được cài đặt</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Phiên bản mới: %1</translation>
+        <translation>Phiên bản mới: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Loại phiên bản mới: %1</translation>
+        <translation>Loại phiên bản mới: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Yêu cầu bởi: %1</translation>
+        <translation>Yêu cầu bởi: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Yêu cầu bởi:</translation>
+        <translation>Yêu cầu bởi:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Nhật ký cập nhật cho phiên bản mới nhất</translation>
+        <translation>Nhật ký cập nhật cho phiên bản mới nhất</translation>
     </message>
 </context>
 <context>
@@ -8631,7 +8647,7 @@ Vui lòng cập nhật %1!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Đang chuẩn bị mod cho Modrinth...</translation>
+        <translation>Đang chuẩn bị mod cho Modrinth...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -8669,7 +8685,7 @@ Vui lòng cập nhật %1!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="obsolete">Không có phiên bản hợp lệ của mod này được tìm thấy. Nó có thể không khả dụng cho phiên bản hiện tại của trò chơi hoặc mod loader.</translation>
+        <translation type="unfinished">Không có phiên bản hợp lệ của mod này được tìm thấy. Nó có thể không khả dụng cho phiên bản hiện tại của trò chơi hoặc mod loader.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -8872,7 +8888,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">Bộ lọc</translation>
+        <translation type="unfinished">Bộ lọc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -10965,7 +10981,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="obsolete">Thay đổi phiên bản của %1</translation>
+        <translation type="unfinished">Thay đổi phiên bản của %1</translation>
     </message>
 </context>
 <context>
@@ -11369,11 +11385,13 @@ Bạn có chắc muốn làm điều này?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Tên của tài nguyên.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Thời gian thay đổi (hoặc được thêm vào) gần đây nhất của tài nguyên.</translation>
     </message>
     <message>
@@ -11478,7 +11496,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Có phải gói tài nguyên đã được bật? (Chỉ khả dụng đối với file ZIP)</translation>
+        <translation>Có phải gói tài nguyên đã được bật? (Chỉ khả dụng đối với file ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -11504,11 +11522,11 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Tải xuống các gói</translation>
+        <translation>Tải xuống các gói</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Tải xuống gói tài nguyên từ các nền tảng trực tuyến</translation>
+        <translation>Tải xuống gói tài nguyên từ các nền tảng trực tuyến</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -11879,6 +11897,10 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>Bật/Tắt các thành phần phụ thuộc</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">Mod đã bị vô hiệu hóa, có thể do đã được cài đặt từ trước đó.</translation>
     </message>
 </context>
 <context>
@@ -12258,11 +12280,11 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Tải xuống shader</translation>
+        <translation>Tải xuống shader</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Tải xuống shader từ các nền tảng trực tuyến</translation>
+        <translation>Tải xuống shader từ các nền tảng trực tuyến</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -12994,11 +13016,13 @@ Thiếu inheritFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Gói tài nguyên có được bật không?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Tên của texture pack.</translation>
     </message>
     <message>
@@ -13008,6 +13032,7 @@ Thiếu inheritFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Ngày và giờ gói tài nguyên này được thay đổi (hoặc thêm vào) lần cuối.</translation>
     </message>
     <message>
@@ -13091,11 +13116,11 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Tải xuống gói</translation>
+        <translation>Tải xuống gói</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Tải xuống gói hình ảnh từ các nền tảng trực tuyến</translation>
+        <translation>Tải xuống gói hình ảnh từ các nền tảng trực tuyến</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

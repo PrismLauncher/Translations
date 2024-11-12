@@ -1929,7 +1929,7 @@ Some versions of Minecraft may not launch.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">모드에 메타데이터가 있는지 확인 중...</translation>
+        <translation>모드에 메타데이터가 있는지 확인 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2372,11 +2372,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">추가(&amp;A)</translation>
+        <translation>추가(&amp;A)</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">추가</translation>
+        <translation>추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2385,7 +2385,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">선택된 항목 제거</translation>
+        <translation>선택된 항목 제거</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2394,7 +2394,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">선택된 항목 활성화</translation>
+        <translation>선택된 항목 활성화</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2504,7 +2504,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">새 리소스를 다운로드</translation>
+        <translation>새 리소스를 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2514,23 +2514,27 @@ Some versions of Minecraft may not launch.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">선택한 모든 리소스를 확인하거나 업데이트합니다(선택되지 않은 경우 모든 리소스)</translation>
+        <translation>선택한 모든 리소스를 확인하거나 업데이트합니다(선택되지 않은 경우 모든 리소스)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">모드 목록 내보내기</translation>
+        <translation>모드 목록 내보내기</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">모드 메타 데이터 텍스트로 내보내기</translation>
+        <translation>모드 메타 데이터 텍스트로 내보내기</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">모드 페이지 방문하기</translation>
+        <translation>모드 페이지 방문하기</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">모드 홈페이지로 이동</translation>
+        <translation>모드 홈페이지로 이동</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2927,13 +2931,17 @@ Please try again.</source>
         <translation>기타</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">이 모드에 유효한 버전이 없습니다. 현재 게임 버전/모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
+        <translation>이 모드에 유효한 버전이 없습니다. 현재 게임 버전/모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Mod에 새로운 업데이트가 있지만 CurseForge를 사용하여 다운로드할 수 없습니다.</translation>
+        <translation>Mod에 새로운 업데이트가 있지만 CurseForge를 사용하여 다운로드할 수 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -3239,7 +3247,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">필터</translation>
+        <translation>필터</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5067,7 +5075,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">계정이 만료되었으므로 수동으로 다시 로그인해야 합니다.</translation>
+        <translation>계정이 만료되었으므로 수동으로 다시 로그인해야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5800,6 +5808,10 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
         <source>No installation method found!</source>
         <translation>설치 방법을 발견하지 못했습니다!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -6002,12 +6014,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">모드 인덱스 업데이트:
+        <translation>모드 인덱스 업데이트:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">잘못된 meta 데이터</translation>
+        <translation>잘못된 meta 데이터</translation>
     </message>
 </context>
 <context>
@@ -8283,7 +8295,7 @@ This can be updated only using a file in %1 format
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">기타</translation>
+        <translation>기타</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8387,7 +8399,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">모드가 다운로드된 곳입니다.</translation>
+        <translation>모드가 다운로드된 곳입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8471,7 +8483,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">모드 다운로드</translation>
+        <translation>모드 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8497,11 +8509,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">파일 추가</translation>
+        <translation>파일 추가</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">로컬에서 다운로드한 파일 추가</translation>
+        <translation>로컬에서 다운로드한 파일 추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8516,11 +8528,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">의존성 검증</translation>
+        <translation>의존성 검증</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">모든 선택된 모드의 업데이트를 확인하고 없는 의존성을 검사합니다(선택된 모드가 없으면 모든 모드)</translation>
+        <translation>모든 선택된 모드의 업데이트를 확인하고 없는 의존성을 검사합니다(선택된 모드가 없으면 모든 모드)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8530,31 +8542,35 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">모드 홈페이지로 이동</translation>
+        <translation>모드 홈페이지로 이동</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">모드의 메타데이터 제거</translation>
+        <translation>모드의 메타데이터 제거</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">버전 변경</translation>
+        <translation>버전 변경</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">모드 버전 변경</translation>
+        <translation>모드 버전 변경</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">모드 페이지 방문하기</translation>
+        <translation>모드 페이지 방문하기</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">모드 페이지 방문하기</translation>
+        <translation>모드 페이지 방문하기</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">선택한 모드의 페이지로 이동</translation>
+        <translation>선택한 모드의 페이지로 이동</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -8815,124 +8831,124 @@ Please update %1!</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">업데이트할 모드 확인</translation>
+        <translation>업데이트할 모드 확인</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">다음 모드를 업데이트하려고 합니다:</translation>
+        <translation>다음 모드를 업데이트하려고 합니다:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">선택한 모드만 업데이트됩니다!</translation>
+        <translation>선택한 모드만 업데이트됩니다!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">모드 이름: %1&lt;br&gt;파일명: %2&lt;br&gt;원인: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>모드 이름: %1&lt;br&gt;파일명: %2&lt;br&gt;원인: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">메타데이터를 생성하지 못함</translation>
+        <translation>메타데이터를 생성하지 못함</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">다음 모드의 메타데이터를 생성할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
+        <translation>다음 모드의 메타데이터를 생성할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">업데이트를 확인하는 중</translation>
+        <translation>업데이트를 확인하는 중</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">경고</translation>
+        <translation>경고</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">중지</translation>
+        <translation>중지</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">업데이트를 확인하는 중...</translation>
+        <translation>업데이트를 확인하는 중...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">모드 이름: %1</translation>
+        <translation>모드 이름: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">원인: %1</translation>
+        <translation>원인: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">가능한 해결법: 최신 버전을 직접 가져오기: &lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>가능한 해결법: 최신 버전을 직접 가져오기: &lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">의존성을 확인하는 중...</translation>
+        <translation>의존성을 확인하는 중...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">모드 &apos;%1&apos;에 메타데이터가 없습니다. 이 모드를 업데이트하는 방법에 대한 관련 정보를 추적하기 위해 메타데이터를 만들어야 합니다. 이 모드의 업데이트 확인을 위해 모드 제공자를 선택하십시오.</translation>
+        <translation>모드 &apos;%1&apos;에 메타데이터가 없습니다. 이 모드를 업데이트하는 방법에 대한 관련 정보를 추적하기 위해 메타데이터를 만들어야 합니다. 이 모드의 업데이트 확인을 위해 모드 제공자를 선택하십시오.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">선택한 모드 제공자에서 유효한 버전을 찾을 수 없습니다</translation>
+        <translation>선택한 모드 제공자에서 유효한 버전을 찾을 수 없습니다</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">업데이트를 확인하지 못함</translation>
+        <translation>업데이트를 확인하지 못함</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">다음 모드의 업데이트를 확인할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
+        <translation>다음 모드의 업데이트를 확인할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">메타데이터를 찾는 중</translation>
+        <translation>메타데이터를 찾는 중</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">메타데이터를 생성하는 중...</translation>
+        <translation>메타데이터를 생성하는 중...</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
+        <translation>이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">제공자: %1</translation>
+        <translation>제공자: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">이전 버전: %1</translation>
+        <translation>이전 버전: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">설치되지 않음</translation>
+        <translation>설치되지 않음</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">새 버전: %1</translation>
+        <translation>새 버전: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">새로운 버전 유형: %1</translation>
+        <translation>새로운 버전 유형: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">다음에 의해 요구됨: %1</translation>
+        <translation>다음에 의해 요구됨: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">다음에 의해 요구됨:</translation>
+        <translation>다음에 의해 요구됨:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">최신 버전에 대한 변경사항</translation>
+        <translation>최신 버전에 대한 변경사항</translation>
     </message>
 </context>
 <context>
@@ -9041,7 +9057,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Modrinth용 모드 준비 중...</translation>
+        <translation>Modrinth용 모드 준비 중...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -9079,7 +9095,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">이 모드에 유효한 버전이 없습니다. 현재 게임 버전 / 모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
+        <translation>이 모드에 유효한 버전이 없습니다. 현재 게임 버전 / 모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -9314,7 +9330,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">필터</translation>
+        <translation>필터</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11478,7 +11494,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">%1 버전 변경</translation>
+        <translation>%1 버전 변경</translation>
     </message>
 </context>
 <context>
@@ -11895,11 +11911,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스의 이름입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스가 최근 수정(혹은 추가)된 날짜와 시간입니다.</translation>
     </message>
     <message>
@@ -12004,7 +12022,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">리소스 팩이 활성화되어 있습니까? (ZIP만 유효)</translation>
+        <translation>리소스 팩이 활성화되어 있습니까? (ZIP만 유효)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -12030,11 +12048,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">팩 다운로드</translation>
+        <translation>팩 다운로드</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">온라인 플랫폼에서 리소스 팩 다운로드</translation>
+        <translation>온라인 플랫폼에서 리소스 팩 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12420,6 +12438,10 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>종속성 전환</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
     </message>
 </context>
 <context>
@@ -12819,11 +12841,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">셰이더 다운로드</translation>
+        <translation>셰이더 다운로드</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">셰이더를 온라인 플랫폼에서 다운로드</translation>
+        <translation>셰이더를 온라인 플랫폼에서 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13560,11 +13582,13 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>텍스처 팩이 활성화되어 있습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>텍스처 팩 이름.</translation>
     </message>
     <message>
@@ -13574,6 +13598,7 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>텍스처 팩이 마지막으로 수정(또는 추가)된 날짜와 시간입니다.</translation>
     </message>
     <message>
@@ -13657,11 +13682,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">팩 다운로드</translation>
+        <translation>팩 다운로드</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">텍스처 팩을 온라인 플랫폼에서 다운로드</translation>
+        <translation>텍스처 팩을 온라인 플랫폼에서 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

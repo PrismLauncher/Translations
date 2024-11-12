@@ -1937,7 +1937,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Modların metadatasının olup olmadığı kontrol ediliyor...</translation>
+        <translation>Modların metadatasının olup olmadığı kontrol ediliyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2380,11 +2380,11 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Ekle</translation>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Ekle</translation>
+        <translation>Ekle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2393,7 +2393,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Seçilen eşyayı kaldır</translation>
+        <translation>Seçilen eşyayı kaldır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2402,7 +2402,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Seçili kaynağı etkinleştir</translation>
+        <translation>Seçili kaynağı etkinleştir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2512,7 +2512,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Yeni bir kaynak indir</translation>
+        <translation>Yeni bir kaynak indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2522,23 +2522,27 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Tüm seçili kaynakları kontrol etmeyi veya güncellemeyi dene (hiçbiri seçilmediyse tüm kaynaklar)</translation>
+        <translation>Tüm seçili kaynakları kontrol etmeyi veya güncellemeyi dene (hiçbiri seçilmediyse tüm kaynaklar)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Mod listesini dışarıya aktar</translation>
+        <translation>Mod listesini dışarıya aktar</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Modun meta verilerini metne aktarma</translation>
+        <translation>Modun meta verilerini metne aktarma</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Mod&apos;un sayfasını görüntüle</translation>
+        <translation>Mod&apos;un sayfasını görüntüle</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Mod&apos;un ana sayfasına git</translation>
+        <translation>Mod&apos;un ana sayfasına git</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2935,13 +2939,17 @@ Lütfen tekrar deneyin.</translation>
         <translation>Bilinmeyen</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Bu mod için hiç geçerli sürüm yok. Muhtemelen şu anki oyun sürümü / mod yükleyicisi için mevcut olmayabilir.</translation>
+        <translation>Bu mod için hiç geçerli sürüm yok. Muhtemelen şu anki oyun sürümü / mod yükleyicisi için mevcut olmayabilir.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Modun yeni güncellemesi mevcut, ama CurseForge kullanılarak indirilemez.</translation>
+        <translation>Modun yeni güncellemesi mevcut, ama CurseForge kullanılarak indirilemez.</translation>
     </message>
 </context>
 <context>
@@ -3242,7 +3250,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Filtre</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5077,7 +5085,7 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Hesabın süresi geçmiş ve yeniden elle giriş yapılması gerekiyor.</translation>
+        <translation>Hesabın süresi geçmiş ve yeniden elle giriş yapılması gerekiyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5830,6 +5838,10 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
         <source>No installation method found!</source>
         <translation>Herhangi bir kurulum metodu bulunamadı!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -6032,12 +6044,12 @@ Sebep:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Mod için dizin güncelleniyor:
+        <translation>Mod için dizin güncelleniyor:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Geçersiz üst veri</translation>
+        <translation>Geçersiz üst veri</translation>
     </message>
 </context>
 <context>
@@ -8333,7 +8345,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Bilinmeyen</translation>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -8437,7 +8449,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation type="vanished">Modun indirildiği yer.</translation>
+        <translation>Modun indirildiği yer.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8521,7 +8533,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Modları indir</translation>
+        <translation>Modları indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -8547,11 +8559,11 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Dosya ekle</translation>
+        <translation>Dosya ekle</translation>
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation type="vanished">Yerel olarak indirilmiş dosya ekle</translation>
+        <translation>Yerel olarak indirilmiş dosya ekle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8566,11 +8578,11 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Bağımlılıkları Doğrula</translation>
+        <translation>Bağımlılıkları Doğrula</translation>
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation type="vanished">Seçili tüm modları güncellemeyi ve eksik bağımlılıkları kontrol etmeyi deneyin (hiçbiri seçili değilse tüm modlar)</translation>
+        <translation>Seçili tüm modları güncellemeyi ve eksik bağımlılıkları kontrol etmeyi deneyin (hiçbiri seçili değilse tüm modlar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8580,31 +8592,35 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation type="vanished">Mod&apos;un ana sayfasına git</translation>
+        <translation>Mod&apos;un ana sayfasına git</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation type="vanished">Modun meta verilerini kaldır</translation>
+        <translation>Modun meta verilerini kaldır</translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="vanished">Sürüm Değiştir</translation>
+        <translation>Sürüm Değiştir</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="vanished">Mod sürümünü değiştir</translation>
+        <translation>Mod sürümünü değiştir</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Mod&apos;un sayfasını ziyaret et</translation>
+        <translation>Mod&apos;un sayfasını ziyaret et</translation>
     </message>
     <message>
         <source>Visit mods&apos; pages</source>
-        <translation type="vanished">Modların sayfalarını ziyaret et</translation>
+        <translation>Modların sayfalarını ziyaret et</translation>
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation type="vanished">Seçilen modların sayfalarına git</translation>
+        <translation>Seçilen modların sayfalarına git</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
@@ -8861,124 +8877,124 @@ Lütfen %1 programını güncelleyin!</translation>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation type="vanished">Güncellemek için modları onayla</translation>
+        <translation>Güncellemek için modları onayla</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="vanished">Aşağıdaki modları güncellemek üzeresiniz:</translation>
+        <translation>Aşağıdaki modları güncellemek üzeresiniz:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation type="vanished">Sadece tiklenen modlar güncellenecek!</translation>
+        <translation>Sadece tiklenen modlar güncellenecek!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="vanished">Mod adı: %1&lt;br&gt;Dosya adı: %2&lt;br&gt;Sebep: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Mod adı: %1&lt;br&gt;Dosya adı: %2&lt;br&gt;Sebep: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Üst veri oluşumu başarısız</translation>
+        <translation>Üst veri oluşumu başarısız</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Aşağıdaki modlar için üst veri oluşturulamadı:&lt;br&gt;Bu modlar olmadan devam etmek ister misiniz?</translation>
+        <translation>Aşağıdaki modlar için üst veri oluşturulamadı:&lt;br&gt;Bu modlar olmadan devam etmek ister misiniz?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Güncellemeler denetleniyor</translation>
+        <translation>Güncellemeler denetleniyor</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Hata</translation>
+        <translation>Hata</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Uyarılar</translation>
+        <translation>Uyarılar</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">İptal Et</translation>
+        <translation>İptal Et</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Güncellemeler denetleniyor…</translation>
+        <translation>Güncellemeler denetleniyor…</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Mod adı: %1</translation>
+        <translation>Mod adı: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Sebep: %1</translation>
+        <translation>Sebep: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="vanished">Olası çözüm: Son sürümü elle edinmek:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Olası çözüm: Son sürümü elle edinmek:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="vanished">Bağımlılıklar kontrol ediliyor...</translation>
+        <translation>Bağımlılıklar kontrol ediliyor...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">&apos;%1&apos; modunun henüz bir üst verisi yok. Bu modun güncellenebilmesi için alakalı bilgileri tespit etmek için oluşturmak gerek. Bunu yapmak için, lütfen bu modun güncellemesini denetlemek için kullanabileceğimiz bir mod sağlayıcısı seçin.</translation>
+        <translation>&apos;%1&apos; modunun henüz bir üst verisi yok. Bu modun güncellenebilmesi için alakalı bilgileri tespit etmek için oluşturmak gerek. Bunu yapmak için, lütfen bu modun güncellemesini denetlemek için kullanabileceğimiz bir mod sağlayıcısı seçin.</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="vanished">Seçili mod sağlayıcı(ların)da geçerli bir sürüm bulunamadı</translation>
+        <translation>Seçili mod sağlayıcı(ların)da geçerli bir sürüm bulunamadı</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="vanished">Güncelleme denetlemesi başarısız</translation>
+        <translation>Güncelleme denetlemesi başarısız</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Güncellemeler için aşağıdaki modlar denetlenemedi veya edinilemedi:&lt;br&gt;Bu modlar olmadan hala devam etmek istiyor musunuz?</translation>
+        <translation>Güncellemeler için aşağıdaki modlar denetlenemedi veya edinilemedi:&lt;br&gt;Bu modlar olmadan hala devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Üst veri aranıyor</translation>
+        <translation>Üst veri aranıyor</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Üst veri oluşturuluyor…</translation>
+        <translation>Üst veri oluşturuluyor…</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="vanished">Mod, zaten yüklenmiş olabileceğinden ötürü devre dışı bırakıldı.</translation>
+        <translation>Mod, zaten yüklenmiş olabileceğinden ötürü devre dışı bırakıldı.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Sağlayıcı: %1</translation>
+        <translation>Sağlayıcı: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Eski sürüm: %1</translation>
+        <translation>Eski sürüm: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Kurulu değil</translation>
+        <translation>Kurulu değil</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Yeni sürüm: %1</translation>
+        <translation>Yeni sürüm: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="vanished">Yeni Sürüm Tipi: %1</translation>
+        <translation>Yeni Sürüm Tipi: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="vanished">Tarafından gerekli: %1</translation>
+        <translation>Tarafından gerekli: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Tarafından gerekli:</translation>
+        <translation>Tarafından gerekli:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="vanished">Son sürüm için değişik listesi</translation>
+        <translation>Son sürüm için değişik listesi</translation>
     </message>
 </context>
 <context>
@@ -9083,7 +9099,7 @@ Lütfen %1 programını güncelleyin!</translation>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="vanished">Modrinth için modlar hazırlanıyor…</translation>
+        <translation>Modrinth için modlar hazırlanıyor…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -9121,7 +9137,7 @@ Lütfen %1 programını güncelleyin!</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Bu mod için geçerli sürüm bulunamadı. Muhtemelen şu anki oyun sürümü / mod yükleyicisi için mevcut değil.</translation>
+        <translation>Bu mod için geçerli sürüm bulunamadı. Muhtemelen şu anki oyun sürümü / mod yükleyicisi için mevcut değil.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -9355,7 +9371,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     </message>
     <message>
         <source>Filter</source>
-        <translation type="vanished">Filtre</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11519,7 +11535,7 @@ NOT: Güncellemeden önce profilinizin önemli verilerini yedeklediğinizden emi
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="vanished">%1 sürümünü değiştir</translation>
+        <translation>%1 sürümünü değiştir</translation>
     </message>
 </context>
 <context>
@@ -11936,11 +11952,13 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Kaynağın ismi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Bu kaynagın en son değiştirildiği (veya eklendiği) tarih ve zaman.</translation>
     </message>
     <message>
@@ -12045,7 +12063,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="vanished">Kaynak paketi etkin mi? (Sadece geçerli ZIP&apos;ler için)</translation>
+        <translation>Kaynak paketi etkin mi? (Sadece geçerli ZIP&apos;ler için)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -12071,11 +12089,11 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Paketleri indirin</translation>
+        <translation>Paketleri indirin</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="vanished">Kaynak paketlerini çevrimiçi platformlardan indirin</translation>
+        <translation>Kaynak paketlerini çevrimiçi platformlardan indirin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12461,6 +12479,10 @@ Emin misin?</translation>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>Kurulumları değiştir</translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished">Mod, zaten yüklenmiş olabileceğinden ötürü devre dışı bırakıldı.</translation>
     </message>
 </context>
 <context>
@@ -12860,11 +12882,11 @@ Emin misin?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Gölgelendiricileri indir</translation>
+        <translation>Gölgelendiricileri indir</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="vanished">Çevrimiçi platformlardan gölgelendiricileri indir</translation>
+        <translation>Çevrimiçi platformlardan gölgelendiricileri indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13601,11 +13623,13 @@ inheritsFrom eksik</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Doku paketi etkin mi?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Doku paketinin ismi.</translation>
     </message>
     <message>
@@ -13615,6 +13639,7 @@ inheritsFrom eksik</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Bu doku paketinde en son yapılan değişikliğin (veya eklemelerin) tarihi ve zamanı.</translation>
     </message>
     <message>
@@ -13698,11 +13723,11 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Paketleri indir</translation>
+        <translation>Paketleri indir</translation>
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation type="vanished">Doku paketlerini çevrimiçi platformlardan indirin</translation>
+        <translation>Doku paketlerini çevrimiçi platformlardan indirin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>

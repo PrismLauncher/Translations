@@ -1839,7 +1839,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="vanished">Menyemak sama ada mod mempunyai metadata...</translation>
+        <translation>Menyemak sama ada mod mempunyai metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2266,11 +2266,11 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">&amp;Tambah</translation>
+        <translation>&amp;Tambah</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Tambah</translation>
+        <translation>Tambah</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -2279,7 +2279,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="vanished">Alih keluar item yang dipilih</translation>
+        <translation>Alih keluar item yang dipilih</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2288,7 +2288,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation type="vanished">Dayakan item yang dipilih</translation>
+        <translation>Dayakan item yang dipilih</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2398,7 +2398,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation type="vanished">Memuat turun sumber baharu</translation>
+        <translation>Memuat turun sumber baharu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2408,23 +2408,27 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="vanished">Cuba semak atau kemas kini semua sumber yang dipilih (semua sumber jika tiada yang dipilih)</translation>
+        <translation>Cuba semak atau kemas kini semua sumber yang dipilih (semua sumber jika tiada yang dipilih)</translation>
     </message>
     <message>
         <source>Export modlist</source>
-        <translation type="vanished">Eksport senarai mod</translation>
+        <translation>Eksport senarai mod</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation type="vanished">Eksport metadata mod kepada tulisan</translation>
+        <translation>Eksport metadata mod kepada tulisan</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Lawati halaman mod</translation>
+        <translation>Lawati halaman mod</translation>
+    </message>
+    <message>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation type="vanished">Pergi ke halaman utama mod</translation>
+        <translation>Pergi ke halaman utama mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="131"/>
@@ -2809,13 +2813,17 @@ Sila cuba lagi.</translation>
         <translation type="unfinished">Tidak diketahui</translation>
     </message>
     <message>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Tiada versi yang sah ditemui untuk mod ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod semasa.</translation>
+        <translation>Tiada versi yang sah ditemui untuk mod ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod semasa.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="vanished">Mod mempunyai kemas kini baharu yang tersedia, tetapi tidak boleh dimuat turun menggunakan CurseForge.</translation>
+        <translation>Mod mempunyai kemas kini baharu yang tersedia, tetapi tidak boleh dimuat turun menggunakan CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3028,7 +3036,7 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">Tapis</translation>
+        <translation type="unfinished">Tapis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -4589,7 +4597,7 @@ Adakah anda mahu bermain demo?</translation>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="vanished">Akaun telah tamat tempoh dan perlu dilog masuk secara manual sekali lagi.</translation>
+        <translation>Akaun telah tamat tempoh dan perlu dilog masuk secara manual sekali lagi.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5251,6 +5259,10 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
         <source>No installation method found!</source>
         <translation>Tiada kaedah pemasangan ditemukan!</translation>
     </message>
+    <message>
+        <source>Failed to move unzipped Minecraft!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LegacyFTB::Page</name>
@@ -5392,12 +5404,12 @@ Sebab:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="vanished">Sedang mengemas kini indeks untuk mod:
+        <translation>Sedang mengemas kini indeks untuk mod:
 %1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="vanished">Metadata tidak sah</translation>
+        <translation>Metadata tidak sah</translation>
     </message>
 </context>
 <context>
@@ -7254,7 +7266,11 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="vanished">Tidak diketahui</translation>
+        <translation>Tidak diketahui</translation>
+    </message>
+    <message>
+        <source>Where the mod was downloaded from.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
@@ -7382,7 +7398,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <name>ModFolderPage</name>
     <message>
         <source>Add file</source>
-        <translation type="vanished">Tambah fail</translation>
+        <translation>Tambah fail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -7397,7 +7413,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="vanished">Sahkan Kebergantungan</translation>
+        <translation>Sahkan Kebergantungan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -7406,12 +7422,44 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Add a locally downloaded file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset update metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove mod&apos;s metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to mod&apos;s home page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
-        <translation type="vanished">Ubah Versi</translation>
+        <translation>Ubah Versi</translation>
+    </message>
+    <message>
+        <source>Change mod version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
-        <translation type="vanished">Lawati halaman mod</translation>
+        <translation>Lawati halaman mod</translation>
+    </message>
+    <message>
+        <source>Visit mods&apos; pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to the pages of the selected mods</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
@@ -7548,7 +7596,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download mods</source>
-        <translation type="vanished">Muat turun mod</translation>
+        <translation>Muat turun mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
@@ -7583,75 +7631,124 @@ Are you sure?</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="vanished">Penjanaan metadata gagal</translation>
+        <translation>Penjanaan metadata gagal</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Tidak dapat menjana metadata untuk mod berikut:&lt;br&gt;Adakah anda ingin meneruskan tanpa mod tersebut?</translation>
+        <translation>Tidak dapat menjana metadata untuk mod berikut:&lt;br&gt;Adakah anda ingin meneruskan tanpa mod tersebut?</translation>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="vanished">Menyemak untuk kemas kini</translation>
+        <translation>Menyemak untuk kemas kini</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="vanished">Amaran</translation>
+        <translation>Amaran</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="vanished">Batalkan</translation>
+        <translation>Batalkan</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="vanished">Sedang menyemak untuk sebarang kemas kini...</translation>
+        <translation>Sedang menyemak untuk sebarang kemas kini...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="vanished">Nama mod: %1</translation>
+        <translation>Nama mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="vanished">Sebab: %1</translation>
+        <translation>Sebab: %1</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="vanished">Mod &apos;%1&apos; belum mempunyai metadata lagi. Kami perlu menjananya untuk menjejaki maklumat yang berkaitan tentang cara mengemas kini mod ini. Untuk melakukan ini, sila pilih penyedia mod yang boleh kami gunakan untuk menyemak kemas kini untuk mod ini.</translation>
+        <translation>Mod &apos;%1&apos; belum mempunyai metadata lagi. Kami perlu menjananya untuk menjejaki maklumat yang berkaitan tentang cara mengemas kini mod ini. Untuk melakukan ini, sila pilih penyedia mod yang boleh kami gunakan untuk menyemak kemas kini untuk mod ini.</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="vanished">Tidak dapat menyemak atau mendapatkan kemas kini untuk mod berikut:&lt;br&gt;Adakah anda mahu meneruskan tanpa mod tersebut?</translation>
+        <translation>Tidak dapat menyemak atau mendapatkan kemas kini untuk mod berikut:&lt;br&gt;Adakah anda mahu meneruskan tanpa mod tersebut?</translation>
+    </message>
+    <message>
+        <source>Confirm mods to update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;re about to update the following mods:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only mods with a check will be updated!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
+        <extracomment>%1 is the link to download it manually</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to check for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking for dependencies...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="vanished">Sedang mencari metadata</translation>
+        <translation>Sedang mencari metadata</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="vanished">Menjana metadata...</translation>
+        <translation>Menjana metadata...</translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="vanished">Penyedia: %1</translation>
+        <translation>Penyedia: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="vanished">Versi lama: %1</translation>
+        <translation>Versi lama: %1</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="vanished">Tidak dipasang</translation>
+        <translation>Tidak dipasang</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="vanished">Versi baharu: %1</translation>
+        <translation>Versi baharu: %1</translation>
+    </message>
+    <message>
+        <source>New Version Type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Required by: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="vanished">Diperlukan oleh:</translation>
+        <translation>Diperlukan oleh:</translation>
+    </message>
+    <message>
+        <source>Changelog of the latest version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7713,8 +7810,12 @@ Sila kemas kini %1!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Preparing mods for Modrinth...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="vanished">Tiada versi yang sah ditemui untuk mod ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod semasa.</translation>
+        <translation>Tiada versi yang sah ditemui untuk mod ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod semasa.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="59"/>
@@ -7941,7 +8042,7 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="obsolete">Tapis</translation>
+        <translation type="unfinished">Tapis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -9818,6 +9919,10 @@ CATATAN: Pastikan anda membuat sandaran data pemasangan penting anda sebelum men
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>mod</translation>
     </message>
+    <message>
+        <source>Change %1 version</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourceDownload::ModPage</name>
@@ -10210,11 +10315,13 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The name of the resource.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The date and time this resource was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10323,6 +10430,10 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourcePackPage</name>
@@ -10333,7 +10444,11 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Muat turun pek</translation>
+        <translation>Muat turun pek</translation>
+    </message>
+    <message>
+        <source>Download resource packs from online platforms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -10705,6 +10820,10 @@ Are you sure?</source>
         <source>Toggle Dependencies</source>
         <translation>Togol Kebergantungan</translation>
     </message>
+    <message>
+        <source>Mod was disabled as it may be already instaled.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ScreenshotsPage</name>
@@ -11073,7 +11192,11 @@ Adakah anda pasti?</translation>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="vanished">Muat turun pembayang</translation>
+        <translation>Muat turun pembayang</translation>
+    </message>
+    <message>
+        <source>Download shaders from online platforms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -11797,16 +11920,19 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>Is the texture pack enabled?</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="142"/>
         <source>The name of the texture pack.</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="144"/>
         <source>The date and time this texture pack was last changed (or added).</source>
+        <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11829,7 +11955,11 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="vanished">Muat turun pek</translation>
+        <translation>Muat turun pek</translation>
+    </message>
+    <message>
+        <source>Download texture packs from online platforms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
