@@ -51,6 +51,8 @@ jobs:
       - name: Update translations
         run: |
           git clone https://github.com/PrismLauncher/PrismLauncher.git src
+          # create worktree for latest stable tag
+          git -C src worktree add -b stable ../src_stable $(git rev-list --tags --max-count=1)
 
           export LUPDATE_BIN="/usr/lib/qt6/bin/lupdate"
 
