@@ -58,8 +58,6 @@ jobs:
           # create worktree for latest stable tag
           git -C src worktree add -b stable ../src_stable $(git rev-list --tags --max-count=1)
 
-          export LUPDATE_BIN="/usr/lib/qt6/bin/lupdate"
-
           nix develop . -c ./update.sh
 
       - name: Commit files
