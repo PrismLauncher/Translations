@@ -1397,7 +1397,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>一部のコンポーネントのメタデータの読み込みに失敗しました。</translation>
+        <translation>一部コンポーネントのメタデータの読み込みに失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="450"/>
@@ -2472,7 +2472,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>modリストのエクスポート</translation>
+        <translation>Modリストをエクスポート</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
@@ -8515,7 +8515,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>以下のModをアップデートしようとしています。</translation>
+        <translation>以下のModをアップデートしようとしています:</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
