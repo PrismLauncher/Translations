@@ -78,7 +78,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic Client ID-a</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
@@ -88,7 +88,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sartu hemen GUID pertsonalizatua Technic Client ID-arentzat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -653,7 +653,7 @@ Hemen bazaude, &quot;Microsoft gehitu&quot; botoia sakatu dezakezu zure Microsof
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Bertsio guztiak</translation>
     </message>
 </context>
 <context>
@@ -703,7 +703,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eguneratze saio batek huts egin du.
+
+Ziurtatu zure instalazioa behar bezala dagoela aurrera egin aurretik.
+Begiratu Prism Launcher updater-aren erregirtroa hemen:
+% 1
+azken eguneratze-saioari buruzko xehetasunetarako.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="995"/>
@@ -724,7 +729,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Eguneratzeak arrakasta izan du.
+
+Orain % 1 funtzionatzen ari da.
+Begiratu Prism Launcher updateraren erregistroa hemen:
+%2
+xehetasunak ikusteko.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1027"/>
@@ -743,7 +753,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/Application.cpp" line="1065"/>
         <source>Incompatible system configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisteman konfigurazio bateraezina dago</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1425"/>
