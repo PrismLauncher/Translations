@@ -913,48 +913,38 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
 <context>
     <name>ArchiveDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation>Java letöltése</translation>
+        <translation type="vanished">Java letöltése</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation>Java kibontása</translation>
+        <translation type="vanished">Java kibontása</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Java kibontása (a tar-archívumok esetében a haladás nem jelenthető)</translation>
+        <translation type="vanished">Java kibontása (a tar-archívumok esetében a haladás nem jelenthető)</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation>Nem sikerült megnyitni a mellékelt tar fájlt.</translation>
+        <translation type="vanished">Nem sikerült megnyitni a mellékelt tar fájlt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Nem sikerült kibontani a mellékelt tar fájlt.</translation>
+        <translation type="vanished">Nem sikerült kibontani a mellékelt tar fájlt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation>Nem lehet megnyitni a mellékelt zip fájlt.</translation>
+        <translation type="vanished">Nem lehet megnyitni a mellékelt zip fájlt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation>A mellékelt zip fájlban nem találtunk fájlokat.</translation>
+        <translation type="vanished">A mellékelt zip fájlban nem találtunk fájlokat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation>Nem sikerült meghatározni az archívum típusát!</translation>
+        <translation type="vanished">Nem sikerült meghatározni az archívum típusát!</translation>
     </message>
 </context>
 <context>
@@ -4486,6 +4476,51 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     </message>
 </context>
 <context>
+    <name>Java::ArchiveDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished">Java letöltése</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
+        <source>Extracting Java</source>
+        <translation type="unfinished">Java kibontása</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
+        <source>Extracting Java (Progress is not reported for tar archives)</source>
+        <translation type="unfinished">Java kibontása (a tar-archívumok esetében a haladás nem jelenthető)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
+        <source>Unable to open supplied tar file.</source>
+        <translation type="unfinished">Nem sikerült megnyitni a mellékelt tar fájlt.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
+        <source>Unable to extract supplied tar file.</source>
+        <translation type="unfinished">Nem sikerült kibontani a mellékelt tar fájlt.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
+        <source>Unable to open supplied zip file.</source>
+        <translation type="unfinished">Nem lehet megnyitni a mellékelt zip fájlt.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
+        <source>No files were found in the supplied zip file.</source>
+        <translation type="unfinished">A mellékelt zip fájlban nem találtunk fájlokat.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
+        <source>Could not determine archive type!</source>
+        <translation type="unfinished">Nem sikerült meghatározni az archívum típusát!</translation>
+    </message>
+</context>
+<context>
     <name>Java::InstallDialog</name>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
@@ -4538,6 +4573,42 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
+    </message>
+</context>
+<context>
+    <name>Java::ManifestDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished">Java letöltése</translation>
+    </message>
+</context>
+<context>
+    <name>Java::SymlinkTask</name>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
+        <source>Checking for Java binary path</source>
+        <translation type="unfinished">Java bináris elérési út ellenőrzése</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
+        <source>Searching for Java binary path</source>
+        <translation type="unfinished">Java bináris elérési út keresése</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
+        <source>Failed to find Java binary path</source>
+        <translation type="unfinished">Nem sikerült megtalálni a Java bináris elérési utat</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
+        <source>Collecting folders to symlink</source>
+        <translation type="unfinished">Mappák összegyűjtése a szimbolikus hivatkozáshoz</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
+        <source>Symlinking Java binary path</source>
+        <translation type="unfinished">Java bináris útvonal összekapcsolása</translation>
     </message>
 </context>
 <context>
@@ -6102,8 +6173,8 @@ Indok:
         <translation>Alja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Minecraft napló</translation>
     </message>
@@ -7675,9 +7746,8 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
 <context>
     <name>ManifestDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Java letöltése</translation>
+        <translation type="vanished">Java letöltése</translation>
     </message>
 </context>
 <context>
@@ -10918,16 +10988,16 @@ Biztos vagy ebben?</translation>
         <translation>A Java teszt sikerült!&lt;br /&gt;Platform jelentve: %1&lt;br /&gt;Jelentett Java verzió: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test success</source>
         <translation>Java teszt sikeres</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test failure</source>
         <translation>Java teszt hiba</translation>
     </message>
@@ -11179,8 +11249,8 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <translation>Ismeretlen verzióformátumú!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Üres elérési út</translation>
     </message>
@@ -11190,8 +11260,8 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <translation>Érvénytelen elérési út a JVisualVM-hez</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>Az elérési út nem létezik</translation>
     </message>
@@ -13357,29 +13427,24 @@ mert: %2.</translation>
 <context>
     <name>SymlinkTask</name>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation>Java bináris elérési út ellenőrzése</translation>
+        <translation type="vanished">Java bináris elérési út ellenőrzése</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation>Java bináris elérési út keresése</translation>
+        <translation type="vanished">Java bináris elérési út keresése</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation>Nem sikerült megtalálni a Java bináris elérési utat</translation>
+        <translation type="vanished">Nem sikerült megtalálni a Java bináris elérési utat</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation>Mappák összegyűjtése a szimbolikus hivatkozáshoz</translation>
+        <translation type="vanished">Mappák összegyűjtése a szimbolikus hivatkozáshoz</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation>Java bináris útvonal összekapcsolása</translation>
+        <translation type="vanished">Java bináris útvonal összekapcsolása</translation>
     </message>
 </context>
 <context>

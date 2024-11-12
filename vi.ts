@@ -909,48 +909,38 @@ Một số phiên bản Minecraft có thể không khởi động.
 <context>
     <name>ArchiveDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation>Đang tải xuống Java</translation>
+        <translation type="vanished">Đang tải xuống Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation>Đang trích ra Java</translation>
+        <translation type="vanished">Đang trích ra Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Đang giải nén Java (Tiến trình không được hiển thị cho gói nén tar)</translation>
+        <translation type="vanished">Đang giải nén Java (Tiến trình không được hiển thị cho gói nén tar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation>Không thể mở được tệp tar.</translation>
+        <translation type="vanished">Không thể mở được tệp tar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Không thể trích ra được tệp tar.</translation>
+        <translation type="vanished">Không thể trích ra được tệp tar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation>Không thể mở được tệp zip.</translation>
+        <translation type="vanished">Không thể mở được tệp zip.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation>Không thấy được tệp nào trong tệp zip.</translation>
+        <translation type="vanished">Không thấy được tệp nào trong tệp zip.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation>Không thể xác định được loại lưu trữ!</translation>
+        <translation type="vanished">Không thể xác định được loại lưu trữ!</translation>
     </message>
 </context>
 <context>
@@ -4389,6 +4379,51 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
 </context>
 <context>
+    <name>Java::ArchiveDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished">Đang tải xuống Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
+        <source>Extracting Java</source>
+        <translation type="unfinished">Đang trích ra Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
+        <source>Extracting Java (Progress is not reported for tar archives)</source>
+        <translation type="unfinished">Đang giải nén Java (Tiến trình không được hiển thị cho gói nén tar)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
+        <source>Unable to open supplied tar file.</source>
+        <translation type="unfinished">Không thể mở được tệp tar.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
+        <source>Unable to extract supplied tar file.</source>
+        <translation type="unfinished">Không thể trích ra được tệp tar.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
+        <source>Unable to open supplied zip file.</source>
+        <translation type="unfinished">Không thể mở được tệp zip.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
+        <source>No files were found in the supplied zip file.</source>
+        <translation type="unfinished">Không thấy được tệp nào trong tệp zip.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
+        <source>Could not determine archive type!</source>
+        <translation type="unfinished">Không thể xác định được loại lưu trữ!</translation>
+    </message>
+</context>
+<context>
     <name>Java::InstallDialog</name>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
@@ -4441,6 +4476,42 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
         <translation type="unfinished">Hủy bỏ</translation>
+    </message>
+</context>
+<context>
+    <name>Java::ManifestDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished">Đang tải xuống Java</translation>
+    </message>
+</context>
+<context>
+    <name>Java::SymlinkTask</name>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
+        <source>Checking for Java binary path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
+        <source>Searching for Java binary path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
+        <source>Failed to find Java binary path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
+        <source>Collecting folders to symlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
+        <source>Symlinking Java binary path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5956,8 +6027,8 @@ Lý do:
         <translation>Dưới cùng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Minecraft Log</translation>
     </message>
@@ -7384,9 +7455,8 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
 <context>
     <name>ManifestDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Đang tải xuống Java</translation>
+        <translation type="obsolete">Đang tải xuống Java</translation>
     </message>
 </context>
 <context>
@@ -10419,16 +10489,16 @@ Bạn có chắc không?</translation>
         <translation>Thử nghiệm Java thành công!&lt;br /&gt;Nền tảng được báo cáo: %1&lt;br /&gt;Phiên bản Java được báo cáo: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test success</source>
         <translation>Thử nghiệm Java thành công</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test failure</source>
         <translation>Thử nghiệm Java thất bại</translation>
     </message>
@@ -10680,8 +10750,8 @@ Thông báo này sẽ tiếp tục hiển thị cho đến khi bạn gỡ bỏ n
         <translation>Phiên bản định dạng không xác định!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Đường dẫn trống</translation>
     </message>
@@ -10691,8 +10761,8 @@ Thông báo này sẽ tiếp tục hiển thị cho đến khi bạn gỡ bỏ n
         <translation>Đường dẫn đến JVisualVM không hợp lệ</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>Đường dẫn không tồn tại</translation>
     </message>
@@ -12776,34 +12846,6 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
         <source>Status Details</source>
         <translation>Thông tin Trạng thái</translation>
-    </message>
-</context>
-<context>
-    <name>SymlinkTask</name>
-    <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
-        <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
-        <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
-        <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
-        <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
-        <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

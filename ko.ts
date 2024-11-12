@@ -921,48 +921,38 @@ Some versions of Minecraft may not launch.
 <context>
     <name>ArchiveDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation>Java를 다운로드하는 중</translation>
+        <translation type="vanished">Java를 다운로드하는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation>Java를 추출하는 중</translation>
+        <translation type="vanished">Java를 추출하는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Java를 추출하는 중(TAR 압축 파일은 진행률이 표시되지 않음)</translation>
+        <translation type="vanished">Java를 추출하는 중(TAR 압축 파일은 진행률이 표시되지 않음)</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation>TAR 파일을 열 수 없습니다.</translation>
+        <translation type="vanished">TAR 파일을 열 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation>TAR 파일을 추출할 수 없습니다.</translation>
+        <translation type="vanished">TAR 파일을 추출할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation>ZIP 파일을 열 수 없습니다.</translation>
+        <translation type="vanished">ZIP 파일을 열 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation>ZIP 파일 안에서 파일이 발견되지 않았습니다.</translation>
+        <translation type="vanished">ZIP 파일 안에서 파일이 발견되지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation>압축 파일 유형을 확인할 수 없습니다!</translation>
+        <translation type="vanished">압축 파일 유형을 확인할 수 없습니다!</translation>
     </message>
 </context>
 <context>
@@ -4491,6 +4481,51 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
 </context>
 <context>
+    <name>Java::ArchiveDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished">Java를 다운로드하는 중</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
+        <source>Extracting Java</source>
+        <translation type="unfinished">Java를 추출하는 중</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
+        <source>Extracting Java (Progress is not reported for tar archives)</source>
+        <translation type="unfinished">Java를 추출하는 중(TAR 압축 파일은 진행률이 표시되지 않음)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
+        <source>Unable to open supplied tar file.</source>
+        <translation type="unfinished">TAR 파일을 열 수 없습니다.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
+        <source>Unable to extract supplied tar file.</source>
+        <translation type="unfinished">TAR 파일을 추출할 수 없습니다.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
+        <source>Unable to open supplied zip file.</source>
+        <translation type="unfinished">ZIP 파일을 열 수 없습니다.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
+        <source>No files were found in the supplied zip file.</source>
+        <translation type="unfinished">ZIP 파일 안에서 파일이 발견되지 않았습니다.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
+        <source>Could not determine archive type!</source>
+        <translation type="unfinished">압축 파일 유형을 확인할 수 없습니다!</translation>
+    </message>
+</context>
+<context>
     <name>Java::InstallDialog</name>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
@@ -4543,6 +4578,42 @@ Please make sure that the maximum memory value is lower.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
         <translation>중단</translation>
+    </message>
+</context>
+<context>
+    <name>Java::ManifestDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished">Java를 다운로드하는 중</translation>
+    </message>
+</context>
+<context>
+    <name>Java::SymlinkTask</name>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
+        <source>Checking for Java binary path</source>
+        <translation type="unfinished">Java 바이너리 경로 확인 중</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
+        <source>Searching for Java binary path</source>
+        <translation type="unfinished">Java 바이너리 경로를 검색하는 중</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
+        <source>Failed to find Java binary path</source>
+        <translation type="unfinished">Java 바이너리 경로를 찾지 못함</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
+        <source>Collecting folders to symlink</source>
+        <translation type="unfinished">심볼릭 링크할 폴더를 수집하는 중</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
+        <source>Symlinking Java binary path</source>
+        <translation type="unfinished">Java 바이너리 경로를 심볼릭 링크하는 중</translation>
     </message>
 </context>
 <context>
@@ -6100,8 +6171,8 @@ Reason:
         <translation>마지막으로</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>마인크래프트 로그</translation>
     </message>
@@ -7674,9 +7745,8 @@ This can be updated only using a file in %1 format
 <context>
     <name>ManifestDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Java를 다운로드하는 중</translation>
+        <translation type="vanished">Java를 다운로드하는 중</translation>
     </message>
 </context>
 <context>
@@ -10908,16 +10978,16 @@ Are you sure?</source>
         <translation>Java 테스트 성공!&lt;br /&gt;보고된 플랫폼: %1&lt;br /&gt;보고된 Java 버전: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test success</source>
         <translation>Java 테스트 성공</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test failure</source>
         <translation>Java 테스트 실패</translation>
     </message>
@@ -11169,8 +11239,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>알 수 없는 포맷 버전!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>빈 경로</translation>
     </message>
@@ -11180,8 +11250,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>유효하지 않은 JVisualVM 경로</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>존재하지 않는 경로</translation>
     </message>
@@ -13347,29 +13417,24 @@ Are you sure?</source>
 <context>
     <name>SymlinkTask</name>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation>Java 바이너리 경로 확인 중</translation>
+        <translation type="vanished">Java 바이너리 경로 확인 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation>Java 바이너리 경로를 검색하는 중</translation>
+        <translation type="vanished">Java 바이너리 경로를 검색하는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation>Java 바이너리 경로를 찾지 못함</translation>
+        <translation type="vanished">Java 바이너리 경로를 찾지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation>심볼릭 링크할 폴더를 수집하는 중</translation>
+        <translation type="vanished">심볼릭 링크할 폴더를 수집하는 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation>Java 바이너리 경로를 심볼릭 링크하는 중</translation>
+        <translation type="vanished">Java 바이너리 경로를 심볼릭 링크하는 중</translation>
     </message>
 </context>
 <context>

@@ -879,48 +879,38 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
 <context>
     <name>ArchiveDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation>I-dinodownload ang Java</translation>
+        <translation type="vanished">I-dinodownload ang Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation type="unfinished">Ine-extract ang java</translation>
+        <translation type="obsolete">Ine-extract ang java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Ine-extract ang Java (Hindi na inuulat ang progreso para sa tar archive)</translation>
+        <translation type="vanished">Ine-extract ang Java (Hindi na inuulat ang progreso para sa tar archive)</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation>Hindi mabuksan ang tar file.</translation>
+        <translation type="vanished">Hindi mabuksan ang tar file.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Hindi mabuksan ang nabigay na tar file.</translation>
+        <translation type="vanished">Hindi mabuksan ang nabigay na tar file.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation>Hindi mabuksan ang zip file.</translation>
+        <translation type="vanished">Hindi mabuksan ang zip file.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation type="unfinished">Walang nakitang files sa loob ng zip file,</translation>
+        <translation type="obsolete">Walang nakitang files sa loob ng zip file,</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation>Hindi matukoy ang uri ng archive!</translation>
+        <translation type="vanished">Hindi matukoy ang uri ng archive!</translation>
     </message>
 </context>
 <context>
@@ -4012,6 +4002,51 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
 </context>
 <context>
+    <name>Java::ArchiveDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished">I-dinodownload ang Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
+        <source>Extracting Java</source>
+        <translation type="unfinished">Ine-extract ang java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
+        <source>Extracting Java (Progress is not reported for tar archives)</source>
+        <translation type="unfinished">Ine-extract ang Java (Hindi na inuulat ang progreso para sa tar archive)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
+        <source>Unable to open supplied tar file.</source>
+        <translation type="unfinished">Hindi mabuksan ang tar file.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
+        <source>Unable to extract supplied tar file.</source>
+        <translation type="unfinished">Hindi mabuksan ang nabigay na tar file.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
+        <source>Unable to open supplied zip file.</source>
+        <translation type="unfinished">Hindi mabuksan ang zip file.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
+        <source>No files were found in the supplied zip file.</source>
+        <translation type="unfinished">Walang nakitang files sa loob ng zip file,</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
+        <source>Could not determine archive type!</source>
+        <translation type="unfinished">Hindi matukoy ang uri ng archive!</translation>
+    </message>
+</context>
+<context>
     <name>Java::InstallDialog</name>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
@@ -4064,6 +4099,42 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
         <translation>I-pigil</translation>
+    </message>
+</context>
+<context>
+    <name>Java::ManifestDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished">I-dinodownload ang Java</translation>
+    </message>
+</context>
+<context>
+    <name>Java::SymlinkTask</name>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
+        <source>Checking for Java binary path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
+        <source>Searching for Java binary path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
+        <source>Failed to find Java binary path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
+        <source>Collecting folders to symlink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
+        <source>Symlinking Java binary path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5441,8 +5512,8 @@ Reason:
         <translation>Pinaka-baba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Log ng Minecraft</translation>
     </message>
@@ -6678,9 +6749,8 @@ Ma-uupdate lang ito gamit ng file sa format ng %1
 <context>
     <name>ManifestDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>I-dinodownload ang Java</translation>
+        <translation type="vanished">I-dinodownload ang Java</translation>
     </message>
 </context>
 <context>
@@ -9177,8 +9247,8 @@ Choose your name carefully:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9188,8 +9258,8 @@ Choose your name carefully:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9316,16 +9386,16 @@ Choose your name carefully:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test failure</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test success</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11503,34 +11573,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
         <source>Status Details</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SymlinkTask</name>
-    <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
-        <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
-        <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
-        <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
-        <source>Collecting folders to symlink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
-        <source>Symlinking Java binary path</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

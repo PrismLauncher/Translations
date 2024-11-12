@@ -909,48 +909,38 @@ Vissa versioner av Minecraft kanske inte startar.
 <context>
     <name>ArchiveDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation>Laddar ner Java</translation>
+        <translation type="vanished">Laddar ner Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation>Packar upp Java</translation>
+        <translation type="vanished">Packar upp Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Packar upp Java (Framsteg rapporteras inte för tar-arkiv)</translation>
+        <translation type="vanished">Packar upp Java (Framsteg rapporteras inte för tar-arkiv)</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation>Det gick inte att öppna den medföljande tar-filen.</translation>
+        <translation type="vanished">Det gick inte att öppna den medföljande tar-filen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Det gick inte att packa upp den medföljande tar-filen.</translation>
+        <translation type="vanished">Det gick inte att packa upp den medföljande tar-filen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation>Det gick inte att öppna den medföljande zip-filen.</translation>
+        <translation type="vanished">Det gick inte att öppna den medföljande zip-filen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation>Inga filer hittades i den medföljande zip-filen.</translation>
+        <translation type="vanished">Inga filer hittades i den medföljande zip-filen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation>Det gick inte att fastställa arkivtyp!</translation>
+        <translation type="vanished">Det gick inte att fastställa arkivtyp!</translation>
     </message>
 </context>
 <context>
@@ -4478,6 +4468,51 @@ Se till att det maximala minnesvärdet är lägre.</translation>
     </message>
 </context>
 <context>
+    <name>Java::ArchiveDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished">Laddar ner Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
+        <source>Extracting Java</source>
+        <translation type="unfinished">Packar upp Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
+        <source>Extracting Java (Progress is not reported for tar archives)</source>
+        <translation type="unfinished">Packar upp Java (Framsteg rapporteras inte för tar-arkiv)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
+        <source>Unable to open supplied tar file.</source>
+        <translation type="unfinished">Det gick inte att öppna den medföljande tar-filen.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
+        <source>Unable to extract supplied tar file.</source>
+        <translation type="unfinished">Det gick inte att packa upp den medföljande tar-filen.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
+        <source>Unable to open supplied zip file.</source>
+        <translation type="unfinished">Det gick inte att öppna den medföljande zip-filen.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
+        <source>No files were found in the supplied zip file.</source>
+        <translation type="unfinished">Inga filer hittades i den medföljande zip-filen.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
+        <source>Could not determine archive type!</source>
+        <translation type="unfinished">Det gick inte att fastställa arkivtyp!</translation>
+    </message>
+</context>
+<context>
     <name>Java::InstallDialog</name>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
@@ -4530,6 +4565,42 @@ Se till att det maximala minnesvärdet är lägre.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
+    </message>
+</context>
+<context>
+    <name>Java::ManifestDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished">Laddar ner Java</translation>
+    </message>
+</context>
+<context>
+    <name>Java::SymlinkTask</name>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
+        <source>Checking for Java binary path</source>
+        <translation type="unfinished">Kontrollerar Java binär sökväg</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
+        <source>Searching for Java binary path</source>
+        <translation type="unfinished">Söker efter Java binär sökväg</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
+        <source>Failed to find Java binary path</source>
+        <translation type="unfinished">Misslyckades att hitta Java binär sökväg</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
+        <source>Collecting folders to symlink</source>
+        <translation type="unfinished">Samlar mappar till symbollänk</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
+        <source>Symlinking Java binary path</source>
+        <translation type="unfinished">Skapar symbolisk länk till Java binär sökväg</translation>
     </message>
 </context>
 <context>
@@ -6109,8 +6180,8 @@ Anledning:
         <translation>Till slutet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Minecraft-logg</translation>
     </message>
@@ -7623,9 +7694,8 @@ Detta kan endast uppdateras med en fil i formatet %1
 <context>
     <name>ManifestDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Laddar ner Java</translation>
+        <translation type="vanished">Laddar ner Java</translation>
     </message>
 </context>
 <context>
@@ -10824,16 +10894,16 @@ Du bör dubbelkolla att det inte innehåller personlig information.
         <translation>Javatestet lyckades!&lt;br /&gt;Plattform rapporterad: %1&lt;br /&gt;Java-version rapporterad: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test success</source>
         <translation>Javatest lyckades</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test failure</source>
         <translation>Javatest misslyckades</translation>
     </message>
@@ -11085,8 +11155,8 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
         <translation>Okänd formatversion!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Sökvägen är tom</translation>
     </message>
@@ -11096,8 +11166,8 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
         <translation>Ingen giltig installation av JVisualVM hittades på sökvägen</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>Sökvägen existerar inte</translation>
     </message>
@@ -13257,29 +13327,24 @@ Are you sure?</source>
 <context>
     <name>SymlinkTask</name>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation>Kontrollerar Java binär sökväg</translation>
+        <translation type="vanished">Kontrollerar Java binär sökväg</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation>Söker efter Java binär sökväg</translation>
+        <translation type="vanished">Söker efter Java binär sökväg</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation>Misslyckades att hitta Java binär sökväg</translation>
+        <translation type="vanished">Misslyckades att hitta Java binär sökväg</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation>Samlar mappar till symbollänk</translation>
+        <translation type="vanished">Samlar mappar till symbollänk</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation>Skapar symbolisk länk till Java binär sökväg</translation>
+        <translation type="vanished">Skapar symbolisk länk till Java binär sökväg</translation>
     </message>
 </context>
 <context>

@@ -933,48 +933,38 @@ Niektóre wersje Minecrafta mogą się nie załadować.
 <context>
     <name>ArchiveDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation>Pobieranie Java</translation>
+        <translation type="vanished">Pobieranie Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
         <oldsource>Extracting java</oldsource>
-        <translation>Rozpakowywanie Java&apos;y</translation>
+        <translation type="vanished">Rozpakowywanie Java&apos;y</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation>Wypakowywanie Java (Proces nie jest zapisywany w archiwach tar)</translation>
+        <translation type="vanished">Wypakowywanie Java (Proces nie jest zapisywany w archiwach tar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation>Błąd otwierania dostarczonego pliku tar.</translation>
+        <translation type="vanished">Błąd otwierania dostarczonego pliku tar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation>Błąd wypakowywania dostarczonego pliku tar.</translation>
+        <translation type="vanished">Błąd wypakowywania dostarczonego pliku tar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation>Błąd otwierania dostarczonego pliku zip.</translation>
+        <translation type="vanished">Błąd otwierania dostarczonego pliku zip.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
         <oldsource>No files were found in the supplied zip file,</oldsource>
-        <translation>Nie znaleziono żadnych plików w dostarczonym pliku zip.</translation>
+        <translation type="vanished">Nie znaleziono żadnych plików w dostarczonym pliku zip.</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation>Nie można ustalić typu archiwum!</translation>
+        <translation type="vanished">Nie można ustalić typu archiwum!</translation>
     </message>
 </context>
 <context>
@@ -4556,6 +4546,51 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     </message>
 </context>
 <context>
+    <name>Java::ArchiveDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
+        <source>Extracting Java</source>
+        <translation type="unfinished">Rozpakowywanie Java&apos;y</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
+        <source>Extracting Java (Progress is not reported for tar archives)</source>
+        <translation type="unfinished">Wypakowywanie Java (Proces nie jest zapisywany w archiwach tar)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
+        <source>Unable to open supplied tar file.</source>
+        <translation type="unfinished">Błąd otwierania dostarczonego pliku tar.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
+        <source>Unable to extract supplied tar file.</source>
+        <translation type="unfinished">Błąd wypakowywania dostarczonego pliku tar.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
+        <source>Unable to open supplied zip file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
+        <source>No files were found in the supplied zip file.</source>
+        <translation type="unfinished">Nie znaleziono żadnych plików w dostarczonym pliku zip.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
+        <source>Could not determine archive type!</source>
+        <translation type="unfinished">Nie można ustalić typu archiwum!</translation>
+    </message>
+</context>
+<context>
     <name>Java::InstallDialog</name>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="197"/>
@@ -4608,6 +4643,42 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
+    </message>
+</context>
+<context>
+    <name>Java::ManifestDownloadTask</name>
+    <message>
+        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
+        <source>Downloading Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Java::SymlinkTask</name>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
+        <source>Checking for Java binary path</source>
+        <translation type="unfinished">Sprawdzanie ścieżki do pliku Javy</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
+        <source>Searching for Java binary path</source>
+        <translation type="unfinished">Wyszukiwanie pliku Javy</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
+        <source>Failed to find Java binary path</source>
+        <translation type="unfinished">Nie udało się znaleźć pliku Javy</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
+        <source>Collecting folders to symlink</source>
+        <translation type="unfinished">Zbieranie folderów do symlinkowania</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
+        <source>Symlinking Java binary path</source>
+        <translation type="unfinished">Symlinkowanie ścieżki do pliku Javy</translation>
     </message>
 </context>
 <context>
@@ -6189,8 +6260,8 @@ Powód:
         <translation>Na dół</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
         <translation>Log Minecraft</translation>
     </message>
@@ -7802,9 +7873,8 @@ Może być aktualizowana tylko przy użyciu pliku w formacie %1.
 <context>
     <name>ManifestDownloadTask</name>
     <message>
-        <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation>Pobieranie Javy</translation>
+        <translation type="vanished">Pobieranie Javy</translation>
     </message>
 </context>
 <context>
@@ -11099,16 +11169,16 @@ Jesteś tego pewien?</translation>
         <translation>Test Java&apos;y zakończony sukcesem!&lt;br /&gt;Zgłoszona platforma: %1&lt;br /&gt;Zgłoszona wersja Java: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="79"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test success</source>
         <translation>Test Java&apos;y zakończony sukcesem</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <location filename="src/launcher/JavaCommon.cpp" line="89"/>
         <location filename="src/launcher/JavaCommon.cpp" line="98"/>
         <location filename="src/launcher/JavaCommon.cpp" line="105"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="410"/>
         <source>Java test failure</source>
         <translation>Test Java&apos;y zakończony porażką</translation>
     </message>
@@ -11360,8 +11430,8 @@ Ten komunikat będzie wyświetlany, dopóki nie usuniesz tego argumentu JVM.</tr
         <translation>Nieznany format wersji!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="86"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="80"/>
         <source>Empty path</source>
         <translation>Pusta ścieżka</translation>
     </message>
@@ -11371,8 +11441,8 @@ Ten komunikat będzie wyświetlany, dopóki nie usuniesz tego argumentu JVM.</tr
         <translation>Nieprawidłowa ścieżka JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="91"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="35"/>
         <source>Path does not exist</source>
         <translation>Ścieżka nie istnieje</translation>
     </message>
@@ -13538,29 +13608,24 @@ Jesteś sure(nięty)?</translation>
 <context>
     <name>SymlinkTask</name>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation>Sprawdzanie ścieżki do pliku Javy</translation>
+        <translation type="vanished">Sprawdzanie ścieżki do pliku Javy</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation>Wyszukiwanie pliku Javy</translation>
+        <translation type="vanished">Wyszukiwanie pliku Javy</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation>Nie udało się znaleźć pliku Javy</translation>
+        <translation type="vanished">Nie udało się znaleźć pliku Javy</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation>Zbieranie folderów do symlinkowania</translation>
+        <translation type="vanished">Zbieranie folderów do symlinkowania</translation>
     </message>
     <message>
-        <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation>Symlinkowanie ścieżki do pliku Javy</translation>
+        <translation type="vanished">Symlinkowanie ścieżki do pliku Javy</translation>
     </message>
 </context>
 <context>
