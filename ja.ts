@@ -2476,7 +2476,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
-        <translation>modのメタデータをテキストにして出力</translation>
+        <translation>Modのメタデータをテキストにエクスポートします</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -2484,11 +2484,11 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したアイテムを無効化</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
-        <translation>選択したModのWebページを開く</translation>
+        <translation>選択したModのホームページを開きます</translation>
     </message>
     <message>
         <source>Remove metadata</source>
@@ -2872,7 +2872,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation>リソースの新しいアップデートが利用可能ですが、CurseForgeを使用してダウンロードできません。</translation>
+        <translation>リソースの新しいアップデートが利用可能ですが、CurseForgeからはダウンロードできません。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
@@ -2886,16 +2886,16 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForgeのModを準備中…</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>現在のゲームバージョンのこのmodローダー向けに有効なバージョンが見つかりません。</translation>
+        <translation>このModに有効なバージョンが見つかりませんでした。現在のゲームバージョンとModローダーでは利用できません。</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>より新しいバージョンがありますが、CurseForgeからダウンロードできません。</translation>
+        <translation>Modの新しいアップデートが利用可能ですが、CurseForgeからはダウンロードできません。</translation>
     </message>
 </context>
 <context>
@@ -3164,7 +3164,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">フィルター</translation>
+        <translation>フィルター</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -4360,44 +4360,44 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Javaをダウンロード中</translation>
+        <translation>Javaをダウンロード中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Javaを展開中</translation>
+        <translation>Javaを展開中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Javaを展開中 (tarアーカイブの進行状況は報告されません)</translation>
+        <translation>Javaを展開中 (tarアーカイブの進行状況は報告されません)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">提供されたtarファイルを開けません。</translation>
+        <translation>提供されたtarファイルを開けません。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">提供されたtarファイルを展開できません。</translation>
+        <translation>提供されたtarファイルを展開できません。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>提供されたzipファイルを開けません。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">提供されたzipファイルにファイルが見つかりませんでした。</translation>
+        <translation>提供されたzipファイルにファイルが見つかりませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">アーカイブの種類を特定できませんでした！</translation>
+        <translation>アーカイブの種類を判別できませんでした！</translation>
     </message>
 </context>
 <context>
@@ -4441,7 +4441,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <source>Could not determine Java download type!</source>
-        <translation>Java のダウンロードの種類を決定できませんでした！</translation>
+        <translation>Javaダウンロードの種類を判別できませんでした！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
@@ -4460,7 +4460,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Javaをダウンロード中</translation>
+        <translation>Javaをダウンロード中</translation>
     </message>
 </context>
 <context>
@@ -4468,27 +4468,27 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Javaバイナリのパスを確認中</translation>
+        <translation>Javaバイナリのパスを確認中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Javaバイナリのパスを検索中</translation>
+        <translation>Javaバイナリのパスを検索中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Javaバイナリのパスの検索に失敗しました</translation>
+        <translation>Javaバイナリのパスの検索に失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">シンボリックリンクするフォルダを収集中</translation>
+        <translation>シンボリックリンクするフォルダを収集中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Javaバイナリのパスをシンボリックリンク中</translation>
+        <translation>Javaバイナリのパスをシンボリックリンク中</translation>
     </message>
 </context>
 <context>
@@ -5009,7 +5009,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>アカウントが失効したため、手動でログインし直す必要があります。</translation>
+        <translation>アカウントの有効期限が切れたため、手動でログインし直す必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="324"/>
@@ -5697,7 +5697,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>展開したMinecraftの移動に失敗しました！</translation>
     </message>
 </context>
 <context>
@@ -5897,7 +5897,7 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation>このmod用のインデックスをアップデートしています:
+        <translation>Modのインデックスを更新中:
 %1</translation>
     </message>
     <message>
@@ -8154,7 +8154,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Modがどこからダウンロードされたか。</translation>
+        <translation>Modのダウンロード元。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8261,7 +8261,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Add a locally downloaded file</source>
-        <translation>手動でダウンロードしたModファイルを追加</translation>
+        <translation>手動でダウンロードしたModファイルを追加します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
@@ -8280,7 +8280,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>選択したMod（未選択の場合は全て）のアップデートと依存関係を確認します</translation>
+        <translation>選択したすべてのModのアップデートと依存関係を確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
@@ -8290,23 +8290,23 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>ModのWebページを開く</translation>
+        <translation>Modのホームページを開く</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
-        <translation>選択したModのメタデータを削除</translation>
+        <translation>選択したModのメタデータを削除します</translation>
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>アップデート用のメタデータをリセット</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">バージョンを変更</translation>
+        <translation>バージョンを変更</translation>
     </message>
     <message>
         <source>Change mod version</source>
-        <translation type="unfinished"></translation>
+        <translation>Modのバージョンを変更します</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -8318,7 +8318,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to the pages of the selected mods</source>
-        <translation>選択したModのWebページを開きます</translation>
+        <translation>選択したModのホームページを開きます</translation>
     </message>
     <message>
         <source>Remove mods&apos; metadata</source>
@@ -8511,19 +8511,19 @@ Are you sure you want to do this?</source>
     <name>ModUpdateDialog</name>
     <message>
         <source>Confirm mods to update</source>
-        <translation>アップデートするmodを確認</translation>
+        <translation>アップデートするModの確認</translation>
     </message>
     <message>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>以下のmodをアップデートします。</translation>
+        <translation>以下のModをアップデートしようとしています。</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>チェックされたmodがアップデートされます！</translation>
+        <translation>チェックが入っているModのみがアップデートされます！</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>modの名前 : %1&lt;br&gt;ファイル名: %2&lt;br&gt;理由 : %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Modの名前: %1&lt;br&gt;ファイル名: %2&lt;br&gt;理由: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
@@ -8531,7 +8531,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>以下のmodでメタデータが生成できませんでした: &lt;br&gt;これらのmodを抜いて続行しますか？</translation>
+        <translation>以下のModのメタデータを生成できませんでした: &lt;br&gt;これらのMod以外で続行しますか？</translation>
     </message>
     <message>
         <source>Checking for updates</source>
@@ -8555,7 +8555,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation>Modの名前 : %1</translation>
+        <translation>Modの名前: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
@@ -8564,31 +8564,31 @@ Are you sure you want to do this?</source>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>考えうる解決策: 最新バージョンを手動で取得する:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>考えられる解決策: 最新バージョンを手動で取得する:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>依存関係を確認しています…</translation>
+        <translation>依存関係を確認中...</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>「%1」のメタデータが見つかりません。このmodをアップデートをするために生成する必要があります。使用するmodプロバイダを選択してください。</translation>
+        <translation>Mod「%1」のメタデータがありません。このModをアップデートするにはメタデータを生成する必要があります。これを行うには、アップデートするために使用するMod提供元を選択してください。</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>選択されたmod プロバイダで有効なバージョンが見つけられませんでした</translation>
+        <translation>選択されたMod提供元で有効なバージョンが見つかりませんでした</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation>アップデートの確認に失敗しました</translation>
+        <translation>アップデートの確認に失敗</translation>
     </message>
     <message>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>これらのmodでアップデートの確認または取得ができませんでした。 &lt;br&gt; これらのmodを除いてアップデートしますか？</translation>
+        <translation>以下のModのアップデートを確認または取得できませんでした:&lt;br&gt;これらのMod以外で続行しますか？</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation>メタデータを探しています</translation>
+        <translation>メタデータを検索中</translation>
     </message>
     <message>
         <source>Generating metadata...</source>
@@ -8596,11 +8596,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>すでにインストールされている可能性があるため、このModは無効化されました。</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation>プロバイダ: %1</translation>
+        <translation>提供元: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
@@ -8608,7 +8608,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation>インストールされていない</translation>
+        <translation>未インストール</translation>
     </message>
     <message>
         <source>New version: %1</source>
@@ -8616,19 +8616,19 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation>新しいバージョンタイプ：%1</translation>
+        <translation>新しいバージョンのタイプ: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation>このmodに依存するmod: %1</translation>
+        <translation>依存元: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation>このmodに依存するmod:</translation>
+        <translation>依存元:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation>最新バージョンの更新内容</translation>
+        <translation>最新バージョンの更新履歴</translation>
     </message>
 </context>
 <context>
@@ -8729,7 +8729,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Modrinthのmodを準備中…</translation>
+        <translation>ModrinthのModを準備中…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -8767,7 +8767,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>現在のゲームのバージョンまたはmodローダーのバージョンでこのmodの有効なバージョンが存在しないか、見つかりませんでした。</translation>
+        <translation>このModに有効なバージョンが見つかりませんでした。現在のゲームバージョンとModローダーでは利用できません。</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -8957,7 +8957,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">フィルター</translation>
+        <translation>フィルター</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11078,7 +11078,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">%1のバージョンを変更</translation>
+        <translation>%1のバージョンを変更</translation>
     </message>
 </context>
 <context>
@@ -11161,7 +11161,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
-        <translation>%1 のバージョンを変更</translation>
+        <translation>%1のバージョンを変更</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -11602,7 +11602,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>リソースパックは有効になっているか? (ZIPのみ有効)</translation>
+        <translation>リソースパックが有効になっているか？ (ZIPのみ有効)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
@@ -11628,11 +11628,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download packs</source>
-        <translation>リソースパックをダウンロード</translation>
+        <translation>パックをダウンロード</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>オンライン プラットフォームからリソース パックをダウンロードする</translation>
+        <translation>オンラインプラットフォームからリソース パックをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
@@ -12009,7 +12009,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>すでにインストールされている可能性があるため、このModは無効化されました。</translation>
     </message>
 </context>
 <context>
@@ -12413,7 +12413,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>オンラインプラットフォームからシェーダーをダウンロードする</translation>
+        <translation>オンラインプラットフォームからシェーダーをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13249,7 +13249,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>オンライン プラットフォームからテクスチャ パックをダウンロードする</translation>
+        <translation>オンラインプラットフォームからテクスチャーパックをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
