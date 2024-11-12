@@ -4562,7 +4562,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="215"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="279"/>
@@ -5882,7 +5882,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Nie udało się przenieść rozpakowanego Minecraft&apos;a!</translation>
+        <translation>Nie udało się przenieść rozpakowanego Minecrafta!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -8666,7 +8666,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished">Eksportuj metadane moda do tekstu.</translation>
+        <translation>Eksportuj metadane moda do tekstu.</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
@@ -9210,7 +9210,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
         <source>Not installed</source>
-        <translation type="unfinished">Nie zainstalowane</translation>
+        <translation>Nie zainstalowane</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="147"/>
@@ -9225,7 +9225,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="191"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Nie znaleziono poprawnej wersji dla tego zasobu. Prawdopodobnie jest niedostępny dla obecnej wersji gry.</translation>
+        <translation>Nie znaleziono poprawnej wersji dla tego zasobu. Prawdopodobnie jest niedostępny dla obecnej wersji gry.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -9454,7 +9454,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
         <source>Filter options</source>
-        <translation type="unfinished">Opcje filtrowania</translation>
+        <translation>Opcje filtrowania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="26"/>
@@ -9695,12 +9695,12 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.cpp" line="72"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9729,17 +9729,17 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="112"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="118"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="124"/>
         <source>Help</source>
-        <translation type="unfinished">Pomoc</translation>
+        <translation>Pomoc</translation>
     </message>
 </context>
 <context>
@@ -11069,13 +11069,13 @@ Jesteś tego pewien?</translation>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="381"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Określony plik binarny Java nie został poprawnie uruchomiony.&lt;br /&gt;</translation>
+        <translation>Określony plik binarny Java nie został poprawnie uruchomiony.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="391"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Określony plik binarny Java zwrócił nieoczekiwane wyniki:&lt;br /&gt;</translation>
+        <translation>Określony plik binarny Java zwrócił nieoczekiwane wyniki:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="401"/>
@@ -11752,7 +11752,7 @@ Czy na pewno chcesz zamknąć to okno?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="394"/>
         <source>Change %1 version</source>
-        <translation type="unfinished">Zmień wersję %1</translation>
+        <translation>Zmień wersję %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -11935,7 +11935,7 @@ Zaktualizuj %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="476"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="495"/>
@@ -12059,7 +12059,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
         <source>Provider</source>
-        <translation type="unfinished">Dostawca</translation>
+        <translation>Dostawca</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -12139,7 +12139,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
         <source>Provider</source>
-        <translation type="unfinished">Dostawca</translation>
+        <translation>Dostawca</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="80"/>
@@ -12245,7 +12245,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="71"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Zmień wersję modyfikacji.</translation>
+        <translation>Zmień wersję modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="94"/>
@@ -12294,7 +12294,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="133"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potwierdź aktualizację</translation>
+        <translation>Potwierdź Aktualizację</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="134"/>
@@ -12313,7 +12313,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; jest w najnowszej wersji! :)</translation>
+        <translation>&apos;%1&apos; jest w najnowszej wersji! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
@@ -12328,12 +12328,12 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
         <source>Update checker</source>
-        <translation type="unfinished">Sprawdzacz aktualizacji</translation>
+        <translation>Sprawdzacz aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="208"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potwierdź usunięcie</translation>
+        <translation>Potwierdź Usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
@@ -12380,12 +12380,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Nazwa modyfikacji: %1&lt;br&gt;Nazwa pliku: %2&lt;br&gt;Powód: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Nazwa modyfikacji: %1&lt;br&gt;Nazwa pliku: %2&lt;br&gt;Powód: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">Generowanie metadanych nieudane</translation>
+        <translation>Nie udało się generowanie metadanych</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
@@ -12395,7 +12395,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="93"/>
         <source>Checking for updates</source>
-        <translation type="unfinished">Sprawdzanie aktualizacji</translation>
+        <translation>Sprawdzanie aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="114"/>
@@ -12404,7 +12404,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="359"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
@@ -12422,28 +12422,28 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Sprawdzanie aktualizacji...</translation>
+        <translation>Sprawdzanie aktualizacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="172"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Nazwa modyfikacji: %1</translation>
+        <translation>Nazwa modyfikacji: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="174"/>
         <source>Reason: %1</source>
-        <translation type="unfinished">Powód: %1</translation>
+        <translation>Powód: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">Możliwe rozwiązanie: Dodanie najnowszej wersji ręcznie:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Możliwe rozwiązanie: Wybierz najnowszą wersję gry ręcznie:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished">Nie udało się sprawdzić aktualizacji</translation>
+        <translation>Nie udało się sprawdzić aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
@@ -12458,12 +12458,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
         <source>Not installed</source>
-        <translation type="unfinished">Nie zainstalowane</translation>
+        <translation>Nie jest zainstalowane</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="272"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Szukanie metadanych</translation>
+        <translation>Szukanie metadanych</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
@@ -12473,7 +12473,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Generowanie metadanych...</translation>
+        <translation>Generowanie metadanych...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="418"/>
