@@ -2540,7 +2540,7 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewähltes Element deaktivieren</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2942,7 +2942,7 @@ Bitte versuche es erneut.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods für CurseForge werden vorbereitet...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4546,44 +4546,44 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java wird heruntergeladen</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Java wird entpackt</translation>
+        <translation>Java wird entpackt</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Entpacke Java (Fortschritt wird bei tar-Archiven nicht gemeldet)</translation>
+        <translation>Entpacke Java (Fortschritt wird bei tar-Archiven nicht gemeldet)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Die tar-Datei kann nicht geöffnet werden.</translation>
+        <translation>Die tar-Datei kann nicht geöffnet werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Tar-Datei kann nicht entpackt werden.</translation>
+        <translation>Die tar-Datei kann nicht entpackt werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die bereitgestellte Zip-Datei konnte nicht geöffnet werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">In der angegebenen Zip-Datei sind keine Dateien gefunden wurden.</translation>
+        <translation>In der angegebenen Zip-Datei sind keine Dateien gefunden worden.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Archiv-Typ konnte nicht festgestellt werden!</translation>
+        <translation>Archiv-Typ konnte nicht festgestellt werden!</translation>
     </message>
 </context>
 <context>
@@ -4646,7 +4646,7 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java wird heruntergeladen</translation>
     </message>
 </context>
 <context>
@@ -4654,27 +4654,27 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Prüfe auf ausführbaren Java Pfad</translation>
+        <translation>Prüfe auf ausführbaren Java-Pfad</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Suche nach ausführbaren Java Pfad</translation>
+        <translation>Suche nach ausführbaren Java-Pfad</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Ausführbarer Java Pfad konnte nicht gefunden werden</translation>
+        <translation>Ausführbarer Java-Pfad konnte nicht gefunden werden</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Sammle Ordner zur symbolischen Verknüpfung</translation>
+        <translation>Sammle Ordner zur symbolischen Verknüpfung</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Erstelle eine Symbolische Verknüpfung zum ausführbaren Java Pfad</translation>
+        <translation>Erstelle eine Symbolische Verknüpfung zum ausführbaren Java-Pfad</translation>
     </message>
 </context>
 <context>
@@ -5966,7 +5966,7 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim verschieben vom entpackten Minecraft!</translation>
     </message>
 </context>
 <context>
@@ -8729,7 +8729,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Update-Metadaten zurücksetzen</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12687,7 +12687,7 @@ Bist du sicher?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Mod wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
+        <translation>Mod wurde deaktiviert, da diese möglicherweise schon installiert ist.</translation>
     </message>
 </context>
 <context>
