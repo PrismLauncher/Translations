@@ -2542,7 +2542,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshabilitar el elemento seleccionado</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2944,7 +2944,7 @@ Por favor, inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando mods para CurseForge…</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -5864,7 +5864,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se pudo mover Minecraft descomprimido!</translation>
     </message>
 </context>
 <context>
@@ -8649,7 +8649,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer metadatos de actualización</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12566,7 +12566,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">El Mod ha sido deshabilitado, debido a que ya se encuentra instalado.</translation>
+        <translation>El Mod ha sido deshabilitado, debido a que ya se encuentra instalado.</translation>
     </message>
 </context>
 <context>
