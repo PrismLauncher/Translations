@@ -1897,7 +1897,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>modsがメタデータを持っているかを確認しています…</translation>
+        <translation>Modにメタデータがあるかどうかを確認中...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2349,7 +2349,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation>選択したアイテムを削除</translation>
+        <translation>選択したものを削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="122"/>
@@ -2358,7 +2358,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Enable selected item</source>
-        <translation>選択したアイテムを有効化</translation>
+        <translation>選択したものを有効化</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="133"/>
@@ -2468,7 +2468,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Download a new resource</source>
-        <translation>新たなリソースをダウンロード中</translation>
+        <translation>新しいリソースをダウンロード中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
@@ -2478,7 +2478,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>選択されたリソースを確認またはアップデートしてください (何も選択していない場合は、全てのリソースを)</translation>
+        <translation>選択したすべてのリソースのアップデートを確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
         <source>Export modlist</source>
