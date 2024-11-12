@@ -51,7 +51,13 @@ jobs:
       - name: Update translations
         run: |
           git clone https://github.com/PrismLauncher/PrismLauncher.git src
-
+          
+          # copy repo and checkout latest tag
+          cp -r src src_stable
+          cd src_stable
+          git checkout -b stable $(git describe --tags $(git rev-list --tags --max-count=1))
+          cd ..
+          
           export LUPDATE_BIN="/usr/lib/qt6/bin/lupdate"
 
           ./update.sh
