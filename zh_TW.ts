@@ -1915,7 +1915,7 @@ Some versions of Minecraft may not launch.
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation>正在檢查模組是否擁有中繼資料...</translation>
+        <translation>正在檢查模組是否擁有中繼資料…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
@@ -2516,7 +2516,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>停用所選項目</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2918,7 +2918,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在為 CurseForge 準備模組…</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4514,44 +4514,44 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">正在下載 Java</translation>
+        <translation>正在下載 Java 檔案</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">正在解壓縮 Java 檔案</translation>
+        <translation>正在解壓縮 Java 檔案</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">正在解壓縮 Java 檔案（tar 封存檔不會顯示進度）</translation>
+        <translation>正在解壓縮 Java 檔案（tar 封存檔不會顯示進度）</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">無法開啟指定的 tar 檔案。</translation>
+        <translation>無法開啟指定的 tar 檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">無法解壓縮指定的 tar 檔案。</translation>
+        <translation>無法解壓縮指定的 tar 檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">無法開啟指定的 zip 檔案。</translation>
+        <translation>無法開啟指定的 zip 檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">在指定的 zip 檔案中找不到任何檔案。</translation>
+        <translation>在指定的 zip 檔案中找不到任何檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">無法判斷壓縮檔類型！</translation>
+        <translation>無法判斷壓縮檔類型！</translation>
     </message>
 </context>
 <context>
@@ -4614,7 +4614,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">正在下載 Java</translation>
+        <translation>正在下載 Java 檔案</translation>
     </message>
 </context>
 <context>
@@ -4622,27 +4622,27 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">正在檢查 Java 二進制檔案路徑</translation>
+        <translation>正在檢查 Java 二進制檔案路徑</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">正在搜尋 Java 二進制檔案路徑</translation>
+        <translation>正在搜尋 Java 二進制檔案路徑</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">找不到 Java 二進制檔案路徑</translation>
+        <translation>找不到 Java 二進制檔案路徑</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">正在收集要建立符號連結的資料夾</translation>
+        <translation>正在收集要建立符號連結的資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">正在建立 Java 二進制檔案路徑的符號連結</translation>
+        <translation>正在建立 Java 二進制檔案路徑的符號連結</translation>
     </message>
 </context>
 <context>
@@ -5930,7 +5930,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>無法移動已解壓縮的 Minecraft！</translation>
     </message>
 </context>
 <context>
@@ -8697,7 +8697,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>重設更新中繼資料</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -9022,7 +9022,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation>檢查更新...</translation>
+        <translation>檢查更新…</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
@@ -9039,7 +9039,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation>正在檢查前置項...</translation>
+        <translation>正在檢查前置項…</translation>
     </message>
     <message>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
@@ -9079,7 +9079,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation>正在生成中繼資料...</translation>
+        <translation>正在生成中繼資料…</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -9228,7 +9228,7 @@ Please update %1!</source>
     <name>ModrinthCheckUpdate</name>
     <message>
         <source>Preparing mods for Modrinth...</source>
-        <translation>正在為 Modrinth 準備模組...</translation>
+        <translation>正在為 Modrinth 準備模組…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -12620,7 +12620,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">可能已安裝相同版本，故此模組被停用。</translation>
+        <translation>可能已安裝相同版本，故此模組被停用。</translation>
     </message>
 </context>
 <context>
