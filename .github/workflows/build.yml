@@ -15,17 +15,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y qt6-l10n-tools gettext
+      - name: Install Nix
+        if: ${{ matrix.use-nix }}
+        uses: DeterminateSystems/nix-installer-action@v15
+
+      - name: Setup Nix cache
+        if: ${{ matrix.use-nix }}
+        uses: DeterminateSystems/magic-nix-cache-action@v8
 
       - name: Build translations
         run: |
-          export LCONVERT_BIN="/usr/lib/qt6/bin/lconvert"
-          export LRELEASE_BIN="/usr/lib/qt6/bin/lrelease"
-          export LUPDATE_BIN="/usr/lib/qt6/bin/lupdate"
-          ./release.sh
+          nix develop . -c ./release.sh
 
       - name: Move directory
         run: |
