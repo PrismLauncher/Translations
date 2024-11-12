@@ -34,11 +34,9 @@ jobs:
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
       - name: Install Nix
-        if: ${{ matrix.use-nix }}
         uses: DeterminateSystems/nix-installer-action@v15
 
       - name: Setup Nix cache
-        if: ${{ matrix.use-nix }}
         uses: DeterminateSystems/magic-nix-cache-action@v8
 
       - name: Prepare
