@@ -2520,7 +2520,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 항목 비활성화</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2878,7 +2878,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="124"/>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation>CurseForge 모드를 준비하는 중...</translation>
+        <translation>CurseForge 리소스를 준비하는 중...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -2922,7 +2922,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge 모드를 준비하는 중...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4485,44 +4485,44 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java를 다운로드하는 중</translation>
+        <translation>Java를 다운로드하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Java를 추출하는 중</translation>
+        <translation>Java를 추출하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Java를 추출하는 중(TAR 압축 파일은 진행률이 표시되지 않음)</translation>
+        <translation>Java를 추출하는 중(TAR 압축 파일은 진행률이 표시되지 않음)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">TAR 파일을 열 수 없습니다.</translation>
+        <translation>TAR 파일을 열 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">TAR 파일을 추출할 수 없습니다.</translation>
+        <translation>TAR 파일을 추출할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">ZIP 파일을 열 수 없습니다.</translation>
+        <translation>ZIP 파일을 열 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">ZIP 파일 안에서 파일이 발견되지 않았습니다.</translation>
+        <translation>ZIP 파일 안에서 파일이 발견되지 않았습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">압축 파일 유형을 확인할 수 없습니다!</translation>
+        <translation>압축 파일 유형을 확인할 수 없습니다!</translation>
     </message>
 </context>
 <context>
@@ -4585,7 +4585,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java를 다운로드하는 중</translation>
+        <translation>Java를 다운로드하는 중</translation>
     </message>
 </context>
 <context>
@@ -4593,27 +4593,27 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Java 바이너리 경로 확인 중</translation>
+        <translation>Java 바이너리 경로 확인 중</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Java 바이너리 경로를 검색하는 중</translation>
+        <translation>Java 바이너리 경로를 검색하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Java 바이너리 경로를 찾지 못함</translation>
+        <translation>Java 바이너리 경로를 찾지 못함</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">심볼릭 링크할 폴더를 수집하는 중</translation>
+        <translation>심볼릭 링크할 폴더를 수집하는 중</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Java 바이너리 경로를 심볼릭 링크하는 중</translation>
+        <translation>Java 바이너리 경로를 심볼릭 링크하는 중</translation>
     </message>
 </context>
 <context>
@@ -5881,7 +5881,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>압축 해제한 마인크래프트를 옮기지 못하였습니다!</translation>
     </message>
 </context>
 <context>
@@ -8620,7 +8620,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 메타데이터 초기화</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12511,7 +12511,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
+        <translation>이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
     </message>
 </context>
 <context>
