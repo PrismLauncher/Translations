@@ -2504,7 +2504,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнути вибраний елемент</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2906,7 +2906,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Підготовка модів для CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4454,44 +4454,44 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Завантаження Java</translation>
+        <translation>Завантаження Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Витягування Java</translation>
+        <translation>Розпакування Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Витягнення Java (для tar-архівів прогрес не повідомляється)</translation>
+        <translation>Розпакування Java (Прогрес не відображається для архівів tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Не вдалося відкрити наданий файл tar.</translation>
+        <translation>Не вдалося відкрити наданий tar файл.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Не вдається розпакувати доданий tar-файл.</translation>
+        <translation>Не вдалося розпакувати наданий tar файл.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Не вдалося відкрити наданий файл zip.</translation>
+        <translation>Не вдалося відкрити наданий zip файл.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">У наданому zip-файлі не знайдено файлів.</translation>
+        <translation>У наданому zip файлі не було знайдено файлів.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Не вдалося визначити тип архіву!</translation>
+        <translation>Не вдалося визначити тип архіву!</translation>
     </message>
 </context>
 <context>
@@ -4554,7 +4554,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Завантаження Java</translation>
+        <translation>Завантаження Java</translation>
     </message>
 </context>
 <context>
@@ -4562,27 +4562,27 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Перевірка шляху до бінарного файлу Java</translation>
+        <translation>Перевірка шляху до виконуваного файлу Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Пошук шляху до бінарного файлу Java</translation>
+        <translation>Пошук шляху до виконуваного файлу Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Не вдалося знайти шлях до бінарного файлу Java</translation>
+        <translation>Не вдалося знайти шлях до виконуваного файлу Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Збір папок для створення символічних посилань</translation>
+        <translation>Збирання папок для створення символічних посилань</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Створення символічного посилання на шлях до бінарного файлу Java</translation>
+        <translation>Створення символічного посилання для шляху до виконуваного файлу Java</translation>
     </message>
 </context>
 <context>
@@ -5836,7 +5836,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося перемістити розпакований Minecraft!</translation>
     </message>
 </context>
 <context>
@@ -8592,7 +8592,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Скинути метадані оновлення</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12444,7 +12444,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Мод було вимкнено, оскільки він може бути вже встановлений.</translation>
+        <translation>Мод був відключений, оскільки він, можливо, вже встановлений.</translation>
     </message>
 </context>
 <context>
