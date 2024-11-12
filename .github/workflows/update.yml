@@ -56,7 +56,7 @@ jobs:
         run: |
           git clone https://github.com/PrismLauncher/PrismLauncher.git src
           # create worktree for latest stable tag
-          git -C src worktree add -b stable ../src_stable $(git rev-list --tags --max-count=1)
+          git -C src worktree add -b stable ../src_stable $(git -C src rev-list --tags --max-count=1)
 
           nix develop . -c ./update.sh
 
