@@ -219,12 +219,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
         <source>Selecting optional mods...</source>
-        <translation>Memilih mod-mod opsional...</translation>
+        <translation>Memilih mod pilihan...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="716"/>
         <source>Downloading mods...</source>
-        <translation>Mengunduh mod-mod...</translation>
+        <translation>Mengunduh mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="719"/>
@@ -259,12 +259,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="921"/>
         <source>Failed to extract mods...</source>
-        <translation>Gagal mengekstraksi mod-mod...</translation>
+        <translation>Gagal mengekstrak mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="931"/>
         <source>Extracting mods...</source>
-        <translation>Mengekstraksi mod-mod...</translation>
+        <translation>Mengekstrak mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
@@ -274,7 +274,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1014"/>
         <source>Failed to create libraries component</source>
-        <translation>Gagal membuat komponen pustaka-pustaka</translation>
+        <translation>Gagal membuat komponen pustaka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1041"/>
@@ -390,7 +390,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="301"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Di luar jaringan</translation>
+        <translation>Luar jaringan</translation>
     </message>
     <message>
         <source>Online</source>
@@ -407,13 +407,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation>Luring</translation>
+        <translation>Luar jaringan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation>Tak diketahui</translation>
+        <translation>Tidak diketahui</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
@@ -425,7 +425,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>Bekerja</translation>
+        <translation>Berfungsi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
@@ -449,7 +449,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="319"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Tidak ada</translation>
+        <translation>Menghilang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="322"/>
@@ -519,7 +519,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Nama pengguna Minecraft yang terasosiasi dengan akun tersebut.</translation>
+        <translation>Nama pengguna Minecraft yang terkait akun tersebut.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -568,7 +568,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>Kosongkan Bawaan (&amp;N)</translation>
+        <translation>Tidak Ada Bawaa&amp;n</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -592,7 +592,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>Atur Skin-skin</translation>
+        <translation>Atur Skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -635,7 +635,7 @@ Jika anda baru disini, anda dapat menekan tombol &quot;Tambah Microsoft&quot; at
         <source>Welcome!
 If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to link your Microsoft account.</source>
         <translation>Selamat datang!
-Jika Anda pertama kali di sini, Anda dapat mengeklik tombol &quot;Tambahkan Microsoft&quot; untuk menyambungkan akun Microsoft Anda.</translation>
+Jika Anda pertama kali di sini, Anda dapat klik tombol &quot;Tambahkan Microsoft&quot; untuk menyambungkan akun Microsoft Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="90"/>
@@ -645,7 +645,7 @@ Jika Anda pertama kali di sini, Anda dapat mengeklik tombol &quot;Tambahkan Micr
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="106"/>
         <source>Context menu</source>
-        <translation>Menu Konteks</translation>
+        <translation>Menu konteks</translation>
     </message>
     <message>
         <source>Add account</source>
@@ -794,7 +794,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
 
 Stempel waktu: %2
 Memperbarui dari versi %3 ke %4
-Path instalasi target: %5
+Path target instalasi: %5
 Path data: %6
 Ini mungkin mengartikan sebuah pembaruan gagal. Mohon memastikan instalasi Anda dapat bekerja sebelum melanjutkan.
 Periksa log pembaru Prism Launcher di: 
@@ -1047,7 +1047,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="352"/>
         <source>No share code specified!</source>
-        <translation>Tidak ada kode bagi yang ditemukan!</translation>
+        <translation>Tidak ada kode bagi yang diberikan!</translation>
     </message>
 </context>
 <context>
@@ -1068,7 +1068,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="22"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Peringatan: Ini masih dalam proses pengerjaan. Jika anda mengalami masalah dengan modpack yang diimpor, itu mungkin sebuah bug.</translation>
+        <translation>Peringatan: Ini masih dalam proses pengerjaan. Jika anda mengalami masalah dengan modpack yang diimpor, mungkin sebuah bug.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="77"/>
@@ -1185,7 +1185,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="143"/>
         <source>Unknown account task state: %1</source>
-        <translation>Status dari tugas tidak diketahui: %1</translation>
+        <translation>Status tugas akun tidak diketahui: %1</translation>
     </message>
 </context>
 <context>
@@ -2476,7 +2476,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan item terpilih</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2878,7 +2878,7 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mempersiapkan mod untuk CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4348,44 +4348,44 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Menunduh Java</translation>
+        <translation>Mengunduh Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Mengekstraksi Java</translation>
+        <translation>Mengekstrak Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Mengekstraksi Java (Kemajuan tidak ditunjukkan untuk arsip tar)</translation>
+        <translation>Mengekstrak Java (Perkembangan tidak ditunjukkan untuk arsip tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Tidak dapat membuka berkas tar.</translation>
+        <translation>Tidak dapat membuka berkas tar yang disediakan.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Tidak dapat mengekstraksi berkas tar.</translation>
+        <translation>Tidak dapat mengekstrak berkas tar yang disediakan.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Tidak dapat membuka berkas zip.</translation>
+        <translation>Tidak dapat membuka berkas zip yang disediakan.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">Tidak ada berkas yang ditemukan dalam berkas zip.</translation>
+        <translation>Tidak ada berkas yang ditemukan dalam berkas zip yang disediakan.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Tidak dapat menentukan jenis arsip!</translation>
+        <translation>Tidak dapat menentukan jenis arsip!</translation>
     </message>
 </context>
 <context>
@@ -4448,7 +4448,7 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Menunduh Java</translation>
+        <translation>Mengunduh Java</translation>
     </message>
 </context>
 <context>
@@ -4456,27 +4456,27 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Memeriksa untuk path biner Java</translation>
+        <translation>Memeriksa path biner Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Mencarikan untuk path biner Java</translation>
+        <translation>Mencarikan path biner Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Gagal menemukan path biner Java</translation>
+        <translation>Gagal menemukan path biner Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Menghimpun folder-folder untuk ditautkan secara simbolis</translation>
+        <translation>Menghimpun folder untuk ditautkan secara simbolis</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Menautkan path biner Java secara simbolis</translation>
+        <translation>Menautkan path biner Java secara simbolis</translation>
     </message>
 </context>
 <context>
@@ -5708,7 +5708,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal memindahkan berkas Minecraft yang belum dizip!</translation>
     </message>
 </context>
 <context>
@@ -8296,7 +8296,7 @@ Peringatan: Sumber daya ini ditaut-keraskan di tempat lain. Menyuntingnya akan m
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Setel metadata pembaruan ke pengaturan awal</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -10250,7 +10250,7 @@ Pilihlah nama Anda dengan hati-hati:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>Hal ini hanya berlaku pada launcher. Minecraft tidak menerima pengaturan proksi.</translation>
+        <translation>Pengaturan ini hanya berlaku pada launcher. Minecraft tidak menerima pengaturan proksi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
@@ -11829,7 +11829,7 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="429"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
+        <translation>Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="435"/>
@@ -11888,7 +11888,7 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
+        <translation>Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
@@ -11947,7 +11947,7 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
+        <translation>Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
     </message>
 </context>
 <context>
