@@ -2284,7 +2284,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation>これはModのメタデータから取得されます。確実に利用するためには、起動構成でアップデートを実行してください。アップデートのインストールは必要ありません。</translation>
+        <translation>これはModのメタデータから取得されます。確実に利用するためには、起動構成でアップデートを実行してメタデータを更新してください。アップデートのインストールは必要ありません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
