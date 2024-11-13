@@ -2511,7 +2511,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="171"/>
         <source>Check for &amp;Updates</source>
-        <translation>Buscar &amp;actualizaciones</translation>
+        <translation>Buscar &amp;Actualizaciones</translation>
     </message>
     <message>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
@@ -6937,7 +6937,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
         <source>Lock Toolbars</source>
-        <translation>Bloquear barra de herramientas</translation>
+        <translation>Bloquear Barra de Herramientas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
