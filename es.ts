@@ -1255,7 +1255,7 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
         <source>Could not determine Java download type!</source>
-        <translation>¡No se ha podido determinar el tipo de descarga de Java!</translation>
+        <translation>¡No se pudo determinar el tipo de descarga de Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
@@ -3867,7 +3867,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="155"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>No se puede abrir el archivo zip del modpack.</translation>
+        <translation>No se puede abrir el archivo zip del modpack proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
@@ -4516,39 +4516,39 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation>Descomprimiendo Java</translation>
+        <translation>Extrayendo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Extracción de Java (no se informa del progreso de los archivos tar)</translation>
+        <translation>Extrayendo Java (no se informa del progreso a los archivos tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">No se puede abrir el archivo tar suministrado.</translation>
+        <translation>No se puede abrir el archivo tar proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation>No se puede descomprimir el archivo tar suministrado.</translation>
+        <translation>No se puede descomprimir el archivo tar proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">No se puede abrir el archivo zip suministrado.</translation>
+        <translation>No se puede abrir el archivo zip proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">No se han encontrado archivos en el archivo zip suministrado.</translation>
+        <translation>No se han encontrado archivos en el archivo zip proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">¡No se pudo determinar el tipo de archivo!</translation>
+        <translation>¡No se pudo determinar el tipo de archivo!</translation>
     </message>
 </context>
 <context>
@@ -4592,7 +4592,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="315"/>
         <source>Could not determine Java download type!</source>
-        <translation>¡No se ha podido determinar el tipo de descarga de Java!</translation>
+        <translation>¡No se pudo determinar el tipo de descarga de Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="316"/>
@@ -4611,7 +4611,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Descargando Java</translation>
+        <translation>Descargando Java</translation>
     </message>
 </context>
 <context>
@@ -4634,12 +4634,12 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Recopilación de carpetas para enlace simbólico</translation>
+        <translation>Recopilación de carpetas para symlink</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Enlace simbólico de la ruta binaria de Java</translation>
+        <translation>Symlinking la ruta binaria de Java</translation>
     </message>
 </context>
 <context>
@@ -6334,7 +6334,7 @@ Motivo:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation>No se puede abrir el archivo zip suministrado.</translation>
+        <translation>No se puede abrir el archivo zip proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
