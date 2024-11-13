@@ -2532,7 +2532,7 @@ Algumas versões do Minecraft podem não iniciar.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar item selecionado</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2934,7 +2934,7 @@ Por favor, tente de novo.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando mods para CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4536,44 +4536,44 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Baixando Java</translation>
+        <translation>Baixando Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Extraindo Java</translation>
+        <translation>Extraindo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Extraindo Java (o progresso não é relatado para arquivos tar)</translation>
+        <translation>Extraindo Java (O progresso não é relatado para arquivos tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Não foi possível abrir o arquivo tar fornecido.</translation>
+        <translation>Não foi possível abrir o arquivo tar fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Não foi possível extrair o arquivo tar fornecido.</translation>
+        <translation>Não foi possível extrair o arquivo tar fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Não foi possível abrir o arquivo zip fornecido.</translation>
+        <translation>Não foi possível abrir o arquivo zip fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">Nenhum arquivo foi encontrado no arquivo zip fornecido.</translation>
+        <translation>Nenhum arquivo foi encontrado no arquivo zip fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Não foi possível determinar o tipo de arquivo!</translation>
+        <translation>Não foi possível determinar o tipo de arquivo!</translation>
     </message>
 </context>
 <context>
@@ -4636,7 +4636,7 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Baixando Java</translation>
+        <translation>Baixando Java</translation>
     </message>
 </context>
 <context>
@@ -4644,27 +4644,27 @@ Certifique-se de que o valor máximo de memória seja menor.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Checando o caminho do Java</translation>
+        <translation>Verificando o caminho binário do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Procurando o caminho do executável do Java</translation>
+        <translation>Procurando o caminho binário do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Não foi possível encontrar o caminho do executável do Java</translation>
+        <translation>Falha ao encontrar o caminho binário do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Encontrando pastas para o symlink</translation>
+        <translation>Coletando pastas para link simbólico</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Link simbólico do caminho binário do Java</translation>
+        <translation>Link simbólico do caminho binário Java</translation>
     </message>
 </context>
 <context>
@@ -5956,7 +5956,7 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao mover o Minecraft descompactado!</translation>
     </message>
 </context>
 <context>
@@ -8739,7 +8739,7 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir Metadados de Atualização</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -9105,7 +9105,7 @@ Por favor atualize o %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>O mod foi desabilitado, pois ele já pode estar instalado.</translation>
+        <translation>O mod foi desabilitado, pois ele pode já estar instalado.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -12542,7 +12542,7 @@ Tem certeza?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="429"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation>O mod foi desativado porque pode já estar instalado.</translation>
+        <translation>O mod foi desabilitado, pois ele pode já estar instalado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="435"/>
@@ -12613,7 +12613,7 @@ Tem certeza?</translation>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation>O mod foi desativado porque pode já estar instalado.</translation>
+        <translation>O mod foi desabilitado, pois ele pode já estar instalado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
@@ -12672,7 +12672,7 @@ Tem certeza?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">O mod foi desabilitado, pois ele já pode estar instalado.</translation>
+        <translation>O mod foi desabilitado, pois ele pode já estar instalado.</translation>
     </message>
 </context>
 <context>
