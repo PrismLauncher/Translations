@@ -2511,7 +2511,7 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat vybranou položku</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2913,7 +2913,7 @@ Prosím zkus znovu.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Příprava modů pro CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4504,39 +4504,39 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Stahování Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Rozbalování Javy</translation>
+        <translation>Rozbalování Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Rozbalování Java (pro archivy tar není zobrazen postup)</translation>
+        <translation>Rozbalování Javy (pro archivy tar není zobrazen postup)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Nepodařilo se otevřít poskytnutý soubor tar.</translation>
+        <translation>Nepodařilo se otevřít poskytnutý soubor tar.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Nepodařilo se rozbalit poskytnutý soubor tar.</translation>
+        <translation>Nepodařilo se rozbalit poskytnutý soubor tar.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Nepodařilo se otevřít poskytnutý soubor zip.</translation>
+        <translation>Nepodařilo se otevřít poskytnutý soubor zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">V poskytnutém souboru zip nebyly nalezeny žádné soubory.</translation>
+        <translation>V poskytnutém souboru zip nebyly nalezeny žádné soubory.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
