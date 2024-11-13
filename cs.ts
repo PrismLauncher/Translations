@@ -4541,7 +4541,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Nepodařilo se zjistit typ archivu!</translation>
+        <translation>Nepodařilo se zjistit typ archivu!</translation>
     </message>
 </context>
 <context>
@@ -4604,7 +4604,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Stahování Javy</translation>
     </message>
 </context>
 <context>
@@ -4612,27 +4612,27 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Kontrola cesty k binárnímu souboru Java</translation>
+        <translation>Kontrola cesty k binárnímu souboru Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Hledání cesty k binárnímu souboru Java</translation>
+        <translation>Hledání cesty k binárnímu souboru Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Nepodařilo se najít cestu k binárnímu souboru Java</translation>
+        <translation>Nepodařilo se najít cestu k binárnímu souboru Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Sbírání složek pro symbolický odkaz</translation>
+        <translation>Sbírání složek pro symbolický odkaz</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Vytváření symbolického odkazu pro cestu k binárnímu souboru Java</translation>
+        <translation>Vytváření symbolického odkazu pro cestu k binárnímu souboru Java</translation>
     </message>
 </context>
 <context>
@@ -5924,7 +5924,7 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se přesunout rozbalený Minecraft!</translation>
     </message>
 </context>
 <context>
@@ -8697,7 +8697,7 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetovat metadata aktualizace</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12615,7 +12615,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
+        <translation>Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
     </message>
 </context>
 <context>
