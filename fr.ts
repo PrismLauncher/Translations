@@ -2532,7 +2532,7 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactiver l&apos;objet sélectionné</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2934,7 +2934,7 @@ Veuillez réessayer.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Préparation des mods pour CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4530,44 +4530,44 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Extraction de Java</translation>
+        <translation>Extraction de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Extraction de Java (La progression n&apos;est pas indiquée pour les archives tar)</translation>
+        <translation>Extraction de Java (La progression n&apos;est pas indiquée pour les archives tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Impossible d&apos;ouvrir le fichier tar.</translation>
+        <translation>Impossible d&apos;ouvrir le fichier tar.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Impossible d&apos;extraire le fichier tar.</translation>
+        <translation>Impossible d&apos;extraire le fichier tar fourni.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;ouvrir le fichier zip fourni.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">Aucun fichier trouvé dans le fichier zip fourni.</translation>
+        <translation>Aucun fichier trouvé dans le fichier zip fourni.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Le type d&apos;archive n&apos;est pas reconnu&#x202f;!</translation>
+        <translation>Impossible de reconnaître le type de l&apos;archive&#x202f;!</translation>
     </message>
 </context>
 <context>
@@ -4630,7 +4630,7 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement de Java</translation>
     </message>
 </context>
 <context>
@@ -4638,27 +4638,27 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Vérification de l&apos;emplacement binaire de Java</translation>
+        <translation>Vérification de l&apos;emplacement du binaire Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Recherche de l&apos;emplacement binaire de Java</translation>
+        <translation>Recherche de l&apos;emplacement du binaire Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Impossible de trouver le chemin binaire de Java</translation>
+        <translation>Impossible de trouver le chemin du binaire Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Collection des dossiers pour le lien symbolique</translation>
+        <translation>Collection des dossiers pour le lien symbolique</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Liaison symbolique vers l&apos;emplacement binaire de Java</translation>
+        <translation>Liaison symbolique vers l&apos;emplacement du binaire Java</translation>
     </message>
 </context>
 <context>
@@ -5934,7 +5934,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec dans le déplacement de Minecraft dézippé&#x202f;!</translation>
     </message>
 </context>
 <context>
@@ -8712,7 +8712,7 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialisation de la mise à jour des métadonnées</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12583,12 +12583,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="62"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished">Ce fichier va être télécharger dans un dossier différent de celui par défaut, possiblement due au fait que le loader le requiert.</translation>
+        <translation>Ce fichier va être téléchargé dans un dossier différent de celui par défaut, probablement dû au fait que le chargeur le requiert.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Gestionnaire&#xa0;: %1</translation>
+        <translation>Fournisseur&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="73"/>
@@ -12603,12 +12603,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="90"/>
         <source>Version Type: %1</source>
-        <translation type="unfinished">Type de version&#xa0;: %1</translation>
+        <translation>Type de version&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="115"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished">Confirmer la sélection de %1</translation>
+        <translation>Confirmer la sélection de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
@@ -12627,7 +12627,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Ce mod a été désactivé car il peut être déjà installé.</translation>
+        <translation>Ce mod a été désactivé car il est peut-être déjà installé.</translation>
     </message>
 </context>
 <context>
