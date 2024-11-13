@@ -2472,7 +2472,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Export modlist</source>
-        <translation>Modリストをエクスポート</translation>
+        <translation>リストをエクスポート</translation>
     </message>
     <message>
         <source>Export mod&apos;s metadata to text</source>
@@ -2484,7 +2484,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation>選択したアイテムを無効化</translation>
+        <translation>選択したものを無効化</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2518,7 +2518,7 @@ Are you sure?</source>
         <translation>%1 個の項目を削除しようとしています。
 これは元に戻せない可能性があり、項目はフォルダーから削除されます。
 
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="250"/>
@@ -2529,7 +2529,7 @@ Are you sure?</source>
         <translation>「%1」フォルダーを削除しようとしています。
 これは元に戻せない可能性があり、フォルダーは親フォルダーから削除されます。
 
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
@@ -6889,7 +6889,7 @@ Are you sure?</oldsource>
         <translation>「%1」を削除しようとしています。
 これは元に戻せない可能性があり、起動構成はまるごと削除されます。
 
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <source>Launch the selected instance in offline mode.</source>
@@ -9457,7 +9457,7 @@ Are you sure?</source>
         <translation>「%1」を削除しようとしています。
 これは元に戻せない可能性があり、ログはlogsフォルダから削除されます。
 
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
@@ -12153,7 +12153,7 @@ Are you sure?</source>
         <translation>%1枚のスクリーンショットを削除しようとしています。
 これは元に戻せない可能性があり、スクリーンショットはフォルダーから削除されます。
 
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="514"/>
@@ -12164,7 +12164,7 @@ Are you sure?</source>
         <translation>選択したスクリーンショットを削除しようとしています。
 これは元に戻せない可能性があり、スクリーンショットはフォルダーから削除されます。
 
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="520"/>
@@ -12369,7 +12369,7 @@ Are you sure?</source>
         <translation>「%1」を削除しようとしています。
 サーバーはリストから完全に削除されます 。
 
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
 </context>
 <context>
@@ -14624,7 +14624,7 @@ Are you sure?</source>
         <translation>「%1」を削除しようとしています。
 ワールドは完全に削除され、元に戻せない可能性があります。
 
-本当によろしいですか？</translation>
+本当に削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
