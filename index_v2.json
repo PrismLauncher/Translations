@@ -315,9 +315,9 @@
             "untranslated" : 4
         },
         "ja" : {
-            "file" : "00e8e7316177a1c97d8b5cbac1e8bb2dae5ee138.class",
-            "sha1" : "00e8e7316177a1c97d8b5cbac1e8bb2dae5ee138",
-            "size" : 259453,
+            "file" : "188c7029de42cbf298d0c30b7d1561a72a1234e8.class",
+            "sha1" : "188c7029de42cbf298d0c30b7d1561a72a1234e8",
+            "size" : 259411,
             "translated" : 2252,
             "fuzzy" : 0,
             "untranslated" : 0
@@ -355,8 +355,8 @@
             "untranslated" : 2108
         },
         "ko" : {
-            "file" : "32bd746214d5b368518ba5361a50b98bf652437c.class",
-            "sha1" : "32bd746214d5b368518ba5361a50b98bf652437c",
+            "file" : "385c1fead39ca4bc9a21de1c4797d869fee4eb78.class",
+            "sha1" : "385c1fead39ca4bc9a21de1c4797d869fee4eb78",
             "size" : 256017,
             "translated" : 2252,
             "fuzzy" : 0,
@@ -555,9 +555,9 @@
             "untranslated" : 834
         },
         "tr" : {
-            "file" : "e589dbf2e1592485436c49c6fad424cc39c6464d.class",
-            "sha1" : "e589dbf2e1592485436c49c6fad424cc39c6464d",
-            "size" : 323689,
+            "file" : "a3de547e6adda0b2acb587024cf3ce5ae2357888.class",
+            "sha1" : "a3de547e6adda0b2acb587024cf3ce5ae2357888",
+            "size" : 323687,
             "translated" : 2224,
             "fuzzy" : 15,
             "untranslated" : 13
@@ -595,12 +595,12 @@
             "untranslated" : 303
         },
         "zh" : {
-            "file" : "d230e66a03c51a8276aaaaeafcc6bd40da8edb68.class",
-            "sha1" : "d230e66a03c51a8276aaaaeafcc6bd40da8edb68",
-            "size" : 230493,
-            "translated" : 2233,
-            "fuzzy" : 12,
-            "untranslated" : 7
+            "file" : "4583daad34e19a6fc99fd2a39f3f2053508f96e2.class",
+            "sha1" : "4583daad34e19a6fc99fd2a39f3f2053508f96e2",
+            "size" : 231205,
+            "translated" : 2252,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "zh_TW" : {
             "file" : "437d4e1135cb49412a0b9bd6b568de8de8efe017.class",
