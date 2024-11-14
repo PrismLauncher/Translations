@@ -6168,7 +6168,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
         <source>Bottom</source>
-        <translation>마지막으로</translation>
+        <translation>맨 아래로</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
