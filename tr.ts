@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation>Teknik Başlatıcı Kimliği</translation>
+        <translation>Technic Başlatıcı Kimliği</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
@@ -126,7 +126,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Bunu üçüncü taraf bir meta veri sunucusuna ayarlayarak yamalı kütüphaneleri veya diğer hack&apos;leri kullanabilirsiniz.</translation>
+        <translation>Bunu üçüncü taraf bir meta veri sunucusuna ayarlayarak yamalı kütüphaneleri veya diğer hileleri kullanabilirsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -6449,7 +6449,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="151"/>
         <source>Open %1 or scan the QR and enter the above code.</source>
-        <translation>%1&apos;i Aç veya QR kodu okut ve aşşağıdaki kodu gir.</translation>
+        <translation>%1&apos;i Aç veya QR kodu okut ve aşağıdaki kodu gir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="153"/>
