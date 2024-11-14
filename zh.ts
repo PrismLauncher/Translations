@@ -2531,7 +2531,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用选择的项目</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2933,7 +2933,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在解析 CurseForge Mods …</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4521,44 +4521,44 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>下载 Java 中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">正在解压 Java</translation>
+        <translation>正在解压 Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">正在提取 Java（tar 压缩包不会显示进度）</translation>
+        <translation>正在提取 Java（tar 压缩包不会显示进度）</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">无法打开提供的 tar 文件。</translation>
+        <translation>无法打开提供的 tar 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">无法提取提供的 tar 文件。</translation>
+        <translation>无法提取提供的 tar 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开提供的 zip 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">提供的 zip 压缩包中没有文件。</translation>
+        <translation>提供的 zip 压缩包中没有文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">无法确定压缩包类型！</translation>
+        <translation>无法确定压缩包类型！</translation>
     </message>
 </context>
 <context>
@@ -4621,7 +4621,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>下载 Java 中</translation>
     </message>
 </context>
 <context>
@@ -4629,27 +4629,27 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">检查Java可执行文件路径</translation>
+        <translation>检查Java可执行文件路径中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">查找Java可执行文件路径</translation>
+        <translation>查找Java可执行文件路径中</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">查找Java可执行文件路径失败</translation>
+        <translation>查找Java可执行文件路径失败</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">选择符号链接文件夹</translation>
+        <translation>选择符号链接文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">符号链接Java可执行文件路径</translation>
+        <translation>符号链接Java可执行文件路径</translation>
     </message>
 </context>
 <context>
@@ -5937,7 +5937,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>移动解压后的 Minecraft 失败！</translation>
     </message>
 </context>
 <context>
@@ -8562,7 +8562,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Where the mod was downloaded from.</source>
-        <translation>Mod 托管平台</translation>
+        <translation>Mod 托管平台。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
@@ -8713,7 +8713,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>重置更新元数据</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12632,7 +12632,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Mod 可能已安装，故禁用此项。</translation>
+        <translation>Mod 可能已安装，故禁用此项。</translation>
     </message>
 </context>
 <context>
