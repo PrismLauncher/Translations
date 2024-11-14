@@ -2532,7 +2532,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktywuj wybrany obiekt</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -4550,18 +4550,18 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Rozpakowywanie Java&apos;y</translation>
+        <translation>Rozpakowywanie Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Wypakowywanie Java (Proces nie jest zapisywany w archiwach tar)</translation>
+        <translation type="unfinished">Wypakowywanie Javy (Proces nie jest zapisywany w archiwach tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
@@ -4582,7 +4582,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">Nie znaleziono żadnych plików w dostarczonym pliku zip.</translation>
+        <translation>Nie znaleziono żadnych plików w dostarczonym pliku zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
@@ -4650,7 +4650,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie Javy</translation>
     </message>
 </context>
 <context>
@@ -12572,7 +12572,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="429"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod został wyłączony, ponieważ może być już zainstalowany.</translation>
+        <translation>Mod został dezaktywowany, ponieważ może być już zainstalowany.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="435"/>
