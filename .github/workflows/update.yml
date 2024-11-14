@@ -34,7 +34,7 @@ jobs:
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
       - name: Install Nix
-        uses: DeterminateSystems/nix-installer-action@v15
+        uses: DeterminateSystems/nix-installer-action@v16
 
       - name: Setup Nix cache
         uses: DeterminateSystems/magic-nix-cache-action@v8
