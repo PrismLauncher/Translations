@@ -2516,7 +2516,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztott elem letiltása</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2918,7 +2918,7 @@ Kérlek próbáld újra.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok előkészítése a CurseForge számára...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4480,44 +4480,44 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java letöltése</translation>
+        <translation>Java letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Java kibontása</translation>
+        <translation>Java kibontása</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Java kibontása (a tar-archívumok esetében a haladás nem jelenthető)</translation>
+        <translation>Java kibontása (a tar-archívumok esetében a haladás nem jelenthető)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Nem sikerült megnyitni a mellékelt tar fájlt.</translation>
+        <translation>Nem sikerült megnyitni a mellékelt tar fájlt.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Nem sikerült kibontani a mellékelt tar fájlt.</translation>
+        <translation>Nem sikerült kibontani a mellékelt tar fájlt.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Nem lehet megnyitni a mellékelt zip fájlt.</translation>
+        <translation>Nem lehet megnyitni a mellékelt zip fájlt.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">A mellékelt zip fájlban nem találtunk fájlokat.</translation>
+        <translation>A mellékelt zip fájlban nem találtunk fájlokat.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Nem sikerült meghatározni az archívum típusát!</translation>
+        <translation>Nem sikerült meghatározni az archívum típusát!</translation>
     </message>
 </context>
 <context>
@@ -4580,7 +4580,7 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java letöltése</translation>
+        <translation>Java letöltése</translation>
     </message>
 </context>
 <context>
@@ -4588,27 +4588,27 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Java bináris elérési út ellenőrzése</translation>
+        <translation>Java bináris elérési út ellenőrzése</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Java bináris elérési út keresése</translation>
+        <translation>Java bináris elérési út keresése</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Nem sikerült megtalálni a Java bináris elérési utat</translation>
+        <translation>Nem sikerült megtalálni a Java bináris elérési utat</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Mappák összegyűjtése a szimbolikus hivatkozáshoz</translation>
+        <translation>Mappák összegyűjtése a szimbolikus hivatkozáshoz</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Java bináris útvonal összekapcsolása</translation>
+        <translation>Java bináris útvonal összekapcsolása</translation>
     </message>
 </context>
 <context>
@@ -5886,7 +5886,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült a kicsomagolt Minecraftot áthelyezni!</translation>
     </message>
 </context>
 <context>
@@ -8622,7 +8622,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítési metaadatok visszaállítása</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12521,7 +12521,7 @@ Biztos vagy benne?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
+        <translation>A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
     </message>
 </context>
 <context>
