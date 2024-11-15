@@ -1211,52 +1211,52 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
 <context>
     <name>AutoInstallJava</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
         <translation>Otomatik Java düzeneği Java&apos;nın 32-bitlik yüklemesi algıladı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="87"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
         <translation>Hiçbir uyumlu Java sürümü bulunamadı. Varsıylan olanı kullanılıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="98"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
         <translation>Sistemin (%1-%2) otomatik Java yüklemesiyle uyumlu değil. Varsayılan Java yolu kullanılıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="106"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
         <translation>Meta bilgileriniz güncel değil ya da hangi Java yüklemesinin kullanılması gerektiğini belirlemek için gerekli bilgilere sahip değil. Varsayılan Java yolu kullanılıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
         <translation>Uyumlu Java bulundu: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="156"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation>Uyumlu bir Java sürümü bulunamadı (ikili dosya yok). Varsayılan olanı kullanılıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
         <translation>Java indirme türü belirlenemedi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
         <translation>Java&apos;yı Yükle</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation>İşletim sisteminde herhangi bir Java sürümü bulunamadı: %1-%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation>Herhangi bir uyumlu Java sürümü bulunamadı. Varsayılan olan kullanılıyor.</translation>
     </message>
@@ -1852,28 +1852,28 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
 <context>
     <name>DataMigrationTask</name>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="23"/>
         <source>Scanning files...</source>
         <translation>Dosyalar taranıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="45"/>
         <source>Failed to scan source path.</source>
         <translation>Kaynak yolu taranamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="58"/>
         <source>Copying %1…</source>
         <translation>%1 Kopyalanıyor…</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="70"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="92"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="83"/>
         <source>Some paths could not be copied!</source>
         <translation>Bazı dosya yolları kopyalanamıyor!</translation>
     </message>
@@ -3040,33 +3040,33 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="497"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="498"/>
         <source>Blocked mods found</source>
         <translation>Engelli dosyalar bulundu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="498"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="499"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Aşağıdaki dosyalar üçüncü parti başlatıcılardan indirilmeye uygun değil.&lt;br/&gt;Bunları elle indirmeniz ve profile eklemeniz gerekecek.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="521"/>
         <source>Mod Download Flame</source>
         <translation>Alev Mod Yüklemesi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="570"/>
         <source>%1 out of %2 complete</source>
         <translation>%2&apos;nin %1i tamamlandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="582"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="583"/>
         <source>Copying Blocked Mods...</source>
         <translation>Engelli Modlar Kopyalanıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="596"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Engelli Modlar Kopyalanıyor (%2 üzerinden %1 mod tamam)</translation>
     </message>
@@ -3087,7 +3087,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">Tanınmayan/bilinmeyen PackageType: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="574"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="575"/>
         <source>Downloading mods...</source>
         <translation>Modlar indiriliyor...</translation>
     </message>
@@ -3173,23 +3173,23 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>Dosya özetleri bulunuyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="184"/>
         <source>Finding versions for hashes...</source>
         <translation>Özetler için versiyon bulunuyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="236"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>CurseForge&apos;dan &apos;%1&apos; için API yanıtı ayrıştırılıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
         <source>Finding project info from CurseForge...</source>
         <translation>CurseForge&apos;dan proje bilgileri bulunuyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="334"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
         <source>Adding files...</source>
         <translation>Dosyalar ekleniyor...</translation>
     </message>
@@ -3427,12 +3427,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="58"/>
         <source>Get dependencies</source>
         <translation>Bağımlılıkları al</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="196"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Bir ağ hatası oluştu. Proje bağımlılıkları yüklenemedi:%1</translation>
@@ -3827,35 +3827,35 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="87"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Mod paketi indiriliyor:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="101"/>
         <source>Modpack download</source>
         <translation>Mod paketi indir</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="150"/>
         <source>Attempting to determine instance type</source>
         <translation>Örnek türü belirlenmeye çalışılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
         <source>Extracting modpack</source>
         <translation>Mod paketi çıkartılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="155"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="157"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Seçilen mod paketinin zip dosyası açılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arşiv, anlaşılabilir bir mod paket türü içermiyor.</translation>
     </message>
@@ -3864,7 +3864,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">Mod paketi çıkartımı başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="237"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 için yetkiler düzeltilemedi</translation>
     </message>
@@ -5321,12 +5321,12 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation>Özellikler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>Update Settings</source>
         <translation>Güncelleme Ayarları</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="75"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
         <translation>Başlangıçta güncellemeleri denetle</translation>
@@ -5340,32 +5340,32 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation type="vanished">Kanal seçilmedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Folders</source>
         <translation>Klasörler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
         <source>I&amp;nstances:</source>
         <translation>P&amp;rofiller:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="110"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="185"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="216"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="223"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="128"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="203"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="210"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="217"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="241"/>
         <source>Browse</source>
         <translation>Göz At</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="184"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Modlar:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="133"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="151"/>
         <source>&amp;Icons:</source>
         <translation>&amp;İkonlar:</translation>
     </message>
@@ -5374,28 +5374,28 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation type="vanished">Veriyi yeni bir konuma taşı (başlatıcı, yeniden başlatılacak)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="364"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="386"/>
         <source>User Interface</source>
         <translation>Kullanıcı Arabirimi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
         <source>Instance view sorting mode</source>
         <translation>Profil görünümü sıralama modu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="401"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
         <translation>&amp;En son başlatılana göre</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="411"/>
         <source>By &amp;name</source>
         <translation>&amp;Ada göre</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>Theme</source>
         <translation>Tema</translation>
     </message>
@@ -5420,24 +5420,24 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation type="vanished">Basit (Renkli İkonlar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="233"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="251"/>
         <source>Mods</source>
         <translation>Modlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="257"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
         <translation>Modlar için (Modrinth veya CurseForge gibi) mod sağlayıcılarından sağlanan meta veriyi kullanmayı devre dışı bırak.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="242"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="260"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
         <translation>Modlar için meta veri kullanmayı devre dışı bırak</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Uyarı&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Mod meta verisini devre dışı bırakmak, gelecek olan mod güncellemesi gibi yaşam kalitesini arttıracak özellikleri de devre dışı bırakabilir!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -5488,7 +5488,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation type="vanished">Rory ID 11 (düz versiyonu, Ashtaka çizdi)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="118"/>
         <source>&amp;Downloads:</source>
         <translation>&amp;İndirilenler:</translation>
     </message>
@@ -5497,179 +5497,179 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <translation type="obsolete">…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="66"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="84"/>
         <source>Update interval</source>
         <translation>Güncelleme aralığı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="91"/>
         <source>Set it to 0 to only check on launch</source>
         <translation>Sadece başlangıçta bakmasını istiyorsanız 0 yapın</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>h</source>
         <translation>sa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="141"/>
         <source>&amp;Skins:</source>
         <translation>&amp;Karakterler:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Etkinleştirildiğinde, indirilenler klasörüne ek olarak, alt klasörleri de kaynak ararken aranacaktır (örneğin, CurseForge&apos;da engellenen modları ararken).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="146"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="164"/>
         <source>Check downloads folder recursively</source>
         <translation>İndirilenler klasörünü tekrarlı olarak kontrol et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
         <translation>Uzantı bağımlılıklarının otomatik tespitini, yüklenmesini ve güncellenmesini devre dışı bırak.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
         <source>Disable automatic mod dependency management</source>
         <translation>Otomatik mod bağımlılığı yönetimini devre dışı bırak</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="269"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
         <translation>Yeni bir mod paketi örneği oluştururken, bunun yerine mevcut örneklerin güncellenmesini önermeyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
         <source>Skip modpack update prompt</source>
         <translation>Mod paketi güncelleştirme istemini atla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
         <source>Miscellaneous</source>
         <translation>Çeşitli</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="313"/>
         <source>Number of concurrent tasks</source>
         <translation>Eşzamanlı görev sayısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="309"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
         <source>Number of concurrent downloads</source>
         <translation>Eşzamanlı indirme sayısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="330"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>İstekler sonlanana kadar beklenecek saniye</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="333"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="351"/>
         <source>Timeout for HTTP requests</source>
         <translation>HTTP istekleri için zaman aşımı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="358"/>
         <source>s</source>
         <translation>sn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="316"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>Number of manual retries</source>
         <translation>El ile yeniden deneme sayısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
         <source>&amp;Java:</source>
         <translation>&amp;Java:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="436"/>
         <source>Cat</source>
         <translation>Kedi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="420"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="442"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
         <translation>Kedinin şeffaflığını ayarla. %0 tamamen şeffaf ve %100 tamamen opak.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="423"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="445"/>
         <source>Opacity</source>
         <translation>Şeffaflık</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="433"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="455"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="490"/>
         <source>Tools</source>
         <translation>Aletler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="496"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>Menü çubuğu klavye kullanımı için daha kolay.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="499"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>&amp;Araç çubuğunu menü çubuğuyla değiştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="501"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="523"/>
         <source>Console</source>
         <translation>Konsol</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="529"/>
         <source>Console Settings</source>
         <translation>Konsol Ayarları</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="535"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
         <translation>Oyun çalışırken konsolu göster</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="520"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="542"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
         <translation>&amp;Oyundan çıkılğında otomatik olarak konsol kapat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="527"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
         <translation>Oyun çöktüğünde konsol gösterilsin mi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="537"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="559"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>&amp;Geçmiş sınırı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="565"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;Kayıt taştığında kaydı durdur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="556"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="578"/>
         <source> lines</source>
         <translation> satırlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="584"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="606"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>Konsol yazı tipi</translation>
@@ -7812,7 +7812,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
 <context>
     <name>Meta::VersionList</name>
     <message>
-        <location filename="src/launcher/meta/VersionList.cpp" line="38"/>
+        <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation>Metayı %1 olarak yükle</translation>
@@ -7931,7 +7931,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
 <context>
     <name>MinecraftLoadAndCheck</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="22"/>
+        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="20"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
@@ -8403,12 +8403,12 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="89"/>
         <source>Folder</source>
         <translation>Klasör</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="91"/>
         <source>File</source>
         <translation>Dosya</translation>
     </message>
@@ -8418,7 +8418,7 @@ Bu yalnızca %1 biçimindeki bir dosya kullanılarak güncellenebilir
         <translation>Bilinmeyen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="124"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -8427,19 +8427,19 @@ Uyarı: Bu kaynak başka bir yerden sembolik olarak bağlantılıdır. Bunu değ
 Standart Yol: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="136"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinali de değiştirir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Version</source>
         <translation>Sürüm</translation>
     </message>
@@ -8448,72 +8448,72 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
         <translation type="vanished">Son değişiklik</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Provider</source>
         <translation>Sağlayıcı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
         <translation>Etkinleştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
         <translation>Resim</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
         <translation>Son Değişiklik</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Size</source>
         <translation>Boyut</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Side</source>
         <translation>Yan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Loaders</source>
         <translation>Yükleyiciler</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Release Type</source>
         <translation>Serbest Bırakma Türü</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Minecraft Versions</source>
         <translation>Minecraft Versiyonları</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
         <source>Is the mod enabled?</source>
         <translation>Mod etkin mi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
         <source>The name of the mod.</source>
         <translation>Modun ismi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
         <source>The version of the mod.</source>
         <translation>Modun sürümü.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Bu modun en son değiştirildiği (veya eklendiği) tarih ve zaman.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
         <source>The source provider of the mod.</source>
         <translation>Modların ana kaynağı.</translation>
     </message>
@@ -8522,27 +8522,27 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
         <translation>Modun indirildiği yer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
         <source>On what environment the mod is running.</source>
         <translation>Mod hangi ortamda çalışıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="201"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The mod loader.</source>
         <translation>Mod yükleyicisi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
         <source>The supported minecraft versions.</source>
         <translation>Desteklenen minecraft sürümleri.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
         <source>The release type.</source>
         <translation>Yayım tipi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="207"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="201"/>
         <source>The size of the mod.</source>
         <translation>Modun boyutu.</translation>
     </message>
@@ -8606,7 +8606,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
         <translation>Modları indir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
         <source>Download mods from online mod platforms</source>
         <translation>Çevrimiçi mod platformlarından mod indir</translation>
     </message>
@@ -8636,12 +8636,12 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
         <translation>Yerel olarak indirilmiş dosya ekle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Check for Updates</source>
         <translation>Güncellemeleri Kontrol Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
         <translation>Tüm seçili modları kontrol etmeyi veya güncellemeyi dene (hicbiri seçili değilse tüm modlar)</translation>
@@ -8655,7 +8655,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
         <translation>Seçili tüm modları güncellemeyi ve eksik bağımlılıkları kontrol etmeyi deneyin (hiçbiri seçili değilse tüm modlar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
         <translation>Modun meta verilerini metne aktar.</translation>
@@ -8693,78 +8693,78 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
         <translation>Seçilen modların sayfalarına git</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Confirm Delete</source>
         <translation>Silme İşlemini Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Oyun çalışırken modları kaldırırsanız oyununuz çökebilir.
 Bunu yapmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="152"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="160"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="194"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="298"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="302"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="308"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="152"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="194"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
         <source>Please install a mod loader first!</source>
         <translation>Lütfen önce bir mod yükleyici kur!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="164"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="247"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="312"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="164"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="247"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="312"/>
         <source>Download stopped by user.</source>
         <translation>İndirme, kullanıcı tarafından durduruldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="253"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="325"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
         <source>Warnings</source>
         <translation>Uyarılar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="180"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="328"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>Meta veriler devre dışı bırakıldığında mod güncellemeleri kullanılamaz!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>Confirm Update</source>
         <translation>Güncellemeyi Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="197"/>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -8776,55 +8776,55 @@ Eski dosyalar kullanımda oldukları için silinmeyebilir.
 Bunu yapmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
         <source>The mod updater was aborted!</source>
         <translation>Mod güncelleyicisi iptal edildi!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="226"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>Tüm seçili modlar güncel! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Update checker</source>
         <translation>Güncelleme denetleyici</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
         <source>Confirm Removal</source>
         <translation>Kaldırma İşlemini Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>%1 mod için meta verileri kaldırmak üzeresiniz.
 Emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; güncel! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="70"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
         <source>Download Mods</source>
         <translation>Modları İndir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Change a mod&apos;s version.</source>
         <translation>Bir mod&apos;un sürümünü değiştir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="103"/>
         <source>View the homepages of all selected mods.</source>
         <translation>Seçilen tüm modların ana sayfalarını görüntüle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>Tüm modlar güncel! :)</translation>
@@ -9186,22 +9186,22 @@ Lütfen %1 programını güncelleyin!</translation>
         <translation>Modrinth&apos;ten API yanıtı çözümleniyor…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="144"/>
         <source>Not installed</source>
         <translation>Yüklü değil</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="146"/>
         <source>Unknown</source>
         <translation>Bilinmeyen</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Bu kaynak için geçerli bir sürüm bulunamadı. Muhtemelen mevcut oyun sürümü / mod yükleyicisi için kullanılamıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="191"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="190"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Bu kaynak için geçerli bir sürüm bulunamadı. Muhtemelen mevcut oyun sürümü için kullanılamıyor.</translation>
     </message>
@@ -11957,7 +11957,7 @@ Lütfen %1&apos;i güncelleyin!</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="503"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="501"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -11966,34 +11966,34 @@ Uyarı: Bu kaynak başka bir yerden sembolik olarak bağlanmıştır. Bunu düze
 Kanonik Yol: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="510"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="508"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinali de değiştirecektir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Enable</source>
         <translation>İzin ver</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Last Modified</source>
         <translation>Son Değişiklik</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Size</source>
         <translation>Boyut</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Provider</source>
         <translation>Sağlayıcı</translation>
     </message>
@@ -12002,47 +12002,47 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
         <translation type="vanished">En son düzenlenen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="542"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="540"/>
         <source>Confirm toggle</source>
         <translation>Geçişi onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="543"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="541"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Oyun çalışırken bu kaynağı etkinleştirir/devre dışı bırakırsanız oyununuz çökebilir.
 Bunu yapmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="573"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Kaynak etkin mi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Kaynağın ismi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Bu kaynagın en son değiştirildiği (veya eklendiği) tarih ve zaman.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The source provider of the resource.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="583"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
         <source>The size of the resource.</source>
         <translation>Kaynağın boyutu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="628"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="626"/>
         <source>Show / Hide Columns</source>
         <translation>Sütunları Göster / Gizle</translation>
     </message>
@@ -12050,49 +12050,49 @@ Bunu yapmak istediğinizden emin misiniz?</translation>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
         <source>Is the resource pack enabled?</source>
         <translation>Kaynak paketi etkin mi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
         <translation>Etkinleştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
         <translation>Resim</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
         <translation>Son Değişiklik</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
         <translation>Boyut</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Provider</source>
         <translation>Sağlayıcı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
         <source>Unrecognized</source>
         <translation>Tanınmayan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>Kaynak paketi format numarası ve bunun için tasarlanmış olan Minecraft sürümleri.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -12101,29 +12101,29 @@ Uyarı: Bu kaynak başka bir yerden sembolik olarak bağlanmıştır. Bunu düze
 Kanonik Yol: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="120"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinali de değiştirecektir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="172"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="171"/>
         <source>The source provider of the resource pack.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="174"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="173"/>
         <source>The size of the resource pack.</source>
         <translation>Kaynak paketinin boyutu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
         <translation>Paket Formatı</translation>
     </message>
@@ -12136,7 +12136,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
         <translation>Kaynak paketi etkin mi? (Sadece geçerli ZIP&apos;ler için)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The name of the resource pack.</source>
         <translation>Kaynak paketinin ismi.</translation>
     </message>
@@ -12145,7 +12145,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
         <translation type="vanished">Kaynak paketinin sürümü.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="170"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>Bu kaynak paketinde en son yapılan değişikliğin (veya eklemelerin) tarihi ve zamanı.</translation>
     </message>
@@ -12166,76 +12166,76 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
         <translation>Kaynak paketlerini çevrimiçi platformlardan indirin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
         <translation>Paketleri İndir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="51"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
         <translation>Çevrimiçi mod platformlarından kaynak paketlerini indir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
         <translation>Seçili tüm kaynak paketlerini kontrol etmeye veya güncellemeye çalışın (hiçbiri seçilmemişse tüm kaynak paketleri)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="71"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
         <translation type="unfinished">Bir mod&apos;un sürümünü değiştir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="94"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="128"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="228"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="91"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="243"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="154"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="178"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="95"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="247"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="178"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="95"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="247"/>
         <source>Download stopped by user.</source>
         <translation>İndirme, kullanıcı tarafından durduruldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="184"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="253"/>
         <source>Warnings</source>
         <translation>Uyarılar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="114"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="194"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="268"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="111"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="263"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="128"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
         <translation>Meta veriler devre dışı bırakıldığında kaynak paketi güncellemeleri kullanılamaz!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
         <source>Confirm Update</source>
         <translation>Güncellemeyi Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="131"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -12244,37 +12244,37 @@ Eski dosyalar kullanımda oldukları için silinmeyebilir.
 Bunu yapmak istediğine emin misin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="151"/>
         <source>The resource pack updater was aborted!</source>
         <translation>Kaynak paketi güncelleyicisi durduruldu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="155"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; güncel! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
         <source>All resource packs are up-to-date! :)</source>
         <translation>Tüm kaynak paketleri güncel! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="160"/>
         <source>All selected resource packs are up-to-date! :)</source>
         <translation>Seçili tüm kaynak paketleri güncel! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="163"/>
         <source>Update checker</source>
         <translation>Güncelleme denetleyici</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
         <source>Confirm Removal</source>
         <translation>Kaldırma İşlemini Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="205"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
         <translation>1% kaynak paketleri için meta verileri kaldırmak üzeresiniz.
@@ -12306,156 +12306,156 @@ Emin misin?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
         <source>You&apos;re about to update the following resources:</source>
         <translation>Aşağıdaki kaynakları güncellemek üzeresiniz:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
         <source>Only resources with a check will be updated!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="74"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Mod adı: %1&lt;br&gt;Dosya adı: %2&lt;br&gt;Sebep: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
         <source>Metadata generation failed</source>
         <translation>Meta veri oluşturma başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation>Aşağıdaki kaynaklar için meta veri oluşturulamadı:&lt;br&gt;Bu kaynaklar olmadan devam etmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="93"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="92"/>
         <source>Checking for updates</source>
         <translation>Güncellemeler denetleniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="114"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="201"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="344"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="359"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="200"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="358"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="209"/>
         <source>Warnings</source>
         <translation>Uyarılar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="214"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="369"/>
         <source>Abort</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
         <source>Checking for updates...</source>
         <translation>Güncellemeler denetleniyor…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="172"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
         <source>Mod name: %1</source>
         <translation>Mod adı: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="174"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Reason: %1</source>
         <translation>Sebep: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="176"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>Olası çözüm: En son sürümü manuel olarak edinin:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="181"/>
         <source>Failed to check for updates</source>
         <translation>Güncelleme denetlemesi başarısız oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation>Aşağıdaki kaynaklar güncellemeler için kontrol edilemedi veya alınamadı:&lt;br&gt;Bu kaynaklar olmadan devam etmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
         <source>Checking for dependencies...</source>
         <translation>Bağımlılıklar kontrol ediliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="235"/>
         <source>Not installed</source>
         <translation>Yüklü değil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="272"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="271"/>
         <source>Looking for metadata</source>
         <translation>Meta veri aranıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="314"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>&apos;%1&apos; kaynağının henüz bir meta verisi yok. Bu modun nasıl güncelleneceği ile ilgili bilgileri bulabilmek için bunu oluşturmamız gerekiyor. Bunu yapmak için, lütfen bu modun güncellemelerini kontrol etmemiz için kullanabileceğimiz bir mod sağlayıcı seçin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
         <source>Generating metadata...</source>
         <translation>Meta veri oluşturuluyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="418"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="417"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Seçili mod sağlayıcı(lar)ında geçerli bir sürüm bulunamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="428"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation type="unfinished">Mod zaten yüklenmiş olabileceği için devre dışı bırakıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="435"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
         <source>Provider: %1</source>
         <translation>Sağlayıcı: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="438"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="437"/>
         <source>Old version: %1</source>
         <translation>Eski sürüm: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="440"/>
         <source>New version: %1</source>
         <translation>Yeni sürüm: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="444"/>
         <source>New Version Type: %1</source>
         <translation>Yeni Sürüm Tipi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"/>
         <source>Required by: %1</source>
         <translation>Tarafından gerekli: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="453"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="452"/>
         <source>Required by:</source>
         <translation>Tarafından gerekli:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Changelog of the latest version</source>
         <translation>Son sürümün değişiklik günlüğü</translation>
     </message>
@@ -12983,7 +12983,7 @@ Emin misin?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="167"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="240"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
@@ -12991,28 +12991,28 @@ Emin misin?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="92"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="244"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="92"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="244"/>
         <source>Download stopped by user.</source>
         <translation>İndirme, kullanıcı tarafından durduruldu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="98"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="177"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="250"/>
         <source>Warnings</source>
         <translation>Uyarılar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="187"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="260"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
@@ -13820,56 +13820,56 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
         <translation>Seçilen tüm doku paketlerinin ana sayfalarını görüntüle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="132"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="178"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="231"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="249"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="102"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="158"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="253"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="102"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="253"/>
         <source>Download stopped by user.</source>
         <translation>İndirme, kullanıcı tarafından durduruldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="188"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="259"/>
         <source>Warnings</source>
         <translation>Uyarılar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="269"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="132"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
         <translation>Meta veriler devre dışı bırakıldığında doku paketi güncellemeleri kullanılamaz!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
         <source>Confirm Update</source>
         <translation>Güncellemeyi Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -13878,37 +13878,37 @@ Eski dosyalar kullanımda oldukları için silinmeyebilir.
 Bunu yapmak istediğine emin misin?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="157"/>
         <source>The texture pack updater was aborted!</source>
         <translation>Doku paketi güncelleyici durduruldu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="161"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; güncel! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="164"/>
         <source>All texture packs are up-to-date! :)</source>
         <translation>Tüm doku paketleri güncel! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="166"/>
         <source>All selected texture packs are up-to-date! :)</source>
         <translation>Seçili tüm doku paketleri güncel! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
         <source>Update checker</source>
         <translation>Güncelleme denetleyici</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="210"/>
         <source>Confirm Removal</source>
         <translation>Kaldırma İşlemini Onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="211"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
         <translation>%1 doku paketleri için meta verileri kaldırmak üzeresiniz.

@@ -1195,52 +1195,52 @@ Một số phiên bản Minecraft có thể không khởi động.
 <context>
     <name>AutoInstallJava</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="81"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
         <translation>Tính năng tải Java tự động đã phát hiện bản Java trong 32-bit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="87"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
         <translation>Không tìm được phiên bản Java tương thích. Đang dùng bản mặc định.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="98"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="106"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="139"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="156"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="178"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="182"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
         <translation>Cài đặt Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1828,28 +1828,28 @@ Một số phiên bản Minecraft có thể không khởi động.
 <context>
     <name>DataMigrationTask</name>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="23"/>
         <source>Scanning files...</source>
         <translation>Đang quét tệp tin....</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="45"/>
         <source>Failed to scan source path.</source>
         <translation>Lỗi khi quét đường dẫn gốc.</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="58"/>
         <source>Copying %1…</source>
         <translation>Đang chép %1…</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="70"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="92"/>
         <source>Aborted</source>
         <translation>Bị gián đoạn</translation>
     </message>
     <message>
-        <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="83"/>
         <source>Some paths could not be copied!</source>
         <translation>Một số đường dẫn có thể sẽ không được sao chép!</translation>
     </message>
@@ -2964,33 +2964,33 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="497"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="498"/>
         <source>Blocked mods found</source>
         <translation>Đã tìm thấy các mod bị chặn</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="498"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="499"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Các bản mod sau đã bị chặn đối với các trình khởi chạy của bên thứ ba. &lt;br/&gt; Bạn cần tải chúng xuống theo cách thủ công và thêm chúng vào modpack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="521"/>
         <source>Mod Download Flame</source>
         <translation type="unfinished">Mod tải Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="569"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="570"/>
         <source>%1 out of %2 complete</source>
         <translation>Đã xong %1 trên %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="582"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="583"/>
         <source>Copying Blocked Mods...</source>
         <translation>Copy các mods bị chặn...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="595"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="596"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Copy các mod bị chặn (Hoàn thành %1 trong %2)</translation>
     </message>
@@ -3011,7 +3011,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation type="vanished">Chưa được công nhận/chưa xử lý PackageType cho: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="574"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="575"/>
         <source>Downloading mods...</source>
         <translation>Đang tải mod...</translation>
     </message>
@@ -3106,23 +3106,23 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation>Đang tìm các giá trị băm của tập tin...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="185"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="184"/>
         <source>Finding versions for hashes...</source>
         <translation>Đang tìm các phiên phản của những giá trị băm...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="236"/>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="298"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="235"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="297"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Đang phân tích cú pháp API phản hồi từ CurseForge cho &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="255"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="254"/>
         <source>Finding project info from CurseForge...</source>
         <translation>Đang tìm thông tin dự án từ CurseForge...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="334"/>
+        <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="333"/>
         <source>Adding files...</source>
         <translation>Đang thêm tập tin...</translation>
     </message>
@@ -3344,12 +3344,12 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
 <context>
     <name>GetModDependenciesTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="58"/>
         <source>Get dependencies</source>
         <translation>Tải các mod cần thiết</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="196"/>
         <source>A network error occurred. Could not load project dependencies:%1</source>
         <oldsource>A network error occurred. Could not load project dependenies:%1</oldsource>
         <translation>Đã xảy ra lỗi mạng. Không thể tải các phần phụ thuộc của dự án:%1</translation>
@@ -3733,35 +3733,35 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="85"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="87"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Đang tải modpack:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="99"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="101"/>
         <source>Modpack download</source>
         <translation>Tải xuống modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="148"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="150"/>
         <source>Attempting to determine instance type</source>
         <translation>Đang cố gắng xác định loại phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="185"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
         <source>Extracting modpack</source>
         <translation>Đang giải nén modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="155"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="157"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Không thể mở tập tin modpack zip đã cho.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="182"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Kho lưu trữ không chứa một modpack với định dạng phù hợp.</translation>
     </message>
@@ -3770,7 +3770,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <translation type="vanished">Không thể giải nén được modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="237"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
         <source>Could not fix permissions for %1</source>
         <translation>Không thể sửa quyền truy cập cho %1</translation>
     </message>
@@ -5184,12 +5184,12 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
         <translation>Tính năng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="69"/>
         <source>Update Settings</source>
         <translation>Cập nhật cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="75"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
         <translation>Tự động kiểm tra cập nhật</translation>
@@ -5203,32 +5203,32 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
         <translation type="vanished">Không có kênh nào được chọn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="112"/>
         <source>Folders</source>
         <translation>Thư mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
         <source>I&amp;nstances:</source>
         <translation>P&amp;hiên bản:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="110"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="185"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="216"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="223"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="128"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="203"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="210"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="217"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="241"/>
         <source>Browse</source>
         <translation>Chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="184"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Mods:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="133"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="151"/>
         <source>&amp;Icons:</source>
         <translation>&amp;Biểu tượng:</translation>
     </message>
@@ -5237,28 +5237,28 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
         <translation type="vanished">Di chuyển dữ liệu PolyMC đến vị trí mới (sẽ khởi động lại PolyMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="364"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="386"/>
         <source>User Interface</source>
         <translation>Giao Diện Người Dùng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
         <source>Instance view sorting mode</source>
         <translation>Chế độ sắp xếp chế độ xem phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="379"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="401"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
         <translation>&amp;Theo lần cuối ra mắt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="411"/>
         <source>By &amp;name</source>
         <translation>Theo &amp;tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
         <source>Theme</source>
         <translation>Giao diện</translation>
     </message>
@@ -5283,24 +5283,24 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
         <translation type="vanished">Đơn Giản (Biểu Tượng Màu)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="233"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="251"/>
         <source>Mods</source>
         <translation>Các bản mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="239"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="257"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
         <translation>Ngừng sử dụng siêu dữ liệu lấy từ những trang cung cấp mod (như Modrinth hay CurseForge) cho các mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="242"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="260"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
         <translation>Ngừng sử dụng siêu dữ liệu cho các mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Cảnh báo&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Tắt mod siêu dữ liệu có thể sẽ tắt một số tính năng thuận tiện, ví dụ như cập nhật mod!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -5319,7 +5319,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
         <translation type="obsolete">Màu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="118"/>
         <source>&amp;Downloads:</source>
         <translation>&amp;Tải xuống:</translation>
     </message>
@@ -5328,179 +5328,179 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
         <translation type="obsolete">...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="66"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="84"/>
         <source>Update interval</source>
         <translation>Khoảng thời gian cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="91"/>
         <source>Set it to 0 to only check on launch</source>
         <translation>Đặt giá trị là 0 để chỉ kiểm tra lúc chạy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="76"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>h</source>
         <translation type="unfinished">giờ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="141"/>
         <source>&amp;Skins:</source>
         <translation type="unfinished">&amp;Skins:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Khi chọn, thư mục Downloads và những thư mục con sẽ bị dò trong quá trình tìm kiếm tài nguyên (ví dụ như khi tìm những mod mà CurseForge không cho tải).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="146"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="164"/>
         <source>Check downloads folder recursively</source>
         <translation>Kiểm tra đệ quy thư mục tải</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
         <translation>Tắt quá trình tự động dò, cài, và cập nhật của những mod cần thiết.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
         <source>Disable automatic mod dependency management</source>
         <translation>Tắt quá trình quản lý tự động cho nhũng mod cần thiết</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="269"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
         <translation>Khi tạo phiên bản modpack mới, không đề xuất cập nhật các phiên bản hiện có.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
         <source>Skip modpack update prompt</source>
         <translation>Bỏ qua nhắc nhở cập nhật modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="282"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
         <source>Miscellaneous</source>
         <translation>Khác</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="313"/>
         <source>Number of concurrent tasks</source>
         <translation>Số lượng tác vụ tương tranh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="309"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
         <source>Number of concurrent downloads</source>
         <translation>Các mục đang tải xuống</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="330"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>Giây để đợi đến khi các yêu cầu được kết liễu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="333"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="351"/>
         <source>Timeout for HTTP requests</source>
         <translation>Thời gian chờ cho các yêu cầu HTTP</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="358"/>
         <source>s</source>
         <translation type="unfinished">giây</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="316"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>Number of manual retries</source>
         <translation>Số lần thử lại thủ công</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
         <source>&amp;Java:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="414"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="436"/>
         <source>Cat</source>
         <translation>Mèo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="420"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="442"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
         <translation>Chỉnh độ mờ đục cho cat. 0% là trong suốt và 100% là đầy đủ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="423"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="445"/>
         <source>Opacity</source>
         <translation>Độ mờ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="433"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="455"/>
         <source>%</source>
         <translation type="unfinished">%</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="468"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="490"/>
         <source>Tools</source>
         <translation>Công cụ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="496"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>Thanh menu dễ sử dụng hơn cho các tương tác từ bàn phím.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="499"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>&amp;Thay thanh công cụ với thanh trình đơn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="501"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="523"/>
         <source>Console</source>
         <translation>Console</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="529"/>
         <source>Console Settings</source>
         <translation>Cài Đặt Console</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="535"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
         <translation>Hiện bảng console khi trò chơi đang chạy (&amp;R)?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="520"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="542"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
         <translation>Tự động đóng bảng console khi thoát trò chơi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="527"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
         <translation>Mở console khi game gặp phải sự cố (&amp;C)?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="537"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="559"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>&amp;Giới hạn lịch sử</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="565"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;Dừng ghi log khi tệp log bị đầy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="556"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="578"/>
         <source> lines</source>
         <translation> dòng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="584"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="606"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation type="unfinished">Kiểu chữ console</translation>
@@ -7484,7 +7484,7 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
 <context>
     <name>Meta::VersionList</name>
     <message>
-        <location filename="src/launcher/meta/VersionList.cpp" line="38"/>
+        <location filename="src/launcher/meta/VersionList.cpp" line="37"/>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation type="unfinished"></translation>
@@ -7603,7 +7603,7 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
 <context>
     <name>MinecraftLoadAndCheck</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="22"/>
+        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="20"/>
         <source>Aborted</source>
         <translation type="unfinished">Bị gián đoạn</translation>
     </message>
@@ -8026,12 +8026,12 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="89"/>
         <source>Folder</source>
         <translation>Thư mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="91"/>
         <source>File</source>
         <translation>Tập tin</translation>
     </message>
@@ -8041,7 +8041,7 @@ Chỉ có thể cập nhật bằng cách sử dụng file có định dạng %1
         <translation type="unfinished">ẩn số</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="124"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -8050,19 +8050,19 @@ Cảnh báo: Tài nguyên này đã được liên kết từ đâu đó. Chỉn
 Đường dẫn chuẩn: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="136"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="130"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
 Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu đó. Chỉnh sửa tài nguyên này cũng sẽ thay đổi bản gốc.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Name</source>
         <translation>Tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Version</source>
         <translation>Phiên bản</translation>
     </message>
@@ -8071,72 +8071,72 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation type="vanished">Thay đổi lần cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Provider</source>
         <translation>Nhà cung cấp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
         <translation>Bật</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
         <translation>Hình ảnh</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
         <translation>Lần sửa đổi cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Size</source>
         <translation>Kích cỡ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Side</source>
         <translation>Cạnh</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Loaders</source>
         <translation>Trình chạy</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Release Type</source>
         <translation>Loại phát hành</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="62"/>
         <source>Minecraft Versions</source>
         <translation>Phiên bản Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="183"/>
         <source>Is the mod enabled?</source>
         <translation>Mod đã được bật chưa?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="185"/>
         <source>The name of the mod.</source>
         <translation>Tên mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="187"/>
         <source>The version of the mod.</source>
         <translation>Phiên bản mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="189"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Ngày và thời gian mod này lần cuối đã thay đổi (hoặc đã thêm vào).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="191"/>
         <source>The source provider of the mod.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8145,27 +8145,27 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation>Đây là trang trải của mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="193"/>
         <source>On what environment the mod is running.</source>
         <translation>Mod chạy trên môi trường nào.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="201"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="195"/>
         <source>The mod loader.</source>
         <translation>Trình chạy mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="203"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="197"/>
         <source>The supported minecraft versions.</source>
         <translation>Phiên bản Minecraft được hỗ trợ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="205"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="199"/>
         <source>The release type.</source>
         <translation>Loại phát hành.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="207"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="201"/>
         <source>The size of the mod.</source>
         <translation>Kích cỡ mod.</translation>
     </message>
@@ -8229,7 +8229,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation>Tải mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="71"/>
         <source>Download mods from online mod platforms</source>
         <translation>Tải từ những trang đăng mod</translation>
     </message>
@@ -8251,12 +8251,12 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation>Thêm mod từ một thư mục trong máy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="90"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Check for Updates</source>
         <translation>Tìm phiên bản mới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
         <translation>Tìm cập nhật mới cho các mod được chọn (cập nhật mọi mod nếu như không chọn mod nào)</translation>
@@ -8270,7 +8270,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation>Tìm cập nhật mới cho các mod cần thiết của những mod được chọn (cập nhật mọi mod nếu như không chọn mod nào)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="112"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
         <translation type="unfinished">Bỏ thay đổi metadata</translation>
@@ -8308,78 +8308,78 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation>Mở những trang của các mod được chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="126"/>
         <source>Confirm Delete</source>
         <translation type="unfinished">Xác nhận xoá</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="127"/>
         <source>If you remove mods while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Trò chơi có thể bị treo nếu bạn xóa mod khi trò chơi đang chạy
 Bạn có chắc muốn tiếp tục?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="152"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="160"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="194"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="243"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="298"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="302"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="308"/>
         <source>Error</source>
         <translation type="unfinished">Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="152"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="194"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="291"/>
         <source>Please install a mod loader first!</source>
         <translation>Xin hãy tải một mod loader trước!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="164"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="247"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="312"/>
         <source>Aborted</source>
         <translation type="unfinished">Bị gián đoạn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="164"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="247"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="319"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="312"/>
         <source>Download stopped by user.</source>
         <translation>Quá trình tải đã bị người dùng hủy bỏ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="253"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="325"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="318"/>
         <source>Warnings</source>
         <translation>Cảnh Báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="180"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="263"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="328"/>
         <source>Abort</source>
         <translation type="unfinished">Hủy bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="295"/>
         <source>Mod updates are unavailable when metadata is disabled!</source>
         <translation>Không thể cập nhật mod nếu siêu dữ liệu bị tắt!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>Confirm Update</source>
         <translation>Khẳng định cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="197"/>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
@@ -8391,55 +8391,55 @@ Những tệp tin cũ có thể sẽ không bị xóa vì chúng vẫn đang ch�
 Bạn có chắc muốn làm điều này?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
         <source>The mod updater was aborted!</source>
         <translation>Việc cập nhật mod đã bị hủy bỏ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="233"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="226"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>Tất cả các mod được chọn đều đã là bản mới nhất :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Update checker</source>
         <translation>Kiểm tra cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="270"/>
         <source>Confirm Removal</source>
         <translation type="unfinished">Xác Nhận Xóa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
         <translation>Bạn đang xóa metadata của %1 mods.
 Bạn có chắc không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; đang là bản mới nhất! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="70"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
         <source>Download Mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="99"/>
         <source>Change a mod&apos;s version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="110"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="103"/>
         <source>View the homepages of all selected mods.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>Tất cả các mods đều là bản mới nhất :)</translation>
@@ -8734,22 +8734,22 @@ Vui lòng cập nhật %1!</translation>
         <translation>Phân tích cú pháp phản hồi API từ Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="144"/>
         <source>Not installed</source>
         <translation type="unfinished">Chưa được cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="147"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="146"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="188"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="191"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="190"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11394,7 +11394,7 @@ Vui lòng cập nhật %1!</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="503"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="501"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -11403,79 +11403,79 @@ Cảnh báo: Tài nguyên này đã được liên kết từ đâu đó. Chỉn
 Đường dẫn chuẩn: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="510"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="508"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished">
 Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu đó. Chỉnh sửa tài nguyên này cũng sẽ thay đổi bản gốc.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Name</source>
         <translation type="unfinished">Tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Enable</source>
         <translation type="unfinished">Bật</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Last Modified</source>
         <translation type="unfinished">Lần sửa đổi cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Size</source>
         <translation type="unfinished">Kích cỡ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="258"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="242"/>
         <source>Provider</source>
         <translation type="unfinished">Nhà cung cấp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="542"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="540"/>
         <source>Confirm toggle</source>
         <translation>Xác nhận thay đổi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="543"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="541"/>
         <source>If you enable/disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Nếu bạn bật/tắt tài nguyên này trong lúc game đang chạy, nó có thể gây crash game.
 Bạn có chắc muốn làm điều này?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="573"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Có phải tài nguyên đã được bật?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="575"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Tên của tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="577"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Thời gian thay đổi (hoặc được thêm vào) gần đây nhất của tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="579"/>
         <source>The source provider of the resource.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="583"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="581"/>
         <source>The size of the resource.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="628"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="626"/>
         <source>Show / Hide Columns</source>
         <translation>Hiện / Ẩn các cột</translation>
     </message>
@@ -11483,49 +11483,49 @@ Bạn có chắc muốn làm điều này?</translation>
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="163"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="162"/>
         <source>Is the resource pack enabled?</source>
         <translation>Gói tài nguyên có được bật không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
         <translation type="unfinished">Bật</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
         <translation type="unfinished">Hình ảnh</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
         <translation type="unfinished">Lần sửa đổi cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Size</source>
         <translation type="unfinished">Kích cỡ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Provider</source>
         <translation type="unfinished">Nhà cung cấp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="79"/>
         <source>Unrecognized</source>
         <translation>Không thể nhận dạng</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="168"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="167"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>ID định dạng của gói tài nguyên, được thiết kế cho phiên bản Minecraft cụ thể.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
@@ -11534,29 +11534,29 @@ Cảnh báo: Tài nguyên này đã được liên kết từ đâu đó. Chỉn
 Đường dẫn chuẩn: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="120"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished">
 Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu đó. Chỉnh sửa tài nguyên này cũng sẽ thay đổi bản gốc.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="172"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="171"/>
         <source>The source provider of the resource pack.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="174"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="173"/>
         <source>The size of the resource pack.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
         <translation type="unfinished">Tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Pack Format</source>
         <translation>Định dạng Gói</translation>
     </message>
@@ -11569,7 +11569,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation>Có phải gói tài nguyên đã được bật? (Chỉ khả dụng đối với file ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="165"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The name of the resource pack.</source>
         <translation>Tên của gói tài nguyên.</translation>
     </message>
@@ -11578,7 +11578,7 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation type="vanished">Phiên bản của gói tài nguyên.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="170"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="169"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>Ngày và giờ gói tài nguyên này được thay đổi (hoặc thêm vào) lần cuối.</translation>
     </message>
@@ -11599,113 +11599,113 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation>Tải xuống gói tài nguyên từ các nền tảng trực tuyến</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="51"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download resource packs from online mod platforms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="57"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="55"/>
         <source>Try to check or update all selected resource packs (all resource packs if none are selected)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="71"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="94"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="128"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="228"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="91"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="243"/>
         <source>Error</source>
         <translation type="unfinished">Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="154"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="178"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="95"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="247"/>
         <source>Aborted</source>
         <translation type="unfinished">Bị gián đoạn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="178"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="95"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="247"/>
         <source>Download stopped by user.</source>
         <translation type="unfinished">Quá trình tải đã bị người dùng hủy bỏ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="104"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="184"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="253"/>
         <source>Warnings</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="114"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="194"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="268"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="111"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="263"/>
         <source>Abort</source>
         <translation type="unfinished">Hủy bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="128"/>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="130"/>
         <source>Confirm Update</source>
         <translation type="unfinished">Khẳng định cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="131"/>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="151"/>
         <source>The resource pack updater was aborted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="155"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation type="unfinished">&apos;%1&apos; đang là bản mới nhất! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="158"/>
         <source>All resource packs are up-to-date! :)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="160"/>
         <source>All selected resource packs are up-to-date! :)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="163"/>
         <source>Update checker</source>
         <translation type="unfinished">Kiểm tra cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="204"/>
         <source>Confirm Removal</source>
         <translation type="unfinished">Xác Nhận Xóa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="205"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
         <translation type="unfinished"></translation>
@@ -11736,156 +11736,156 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
         <source>You&apos;re about to update the following resources:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
         <source>Only resources with a check will be updated!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="74"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation type="unfinished">Tên mod: %1&lt;br&gt;Tên tệp tin: %2&lt;br&gt;Lí do: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
         <source>Metadata generation failed</source>
         <translation type="unfinished">Thất bại khi tạo metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="93"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="92"/>
         <source>Checking for updates</source>
         <translation type="unfinished">Kiểm tra cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="114"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="201"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="344"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="359"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="200"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="343"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="358"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
         <source>Error</source>
         <translation type="unfinished">Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="209"/>
         <source>Warnings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="124"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="214"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="369"/>
         <source>Abort</source>
         <translation type="unfinished">Hủy bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
         <source>Checking for updates...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="172"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
         <source>Mod name: %1</source>
         <translation type="unfinished">Tên mod: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="174"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
         <source>Reason: %1</source>
         <translation type="unfinished">Lý do: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="176"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation type="unfinished">Giải pháp: cập nhật phiên bản mới nhất một cách thủ công:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="181"/>
         <source>Failed to check for updates</source>
         <translation type="unfinished">Thất bại khi kiểm tra phiên bản cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
         <source>Checking for dependencies...</source>
         <translation type="unfinished">Kiểm tra các phần tử phụ thuộc...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="235"/>
         <source>Not installed</source>
         <translation type="unfinished">Chưa được cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="272"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="271"/>
         <source>Looking for metadata</source>
         <translation type="unfinished">Đang tìm metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="314"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
         <source>Generating metadata...</source>
         <translation type="unfinished">Khởi tạo metadata...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="418"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="417"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation type="unfinished">Không thể tìm thấy phiên bản thích hợp từ nơi cung cấp mod đã được chọn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="428"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation type="unfinished">Mod đã bị vô hiệu hóa, có thể do đã được cài đặt từ trước đó.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="435"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
         <source>Provider: %1</source>
         <translation type="unfinished">Nhà cung cấp: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="438"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="437"/>
         <source>Old version: %1</source>
         <translation type="unfinished">Phiên bản cũ: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="440"/>
         <source>New version: %1</source>
         <translation type="unfinished">Phiên bản mới: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="444"/>
         <source>New Version Type: %1</source>
         <translation type="unfinished">Loại phiên bản mới: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"/>
         <source>Required by: %1</source>
         <translation type="unfinished">Yêu cầu bởi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="453"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="452"/>
         <source>Required by:</source>
         <translation type="unfinished">Yêu cầu bởi:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Changelog of the latest version</source>
         <translation type="unfinished">Nhật ký cập nhật cho phiên bản mới nhất</translation>
     </message>
@@ -12381,7 +12381,7 @@ Bạn có chắc không?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="167"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="240"/>
         <source>Error</source>
         <translation type="unfinished">Lỗi</translation>
     </message>
@@ -12389,28 +12389,28 @@ Bạn có chắc không?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="92"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="244"/>
         <source>Aborted</source>
         <translation type="unfinished">Bị gián đoạn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="92"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="244"/>
         <source>Download stopped by user.</source>
         <translation type="unfinished">Quá trình tải đã bị người dùng hủy bỏ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="98"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="177"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="250"/>
         <source>Warnings</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="187"/>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="260"/>
         <source>Abort</source>
         <translation type="unfinished">Hủy bỏ</translation>
     </message>
@@ -13190,93 +13190,93 @@ Cảnh báo: Tài nguyên này đã được liên kết chắc chắn ở đâu
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="132"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="178"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="231"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="249"/>
         <source>Error</source>
         <translation type="unfinished">Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="102"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="158"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="253"/>
         <source>Aborted</source>
         <translation type="unfinished">Bị gián đoạn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="102"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="182"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="255"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="253"/>
         <source>Download stopped by user.</source>
         <translation type="unfinished">Quá trình tải đã bị người dùng hủy bỏ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="108"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="188"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="259"/>
         <source>Warnings</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="198"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="269"/>
         <source>Abort</source>
         <translation type="unfinished">Hủy bỏ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="132"/>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
         <source>Confirm Update</source>
         <translation type="unfinished">Khẳng định cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="157"/>
         <source>The texture pack updater was aborted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="161"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation type="unfinished">&apos;%1&apos; đang là bản mới nhất! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="164"/>
         <source>All texture packs are up-to-date! :)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="166"/>
         <source>All selected texture packs are up-to-date! :)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
         <source>Update checker</source>
         <translation type="unfinished">Kiểm tra cập nhật</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="210"/>
         <source>Confirm Removal</source>
         <translation type="unfinished">Xác Nhận Xóa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="211"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
         <translation type="unfinished"></translation>
