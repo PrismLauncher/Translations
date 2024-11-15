@@ -2520,7 +2520,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita elemento selezionato</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2922,7 +2922,7 @@ Per favore, prova di nuovo.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando le mod per CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4484,44 +4484,44 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Scaricando Java</translation>
+        <translation>Scaricando Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Estraendo Java</translation>
+        <translation>Estraendo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Estraendo Java (Il progresso non è visibile per gli archivi tar)</translation>
+        <translation>Estraendo Java (Il progresso non è visibile per gli archivi tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Impossibile aprire il file tar fornito.</translation>
+        <translation>Impossibile aprire il file tar fornito.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Impossibile estrarre il file tar fornito.</translation>
+        <translation>Impossibile estrarre il file tar fornito.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Impossibile aprire il file zip fornito.</translation>
+        <translation>Impossibile aprire il file zip fornito.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">Nessun file è stato trovato nel file zip.</translation>
+        <translation>Nessun file è stato trovato nel file zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Impossibile determinare il tipo di archivio!</translation>
+        <translation>Impossibile determinare il tipo di archivio!</translation>
     </message>
 </context>
 <context>
@@ -4584,7 +4584,7 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Scaricando Java</translation>
+        <translation>Scaricando Java</translation>
     </message>
 </context>
 <context>
@@ -4592,27 +4592,27 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Controllando il percorso del file binario di Java</translation>
+        <translation>Controllando il percorso del file binario di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Cercando il percorso binario di Java</translation>
+        <translation>Cercando il percorso binario di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Impossibile trovare il percorso del file binario di Java</translation>
+        <translation>Impossibile trovare il percorso del file binario di Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Ottenendo le cartelle da collegare</translation>
+        <translation>Ottenendo le cartelle da collegare</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Collegando il percorso del file binario di Java</translation>
+        <translation>Collegando il percorso del file binario di Java</translation>
     </message>
 </context>
 <context>
@@ -5887,7 +5887,7 @@ Concedere l&apos;accesso a %1 con Flatseal è raccomandato.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile spostare Minecraft estratto!</translation>
     </message>
 </context>
 <context>
@@ -8645,7 +8645,7 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina metadata degli aggiornamenti</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12524,7 +12524,7 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">La mod è stata disabilitata siccome potrebbe già essere installata.</translation>
+        <translation>La mod è stata disabilitata siccome potrebbe già essere installata.</translation>
     </message>
 </context>
 <context>
