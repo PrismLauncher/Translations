@@ -2526,18 +2526,18 @@ Některé verze Minecraftu se nemusí spustit.
         <translation type="vanished">Odstranit metadata modu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
         <source>Context menu</source>
         <translation>Kontextové menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="216"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Vybrat %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="246"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -2548,7 +2548,7 @@ Tato akce může být trvalá a tyto položky ze složky zmizí.
 Jste si jisti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="251"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -2559,41 +2559,41 @@ Tato akce může být trvalá a složka z nadřazené složky zmizí.
 Jste si jisti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>Confirm Removal</source>
         <translation>Potvrdit odstranění</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="272"/>
         <source>Confirm Delete</source>
         <translation>Potvrdit odstranění</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Pokud tento prostředek odstraníte během hry, může dojít k pádu hry.
 Opravdu to chcete udělat?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
         <source>Confirm disable</source>
         <translation>Potvrdit zakázání</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="294"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Pokud tento prostředek zakážete během hry, může dojít k pádu hry.
 Jste si jisti, že to chcete udělat?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="359"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 nainstalováno, %2 vybráno)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="360"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="361"/>
         <source> (%1 installed)</source>
         <translation> (%1 nainstalováno)</translation>
     </message>

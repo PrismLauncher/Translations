@@ -2547,18 +2547,18 @@ Algumas versões do Minecraft podem não iniciar.
         <translation type="vanished">Remover metadados do mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
         <source>Context menu</source>
         <translation>Menu de contexto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="216"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Escolher %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="246"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -2569,7 +2569,7 @@ Isso pode ser permanente e eles serão removidos da pasta.
 Tem certeza?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="251"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -2580,41 +2580,41 @@ Isso pode ser permanente e desaparecerá da pasta pai.
 Tem certeza?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>Confirm Removal</source>
         <translation>Confirmar Remoção</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="272"/>
         <source>Confirm Delete</source>
         <translation>Confirmar exclusão</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Se você remover este recurso enquanto o jogo estiver em execução, ele poderá travar o jogo.
 Você tem certeza de que quer fazer isso?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
         <source>Confirm disable</source>
         <translation>Confirmar desativação</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="294"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Se você desativar este recurso enquanto o jogo estiver em execução, ele poderá travar o jogo.
 Você tem certeza de que quer fazer isso?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="359"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 instalado, %2 selecionado)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="360"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="361"/>
         <source> (%1 installed)</source>
         <translation> (%1 instalado)</translation>
     </message>

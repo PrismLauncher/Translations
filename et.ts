@@ -2470,18 +2470,18 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <translation>Mine modi kodulehele</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="132"/>
         <source>Context menu</source>
         <translation>Kontekstimenüü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="216"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Vali %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="246"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -2492,7 +2492,7 @@ See võib olla püsiv ning need eemaldatakse kaustast.
 Kas oled kindel?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="251"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -2503,41 +2503,41 @@ See võib olla püsiv ning need eemaldatakse kaustast.
 Kas oled kindel?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="257"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
         <source>Confirm Removal</source>
         <translation>Kinnita eemaldamist</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="272"/>
         <source>Confirm Delete</source>
         <translation>Kinnita kustutamist</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="273"/>
         <source>If you remove this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Kui eemaldad selle ressursi mängu käimasoleku ajal, võib see mängu kokku jooksutada.
 Kas soovid kindlasti seda teha?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
         <source>Confirm disable</source>
         <translation>Kinnita keelamist</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="294"/>
         <source>If you disable this resource while the game is running it may crash your game.
 Are you sure you want to do this?</source>
         <translation>Kui keelad selle ressursi mängu käimasoleku ajal, võib see mängu kokku jooksutada.
 Kas soovid kindlasti seda teha?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="359"/>
         <source> (%1 installed, %2 selected)</source>
         <translation> (%1 paigaldatud, %2 valitud)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="360"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="361"/>
         <source> (%1 installed)</source>
         <translation> (%1 installitud)</translation>
     </message>
