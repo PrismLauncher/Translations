@@ -13682,7 +13682,7 @@ The instance may not start due to this.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Javaのメジャーバージョンに互換性がありません。正常に動作しない可能性があります。</translation>
+        <translation>Javaのメジャーバージョンに互換性がありません。正常に動作しない場合があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="79"/>
