@@ -2532,7 +2532,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Disable selected item</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2934,7 +2934,7 @@ Please try again.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparing mods for CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
