@@ -1447,7 +1447,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="232"/>
         <source>Waiting for a task to start...</source>
-        <translation>タスク開始を待っています…</translation>
+        <translation>タスクの開始を待機中…</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="234"/>
@@ -7756,7 +7756,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="127"/>
         <source>Game time</source>
-        <translation>ゲーム中の時間</translation>
+        <translation>ゲームのプレイ時間</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="42"/>
@@ -8776,7 +8776,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="59"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation>ModrinthからのAPIレスポンスを待っています…</translation>
+        <translation>ModrinthからのAPIレスポンスを待機中…</translation>
     </message>
 </context>
 <context>
