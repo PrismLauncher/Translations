@@ -4073,7 +4073,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="715"/>
         <source>Override default account</source>
-        <translation>デフォルトアカウントをオーバーライドする</translation>
+        <translation>デフォルトアカウントを上書き</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="735"/>
