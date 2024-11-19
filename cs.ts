@@ -83,17 +83,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Upozornění: toto nastavte pouze, pokud chcete přistupovat k soukromým datům.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Upozorněnie: toto nastavte len, pokial chcete pristupovať k súkromím dátam.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation>Sem zadejte vlastní GUID ID klienta pro Technik.</translation>
+        <translation>Sem zadajte vlastní GUID ID klienta pre Technika.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
         <source>Miscellaneous</source>
-        <translation>Další nastavení</translation>
+        <translation>Ďalšie nastavenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="350"/>
