@@ -3870,12 +3870,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="29"/>
         <source>Open Global Settings</source>
-        <translation>グローバル設定を開く</translation>
+        <translation>全体設定を開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation>グローバル設定はここにある設定で上書きされます。</translation>
+        <translation>ここの設定は全体設定を上書きします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="52"/>
@@ -4156,7 +4156,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="651"/>
         <source>Override global game time settings</source>
-        <translation>グローバル設定のゲーム時間設定を上書き</translation>
+        <translation>全体設定のゲームプレイ時間設定を上書き</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="663"/>
@@ -6364,7 +6364,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="633"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation>%1でのバグを報告するためバグトラッカーを開きます。</translation>
+        <translation>%1のバグを報告するためのバグトラッカーを開きます。</translation>
     </message>
     <message>
         <source>Open %1 Matrix space</source>
@@ -6523,7 +6523,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="696"/>
         <source>Clear cached metadata</source>
-        <translation>キャッシュされたメタデータの削除</translation>
+        <translation>キャッシュされたメタデータをすべて削除します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
@@ -6641,7 +6641,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="541"/>
         <source>Close the current window</source>
-        <translation>このウィンドウを閉じる</translation>
+        <translation>現在のウィンドウを閉じます</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="762"/>
@@ -6726,7 +6726,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="753"/>
         <source>Open the %1 wiki</source>
-        <translation>%1のWikiを開く</translation>
+        <translation>%1のWikiを開きます</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="397"/>
@@ -8290,7 +8290,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
-        <translation>Modのホームページを開く</translation>
+        <translation>Modのホームページを開きます</translation>
     </message>
     <message>
         <source>Remove mod&apos;s metadata</source>
@@ -11607,7 +11607,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="164"/>
         <source>The name of the resource pack.</source>
-        <translation>リソース パックの名前。</translation>
+        <translation>リソースパックの名前。</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -11632,7 +11632,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation>オンラインプラットフォームからリソース パックをダウンロードします</translation>
+        <translation>オンライン プラットフォームからリソースパックをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -12298,7 +12298,7 @@ Currently installed version: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation>リソース (&amp;U)</translation>
+        <translation>リソースパック(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
@@ -12413,7 +12413,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>オンラインプラットフォームからシェーダーをダウンロードします</translation>
+        <translation>オンライン プラットフォームからシェーダーをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -13249,7 +13249,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download texture packs from online platforms</source>
-        <translation>オンラインプラットフォームからテクスチャーパックをダウンロードします</translation>
+        <translation>オンライン プラットフォームからテクスチャーパックをダウンロードします</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -14574,7 +14574,7 @@ Do you want to continue?</source>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEditが設定されていないか、移動されたようです。
-グローバル設定で設定してください。</translation>
+全体設定で設定してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
