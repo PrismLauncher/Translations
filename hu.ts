@@ -8915,7 +8915,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Only mods with a check will be updated!</source>
-        <translation>Csak a kipipált modok lesznek lefrissítve!</translation>
+        <translation>Csak a kipipált modok frissülnek!</translation>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
@@ -12507,12 +12507,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="117"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>Ezt készülsz letölteni %1:</translation>
+        <translation>A következő %1 letöltésére készül:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="118"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>Csak %1 a kipipált elemek lesznek letöltve!</translation>
+        <translation>Csak a kipipált %1 lesznek letöltve!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
