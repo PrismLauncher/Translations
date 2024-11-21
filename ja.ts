@@ -6464,7 +6464,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
         <source>Cop&amp;y...</source>
-        <translation>コピー(&amp;Y)...</translation>
+        <translation>複製(&amp;Y)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -6557,7 +6557,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
         <source>&amp;Update...</source>
-        <translation>アップデート(&amp;U)…</translation>
+        <translation>更新(&amp;U)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
@@ -6793,7 +6793,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="502"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
         <source>Create Shortcut</source>
-        <translation>ショートカット作成</translation>
+        <translation>ショートカットを作成</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="505"/>
@@ -7461,7 +7461,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="232"/>
         <source>Cannot update!</source>
-        <translation>アップデートできません！</translation>
+        <translation>更新できません！</translation>
     </message>
 </context>
 <context>
@@ -8272,7 +8272,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>選択したすべてのModのアップデートを確認します（未選択の場合はすべて）</translation>
+        <translation>選択されたModの更新を確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
@@ -8280,7 +8280,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Try to update and check for missing dependencies all selected mods (all mods if none are selected)</source>
-        <translation>選択したすべてのModのアップデートと依存関係を確認します（未選択の場合はすべて）</translation>
+        <translation>選択されたModの更新と依存関係を確認します（未選択の場合はすべて）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
