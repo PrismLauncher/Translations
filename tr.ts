@@ -4500,24 +4500,24 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Java ayıklanıyor</translation>
+        <translation>Java ayıklanıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Java ayıklanıyor (İlerleme tar arşivleri için bildirilmemiştir)</translation>
+        <translation>Java ayıklanıyor (Tar arşivleri için ayıklama ilerlemesi bildirilmez)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Sağlanan tar dosyası açılamadı.</translation>
+        <translation>Seçilen tar dosyası açılamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Sağlanan tar dosyası ayıklanamadı.</translation>
+        <translation>Seçilen tar dosyası ayıklanamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
@@ -4527,12 +4527,12 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">Sağlanan ZIP dosyasında hiçbir dosya bulunamadı.</translation>
+        <translation>Seçilen zip dosyasında hiçbir dosya bulunamadı.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Arşiv tipi belirlenemedi!</translation>
+        <translation>Arşiv tipi belirlenemedi!</translation>
     </message>
 </context>
 <context>
@@ -4603,27 +4603,27 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Java binary path kontrol ediliyor</translation>
+        <translation>Java yolu kontrol ediliyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Java binary path aranıyor</translation>
+        <translation>Java yolu aranıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Java binary path bulunamadı</translation>
+        <translation>Java yolu bulunamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Klasörler sembolik bağlantıya toplanıyor</translation>
+        <translation>Klasörler sembolik bağlantıya toplanıyor</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Java binary path sembolik bağlanıyor</translation>
+        <translation>Java yolu sembolik bağlanıyor</translation>
     </message>
 </context>
 <context>
@@ -5911,7 +5911,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayıklanmış Minecraft klasörü taşınamadı!</translation>
     </message>
 </context>
 <context>
@@ -8670,7 +8670,7 @@ Uyarı: Bu kaynak başka bir yere sabit bağlantılıdır. Düzenlemek, orijinal
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncelleme meta verisini sıfırla</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12159,7 +12159,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     </message>
     <message>
         <source>Download packs</source>
-        <translation>Paketleri indirin</translation>
+        <translation>Paketleri indir</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
@@ -12183,7 +12183,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="69"/>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Bir mod&apos;un sürümünü değiştir.</translation>
+        <translation>Bir modun sürümünü değiştir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="91"/>
@@ -12422,7 +12422,7 @@ Emin misin?</translation>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="428"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod zaten yüklenmiş olabileceği için devre dışı bırakıldı.</translation>
+        <translation>Mod, zaten kurulu olma ihtimali olduğu için devre dışı bırakıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
@@ -12493,7 +12493,7 @@ Emin misin?</translation>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod, zaten yüklenmiş olabileceğinden ötürü devre dışı bırakıldı.</translation>
+        <translation>Mod, zaten kurulu olma ihtimali olduğu için devre dışı bırakıldı.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
@@ -12552,7 +12552,7 @@ Emin misin?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Mod, zaten yüklenmiş olabileceğinden ötürü devre dışı bırakıldı.</translation>
+        <translation>Mod, zaten kurulu olma ihtimali olduğu için devre dışı bırakıldı.</translation>
     </message>
 </context>
 <context>
@@ -12956,7 +12956,7 @@ Emin misin?</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation>Çevrimiçi platformlardan gölgelendiricileri indir</translation>
+        <translation>Çevrimiçi platformlardan shader paketleri indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
@@ -12966,17 +12966,17 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shader packs from online mod platforms</source>
-        <translation>Çevrimiçi mod platformlarından gölgelendirici paketlerini indir</translation>
+        <translation>Çevrimiçi mod platformlarından shader paketlerini indir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="60"/>
         <source>Try to check or update all selected shader packs (all shader packs if none are selected)</source>
-        <translation>Seçili tüm gölgelendirici paketlerini kontrol etmeye veya güncellemeye çalış (hiçbiri seçilmemişse tüm gölgelendirici paketleri)</translation>
+        <translation>Seçili tüm shader paketlerini kontrol etmeye veya güncellemeye çalış (hiçbiri seçilmemişse tüm paketler güncellenecek)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="74"/>
         <source>Change a shader pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir shader paketinin sürümünü değiştir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="88"/>
@@ -13812,7 +13812,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
         <source>Change a texture pack&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir doku paketinin sürümünü değiştir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="77"/>
