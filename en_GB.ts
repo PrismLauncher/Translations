@@ -5937,7 +5937,7 @@ Granting %1 access to it via Flatseal is recommended.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation>Failed to move unzipped Minecraft!</translation>
+        <translation type="unfinished">Failed to move unzipped Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
