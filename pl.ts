@@ -2934,7 +2934,7 @@ Spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Przygotowywanie modyfikacji dla CurseForge&apos;a...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4572,12 +4572,12 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Błąd wypakowywania dostarczonego pliku tar.</translation>
+        <translation>Nie można wypakować dostarczonego pliku tar.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć dostarczonego pliku zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
@@ -4663,12 +4663,12 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Wyszukiwanie pliku Javy</translation>
+        <translation>Wyszukiwanie ścieżki pliku Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Nie udało się znaleźć pliku Javy</translation>
+        <translation>Nie udało się znaleźć ścieżki pliku Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
@@ -8760,7 +8760,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicjalizacja metadanych aktualizacji</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -12566,7 +12566,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="417"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Nie udało się znaleźć odpowiedniej wersji u wybranego dostawcy(ów) modyfikacji</translation>
+        <translation>Nie można znaleźć odpowiedniej wersji u wybranego dostawcy(ów) modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="428"/>
@@ -12592,7 +12592,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="444"/>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">Nowy Typ Wersji: %1</translation>
+        <translation>Typ Nowej Wersji: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"/>
@@ -12643,7 +12643,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod został wyłączony, ponieważ może być już zainstalowany.</translation>
+        <translation>Mod został dezaktywowany, gdyż może być już zainstalowany.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
@@ -12702,7 +12702,7 @@ Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Modyfikacja została wyłączona, ponieważ może być już zainstalowana.</translation>
+        <translation>Mod został dezaktywowany , ponieważ może być już zainstalowany.</translation>
     </message>
 </context>
 <context>
@@ -13194,7 +13194,7 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="152"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; jest w najnowszej wersji! :)</translation>
+        <translation>&apos;%1&apos; jest aktualny! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="155"/>
@@ -13352,12 +13352,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="97"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="98"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="144"/>
@@ -14035,7 +14035,7 @@ Czy jesteś pewny/a że chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="161"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; jest w najnowszej wersji! :)</translation>
+        <translation>&apos;%1&apos; jest aktualne! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="164"/>
@@ -14055,7 +14055,7 @@ Czy jesteś pewny/a że chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="210"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potwierdź usunięcie</translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="211"/>
