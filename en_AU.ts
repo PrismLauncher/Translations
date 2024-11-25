@@ -3131,7 +3131,7 @@ Please try again.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -4270,22 +4270,22 @@ Please make sure that the maximum memory value is lower.</translation>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Unable to extract supplied .tar file.</translation>
+        <translation>Unable to extract supplied tar file.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Unable to open supplied .zip file.</translation>
+        <translation>Unable to open supplied zip file.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">No files were found in the supplied zip file.</translation>
+        <translation>No files were found in the supplied zip file.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Could not determine archive type!</translation>
+        <translation>Could not determine archive type!</translation>
     </message>
 </context>
 <context>
@@ -4348,7 +4348,7 @@ Please make sure that the maximum memory value is lower.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Downloading Java</translation>
+        <translation>Downloading Java</translation>
     </message>
 </context>
 <context>
@@ -4356,27 +4356,27 @@ Please make sure that the maximum memory value is lower.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Checking for Java binary path</translation>
+        <translation>Checking for Java binary path</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Searching for Java binary path</translation>
+        <translation>Searching for Java binary path</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Failed to find Java binary path</translation>
+        <translation>Failed to find Java binary path</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Collecting folders to symlink</translation>
+        <translation>Collecting folders to symlink</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Symlinking Java binary path</translation>
+        <translation>Symlinking Java binary path</translation>
     </message>
 </context>
 <context>
@@ -5633,7 +5633,7 @@ Granting %1 access to it via Flatseal is recommended.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to move unzipped Minecraft!</translation>
     </message>
 </context>
 <context>
@@ -8040,7 +8040,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset update metadata</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -8851,7 +8851,7 @@ Please update %1!</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11829,7 +11829,7 @@ Are you sure?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Mod was disabled as it may be already installed.</translation>
+        <translation>Mod was disabled as it may be already installed.</translation>
     </message>
 </context>
 <context>
