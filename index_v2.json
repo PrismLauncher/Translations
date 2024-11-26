@@ -307,11 +307,11 @@
             "untranslated" : 1776
         },
         "it" : {
-            "file" : "9fc0a8f9793511d3a69f0d22608fc1a73424e48a.class",
-            "sha1" : "9fc0a8f9793511d3a69f0d22608fc1a73424e48a",
+            "file" : "cf7e436ab86b63a42b65d7b5a41ae75703c4f545.class",
+            "sha1" : "cf7e436ab86b63a42b65d7b5a41ae75703c4f545",
             "size" : 341307,
-            "translated" : 2252,
-            "fuzzy" : 0,
+            "translated" : 2251,
+            "fuzzy" : 1,
             "untranslated" : 0
         },
         "ja" : {
