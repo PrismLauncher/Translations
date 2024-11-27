@@ -78,17 +78,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Klien Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: anda hanya perlu menetapkan ini untuk mengakses data peribadi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan ID klien GUID tersuai untuk Technic di sini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -730,7 +730,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Semua Versi</translation>
     </message>
 </context>
 <context>
@@ -825,7 +825,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori /tmp anda sedang dipasang dengan bendera &apos;noexec&apos; didayakan.
+Sesetengah versi Minecraft mungkin tidak akan dilancarkan.
+
+Anda boleh menyelesaikan isu ini dengan memasang semula /tmp sebagai &apos;exec&apos; atau menetapkan argumen JVM java.io.tmpdir kepada direktori boleh tulis dalam sistem fail di mana bendera &apos;exec&apos; ditetapkan (cth., /home/user/.local/tmp )
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -1100,52 +1104,52 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mekanisme Java automatik mengesan pemasangan Java 32-bit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiada versi Java yang serasi ditemui. Akan enggunakan yang lalai.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem anda (%1-%2) tidak serasi dengan pemasangan Java automatik. Akan menggunakan laluan Java lalai.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maklumat meta anda sudah lapuk atau tidak mempunyai maklumat yang diperlukan untuk menentukan pemasangan Java yang harus digunakan. Akan menggunakan laluan Java lalai.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
         <source>Compatible Java found at: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java yang serasi ditemui di: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="154"/>
         <source>No compatible Java version was found (the binary file does not exist). Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiada versi Java yang serasi ditemui (fail binari tidak wujud). Akan menggunakan yang lalai.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dapat menentukan jenis muat turun Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
         <source>No versions of Java were found for your operating system: %1-%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiada versi Java ditemui untuk sistem pengoperasian anda: %1-%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiada versi Java yang serasi ditemui. Akan menggunakan yang lalai.</translation>
     </message>
 </context>
 <context>
@@ -1158,23 +1162,23 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Pemberitahuan Ciri Baharu!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kami telah menambah ciri untuk memuat turun versi Java yang betul secara automatik untuk setiap versi Minecraft (ini boleh ditukar dalam Tetapan Java). Adakah anda ingin mendayakan atau menyahdayakan ciri ini?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Dayakan Pemuatturunan Automatik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyahdayakan Pemuatturunan Automatik</translation>
     </message>
 </context>
 <context>
@@ -1797,7 +1801,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sedang menyemak sama ada sumber mempunyai metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
@@ -2192,7 +2196,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Simpan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
@@ -2252,27 +2256,27 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished">Nyahdayakan item yang dipilih</translation>
+        <translation>Nyahdayakan item yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Add File</source>
-        <translation type="unfinished"></translation>
+        <translation>T&amp;ambah Fail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Add a locally downloaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambah fail tempatan yang dimuat turun.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus semua item yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyahdayakan semua item yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
@@ -3646,7 +3650,7 @@ Sila cuba lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="291"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
-        <translation type="unfinished"></translation>
+        <translation>Permainan asas hanya menyokong resolusi. Untuk mensimulasikan tingkah laku yang dimaksimumkan, pelaksanaan semasa adalah menghampiri saiz paparan maksimum..</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="294"/>
@@ -4402,7 +4406,12 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Anda memilih pemasangan Java 32-bit, tetapi memperuntukkan lebih daripada 2048MiB sebagai memori maksimum.
+%1 tidak akan dapat memulakan Minecraft.
+Adakah anda ingin meneruskan?
+
+Anda boleh menukar versi Java dalam tetapan kemudian.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="244"/>
@@ -4412,7 +4421,12 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Anda sama ada tidak memilih versi Java atau memilih versi yang tidak berfungsi.
+%1 tidak akan dapat memulakan Minecraft.
+Adakah anda ingin meneruskan tanpa versi Java yang berfungsi?
+
+Anda boleh menukar versi Java dalam tetapan kemudian.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="353"/>
@@ -7038,7 +7052,7 @@ Ini boleh dikemas kini hanya menggunakan fail dalam format % 1
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="325"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan Zink, pemacu Mesa OpenGL yang melaksanakan OpenGL di atas Vulkan. Prestasi mungkin berbeza bergantung pada keadaan. Catatan: Jika tiada pemacu Vulkan yang sesuai ditemui, pemaparan perisian akan digunakan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="328"/>
@@ -7565,7 +7579,9 @@ Are you sure you want to do this?</source>
         <oldsource>If you update mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mengemas kini mod semasa permainan sedang berjalan boleh menyebabkan pertindihan mod dan ranap permainan.
+Fail lama tidak boleh dipadam kerana ia sedang digunakan.
+Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
@@ -8010,7 +8026,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="296"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Projek ini telah diarkibkan. Ia tidak akan menerima sebarang kemas kini lanjut melainkan pengarang memutuskan untuk menyahrkibkan projek.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="301"/>
@@ -8835,7 +8851,12 @@ Make sure you have write permissions to the data folder.
 (%1)
 
 The updater cannot continue until you fix this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengemas kini tidak dapat mencipta fail log - folder data tidak boleh ditulis.
+
+Pastikan anda mempunyai kebenaran menulis ke folder data.
+(%1)
+
+Pengemas kini tidak boleh meneruskan sehingga anda membetulkan masalah ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
@@ -8845,7 +8866,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tindakan di luar menyemak sama ada kemas kini tersedia tidak disokong semasa menjalankan versi flatpak Prism Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="647"/>
@@ -8963,7 +8984,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To overwrite this lock and proceed with this update anyway, select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemasangan ini mempunyai fail kunci kemas kini di: % 1
+
+Cap masa: %2
+Mengemas kini daripada versi %3 kepada %4
+Laluan pemasangan sasaran: %5
+Laluan Data: %6
+Ini berkemungkinan bermakna percubaan kemas kini sebelumnya gagal. Sila pastikan pemasangan anda berfungsi sebelum meneruskan.
+Semak log pengemas kini Prism Launcher di: 
+%7
+untuk butiran tentang percubaan kemas kini terakhir.
+
+Untuk menulis ganti kunci ini dan teruskan dengan kemas kini ini, pilih &quot;Abaikan&quot; di bawah.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
@@ -10120,7 +10152,7 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Projek ini telah diarkibkan. Ia tidak akan menerima sebarang kemas kini lanjut melainkan pengarang memutuskan untuk menyahrkibkan projek.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="217"/>
@@ -10550,7 +10582,9 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengemas kini pek sumber semasa permainan berjalan boleh menyebabkan pertindihan pek dan ranap permainan.
+Fail lama tidak boleh dipadam kerana ia sedang digunakan.
+Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="151"/>
@@ -10714,7 +10748,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="314"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumber &apos;%1&apos; belum mempunyai metadata lagi. Kami perlu menjananya untuk menjejaki maklumat yang berkaitan tentang cara mengemas kini mod ini. Untuk melakukan ini, sila pilih penyedia mod yang boleh kami gunakan untuk menyemak kemas kini untuk mod ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
@@ -11298,7 +11332,9 @@ Adakah anda pasti?</translation>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengemas kini pek pembayang semasa permainan berjalan mungkin menyebabkan pertindihan pek dan ranap permainan.
+Fail lama tidak boleh dipadam kerana ia sedang digunakan.
+Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="148"/>
@@ -12038,7 +12074,9 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengemas kini pek tekstur semasa permainan berjalan boleh menyebabkan pertindihan pek dan ranap permainan.
+Fail lama tidak boleh dipadam kerana ia sedang digunakan.
+Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="157"/>
