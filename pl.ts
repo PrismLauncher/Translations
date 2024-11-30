@@ -5970,7 +5970,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się przenieść rozpakowanego Minecrafta!</translation>
     </message>
 </context>
 <context>
@@ -12943,7 +12943,7 @@ Aktualnie zainstalowana wersja: %1</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
