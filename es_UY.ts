@@ -2387,7 +2387,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation>Restablecer metadatos de actualización</translation>
+        <translation>Restablecer Metadatos de Actualización</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
@@ -2452,7 +2452,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshabilitar objeto seleccionado</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2854,7 +2854,7 @@ Por favor inténtalo nuevamente.</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando mods para CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -4345,44 +4345,44 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Descargando Java</translation>
+        <translation>Descargando Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Extrayendo Java</translation>
+        <translation>Extrayendo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Extrayendo Java (El progreso no es reportado para archivos TAR.)</translation>
+        <translation>Extrayendo Java (no se informa del progreso a los archivos tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">No se pudo abrir el archivo TAR suministrado.</translation>
+        <translation>No se puede abrir el archivo tar proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">No se pudo extraer el archivo TAR suministrado.</translation>
+        <translation>No se pudo extraer el archivo tar proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir el archivo zip proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="98"/>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">No se encontraron archivos en el archivo ZIP suministrado.</translation>
+        <translation>No se han encontrado archivos en el archivo zip proporcionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">¡No se pudo determinar el tipo de archivo!</translation>
+        <translation>¡No se pudo determinar el tipo de archivo!</translation>
     </message>
 </context>
 <context>
@@ -4445,7 +4445,7 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/java/download/ManifestDownloadTask.cpp" line="40"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Descargando Java</translation>
+        <translation>Descargando Java</translation>
     </message>
 </context>
 <context>
@@ -4453,27 +4453,27 @@ Verificar que el valor de memoria máxima es inferior.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Comprobando la ruta del binario de Java</translation>
+        <translation>Comprobando la ruta del binario de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished">Buscando la ruta del binario de Java</translation>
+        <translation>Buscando la ruta del binario de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Error al encontrar la ruta del binario de Java</translation>
+        <translation>Error al encontrar la ruta del binario de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Recopilando carpetas para enlace simbólico</translation>
+        <translation>Recopilando carpetas para enlace simbólico</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Enlace simbólico de la ruta del binario de Java</translation>
+        <translation>Enlace simbólico de la ruta del binario de Java</translation>
     </message>
 </context>
 <context>
@@ -5713,7 +5713,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se pudo mover Minecraft descomprimido!</translation>
     </message>
 </context>
 <context>
@@ -8256,7 +8256,7 @@ Advertencia: Este recurso está enlazado desde otro sitio. Si se edita, también
     </message>
     <message>
         <source>Reset update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer metadatos de actualización</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -10971,7 +10971,7 @@ NOTA: Asegúrate de hacer una copia de seguridad de los datos importantes de tu 
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">Cambiar versión %1</translation>
+        <translation>Cambiar a versión %1</translation>
     </message>
 </context>
 <context>
@@ -11493,7 +11493,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está el pack de recursos habilitado? (Sólo válido para ZIPs)</translation>
     </message>
 </context>
 <context>
@@ -11505,11 +11505,11 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     </message>
     <message>
         <source>Download packs</source>
-        <translation type="unfinished">Descarga paquetes</translation>
+        <translation>Descargar paquetes</translation>
     </message>
     <message>
         <source>Download resource packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar packs de recursos de plataformas en línea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
@@ -11886,7 +11886,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Se deshabilitó el mod ya que quizás ya está instalado.</translation>
+        <translation>El mod ha sido deshabilitado, debido a que ya se encuentra instalado.</translation>
     </message>
 </context>
 <context>
@@ -12381,11 +12381,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar shaders</translation>
     </message>
     <message>
         <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar shaders de plataformas en línea</translation>
     </message>
 </context>
 <context>
