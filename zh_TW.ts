@@ -167,12 +167,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="342"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>無法獲得本機元素索引 %1</translation>
+        <translation>無法取得 %1 的本機中繼資料索引</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="152"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>無法獲得本機元素索引「%1」v%2</translation>
+        <translation>無法取得「%1」v%2 的本機中繼資料索引</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
@@ -2982,7 +2982,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>無法獲得本機元素索引 %1</translation>
+        <translation>無法取得 %1 的本機中繼資料索引</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="301"/>
@@ -6501,7 +6501,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="119"/>
         <source>Got </source>
-        <translation>已獲得 </translation>
+        <translation>已取得 </translation>
     </message>
     <message>
         <source>Microsoft user authentication ended with a network error.</source>
@@ -15272,7 +15272,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="66"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation>無法獲得 %1 服務的授權。錯誤 %2。</translation>
+        <translation>無法取得 %1 服務的授權。錯誤 %2。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
@@ -15297,7 +15297,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Got authorization to access %1</source>
-        <translation>已獲權存取 %1</translation>
+        <translation>已取得存取 %1 的授權</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="104"/>
