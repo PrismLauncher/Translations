@@ -5354,7 +5354,7 @@ Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje 
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
-        <translation>Uzyskanie dostępu do usług Mojang.</translation>
+        <translation>Uzyskiwanie dostępu do usług Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="60"/>
@@ -15348,7 +15348,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="20"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation>Uzyskanie autoryzacji dostępu do usług %1.</translation>
+        <translation>Uzyskiwanie autoryzacji dostępu do usług %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="66"/>
