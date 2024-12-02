@@ -2798,7 +2798,7 @@ Prosím zkus znovu.</translation>
         <translation>Import z aplikace FTB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Vyhledat a filtrovat...</translation>
     </message>
@@ -2807,13 +2807,13 @@ Prosím zkus znovu.</translation>
         <translation type="vanished">Hledat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
         <translation>Vyberte adresář instancí FTBApp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Upozornění: pokud se vaše instance FTB nenacházejí ve výchozím umístění, vyberte jej kliknutím na tlačítko vedle vyhledávání.</translation>
     </message>

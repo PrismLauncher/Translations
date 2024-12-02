@@ -2807,7 +2807,7 @@ Please try again.</source>
         <translation>FTB 앱에서 가져오기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>검색 및 필터...</translation>
     </message>
@@ -2816,13 +2816,13 @@ Please try again.</source>
         <translation type="vanished">검색</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
         <translation>FTB 앱 인스턴스 디렉터리 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>참고: 만약 당신의 FTB 인스턴스가 기본 위치에 없다면, 버튼을 이용해 선택하고 다음 버튼을 눌러 검색하십시오.</translation>
     </message>

@@ -2743,7 +2743,7 @@ Vui lòng thử lại.</translation>
         <translation>FTB App Import</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Tìm kiếm và lọc...</translation>
     </message>
@@ -2752,13 +2752,13 @@ Vui lòng thử lại.</translation>
         <translation type="vanished">Tìm kiếm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
         <translation>Chọn FTBApp thư mực trường hợp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Lưu ý: Nếu các phiên bản FTB không nằm ở đường dẫn mặc định, nhấn nút bên cạnh tìm kiếm để chọn đường dẫn.</translation>
     </message>

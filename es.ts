@@ -2819,7 +2819,7 @@ Por favor, inténtelo de nuevo.</translation>
         <translation>Importar App de FTB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Burcar y filtrar...</translation>
     </message>
@@ -2828,13 +2828,13 @@ Por favor, inténtelo de nuevo.</translation>
         <translation type="vanished">Buscar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
         <translation>Seleccione el directorio de instancias FTBApp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Nota: Si sus instancias de FTB no se encuentran en la ubicación predeterminada, selecciónela mediante el botón situado junto a la búsqueda.</translation>
     </message>

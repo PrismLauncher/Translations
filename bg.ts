@@ -2668,7 +2668,7 @@ Please try again.</source>
         <translation>Вмъкване от FTB приложение</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation type="unfinished">Търси и филтрирай...</translation>
     </message>
@@ -2677,13 +2677,13 @@ Please try again.</source>
         <translation type="obsolete">Търси</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
         <translation>Изберете директория за инстанции от FTB приложение</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Забележка: Ако вашите FTB инстанции не се намират в папката по подразбиране, изберете папка като използвате бутона намиращ се до полето за търсене.</translation>
     </message>

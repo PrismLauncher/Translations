@@ -2815,7 +2815,7 @@ Lütfen tekrar deneyin.</translation>
         <translation>FTB uygulamasından aktar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>Ara ve filtrele...</translation>
     </message>
@@ -2824,13 +2824,13 @@ Lütfen tekrar deneyin.</translation>
         <translation type="vanished">Ara</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
         <translation>FTB uygulamasının kurulumlarının bulunduğu klasörü seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>Not: Eğer FTB kurulumları varsayılan konumda değilse, arama tuşunun yanında ki düğmeye basarak seçin.</translation>
     </message>

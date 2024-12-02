@@ -2714,7 +2714,7 @@ Please try again.</source>
         <translation>การนำเข้าแอป FTB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="34"/>
         <source>Search and filter...</source>
         <translation>ค้นหาและกรอง...</translation>
     </message>
@@ -2723,13 +2723,13 @@ Please try again.</source>
         <translation type="obsolete">ค้นหา</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="44"/>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.cpp" line="62"/>
         <source>Select FTBApp instances directory</source>
         <translation>เลือกไดเรกทอรีอินสแตนซ์ FTBApp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
         <translation>หมายเหตุ: หากอินสแตนซ์ FTB ของคุณไม่ได้อยู่ในตำแหน่งเริ่มต้น ให้เลือกโดยใช้ปุ่มถัดจากการค้นหา</translation>
     </message>
