@@ -4561,12 +4561,12 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Wypakowywanie Javy (Proces nie jest zapisywany w archiwach tar)</translation>
+        <translation>Wypakowywanie Javy (Proces nie jest pokazywany dla archiw tar)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Błąd otwierania dostarczonego pliku tar.</translation>
+        <translation>Nie można otworzyć dostarczonego pliku tar.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
@@ -4587,7 +4587,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="130"/>
         <source>Could not determine archive type!</source>
-        <translation type="unfinished">Nie można ustalić typu archiwum!</translation>
+        <translation>Nie można rozpoznać typu archiwum!</translation>
     </message>
 </context>
 <context>
@@ -4658,7 +4658,7 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Sprawdzanie ścieżki do pliku Javy</translation>
+        <translation>Szukanie ścieżki pliku binarnego Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
@@ -4673,12 +4673,12 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
         <source>Collecting folders to symlink</source>
-        <translation type="unfinished">Zbieranie folderów do symlinkowania</translation>
+        <translation>Zbieranie folderów do łącza symbolicznego</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished">Symlinkowanie ścieżki do pliku Javy</translation>
+        <translation>Łączenie symboliczne ścieżki do pliku Javy</translation>
     </message>
 </context>
 <context>
@@ -12577,17 +12577,17 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Dostawca: %1</translation>
+        <translation>Dostawca: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="437"/>
         <source>Old version: %1</source>
-        <translation type="unfinished">Stara wersja: %1</translation>
+        <translation>Starsza wersja: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="440"/>
         <source>New version: %1</source>
-        <translation type="unfinished">Nowa wersja: %1</translation>
+        <translation>Nowa wersja: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="444"/>
@@ -12597,17 +12597,17 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"/>
         <source>Required by: %1</source>
-        <translation type="unfinished">Wymagany przez: %1</translation>
+        <translation>Wymagane przez: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="452"/>
         <source>Required by:</source>
-        <translation type="unfinished">Wymagany przez:</translation>
+        <translation>Wymagane przez:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished">Lista zmian ostatniej wersji</translation>
+        <translation>Zmiany w ostatniej wersji</translation>
     </message>
 </context>
 <context>
@@ -12632,12 +12632,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="25"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="44"/>
@@ -12878,12 +12878,12 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="13"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.cpp" line="14"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12938,7 +12938,7 @@ Aktualnie zainstalowana wersja: %1</translation>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
@@ -13175,7 +13175,7 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="127"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potwierdź aktualizację</translation>
+        <translation>Potwierdź aktualizację</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="128"/>
@@ -13209,12 +13209,12 @@ Czy na pewno chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="160"/>
         <source>Update checker</source>
-        <translation type="unfinished">Sprawdzacz aktualizacji</translation>
+        <translation>Sprawdź aktualizacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="201"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potwierdź usunięcie</translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="202"/>
@@ -13885,7 +13885,7 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Provider</source>
-        <translation type="unfinished">Dostawca</translation>
+        <translation>Dostawca</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="87"/>
@@ -13957,7 +13957,7 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="59"/>
         <source>Try to check or update all selected texture packs (all texture packs if none are selected)</source>
-        <translation type="unfinished">Spróbuj sprawdzić lub zaktualizować wszystkie wybrane paczki tekstur (wszystkie paczki tekstur jeśli żadne nie zostały wybrane)</translation>
+        <translation>Spróbuje sprawdzić lub zaktualizować wszystkie wybrane paczki tekstur (wszystkie paczki tekstur jeśli żadne nie zostały wybrane)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="73"/>
@@ -14016,7 +14016,7 @@ Uwaga: Ten zasób jest twardo połączony z innego miejsca. Edycja spowoduje ró
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="136"/>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potwierdź aktualizację</translation>
+        <translation>Potwierdź aktualizację</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="137"/>
@@ -14050,7 +14050,7 @@ Czy jesteś pewny/a że chcesz to zrobić?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="169"/>
         <source>Update checker</source>
-        <translation type="unfinished">Sprawdzacz aktualizacji</translation>
+        <translation>Sprawdź aktualizacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="210"/>
@@ -15024,7 +15024,7 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
