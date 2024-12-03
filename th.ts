@@ -1652,7 +1652,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished">วิธีใช้</translation>
+        <translation>ช่วยเหลือ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
@@ -2365,47 +2365,47 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
         <source>Try to check or update all selected resources (all resources if none are selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>ลองตรวจสอบหรือปรับปรุงทรัพยากรที่เลือกทั้งหมด (หากไม่ได้เลือกทรัพยากรใด ๆ จะเป็นทรัพยากรทั้งหมด)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>รีเซ็ตอัปเดตข้อมูลเมตา</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบการอ้างอิง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>รายการส่งออก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>ส่งออกข้อมูลเมตาของทรัพยากรเป็นข้อความ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนเวอร์ชั่น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนเวอร์ชันของทรัพยากร</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูหน้าแรก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูหน้าแรกของรายการที่เลือกทั้งหมด</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -2435,7 +2435,7 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>ปิดการใช้งานรายการที่เลือก</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2797,31 +2797,31 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบเวอร์ชันที่ถูกต้องสำหรับทรัพยากรนี้ อาจไม่พร้อมใช้งานสำหรับเวอร์ชันเกม / ตัวโหลด mod ปัจจุบัน</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบเวอร์ชันที่ถูกต้องสำหรับทรัพยากรนี้ อาจไม่พร้อมใช้งานสำหรับเวอร์ชันเกมปัจจุบัน</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="158"/>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
-        <translation type="unfinished"></translation>
+        <translation>ทรัพยากรมีการอัปเดตใหม่แล้ว แต่ไม่สามารถดาวน์โหลดโดยใช้ CurseForge ได้</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="174"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้ติดตั้ง</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ทราบ</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังเตรียม mod สำหรับ CurseForge...</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3531,7 +3531,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="107"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>ตกลง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
@@ -3845,12 +3845,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="291"/>
         <source>The base game only supports resolution. In order to simulate the maximized behaviour the current implementation approximates the maximum display size..</source>
-        <translation type="unfinished"></translation>
+        <translation>เกมพื้นฐานรองรับความละเอียดเท่านั้น เพื่อจำลองพฤติกรรมที่ขยายใหญ่สุด การใช้งานปัจจุบันจะประมาณขนาดการแสดงผลสูงสุด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="294"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported for the current minecraft version.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;คำเตือน&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: รุ่นของminecraftปัจจุบันอาจไม่สนับสนุนตัวเลือกการขยายใหญ่สุดอย่างสมบูรณ์&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="303"/>
@@ -4321,17 +4321,17 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="46"/>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจสอบเส้นทางไบนารี Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="54"/>
         <source>Searching for Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหาเส้นทางไบนารี Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="58"/>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบเส้นทางไบนารีจาวา</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="63"/>
@@ -4341,7 +4341,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/java/download/SymlinkTask.cpp" line="71"/>
         <source>Symlinking Java binary path</source>
-        <translation type="unfinished"></translation>
+        <translation>การเชื่อมโยงเส้นทางไบนารี Java</translation>
     </message>
 </context>
 <context>
@@ -4866,17 +4866,17 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีหมดอายุและต้องมีการตรวจสอบอีกครั้ง คุณต้องการยืนยันบัญชีนี้อีกครั้งหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีหมดอายุและการพยายามเข้าสู่ระบบใหม่ล้มเหลว</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>บัญชีหมดอายุแล้วและต้องมีการตรวจสอบสิทธิ์อีกครั้ง</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="354"/>
