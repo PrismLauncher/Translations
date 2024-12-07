@@ -1658,7 +1658,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Nary be a logbook from olden times. Some o&apos; the the files may be duplicated. Be ye certain about this?</translation>
+        <translation>Nary be a logbook from olden times. Some o&apos; the files may be duplicated. Be ye certain about this?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
@@ -1782,7 +1782,7 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation>Order by Captain&apos;s Favviorit&apos; Choice</translation>
+        <translation>Sort by Captain&apos;s Favviorit&apos; Choice</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
