@@ -78,7 +78,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished">Technic Klient-ID</translation>
+        <translation>Technic Klient-ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
@@ -753,7 +753,7 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle versioner</translation>
     </message>
 </context>
 <context>
@@ -1199,7 +1199,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
         <source>Install Java</source>
-        <translation type="unfinished">Installer Java</translation>
+        <translation>Installer Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="214"/>
@@ -1269,12 +1269,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -1371,7 +1371,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="188"/>
         <source>Aborted</source>
-        <translation>Aborted</translation>
+        <translation>Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="211"/>
@@ -1620,17 +1620,17 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished">Hjelp</translation>
+        <translation>Hjelp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1850,12 +1850,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1974,12 +1974,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2086,12 +2086,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="108"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="134"/>
@@ -2229,12 +2229,12 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
@@ -2294,7 +2294,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="125"/>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished">Deaktiver valgt element</translation>
+        <translation>Aktiver all valgte elementer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
@@ -2304,17 +2304,17 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Add a locally downloaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til en lokalt nedlastet fil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern alle valgte elementer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiver alle valgte elementer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
@@ -2334,7 +2334,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="152"/>
         <source>Open the folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne den valgte mappen i systemets filutforsker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="160"/>
@@ -2344,7 +2344,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="163"/>
         <source>Download resources from online mod platforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Last ned ressurser fra mod platformer på nettet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="174"/>
@@ -2354,42 +2354,42 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="179"/>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset metadata for oppdateringer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="187"/>
         <source>Verify Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Dobbeltsjekk avhengigheter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="198"/>
         <source>Export List</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksporter liste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="201"/>
         <source>Export resource&apos;s metadata to text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksporter ressursens metadata til tekst.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="209"/>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Endre versjon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Endre versionen til en ressurs.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
         <source>View Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis hjemmeside</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="226"/>
         <source>View the homepages of all selected items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis hjemmesiden til alle valgte elementer.</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -2419,7 +2419,7 @@ Noen versjoner av Minecraft vil kanskje ikke starte.
     </message>
     <message>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiver det valgte elementet</translation>
     </message>
     <message>
         <source>Go to mods home page</source>
@@ -2756,7 +2756,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Tolker API respons fra CurseForge for &apos;%1&apos;...</translation>
+        <translation>Tolker API respons fra CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2785,7 +2785,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen gyldig version funnet for denne ressursen. Den er sannsynligvis ikke tilgjengelig for den nåværende versjonen av spillet / mod lasteren.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
@@ -2805,7 +2805,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="176"/>
         <source>Unknown</source>
-        <translation type="unfinished">Ukjent</translation>
+        <translation>Ukjent</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -3050,7 +3050,7 @@ Vennligst prøv på nytt.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -3302,12 +3302,12 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="77"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="78"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="88"/>
@@ -3439,12 +3439,12 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="50"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3480,13 +3480,13 @@ Vennligst prøv på nytt.</translation>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Klarte ikke å laste eller laste ned java-versjonslistene!</translation>
+        <translation>Klarte ikke å laste eller laste ned java-versjonslistene!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Ingen java-versjoner er tilgjengelige for operativsystemet ditt.</translation>
+        <translation>Ingen java-versjoner er tilgjengelige for operativsystemet ditt.</translation>
     </message>
 </context>
 <context>
@@ -3504,7 +3504,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="136"/>
@@ -3542,7 +3542,7 @@ Vennligst prøv på nytt.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/InstallLoaderDialog.cpp" line="44"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Ingen versjon er tilgjengelig for Minecraft %1 på dette tidspunkt.</translation>
+        <translation>Ingen versjon er tilgjengelig for Minecraft %1 på dette tidspunkt</translation>
     </message>
 </context>
 <context>
@@ -4220,29 +4220,29 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="37"/>
         <source>Downloading Java</source>
-        <translation type="unfinished">Laster ned Java</translation>
+        <translation>Laster ned Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="68"/>
         <source>Extracting Java</source>
-        <translation type="unfinished">Pakker ut Java</translation>
+        <translation>Pakker ut Java</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="70"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="83"/>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
-        <translation type="unfinished">Pakker ut Java (Framgang vises ikke for tar-arkiver)</translation>
+        <translation>Pakker ut Java (Framgang vises ikke for tar-arkiver)</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="73"/>
         <source>Unable to open supplied tar file.</source>
-        <translation type="unfinished">Kan ikke åpne tar-filen.</translation>
+        <translation>Kan ikke åpne tar-filen.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="77"/>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="85"/>
         <source>Unable to extract supplied tar file.</source>
-        <translation type="unfinished">Kan ikke pakke ut tar-filen.</translation>
+        <translation>Kan ikke pakke ut tar-filen.</translation>
     </message>
     <message>
         <location filename="src/launcher/java/download/ArchiveDownloadTask.cpp" line="93"/>
@@ -4829,7 +4829,7 @@ Vil du spelle demoen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="274"/>
@@ -4971,7 +4971,7 @@ Vil du spelle demoen?</translation>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="209"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation>Slutta å se på spelleloggen sia loglengda gikk over %1 linjer.
+        <translation type="unfinished">Slutta å se på spelleloggen sia loglengda gikk over %1 linjer.
 Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer og kaster sannsynligvis bort harddiskplass på et skyhøgd nivå!</translation>
     </message>
 </context>
@@ -5231,7 +5231,7 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="529"/>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Konsoll instillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="535"/>
@@ -5243,13 +5243,13 @@ Det kan hende at du må fikse modsa dine, sia spellet logger fortsatt på filer 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="542"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Lukk konsollen automatisk når spillet avsluttes?</translation>
+        <translation>Lukk konsollen automatisk når spillet avsluttes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">Vis konsoll når spillet krasjer?</translation>
+        <translation>Vis konsoll når spillet krasjer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="559"/>
@@ -5648,7 +5648,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Null jar er spesifisert i metadataen, avbryter.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -5662,7 +5662,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation type="unfinished">Avbrutt</translation>
+        <translation>Avbrutt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -6229,7 +6229,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="344"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Launch</translation>
+        <translation>&amp;Start</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
@@ -7262,7 +7262,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished">Start Minecraft i maksimert modus?</translation>
+        <translation>Start Minecraft i maksimert modus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="61"/>
@@ -13728,7 +13728,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fikk Xbox bruker bevis</translation>
     </message>
 </context>
 <context>
