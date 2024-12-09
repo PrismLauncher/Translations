@@ -11482,22 +11482,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">自訂</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="296"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>背景貓（來自 MultiMC）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="297"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11（由 Ashtaka 繪製）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="298"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11（Flat 版本，由 Ashtaka 繪製）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="300"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="299"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie（由 SympathyTea 繪製）</translation>
     </message>
