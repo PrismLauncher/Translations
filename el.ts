@@ -249,7 +249,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="825"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε εκκινητές τρίτων.&lt;br/&gt;Θα πρέπει να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην περίπτωση.</translation>
+        <translation>Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε τρίτους εκκινητές. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="881"/>
