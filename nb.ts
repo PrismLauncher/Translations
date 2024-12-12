@@ -13693,18 +13693,18 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="15"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Henter Xbox profil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="56"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="58"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke hente Xbox profilen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
         <source>Got Xbox profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Mottok Xbox profil</translation>
     </message>
 </context>
 <context>
@@ -13712,18 +13712,18 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="14"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Logget inn some en Xbox bruker.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox bruker autentisering feilet: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox bruker autentiseringsrespons er uforståelig.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="73"/>
