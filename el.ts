@@ -755,7 +755,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Όλες οι Εκδόσεις</translation>
     </message>
 </context>
 <context>
