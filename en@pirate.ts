@@ -1999,7 +1999,7 @@ Try again, if ye dare.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modrrrinth bundle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
