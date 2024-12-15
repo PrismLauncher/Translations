@@ -2926,7 +2926,7 @@ Please try again.</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>이 모드에 유효한 버전이 없습니다. 현재 게임 버전/모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
+        <translation>이 모드에 대한 유효한 버전을 찾을 수 없습니다. 현재 게임 버전 또는 모드 로더에서 사용할 수 없는 것일 수 있습니다.</translation>
     </message>
     <message>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
@@ -3563,7 +3563,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Launcher / PolyMC / MultiMC가 내보낸 인스턴스(ZIP)</translation>
+        <translation>- Prism Launcher, PolyMC 또는 MultiMC가 내보낸 인스턴스(ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -9170,7 +9170,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>이 모드에 유효한 버전이 없습니다. 현재 게임 버전 / 모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
+        <translation>이 모드에 대한 유효한 버전을 찾을 수 없습니다. 현재 게임 버전 또는 모드 로더에서 사용할 수 없는 것일 수 있습니다.</translation>
     </message>
     <message>
         <source>Mod has an empty download URL</source>
@@ -9249,12 +9249,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="254"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation>파일 중 하나가 독단적인 위치(%1)로 이끌고 있습니다. 이건 허용되지 않는 보안 문제입니다.</translation>
+        <translation>파일 중 하나에 임의의 위치(%1)로 연결되는 경로가 있습니다. 이는 보안 위험이므로 허용되지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="266"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; 파일에 다운로드 링크가 없습니다. 이 파일은 팩 형식이 잘못되었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="296"/>
@@ -12013,7 +12013,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="626"/>
         <source>Show / Hide Columns</source>
-        <translation>열 보이기 / 숨기기</translation>
+        <translation>열 보이기/숨기기</translation>
     </message>
 </context>
 <context>
