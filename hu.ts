@@ -2733,7 +2733,7 @@ Biztosan ezt akarod csinálni?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="86"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Nem sikerült kicsomagolni a &apos;%1&apos; natív jar-t a(z) &apos;%2&apos; célhelyre</translation>
+        <translation>Nem sikerült kicsomagolni a(z) &quot;%1&quot; natív jar-t a(z) &quot;%2&quot; célhelyre</translation>
     </message>
 </context>
 <context>
@@ -2861,7 +2861,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="233"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>A CurseForge API válaszának elemzése a következőhöz: &apos;%1&apos;...</translation>
+        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2889,7 +2889,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>API-válasz elemzése a CurseForge-tól következőhöz: &quot;%1&quot;...</translation>
+        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
@@ -7514,7 +7514,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1150"/>
         <source>Are you sure you want to delete the group &apos;%1&apos;?</source>
-        <translation>Biztosan törli a(z) &apos;&amp;1&apos; csoportot?</translation>
+        <translation>Biztosan törli a(z) &quot;%1&quot; csoportot?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1160"/>
@@ -9264,7 +9264,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="266"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) &quot;%1&quot; fájlból hiányzik a letöltési link. Ez a csomag formátuma miatt érvénytelen.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="296"/>
@@ -13288,7 +13288,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="369"/>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
-        <translation>Nem sikerült letölteni a skint: &apos;%1&apos;.</translation>
+        <translation>Nem sikerült letölteni a skint: &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.cpp" line="415"/>
