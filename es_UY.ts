@@ -3417,7 +3417,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -8795,7 +8795,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="266"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al archivo &apos;%1&apos; le falta un enlace de descarga. Esto no es válido en el formato del paquete.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="296"/>
