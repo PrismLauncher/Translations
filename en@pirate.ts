@@ -2004,7 +2004,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose yer modbundle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
@@ -2022,12 +2022,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pick a ship fit for yer bounty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pick a ship fit fer %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -2040,12 +2040,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Name:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Crew:</translation>
     </message>
 </context>
 <context>
@@ -2053,12 +2053,12 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="26"/>
         <source>Copying instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mimickin&apos; ship %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="44"/>
         <source>Instance folder copy failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ship chest copy failed.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="61"/>
@@ -2103,7 +2103,7 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Plunder the modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
@@ -2113,13 +2113,13 @@ Try again, if ye dare.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="141"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unable to open modpack locked chest.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrrrchive be lackin&apos; a familiar modpack clarr-sification.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="203"/>
