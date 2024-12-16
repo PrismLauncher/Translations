@@ -865,7 +865,11 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Je /temp map is momenteel gemounted met de &apos;noexec&apos; regel ingeschakeld.
+Sommige versies van Minecraft kunnen hierdoor niet opstarten.
+
+Je kan dit oplossen door de map opnieuw te mounten met de &apos;exec&apos; regel, of de instelling java.io.tmpdir JVM argument naar een schrijfbare map in je bestandenstructuur zetten waar de &apos;exec&apos; regel is ingesteld. Bijvoorbeeld home/user/.local/tmp
+</translation>
     </message>
     <message>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
@@ -1165,17 +1169,17 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is geen compatibele Java-versie gevonden. De standaardversie wordt gebruikt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je systeem (%1-%2) is niet compatibel met de automatische installatie van Java. Het standaard Java-pad wordt gebruikt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je metainformatie is verouderd of bevat niet de benodigde informatie om te bepalen welke Java-installatie gebruikt moet worden. Het standaard Java-pad wordt gebruikt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
