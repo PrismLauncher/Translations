@@ -55,7 +55,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>bonjour</translation>
+        <translation>Remarque&#xa0;: vous n&apos;avez probablement pas besoin de définir ce paramètre si la connexion via l&apos;authentification Microsoft fonctionne déjà.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -3517,7 +3517,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recherche...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -9350,7 +9350,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="266"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le Fichier &apos;%1&apos; manque d&apos;un lien de téléchargement. Celui-ci n&apos;est pas valide dans le format du pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="296"/>
