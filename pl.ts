@@ -5251,7 +5251,7 @@ Czy chcesz zagrać w demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation>Dane logowania do konta wygasły, aby odzyskać dostęp do konta, należy zalogować się ponownie. Czy chcesz to zrobić?</translation>
+        <translation>Logowanie do konta wygasło i musi zostać wykonane ponownie. Czy chcesz się ponownie zalogować na to konto?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
