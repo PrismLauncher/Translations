@@ -1936,7 +1936,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="90"/>
         <source>Checking if resources have metadata...</source>
-        <translation>Sprawdzanie, czy zasoby mają metadane...</translation>
+        <translation>Sprawdzanie czy zasoby mają metadane...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="167"/>
@@ -2417,17 +2417,17 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Add a locally downloaded file.</source>
-        <translation>Dodaj plik pobrany lokalnie</translation>
+        <translation>Dodaj plik pobrany lokalnie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="114"/>
         <source>Remove all selected items.</source>
-        <translation>Usuń wszystkie wybrane elementy</translation>
+        <translation>Usuń wszystkie wybrane elementy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>Disable all selected items.</source>
-        <translation>Wyłącz wszystkie wybrane elementy</translation>
+        <translation>Wyłącz wszystkie wybrane elementy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="141"/>
@@ -2492,7 +2492,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="212"/>
         <source>Change a resource&apos;s version.</source>
-        <translation>Zmień wersję źródła.</translation>
+        <translation>Zmień wersję zasobu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="223"/>
@@ -2910,7 +2910,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nie znaleziono właściwej wersji dla tego zasobu. Prawdopodobnie jest niedostępna dla bieżącej wersji gry / programu ładującego mody.</translation>
+        <translation>Nie znaleziono poprawnych wersji dla tego zasobu. Prawdopodobnie jest on niedostępny dla obecnej wersji gry/modloadera.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
