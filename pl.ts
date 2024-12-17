@@ -2910,7 +2910,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="146"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nie znaleziono poprawnych wersji dla tego zasobu. Prawdopodobnie jest on niedostępny dla obecnej wersji gry/modloadera.</translation>
+        <translation>Nie znaleziono poprawnej wersji dla tego zasobu. Prawdopodobnie jest on niedostępny dla obecnej wersji gry/modloadera.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="149"/>
