@@ -3324,7 +3324,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>ค้นหา...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -3517,7 +3517,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="66"/>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation>ไม่สามารถโหลดหรือดาวน์โหลดรายชื่อเวอร์ชั่น Java ได้</translation>
+        <translation>ไม่สามารถโหลดหรือดาวน์โหลดรายชื่อเวอร์ชัน Java ได้!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="65"/>
@@ -4776,7 +4776,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="210"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>ดูเหมือนว่าเราจะไม่สามารถเปิดตัวได้หลังจากพยายามไปแล้ว %1 ครั้ง คุณต้องการลองต่อหรือไม่</translation>
+        <translation>ดูเหมือนว่าเราจะไม่สามารถเปิดได้หลังจากพยายามไปแล้ว %1 ครั้ง คุณต้องการลองพยามต่อหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="160"/>
@@ -4812,7 +4812,7 @@ Do you want to play the demo?</source>
         <translation>บัญชีนี้ไม่ได้เป็นเจ้าของ Minecraft
 คุณต้องซื้อเกมก่อนจึงจะเล่นได้
 
-คุณต้องการเล่นเดโมหรือไม่</translation>
+คุณต้องการเล่นตัวเดโมหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="142"/>
@@ -5036,7 +5036,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="184"/>
         <source>&amp;Mods:</source>
-        <translation>Mods</translation>
+        <translation>&amp;ม็อด:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="151"/>
@@ -5143,12 +5143,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="251"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="118"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ดาวน์โหลด:</translation>
     </message>
     <message>
         <source>...</source>
@@ -5158,19 +5158,19 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="257"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้งานการใช้ข้อมูลเมตาที่ให้มาโดยผู้ให้บริการม็อด(เช่น Modrinth หรือ CurseForge) สำหรับม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="260"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ปิดใช้งานการใช้ข้อมูลเมตาสำหรับม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;คำเตือน&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: การปิดใช้งานการใช้ข้อมูลเมตาอาจจะส่งผลทำให้ฟีเจอร์อำนวยความสะดวกบางอย่างปิดไปด้วย เช่น การอัปเดตม็อด!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
@@ -5180,17 +5180,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="436"/>
         <source>Cat</source>
-        <translation type="unfinished"></translation>
+        <translation>แมว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="442"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าความโปร่งใสของแมว 0% คือโปร่งใสทั้งหมด และ 100% คือทึบแสงทั้งหมด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="445"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>ความทึบแสง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="455"/>
@@ -5200,7 +5200,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="490"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>เครื่องมือ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="496"/>
@@ -5216,30 +5216,30 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="523"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>คอนโซล</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="529"/>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าคอนโซล</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="535"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>โชว์คอนโซลในขณะที่เกมกำลัง &amp;ทำงานอยู่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="542"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ปิดคอนโซลโดยอัตโนมัติเมื่อออกเกม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>โชว์คอนโซลเมื่อเกม &amp;แครช</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="559"/>
@@ -5267,7 +5267,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="103"/>
         <source>Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์ของอินสแทนซ์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="111"/>
@@ -5294,67 +5294,67 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณต้องการดำเนินการต่อไปอยู่ดีไหม?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="146"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์ไอคอน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="157"/>
         <source>Mods Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์ม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์การดาวน์โหลด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์จาวา</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์สกิน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] บรึ๋ยยยย~ข้อผิดพลาดที่น่าขนลุก!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] ข้อผิดพลาดที่น่าขนลุก!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/WARN] คำเตือนที่ไม่ค่อยน่ากลัวเท่าไหร่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/DEBUG] ข้อความดีบักที่เป็นความลับ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/FATAL] ข้อผิดพลาดที่ขนพองสยองขวัญ!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/INFO] ข้อความที่ไม่มีพิษไม่มีภัย</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.h" line="60"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>ลอนเชอร์</translation>
     </message>
 </context>
 <context>
@@ -5362,7 +5362,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="75"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>ตรวจไม่พบไลบารีของลอนเชอร์ โปรดตรวจสอบการติดตั้งของคุณ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="87"/>
@@ -5385,7 +5385,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="173"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="186"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>เกมแครช</translation>
     </message>
 </context>
 <context>
@@ -5394,7 +5394,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>เรียงตามชื่อ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
@@ -5408,17 +5408,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="128"/>
         <source>Public Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>ม็อดแพ็กสาธารณะ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="130"/>
         <source>Third Party Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>ม็อดแพ็กของบุคคลที่สาม</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="132"/>
         <source>Private Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>ม็อดแพ็กส่วนตัว</translation>
     </message>
 </context>
 <context>
@@ -5426,12 +5426,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
         <source>Public Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กสาธารณะ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
         <source>Third Party Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>แพ็กของบุคคลที่สาม</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
@@ -5449,17 +5449,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
         <source>Extracting modpack</source>
-        <translation>กำลังแยกม็อดแพ็ค...</translation>
+        <translation>กำลังแยกม็อดแพ็ก...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
         <source>Failed to open modpack file %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดไฟล์ม็อดแพ็กไม่สำเร็จ %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="135"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">กำลังติดตั้งม็อดแพ็ค</translation>
+        <translation>กำลังติดตั้งม็อดแพ็ก</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
@@ -5470,7 +5470,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบวิธีการติดตั้ง!</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
@@ -5482,7 +5482,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>การค้นหาและการกรอง...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -5511,7 +5511,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
         <source>Remove selected pack</source>
-        <translation>ลบแพ็คที่เลือก</translation>
+        <translation>ลบแพ็กที่เลือก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
