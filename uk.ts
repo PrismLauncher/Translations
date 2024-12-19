@@ -9095,32 +9095,32 @@ Please update %1!</source>
         <translation type="vanished">Вимкнені моди не будуть оновлені, щоб запобігти їх дублювання!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
         <source>Preparing resources for Modrinth...</source>
         <translation>Підготовка ресурсів для Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="76"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="77"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Обробка відповіді від Modrinth API...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="144"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
         <source>Not installed</source>
         <translation>Не встановлено</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
         <source>Unknown</source>
         <translation>Невідомо</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Не знайдено дійсної версії для цього ресурсу. Ймовірно, він недоступний для поточної версії гри / модлоадера.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="190"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Не знайдено дійсної версії для цього ресурсу. Ймовірно, він недоступний для поточної версії гри.</translation>
     </message>
@@ -9133,7 +9133,7 @@ Please update %1!</source>
         <translation type="vanished">Посилання для завантаження мода пусте</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="59"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="60"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Очікуємо на відповідь від Modrinth API...</translation>
     </message>
@@ -12203,161 +12203,161 @@ Are you sure?</source>
 <context>
     <name>ResourceUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="44"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="45"/>
         <source>Confirm resources to update</source>
         <translation>Підтвердити оновлення ресурсів</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
         <source>You&apos;re about to update the following resources:</source>
         <translation>Ви збираєтеся оновити такі ресурси:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
         <source>Only resources with a check will be updated!</source>
         <translation>Оновлюватимуться лише позначені ресурси!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="74"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Назва моду: %1&lt;br&gt;Ім&apos;я файлу: %2&lt;br&gt;Причина: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
         <translation>Не вдалося створити метадані</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation>Не вдалося створити метадані для таких ресурсів:&lt;br&gt;Бажаєте продовжити без цих ресурсів?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="93"/>
         <source>Checking for updates</source>
         <translation>Перевірка оновлень</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="200"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="343"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="358"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="201"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="359"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="209"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
         <source>Warnings</source>
         <translation>Попередження</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="124"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="214"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="369"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
         <source>Abort</source>
         <translation>Перервати</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
         <source>Checking for updates...</source>
         <translation>Перевірка оновлень...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="172"/>
         <source>Mod name: %1</source>
         <translation>Назва моду: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="174"/>
         <source>Reason: %1</source>
         <translation>Причина: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>Можливе рішення: отримати останню версію вручну:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
         <source>Failed to check for updates</source>
         <translation>Не вдалося перевірити наявність оновлень</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation>Не вдалося перевірити або отримати наступні ресурси для оновлень:&lt;br&gt;Бажаєте продовжити без цих ресурсів?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
         <source>Checking for dependencies...</source>
         <translation>Перевірка залежностей...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="235"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
         <source>Not installed</source>
         <translation>Не встановлено</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="271"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="272"/>
         <source>Looking for metadata</source>
         <translation>Пошук метаданих</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="314"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Для ресурсу &apos;%1&apos; ще немає метаданих. Нам потрібно їх створити, щоб відстежувати інформацію про те, як оновити цей мод. Для цього, будь ласка, виберіть постачальника мода, якого ми можемо використовувати для перевірки оновлень цього мода.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Generating metadata...</source>
         <translation>Створення метаданих...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="417"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="418"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Не вдалося знайти дійсну версію у вибраних постачальників мода(ів)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="428"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="429"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation>Мод було відключено, оскільки він вже може бути встановлений.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="435"/>
         <source>Provider: %1</source>
         <translation>Постачальник: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="437"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="438"/>
         <source>Old version: %1</source>
         <translation>Стара версія: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
         <source>New version: %1</source>
         <translation>Нова версія: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="444"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
         <source>New Version Type: %1</source>
         <translation>Тип нової версії: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
         <source>Required by: %1</source>
         <translation>Потрібно для: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="452"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="453"/>
         <source>Required by:</source>
         <translation>Потрібно для:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
         <source>Changelog of the latest version</source>
         <translation>Список змін останньої версії</translation>
     </message>

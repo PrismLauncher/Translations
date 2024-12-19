@@ -8723,32 +8723,32 @@ Mohon perbarui %1!</translation>
         <translation type="vanished">Mod yang dinonaktifkan tidak akan diperbarui, untuk mencegah masalah duplikasi mod!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="31"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="32"/>
         <source>Preparing resources for Modrinth...</source>
         <translation>Mempersiapkan sumber daya untuk Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="76"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="77"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Mengurai respons API dari Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="144"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="143"/>
         <source>Not installed</source>
         <translation>Tidak terinstal</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="146"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="145"/>
         <source>Unknown</source>
         <translation>Tidak diketahui</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="187"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Tidak ada versi berlaku yang ditemukan untuk sumber daya. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="190"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
         <translation>Tidak ada versi berlaku yang ditemukan untuk sumber daya. Mungkin tidak tersedia untuk versi permainan saat ini.</translation>
     </message>
@@ -8761,7 +8761,7 @@ Mohon perbarui %1!</translation>
         <translation type="vanished">Mod memiliki tautan unduh kosong</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="59"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="60"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Menunggu respons API dari Modrinth...</translation>
     </message>
@@ -11718,161 +11718,161 @@ Apakah Anda yakin?</translation>
 <context>
     <name>ResourceUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="44"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="45"/>
         <source>Confirm resources to update</source>
         <translation>Konfirmasi sumber daya untuk diperbarui</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="55"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
         <source>You&apos;re about to update the following resources:</source>
         <translation>Anda akan memperbarui sumber daya berikut:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="56"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="57"/>
         <source>Only resources with a check will be updated!</source>
         <translation>Hanya sumber daya dengan centang akan diperbarui!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="74"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="75"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>Nama mod: %1&lt;br&gt;Nama berkas: %2&lt;br&gt;Alasan: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
         <source>Metadata generation failed</source>
         <translation>Pembuatan metadata gagal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="78"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="79"/>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation>Tidak dapat membuat metadata untuk sumber daya berikut:&lt;br&gt;Apakah Anda ingin melanjutkan tanpa sumber daya tersebut?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="93"/>
         <source>Checking for updates</source>
         <translation>Memeriksa pembaruan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="113"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="200"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="343"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="358"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="201"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="344"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="359"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="414"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="118"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="209"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="119"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="210"/>
         <source>Warnings</source>
         <translation>Peringatan-peringatan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="124"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="214"/>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="369"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
         <source>Abort</source>
         <translation>Batalkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="125"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="126"/>
         <source>Checking for updates...</source>
         <translation>Memerika pembaruan...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="172"/>
         <source>Mod name: %1</source>
         <translation>Nama mod: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="173"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="174"/>
         <source>Reason: %1</source>
         <translation>Alasan: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="176"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="177"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>Solusi memungkinkan: Mendapatkan versi terkini secara manual:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
         <source>Failed to check for updates</source>
         <translation>Gagal memeriksa pembaruan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="182"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="183"/>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
         <translation>Tidak dapat memerika atau mendapatkan sumber daya berikut untuk diperbarui:&lt;br&gt;Apakah Anda ingin melanjutkan tanpa sumber daya tersebut?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="215"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
         <source>Checking for dependencies...</source>
         <translation>Memeriksa ketergantungan...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="235"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="236"/>
         <source>Not installed</source>
         <translation>Tidak terinstal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="271"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="272"/>
         <source>Looking for metadata</source>
         <translation>Mencari metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="314"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="315"/>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>Sumber daya &apos;%1&apos; belum memiliki metadata. Kami harus membuatnya untuk melacak informasi relevan tentang cara memperbarui mod ini. Untuk itu, mohon memilih penyedia mod yang kami dapat gunakan untuk memeriksa pembaruan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="370"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Generating metadata...</source>
         <translation>Membuat metadata...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="417"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="418"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Tidak dapat memilih versi sesuai pada penyedia(-penyedia) mod terpilih</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="428"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="429"/>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
         <translation>Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="435"/>
         <source>Provider: %1</source>
         <translation>Penyedia: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="437"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="438"/>
         <source>Old version: %1</source>
         <translation>Versi lama: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="440"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="441"/>
         <source>New version: %1</source>
         <translation>Versi baru: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="444"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="445"/>
         <source>New Version Type: %1</source>
         <translation>Jenis Versi Baru: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="450"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="451"/>
         <source>Required by: %1</source>
         <translation>Dibutuhkan oleh: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="452"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="453"/>
         <source>Required by:</source>
         <translation>Dibutuhkan oleh:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="466"/>
+        <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="467"/>
         <source>Changelog of the latest version</source>
         <translation>Daftar perubahan versi terbaru</translation>
     </message>
