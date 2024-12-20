@@ -3500,7 +3500,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="39"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ara...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
@@ -9296,7 +9296,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="266"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; dosyasında indirme bağlantısı eksik. Bu, paket formatında geçersizdir.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="296"/>
