@@ -11503,7 +11503,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>¿Está el pack de recursos habilitado? (Sólo válido para ZIPs)</translation>
+        <translation>¿El pack de recursos se encuentra habilitado? (Sólo valido para ZIPs)</translation>
     </message>
 </context>
 <context>
