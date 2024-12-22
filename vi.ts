@@ -14460,7 +14460,7 @@ Có thể cần phải cài đặt lại nó.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Minecraft World Zip File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tệp Zip Thế giới Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
@@ -14485,7 +14485,10 @@ Bạn có muốn tiếp tục?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn sắp xóa &quot;%1&quot;.
+Thế giới có thể biến mất mãi (MỘT THỜI GIAN DÀI).
+
+Bạn có chắc không?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
@@ -14579,27 +14582,27 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="137"/>
         <source>This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tài khoản Microsoft này yêu cầu bằng chứng về độ tuổi để chơi. Vui lòng đăng nhập vào %1 để cung cấp bằng chứng về độ tuổi.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account has reached its limit for playtime. This Microsoft account has been blocked from logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tài khoản Microsoft này đã đạt đến giới hạn thời gian chơi. Tài khoản Microsoft này đã bị chặn không cho đăng nhập.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="146"/>
         <source>This Microsoft account was banned by Xbox for violating one or more Community Standards for Xbox and is unable to be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tài khoản Microsoft này đã bị Xbox cấm vì vi phạm một hoặc nhiều Tiêu chuẩn cộng đồng dành cho Xbox và không thể sử dung được.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="152"/>
         <source>This Microsoft account is currently restricted and your guardian has not given you permission to play online. Login to %1 and have your guardian change your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tài khoản Microsoft này hiện đang bị hạn chế và người giám hộ của bạn chưa cấp cho bạn quyền chơi trực tuyến. Đăng nhập vào %1 và yêu cầu người giám hộ thay đổi quyền của bạn.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="159"/>
         <source>This Microsoft account has not accepted Xbox&apos;s Terms of Service. Please login and accept them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tài khoản Microsoft này chưa chấp nhận Điều khoản dịch vụ của Xbox. Vui lòng đăng nhập và chap nhận chúng.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="164"/>
@@ -14649,7 +14652,7 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="61"/>
         <source>XBox user authentication failed: %1</source>
-        <translation>Xác thực người dùng XBox thất bại: %1</translation>
+        <translation>Xác thực người dung Xbox that bại: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
