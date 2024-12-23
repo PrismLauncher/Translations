@@ -4432,7 +4432,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Laster ned Mojang Java automatisk</translation>
+        <translation>Last ned Mojang Java automatisk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
@@ -4442,7 +4442,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished">Nedlastede Java versjoner</translation>
+        <translation>Nedlastede Java versjoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
@@ -4452,12 +4452,12 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
         <source>Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="384"/>
         <source>Refresh</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -4468,23 +4468,23 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="190"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished">Auto-oppdaging...</translation>
+        <translation>Auto-oppdaging...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="203"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished">Test</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="294"/>
         <source>Browse</source>
-        <translation type="unfinished">Bla gjennom</translation>
+        <translation>Bla gjennom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Viss skrudd på, så vil ikke launcheren spørre deg om å velge en Java-versjon viss den ikke er funnet.</translation>
+        <translation>Hvis skrudd på, vil ikke launcheren spørre deg om å velge en Java-versjon dersom den ikke er finner en.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
@@ -4494,7 +4494,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Om aktivert, vil ikke launcheren sjekke om en forekomst er kompatibel med den valgte Java-versjonen.</translation>
+        <translation>Om aktivert, vil ikke launcheren sjekke om en instans er kompatibel med den valgte Java-versjonen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
@@ -4527,15 +4527,15 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="163"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Bekreft valg</translation>
+        <translation>Bekreft valg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="164"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Du valgte en 32-bits versjon av Java.
-Denne installasjonen støtter ikke mer enn 2048 MB RAM.
+        <translation>Du valgte en 32-bits versjon av Java.
+Denne installasjonen støtter ikke mer enn 2048 MiB RAM.
 Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
@@ -4546,7 +4546,7 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="234"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Din maksimale minneallokering overskrider systemminnekapasiteten.</translation>
+        <translation>Din maksimale minnetildeling overskrider systemminnekapasiteten.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="237"/>
@@ -4581,7 +4581,7 @@ Er du sikker?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished">Last ned Java</translation>
+        <translation>Last ned Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
@@ -4661,7 +4661,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Laster ned Mojang Java automatisk</translation>
+        <translation>Laster ned Mojang Java automatisk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="505"/>
@@ -4726,7 +4726,7 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruk system språk</translation>
     </message>
 </context>
 <context>
@@ -4803,12 +4803,12 @@ Du kan endre Java-versjonen i innstillingene seinere.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="259"/>
         <source>Received undetermined session status during login.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fikk ukjent økt status under innlogging.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="137"/>
         <source>Play demo?</source>
-        <translation>Spell demo?</translation>
+        <translation>Spill demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="139"/>
@@ -4817,14 +4817,14 @@ You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
         <translation>Denne kontoen eier ikke Minecraft.
-Du må kjøpe spellet før du kan spelle det.
+Du må kjøpe spellet før du kan spille det.
 
 Vil du spelle demoen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="142"/>
         <source>Play Demo</source>
-        <translation>Spell Demo</translation>
+        <translation>Spill Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="143"/>
@@ -4878,12 +4878,12 @@ Vil du spelle demoen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="325"/>
         <source>The account has expired and needs to be reauthenticated. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoen har utløpt og må reautentiseres. Vil du reautentisere denne kontoen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="341"/>
         <source>Account expired and re-login attempt failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto utløpt og forsøket på å logge inn igjen feilet</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
