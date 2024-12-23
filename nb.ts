@@ -4888,7 +4888,7 @@ Vil du spelle demoen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="343"/>
         <source>The account has expired and needs to be reauthenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoen er utløpt og må reautentiseres</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="354"/>
@@ -4915,7 +4915,7 @@ Vil du spelle demoen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="424"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Launch</translation>
+        <translation>&amp;Start</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
