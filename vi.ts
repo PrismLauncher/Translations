@@ -1955,7 +1955,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Hình thức</translation>
+        <translation>Hình thức</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
