@@ -2289,7 +2289,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
         <source>File</source>
-        <translation type="unfinished">Tập tin</translation>
+        <translation>Tập tin</translation>
     </message>
 </context>
 <context>
@@ -4019,7 +4019,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="294"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported for the current minecraft version.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Cảnh báo&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Phóng đại cửa sổ có thể không được hỗ trợ hoàn toàn với phiên bản minecraft này.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Cảnh báo&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Phóng đại cửa sổ có thể không được hỗ trợ hoàn toàn với phiên bản minecraft này.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="303"/>
@@ -4206,7 +4206,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="680"/>
         <source>Set a target to join on launch</source>
         <oldsource>Set a server to join on launch</oldsource>
-        <translation type="unfinished">Đặt máy chủ để tham gia khi khởi chạy</translation>
+        <translation>Đặt máy chủ để tham gia khi khởi chạy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="692"/>
@@ -5364,12 +5364,12 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>h</source>
-        <translation type="unfinished">giờ</translation>
+        <translation>giờ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="141"/>
         <source>&amp;Skins:</source>
-        <translation type="unfinished">&amp;Skins:</translation>
+        <translation>&amp;Skins:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
@@ -5430,7 +5430,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="358"/>
         <source>s</source>
-        <translation type="unfinished">giây</translation>
+        <translation>giây</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -5460,7 +5460,7 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="455"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="490"/>
@@ -5753,7 +5753,7 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Không thể di chuyển tệp Minecraft đã giải nén!</translation>
+        <translation>Không thể di chuyển tệp Minecraft đã giải nén!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
@@ -5986,7 +5986,7 @@ Lý do:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished">Metadata không hợp lệ</translation>
+        <translation>Metadata không hợp lệ</translation>
     </message>
 </context>
 <context>
@@ -6109,7 +6109,7 @@ Lý do:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Hình thức</translation>
+        <translation>Hình thức</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
@@ -6160,7 +6160,7 @@ Lý do:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished">Không thể mở được tệp zip.</translation>
+        <translation>Không thể mở được tệp zip.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -6219,7 +6219,7 @@ Lý do:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tác vụ bị gián đoạn</translation>
+        <translation>Tác vụ bị gián đoạn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
