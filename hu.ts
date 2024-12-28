@@ -13116,7 +13116,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="59"/>
         <source>Slim</source>
-        <translation>Slim (Vékony)</translation>
+        <translation>Vékony</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="69"/>
