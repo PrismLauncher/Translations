@@ -5809,7 +5809,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation>[Тест/ОШИБКА] ООоооОООоооо! Жуткая ошибка!</translation>
+        <translation>[Test/ERROR] ООоооОООоооо! Жуткая ошибка!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
@@ -5838,7 +5838,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[Тест/INFO] Безобидное сообщение…</translation>
+        <translation>[Test/INFO] Безобидное сообщение…</translation>
     </message>
     <message>
         <source>[Something/WARN] A not so spooky warning.</source>
