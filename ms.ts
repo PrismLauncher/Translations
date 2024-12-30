@@ -4328,14 +4328,16 @@ Sila pastikan nilai memori maximum rendah.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="163"/>
         <source>Confirm Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sahkan Pemilihan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="164"/>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anda telah pilih Java versi 32-bit.
+Pemasangan ini tidak menyokong lebih daripada 2048MiB RAM.
+Sila pastikan nilai memori maximum rendah.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="175"/>
@@ -4398,7 +4400,7 @@ Anda boleh menukar versi Java di dalam tetapan kemudian.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="136"/>
         <source>Download Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Muat turun Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="232"/>
@@ -4478,12 +4480,12 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="503"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Memuat turun Mojang Java secara automatik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="505"/>
         <source>Autodetect Java version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mengesan versi Java secara automatik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="506"/>
@@ -5652,7 +5654,7 @@ Sebab:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="540"/>
         <source>Unable to open supplied zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tidak dapat membuka fail zip yang dibekalkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="558"/>
@@ -7851,12 +7853,12 @@ Sila kemas kini %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="186"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tiada versi yang sah dijumpai untuk sumber ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="189"/>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tiada versi yang sah dijumpai untuk sumber ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod.</translation>
     </message>
     <message>
         <source>Preparing mods for Modrinth...</source>
@@ -12824,7 +12826,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="72"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="73"/>
