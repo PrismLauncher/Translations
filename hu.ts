@@ -1201,7 +1201,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation>Az automatikus Java-mechanizmus a Java 32 bites telepítését észlelte.</translation>
+        <translation>Az automatikus Java mechanizmus a Java 32 bites telepítését észlelte.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
@@ -1265,7 +1265,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation>Hozzáadtunk egy funkciót, amely automatikusan letölti a megfelelő Java-verziót a Minecraft minden egyes verziójához (ez módosítható a Java-beállításokban). Szeretné engedélyezni vagy letiltani ezt a funkciót?</translation>
+        <translation>Hozzáadtunk egy funkciót, amely automatikusan letölti a megfelelő Java verziót a Minecraft minden egyes verziójához (ez módosítható a Java-beállításokban). Szeretné engedélyezni vagy letiltani ezt a funkciót?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
@@ -1379,7 +1379,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="75"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Java-ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
+        <translation>Java ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
     </message>
 </context>
 <context>
@@ -1728,7 +1728,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítás előtti parancs a példány indítása előtt, a kilépés utáni parancs pedig a példány becsukódása után fut le.&lt;/p&gt;&lt;p&gt;Mindkettő az launcher munkamappájában fog futni extra környezeti változókkel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME – a példány neve&lt;/li&gt;&lt;li&gt;$INST_ID – a példány azonosítója (mappa neve)&lt;/li&gt;&lt;li&gt;$INST_DIR – a példány abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - a Minecraft abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_JAVA - Az indításhoz használt Java bináris fájl&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - az indításhoz használt parancssori paraméterek (figyelmeztetés: nem működik megfelelően, ha az argumentumok szóközt tartalmaznak)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A Wrapper parancs lehetővé teszi az indítást egy extra wrapper program használatával (például &quot;optirun&quot; Linuxon)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítás előtti parancs a példány indítása előtt, a kilépés utáni parancs pedig a példány becsukódása után fut le.&lt;/p&gt;&lt;p&gt;Mindkettő az launcher munkamappájában fog futni extra környezeti változókkal:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME – Példány neve&lt;/li&gt;&lt;li&gt;$INST_ID – Példány azonosítója (mappa neve)&lt;/li&gt;&lt;li&gt;$INST_DIR – Példány abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_JAVA - Indításhoz használt Java bináris fájl&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Indításhoz használt parancssori paraméterek (figyelmeztetés: nem működik megfelelően, ha az argumentumok szóközt tartalmaznak)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A Wrapper parancs lehetővé teszi az indítást egy extra wrapper program használatával (például &quot;optirun&quot; Linuxon)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2547,10 +2547,10 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>%1 elem eltávolítására készül.
+        <translation>%1 elem eltávolítására készülsz.
 Ez végleges lehet, és az elemek el fognak tűnni a mappából.
 
-biztos vagy ebben?</translation>
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="251"/>
@@ -2558,10 +2558,10 @@ biztos vagy ebben?</translation>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; mappa eltávolítására készül.
+        <translation>A(z) &quot;%1&quot; mappa eltávolítására készülsz.
 Ez végleges lehet, és a mappa el fog tűnni a szülőmappából.
 
-biztos vagy ebben?</translation>
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="258"/>
@@ -4012,12 +4012,12 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="64"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Ha engedélyezve van, a launcher nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java-verzióval.</translation>
+        <translation>Ha engedélyezve van, a launcher nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java verzióval.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="67"/>
         <source>Skip Java compatibility checks</source>
-        <translation>Java-kompatibilitási ellenőrzések kihagyása</translation>
+        <translation>Java kompatibilitási ellenőrzések kihagyása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
@@ -4676,7 +4676,7 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="257"/>
         <source>Automatically selects the Java version that is compatible with the current Minecraft instance, based on the major version required.</source>
-        <translation>Automatikusan kiválasztja az aktuális Minecraft-példánnyal kompatibilis Java-verziót a főverzió alapján.</translation>
+        <translation>Automatikusan kiválasztja az aktuális Minecraft példánnyal kompatibilis Java verziót a főverzió alapján.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="260"/>
@@ -4749,7 +4749,7 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Ha engedélyezve van, a launcher nem kéri a Java-verzió kiválasztását, ha nem talál egyet sem.</translation>
+        <translation>Ha engedélyezve van, a launcher nem kéri a Java verzió kiválasztását, ha nem talál egyet sem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
@@ -4759,7 +4759,7 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Ha engedélyezve van, a launcher nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java-verzióval.</translation>
+        <translation>Ha engedélyezve van, a launcher nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java verzióval.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
@@ -4832,8 +4832,8 @@ Kérjük, győződjön meg róla, hogy a maximális memóriaérték ennél alacs
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="267"/>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; nevű Java-telepítés eltávolítására készül.
-Biztos benne?</translation>
+        <translation>A(z) &quot;%1&quot; nevű Java telepítés eltávolítására készülsz.
+Biztos vagy ebben?</translation>
     </message>
 </context>
 <context>
@@ -4902,7 +4902,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Vagy nem választott ki Java-verziót, vagy olyan verziót, amely nem működik.
+        <translation>Vagy nem választott ki Java verziót, vagy olyan verziót választott ki, amely nem működik.
 %1 nem tudja elindítani a Minecraftot.
 Szeretné folytatni a Java működő verziója nélkül?
 
@@ -8155,7 +8155,7 @@ Ez csak a(z) %1 formátumú fájl használatával frissíthető
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="65"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>A Minecraft Java-profil válasza nem értelmezhető</translation>
+        <translation>A Minecraft Java profil válasza nem értelmezhető</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
@@ -8748,8 +8748,8 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="271"/>
         <source>You are about to remove the metadata for %1 mods.
 Are you sure?</source>
-        <translation>A(z) %1 mod metaadatainak eltávolítására készül.
-biztos vagy ebben?</translation>
+        <translation>%1 mod metaadatainak eltávolítására készülsz.
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
@@ -9930,7 +9930,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; törlésére készül.
+        <translation>A(z) &quot;%1&quot; törlésére készülsz.
 Ez végleges lehet, és el fog tűnni a naplók mappájából.
 
 Biztos vagy ebben?</translation>
@@ -10955,7 +10955,7 @@ Gondosan válassza ki a nevét:</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; fájl feltöltésére készül ide: %2.
+        <translation>A(z) &quot;%1&quot; fájl feltöltésére készülsz ide: %2.
 Érdemes még egyszer ellenőriznie a személyes adatokat.
 
 Biztos vagy ebben?</translation>
@@ -11215,7 +11215,7 @@ Ez az üzenet addig jelenik meg, amíg nem távolítja el őket a JVM argumentum
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>Megpróbálta átadni a szükséges Java-verzió argumentumot a JVM-nek (a &quot;-version:xxx&quot; használatával). Ez nem biztonságos, és nem lesz megengedett.
+        <translation>Megpróbálta átadni a szükséges Java verzió argumentumot a JVM-nek (a &quot;-version:xxx&quot; használatával). Ez nem biztonságos, és nem lesz megengedett.
 Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumokból.</translation>
     </message>
     <message>
@@ -11238,13 +11238,13 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <location filename="src/launcher/JavaCommon.cpp" line="95"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>A megadott java-bináris nem működött.&lt;br /&gt;Az automatikus észlelési funkciót kell használnia, vagy állítsa be a java-futtatható fájl elérési útját.&lt;br /&gt;</translation>
+        <translation>A megadott java bináris nem működött.&lt;br /&gt;Az automatikus észlelési funkciót kell használnia, vagy állítsa be a java futtatható fájl elérési útját.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="104"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation>Java-ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
+        <translation>Java ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="155"/>
@@ -12256,8 +12256,8 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="205"/>
         <source>You are about to remove the metadata for %1 resource packs.
 Are you sure?</source>
-        <translation>Arra készül, hogy eltávolítsa a(z) %1 forráscsomag metaadatait.
-Biztos vagy benne?</translation>
+        <translation>A(z) %1 forráscsomag metaadatainak eltávolításra készülsz.
+Biztos vagy ebben?</translation>
     </message>
 </context>
 <context>
@@ -12605,7 +12605,7 @@ Biztos vagy ebben?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>%1 képernyőképet készül feltölteni ide: %2.
+        <translation>%1 képernyőképet készülsz feltölteni ide: %2.
 Érdemes még egyszer ellenőriznie a személyes adatokat.
 
 Biztos vagy ebben?</translation>
@@ -12616,7 +12616,7 @@ Biztos vagy ebben?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Arra készül, hogy feltöltse a kiválasztott képernyőképet ide: %1.
+        <translation>A kiválasztott képernyőképet készülsz feltölteni ide: %1.
 Érdemes még egyszer ellenőriznie a személyes adatokat.
 
 Biztos vagy ebben?</translation>
@@ -12672,7 +12672,7 @@ Biztos vagy ebben?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>%1 képernyőkép törlésére készül.
+        <translation>%1 képernyőkép törlésére készülsz.
 Ez végleges lehet, és a képernyőképek el fognak tűnni a mappából.
 
 Biztos vagy ebben?</translation>
@@ -12683,7 +12683,7 @@ Biztos vagy ebben?</translation>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation>A kiválasztott képernyőkép törlésére készül.
+        <translation>A kiválasztott képernyőkép törlésére készülsz.
 Ez végleges lehet, és a képernyőkép el fog tűnni a mappából.
 
 Biztos vagy ebben?</translation>
@@ -12888,7 +12888,7 @@ Jelenleg telepített verzió: %1</translation>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; eltávolítására készül.
+        <translation>A(z) &quot;%1&quot; eltávolítására készülsz.
 Ez végleges, és a szerver örökre eltűnik a listáról (AMI HOSSZÚ IDŐ).
 
 Biztos vagy ebben?</translation>
@@ -13049,8 +13049,8 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="202"/>
         <source>You are about to remove the metadata for %1 shader packs.
 Are you sure?</source>
-        <translation>Arra készülsz, hogy eltávolítsd a &quot;%1&quot; shader csomag metaadatait.
-Biztos vagy benne?</translation>
+        <translation>A(z) &quot;%1&quot; shader csomag metaadatainak eltávolítására készülsz.
+Biztos vagy ebben?</translation>
     </message>
 </context>
 <context>
@@ -13886,8 +13886,8 @@ Biztosan ezt akarod csinálni?</translation>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="211"/>
         <source>You are about to remove the metadata for %1 texture packs.
 Are you sure?</source>
-        <translation>Arra készülsz, hogy eltávolítsad a(z) &quot;%1&quot; textúracsomag metaadatait.
-Biztos vagy benne?</translation>
+        <translation>A(z) &quot;%1&quot; textúracsomag metaadatainak eltávolítására készülsz.
+Biztos vagy ebben?</translation>
     </message>
 </context>
 <context>
@@ -14195,7 +14195,7 @@ Előfordulhat, hogy a példány emiatt nem indul el.</translation>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
         <translation>Ez a példány nem kompatibilis a Java %1 verziójával.
-Kérjük, váltson a következő Java-verziók egyikére:</translation>
+Kérjük, váltson a következő Java verziók egyikére:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="84"/>
@@ -14205,7 +14205,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="86"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>Nyissa meg a példány Java beállításait a Java verzió módosításához, vagy tiltsa le a Java-kompatibilitás ellenőrzését, ha tudja, mit csinál.</translation>
+        <translation>Nyissa meg a példány Java beállításait a Java verzió módosításához, vagy tiltsa le a Java kompatibilitás ellenőrzését, ha tudja, mit csinál.</translation>
     </message>
 </context>
 <context>
@@ -14536,7 +14536,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; eltávolítására készül.
+        <translation>A(z) &quot;%1&quot; eltávolítására készülsz.
 Ez végleges, és teljesen eltávolítja az egyéni összetevőt.
 
 Biztos vagy ebben?</translation>
@@ -14643,7 +14643,7 @@ Adjon hozzá egy Microsoft-fiókot.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; visszaállítására készül.
+        <translation>A(z) &quot;%1&quot; visszaállítására készülsz.
 Ez végleges, és teljesen visszaállítja a beállításait.
 
 Biztos vagy ebben?</translation>
@@ -15127,7 +15127,7 @@ Folytatni akarja?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; törlésére készül.
+        <translation>A(z) &quot;%1&quot; törlésére készülsz.
 Lehet, hogy a világ örökre eltűnik (AMI HOSSZÚ IDŐ).
 
 Biztos vagy ebben?</translation>
