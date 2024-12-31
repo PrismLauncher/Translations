@@ -1470,7 +1470,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="230"/>
         <source>Please wait...</source>
-        <translation>Kérlek várj...</translation>
+        <translation>Kérem várjon...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="232"/>
@@ -6369,7 +6369,7 @@ Indok:
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="53"/>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="218"/>
         <source>Please wait...</source>
-        <translation>Kérlek várj...</translation>
+        <translation>Kérem várjon...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="66"/>
@@ -10742,7 +10742,7 @@ Gondosan válassza ki a nevét:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation>Kérlek várj...</translation>
+        <translation>Kérem várjon...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
