@@ -31,7 +31,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Not: Yapıştırma hizmeti türünü değiştirdikten sonra muhtemelen Temel URL&apos;yi değiştirmek veya silmek istersiniz.</translation>
+        <translation>Not: Yapıştırma hizmeti türünü değiştirdikten sonra Temel URL&apos;yi değiştirmek veya silmek isteyebilirsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
