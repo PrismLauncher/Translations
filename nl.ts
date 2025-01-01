@@ -1121,17 +1121,17 @@ Sommige versies van Minecraft starten mogelijk niet op.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="101"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Authenticatietaak geslaagd.</translation>
+        <translation>Authenticatie geslaagd.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="107"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Kon geen contact maken met de authenticatieserver.</translation>
+        <translation>Contact maken met de authenticatieserver mislukt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Client-ID is veranderd. Er moet een nieuwe sessie gemaakt worden.</translation>
+        <translation>Client-ID is veranderd. Er moet een nieuwe sessie worden gemaakt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
