@@ -11908,7 +11908,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <source>Deselect %1 for download</source>
-        <translation>Zrušit vybrání %1 ke stažení</translation>
+        <translation>Zrušit výběr %1 ke stažení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="292"/>
