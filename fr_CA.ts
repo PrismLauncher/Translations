@@ -4079,76 +4079,76 @@ S&apos;il vous plaît vérifier si la valeur maximum de mémoire est plus basse.
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="309"/>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger automatiquement Mojang Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="333"/>
         <source>Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="339"/>
         <source>Downloaded Java Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions de Java Téléchargées</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="357"/>
         <source>Download</source>
-        <translation type="unfinished">Télécharger</translation>
+        <translation>Télécharger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="364"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="384"/>
         <source>Refresh</source>
-        <translation type="unfinished">Rafraîchir</translation>
+        <translation>Rafraîchir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="190"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Détecter Automatiquement...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="203"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Test</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="294"/>
         <source>Browse</source>
-        <translation type="unfinished">Parcourir</translation>
+        <translation>Parcourir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="228"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si activé, le lanceur ne vous demandera pas de choisir une version de Java si une n&apos;est pas trouvée.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="231"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Passer l&apos;assistant &amp;Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Si activé, le lanceur ne regardera pas si une instance est compatible avec la version de Java sélectionnée.</translation>
+        <translation>Si activé, le lanceur ne regardera pas si une instance est compatible avec la version de Java sélectionnée.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Passer les vérifications de compatibilité Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="70"/>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Aucune version de Java gérée n&apos;est installée</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="71"/>
@@ -4936,32 +4936,32 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="168"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier de téléchargements</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Java Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
         <source>Skins Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] OOoooOOOoooo! Une erreur effrayante !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/ERROR] Une erreur épeurante !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
         <source>[Test/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/WARN] Un avertissement pas épeurant.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
