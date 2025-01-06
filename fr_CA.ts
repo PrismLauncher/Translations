@@ -10999,7 +10999,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="113"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrir Dossier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/skins/SkinManageDialog.ui" line="120"/>
