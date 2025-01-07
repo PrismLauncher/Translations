@@ -4458,7 +4458,7 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <location filename="src/launcher/ui/instanceview/InstanceView.cpp" line="485"/>
         <source>Click &quot;Add Instance&quot; to get started.</source>
-        <translation>Klicke &quot;Instanz erstellen&quot; um anzufangen.</translation>
+        <translation>Klicke „Instanz erstellen&quot;, um anzufangen.</translation>
     </message>
 </context>
 <context>
