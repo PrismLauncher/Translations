@@ -5006,13 +5006,13 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Échec du lancement de Minecraft !</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="173"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="186"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le jeu à planté.</translation>
     </message>
 </context>
 <context>
@@ -5021,13 +5021,13 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="58"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Trier par Nom</translation>
+        <translation>Trier par Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="59"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Trier par Version</translation>
+        <translation>Trier par Version de Jeu</translation>
     </message>
 </context>
 <context>
@@ -5035,17 +5035,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="128"/>
         <source>Public Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack Publique</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="130"/>
         <source>Third Party Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Third Party Modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="132"/>
         <source>Private Modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>ModPack privé</translation>
     </message>
 </context>
 <context>
@@ -5053,17 +5053,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="117"/>
         <source>Public Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Packs Public</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="121"/>
         <source>Third Party Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Packs third-party</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="125"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement de quelques listes de pack : %1</translation>
     </message>
 </context>
 <context>
@@ -5071,7 +5071,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="69"/>
         <source>Downloading zip for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement du ZIP pour %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="99"/>
@@ -5081,27 +5081,27 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="107"/>
         <source>Failed to open modpack file %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;ouverture du fichier modpack %1 !</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="135"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installation du modpack</translation>
+        <translation>Installation du modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="141"/>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Échec du déplacement du Minecraft unpacked !</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de méthode d&apos;installation trouvée !</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du déplacement du Minecraft unzipped !</translation>
     </message>
 </context>
 <context>
@@ -5109,7 +5109,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="19"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Rechercher et Filtrer...</translation>
+        <translation>Rechercher et Filtrer...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -5118,78 +5118,79 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="35"/>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>Public</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="62"/>
         <source>3rd Party</source>
-        <translation type="unfinished"></translation>
+        <translation>3rd Party</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="89"/>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Privé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="108"/>
         <source>Add pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="115"/>
         <source>Remove selected pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlever le pack sélectionné</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="145"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version sélectionnée:</translation>
+        <translation>Version sélectionnée :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="208"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tâche annulée</translation>
+        <translation>Tâche annulée</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">La tâche à été avortée par l&apos;utilisateur.</translation>
+        <translation>La tâche à été avortée par l&apos;utilisateur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
         <source>FTB private packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Packs privés FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec lors du téléchargement du code d&apos;information pour le pack %1.
+Devrait-il être enlevé maintenant ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Add FTB pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un pack FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="341"/>
         <source>Enter pack code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer un code de pack :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Remove pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlever un pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="356"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr que vous voulez enlever le pack %1 ?</translation>
     </message>
 </context>
 <context>
@@ -5198,17 +5199,17 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement des fichiers de librairies requis...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Librairies pour l&apos;Instance %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Null jar est spécifié dans la métadata, annulation.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -5217,19 +5218,25 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dans quelques artéfacts marqués comme &apos;locaux&apos;, des fichiers sont manquants :
+%1
+
+Vous devez soit rajouter les fichiers, ou supprimer les packages qui en ont de besoin.
+Vous allez devoir corriger ce problème vous-même.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation type="unfinished">Annulé</translation>
+        <translation>Annulé</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>La mise à jour du jeu à raté : il était impossible de récupérer les librairies requises.
+Raison :
+%1</translation>
     </message>
 </context>
 <context>
@@ -5237,11 +5244,12 @@ Reason:
     <message>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour en cours de l&apos;index pour le mod :
+%1</translation>
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Métadata Invalide</translation>
     </message>
 </context>
 <context>
@@ -5250,12 +5258,13 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="44"/>
         <source>Updating index for resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour en cours de l&apos;index pour les ressources :
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Métadata Invalide</translation>
     </message>
 </context>
 <context>
@@ -5263,7 +5272,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="60"/>
         <source>Keep updating</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuer de mettre à jour</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
@@ -5273,22 +5282,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier le log entier dans le presse papiers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Copier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Uploader le log dans le service de copie configuré dans les préférences</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléverser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
@@ -5298,33 +5307,33 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="125"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="132"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Trouver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Descendre tout en bas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Bas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="248"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="57"/>
         <source>Minecraft Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Log Minecraft</translation>
     </message>
 </context>
 <context>
@@ -5333,29 +5342,29 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="96"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le process est sorti avec un code %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="101"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le processus à planté.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le processus à planté avec le code de sortie %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="108"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le processus a été tué par l&apos;utilisateur.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
         <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le processus à raté son démarrage.</translation>
     </message>
 </context>
 <context>
@@ -5363,17 +5372,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Forme</translation>
+        <translation>Forme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Ajouter un compte Microsoft&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="33"/>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Afin de jouer à Minecraft, vous devez avoir au moins un compte Microsoft connecté. Voulez-vous vous connecter maintenant?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
