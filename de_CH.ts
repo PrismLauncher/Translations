@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Achtung: Wahrschienlich muesch du die Option nid ändere, falls d Microsoft-Authentifizierig funktioniert.</translation>
+        <translation>Hiwiis: Wahrschiinlich muesch du die Option nöd ändere, falls d Microsoft-Authentifizierig funktioniert.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -62,7 +62,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hinwiis: Muesch du nur mache, zum Privati dateie z erreiche. Lyys d &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;Dokumentation&lt;/a&gt; für meh Informatione.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hiwiis: Muesch du nur mache, zum Privati dateie z erreiche. Lis d &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;Dokumentation&lt;/a&gt; für meh Informatione.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -83,63 +83,63 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiwiis: Das muess nur feschtglegt wärde, zum privati Date zuezgriffe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gib do e benutzerdefiniirti GUID-Client-ID für Technic ii.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
         <source>Miscellaneous</source>
-        <translation>Sonstiges</translation>
+        <translation>Suschtigs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="350"/>
         <source>User Agent</source>
-        <translation>User Agent</translation>
+        <translation>User-Agänt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Gib einen benutzerdefinierten User Agent ein. $LAUNCHER_VER wird automatisch mit der Version des Launchers ersetzt.</translation>
+        <translation>Gib e benutzerdefinierte User-Agänt ii. $LAUNCHER_VER wird automatisch mit de Version vom Launchers ersetzt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;Daten Server</translation>
+        <translation>Meta&amp;Date-Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="33"/>
         <source>Services</source>
-        <translation>Dienste</translation>
+        <translation>Dienscht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Du kasch das zu e Drittanbieter Metadateserver ändere um gepatchti Bibliotheke oder anderi Hacks z&apos;verwände.</translation>
+        <translation>Du kasch das zu&apos;me Drittabieter-Metadateserver feschtlege, zum patchti Bibliotheke oder anderi Hacks z&apos;verwände.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Füeg e benutzerdefinierti URL für Meta do ih.</translation>
+        <translation>Füeg e benutzerdefinierti URL für Meta do ii.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="252"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge-Kärn-API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="258"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Hinweis: Du muesch das vermuetlich nit ändere sofern CurseForge bereits funktioniert.</translation>
+        <translation>Hiwiis: Wohrschiinlich muesch du das nöd feschtlege, falls CurseForge scho funktioniert.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="265"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Füeg e benutzerdefinierte API-Schlüssel für CurseForge do ih.</translation>
+        <translation>Füeg e benutzerdefinierte API-Schlüssel für CurseForge do ii.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="56"/>
@@ -153,7 +153,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="120"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Het d Paket-Manifest-Datei ned interpretiere chöne:
+        <translation>Het d Paket-Manifest-Datei nöd interpretiire chönne:
 </translation>
     </message>
     <message>
@@ -164,27 +164,27 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="152"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Abrüefe dr lokalen Metadaten für &apos;%1&apos; v%2 fehlgschlage</translation>
+        <translation>Abrüefe vo de lokalen Metadate für &apos;%1&apos; v%2 fehlgschlage</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="142"/>
         <source>Unsupported installation mode</source>
-        <translation>Installationsmodus nöd unterstützt</translation>
+        <translation>Inschtallationsmodus nöd unterstützt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation>Lösche vorhandeni Dateie...</translation>
+        <translation>Löscht vorhandeni Dateie...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation>Unbekannter Mod-Typ: %1</translation>
+        <translation>Unbekannte Mod-Typ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="373"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Het Version für %1 Loader nöd chöne finde</translation>
+        <translation>Het Version für %1-Loader nöd chöne finde</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
@@ -194,12 +194,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="516"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Unbekannter oder nöd unterstützte Download-Typ: %1</translation>
+        <translation>Unbekannte oder nöd unterstützte Download-Typ: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="629"/>
         <source>Downloading configs...</source>
-        <translation>Lad Konfigurationen abe...</translation>
+        <translation>Ladet Konfiguratione abe...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="630"/>
