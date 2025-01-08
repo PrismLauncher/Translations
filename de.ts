@@ -204,7 +204,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="373"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Konnte Version für %1 Loader nicht finden</translation>
+        <translation>Konnte Version für %1-Loader nicht finden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="386"/>
