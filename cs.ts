@@ -772,12 +772,12 @@ Prosím aktualizujte váš operační systém a %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="799"/>
+        <location filename="src/launcher/Application.cpp" line="800"/>
         <source>Settings</source>
         <translation>Nastavení</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="946"/>
+        <location filename="src/launcher/Application.cpp" line="947"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -804,12 +804,12 @@ pro podrobnosti o posledním pokusu o aktualizaci.
 Pro odstranění tohoto uzamčení a pokračování klikněte na „Ignorovat“ níže.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="963"/>
+        <location filename="src/launcher/Application.cpp" line="964"/>
         <source>Update In Progress</source>
         <translation>Probíhá aktualizace</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="987"/>
+        <location filename="src/launcher/Application.cpp" line="988"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -824,12 +824,12 @@ Zkontrolujte protokol aktualizačního programu Prism Launcher zde:
 pro podrobnosti o posledním pokusu o aktualizaci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="995"/>
+        <location filename="src/launcher/Application.cpp" line="996"/>
         <source>Update Failed</source>
         <translation>Aktualizace selhala</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1019"/>
+        <location filename="src/launcher/Application.cpp" line="1020"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -849,12 +849,12 @@ Pro podrobnosti se podívejte na protokol aktualizačního systému programu Pri
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1027"/>
+        <location filename="src/launcher/Application.cpp" line="1028"/>
         <source>Update Succeeded</source>
         <translation>Úspěšně aktualizováno</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1059"/>
+        <location filename="src/launcher/Application.cpp" line="1060"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -875,32 +875,32 @@ Některé verze Minecraftu se nemusí spustit.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1065"/>
+        <location filename="src/launcher/Application.cpp" line="1066"/>
         <source>Incompatible system configuration</source>
         <translation>Nekompatibilní konfigurace systémmu</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1425"/>
+        <location filename="src/launcher/Application.cpp" line="1426"/>
         <source>Aborted</source>
         <translation>Přerušeno</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1827"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Byla nalezena stará data z %1, ale pro %2 již máte existující data. Bohužel budete muset provést migraci sami. Chcete být při příštím spuštění %2 upozorněni na probíhající migraci dat?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1831"/>
+        <location filename="src/launcher/Application.cpp" line="1832"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Vypadá to, že jste již dříve použili %1. Chcete svá data přenést do nového umístění %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1837"/>
+        <location filename="src/launcher/Application.cpp" line="1838"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Vypadá to, že jste již dříve použili %1 na %2. Chcete svá data přenést do nového umístění %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1880"/>
+        <location filename="src/launcher/Application.cpp" line="1881"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrace se nezdařila! Důvod: %1</translation>
     </message>
@@ -5359,22 +5359,22 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <translation>Složky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="238"/>
         <source>I&amp;nstances:</source>
         <translation>&amp;Instance:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="128"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="203"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="210"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="217"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="241"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="231"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>Browse</source>
         <translation>Procházet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Mody:</translation>
     </message>
@@ -5388,28 +5388,28 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <translation type="vanished">Přesunout data PolyMC do nového umístění (PolyMC bude restartován)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="386"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
         <source>User Interface</source>
         <translation>Uživatelské rozhraní</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Instance view sorting mode</source>
         <translation>Způsob řazení instancí</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="401"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="415"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
         <translation>Podle posledního spuštění</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="411"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
         <source>By &amp;name</source>
         <translation>Podle jména</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="438"/>
         <source>Theme</source>
         <translation>Motiv</translation>
     </message>
@@ -5434,24 +5434,24 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <translation type="vanished">Jednoduché (barevné ikony)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
         <source>Mods</source>
         <translation>Mody</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="257"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="271"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
         <translation>Zakázat používání metadat poskytnutých poskytovateli modů (např. Modrinth nebo CurseForge) pro mody.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="260"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="274"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
         <translation>Zakázat používání metadat pro mody</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="281"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varování&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Zakázáním metadat modů může dojít k zakázání některých dodatečných funkcí, jako jsou jejich aktualizace!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -5515,17 +5515,17 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <translation type="vanished">...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Při povolení budou při hledání zdrojů kromě složky se staženými soubory prohledány také její podsložky (např. při hledání blokovaných modů na CurseForge).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="164"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Check downloads folder recursively</source>
         <translation>Rekurzivně kontrolovat složku se staženými</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="291"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
         <translation>Zakázat automatickou kontrolu, instalaci a aktualizaci závislostí modů.</translation>
@@ -5555,143 +5555,153 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <translation>&amp;Skiny:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
         <source>Disable automatic mod dependency management</source>
         <translation>Zakázat automatickou správu závislostí modů</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="301"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
         <translation>Při vytváření nové instance modpacku nenavrhovat aktualizaci existujících instancí.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="304"/>
         <source>Skip modpack update prompt</source>
         <translation>Přeskočit dialog o aktualizaci modpacku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="314"/>
         <source>Miscellaneous</source>
         <translation>Různé</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="313"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
         <source>Number of concurrent tasks</source>
         <translation>Počet souběžných úloh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="341"/>
         <source>Number of concurrent downloads</source>
         <translation>Počet souběžných stahování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>Sekundy čekání do ukončení požadavků</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="351"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="365"/>
         <source>Timeout for HTTP requests</source>
         <translation>Čas vypršení pro požadavky HTTP</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="358"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
         <source>s</source>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
         <source>Number of manual retries</source>
         <translation>Počet ručních opakování</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
+        <source>When enabled, it will move blocked resources instead of copying them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
+        <source>Move blocked resources</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
         <source>&amp;Java:</source>
         <translation>&amp;Java:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="436"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Cat</source>
         <translation>Kočka</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="442"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
         <translation>Nastavení průhlednosti kočky. Při 0% je plně průhledná, při 100% kompletně neprůhledná.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="445"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Opacity</source>
         <translation>Průhlednost</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="455"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="490"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="504"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="496"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="510"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>Lišta menu je lepší pro interakci pomocí klávesnice.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="499"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>Nah&amp;radit lištu nástrojů lištou menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="523"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="537"/>
         <source>Console</source>
         <translation>Konzole</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="529"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>Console Settings</source>
         <translation>Možnosti konzole</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="535"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
         <translation>Zobrazit konzoli během hry</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="542"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="556"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
         <translation>&amp;Automaticky zavřít konzoli po ukončení hry</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="563"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
         <translation>Zobrazit konzoli pokud hra &amp;spadne</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="559"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="573"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>Limit &amp;historie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="565"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="579"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>Zastavit protokolování při přetečení protokolu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="578"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="592"/>
         <source> lines</source>
         <translation> řádků</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="606"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="620"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>Písmo použité pro konzoli</translation>
@@ -5757,27 +5767,27 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
         <translation>Složka skinů</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation>[Test/CHYBA] OOoooOOOoooo! Děsivá chyba!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
         <source>[Test/ERROR] A spooky error!</source>
         <translation>[Test/CHYBA] Děsivá chyba!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/WARN] A not so spooky warning.</source>
         <translation>[Test/VAROVÁNÍ] Ne tak děsivé varování.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="367"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
         <translation>[Test/LADĚNÍ] Tajná ladicí zpráva...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="368"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
         <translation>[Test/FATÁLNÍ] Strašlivá fatální chyba!</translation>
     </message>
@@ -5786,7 +5796,7 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
         <translation type="vanished">[Something/ERROR] Strašidelná chyba 👻!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] Neškodná zpráva...</translation>
     </message>
@@ -7959,7 +7969,7 @@ Lze jej aktualizovat pouze pomocí souboru ve formátu %1
 <context>
     <name>MinecraftLoadAndCheck</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="20"/>
+        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
         <translation>Přerušeno</translation>
     </message>
@@ -10085,17 +10095,17 @@ Jste si jisti?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="348"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
         <source>Aborted</source>
         <translation>Přerušeno</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="576"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="582"/>
         <source>Name</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="584"/>
         <source>Version</source>
         <translation>Verze</translation>
     </message>
@@ -11130,9 +11140,29 @@ Jste si jisti?</translation>
         <translation>Knihovna %1 name je poškozena a nelze ji zpracovat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="207"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
+        <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
+        <source>Couldn&apos;t open %1 for reading: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
+        <source>Couldn&apos;t parse %1 as json: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Neplatný komponent verze souboru, očekáván %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <source>Couldn&apos;t parse %1 : bad file format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
@@ -14621,27 +14651,28 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
         <translation>Varovaní: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="257"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="351"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="361"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="264"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="264"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Nemohl se načíst profil instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="283"/>
         <source>Confirm Removal</source>
         <translation>Potvrdit odebrání</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="284"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -14652,27 +14683,27 @@ Tato akce je nevratná a zcela odstraní vlastní komponentu.
 Jste si jisti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="296"/>
         <source>Couldn&apos;t remove file</source>
         <translation>Nelze odstranit soubor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
         <source>Select jar mods</source>
         <translation>Vyberte jar soubory modů</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
         <source>Minecraft.jar mods</source>
         <translation>Mody minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="315"/>
         <source>Minecraft.jar replacement</source>
         <translation>Náhrada minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="340"/>
         <source>Java agents</source>
         <translation>Agenti Java</translation>
     </message>
@@ -14681,7 +14712,7 @@ Jste si jisti?</translation>
         <translation type="vanished">Minecraft .jar mody (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="315"/>
         <source>Select jar</source>
         <translation>Vyberte soubor jar</translation>
     </message>
@@ -14690,27 +14721,27 @@ Jste si jisti?</translation>
         <translation type="vanished">Minecraft .jar výměna (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
         <source>Select components</source>
         <translation>Vyberte komponenty</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
         <source>Components</source>
         <translation>Součásti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
         <source>Failed to import components</source>
         <translation>Nepodařilo se importovat komponenty</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="331"/>
         <source>Some components could not be imported. Check logs for details</source>
         <translation>Některé součásti nebylo možné importovat. Podrobnosti naleznete v protokolech</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="340"/>
         <source>Select agents</source>
         <translation>Vyberte agenty</translation>
     </message>
@@ -14719,22 +14750,22 @@ Jste si jisti?</translation>
         <translation type="vanished">Agenti Java (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Change %1 version</source>
         <translation>Změnit %1 verzi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>Momentálně není dostupné žádné zprostředkující mapování verzí.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Nepodařilo se najít nebo stáhnout zprostředkující mapování seznamu verzí!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="430"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -14743,12 +14774,12 @@ Please add your Microsoft or Mojang account.</oldsource>
 Přidjete prosím svůj účet Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="570"/>
         <source>Confirm Reversion</source>
         <translation>Potvrdit návrat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="568"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="571"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -14813,7 +14844,7 @@ Prosím, přidejte svůj Mojang nebo Minecraft účet.</translation>
         <translation type="vanished">Nemohl se načíst nebo stáhnout list LiteLoader verzí!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="507"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="510"/>
         <source>Error updating instance</source>
         <translation>Chyba při aktualizaci instance</translation>
     </message>

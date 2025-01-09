@@ -742,12 +742,12 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="799"/>
+        <location filename="src/launcher/Application.cpp" line="800"/>
         <source>Settings</source>
         <translation>Pagsasaayos</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="946"/>
+        <location filename="src/launcher/Application.cpp" line="947"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -774,12 +774,12 @@ para sa detalye ng huling update attempt.
 Para i-delete ang lock na ito at mag-patuloy, I-select ang &quot;Ignore&quot; sa baba.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="963"/>
+        <location filename="src/launcher/Application.cpp" line="964"/>
         <source>Update In Progress</source>
         <translation>Nag-uupdate</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="987"/>
+        <location filename="src/launcher/Application.cpp" line="988"/>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
@@ -794,12 +794,12 @@ Tingnan ang updater log ng Prism Launcher sa:
 para sa detalye ng huling update attempt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="995"/>
+        <location filename="src/launcher/Application.cpp" line="996"/>
         <source>Update Failed</source>
         <translation>Nabigo ang update</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1019"/>
+        <location filename="src/launcher/Application.cpp" line="1020"/>
         <source>Update succeeded
 
 You are now running %1 .
@@ -820,12 +820,12 @@ Tingnan ang updater log ng Prism Launcher sa:
 para sa detalye ng update.</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1027"/>
+        <location filename="src/launcher/Application.cpp" line="1028"/>
         <source>Update Succeeded</source>
         <translation>Matagumpay ang pag-update</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1059"/>
+        <location filename="src/launcher/Application.cpp" line="1060"/>
         <source>Your /tmp directory is currently mounted with the &apos;noexec&apos; flag enabled.
 Some versions of Minecraft may not launch.
 
@@ -846,32 +846,32 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1065"/>
+        <location filename="src/launcher/Application.cpp" line="1066"/>
         <source>Incompatible system configuration</source>
         <translation>Kompigurasyon ng sistema na hindi naayon</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1425"/>
+        <location filename="src/launcher/Application.cpp" line="1426"/>
         <source>Aborted</source>
         <translation>Pinigil</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1827"/>
+        <location filename="src/launcher/Application.cpp" line="1828"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>May nakitang lumang data mula sa %1, ngunit mayroon ka nang data para sa %2. Sa kasawiangpalad, kakailanganin mong ilipat ito ng sarili mo. Nais mo bang mapaalalahanan nang nakabinbing paglipat ng data sa susunod na magsimula ka sa %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1831"/>
+        <location filename="src/launcher/Application.cpp" line="1832"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Mukhang ginamit mo na ang %1 noon. Nais mo bang ilipat ang iyong data sa bagong lokasyon ng %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1837"/>
+        <location filename="src/launcher/Application.cpp" line="1838"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Mukhang ginamit mo na ang %1 sa %2 noon. Nais mo bang ilipat ang iyong data sa bagong lokasyon ng %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1880"/>
+        <location filename="src/launcher/Application.cpp" line="1881"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Nabigo ang pag lipat! Dahilan: %1</translation>
     </message>
@@ -4820,12 +4820,12 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
         <translation>Mga Folder</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="238"/>
         <source>I&amp;nstances:</source>
         <translation>Mga I&amp;nstansya:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="198"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Mods:</translation>
     </message>
@@ -4835,48 +4835,48 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
         <translation>Mga &amp;Icon:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="161"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Pag naka-enable ito, bilang karagdagan sa downloads folder, ang sub folders ay masesearch rin kapag naghahanap ng resources (hal. kapag naghahanap ng mga naka-block na mod sa CurseForge).</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="164"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Check downloads folder recursively</source>
         <translation>Suriin ang downloads folder nang paulit-ulit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
         <source>Disable automatic mod dependency management</source>
         <translation>I-disable ang awtomatikong dependency management</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="386"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="400"/>
         <source>User Interface</source>
         <translation>Interface ng Gumagamit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Instance view sorting mode</source>
         <translation>Instance view sorting mode</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="401"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="415"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
         <translation>&amp;Noong huling binuksan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="411"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
         <source>By &amp;name</source>
         <translation>Base sa &amp;pangalan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="424"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="438"/>
         <source>Theme</source>
         <translation>Tema</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
         <source>Mods</source>
         <translation>Mga Mod</translation>
     </message>
@@ -4902,11 +4902,11 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="128"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="203"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="210"/>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="217"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="241"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="231"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
         <source>Browse</source>
         <translation>Tingnan</translation>
     </message>
@@ -4916,162 +4916,172 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
         <translation>&amp;Mga Skins:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
+        <source>When enabled, it will move blocked resources instead of copying them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
+        <source>Move blocked resources</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
         <source>&amp;Java:</source>
         <translation>&amp;Java:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="257"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="271"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
         <translation>I-disable ang pag-gamit ng metadata na binibigay ng mod providers (hal. Modrinth o CurseForge) para sa mga mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="260"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="274"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
         <translation>I-disable ang paggamit ng metadata para sa mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="281"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Babala&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Ang pag-disable ng metadata ay magdidisable rin ng QOL features, tulad ng pag-update ng mods!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="277"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="291"/>
         <source>Disable the automatic detection, installation, and updating of mod dependencies.</source>
         <oldsource>Disable automatically checking and installation of mod dependencies.</oldsource>
         <translation>I-disable ang awtomatikong detection, installation, at pag-update ng mod dependencies.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="301"/>
         <source>When creating a new modpack instance, do not suggest updating existing instances instead.</source>
         <translation>Pag gagawa ng bagong modpack instance, wag mag suggest na mag update ng mga existing instances.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="304"/>
         <source>Skip modpack update prompt</source>
         <translation>I-skip ang modpack update prompt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="314"/>
         <source>Miscellaneous</source>
         <translation>Mga iba pa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="313"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
         <source>Number of concurrent tasks</source>
         <translation>Numero ng tasks na sabay-sabay</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="341"/>
         <source>Number of concurrent downloads</source>
         <translation>Numero ng downloads na sabay-sabay</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>Ilang segundong maghihintay bago i-terminate ang mga requests</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="351"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="365"/>
         <source>Timeout for HTTP requests</source>
         <translation>Timeout para sa HTTP requests</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="358"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
         <source>s</source>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
         <source>Number of manual retries</source>
         <translation>Numero ng manual na retry</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="436"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>Cat</source>
         <translation>Pusa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="442"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="456"/>
         <source>Set the cat&apos;s opacity. 0% is fully transparent and 100% is fully opaque.</source>
         <translation>I-set ang opacity ng pusa. 0% ay lubos ang transparency at 100% ay hindi transparent.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="445"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="459"/>
         <source>Opacity</source>
         <translation>Opacity</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="455"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="490"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="504"/>
         <source>Tools</source>
         <translation>Mga Kagamitan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="496"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="510"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>Ang menubar ay mas tugon sa pag-gamit ng keyboard.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="499"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>&amp;I-replace ang toolbar gamit ng menubar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="523"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="537"/>
         <source>Console</source>
         <translation>Console</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="529"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="543"/>
         <source>Console Settings</source>
         <translation>Pagsasaayos ng Console</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="535"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
         <translation>Ipakita ang console habang naglalaro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="542"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="556"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
         <translation>&amp;Kusang isara ang console kung sumara ang laro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="549"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="563"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
         <translation>Ipakita ang console pag nag-crash ang &amp;laro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="559"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="573"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>&amp;History limit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="565"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="579"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;Ihinto ang pag-log kapag umapaw ang log</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="578"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="592"/>
         <source> lines</source>
         <translation> mga linya</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="606"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="620"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>&amp;Font ng Console</translation>
@@ -5137,32 +5147,32 @@ Inirerekomenda ang pagbibigay ng %1 ng access dito gamit ng Flatseal.</translati
         <translation>Folder ng Skins</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="359"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
         <source>[Test/ERROR] OOoooOOOoooo! A spooky error!</source>
         <translation>[Test/ERROR] HaLaaaAaaaaaa!! May nangyari!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="361"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
         <source>[Test/ERROR] A spooky error!</source>
         <translation>[Test/ERROR] Hala! May nangyari!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
         <source>[Test/WARN] A not so spooky warning.</source>
         <translation>[Test/WARN] Sana di naman magbago ang pagtingin~</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="367"/>
         <source>[Test/DEBUG] A secret debugging message...</source>
         <translation>[Test/DEBUG] Sikretong malupit, pwede pabulong? Mapapadebug ka nang napaka-lutong...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="368"/>
         <source>[Test/FATAL] A terrifying fatal error!</source>
         <translation>[Test/FATAL] Ay! May fatal error!!!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="363"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="365"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] Mensahe lang po maamsir...</translation>
     </message>
@@ -6879,7 +6889,7 @@ Ma-uupdate lang ito gamit ng file sa format ng %1
 <context>
     <name>MinecraftLoadAndCheck</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="20"/>
+        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
         <translation>Pinigil</translation>
     </message>
@@ -8434,17 +8444,17 @@ Sigurado ka ba dito?</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="348"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
         <source>Aborted</source>
         <translation>Pinigil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="576"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="582"/>
         <source>Name</source>
         <translation>Pangalan</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="578"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="584"/>
         <source>Version</source>
         <translation>Bersyon</translation>
     </message>
@@ -9369,8 +9379,28 @@ Choose your name carefully:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="207"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
+        <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
+        <source>Couldn&apos;t open %1 for reading: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
+        <source>Couldn&apos;t parse %1 as json: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <source>Couldn&apos;t parse %1 : bad file format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12391,27 +12421,28 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="258"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="257"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="351"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="361"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="264"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="354"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <source>Error</source>
         <translation>Mali</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="264"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Hindi ma-load ang instance profile.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="283"/>
         <source>Confirm Removal</source>
         <translation>I-kumpirma ang pag-tanggal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="284"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -12419,77 +12450,77 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="296"/>
         <source>Couldn&apos;t remove file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
         <source>Select jar mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
         <source>Minecraft.jar mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="315"/>
         <source>Minecraft.jar replacement</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="340"/>
         <source>Java agents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="315"/>
         <source>Select jar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
         <source>Select components</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="325"/>
         <source>Components</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
         <source>Failed to import components</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="331"/>
         <source>Some components could not be imported. Check logs for details</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="340"/>
         <source>Select agents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Change %1 version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="430"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account.</source>
         <oldsource>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -12497,17 +12528,17 @@ Please add your Microsoft or Mojang account.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="507"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="510"/>
         <source>Error updating instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="567"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="570"/>
         <source>Confirm Reversion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="568"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="571"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
