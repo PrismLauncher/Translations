@@ -62,7 +62,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Huomautus: sinun tarvitsee vain maarittää tämä päästääksesi yksityisiin tietoihin. Lue &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentaatio&lt;/a&gt; Saadaksesi lisää tietoa.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Huomaa: Sinun tarvitsee asettaa ainoastaan tämä päästäksesi käsiksi yksityisiin tietoihin. Lisätietoja &lt;a href=&quot;https://docs.modrinth.com/api/#authentication&quot;&gt;dokumentaatiossa&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -78,17 +78,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Technic Client ID</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Huomaa: Sinun tarvitsee asettaa ainoastaan tämä päästäksesi käsiksi yksityisiin tietoihin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Syötä mukautettu GUID-muotoinen Technic-asiakastunnus tähän.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -758,7 +758,7 @@ Päivitä sekä käyttöjärjestelmä että %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaikki versiot</translation>
     </message>
 </context>
 <context>
@@ -782,7 +782,18 @@ Check the Prism Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tällä asennuksella on päivitysten lukitustiedosto sijainnissa: %1
+
+Aikaleima: %2
+Päivitetään versiosta %3 versioon %4
+Asennuksen kohdetiedostopolku: %5
+Tallennustietojen polku: %6
+Tämä todennäköisesti tarkoittaa, että päivitys epäonnistui. Varmista, että olemassaoleva asennuskerta toimii, ennen kuin jatkat.
+Tutki Prism Launcher -päivityslokia sijainnissa: 
+%7
+saadaksesi tarkempia tietoja viimeisimmästä päivitysyrityksestä.
+
+Poistaaksesi tämän lukituksen ja jatkaaksesi, valitse alempaa &quot;Sivuuta&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="964"/>
@@ -797,7 +808,12 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitysyritys epäonnistui
+
+Varmista, että olemassaoleva asennuskertasi on kunnossa, ennen kuin jatkat.
+Tutki Prism Launcher -päivityslokia sijainnissa: 
+%1
+saadaksesi tarkempia tietoja viimeisimmästä päivtysyrityksestä.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="996"/>
@@ -818,7 +834,12 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Päivitys onnistui
+
+Ajossa on nyt %1 .
+Tutki Prism Launcher -päivityslokia sijainnissa: 
+%2
+saadaksesi lisätietoja.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1028"/>
@@ -1655,12 +1676,12 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation type="unfinished">Julkaisut</translation>
+        <translation>Julkaisut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
         <source>Snapshots</source>
-        <translation type="unfinished">Vedokset</translation>
+        <translation>Vedokset</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -1669,23 +1690,23 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="91"/>
         <source>Betas</source>
-        <translation type="unfinished">Betat</translation>
+        <translation>Betat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation type="unfinished">Alfat</translation>
+        <translation>Alfat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
         <source>Experiments</source>
-        <translation type="unfinished">Kokeilut</translation>
+        <translation>Kokeilut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation type="unfinished">Päivitä</translation>
+        <translation>Päivitä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
@@ -1725,7 +1746,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="56"/>
         <source>Custom</source>
-        <translation type="unfinished">Mukautettu</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="117"/>
@@ -3385,7 +3406,7 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="56"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Tuo zip-arkistosta</translation>
+        <translation type="unfinished">Tuonti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="140"/>
@@ -7202,7 +7223,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="200"/>
         <source>Warnings</source>
-        <translation type="unfinished">Varoitukset</translation>
+        <translation>Varoitukset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
@@ -7217,7 +7238,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
         <source>Abort</source>
-        <translation type="unfinished">Keskeytä</translation>
+        <translation>Keskeytä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
@@ -7253,7 +7274,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="144"/>
@@ -7421,7 +7442,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="207"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Viritykset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="213"/>
@@ -10280,7 +10301,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="370"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Offline&gt;</translation>
     </message>
     <message>
         <source>Update failed!</source>
@@ -10538,7 +10559,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>unknown</source>
-        <translation type="unfinished">tuntematon</translation>
+        <translation>tuntematon</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="214"/>
@@ -10710,7 +10731,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="72"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="97"/>
@@ -10736,17 +10757,17 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="151"/>
         <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="160"/>
         <source>Warnings</source>
-        <translation type="unfinished">Varoitukset</translation>
+        <translation>Varoitukset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
         <source>Abort</source>
-        <translation type="unfinished">Keskeytä</translation>
+        <translation>Keskeytä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="167"/>
@@ -10778,7 +10799,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="459"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="463"/>
         <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="217"/>
@@ -10849,7 +10870,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="207"/>
         <source> by </source>
-        <translation type="unfinished"> tehnyt </translation>
+        <translation> tehnyt </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
@@ -10941,7 +10962,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished">resurssit</translation>
+        <translation>resurssit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="49"/>
@@ -11173,7 +11194,7 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -11245,7 +11266,7 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="224"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="243"/>
         <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="95"/>
@@ -11253,7 +11274,7 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="247"/>
         <source>Aborted</source>
-        <translation type="unfinished">Keskeytetty</translation>
+        <translation>Keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="95"/>
@@ -11267,14 +11288,14 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="180"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="253"/>
         <source>Warnings</source>
-        <translation type="unfinished">Varoitukset</translation>
+        <translation>Varoitukset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="111"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="263"/>
         <source>Abort</source>
-        <translation type="unfinished">Keskeytä</translation>
+        <translation>Keskeytä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
@@ -11996,7 +12017,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="221"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="240"/>
         <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="92"/>
@@ -12004,7 +12025,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="244"/>
         <source>Aborted</source>
-        <translation type="unfinished">Keskeytetty</translation>
+        <translation>Keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="92"/>
@@ -12018,14 +12039,14 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="177"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="250"/>
         <source>Warnings</source>
-        <translation type="unfinished">Varoitukset</translation>
+        <translation>Varoitukset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="108"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="187"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="260"/>
         <source>Abort</source>
-        <translation type="unfinished">Keskeytä</translation>
+        <translation>Keskeytä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
@@ -12703,7 +12724,7 @@ inheritsFrom puuttuu</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
@@ -12794,7 +12815,7 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="230"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="249"/>
         <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
@@ -12802,7 +12823,7 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="253"/>
         <source>Aborted</source>
-        <translation type="unfinished">Keskeytetty</translation>
+        <translation>Keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
@@ -12816,14 +12837,14 @@ Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen va
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="186"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="259"/>
         <source>Warnings</source>
-        <translation type="unfinished">Varoitukset</translation>
+        <translation>Varoitukset</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="117"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="196"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="269"/>
         <source>Abort</source>
-        <translation type="unfinished">Keskeytä</translation>
+        <translation>Keskeytä</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
@@ -13819,7 +13840,7 @@ Lisääthän Mojang- tai Minecraft-tilisi.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="36"/>
         <source>Search</source>
-        <translation type="unfinished">Hae</translation>
+        <translation>Hae</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="154"/>
@@ -13891,7 +13912,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="274"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tiedot</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="282"/>
