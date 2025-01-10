@@ -5626,12 +5626,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está activada, moverá los recursos bloqueados en lugar de copiarlos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
         <source>Move blocked resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover recursos bloqueados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
@@ -11163,17 +11163,17 @@ Deberías revisarlo de nuevo en caso de contener datos personales.
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo de componentes %1 no existe. Esto no debería ocurrir nunca.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo abrir %1 para lectura: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo parsear %1 como json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -11183,7 +11183,7 @@ Deberías revisarlo de nuevo en caso de contener datos personales.
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo parsear %1 : formato de archivo incorrecto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
