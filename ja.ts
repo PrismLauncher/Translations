@@ -5388,12 +5388,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>有効にすると、ブロックされたリソースをコピーではなく移動するようにします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
         <source>Move blocked resources</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックされたリソースを移動</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
@@ -8595,7 +8595,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">すでにインストールされている可能性があるため、このModは無効化されました。</translation>
+        <translation>すでにインストールされている可能性があるため、このModは無効化されました。</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
@@ -9905,7 +9905,7 @@ The updater cannot continue until you fix this problem.</source>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="590"/>
         <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation>FlatpackバージョンのPrism Launcherを実行している場合、アップデートが利用可能かどうかを確認する以外の機能は利用できません。</translation>
+        <translation>FlatpakバージョンのPrism Launcherを実行している場合、アップデートが利用可能かどうかを確認する以外の機能は利用できません。</translation>
     </message>
     <message>
         <source>Updating Not Supported</source>
@@ -10576,17 +10576,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>コンポーネントファイル %1 が存在しません。これは発生してはいけません。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を読み取る際にファイルが開けませんでした: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 をjsonとして解析できませんでした: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -10596,7 +10596,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を解析できませんでした: ファイル形式が不正です</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
