@@ -5645,12 +5645,12 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn aktiviert, werden geblockte Ressourcen bewegt statt kopiert.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
         <source>Move blocked resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Blockierte Ressourcen bewegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
@@ -9098,7 +9098,7 @@ Bitte aktualisiere %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod wurde deaktiviert, da es möglicherweise bereits installiert ist.</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -11218,17 +11218,17 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei %1 existiert nicht. Dies sollte nie passieren.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte nicht %1 zum Lesen öffnen: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte nicht %1 als json laden: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -11238,7 +11238,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte nicht %1 laden: ungültiges Dateiformat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
