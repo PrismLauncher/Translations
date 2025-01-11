@@ -5564,12 +5564,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 기능을 활성화하면 차단된 리소스를 복사하는 대신 이동합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
         <source>Move blocked resources</source>
-        <translation type="unfinished"></translation>
+        <translation>차단된 리소스 이동</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
@@ -11038,17 +11038,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>구성 요소 파일 %1이(가) 없습니다. 이런 일이 발생하여서는 안 됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을(를) 읽는 데 열 수 없음: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을(를) JSON으로 파싱할 수 없음: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -11058,7 +11058,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을(를) 파싱할 수 없음: 잘못된 파일 형식</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
@@ -11113,12 +11113,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="116"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation>버전 파일 %1을(를) 열 수 없습니다: %2.</translation>
+        <translation>버전 파일 %1을(를) 열 수 없음: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="134"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation>버전 파일 %1을(를) 처리할 수 없습니다: %3번째 줄의 %4열, %2.</translation>
+        <translation>버전 파일 %1을(를) 처리할 수 없음: %3줄 %4칸, %2.</translation>
     </message>
     <message>
         <source>Unable to process the version file %1.</source>
