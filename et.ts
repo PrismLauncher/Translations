@@ -3160,7 +3160,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtreeri</translation>
+        <translation type="vanished">Filtreeri</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5747,10 +5747,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
         <translation>Paigaldusmeetodit ei leitud!</translation>
-    </message>
-    <message>
-        <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8706,6 +8702,10 @@ Palun uuenda %1!</translation>
         <translation>Sobivat versiooni valitud modipakkuja(te)st ei leitud</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Uuenduste kontrollimine ebaõnnestus</translation>
     </message>
@@ -8723,7 +8723,7 @@ Palun uuenda %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod keelati, kuna see võib olla juba paigaldatud.</translation>
+        <translation type="vanished">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9112,7 +9112,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtreeri</translation>
+        <translation type="vanished">Filtreeri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12153,7 +12153,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
+        <translation type="obsolete">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
     </message>
 </context>
 <context>

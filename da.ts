@@ -3132,7 +3132,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation type="obsolete">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5674,10 +5674,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
         <translation>Ingen installationsmetode fundet!</translation>
-    </message>
-    <message>
-        <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8458,6 +8454,10 @@ Opdater venligst %1!</translation>
         <translation>Mod &apos;%1&apos; har endnu ikke metadata. Vi er nødt til at generere det for at spore relevante oplysninger om, hvordan du opdaterer denne mod. For at gøre dette skal du vælge en modudbyder, som vi kan bruge til at søge efter opdateringer til denne mod.</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Old version: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8495,10 +8495,6 @@ Opdater venligst %1!</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod was disabled as it may be already instaled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8812,7 +8808,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation type="obsolete">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11671,10 +11667,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod was disabled as it may be already instaled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

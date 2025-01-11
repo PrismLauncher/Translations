@@ -2927,7 +2927,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtre</translation>
+        <translation type="obsolete">Filtre</translation>
     </message>
 </context>
 <context>
@@ -5111,7 +5111,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Échec du déplacement du Minecraft unzipped !</translation>
+        <translation type="vanished">Échec du déplacement du Minecraft unzipped !</translation>
     </message>
 </context>
 <context>
@@ -7462,7 +7462,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mod was disabled as it may be already instaled.</source>
+        <source>Mod was disabled as it may be already installed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7790,7 +7790,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtre</translation>
+        <translation type="obsolete">Filtre</translation>
     </message>
 </context>
 <context>
@@ -10491,10 +10491,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod was disabled as it may be already instaled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

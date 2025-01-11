@@ -3248,7 +3248,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation>过滤器</translation>
+        <translation type="vanished">过滤器</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5952,7 +5952,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>移动解压后的 Minecraft 失败！</translation>
+        <translation type="vanished">移动解压后的 Minecraft 失败！</translation>
     </message>
 </context>
 <context>
@@ -9081,8 +9081,12 @@ Please update %1!</source>
         <translation>在所选 Mod 托管平台上找不到有效版本</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Mod 可能已安装，故禁用此项。</translation>
+    </message>
+    <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod 可能已安装，故禁用此项。</translation>
+        <translation type="vanished">Mod 可能已安装，故禁用此项。</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -9526,7 +9530,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation>过滤器</translation>
+        <translation type="vanished">过滤器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
@@ -12672,7 +12676,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod 可能已安装，故禁用此项。</translation>
+        <translation type="vanished">Mod 可能已安装，故禁用此项。</translation>
     </message>
 </context>
 <context>

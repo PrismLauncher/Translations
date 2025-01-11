@@ -2903,7 +2903,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtar</translation>
+        <translation type="vanished">Filtar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -5151,10 +5151,6 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to move unzipped Minecraft!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7495,7 +7491,7 @@ Stvarno želiš to učiniti?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mod was disabled as it may be already instaled.</source>
+        <source>Mod was disabled as it may be already installed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7834,7 +7830,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtar</translation>
+        <translation type="vanished">Filtar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -10550,10 +10546,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod was disabled as it may be already instaled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -3220,7 +3220,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation>Фільтр</translation>
+        <translation type="vanished">Фільтр</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5851,7 +5851,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Не вдалося перемістити розпакований Minecraft!</translation>
+        <translation type="vanished">Не вдалося перемістити розпакований Minecraft!</translation>
     </message>
 </context>
 <context>
@@ -8948,6 +8948,10 @@ Please update %1!</source>
         <translation>Не вдалося знайти необхідну версію в обраного надавача</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Мод було відключено, оскільки він вже може бути встановлений.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Не вдалося перевірити оновлення</translation>
     </message>
@@ -8965,7 +8969,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Мод було вимкнено, оскільки він може бути вже встановлений.</translation>
+        <translation type="vanished">Мод було вимкнено, оскільки він може бути вже встановлений.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9363,7 +9367,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation>Фільтр</translation>
+        <translation type="vanished">Фільтр</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12484,7 +12488,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Мод був відключений, оскільки він, можливо, вже встановлений.</translation>
+        <translation type="vanished">Мод був відключений, оскільки він, можливо, вже встановлений.</translation>
     </message>
 </context>
 <context>

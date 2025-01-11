@@ -3050,7 +3050,7 @@ Vennligst prøv på nytt.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -5498,7 +5498,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Kunne ikke pakke ut Minecraft!</translation>
+        <translation type="vanished">Kunne ikke pakke ut Minecraft!</translation>
     </message>
 </context>
 <context>
@@ -8165,7 +8165,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mod was disabled as it may be already instaled.</source>
+        <source>Mod was disabled as it may be already installed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8442,7 +8442,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation type="obsolete">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11286,10 +11286,6 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod was disabled as it may be already instaled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

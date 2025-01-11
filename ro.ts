@@ -3139,7 +3139,7 @@ Vă rugăm să încercați din nou.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtrează</translation>
+        <translation type="obsolete">Filtrează</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5740,10 +5740,6 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
         <translation>Nu s-a găsit nicio metodă de instalare!</translation>
-    </message>
-    <message>
-        <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8448,6 +8444,10 @@ Sunteți sigur/ă ca vreți sa faceți asta?</translation>
         <translation>Nu s-a putut găsi o versiune validă în furnizorul(ii) de moduri selectat(ți)</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Verificarea pentru actualizări a eșuat</translation>
     </message>
@@ -8465,7 +8465,7 @@ Sunteți sigur/ă ca vreți sa faceți asta?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
+        <translation type="vanished">Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -8791,7 +8791,7 @@ Te rugăm actualizează %1!</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtrează</translation>
+        <translation type="obsolete">Filtrează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11719,7 +11719,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
+        <translation type="obsolete">Mod-ul a fost dezactivat deoarece acesta poate fi deja instalat.</translation>
     </message>
 </context>
 <context>

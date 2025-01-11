@@ -3157,7 +3157,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtro</translation>
+        <translation type="vanished">Filtro</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5728,7 +5728,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>¡No se pudo mover Minecraft descomprimido!</translation>
+        <translation type="vanished">¡No se pudo mover Minecraft descomprimido!</translation>
     </message>
 </context>
 <context>
@@ -8553,6 +8553,10 @@ Are you sure?</source>
         <translation>No se pudo encontrar una versión válida en el proveedor de mods seleccionado</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Se ha deshabilitado el mod debido a que quizás ya está instalado.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Error al encontrar actualizaciones</translation>
     </message>
@@ -8570,7 +8574,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Se deshabilitó el mod ya que quizás ya está instalado.</translation>
+        <translation type="vanished">Se deshabilitó el mod ya que quizás ya está instalado.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -8925,7 +8929,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtro</translation>
+        <translation type="vanished">Filtro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11926,7 +11930,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>El mod ha sido deshabilitado, debido a que ya se encuentra instalado.</translation>
+        <translation type="vanished">El mod ha sido deshabilitado, debido a que ya se encuentra instalado.</translation>
     </message>
 </context>
 <context>

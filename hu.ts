@@ -3229,7 +3229,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Filter</source>
-        <translation>Szűrő</translation>
+        <translation type="vanished">Szűrő</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -5901,7 +5901,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Nem sikerült a kicsomagolt Minecraftot áthelyezni!</translation>
+        <translation type="vanished">Nem sikerült a kicsomagolt Minecraftot áthelyezni!</translation>
     </message>
 </context>
 <context>
@@ -8990,6 +8990,10 @@ Kérjük, frissítse a következőt: %1!</translation>
         <translation>Nem található érvényes verzió a kiválasztott modszolgáltató(k)on</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Nem sikerült ellenőrizni a frissítéseket</translation>
     </message>
@@ -9007,7 +9011,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
+        <translation type="vanished">A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9422,7 +9426,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Filter</source>
-        <translation>Szűrő</translation>
+        <translation type="vanished">Szűrő</translation>
     </message>
     <message>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
@@ -12561,7 +12565,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
+        <translation type="vanished">A mod le lett tiltva, mivel lehet, hogy már telepítve van.</translation>
     </message>
 </context>
 <context>

@@ -3164,7 +3164,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation>フィルター</translation>
+        <translation type="vanished">フィルター</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5712,7 +5712,7 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>展開したMinecraftの移動に失敗しました！</translation>
+        <translation type="vanished">展開したMinecraftの移動に失敗しました！</translation>
     </message>
 </context>
 <context>
@@ -8594,6 +8594,10 @@ Are you sure you want to do this?</source>
         <translation>選択されたMod提供元で有効なバージョンが見つかりませんでした</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">すでにインストールされている可能性があるため、このModは無効化されました。</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>アップデートの確認に失敗</translation>
     </message>
@@ -8611,7 +8615,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>すでにインストールされている可能性があるため、このModは無効化されました。</translation>
+        <translation type="vanished">すでにインストールされている可能性があるため、このModは無効化されました。</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -8977,7 +8981,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation>フィルター</translation>
+        <translation type="vanished">フィルター</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12049,7 +12053,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>すでにインストールされている可能性があるため、このModは無効化されました。</translation>
+        <translation type="vanished">すでにインストールされている可能性があるため、このModは無効化されました。</translation>
     </message>
 </context>
 <context>

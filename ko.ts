@@ -3237,7 +3237,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation>필터</translation>
+        <translation type="vanished">필터</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5896,7 +5896,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>압축 해제한 마인크래프트를 옮기지 못하였습니다!</translation>
+        <translation type="vanished">압축 해제한 마인크래프트를 옮기지 못하였습니다!</translation>
     </message>
 </context>
 <context>
@@ -8984,6 +8984,10 @@ Please update %1!</source>
         <translation>선택한 모드 제공자에서 유효한 버전을 찾을 수 없습니다</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>업데이트를 확인하지 못함</translation>
     </message>
@@ -9001,7 +9005,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
+        <translation type="vanished">이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9420,7 +9424,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation>필터</translation>
+        <translation type="vanished">필터</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12551,7 +12555,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
+        <translation type="vanished">이미 설치되어 있으므로 모드가 비활성화되었습니다.</translation>
     </message>
 </context>
 <context>

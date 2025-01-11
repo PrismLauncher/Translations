@@ -3231,7 +3231,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtr</translation>
+        <translation type="vanished">Filtr</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5939,7 +5939,7 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Nepodařilo se přesunout rozbalený Minecraft!</translation>
+        <translation type="vanished">Nepodařilo se přesunout rozbalený Minecraft!</translation>
     </message>
 </context>
 <context>
@@ -9065,8 +9065,12 @@ Aktualizujte prosím %1!</translation>
         <translation>Nepodařilo se najít platnou verzi u vybraných poskytovatelů modů</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
+    </message>
+    <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
+        <translation type="vanished">Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -9524,7 +9528,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtr</translation>
+        <translation type="vanished">Filtr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12655,7 +12659,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
+        <translation type="vanished">Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
     </message>
 </context>
 <context>

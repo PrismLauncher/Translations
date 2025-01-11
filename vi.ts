@@ -3161,7 +3161,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Filter</source>
-        <translation>Bộ lọc</translation>
+        <translation type="vanished">Bộ lọc</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5772,7 +5772,7 @@ Bạn nên cấp %1 quyền cho nó qua Flatseal.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Không thể di chuyển Minecraft đã giải nén!</translation>
+        <translation type="vanished">Không thể di chuyển Minecraft đã giải nén!</translation>
     </message>
 </context>
 <context>
@@ -8618,6 +8618,10 @@ Bạn có chắc không?</translation>
         <translation>Không thể tìm thấy phiên bản thích hợp từ nơi cung cấp mod đã được chọn</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Mod đã bị vô hiệu hóa, có thể do đã được cài đặt từ trước đó.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Thất bại khi kiểm tra phiên bản cập nhật</translation>
     </message>
@@ -8635,7 +8639,7 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod đã bị vô hiệu hóa, có thể do đã được cài đặt từ trước đó.</translation>
+        <translation type="vanished">Mod đã bị vô hiệu hóa, có thể do đã được cài đặt từ trước đó.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -8998,7 +9002,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Bộ lọc</translation>
+        <translation type="obsolete">Bộ lọc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12030,7 +12034,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Mod đã bị vô hiệu hóa, có thể do đã được cài đặt từ trước đó.</translation>
+        <translation type="obsolete">Mod đã bị vô hiệu hóa, có thể do đã được cài đặt từ trước đó.</translation>
     </message>
 </context>
 <context>

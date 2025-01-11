@@ -2993,7 +2993,7 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Tapis</translation>
+        <translation type="obsolete">Tapis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="82"/>
@@ -5325,10 +5325,6 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
         <translation>Tiada kaedah pemasangan ditemukan!</translation>
-    </message>
-    <message>
-        <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7776,7 +7772,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mod was disabled as it may be already instaled.</source>
+        <source>Mod was disabled as it may be already installed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8108,7 +8104,7 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Tapis</translation>
+        <translation type="obsolete">Tapis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -10923,10 +10919,6 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="54"/>
         <source>Toggle Dependencies</source>
         <translation>Togol Kebergantungan</translation>
-    </message>
-    <message>
-        <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

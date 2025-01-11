@@ -3192,7 +3192,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation type="obsolete">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5826,10 +5826,6 @@ Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</transl
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
         <translation>Geen installatiemethode gevonden!</translation>
-    </message>
-    <message>
-        <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8857,6 +8853,10 @@ Gelieve %1 bij te werken!</translation>
         <translation>Kon geen geldige versie vinden bij de geselecteerde mod-dienst(en)</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Kon niet op updates controleren</translation>
     </message>
@@ -8874,7 +8874,7 @@ Gelieve %1 bij te werken!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
+        <translation type="vanished">Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9289,7 +9289,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation type="obsolete">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12406,7 +12406,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
+        <translation type="obsolete">Mod is uitgeschakeld omdat deze misschien al is geïnstalleerd.</translation>
     </message>
 </context>
 <context>

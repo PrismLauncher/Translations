@@ -3237,7 +3237,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtra</translation>
+        <translation type="vanished">Filtra</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5902,7 +5902,7 @@ Concedere l&apos;accesso a %1 con Flatseal è raccomandato.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Impossibile spostare Minecraft estratto!</translation>
+        <translation type="vanished">Impossibile spostare Minecraft estratto!</translation>
     </message>
 </context>
 <context>
@@ -9009,6 +9009,10 @@ Aggiorna %1!</translation>
         <translation>Non è stato possibile trovare una versione valida sui mod provider selezionati</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Controllo aggioramenti fallito</translation>
     </message>
@@ -9026,7 +9030,7 @@ Aggiorna %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>La mod è stata disabilitata siccome potrebbe già essere installata.</translation>
+        <translation type="vanished">La mod è stata disabilitata siccome potrebbe già essere installata.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9442,7 +9446,7 @@ Questo è invalido nel formato del pacchetto.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtra</translation>
+        <translation type="vanished">Filtra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12565,7 +12569,7 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>La mod è stata disabilitata siccome potrebbe già essere installata.</translation>
+        <translation type="vanished">La mod è stata disabilitata siccome potrebbe già essere installata.</translation>
     </message>
 </context>
 <context>

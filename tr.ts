@@ -3240,7 +3240,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtre</translation>
+        <translation type="vanished">Filtre</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5926,7 +5926,7 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Ayıklanmış Minecraft klasörü taşınamadı!</translation>
+        <translation type="vanished">Ayıklanmış Minecraft klasörü taşınamadı!</translation>
     </message>
 </context>
 <context>
@@ -9030,6 +9030,10 @@ Lütfen %1 programını güncelleyin!</translation>
         <translation>Seçili mod sağlayıcı(ların)da geçerli bir sürüm bulunamadı</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Mod, zaten kurulu olma ihtimali olduğu için devre dışı bırakıldı.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Güncelleme denetlemesi başarısız</translation>
     </message>
@@ -9047,7 +9051,7 @@ Lütfen %1 programını güncelleyin!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod, zaten yüklenmiş olabileceğinden ötürü devre dışı bırakıldı.</translation>
+        <translation type="vanished">Mod, zaten yüklenmiş olabileceğinden ötürü devre dışı bırakıldı.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9461,7 +9465,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtre</translation>
+        <translation type="vanished">Filtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12592,7 +12596,7 @@ Emin misin?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod, zaten kurulu olma ihtimali olduğu için devre dışı bırakıldı.</translation>
+        <translation type="vanished">Mod, zaten kurulu olma ihtimali olduğu için devre dışı bırakıldı.</translation>
     </message>
 </context>
 <context>

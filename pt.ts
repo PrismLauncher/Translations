@@ -3176,7 +3176,7 @@ Por favor tenta de novo.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtro</translation>
+        <translation type="vanished">Filtro</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5776,10 +5776,6 @@ Garantindo %1 acesso a essa pasta por via de Flatseal é recomendado.</translati
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
         <translation>Nenhum método de instalação encontrado!</translation>
-    </message>
-    <message>
-        <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8674,6 +8670,10 @@ Tem certeza que quer fazer isto?</translation>
         <translation>Não foi possivel encontrar uma versão válida no(s) mod provider(s)</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Procura de atualizações falhou</translation>
     </message>
@@ -8691,7 +8691,7 @@ Tem certeza que quer fazer isto?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>O mod foi desativado pois pode já estar instalado.</translation>
+        <translation type="vanished">O mod foi desativado pois pode já estar instalado.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9029,7 +9029,7 @@ Por favor atualiza %1!</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtro</translation>
+        <translation type="vanished">Filtro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12119,7 +12119,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">O mod foi desativado pois pode já estar instalado.</translation>
+        <translation type="obsolete">O mod foi desativado pois pode já estar instalado.</translation>
     </message>
 </context>
 <context>

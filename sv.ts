@@ -3221,7 +3221,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5906,10 +5906,6 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="201"/>
         <source>No installation method found!</source>
         <translation>Ingen installeringsmetod hittad!</translation>
-    </message>
-    <message>
-        <source>Failed to move unzipped Minecraft!</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8926,6 +8922,10 @@ Vänligen uppdatera %1!</translation>
         <translation>Kunde inte hitta någon giltig version på vald(a) modleverantör(er)</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Moden inaktiverades eftersom den kanske redan är installerad.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Misslyckades med att söka efter uppdateringar</translation>
     </message>
@@ -8943,7 +8943,7 @@ Vänligen uppdatera %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Moden inaktiverades eftersom den kanske redan är installerad.</translation>
+        <translation type="vanished">Moden inaktiverades eftersom den kanske redan är installerad.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9343,7 +9343,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="19"/>
@@ -12464,7 +12464,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation type="unfinished">Moden inaktiverades eftersom den kanske redan är installerad.</translation>
+        <translation type="obsolete">Moden inaktiverades eftersom den kanske redan är installerad.</translation>
     </message>
 </context>
 <context>

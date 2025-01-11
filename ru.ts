@@ -3281,7 +3281,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation>Фильтр</translation>
+        <translation type="vanished">Фильтр</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5993,7 +5993,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Не удалось переместить распакованный Minecraft!</translation>
+        <translation type="vanished">Не удалось переместить распакованный Minecraft!</translation>
     </message>
 </context>
 <context>
@@ -9140,8 +9140,12 @@ Please update %1!</source>
         <translation>Не удалось найти допустимую версию у выбранного(-ых) поставщика(-ов) модов</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Мод был отключён, поскольку он уже может быть установлен.</translation>
+    </message>
+    <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Мод был отключён, так как возможно он уже установлен.</translation>
+        <translation type="vanished">Мод был отключён, так как возможно он уже установлен.</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -9602,7 +9606,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation>Фильтр</translation>
+        <translation type="vanished">Фильтр</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12766,7 +12770,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Мод был отключён, так как он, возможно, уже установлен.</translation>
+        <translation type="vanished">Мод был отключён, так как он, возможно, уже установлен.</translation>
     </message>
 </context>
 <context>

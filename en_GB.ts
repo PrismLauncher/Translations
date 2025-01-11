@@ -3277,7 +3277,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5961,7 +5961,7 @@ Granting %1 access to it via Flatseal is recommended.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Failed to move unzipped Minecraft!</translation>
+        <translation type="vanished">Failed to move unzipped Minecraft!</translation>
     </message>
 </context>
 <context>
@@ -9079,6 +9079,10 @@ Please update %1!</translation>
         <translation>Could not find a valid version on the selected mod provider(s)</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Mod was disabled as it may be already installed.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Failed to check for updates</translation>
     </message>
@@ -9096,7 +9100,7 @@ Please update %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod was disabled as it may be already installed.</translation>
+        <translation type="vanished">Mod was disabled as it may be already installed.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9529,7 +9533,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12690,7 +12694,7 @@ Are you sure?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod was disabled as it may be already installed.</translation>
+        <translation type="vanished">Mod was disabled as it may be already installed.</translation>
     </message>
 </context>
 <context>

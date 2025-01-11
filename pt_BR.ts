@@ -3277,7 +3277,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtrar</translation>
+        <translation type="vanished">Filtrar</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5971,7 +5971,7 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Falha ao mover o Minecraft descompactado!</translation>
+        <translation type="vanished">Falha ao mover o Minecraft descompactado!</translation>
     </message>
 </context>
 <context>
@@ -9103,6 +9103,10 @@ Por favor atualize o %1!</translation>
         <translation>Não foi possível encontrar uma versão válida no(s) provedor(es) de mod selecionado(s)</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">O mod foi desabilitado, pois ele pode já estar instalado.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Falha ao verificar atualizações</translation>
     </message>
@@ -9120,7 +9124,7 @@ Por favor atualize o %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>O mod foi desabilitado, pois ele pode já estar instalado.</translation>
+        <translation type="vanished">O mod foi desabilitado, pois ele pode já estar instalado.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9553,7 +9557,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtrar</translation>
+        <translation type="vanished">Filtrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12712,7 +12716,7 @@ Tem certeza?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>O mod foi desabilitado, pois ele pode já estar instalado.</translation>
+        <translation type="vanished">O mod foi desabilitado, pois ele pode já estar instalado.</translation>
     </message>
 </context>
 <context>

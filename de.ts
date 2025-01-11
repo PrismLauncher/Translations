@@ -3285,7 +3285,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5981,7 +5981,7 @@ Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Fehler beim verschieben vom entpackten Minecraft!</translation>
+        <translation type="vanished">Fehler beim verschieben vom entpackten Minecraft!</translation>
     </message>
 </context>
 <context>
@@ -9097,8 +9097,12 @@ Bitte aktualisiere %1!</translation>
         <translation>Konnte keine gültige Version auf dem/den ausgewählten Mod-Anbieter(n) finden</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
+        <translation type="vanished">Mod wurde deaktiviert, da diese möglicherweise schon installiert war.</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -9563,7 +9567,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filter</translation>
+        <translation type="vanished">Filter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12727,7 +12731,7 @@ Bist du sicher?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod wurde deaktiviert, da diese möglicherweise schon installiert ist.</translation>
+        <translation type="vanished">Mod wurde deaktiviert, da diese möglicherweise schon installiert ist.</translation>
     </message>
 </context>
 <context>

@@ -3277,7 +3277,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtr</translation>
+        <translation type="vanished">Filtr</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5985,7 +5985,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Nie udało się przenieść rozpakowanego Minecrafta!</translation>
+        <translation type="vanished">Nie udało się przenieść rozpakowanego Minecrafta!</translation>
     </message>
 </context>
 <context>
@@ -9124,6 +9124,10 @@ Proszę zaktualizować %1!</translation>
         <translation>Nie udało się znaleźć odpowiedniej wersji u wybranego dostawcy(ów) modyfikacji</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Nie udało się sprawdzić aktualizacji</translation>
     </message>
@@ -9141,7 +9145,7 @@ Proszę zaktualizować %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Modyfikacja została wyłączona, ponieważ może być już zainstalowana.</translation>
+        <translation type="vanished">Modyfikacja została wyłączona, ponieważ może być już zainstalowana.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -9570,7 +9574,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     </message>
     <message>
         <source>Filter</source>
-        <translation>Filtr</translation>
+        <translation type="vanished">Filtr</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -12742,7 +12746,7 @@ Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod został dezaktywowany , ponieważ może być już zainstalowany.</translation>
+        <translation type="vanished">Mod został dezaktywowany , ponieważ może być już zainstalowany.</translation>
     </message>
 </context>
 <context>

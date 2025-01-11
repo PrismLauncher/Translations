@@ -3160,7 +3160,7 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Penyaring</translation>
+        <translation type="vanished">Penyaring</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -5723,7 +5723,7 @@ Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     </message>
     <message>
         <source>Failed to move unzipped Minecraft!</source>
-        <translation>Gagal memindahkan berkas Minecraft yang belum dizip!</translation>
+        <translation type="vanished">Gagal memindahkan berkas Minecraft yang belum dizip!</translation>
     </message>
 </context>
 <context>
@@ -8604,6 +8604,10 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
         <translation>Tidak dapat memilih versi sesuai pada penyedia(-penyedia) mod terpilih</translation>
     </message>
     <message>
+        <source>Mod was disabled as it may be already installed.</source>
+        <translation type="unfinished">Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
+    </message>
+    <message>
         <source>Failed to check for updates</source>
         <translation>Gagal memeriksa pembaruan</translation>
     </message>
@@ -8621,7 +8625,7 @@ Apakah Anda yakin untuk melakukan hal ini?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
+        <translation type="vanished">Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -8963,7 +8967,7 @@ Mohon perbarui %1!</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Penyaring</translation>
+        <translation type="vanished">Penyaring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="76"/>
@@ -11987,7 +11991,7 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
-        <translation>Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
+        <translation type="vanished">Mod dinonaktifkan karena mungkin sudah terinstal.</translation>
     </message>
 </context>
 <context>
