@@ -9066,7 +9066,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">這個模組可能已安裝，因此已被停用。</translation>
+        <translation>這個模組可能已安裝，因此已被停用。</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
