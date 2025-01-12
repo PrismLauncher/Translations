@@ -9066,7 +9066,7 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
+        <translation>Mod byl zakázán, jelikož je již nejspíše nainstalován.</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
