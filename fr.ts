@@ -5613,12 +5613,12 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si activé, les ressources bloquées seront déplacées au lieu d&apos;être copiées.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
         <source>Move blocked resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer les ressources bloquées</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
@@ -9077,7 +9077,7 @@ Veuillez mettre à jour %1 !</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">Ce mod a été désactivé car il est peut être déjà installé.</translation>
+        <translation>Ce mod a été désactivé car il est peut être déjà installé.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
@@ -11153,32 +11153,32 @@ Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnell
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation>Le nom de la bibliothèque %1 est cassé et ne peut être traité.</translation>
+        <translation>Le nom de la bibliothèque %1 est cassé et ne peut pas être traité.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier de composants %1 n&apos;existe pas. Cela ne devrait jamais arriver.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne pouvait pas ouvrir %1 pour la lecture&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne pouvait pas analyser %1 entant que json&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
         <source>Invalid component file version, expected %1</source>
-        <translation>Ficher de l&apos;ordre non valide, %1 attendu</translation>
+        <translation>Fichier de l&apos;ordre non valide, %1 attendu</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne pouvait pas analyser %1&#xa0;: mauvais format de fichier</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
