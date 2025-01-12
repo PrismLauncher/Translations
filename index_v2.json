@@ -606,16 +606,16 @@
             "file" : "bab21a5ff4c11e4ec07cdf2ed8a083d60f5bbf27.class",
             "sha1" : "bab21a5ff4c11e4ec07cdf2ed8a083d60f5bbf27",
             "size" : 231758,
-            "translated" : 2255,
-            "fuzzy" : 1,
+            "translated" : 2256,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "zh_TW" : {
             "file" : "24bc78bdc8f7f17315c8c37ffd54b34cb076677f.class",
             "sha1" : "24bc78bdc8f7f17315c8c37ffd54b34cb076677f",
             "size" : 232742,
-            "translated" : 2255,
-            "fuzzy" : 1,
+            "translated" : 2256,
+            "fuzzy" : 0,
             "untranslated" : 0
         }
     }
