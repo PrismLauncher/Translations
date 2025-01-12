@@ -9082,7 +9082,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">Mod 可能已安装，故禁用此项。</translation>
+        <translation>Mod 可能已安装，故禁用此项。</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
