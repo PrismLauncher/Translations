@@ -9098,7 +9098,7 @@ Bitte aktualisiere %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation>Mod wurde deaktiviert, da es möglicherweise bereits installiert ist.</translation>
+        <translation>Mod wurde deaktiviert, da sie möglicherweise bereits installiert ist.</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already instaled.</source>
@@ -11218,17 +11218,17 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation>Datei %1 existiert nicht. Dies sollte nie passieren.</translation>
+        <translation>Komponenten-Datei %1 existiert nicht. Dies sollte nie passieren.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation>Konnte nicht %1 zum Lesen öffnen: %2</translation>
+        <translation>Konnte %1 nicht zum Lesen öffnen: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation>Konnte nicht %1 als json laden: %2</translation>
+        <translation>Konnte %1 nicht als json laden: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -11238,7 +11238,7 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation>Konnte nicht %1 laden: ungültiges Dateiformat</translation>
+        <translation>Konnte %1 nicht laden: ungültiges Dateiformat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
