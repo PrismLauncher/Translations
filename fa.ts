@@ -67,7 +67,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>یک شناسه کلاینت سفارشی برای احراز هویت Modrinth در اینجا وارد کنید.</translation>
+        <translation>یک شناسه کلاینت سفارشی برای احراز هویت مودرینث در اینجا وارد کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="239"/>
@@ -83,22 +83,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;توجه:شما فقط نیاز است این را تنظیم کنید تا به داده های شخصی دسترسی پیدا کنید&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>[X0X &lt;head/&gt;&lt;body&gt;&lt;p&gt; توجه: شما فقط باید این را برای دسترسی به داده های خصوصی تنظیم کنید</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation>در اینجا یک شناسه مشتری GUID برای Technic وارد کنید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
         <source>Miscellaneous</source>
-        <translation>متفرقه</translation>
+        <translation>متنوع</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="350"/>
         <source>User Agent</source>
-        <translation>عامل کاریر</translation>
+        <translation>کاربر</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="359"/>
