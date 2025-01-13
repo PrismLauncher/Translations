@@ -5590,12 +5590,12 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktif edildiğinde, engellenmiş kaynakları kopyalamak yerine taşıyacaktır.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
         <source>Move blocked resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Engellenmiş kaynakları taşı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
@@ -9031,7 +9031,7 @@ Lütfen %1 programını güncelleyin!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">Mod, zaten kurulu olma ihtimali olduğu için devre dışı bırakıldı.</translation>
+        <translation>Mod, zaten kurulu olma ihtimali olduğu için devre dışı bırakıldı.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
