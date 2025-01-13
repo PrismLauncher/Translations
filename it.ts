@@ -1218,7 +1218,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
         <source>No compatible Java version was found. Using the default one.</source>
-        <translation>Non è stata trovata nessuna versione di Java compatibile. Usando quella predefinita</translation>
+        <translation>Non è stata trovata nessuna versione di Java compatibile. Sto usando quella predefinita.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
@@ -2824,7 +2824,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/import_ftb/ImportFTBPage.ui" line="22"/>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
-        <translation>Nota: Se le istanze di FTB non si trovano nella posizione predefinita, selezionatela utilizzando il pulsante accanto alla ricerca.</translation>
+        <translation>Nota: Se le tue istanze FTB non si trovano nella posizione predefinita, selezionale usando il pulsante accanto a Ricerca.</translation>
     </message>
 </context>
 <context>
@@ -4881,6 +4881,7 @@ You can change the Java version in the settings later.
 </source>
         <translation>Hai selezionato un&apos; installazione di Java a 32 bit, ma hai allocato più di 2048MiB come memoria massima.
 %1 non sarà in grado di avviare Minecraft.
+Vuoi continuare?
 
 Puoi cambiare la versione di Java nelle impostazioni più tardi.
 </translation>
@@ -5570,12 +5571,12 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando abilitato, muove le risorse bloccate invece di copiarle.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
         <source>Move blocked resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Muovi le risorse bloccate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
@@ -9010,7 +9011,7 @@ Aggiorna %1!</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La mod è stata disabilitata poichè potrebbe essere già installata.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
@@ -9289,8 +9290,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="266"/>
         <source>The file &apos;%1&apos; is missing a download link. This is invalid in the pack format.</source>
-        <translation>Il file &apos;%1&apos; non ha un link di download.
-Questo è invalido nel formato del pacchetto.</translation>
+        <translation>Il file &apos;%1&apos; non ha un link di download. Questo è invalido nel formato del pacchetto.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="296"/>
@@ -11060,17 +11060,17 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file componente %1 non esiste. Questo non dovrebbe mai accadere.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è possibile aprire %1 in lettura: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è possibile interpretare %1 come un json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -11080,7 +11080,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è possibile interpretare %1 : formato file non valido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
