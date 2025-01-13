@@ -1207,7 +1207,7 @@ Some versions of Minecraft may not launch.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation>Ваша система (%1-%2) не сумісна з автоматичним встановленням Java. Використання шляху до Java за замовчуванням.</translation>
+        <translation>Ваша система (%1-%2) не сумісна з автоматичним встановленням Java. Буде використано шлях до Java за замовчуванням.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
@@ -3831,7 +3831,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="261"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Архів не містить розпізнаний тип збірки.</translation>
+        <translation>Архів не містить жодного розпізнаного типу збірки.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -5527,12 +5527,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="173"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Якщо увімкнено, заблоковані ресурси буде переміщено, а не скопійовано.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="176"/>
         <source>Move blocked resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемістити заблоковані ресурси</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
@@ -8949,7 +8949,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
-        <translation type="unfinished">Мод було відключено, оскільки він вже може бути встановлений.</translation>
+        <translation>Мод було відключено, оскільки він вже може бути встановлений.</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
@@ -10983,17 +10983,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="183"/>
         <source>Components file %1 doesn&apos;t exist. This should never happen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл компонентів %1 не існує. Такого ніколи не повинно статися.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="188"/>
         <source>Couldn&apos;t open %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося відкрити %1 для читання: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Couldn&apos;t parse %1 as json: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося перетворити %1 в json: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="210"/>
@@ -11003,7 +11003,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Couldn&apos;t parse %1 : bad file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося проаналізувати %1: поганий формат файлу</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="122"/>
