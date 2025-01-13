@@ -83,12 +83,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Noto: vi nur bezonas seti tion ĉi por atingi privatajn datumojn.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Enigu personecigitan GUID klientan ID por Technic ĉi tie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -766,7 +766,7 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ĉiuj versioj</translation>
     </message>
 </context>
 <context>
@@ -816,12 +816,17 @@ Please ensure your installation is in working order before proceeding.
 Check the Prism Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Provo de ĝisdatigo malsukcesis.
+
+Bonvolu certigi vian instaladon estas en funkciado antaŭ daŭrigi.
+Kontrolu la Prism Launcher ĝisdatigor-registron ĉe:&#xa0;
+%1
+por pli detaloj de la antaŭa provo de ĝisdatigo.</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="996"/>
         <source>Update Failed</source>
-        <translation>Ĝisdatigo Malsukcesa</translation>
+        <translation>Ĝisdatigo Malsukcesis</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1020"/>
@@ -847,7 +852,7 @@ por detaloj.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1028"/>
         <source>Update Succeeded</source>
-        <translation>Ĝisdatigita Succeed</translation>
+        <translation>Ĝisdatigo Sukcesis</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1060"/>
