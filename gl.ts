@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Servicio Pastebin</translation>
+        <translation type="unfinished">Servicio Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
@@ -62,7 +62,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: Só necesitas poñer isto para acceder á información privada. Le a &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentación&lt;/a&gt; para mais información.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: Só necesitas poñer isto para acceder á información privada. Le a &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentación&lt;/a&gt; para mais información.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="220"/>
@@ -78,17 +78,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="294"/>
         <source>Technic Client ID</source>
-        <translation type="unfinished">ID Cliente Technic</translation>
+        <translation>ID Cliente Technic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="300"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: Só necesitas poñer esto para acceder a datos privados.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nota: Só necesitas poñer esto para acceder a datos privados.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="314"/>
         <source>Enter a custom GUID client ID for Technic here.</source>
-        <translation type="unfinished">Inserte unha GUID persoalizada de ID de cliente para Technic aquí.</translation>
+        <translation>Inserte unha GUID persoalizada de ID de cliente para Technic aquí.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="338"/>
@@ -413,7 +413,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
         <source>Unknown</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Descoñecido</translation>
+        <translation>Descoñecido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="304"/>
@@ -587,12 +587,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>
         <source>&amp;Manage Skins</source>
-        <translation type="unfinished">&amp;Configuración de Skins</translation>
+        <translation>&amp;Configuración de Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation type="unfinished">Configuración de Skins</translation>
+        <translation>Configuración de Skins</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -753,7 +753,7 @@ Se eres novo/a aquí, podes seleccionar o botón &quot;Engadir Microsoft&quot; p
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="89"/>
         <source>All Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as versións</translation>
     </message>
 </context>
 <context>
@@ -848,7 +848,7 @@ Some versions of Minecraft may not launch.
 
 You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the java.io.tmpdir JVM argument to a writeable directory in a filesystem where the &apos;exec&apos; flag is set (e.g., /home/user/.local/tmp)
 </source>
-        <translation type="unfinished">O directorio /tmp está actualmente montado coa opción &apos;noexec&apos; activada
+        <translation>O directorio /tmp está actualmente montado coa opción &apos;noexec&apos; activada
 Algunhas versións de Minecraft poden non funcionar.
 
 Podes arranxar isto remontando /tmp como &apos;exec&apos; ou poñendo o argumento de JVM java.io.tmpdir a un directorio onde se pode escribir e onde a opción &apos;exec&apos; está activada (p.ex., /home/user/.local/tmp)
@@ -1024,7 +1024,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
         <source>Select a share code</source>
-        <translation type="unfinished">Selecciona un share code</translation>
+        <translation>Selecciona un share code</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="342"/>
@@ -1066,7 +1066,7 @@ Algunhas versións de Minecraft pode que non se executen.
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="35"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Buscar e filtrar...</translation>
+        <translation>Buscar e filtrar...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1094,7 +1094,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="60"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Non hai versións dispoñibles para Minecraft %1 actualmente.</translation>
+        <translation>Agora mesmo non hai versións dispoñibles para Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="62"/>
@@ -1147,7 +1147,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="114"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">A ID do cliente foi cambiada. Unha nova sesión precisa de ser creada.</translation>
+        <translation>A ID do cliente foi cambiada. Unha nova sesión precisa de ser creada.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AuthFlow.cpp" line="121"/>
@@ -1180,7 +1180,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="79"/>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
-        <translation type="unfinished">O mecanismo de Java automático detectou unha instalación de Java de 32 bits.</translation>
+        <translation>O mecanismo de Java automático detectou unha instalación de Java de 32 bits.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="85"/>
@@ -1190,12 +1190,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="96"/>
         <source>Your system (%1-%2) is not compatible with automatic Java installation. Using the default Java path.</source>
-        <translation type="unfinished">Teu sistema (%1-%2) non é compatible coa instalación automática de Java. Usando a ruta de Java por defecto.</translation>
+        <translation>Teu sistema (%1-%2) non é compatible coa instalación automática de Java. Usando a ruta de Java por defecto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="104"/>
         <source>Your meta information is out of date or doesn&apos;t have the information necessary to determine what installation of Java should be used. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>A túa información meta está obsoleta ou non ten a información necesaria para deteminar que instalación de Java debería ser empregada. Usando a ruta de Java predeterminada.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="137"/>
@@ -1210,7 +1210,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="176"/>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Non se puido determinar o tipo de descarga de Java!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="180"/>
@@ -1225,7 +1225,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/launch/AutoInstallJava.cpp" line="216"/>
         <source>No compatible version of Java was found. Using the default one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non se atopou unha versión de Java compatible. Usando a versión predeterminada.</translation>
     </message>
 </context>
 <context>
@@ -1233,28 +1233,28 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Alerta de nova característica!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="33"/>
         <source>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft (this can be changed in the Java Settings). Would you like to enable or disable this feature?</source>
         <oldsource>We&apos;ve added a feature to automatically download the correct Java version for each version of Minecraft(this can be changed in the Java Settings). Would you like to enable or disable this feature?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Engadimos unha característica para descargar automáticamente a versión de Java correcta para cada versión de Minecraft (Isto pode ser cambiado nos Axustes de Java). Gustaríache habilitar ou deshabilitar esta característica?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="50"/>
         <source>Enable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar Auto-Descarga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshabilitar Auto-Descarga</translation>
     </message>
 </context>
 <context>
@@ -1285,12 +1285,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="54"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -1636,17 +1636,17 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="112"/>
         <source>Help</source>
-        <translation type="unfinished">Axuda</translation>
+        <translation>Axuda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="114"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1654,7 +1654,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="81"/>
         <source>Core mods</source>
-        <translation type="unfinished">Mods centrais</translation>
+        <translation>Mods centrais</translation>
     </message>
 </context>
 <context>
@@ -1677,7 +1677,7 @@ Algunhas versións de Minecraft pode que non se executen.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished">Tarefas posteriores á saída:</translation>
+        <translation>Tarefas posteriores á saída:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
@@ -1695,7 +1695,7 @@ Algunhas versións de Minecraft pode que non se executen.
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Os comandos de pre-lanzamento execútanse antes da instancia, e os commandos de post-saída despois de que se cerrase.&lt;/p&gt;&lt;p&gt;Ambos serán executados na carpeta de traballo do lanzador con variables ambientales añadidas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nome da instancia&lt;/li&gt;&lt;li&gt;$INST_ID - ID da instancia (o nome da carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - Ruta absoluta da instancia&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Ruta absoluta de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Binario de java usado para o lanzamento&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Parámetros de línea de comando empregados para o lanzamento (advertencia: non funcionará correctamente se os argumentos conteñen espacios.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Un comando de envoltura (Wrapper Command) deixa lanzar empregando un programa de envoltura extra (como &apos;optirun&apos; en Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1711,12 +1711,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="58"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="68"/>
         <source>Releases</source>
-        <translation type="unfinished">Versións Publicadas</translation>
+        <translation>Versións Publicadas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="81"/>
@@ -1735,7 +1735,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="101"/>
         <source>Alphas</source>
-        <translation type="unfinished">Versións Alpha</translation>
+        <translation>Versións Alpha</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="111"/>
@@ -1746,7 +1746,7 @@ Algunhas versións de Minecraft pode que non se executen.
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="134"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="258"/>
         <source>Refresh</source>
-        <translation type="unfinished">Refrescar</translation>
+        <translation>Refrescar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="172"/>
@@ -1870,34 +1870,34 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.cpp" line="33"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>EnsureMetadataTask</name>
     <message>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished">Comprobando se os mods conteñen metadatos...</translation>
+        <translation>Comprobando se os mods conteñen metadatos...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="91"/>
         <source>Checking if resources have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando se os recursos teñen metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="168"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished">Solicitando información de metadatos dende %1...</translation>
+        <translation>Solicitando información de metadatos dende %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="170"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished">Solicitando información de metadatos dende %1 para &apos;%2&apos;...</translation>
+        <translation>Solicitando información de metadatos dende %1 para &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="249"/>
@@ -1917,7 +1917,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="21"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished">Determinando propiedade do xogo...</translation>
+        <translation>Determinando propiedade do xogo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="56"/>
@@ -1930,7 +1930,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="32"/>
@@ -1940,12 +1940,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="60"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="65"/>
         <source>Value</source>
-        <translation type="unfinished">Valor</translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="75"/>
@@ -1955,7 +1955,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="82"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Eliminar</translation>
+        <translation>&amp;Eliminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="89"/>
@@ -1968,7 +1968,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/global/EnvironmentVariablesPage.cpp" line="44"/>
         <source>Environment Variables</source>
-        <translation type="unfinished">Variables do Entorno</translation>
+        <translation>Variables do Entorno</translation>
     </message>
 </context>
 <context>
@@ -1994,12 +1994,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="90"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="91"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="148"/>
@@ -2015,7 +2015,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="160"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
 </context>
 <context>
@@ -2051,7 +2051,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>&amp;Summary</source>
-        <translation type="unfinished">&amp;Resumo</translation>
+        <translation>&amp;Resumo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="26"/>
@@ -2091,7 +2091,7 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="49"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished">Exportar paquete de Modrinth</translation>
+        <translation>Exportar paquete de Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="56"/>
@@ -2106,33 +2106,33 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="108"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="134"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="141"/>
         <source>Export %1</source>
-        <translation type="unfinished">Exportar %1</translation>
+        <translation>Exportar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="135"/>
         <source>Modrinth pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquete de Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="142"/>
         <source>CurseForge pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquete de CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="159"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="161"/>
@@ -2142,12 +2142,12 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="161"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tarefa foi abortada polo usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="167"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
 </context>
 <context>
@@ -2155,116 +2155,116 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar Pack a Modlist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Configuración</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Plaintext</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="71"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="96"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Información opcional</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="102"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="130"/>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="109"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="116"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="144"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="123"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="151"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Filename</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="170"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="180"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="209"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto depende na metadata dos mods. Para asegurar que está dispoñible, executa unha actualización na instancia. Instalar as actualizacións non é necesario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="223"/>
         <source>Copy</source>
-        <translation type="unfinished">Copiar</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gardar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="165"/>
         <source>Export %1</source>
-        <translation type="unfinished">Exportar %1</translation>
+        <translation>Exportar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.cpp" line="166"/>
         <source>File</source>
-        <translation type="unfinished">Ficheiro</translation>
+        <translation>Ficheiro</translation>
     </message>
 </context>
 <context>
@@ -2272,24 +2272,24 @@ Algunhas versións de Minecraft pode que non se executen.
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filtro:</translation>
+        <translation>Filtro:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="74"/>
         <source>Actions</source>
-        <translation type="unfinished">Accións</translation>
+        <translation>Accións</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">Eng&amp;adir</translation>
+        <translation>&amp;Engadir</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Engadir</translation>
     </message>
     <message>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar ítem seleccionado</translation>
     </message>
     <message>
         <source>Enable selected item</source>
@@ -2657,7 +2657,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="72"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="88"/>
@@ -3437,7 +3437,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="175"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="210"/>
@@ -4355,7 +4355,7 @@ Please make sure that the maximum memory value is lower.</source>
     <message>
         <location filename="src/launcher/ui/java/InstallJavaDialog.cpp" line="332"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
 </context>
 <context>
@@ -4987,7 +4987,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="458"/>
         <source>Abort</source>
-        <translation>Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="471"/>
@@ -5600,12 +5600,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tarefa abortada</translation>
+        <translation>Tarefa abortada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="213"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tarefa foi abortada polo usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="223"/>
@@ -5709,7 +5709,7 @@ Debería eliminarse agora?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="31"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>Jar inválido especificado nos metadatos. Cancelando.</translation>
+        <translation>Jar inválido especificado nos metadatos. Abortando.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="59"/>
@@ -5727,7 +5727,7 @@ Tes que arranxar o problema manualmente.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="67"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="81"/>
@@ -5996,7 +5996,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="155"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tarefa abortada</translation>
+        <translation>Tarefa abortada</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSADeviceCodeStep.cpp" line="261"/>
@@ -6824,19 +6824,19 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tarefa abortada</translation>
+        <translation>Tarefa abortada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="842"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tarefa foi abortada polo usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="846"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="973"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="962"/>
@@ -7150,17 +7150,17 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tarefa abortada</translation>
+        <translation>Tarefa abortada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="203"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tarefa foi abortada polo usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="208"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="216"/>
@@ -7227,7 +7227,7 @@ This can be updated only using a file in %1 format
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="127"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="142"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
 </context>
 <context>
@@ -7325,7 +7325,7 @@ This can be updated only using a file in %1 format
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
 </context>
 <context>
@@ -7958,7 +7958,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="240"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="312"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -7979,7 +7979,7 @@ Are you sure you want to do this?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="256"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="328"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
@@ -8005,7 +8005,7 @@ Are you sure you want to do this?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>O actualizador de mods foi abortado!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="226"/>
@@ -8190,7 +8190,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -8673,7 +8673,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="119"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallouse ao abortar todas as tarefas no NetJob!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="145"/>
@@ -9052,7 +9052,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="354"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="582"/>
@@ -9524,12 +9524,12 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
         <source>Update Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización abortada</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
         <source>The update attempt was aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>O intento de actualización foi abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1038"/>
@@ -10596,7 +10596,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="166"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="167"/>
@@ -10644,7 +10644,7 @@ Are you sure you want to close this dialog?</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="246"/>
         <source>The request was aborted for an unknown reason</source>
         <oldsource>The request was abborted for an unknown reason</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>A petición foi abortada por unha razón descoñecida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="459"/>
@@ -11089,7 +11089,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="174"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="247"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="95"/>
@@ -11110,7 +11110,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="190"/>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="263"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="125"/>
@@ -11133,7 +11133,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="151"/>
         <source>The resource pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>O actualizador de paquetes de recursos foi abortado!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="155"/>
@@ -11245,7 +11245,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="216"/>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="371"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceUpdateDialog.cpp" line="127"/>
@@ -11515,19 +11515,19 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="392"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>Screenshots upload aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Subida de capturas de pantalla abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="445"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tarefa foi abortada polo usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
@@ -11822,7 +11822,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="171"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="244"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="92"/>
@@ -11843,7 +11843,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="187"/>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="260"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="122"/>
@@ -11866,7 +11866,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="148"/>
         <source>The shader pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>O actualizador de packs de shaders foi abortado!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="152"/>
@@ -12284,7 +12284,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="22"/>
         <source>Task aborted.</source>
-        <translation type="unfinished">Tarefa cancelada.</translation>
+        <translation>Tarefa abortada.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/TaskStepWrapper.cpp" line="44"/>
@@ -12333,7 +12333,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="135"/>
         <source>Instance import has been aborted.</source>
-        <translation>Cancelouse a importación da instancia.</translation>
+        <translation>Abortouse a importación da instancia.</translation>
     </message>
 </context>
 <context>
@@ -12394,7 +12394,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="217"/>
         <source>Instance import has been aborted.</source>
-        <translation>Cancelouse a importación da instancia.</translation>
+        <translation>Abortouse a importación da instancia.</translation>
     </message>
 </context>
 <context>
@@ -12608,7 +12608,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="180"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="253"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
@@ -12629,7 +12629,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="196"/>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="269"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="131"/>
@@ -12652,7 +12652,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="157"/>
         <source>The texture pack updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>O actualizador de paquetes de recursos foi abortado!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="161"/>
